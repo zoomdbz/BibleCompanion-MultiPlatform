@@ -109,10 +109,25 @@ class ReleaseOptimizationContracts(unittest.TestCase):
             "version = DisableCacheInKotlinVersion.`" + kotlin_version.replace(".", "_") + "`",
             frameworks,
         )
-        for library in ("Navigation", "Reorderable", "extended icons"):
+        for library in ("Reorderable", "extended icons"):
             self.assertIn(library, frameworks)
         properties = (ROOT / "gradle.properties").read_text(encoding="utf-8")
         self.assertNotIn("kotlin.native.cacheKind", properties)
+
+    def test_navigation_matches_compose_and_rejects_unlinked_apple_archives(self):
+        shared = (ROOT / "shared/build.gradle.kts").read_text(encoding="utf-8")
+        navigation = re.findall(
+            r'implementation\("org\.jetbrains\.androidx\.navigation:navigation-compose:([^\"]+)"\)',
+            shared,
+        )
+        # 2.9.2 declares Compose 1.9.3, Lifecycle 2.9.6, and SavedState 1.3.6.
+        # The previous alpha called removed APIs and crashed at the first NavHost.
+        self.assertEqual(["2.9.2"], navigation)
+        frameworks = shared.split("target.binaries.framework {", 1)[1].split("sourceSets {", 1)[0]
+        # NativeBinary.freeCompilerArgs is List<String>, not a ListProperty.
+        self.assertIn('freeCompilerArgs += "-Xpartial-linkage-loglevel=ERROR"', frameworks)
+        self.assertNotIn("-Xpartial-linkage=disable", shared)
+        self.assertNotIn("-Xpartial-linkage-loglevel=INFO", shared)
 
     def test_release_enables_code_and_resource_optimization_without_minifying_debug(self):
         text = (ROOT / "app/build.gradle.kts").read_text(encoding="utf-8")

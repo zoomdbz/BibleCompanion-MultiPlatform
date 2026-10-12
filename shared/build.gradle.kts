@@ -42,11 +42,13 @@ kotlin {
     target.binaries.framework {
       baseName = "shared"
       isStatic = true
-      // These existing Compose libraries predate Kotlin 2.1. Keep their APIs
-      // unchanged while using Compose 1.9's documented native-cache workaround.
+      // Unresolved native symbols must fail the build, not crash at launch.
+      freeCompilerArgs += "-Xpartial-linkage-loglevel=ERROR"
+      // Reorderable and extended icons still predate Kotlin 2.1. Keep Compose
+      // 1.9's native-cache workaround for those libraries, not for Navigation.
       disableNativeCache(
         version = DisableCacheInKotlinVersion.`2_3_20`,
-        reason = "Navigation, Reorderable and extended icons use pre-Kotlin 2.1 Compose libraries."
+        reason = "Reorderable and extended icons use pre-Kotlin 2.1 Compose libraries."
       )
     }
   }
@@ -58,7 +60,8 @@ kotlin {
       implementation(compose.material3)
       implementation(compose.materialIconsExtended)
       implementation(compose.components.resources)
-      implementation("org.jetbrains.androidx.navigation:navigation-compose:2.8.0-alpha10")
+      // Align Navigation's Lifecycle and SavedState APIs with Compose 1.9.3.
+      implementation("org.jetbrains.androidx.navigation:navigation-compose:2.9.2")
       implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.7.3")
       implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.9.0")
       implementation("sh.calvin.reorderable:reorderable:2.4.0")

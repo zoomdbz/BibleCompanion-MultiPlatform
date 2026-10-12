@@ -180,6 +180,8 @@ import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.navigation
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
+import androidx.savedstate.SavedState
+import androidx.savedstate.read
 import com.dividesbyzer0.biblecompanion.platform.LocalPlatformContext
 import com.dividesbyzer0.biblecompanion.platform.readAssetText
 import com.dividesbyzer0.biblecompanion.platform.platformAppBuild
@@ -229,6 +231,14 @@ import org.jetbrains.compose.resources.painterResource
 import org.jetbrains.compose.resources.stringResource
 
 // --------------- App Root ----------------
+
+/**
+ * Navigation 2.9 exposes route arguments through SavedState. The nullable
+ * reader preserves the old Bundle.getString behavior for
+ * absent, explicit-null, and wrong-type values.
+ */
+internal fun SavedState?.stringArgument(key: String): String? =
+  this?.read { getStringOrNull(key) }
 
 @Composable
 fun AppRoot(
@@ -308,8 +318,8 @@ fun AppRoot(
     fun expireSavedReadingNowState() {
       savedReadingNowIdentity = null
       savedReadingNowRestoreRoute = null
-      // Navigation 2.8.0-alpha10 keeps the first saved state for a destination
-      // ID. Clear the Read graph so an older reader cannot block a newer snapshot.
+      // Clear saved Read graph state before changing the reading identity so
+      // an older reader cannot block a newer snapshot.
       // A reader popped to Home is also indexed by its parent Read graph, while
       // Study and Calendar states use their own graph IDs and remain untouched.
       nav.clearBackStack("tab_read")
@@ -418,14 +428,14 @@ fun AppRoot(
           val restored = nav.currentBackStackEntry
           restoredReader = restoredReadingNowReaderMatches(
             destinationRoute = restored?.destination?.route,
-            restoredCollection = restored?.arguments?.getString("col"),
-            restoredBookId = restored?.arguments?.getString("bookId"),
+            restoredCollection = restored?.arguments.stringArgument("col"),
+            restoredBookId = restored?.arguments.stringArgument("bookId"),
             expectedCollection = col,
             expectedBookId = bookId
           ) && BibleEditions.forNavigation(
             prefs.appLanguage, prefs.internalBibleVersion,
-            restored?.arguments?.getString("sourceLang"),
-            restored?.arguments?.getString("sourceEdition")
+            restored?.arguments.stringArgument("sourceLang"),
+            restored?.arguments.stringArgument("sourceEdition")
           ) == BibleEditions.effective(prefs.appLanguage, prefs.internalBibleVersion)
         }
         if (!restoredReader) {
@@ -793,7 +803,7 @@ fun AppRoot(
             onContinue = continueReading)
         }
         composable("books/{col}") { back ->
-          val col = back.arguments?.getString("col") ?: "old_testament"
+          val col = back.arguments.stringArgument("col") ?: "old_testament"
           BooksScreen(
             col = col,
             appLanguage = prefs.appLanguage,
@@ -818,16 +828,16 @@ fun AppRoot(
             navArgument("requestId") { type = NavType.StringType; nullable = true; defaultValue = null }
           )
         ) { back ->
-          val col = back.arguments?.getString("col") ?: return@composable
-          val bookId = back.arguments?.getString("bookId") ?: return@composable
-          val storyIdArg = back.arguments?.getString("storyId")
-          val verseArg = back.arguments?.getString("verse")?.toIntOrNull()?.takeIf { it > 0 }
-          val verseEndArg = back.arguments?.getString("verseEnd")?.toIntOrNull()
+          val col = back.arguments.stringArgument("col") ?: return@composable
+          val bookId = back.arguments.stringArgument("bookId") ?: return@composable
+          val storyIdArg = back.arguments.stringArgument("storyId")
+          val verseArg = back.arguments.stringArgument("verse")?.toIntOrNull()?.takeIf { it > 0 }
+          val verseEndArg = back.arguments.stringArgument("verseEnd")?.toIntOrNull()
             ?.takeIf { verseArg != null && it >= verseArg }
-          val autoStartTtsArg = back.arguments?.getString("autoStartTts") == "true"
-          val sourceLangArg = back.arguments?.getString("sourceLang")
-          val sourceEditionArg = back.arguments?.getString("sourceEdition")
-          val requestIdArg = back.arguments?.getString("requestId")?.toLongOrNull()
+          val autoStartTtsArg = back.arguments.stringArgument("autoStartTts") == "true"
+          val sourceLangArg = back.arguments.stringArgument("sourceLang")
+          val sourceEditionArg = back.arguments.stringArgument("sourceEdition")
+          val requestIdArg = back.arguments.stringArgument("requestId")?.toLongOrNull()
           val readerPrefs = prefs.copy(internalBibleVersion = BibleEditions.forNavigation(
             prefs.appLanguage, prefs.internalBibleVersion, sourceLangArg, sourceEditionArg
           ))
