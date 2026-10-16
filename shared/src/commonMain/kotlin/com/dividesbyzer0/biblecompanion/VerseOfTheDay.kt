@@ -24,6 +24,109 @@ data class DailyVersesFile(val verses: List<VerseEntry> = emptyList())
 @Serializable
 data class FeastVersesFile(val feastVerses: Map<String, VerseEntry> = emptyMap())
 
+/** Keep source speech intact, completing only quotes cut off by excerpt boundaries. */
+internal fun wrapVotdQuotes(text: String, language: String = "en"): String {
+  val source = text.trim()
+  if (source.isEmpty()) return source
+  val tag = LocaleUtils.effectiveAssetTag(language)
+  val german = tag == "de"
+  val lowDouble = german && '\u201e' in source
+  val lowSingle = german && '\u201a' in source
+  val stack = mutableListOf<Pair<Int, Char>>()
+  val marks = mutableMapOf<Int, VotdQuoteMark>()
+  val insertions = mutableMapOf<Int, MutableList<VotdQuoteMark>>()
+  val prefix = mutableListOf<VotdQuoteMark>()
+  for ((index, ch) in source.withIndex()) {
+    val kind = when (ch) {
+      '"', '\uff02', '\u201c', '\u201d', '\u201e', '\u201f', '\u00ab', '\u00bb',
+      '\u300c', '\u300d', '\u300e', '\u300f' -> '"'
+      '\u2018', '\u2019', '\u201a', '\u201b', '\u2039', '\u203a' -> '\''
+      else -> continue
+    }
+    // ASCII apostrophes never enter the speech stack. Curly apostrophes inside
+    // Latin words or possessives (don't, father's, Jesus', brothers') do not either.
+    if (ch == '\u2019' && votdWordApostrophe(source, index, stack.any { it.second == '\'' })) continue
+    val step = when (ch) {
+      '"', '\uff02' -> if (stack.any { it.second == '"' }) -1 else 1
+      '\u201c' -> if (lowDouble) -1 else 1
+      '\u2018' -> if (lowSingle) -1 else 1
+      '\u201e', '\u201f', '\u201a', '\u201b', '\u300c', '\u300e' -> 1
+      '\u201d', '\u300d', '\u300f' -> -1
+      '\u2019' -> -1
+      '\u00ab', '\u2039' -> if (german) -1 else 1
+      '\u203a' -> if (german) 1 else -1
+      '\u00bb' -> if (german || tag == "es" && stripScriptureInlineTags(source.take(index)).isBlank()) 1 else -1
+      else -> continue
+    }
+    val mark = VotdQuoteMark(kind, step > 0)
+    marks[index] = mark
+    if (mark.opening) {
+      stack += index to kind
+    } else {
+      val matching = stack.indexOfLast { it.second == kind }
+      if (matching >= 0) {
+        // An excerpt can omit the inner close while retaining an outer close.
+        // Finish the inner speech before closing its enclosing quotation.
+        while (stack.lastIndex > matching) {
+          insertions.getOrPut(index) { mutableListOf() } += VotdQuoteMark(stack.removeAt(stack.lastIndex).second, false)
+        }
+        stack.removeAt(stack.lastIndex)
+      } else {
+        val opening = VotdQuoteMark(kind, true)
+        val ancestor = stack.lastOrNull()?.first
+        if (ancestor == null) prefix.add(0, opening)
+        else insertions.getOrPut(ancestor + 1) { mutableListOf() }.add(0, opening)
+      }
+    }
+  }
+  val completed = StringBuilder(source.length + 8)
+  val doubleEvents = mutableListOf<Pair<Int, Int>>()
+  fun appendMark(mark: VotdQuoteMark) {
+    if (mark.kind == '"') doubleEvents += completed.length to if (mark.opening) 1 else -1
+    completed.append(mark.kind)
+  }
+  prefix.forEach(::appendMark)
+  for ((index, ch) in source.withIndex()) {
+    insertions[index]?.forEach(::appendMark)
+    val mark = marks[index]
+    if (mark == null) completed.append(asciiVotdQuote(ch)) else appendMark(mark)
+  }
+  stack.asReversed().forEach { appendMark(VotdQuoteMark(it.second, false)) }
+  val result = completed.toString()
+  // Display tags must not hide a quote at the beginning or end of the excerpt.
+  val visible = stripScriptureInlineTags(result)
+  // Reuse a source pair only when it encloses every word, not merely because a
+  // speech quote happens to end the verse (for example, Psalm 46:10).
+  var enclosingDepth = 0
+  val closesBeforeEnd = doubleEvents.any { (index, step) ->
+    enclosingDepth += step
+    enclosingDepth == 0 && stripScriptureInlineTags(result.substring(index + 1)).isNotBlank()
+  }
+  val enclosed = visible.startsWith('"') && visible.endsWith('"') && !closesBeforeEnd
+  return if (enclosed) result else "\"$result\""
+}
+
+private data class VotdQuoteMark(val kind: Char, val opening: Boolean)
+
+private fun votdWordApostrophe(text: String, index: Int, insideSingleSpeech: Boolean): Boolean {
+  fun latin(ch: Char?): Boolean = ch != null && ch.isLetter() &&
+    (ch in 'A'..'Z' || ch in 'a'..'z' || ch in '\u00c0'..'\u024f')
+  val previous = text.getOrNull(index - 1)
+  val next = text.getOrNull(index + 1)
+  if (latin(previous) && latin(next)) return true
+  if ((previous == 's' || previous == 'S') && !latin(next)) {
+    if (!insideSingleSpeech || next?.isWhitespace() == true && latin(text.drop(index + 1).firstOrNull { !it.isWhitespace() })) return true
+  }
+  return !insideSingleSpeech && (previous == null || previous.isWhitespace()) && latin(next)
+}
+
+private fun asciiVotdQuote(ch: Char): Char = when (ch) {
+    '\u201c', '\u201d', '\u201e', '\u201f', '\u00ab', '\u00bb',
+    '\u300c', '\u300d', '\u300e', '\u300f', '\uff02' -> '"'
+    '\u2018', '\u2019', '\u201a', '\u201b', '\u2039', '\u203a', '\uff07' -> '\''
+    else -> ch
+}
+
 object VerseOfTheDay {
 
   private val json = Json { ignoreUnknownKeys = true }

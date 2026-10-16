@@ -785,7 +785,8 @@
         "Números 26:61: El segundo censo vuelve a registrar que murieron al ofrecer fuego no autorizado.",
         "Éxodo 30:9: La prohibición permanente de ofrecer incienso no autorizado en el altar de oro.",
         "Ezequiel 44:21: Ningún sacerdote ha de beber vino antes de entrar en el atrio interior.",
-        "Ezequiel 44:23: Los sacerdotes han de enseñar la diferencia entre lo santo y lo profano, lo limpio y lo impuro."
+        "Ezequiel 44:23: Los sacerdotes han de enseñar la diferencia entre lo santo y lo profano, lo limpio y lo impuro.",
+        "Levítico 21:1-12: Los sacerdotes tienen excepciones familiares específicas respecto a la contaminación por cadáveres, mientras el sumo sacerdote enfrenta restricciones más estrictas sobre el duelo y el santuario, lo que aclara los límites rituales."
       ],
       "translationNotes": [
         {
@@ -817,9 +818,13 @@
           "term": "vino o bebida fuerte",
           "original": "Hebrew: יַיִן וְשֵׁכָר (yayin ve-shekhar)",
           "note": "Yayin es el vino de uva; shekhar abarca otras bebidas fermentadas, incluida la hecha de grano o de dátiles. La prohibición se aplica a los sacerdotes de servicio en la Tienda (10:9), y el voto nazareo de Números 6:3 la extiende aún más. Ezequiel 44:21 la repite para los sacerdotes del templo restaurado."
+        },
+        {
+          "term": "Contexto e interpretación",
+          "note": "Las restricciones señalan actos públicos concretos de duelo y la salida de la Tienda. No dicen que Aarón no sintiera dolor ni que se le prohibiera afligirse interiormente; los versículos 19-20 muestran que su pérdida se toma en serio."
         }
       ],
-      "keyTakeaway": "Nadab y Abiú ofrecen ante el SEÑOR un fuego ilícito, y de su presencia sale un fuego que los consume; Moisés prohíbe a Aarón y a sus hijos restantes hacer duelo o salir de la Tienda de reunión. El SEÑOR mismo manda a Aarón no beber vino ni licor al entrar en la Tienda y distinguir entre lo santo y lo profano; Moisés dispone cómo comer las porciones de los sacerdotes, y cuando halla quemado el macho cabrío de la ofrenda por el pecado en vez de comido, la explicación de Aarón lo deja satisfecho.",
+      "keyTakeaway": "Nadab y Abiú mueren después de ofrecer fuego no autorizado. Moisés prohíbe a Aarón y a sus hijos restantes realizar los ritos de duelo indicados o salir de la Tienda, mientras Israel puede guardar luto. El capítulo expone deberes sacerdotales y relata que Moisés acepta la explicación de Aarón sobre la ofrenda por el pecado que no se comieron.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -896,10 +901,11 @@
       ],
       "crossRefs": [
         "Deuteronomio 14:3-21: La misma lista de criaturas limpias e impuras, con algunas diferencias de orden y de detalle.",
-        "Génesis 7:2-3: Noé toma los animales limpios de siete en siete y los impuros de dos en dos, mucho antes del Sinaí.",
+        "Génesis 7:2-3: Noé recibe la orden de llevar siete parejas de cada especie de animal puro y de ave, pero una pareja de cada especie de animal impuro, antes de las leyes del Sinaí.",
         "Hechos 10:9-16: La visión de Pedro del lienzo, y la voz que le dice que no llame impuro a lo que Dios ha purificado.",
         "Ezequiel 4:14: Ezequiel protesta diciendo que nunca en su vida ha comido nada impuro.",
-        "Daniel 1:8-16: Daniel rechaza la comida del rey y pide verduras y agua en su lugar."
+        "Daniel 1:8-16: Daniel rechaza la comida del rey y pide verduras y agua en su lugar.",
+        "Deuteronomio 14:11-20: La ley permite expresamente las aves puras mientras enumera las prohibidas, confirmando que las normas alimentarias no excluyen a todas las aves."
       ],
       "translationNotes": [
         {
@@ -936,9 +942,13 @@
           "term": "por qué se rompe la vasija de barro",
           "original": "Hebrew: כְּלִי־חֶרֶשׂ (keli-cheres)",
           "note": "Levítico 11:32-36 trata cada recipiente según su material. La cerámica antigua es porosa y no puede fregarse por dentro, así que una olla o un horno de barro que contraen impureza se rompen y se tiran. La madera, la tela, el cuero y el pelo de cabra solo se enjuagan y quedan limpios al ponerse el sol, y un manantial o una cisterna siguen limpios porque el agua corriente y almacenada no es un recipiente. La regla sigue al material, no al precio del objeto."
+        },
+        {
+          "term": "Contexto e interpretación",
+          "note": "La lista de aves nombra las prohibidas; no prohíbe todas las aves. Deuteronomio 14:11 y 14:20 permiten expresamente las aves puras."
         }
       ],
-      "keyTakeaway": "Dios instruye a Moisés y a Aarón sobre qué animales pueden comer los israelitas: animales terrestres con pezuña partida que rumian, criaturas de agua con aletas y escamas, y ciertos insectos; todos los demás son impuros, y tocar sus cuerpos muertos causa impureza ceremonial hasta la tarde.",
+      "keyTakeaway": "Dios instruye a Moisés y Aarón sobre los animales que pueden comer los israelitas: animales terrestres de pezuña dividida que rumian, criaturas acuáticas con aletas y escamas, las aves permitidas y ciertos insectos; los demás son impuros, y tocar sus cadáveres causa impureza ceremonial hasta el anochecer.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1317,7 +1327,7 @@
         "Levítico 12:1-8: La ley emparentada para la mujer después del parto, que cierra con esa misma ofrenda.",
         "Números 5:1-4: Todo el que tenga flujo o enfermedad de la piel es enviado fuera del campamento.",
         "Levítico 22:4-7: Un sacerdote con flujo no puede comer de las ofrendas sagradas hasta la puesta del sol y un lavado.",
-        "Marcos 5:25-34: Una mujer con flujo de sangre desde hace doce años alcanza entre la multitud a tocar su manto.",
+        "Marcos 5:25-34: Jesús sana a una mujer que lleva doce años sangrando, ofreciendo un caso concreto de sangrado prolongado junto a las distintas normas de Levítico sobre los flujos.",
         "2 Samuel 11:4: De Betsabé se dice que se estaba purificando de su impureza."
       ],
       "translationNotes": [
@@ -1345,9 +1355,13 @@
           "term": "un flujo de sangre por muchos días",
           "original": "Hebrew: זוֹב דָּמָהּ (zov damah)",
           "note": "Los versículos 15:25-30 tratan el sangrado fuera del ciclo mensual o prolongado más allá de él, y declaran impura a la mujer mientras dure, y también impuro todo aquello sobre lo que se acueste o se siente. Esa es la condición de la mujer de Mateo 9:20-22, Marcos 5:25-34 y Lucas 8:43-48, que llevaba doce años sangrando: doce años en los que tocar a alguien transmitía la impureza, y por eso ella se acerca por detrás y no dice nada."
+        },
+        {
+          "term": "Contexto e interpretación",
+          "note": "El capítulo distingue las emisiones ordinarias de semen y la menstruación de los flujos anormales o prolongados. Las ofrendas después de siete días limpios corresponden a los flujos anormales especificados, no a toda emisión corporal."
         }
       ],
-      "keyTakeaway": "El SEÑOR establece reglas para los distintos flujos corporales; toda persona o cosa que toque a alguien con flujo queda impura y requiere lavado y espera hasta la tarde, con ofrendas de purificación exigidas tras siete días de limpieza.",
+      "keyTakeaway": "El SEÑOR da normas de purificación distintas para los flujos anormales, las emisiones de semen y la menstruación. Incluyen lavados, períodos de impureza y, para ciertos flujos anormales, ofrendas después de siete días limpios.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1828,16 +1842,16 @@
       ],
       "crossRefs": [
         "Levítico 18:6-30: Las mismas prohibiciones expuestas sin penas adjuntas.",
-        "Deuteronomio 18:9-14: La lista de prácticas prohibidas que Israel no ha de aprender de las naciones de Canaán.",
+        "Deuteronomio 18:9-14: La ley prohíbe consultar a médiums, espiritistas y muertos, ofreciendo la prohibición general mientras Levítico distingue las penas indicadas.",
         "2 Reyes 23:10: Josías contamina el Tofet para que nadie pueda hacer pasar por el fuego a un hijo o a una hija en honor de Moloc.",
         "Jeremías 32:35: Lugares altos de Baal en el valle de Ben Hinón, donde se ofrecían niños a Moloc.",
-        "1 Samuel 28:7-14: Saúl consulta a una médium en Endor después de haberlas prohibido en el país."
+        "1 Samuel 28:7-14: Saúl consulta a una médium que teme que la maten conforme a su prohibición; el relato distingue al rey que consulta de la mujer que practica la adivinación."
       ],
       "translationNotes": [
         {
-          "term": "Médium / Nigromante",
+          "term": "Médium y nigromante",
           "original": "Hebrew: אוֹב (ʾov) / יִדְּעֹנִי (yiddeʿoni), Greek: ἐγγαστρίμυθος (engastrimythos) / μάντις (mantis), Aramaic: אובא (ʾova) / ידעונא (yidʿona)",
-          "note": "Espiritista o consultor de los muertos; estrictamente prohibido bajo pena de muerte."
+          "note": "Un médium o espiritista practica la consulta a los espíritus o a los muertos. El versículo 6 dice que Dios excluirá de su pueblo a quien lo consulte, mientras el versículo 27 asigna la pena de muerte indicada al médium o espiritista."
         },
         {
           "term": "Eliminado",
@@ -1878,9 +1892,13 @@
           "term": "De dónde viene la palabra arsenokoitai de Pablo",
           "original": "Greek (LXX) Leviticus 18:22: μετὰ ἄρσενος οὐ κοιμηθήσῃ κοίτην γυναικός - Greek (LXX) Leviticus 20:13: ὃς ἂν κοιμηθῇ μετὰ ἄρσενος κοίτην γυναικός - Greek: ἀρσενοκοῖται (arsenokoitai), singular ἀρσενοκοίτης (arsenokoites)",
           "note": "La palabra de Pablo arsenokoitai, en 1 Corintios 6:9 y 1 Timoteo 1:10, significa hombres que se acuestan con varones. Literalmente es \"los que se acuestan con varones\": hombres que realizan actos sexuales con otros varones. Koite es la palabra griega corriente para una cama y el término estándar para el acto sexual, que es como la usa el propio Nuevo Testamento en Romanos 13:13 y Hebreos 13:4. La palabra es un compuesto raro, y sus dos mitades están una junto a la otra en el Antiguo Testamento griego de estos dos versículos: Levítico 18:22 dice meta arsenos ou koimethese koiten gynaikos, y Levítico 20:13 dice hos an koimethe meta arsenos koiten gynaikos, donde arsenos y koiten van contiguos."
+        },
+        {
+          "term": "Contexto e interpretación",
+          "note": "El versículo 6 se refiere a quien recurre a médiums y dice que Dios lo excluirá de su pueblo. El versículo 27 se refiere al médium o espiritista y ordena la lapidación. El capítulo distingue las faltas y sus penas específicas."
         }
       ],
-      "keyTakeaway": "Dios manda a Moisés aplicar la pena de muerte por el sacrificio de niños a Moloc, la consulta a los médiums, la maldición de los padres, el adulterio, el incesto, la bestialidad y ciertas violaciones sexuales; Israel debe guardar estos decretos y estas distinciones entre lo limpio y lo impuro para seguir siendo santo y no ser rechazado por la tierra.",
+      "keyTakeaway": "El capítulo asigna penas al culto a Moloc y a determinadas faltas sexuales y familiares, y llama a Israel a la santidad. Distingue a quienes consultan a médiums, a quienes Dios excluirá de su pueblo, de los propios médiums y espiritistas, que reciben la sentencia de muerte indicada.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -2021,7 +2039,8 @@
         "Deuteronomio 15:21: Un animal con cualquier defecto grave no se ha de sacrificar al SEÑOR.",
         "Levítico 21:16-23: La exigencia correspondiente de que el propio sacerdote sea sin defecto.",
         "Números 18:8-13: Las ofrendas sagradas asignadas a los sacerdotes y a sus casas como su alimento.",
-        "1 Pedro 1:19: La sangre preciosa de Cristo, cordero sin mancha y sin defecto."
+        "1 Pedro 1:19: La sangre preciosa de Cristo, cordero sin mancha y sin defecto.",
+        "Deuteronomio 23:21-23: Un voto hecho libremente debe cumplirse, mientras abstenerse de hacer un voto no acarrea culpa, lo que aclara la obligación de una ofrenda votiva."
       ],
       "translationNotes": [
         {
@@ -2053,9 +2072,13 @@
           "term": "no el mismo día que su cría",
           "original": "Hebrew: אֹתוֹ וְאֶת־בְּנוֹ (oto ve-et-beno)",
           "note": "Levítico 22:28 prohíbe degollar a un animal y a su cría en un mismo día, y 22:27 exige que el recién nacido se quede primero siete días con su madre. Deuteronomio 22:6-7 da la regla correspondiente para el nido de un ave, y manda soltar a la madre antes de tomar las crías."
+        },
+        {
+          "term": "Contexto e interpretación",
+          "note": "El versículo 23 permite presentar un buey o una oveja con un miembro deformado o atrofiado como ofrenda voluntaria, pero no en cumplimiento de un voto. El requisito general del capítulo tiene esta excepción expresa."
         }
       ],
-      "keyTakeaway": "A Moisés se le manda instruir a Aarón y a sus hijos en que los sacerdotes deben estar ceremonialmente limpios para comer las ofrendas sagradas, y en que solo ciertos miembros de la familia pueden consumirlas. Dios especifica además que todos los animales presentados como ofrenda han de ser sin defecto, y da reglas sobre los plazos para las crías y para los sacrificios de acción de gracias.",
+      "keyTakeaway": "Moisés debe instruir a Aarón y a sus hijos: los sacerdotes han de estar ceremonialmente limpios para comer ofrendas sagradas, y solo ciertos familiares pueden consumirlas. Dios también exige animales sin defecto para el sacrificio, con una excepción expresa para determinadas ofrendas voluntarias, y da normas sobre los plazos para animales jóvenes y ofrendas de acción de gracias.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -2670,10 +2693,12 @@
       ],
       "crossRefs": [
         "Números 30:1-16: La ley de los votos, y los casos en que un padre o un marido pueden anular uno.",
-        "Jueces 11:30-39: El voto de Jefté y lo que resultó de él.",
+        "Jueces 11:30-39: Jefté promete un holocausto, su única hija sale a recibirlo y el relato registra que ella llora su virginidad y él cumple el voto.",
         "1 Samuel 1:11: Ana promete dar su hijo al SEÑOR todos los días de su vida.",
         "Eclesiastés 5:4-5: Cuando hagas un voto a Dios, no tardes en cumplirlo.",
-        "Malaquías 3:8-10: Traigan íntegro el diezmo al depósito, y pongan al SEÑOR a prueba en esto."
+        "Malaquías 3:8-10: Traigan íntegro el diezmo al depósito, y pongan al SEÑOR a prueba en esto.",
+        "Levítico 5:4-6: Quien reconoce su culpa por un juramento precipitado debe confesarla y llevar una ofrenda de expiación, lo que proporciona un remedio para las palabras juradas imprudentemente.",
+        "Deuteronomio 12:31: Israel no debe imitar el culto de las naciones que queman a sus hijos e hijas, lo que establece la prohibición de sacrificar niños en la Torá."
       ],
       "translationNotes": [
         {
@@ -2702,9 +2727,9 @@
           "note": "A la vez una pesa (unos 0,4 onzas / 11 g) y una unidad monetaria. En la economía del Antiguo Testamento un jornalero común ganaba alrededor de medio siclo al mes, así que los 20 siclos pagados por José (Génesis 37:28) eran unos tres años de salario. El impuesto del templo era medio siclo (Éxodo 30:13); en el cómputo del Nuevo Testamento eso equivalía a dos denarios, dos días de salario."
         },
         {
-          "term": "las valoraciones",
+          "term": "Las valoraciones",
           "original": "Hebrew: עֶרְכְּךָ (erkekha), 'your valuation'",
-          "note": "Una lista de precios fija para rescatar a una persona consagrada por voto al SEÑOR: cincuenta siclos por un hombre de veinte a sesenta años, treinta por una mujer, veinte y diez por los de cinco a veinte, cinco y tres por los niños de pecho, quince y diez por los ancianos (27:3-7). A unos 11,4 gramos por siclo, cincuenta siclos son aproximadamente 570 gramos de plata. El versículo 8 permite al sacerdote fijar una cifra menor a quien no pueda pagar."
+          "note": "Valoraciones monetarias para votos relacionados con personas: cincuenta siclos por un hombre de veinte a sesenta años, treinta por una mujer, veinte y diez por personas de cinco a veinte años, cinco y tres por niños de un mes a cinco años, y quince y diez por los ancianos (27:3-7). A unos 11,4 gramos por siclo, cincuenta siclos equivalen aproximadamente a 570 gramos de plata. El versículo 8 permite al sacerdote fijar una cifra menor para quien no pueda pagar."
         },
         {
           "term": "jómer",
@@ -2715,9 +2740,13 @@
           "term": "pasa bajo la vara del pastor",
           "original": "Hebrew: תַּחַת הַשָּׁבֶט (tachat ha-shavet)",
           "note": "El rebaño se hacía pasar por una puerta estrecha mientras el pastor tocaba con su cayado a cada décimo animal para marcarlo para el diezmo (27:32). Al dueño se le prohíbe repasarlos y escoger, o cambiar un animal marcado por otro peor. Jeremías 33:13 y Ezequiel 20:37 usan los dos esa misma imagen."
+        },
+        {
+          "term": "Contexto e interpretación",
+          "note": "Los versículos 2-8 asignan valoraciones monetarias para votos relacionados con personas. Los versículos 28-29 tratan por separado el cherem, la consagración irrevocable; no permiten a un padre sentenciar a muerte a un hijo inocente mediante un voto personal. Los diezmos de las cosechas pueden rescatarse añadiendo una quinta parte, mientras que los del ganado no."
         }
       ],
-      "keyTakeaway": "Dios instruye a Moisés sobre cómo valorar a las personas, los animales, las casas y las tierras dedicadas si alguien hace un voto al SEÑOR, con reglas concretas de rescate y prohibiciones de sustitución. Los diezmos del producto de la tierra y del ganado se declaran santos al SEÑOR y no pueden rescatarse ni cambiarse.",
+      "keyTakeaway": "Dios instruye a Moisés sobre cómo valorar personas, animales, casas y tierras consagrados cuando alguien hace un voto al SEÑOR, con normas específicas de rescate y prohibiciones de sustitución. Lo consagrado irrevocablemente al SEÑOR, cherem, sigue normas distintas y no puede rescatarse. Los diezmos de las cosechas pueden rescatarse añadiendo una quinta parte a su valor; los del ganado no pueden rescatarse ni intercambiarse.",
       "headings": [
         {
           "beforeVerse": 1,

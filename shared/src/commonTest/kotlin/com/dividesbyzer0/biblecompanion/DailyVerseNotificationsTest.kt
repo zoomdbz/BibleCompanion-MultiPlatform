@@ -81,6 +81,16 @@ class DailyVerseNotificationsTest {
       "the angel of the Lord spoke", "yahweh", "en", "deuterocanonical"))
   }
 
+  @Test fun notificationCopyAndShareRetainBothOuterAndSpeechQuotes() {
+    val text = wrapVotdQuotes(notificationPlainText(
+      "He says, \u201cBe still.\u201d", "traditional", "en", "old_testament"), "en")
+    val content = DailyVerseNotificationContent(
+      "Verse of the Day", text, "Psalms 46:10", "route", "en", "bsb", "Copy", "Share", "Copied"
+    )
+    assertEquals("\"He says, \"Be still.\"\"\nPsalms 46:10", content.shareText)
+    assertEquals(text, Json.decodeFromString<DailyVerseNotificationContent>(Json.encodeToString(content)).text)
+  }
+
   @Test fun completeCombinedVerseUnitsCanOpenWithoutSplittingThem() {
     assertTrue(notificationAnchorExists(listOf("Text (3:4-6)."), 3, 4, 6))
     assertTrue(notificationAnchorExists(listOf("Text (3:4-6)."), 3, 5, 5))

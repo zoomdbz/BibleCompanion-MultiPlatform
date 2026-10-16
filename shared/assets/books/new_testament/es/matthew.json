@@ -593,13 +593,15 @@
       "crossRefs": [
         "Levítico 19:18: Ama a tu prójimo como a ti mismo.",
         "Santiago 4:12: Un solo Legislador y Juez.",
-        "Lucas 11:9-13: Paralelo de pedir, buscar y llamar."
+        "Lucas 11:9-13: Paralelo de pedir, buscar y llamar.",
+        "Lucas 6:37-42: Jesús une las advertencias contra juzgar y condenar con el perdón; después dice que uno debe quitarse su propia viga antes de ayudar a quitar la astilla de su hermano, en paralelo con la advertencia de Mateo contra la hipocresía.",
+        "Juan 7:24: Jesús pide juzgar con justicia y no por las apariencias."
       ],
       "translationNotes": [
         {
           "term": "Juzgar",
           "original": "Hebrew: שָׁפַט (shafat), Greek (NT): κρίνω (krinō, ‘judge/decide/condemn’), Aramaic: דן (dan)",
-          "note": "El mandato advierte contra condenar a otros mientras se pasan por alto las faltas propias (7:1-5)."
+          "note": "La advertencia se refiere a juzgar a otros mientras se ignoran las propias faltas. Jesús dice que la medida usada se devolverá al que juzga y después le ordena quitarse primero la viga para poder ver con claridad y ayudar a su hermano (7:1-5)."
         },
         {
           "term": "Lo santo / las perlas... los perros / los cerdos",
@@ -612,7 +614,7 @@
           "note": "La regla de oro presentada como su resumen ético (7:12)."
         }
       ],
-      "keyTakeaway": "Jesús prohíbe juzgar con una medida que no se puede soportar, promete que todo el que pide recibe, y resume la Ley y los Profetas en tratar a los demás tal como se quiere ser tratado; contrapone la puerta estrecha al camino ancho, desenmascara a los falsos profetas por su fruto y por sus vacíos reclamos de «Señor, Señor», y termina con las casas construidas sobre la roca y sobre la arena.",
+      "keyTakeaway": "Jesús advierte contra juzgar a otros mientras se ignoran las propias faltas, pues se recibirá la misma medida que se use; promete que todo el que pide recibe y resume la Ley y los Profetas en tratar a los demás como uno quiere ser tratado. Contrasta la puerta estrecha con el camino ancho, desenmascara a los falsos profetas por sus frutos y las declaraciones vacías de \"Señor, Señor\", y termina con las casas construidas sobre la roca y sobre la arena.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1540,11 +1542,12 @@
         "―A los demás —contestó Pedro. [J]―Entonces los suyos están exentos[/J] —le dijo Jesús—. (17:26).",
         "[J]Pero, para no escandalizar a esta gente, vete al lago y echa el anzuelo. Saca el primer pez que pique; ábrele la boca y encontrarás una moneda.[/J] [J]Tómala y dásela a ellos por mi impuesto y por el tuyo.[/J] (17:27)."
       ],
-      "keyTakeaway": "En una montaña alta Jesús se transfigura, aparecen Moisés y Elías, y la voz del Padre manda a los discípulos escucharlo; al bajar, Jesús identifica la venida de Elías con Juan el Bautista, libera a un muchacho que sus discípulos de poca fe no pudieron sanar, diciendo que la fe como un grano de mostaza mueve montañas, anuncia otra vez su muerte y su resurrección, y paga el impuesto del templo con la moneda de la boca de un pez.",
+      "keyTakeaway": "En una montaña alta, Jesús se transfigura, aparecen Moisés y Elías y la voz del Padre ordena a los discípulos que lo escuchen. Al descender, Jesús identifica la venida de Elías con Juan el Bautista y libera a un muchacho al que sus discípulos de poca fe no pudieron liberar; afirma que la fe como un grano de mostaza mueve montañas. Vuelve a anunciar su muerte y resurrección y le dice a Pedro que saque una moneda de la boca de un pez y la use para pagar el impuesto del templo por los dos.",
       "crossRefs": [
         "Éxodo 34:29-35: El rostro de Moisés resplandeciente.",
         "Malaquías 4:5-6: Elías antes del gran día.",
-        "2 Pedro 1:16-18: Testigo ocular de la majestuosa gloria."
+        "2 Pedro 1:16-18: Testigo ocular de la majestuosa gloria.",
+        "Éxodo 30:13-16: El SEÑOR exige a los censados, ricos y pobres por igual, una ofrenda de medio siclo para el servicio del santuario; este es el trasfondo de la Torá para la pregunta sobre el impuesto del templo."
       ],
       "translationNotes": [
         {
@@ -1563,9 +1566,9 @@
           "note": "Una moneda griega de plata aproximadamente equivalente al denario romano; el jornal de un día. La moneda perdida de Lucas 15:8 es una dracma; la dote de una mujer podía ser de diez dracmas llevadas como tocado, y por eso perder una angustia tanto."
         },
         {
-          "term": "estatero",
-          "original": "Greek: στατήρ (stater)",
-          "note": "Una moneda de plata que valía cuatro dracmas; exactamente el impuesto del templo para dos personas. La moneda que Pedro encuentra en la boca del pez (Mateo 17:27) es un estatero, y paga el impuesto por Jesús y por Pedro."
+          "term": "Estatero",
+          "note": "El estatero es la moneda de cuatro dracmas que Jesús menciona en su instrucción a Pedro, suficiente para dos pagos de dos dracmas (17:24-27). Mateo recoge la instrucción y la promesa; termina la escena sin narrar la pesca ni el pago.",
+          "original": "Greek: στατήρ (stater)"
         },
         {
           "term": "grano de mostaza",
@@ -1756,7 +1759,9 @@
       "crossRefs": [
         "Génesis 1:27; 2:24: La creación y una sola carne.",
         "Deuteronomio 24:1: Referencia al acta de divorcio.",
-        "1 Corintios 7:7-9, 25-35: La soltería y la devoción sin divisiones."
+        "1 Corintios 7:7-9, 25-35: La soltería y la devoción sin divisiones.",
+        "Deuteronomio 24:1-4: Moisés describe el divorcio y el matrimonio posterior de una mujer, y luego prohíbe que el primer marido vuelva a tomarla después de ese matrimonio; este es el pasaje sobre el certificado mencionado en la conversación de Jesús.",
+        "1 Corintios 7:10-16: Pablo ordena a los cónyuges no separarse y aborda otra situación: el creyente debe permanecer con un cónyuge no creyente que esté dispuesto a convivir, pero dejar partir al no creyente que se va."
       ],
       "translationNotes": [
         {
@@ -1778,9 +1783,14 @@
           "term": "Fariseo",
           "original": "Greek: Φαρισαῖος (Pharisaios)",
           "note": "Un movimiento laico de reforma que subrayaba la observancia estricta de la Torá escrita MÁS una tradición oral (la «tradición de los ancianos»). Creían en la resurrección corporal, en los ángeles y en un Mesías venidero. Pablo era fariseo (Filipenses 3:5); las disputas más duras de Jesús solían ser con este grupo, aunque compartía muchas de sus creencias centrales."
+        },
+        {
+          "term": "Contexto e interpretación",
+          "original": "",
+          "note": "La excepción de 19:9 aparece en una oración sobre el divorcio seguido del matrimonio con otra persona. El versículo 8 describe la disposición mosaica sobre el divorcio como una concesión a la dureza del corazón. Porneia se traduce aquí como inmoralidad sexual; el resumen sigue esta oración sin intentar reunir todas las disposiciones sobre el matrimonio."
         }
       ],
-      "keyTakeaway": "Jesús fundamenta el matrimonio en que el Creador los hizo hombre y mujer, una sola carne que el hombre no debe separar, permite el divorcio solo por inmoralidad sexual y bendice a los niños; un joven rico se va triste antes que venderlo todo y seguirlo, así que Jesús dice a los discípulos asombrados que es más fácil que un camello pase por el ojo de una aguja a que un rico entre en el reino, aunque para Dios todo es posible, y promete tronos y el ciento por uno a los que lo dejaron todo.",
+      "keyTakeaway": "Jesús fundamenta el matrimonio en que el Creador los hizo hombre y mujer, una sola carne que no debe separarse; dice que el hombre que se divorcia de su esposa, excepto en caso de inmoralidad sexual, y se casa con otra comete adulterio, y bendice a los niños. Un joven rico se marcha triste en vez de venderlo todo y seguirlo; Jesús dice a los discípulos asombrados que es más fácil que un camello pase por el ojo de una aguja que un rico entre en el reino, pero que para Dios todo es posible, y promete tronos y cien veces más a quienes lo dejaron todo.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1840,7 +1850,7 @@
       ],
       "crossRefs": [
         "Mateo 19:30: Muchos primeros serán últimos.",
-        "Lucas 15:11-32: La generosidad del Padre hacia el que no la merece.",
+        "Lucas 15:11-32: En la parábola de Jesús, un padre recibe a su hijo menor que regresa y responde al enojo del mayor por la celebración, una comparación con el resentimiento ante la generosidad del propietario.",
         "Romanos 9:15: «Tendré misericordia del que yo tenga misericordia»."
       ],
       "translationNotes": [
@@ -1868,9 +1878,14 @@
           "term": "hora tercera / sexta / novena",
           "original": "Greek: ὥρα τρίτη / ἕκτη / ἐνάτη (hora trite/hekte/enate)",
           "note": "El día judío se dividía en doce horas de luz que empezaban al salir el sol (hacia las 6 de la mañana). La hora tercera son cosa de las 9, la sexta el mediodía, la novena las 3 de la tarde. A Jesús lo crucifican a la hora tercera (Marcos 15:25); las tinieblas llegan a la sexta y él muere a la novena."
+        },
+        {
+          "term": "Contexto e interpretación",
+          "original": "",
+          "note": "Jesús presenta a los obreros de la viña como una comparación con el reino de los cielos (20:1). El propietario y los obreros pertenecen a esa parábola, cuya sentencia final se refiere a los últimos y los primeros (20:16)."
         }
       ],
-      "keyTakeaway": "Un propietario da a los trabajadores contratados al final de la tarde la misma paga de un día que a los primeros, porque los últimos serán primeros; subiendo a Jerusalén, Jesús anuncia su condena, su crucifixión y su resurrección al tercer día, responde a la petición de los hijos de Zebedeo haciendo del servicio el camino a la grandeza, pues el Hijo del hombre vino a dar su vida en rescate por muchos, y abre los ojos de dos ciegos cerca de Jericó.",
+      "keyTakeaway": "En la parábola de Jesús, un propietario paga a los obreros de la última hora el mismo denario que a los primeros, pues los últimos serán primeros. Al subir a Jerusalén, Jesús anuncia su condena, crucifixión y resurrección al tercer día; responde a la petición de los hijos de Zebedeo haciendo del servicio el camino a la grandeza, pues el Hijo del hombre vino a dar su vida en rescate por muchos, y abre los ojos de dos ciegos cerca de Jericó.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -2049,8 +2064,8 @@
         "Nadie pudo responderle ni una sola palabra y desde ese día ninguno se atrevía a hacerle más preguntas. (22:46)."
       ],
       "crossRefs": [
-        "Lucas 14:16-24: Invitación al gran banquete.",
-        "Sofonías 1:7-8: Castigo de los que no van vestidos para el sacrificio del SEÑOR (imagen del vestido)."
+        "Lucas 14:16-24: Jesús cuenta una parábola de un banquete en la que los invitados se excusan y el anfitrión trae a pobres y personas con discapacidad, y después a otros de los caminos, en paralelo con las invitaciones rechazadas en Mateo.",
+        "Sofonías 1:7-8: El juicio venidero del SEÑOR se representa como un sacrificio, y quienes visten ropa extranjera están entre los castigados; este es un contexto profético distinto para las imágenes de vestimenta y juicio."
       ],
       "translationNotes": [
         {
@@ -2077,9 +2092,14 @@
           "term": "Saduceo",
           "original": "Greek: Σαδδουκαῖος (Saddoukaios)",
           "note": "El partido sacerdotal y aristocrático. Aceptaban solo la Torá escrita y rechazaban la tradición oral. Negaban la resurrección, los ángeles y los espíritus (Hechos 23:8). Controlaban el templo y colaboraban ampliamente con Roma para mantener ese poder. Desaparecieron como movimiento después del 70 d.C., cuando fue destruido el templo en el que se centraban."
+        },
+        {
+          "term": "Contexto e interpretación",
+          "original": "",
+          "note": "Mateo presenta explícitamente el banquete de bodas como una parábola sobre el reino de los cielos (22:1-2). El rey, los invitados y el hombre sin ropa de boda son personajes de ese relato didáctico."
         }
       ],
-      "keyTakeaway": "El banquete de bodas de un rey se llena con invitados traídos de los cruces de los caminos después de que los convidados se niegan, y un hombre sin ropa de boda es echado fuera, porque muchos son los invitados y pocos los escogidos; Jesús responde luego a los que lo ponen a prueba, dando al césar lo que es del césar y a Dios lo que es de Dios, declara a Dios el Dios de los vivos en la resurrección, señala el amor a Dios y al prójimo como los mandamientos de los que depende la Ley, y silencia a los fariseos preguntando cómo el hijo de David puede ser Señor de David.",
+      "keyTakeaway": "En la parábola de Jesús, el banquete de bodas de un rey se llena con invitados de los cruces de caminos después de que los primeros se niegan a asistir, y un hombre sin ropa de boda es expulsado, pues muchos son llamados, pero pocos escogidos. Jesús responde después a quienes lo ponen a prueba: dar al César lo que es del César y a Dios lo que es de Dios; declara que Dios es Dios de vivos al hablar de la resurrección, presenta el amor a Dios y al prójimo como los mandamientos que sostienen la Ley y hace callar a los fariseos al preguntar cómo el hijo de David puede ser su Señor.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -2358,7 +2378,9 @@
       ],
       "crossRefs": [
         "Mateo 24:42: Estar en vela.",
-        "Apocalipsis 19:7-9: Imagen de la cena de las bodas."
+        "Apocalipsis 19:7-9: Imagen de la cena de las bodas.",
+        "Mateo 24:42-44: Jesús ordena a sus discípulos estar preparados porque el Hijo del hombre vendrá a una hora inesperada; la parábola del novio desarrolla esta advertencia.",
+        "Mateo 10:40-42: Recibir a los mensajeros de Jesús se vincula con recibirlo a él."
       ],
       "translationNotes": [
         {
@@ -2375,9 +2397,14 @@
           "term": "talento (dinero)",
           "original": "Hebrew: כִּכָּר (kikkar); Greek: τάλαντον (talanton)",
           "note": "La mayor unidad de peso y de dinero del mundo antiguo. Un talento de plata pesaba unos 34 kg y equivalía a cosa de 6000 denarios, unos 20 años de salario de un jornalero. Un talento de oro valía mucho más. Cuando Jesús cuenta la parábola de los talentos (Mateo 25:14-30), cada talento representa una confianza descomunal."
+        },
+        {
+          "term": "Contexto e interpretación",
+          "original": "",
+          "note": "Las diez vírgenes y los talentos son comparaciones didácticas introducidas en 25:1 y 25:14. En 25:31, Jesús pasa a la venida del Hijo del hombre. El versículo 40 llama \"estos hermanos míos\" a aquellos cuyo trato importa; aquí se conserva la expresión sin sustituirla por una identificación más restringida o más amplia."
         }
       ],
-      "keyTakeaway": "Diez jóvenes esperan al novio, y las que no están preparadas vuelven a una puerta cerrada; un señor arregla cuentas por las monedas encomendadas, premia a los fieles y echa al siervo inútil a la oscuridad de afuera; y el Hijo del hombre en su gloria separa las ovejas de las cabras según lo que cada uno hizo por los más pequeños de sus hermanos, y los malditos van al castigo eterno y los justos a la vida eterna.",
+      "keyTakeaway": "Jesús cuenta las parábolas de diez vírgenes que esperan al novio y de unos siervos a quienes se confían talentos, y llama a estar preparados y ser fieles. Después describe al Hijo del hombre reuniendo a las naciones y separando a las personas como ovejas y cabras según su trato hacia \"estos hermanos míos más pequeños\", y concluye con el castigo eterno y la vida eterna.",
       "headings": [
         {
           "beforeVerse": 1,

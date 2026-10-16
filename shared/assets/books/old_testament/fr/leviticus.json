@@ -772,7 +772,8 @@
         "Nombres 26:61: Le second recensement rapporte de nouveau qu'ils moururent en présentant un feu profane.",
         "Exode 30:9: L'interdit permanent de présenter un encens profane sur l'autel d'or.",
         "Ézéchiel 44:21: Aucun prêtre ne doit boire de vin avant d'entrer dans le parvis intérieur.",
-        "Ézéchiel 44:23: Les prêtres doivent enseigner la différence entre le sacré et le profane, le pur et l'impur."
+        "Ézéchiel 44:23: Les prêtres doivent enseigner la différence entre le sacré et le profane, le pur et l'impur.",
+        "Lévitique 21:1-12: Les prêtres bénéficient d'exceptions familiales précises concernant l'impureté liée aux morts, tandis que le grand prêtre est soumis à des restrictions plus strictes de deuil et de présence au sanctuaire ; ce passage précise les limites rituelles."
       ],
       "translationNotes": [
         {
@@ -793,7 +794,7 @@
         {
           "term": "cassolette",
           "original": "Hebrew: מַחְתָּה (machtah)",
-          "note": "Un plat de métal pour porter les braises vives de l'autel, avec l'encens posé dessus. Nombres 16:6-7 en fait prendre une à chacun des gens de Coré, et Nombres 16:39 fait battre les cassolettes de bronze en revêtement d'autel ensuite. C'était un outil de prêtre, et Nadab et Abihou se servirent des leurs avec un feu que le SEIGNEUR n'avait pas ordonné."
+          "note": "Un plat de métal pour porter les braises vives de l'autel, avec l'encens posé dessus. Nombres 16:6-7 en fait prendre une à chacun des gens de Coré, et Nombres 17:4 fait battre les cassolettes de bronze en revêtement d'autel ensuite. C'était un outil de prêtre, et Nadab et Abihou se servirent des leurs avec un feu que le SEIGNEUR n'avait pas ordonné."
         },
         {
           "term": "le sacré et le profane, le pur et l'impur",
@@ -804,9 +805,13 @@
           "term": "vin ou boisson alcoolisée",
           "original": "Hebrew: יַיִן וְשֵׁכָר (yayin ve-shekhar)",
           "note": "Yayin est le vin de raisin ; shekhar couvre les autres boissons fermentées, y compris celles faites de grain ou de dattes. L'interdit s'applique aux prêtres en service dans la tente (10:9), et le vœu de naziréat en Nombres 6:3 l'étend plus loin. Ézéchiel 44:21 le répète pour les prêtres du temple restauré."
+        },
+        {
+          "term": "Contexte et interprétation",
+          "note": "Les restrictions portent sur certains gestes publics de deuil et sur le départ de la tente. Elles ne disent pas qu'Aaron ne ressentait aucun chagrin ni qu'il lui était interdit de pleurer intérieurement ; les versets 19-20 montrent que sa perte est prise au sérieux."
         }
       ],
-      "keyTakeaway": "Nadab et Abihou présentent devant le SEIGNEUR un feu profane, et un feu sorti de devant lui les dévore ; Moïse interdit à Aaron et à ses fils restants de mener le deuil ou de quitter la tente de la Rencontre. Le SEIGNEUR lui-même ordonne à Aaron de ne boire ni vin ni boisson alcoolisée quand il entre dans la tente et de séparer le sacré du profane ; Moïse règle la consommation des parts des prêtres et, quand il découvre que le bouc du sacrifice pour le péché a été brûlé au lieu d'être mangé, l'explication d'Aaron le satisfait.",
+      "keyTakeaway": "Nadab et Abihou meurent après avoir offert un feu non autorisé. Moïse interdit à Aaron et à ses fils restants les gestes de deuil indiqués et leur défend de quitter la tente, tandis qu'Israël peut pleurer les morts. Le chapitre expose des devoirs sacerdotaux et rapporte que Moïse accepte l'explication d'Aaron concernant l'offrande pour le péché qui n'a pas été mangée.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -879,10 +884,11 @@
       ],
       "crossRefs": [
         "Deutéronome 14:3-21: La même liste des bêtes pures et impures, avec quelques différences d'ordre et de détail.",
-        "Genèse 7:2-3: Noé prend les bêtes pures par sept et les impures par deux, bien avant le Sinaï.",
+        "Genèse 7:2-3: Avant les lois du Sinaï, Noé reçoit l’ordre de prendre sept couples de chaque sorte de bête pure et d’oiseau, mais un seul couple de chaque sorte de bête impure.",
         "Actes 10:9-16: La vision de la nappe chez Pierre, et la voix qui lui dit de ne pas appeler impur ce que Dieu a purifié.",
         "Ézéchiel 4:14: Ézéchiel proteste qu'il n'a jamais rien mangé d'impur de sa vie.",
-        "Daniel 1:8-16: Daniel refuse la nourriture du roi et demande des légumes et de l'eau à la place."
+        "Daniel 1:8-16: Daniel refuse la nourriture du roi et demande des légumes et de l'eau à la place.",
+        "Deutéronome 14:11-20: La loi autorise expressément les oiseaux purs tout en énumérant les oiseaux interdits, confirmant que les règles alimentaires n'excluent pas tous les oiseaux."
       ],
       "translationNotes": [
         {
@@ -919,9 +925,13 @@
           "term": "pourquoi le pot de terre est brisé",
           "original": "Hebrew: כְּלִי־חֶרֶשׂ (keli-cheres)",
           "note": "Lévitique 11:32-36 traite un objet selon sa matière. La terre cuite ancienne est poreuse et ne peut pas être récurée, si bien qu'un pot ou un four d'argile qui contracte l'impureté est brisé et jeté. Le bois, l'étoffe, le cuir et la toile de sac ne sont que rincés et sont purs au coucher du soleil, et une source ou une citerne reste pure parce que l'eau courante ou emmagasinée n'est pas un récipient. La règle suit la matière, non le prix de l'objet."
+        },
+        {
+          "term": "Contexte et interprétation",
+          "note": "La liste des oiseaux désigne les oiseaux interdits ; elle n'interdit pas tous les oiseaux. Deutéronome 14:11 et 14:20 autorise expressément les oiseaux purs."
         }
       ],
-      "keyTakeaway": "Dieu instruit Moïse et Aaron sur les animaux que les Israélites peuvent manger : les bêtes terrestres au sabot fendu qui ruminent, les créatures aquatiques à nageoires et à écailles, et certains insectes ; toutes les autres sont impures, et toucher leurs cadavres rend rituellement impur jusqu'au soir.",
+      "keyTakeaway": "Dieu indique à Moïse et à Aaron quels animaux les Israélites peuvent manger : les animaux terrestres qui ont le sabot fendu et ruminent, les animaux aquatiques pourvus de nageoires et d'écailles, les oiseaux autorisés et certains insectes. Les autres sont impurs, et le contact avec leurs cadavres entraîne une impureté rituelle jusqu'au soir.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1264,7 +1274,7 @@
         "Lévitique 12:1-8: La loi apparentée pour la femme après un accouchement, qui se referme sur la même offrande.",
         "Nombres 5:1-4: Quiconque a un écoulement ou une maladie de peau est envoyé hors du camp.",
         "Lévitique 22:4-7: Un prêtre qui a un écoulement ne peut pas manger les offrandes sacrées avant le coucher du soleil et un lavage.",
-        "Marc 5:25-34: Une femme qui perdait du sang depuis douze ans passe à travers la foule pour toucher son vêtement.",
+        "Marc 5:25-34: Jésus guérit une femme qui souffre de pertes de sang depuis douze ans ; ce cas précis de saignement prolongé éclaire les distinctions du Lévitique entre les différents écoulements.",
         "2 Samuel 11:4: Bethsabée est décrite comme se purifiant de son impureté."
       ],
       "translationNotes": [
@@ -1292,9 +1302,13 @@
           "term": "un écoulement de sang pendant bien des jours",
           "original": "Hebrew: זוֹב דָּמָהּ (zov damah)",
           "note": "Les versets 15:25-30 couvrent un saignement hors du cycle mensuel ou qui se prolonge au-delà, et déclarent la femme impure aussi longtemps qu'il dure, avec tout ce sur quoi elle se couche ou s'assied impur également. C'est la situation de la femme de Matthieu 9:20-22, Marc 5:25-34 et Luc 8:43-48, qui saignait depuis douze ans : douze ans pendant lesquels toucher quelqu'un transmettait l'impureté, et c'est pourquoi elle vient par-derrière et ne dit rien."
+        },
+        {
+          "term": "Contexte et interprétation",
+          "note": "Le chapitre distingue les émissions ordinaires de sperme et les règles des écoulements anormaux ou prolongés. Les offrandes après sept jours de pureté concernent les écoulements anormaux précisés, et non toute émission corporelle."
         }
       ],
-      "keyTakeaway": "Le SEIGNEUR établit des règles pour divers écoulements du corps ; toute personne ou tout objet touché par celui qui a un écoulement devient impur et exige un lavage et l'attente jusqu'au soir, avec des sacrifices de purification exigés après sept jours de purification.",
+      "keyTakeaway": "Le Seigneur donne des règles de purification distinctes pour les écoulements anormaux, les émissions de sperme et les règles. Elles comprennent des lavages, des périodes d'impureté et, pour certains écoulements anormaux, des offrandes après sept jours de pureté.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1759,16 +1773,16 @@
       ],
       "crossRefs": [
         "Lévitique 18:6-30: Les mêmes interdits exposés sans les peines attachées.",
-        "Deutéronome 18:9-14: La liste des pratiques interdites qu'Israël ne doit pas apprendre des nations de Canaan.",
+        "Deutéronome 18:9-14: La loi interdit de consulter les spirites, les devins et les morts ; elle fournit le cadre général de l'interdiction, tandis que le Lévitique distingue les peines indiquées.",
         "2 Rois 23:10: Josias souille le Topheth pour que nul ne puisse faire passer par le feu un fils ou une fille pour le Molek.",
         "Jérémie 32:35: Les hauts lieux de Baal dans la vallée de Ben-Hinnom, où l'on offrait des enfants au Molek.",
-        "1 Samuel 28:7-14: Saül consulte une médium à Eyn-Dor après les avoir bannis du pays."
+        "1 Samuel 28:7-14: Saül consulte une femme qui évoque les morts et qui craint d'être tuée en vertu de son interdiction ; le récit distingue le roi qui consulte de la praticienne."
       ],
       "translationNotes": [
         {
           "term": "Spirite / Médium",
           "original": "Hebrew: אוֹב (ʾov) / יִדְּעֹנִי (yiddeʿoni), Greek: ἐγγαστρίμυθος (engastrimythos) / μάντις (mantis), Aramaic: אובא (ʾova) / ידעונא (yidʿona)",
-          "note": "Celui qui interroge les esprits ou les morts ; strictement interdit sous peine de mort."
+          "note": "Un spirite ou un devin pratique la consultation des esprits ou des morts. Le verset 6 dit que Dieu retranchera celui qui le consulte, tandis que le verset 27 applique la peine de mort indiquée au spirite ou au devin."
         },
         {
           "term": "Retranché",
@@ -1809,9 +1823,13 @@
           "term": "D'où vient le mot arsenokoitai chez Paul",
           "original": "Greek (LXX) Leviticus 18:22: μετὰ ἄρσενος οὐ κοιμηθήσῃ κοίτην γυναικός - Greek (LXX) Leviticus 20:13: ὃς ἂν κοιμηθῇ μετὰ ἄρσενος κοίτην γυναικός - Greek: ἀρσενοκοῖται (arsenokoitai), singular ἀρσενοκοίτης (arsenokoites)",
           "note": "Le mot arsenokoitai chez Paul, en 1 Corinthiens 6:9 et 1 Timothée 1:10, désigne les hommes qui couchent avec des mâles. Littéralement, ce sont des coucheurs-avec-mâles : des hommes qui accomplissent des actes sexuels avec d'autres mâles. Koite est le mot grec ordinaire pour un lit et le terme habituel pour le rapport sexuel, comme le Nouveau Testament lui-même l'emploie en Romains 13:13 et Hébreux 13:4. Le mot est un composé rare, et ses deux moitiés se tiennent côte à côte dans l'Ancien Testament grec de ces deux versets : Lévitique 18:22 porte meta arsenos ou koimethese koiten gynaikos, et Lévitique 20:13 porte hos an koimethe meta arsenos koiten gynaikos, où arsenos et koiten sont contigus."
+        },
+        {
+          "term": "Contexte et interprétation",
+          "note": "Le verset 6 vise la personne qui se tourne vers les spirites et dit que Dieu la retranchera. Le verset 27 vise le spirite ou le devin et ordonne la lapidation. Le chapitre distingue les fautes et les peines qui leur sont attachées."
         }
       ],
-      "keyTakeaway": "Dieu ordonne à Moïse d'appliquer la peine de mort au sacrifice d'enfants au Molek, à la consultation des médiums, à la malédiction des parents, à l'adultère, à l'inceste, à la bestialité et à certaines violations sexuelles ; Israël doit garder ces décrets et ces distinctions entre le pur et l'impur pour rester saint et ne pas être rejeté par le pays.",
+      "keyTakeaway": "Le chapitre fixe des peines pour le culte de Molek et certaines fautes sexuelles et familiales, et appelle Israël à la sainteté. Il distingue ceux qui consultent les spirites, que Dieu retranchera, des personnes qui pratiquent elles-mêmes l'évocation des esprits ou la divination, pour lesquelles la peine de mort est prescrite.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1956,7 +1974,8 @@
         "Deutéronome 15:21: Une bête portant un défaut grave ne doit pas être sacrifiée au SEIGNEUR.",
         "Lévitique 21:16-23: L'exigence correspondante que le prêtre lui-même soit sans défaut.",
         "Nombres 18:8-13: Les offrandes sacrées attribuées aux prêtres et à leurs maisons pour leur nourriture.",
-        "1 Pierre 1:19: Le sang précieux du Christ, agneau sans défaut et sans tache."
+        "1 Pierre 1:19: Le sang précieux du Christ, agneau sans défaut et sans tache.",
+        "Deutéronome 23:22-24: Un voeu librement prononcé doit être accompli, tandis que s'abstenir d'en faire n'entraîne aucune faute ; cela éclaire l'obligation attachée à une offrande votive."
       ],
       "translationNotes": [
         {
@@ -1982,15 +2001,19 @@
         {
           "term": "vœu et offrande volontaire",
           "original": "Hebrew: נֶדֶר (neder) - נְדָבָה (nedavah)",
-          "note": "Un neder est une promesse déjà faite et désormais due ; une nedavah est donnée sans aucune obligation derrière elle. Lévitique 22:23 permet à une bête légèrement difforme de servir d'offrande volontaire mais non d'acquittement d'un vœu, parce qu'un vœu nomme ce qui sera apporté. Deutéronome 23:21-23 met en garde contre le fait d'en faire un à la légère."
+          "note": "Un neder est une promesse déjà faite et désormais due ; une nedavah est donnée sans aucune obligation derrière elle. Lévitique 22:23 permet à une bête légèrement difforme de servir d'offrande volontaire mais non d'acquittement d'un vœu, parce qu'un vœu nomme ce qui sera apporté. Deutéronome 23:22-24 met en garde contre le fait d'en faire un à la légère."
         },
         {
           "term": "pas le même jour que son petit",
           "original": "Hebrew: אֹתוֹ וְאֶת־בְּנוֹ (oto ve-et-beno)",
           "note": "Lévitique 22:28 interdit d'égorger le même jour une bête et son petit, et 22:27 exige d'abord qu'un nouveau-né reste sept jours avec sa mère. Deutéronome 22:6-7 donne la règle correspondante pour un nid d'oiseau, en laissant partir la mère avant de prendre les petits."
+        },
+        {
+          "term": "Contexte et interprétation",
+          "note": "Le verset 23 autorise comme offrande volontaire un bovin ou un ovin ayant un membre déformé ou atrophié, mais pas pour accomplir un voeu. Cette disposition constitue une exception explicite à l'exigence générale du chapitre."
         }
       ],
-      "keyTakeaway": "Il est dit à Moïse d'instruire Aaron et ses fils que les prêtres doivent être rituellement purs pour manger les offrandes sacrées, et que seuls certains membres de la famille peuvent en consommer. Dieu précise aussi que toutes les bêtes présentées en offrande doivent être sans défaut, et il donne des règles de délai pour les jeunes animaux et les sacrifices de reconnaissance.",
+      "keyTakeaway": "Moïse doit enseigner à Aaron et à ses fils que les prêtres doivent être rituellement purs pour manger les offrandes sacrées, et que seuls certains membres de leur famille peuvent en consommer. Dieu précise aussi que les animaux sacrifiés doivent être sans défaut, avec une exception indiquée pour certaines offrandes volontaires ; il donne enfin des règles sur l'âge des jeunes animaux et le délai pour manger les sacrifices de reconnaissance.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -2604,11 +2627,13 @@
         "Tels sont les commandements que le [DN]Seigneur[/DN] donna à Moïse, pour les Israélites, au mont Sinaï. (27:34)."
       ],
       "crossRefs": [
-        "Nombres 30:1-16: La loi des vœux, et les cas où un père ou un mari peut en annuler un.",
-        "Juges 11:30-39: Le vœu de Jephté et ce qui en advint.",
+        "Nombres 30:2-17: La loi des vœux, et les cas où un père ou un mari peut en annuler un.",
+        "Juges 11:30-39: Jephté promet un holocauste, sa fille unique vient à sa rencontre, et le récit rapporte qu'elle pleure sa virginité puis qu'il accomplit son voeu.",
         "1 Samuel 1:11: Anne fait vœu de donner son fils au SEIGNEUR pour tous les jours de sa vie.",
-        "Ecclésiaste 5:4-5: Quand tu fais un vœu à Dieu, ne tarde pas à l'accomplir.",
-        "Malachie 3:8-10: Apportez toute la dîme au trésor, et mettez-moi ainsi à l'épreuve."
+        "Ecclésiaste 5:3-4: Quand tu fais un vœu à Dieu, ne tarde pas à l'accomplir.",
+        "Malachie 3:8-10: Apportez toute la dîme au trésor, et mettez-moi ainsi à l'épreuve.",
+        "Lévitique 5:4-6: Celui qui reconnaît sa culpabilité après un serment irréfléchi doit confesser sa faute et apporter une offrande d'expiation ; la Torah prévoit donc un remède aux paroles jurées à la légère.",
+        "Deutéronome 12:31: Israël ne doit pas imiter le culte des nations qui brûlent leurs fils et leurs filles ; ce passage donne l'interdiction des sacrifices d'enfants dans la Torah."
       ],
       "translationNotes": [
         {
@@ -2639,7 +2664,7 @@
         {
           "term": "les estimations",
           "original": "Hebrew: עֶרְכְּךָ (erkekha), 'your valuation'",
-          "note": "Un tarif fixe pour racheter une personne vouée au SEIGNEUR : cinquante sicles pour un homme de vingt à soixante ans, trente pour une femme, vingt et dix pour ceux de cinq à vingt ans, cinq et trois pour les nourrissons, quinze et dix pour les vieillards (27:3-7). À environ 11,4 grammes le sicle, cinquante sicles font à peu près 570 grammes d'argent. Le verset 8 permet au prêtre de fixer un chiffre plus bas pour qui ne peut pas payer."
+          "note": "Il s'agit d'évaluations monétaires pour les voeux concernant des personnes : cinquante sicles pour un homme de vingt à soixante ans, trente pour une femme, vingt et dix pour les personnes de cinq à vingt ans, cinq et trois pour les enfants d'un mois à cinq ans, quinze et dix pour les personnes âgées (27:3-7). À environ 11,4 grammes par sicle, cinquante sicles représentent quelque 570 grammes d'argent. Le verset 8 permet au prêtre de fixer une somme inférieure pour celui qui ne peut pas payer."
         },
         {
           "term": "homer",
@@ -2650,9 +2675,13 @@
           "term": "passe sous le bâton du berger",
           "original": "Hebrew: תַּחַת הַשָּׁבֶט (tachat ha-shavet)",
           "note": "Le troupeau était compté en passant par une porte étroite tandis que le berger touchait de son bâton chaque dixième bête pour la marquer pour la dîme (27:32). Il est interdit au propriétaire de les passer en revue et de choisir, ou d'échanger une bête marquée contre une moins bonne. Jérémie 33:13 et Ézéchiel 20:37 emploient tous deux la même image."
+        },
+        {
+          "term": "Contexte et interprétation",
+          "note": "Les versets 2-8 fixent des évaluations monétaires pour les voeux concernant des personnes. Les versets 28-29 traitent séparément du hérem, une consécration irrévocable ; ils n'autorisent pas un père à condamner un enfant innocent à mort par un voeu personnel. Les dîmes des récoltes peuvent être rachetées en ajoutant un cinquième, contrairement aux dîmes du bétail."
         }
       ],
-      "keyTakeaway": "Dieu instruit Moïse sur la manière d'estimer les personnes, les bêtes, les maisons et les terres consacrées quand quelqu'un fait un vœu au SEIGNEUR, avec des règles précises de rachat et des interdits de substitution. Les dîmes des produits de la terre et du bétail sont déclarées sacrées pour le SEIGNEUR et ne peuvent être ni rachetées ni échangées.",
+      "keyTakeaway": "Dieu enseigne à Moïse comment évaluer les personnes, les animaux, les maisons et les terres consacrés par un voeu au Seigneur, avec des règles précises de rachat et des interdictions de substitution. Les biens voués irrévocablement au Seigneur, selon le régime du hérem, suivent des règles distinctes et ne peuvent être rachetés. Les dîmes des récoltes peuvent être rachetées en ajoutant un cinquième à leur valeur ; les dîmes du bétail ne peuvent être ni rachetées ni échangées.",
       "headings": [
         {
           "beforeVerse": 1,

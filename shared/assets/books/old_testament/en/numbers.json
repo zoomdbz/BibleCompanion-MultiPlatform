@@ -1584,8 +1584,8 @@
         "Anyone who comes near the tabernacle of the LORD will die. Are we all going to perish?” (17:13)."
       ],
       "crossRefs": [
-        "Hebrews 9:4: The ark contained the gold jar of manna, Aaron's staff that had budded, and the tablets of the covenant.",
-        "Exodus 16:32-34: A jar of manna kept before the Testimony as a record for the generations to come.",
+        "Hebrews 9:4: Hebrews lists Aaron's budded staff inside the ark, making its wording important alongside Numbers' description of placement before the Testimony.",
+        "Exodus 16:32-34: Aaron places a preserved jar of manna before the Testimony, providing parallel wording for the staff's placement in Numbers 17.",
         "Jeremiah 1:11-12: The branch of an almond tree, and the wordplay on God watching over His word to perform it.",
         "Ezekiel 7:10: The rod has budded, arrogance has blossomed.",
         "Numbers 16:1-11: The challenge to Aaron's priesthood that this sign is answering."
@@ -1610,9 +1610,13 @@
           "term": "We are all lost",
           "original": "",
           "note": "The people's reaction in verses 12 and 13 is not repentance but panic about proximity: anyone who comes near the tabernacle dies, so are we all going to die? Chapter 18 opens as the direct answer to that question, assigning the Levites as the buffer who bear the risk on everyone else's behalf. The chapter division cuts a single exchange in half."
+        },
+        {
+          "term": "Context and interpretation",
+          "note": "Numbers 17:10 places the staff before the Testimony. Hebrews 9:4 later lists Aaron's staff among the objects associated with the ark's contents; the two passages describe their settings differently."
         }
       ],
-      "keyTakeaway": "God instructs Moses to collect twelve staffs from the tribal leaders, place them in the tent of meeting, and declares that the staff of his chosen leader will sprout; the next day Aaron's staff has budded, blossomed, and produced almonds. Moses returns Aaron's staff to the ark as a sign to silence the Israelites' complaints, though they respond with fear that they will die for approaching the tabernacle.",
+      "keyTakeaway": "God instructs Moses to collect twelve staffs from the tribal leaders, place them in the tent of meeting, and declares that the staff of his chosen leader will sprout; the next day Aaron's staff has budded, blossomed, and produced almonds. Moses returns Aaron's staff to its place before the ark as a sign to silence the Israelites' complaints, though they respond with fear that they will die for approaching the tabernacle.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -2393,10 +2397,12 @@
       ],
       "crossRefs": [
         "Numbers 1:44-46: The first census in the Wilderness of Sinai returned 603,550 men of fighting age.",
-        "Numbers 14:29-32: God's oath that everyone counted in the first census would fall in the wilderness.",
+        "Numbers 14:29-32: The LORD declares that the grumbling generation counted from age twenty upward will fall in the wilderness, while expressly excepting Caleb and Joshua from exclusion from the land.",
         "Joshua 14:1-2: The land divided by lot among the tribes by Eleazar, Joshua and the heads of the families.",
         "1 Chronicles 6:31-38: Heman the singer, set over the music by David, traced back through Korah to Levi.",
-        "Numbers 27:1-7: The daughters of Zelophehad, listed by name here, bring their claim before Moses."
+        "Numbers 27:1-7: The daughters of Zelophehad, listed by name here, bring their claim before Moses.",
+        "Numbers 1:2-3: The first census registers men twenty or older who can serve in the army, defining the group compared with the later census.",
+        "Numbers 14:29-31: The counted adults are sentenced to die in the wilderness except Caleb and Joshua, while their children are promised entry into the land."
       ],
       "translationNotes": [
         {
@@ -2418,9 +2424,13 @@
           "term": "Clans",
           "original": "Hebrew: מִשְׁפָּחָה (mishpachah)",
           "note": "The chapter is not a list of individuals but of clans, each named for a founding ancestor, and the counts are given by clan. This was the working unit of Israelite society between the household and the tribe: it held land together, supplied the kinsman-redeemer, and provided the men who answered a muster. Achan is identified through exactly this ladder, tribe then clan then household then man (Joshua 7:16-18)."
+        },
+        {
+          "term": "Context and interpretation",
+          "note": "The comparison concerns the men registered for military service, not every person alive at the exodus. The Levites have a separate count, and the children of the wilderness generation are the people now preparing to enter the land."
         }
       ],
-      "keyTakeaway": "Moses and Eleazar conduct a census of Israel on the plains of Moab, recording 601,730 men twenty years old or more across the twelve tribes; the LORD instructs that land inheritance be distributed by lot according to population size. The Levites are counted separately at 23,000 and receive no land inheritance; notably, none of the original generation counted in the wilderness remain except Caleb and Joshua.",
+      "keyTakeaway": "Moses and Eleazar count 601,730 men of military age and assign land by lot according to tribal size. The Levites are counted separately. Of the men counted in the first military census, only Caleb and Joshua remain.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -2786,9 +2796,11 @@
       "crossRefs": [
         "Deuteronomy 23:21-23: When you make a vow, do not delay in fulfilling it; if you refrain from vowing, that is no sin.",
         "Ecclesiastes 5:4-5: It is better not to vow than to vow and not fulfil it.",
-        "Judges 11:30-39: Jephthah makes a rash vow before battle and it costs him his daughter.",
+        "Judges 11:30-39: Jephthah vows a burnt offering, his only daughter greets him, and the account reports her mourning virginity and his fulfilling the vow.",
         "1 Samuel 1:11,24-28: Hannah's vow, and its fulfilment when she brings the boy to the house of the LORD at Shiloh.",
-        "Matthew 5:33-37: Do not swear at all; let your yes be yes and your no be no."
+        "Matthew 5:33-37: Do not swear at all; let your yes be yes and your no be no.",
+        "Leviticus 5:4-6: A person who realizes guilt from a rash oath must confess and bring an offering for atonement, providing a remedy for rashly sworn words.",
+        "Deuteronomy 12:31: Israel must not imitate the nations' worship that burns sons and daughters, providing the Torah's prohibition of child sacrifice."
       ],
       "translationNotes": [
         {
@@ -2809,10 +2821,14 @@
         {
           "term": "A widow or divorced woman",
           "original": "",
-          "note": "Verse 9 states the exception without qualification: whatever a widow or a divorced woman binds herself to stands. She is answerable to no father and no husband and her word is her own. Anna in Luke 2:36-37 is a widow living permanently at the temple in fasting and prayer, which is the kind of standing commitment this verse leaves open to her."
+          "note": "Verse 9 states that the vows of a widow or divorced woman are binding, without the father-or-husband annulment described elsewhere in the chapter. She is answerable to no father and no husband and her word is her own. Anna in Luke 2:36-37 is a widow living permanently at the temple in fasting and prayer, which is the kind of standing commitment this verse leaves open to her."
+        },
+        {
+          "term": "Context and interpretation",
+          "note": "These rules address whether a vow is binding or can be annulled within a household. They do not turn a forbidden act into a lawful one. Leviticus 5:4-6 provides confession and atonement for rash oaths, and Deuteronomy 12:31 condemns child sacrifice."
         }
       ],
-      "keyTakeaway": "Moses conveys laws about vows; a man's vow is binding on him, but a father can void his unmarried daughter's vows and a husband can void his wife's vows if he forbids them when he hears of them, while a widow's or divorced woman's vows always stand.",
+      "keyTakeaway": "Moses gives laws on binding vows and the circumstances in which a father or husband may annul a woman's vow. The chapter also states that the vows of widows and divorced women are binding.",
       "headings": [
         {
           "beforeVerse": 1,

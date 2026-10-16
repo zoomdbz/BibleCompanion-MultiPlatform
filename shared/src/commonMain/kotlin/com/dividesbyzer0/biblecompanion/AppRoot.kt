@@ -1446,7 +1446,7 @@ fun HomeScreen(
                     platformShareText(
                       ctx,
                       votdLocalRef,
-                      "${wrapVotdQuotes(stripScriptureInlineTags(votd.text))}\n\u2014 $votdLocalRef"
+                      "${wrapVotdQuotes(stripScriptureInlineTags(votd.text), prefs.appLanguage)}\n\u2014 $votdLocalRef"
                     )
                   }
                 ) {
@@ -1493,7 +1493,7 @@ fun HomeScreen(
             }
             Spacer(Modifier.height(4.dp))
             Text(
-              highlightSearchSnippet(wrapVotdQuotes(votd.text), "", prefs, votdCollection),
+              highlightSearchSnippet(wrapVotdQuotes(votd.text, prefs.appLanguage), "", prefs, votdCollection),
               style = MaterialTheme.typography.bodyMedium,
               fontStyle = FontStyle.Italic,
               color = votdOnContainer
@@ -4242,30 +4242,6 @@ private fun savedVerseUiKey(saved: SavedVerse): String = buildString {
   append(saved.verseStart ?: saved.bulletIndex).append('/')
   append(saved.verseEnd ?: saved.verseStart ?: saved.bulletIndex).append('/')
   append(saved.editionId)
-}
-
-// Wrap verse text in curly quotation marks for VOTD display/share, but skip
-// quotes that already exist on either edge of the source text. Bible verses
-// often begin or end with quoted speech (~21 / 366 in the EN bank); without
-// this guard those days render as ""..."" in the card.
-//
-// Edge handling: a verse may end with the close-curly-quote followed by
-// sentence punctuation (e.g. `... will see.”` followed by `.`), so detect
-// the close-curly after trimming trailing punctuation. Same on the lead
-// side for occasional leading whitespace bytes.
-private fun wrapVotdQuotes(text: String): String {
-  val t = text.trim()
-  if (t.isEmpty()) return t
-  val leadProbe = t.trimStart(' ', ' ', ' ', ' ')
-  val trailProbe = t.trimEnd('.', '!', '?', ',', ';', ':', ' ')
-  val hasLead = leadProbe.startsWith('“')
-  val hasTrail = trailProbe.endsWith('”')
-  return when {
-    hasLead && hasTrail -> t
-    hasLead -> "$t”"
-    hasTrail -> "“$t"
-    else -> "“$t”"
-  }
 }
 
 internal fun findBulletsForVerseRange(

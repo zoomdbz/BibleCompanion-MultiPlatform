@@ -127,7 +127,9 @@ object DailyVerseNotifications {
       val title = ContentRepo.listBooksLocalized(context, collection, language)
         .firstOrNull { it.first == bookId }?.second ?: book.title
       val reference = "$title $chapter:$first" + if (last == first) "" else "-$last"
-      val text = notificationPlainText(verse.text, prefs.divineName, language, collection)
+      val text = wrapVotdQuotes(
+        notificationPlainText(verse.text, prefs.divineName, language, collection), language
+      )
       return DailyVerseNotificationContent(
         labels.title, text, reference,
         Dest.BookView.route(collection, bookId, story, verse = first, verseEnd = last,

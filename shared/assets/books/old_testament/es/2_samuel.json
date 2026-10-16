@@ -652,11 +652,12 @@
         "Tullido de ambos pies, Mefiboset vivía en Jerusalén, pues siempre se sentaba a la mesa del rey. (9:13)."
       ],
       "crossRefs": [
-        "1 Samuel 20:14-17: Jonatán hace jurar a David que nunca apartará de su casa su bondad de pacto.",
+        "1 Samuel 20:14-17: Jonatán pide a David que mantenga su amor leal hacia su familia, estableciendo la obligación del pacto que explica la bondad de David con Mefiboset.",
         "1 Samuel 20:42: El SEÑOR está entre tú y yo, y entre mi descendencia y la tuya, para siempre.",
         "2 Samuel 4:4: El hijo de Jonatán se cae de brazos de su nodriza a los cinco años, el día en que llegó la noticia de Jezreel, y queda cojo.",
         "2 Samuel 16:1-4: Sibá sale al encuentro de David con provisiones y acusa a Mefiboset de quedarse en Jerusalén para reclamar el trono.",
-        "2 Samuel 21:7: David libra a Mefiboset de los gabaonitas por el juramento hecho entre él y Jonatán."
+        "2 Samuel 21:7: David libra a Mefiboset de los gabaonitas por el juramento hecho entre él y Jonatán.",
+        "2 Samuel 17:27-29: Maquir de Lo Debar ayuda a abastecer a David y a su gente en Majanayin, confirmando su relación posterior con David sin explicar la residencia anterior de Mefiboset."
       ],
       "translationNotes": [
         {
@@ -665,22 +666,26 @@
           "note": "Chesed es la lealtad debida por una obligación permanente y mantenida después de que la obligación podría dejarse caer sin riesgo. El versículo 1 pregunta si queda alguien de la casa de Saúl a quien David pueda mostrar chesed por amor a Jonatán, y el versículo 3 lo llama el chesed de Dios. No es una amabilidad espontánea; es una cláusula que se cumple. Jonatán se la había hecho jurar a David, para él y para sus descendientes, en 1 Samuel 20:14-15, cuando las probabilidades corrían en sentido contrario."
         },
         {
-          "term": "Cojo",
+          "term": "Lisiado",
           "original": "Hebrew: פִּסֵּחַ (pisseach), lame",
-          "note": "4:4 explica la lesión: Mefiboset tenía cinco años cuando llegó la noticia de Jezreel, su nodriza lo tomó y echó a correr, y él cayó y quedó lisiado de ambos pies. En un mundo sin sillas de ruedas, un hombre cojo de los dos pies no podía labrar, ni pelear, ni viajar, así que dependía por completo de una casa que quisiera mantenerlo. El versículo 13 anota que vivía en Jerusalén y comía a la mesa del rey, y repite que estaba cojo de ambos pies, y por eso ese arreglo era toda su seguridad."
+          "note": "2 Samuel 4:4 explica la lesión: Mefiboset tenía cinco años cuando llegó la noticia de Jezrel; su nodriza lo tomó para huir, y él cayó y quedó lisiado de ambos pies. El versículo 13 dice que vivía en Jerusalén y comía a la mesa del rey, y vuelve a afirmar que estaba lisiado de ambos pies. En 19:26 dice que pensaba viajar montado en un burro."
         },
         {
           "term": "Lo Debar",
           "original": "Hebrew: לֹא דְבָר (Lo Devar)",
-          "note": "El versículo 4 encuentra al último heredero de la casa de Saúl viviendo en Lo Debar, en Galaad, al oriente del Jordán, en casa de Maquir hijo de Amiel. Al otro lado del río era el sitio más seguro para tenerlo: fuera del alcance del nuevo rey, en la región que había respaldado a Isboset. Maquir reaparece una vez más, mandando comida y ropa de cama a David en Majanayin cuando Absalón lo expulsa (17:27-29), así que el hombre que acoge al nieto de Saúl abastece después al ejército de David."
+          "note": "El versículo 4 sitúa al hijo de Jonatán viviendo en Lo Debar, en Galaad, al este del Jordán, en la casa de Maquir, hijo de Amiel. Maquir reaparece enviando comida y ropa de cama a David en Majanayin cuando Absalón lo expulsa (17:27-29), de modo que el hombre que alojó al nieto de Saúl abastece después al ejército de David."
         },
         {
           "term": "Comer a la mesa del rey",
           "original": "",
-          "note": "Los versículos 7, 10, 11 y 13 repiten que Mefiboset come a la mesa del rey. Un puesto en la mesa era una concesión formal de manutención vitalicia a costa del erario real, registrada de la misma manera para el liberado Joaquín en Babilonia (2 Reyes 25:29). Mantenía además al último heredero de la dinastía anterior donde el rey pudiera verlo todos los días."
+          "note": "Los versículos 7, 10, 11 y 13 repiten que Mefiboset come a la mesa del rey. Un lugar en esa mesa era una concesión formal de manutención vitalicia a expensas de la corona, registrada de igual forma para Joaquín cuando fue liberado en Babilonia (2 Reyes 25:29)."
+        },
+        {
+          "term": "Contexto e interpretación",
+          "note": "Mefiboset vive en la casa de Maquir en Lo Debar. El capítulo no dice que esté escondido ni explica por qué vive allí. Más adelante Maquir abastece a David durante la rebelión de Absalón."
         }
       ],
-      "keyTakeaway": "David busca a cualquiera que quede de la casa de Saúl para mostrarle bondad por amor a Jonatán, y saca de su escondite a Mefiboset, el hijo cojo de Jonatán, para devolverle las tierras de su familia y concederle un lugar permanente a la mesa real.",
+      "keyTakeaway": "David busca a un superviviente de la casa de Saúl para mostrarle bondad por amor a Jonatán. Trae a Mefiboset de la casa de Maquir en Lo Debar, le devuelve las tierras de Saúl y le concede un lugar permanente a la mesa real.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -878,23 +883,23 @@
         "Éxodo 22:1: El hombre que roba una oveja y la mata paga cuatro ovejas, la sentencia cuádruple que David dicta sobre sí mismo.",
         "Salmos 51:1-19: La confesión de David, con encabezado de cuando el profeta Natán vino a él después de lo de Betsabé.",
         "2 Samuel 16:20-22: Absalón se llega a las concubinas de su padre en la azotea, a la vista de todo Israel.",
-        "1 Crónicas 20:1-3: El relato paralelo de la caída de Rabá, la corona de un talento de oro y el trabajo forzado."
+        "1 Crónicas 20:1-3: El relato paralelo atribuye a Joab el asedio de Rabá y a David la corona, el botín y la organización de los trabajos, distinguiendo sus acciones."
       ],
       "translationNotes": [
         {
           "term": "*pecado*",
           "original": "Hebrew: חָטָא (chata), to miss - Greek (LXX): ἁμαρτία (hamartia)",
-          "note": "Chata es el verbo llano de errar el blanco; Jueces 20:16 lo usa de honderos que no fallan ni un cabello. La respuesta de David en el versículo 13 son tres palabras en hebreo, chatati la-YHWH, he pecado contra el SEÑOR, y la réplica de Natán llega en el mismo aliento. El encabezado del Salmo 51 nombra esta ocasión, y ese salmo echa mano de tres palabras distintas en sus dos primeros versículos: transgresión, maldad y esta."
+          "note": "Chata es el verbo llano de errar el blanco; Jueces 20:16 lo usa de honderos que no fallan ni un cabello. David responde en el versículo 13, chatati la-YHWH, he pecado contra el SEÑOR, y la réplica de Natán llega en el mismo aliento. El encabezado del Salmo 51 nombra esta ocasión, y ese salmo echa mano de tres palabras distintas en sus dos primeros versículos: transgresión, maldad y esta."
         },
         {
           "term": "*arrepentirse*",
           "original": "Hebrew: שׁוּב (shuv), to turn back",
-          "note": "La palabra hebrea que hay detrás de arrepentirse no trata del sentimiento; es el verbo corriente de darse la vuelta y regresar, usado de un caminante o de un ejército. Lo que piden los profetas es un cambio de dirección que se pueda ver desde fuera. Este capítulo muestra la diferencia entre remordimiento y arrepentimiento en un hombre a lo largo de dos semanas: los versículos 16 al 20 tienen a David ayunando y tendido en el suelo siete días por el niño, y luego lavándose, ungiéndose y entrando a adorar en el momento en que el niño muere."
+          "note": "La palabra hebrea que hay detrás de arrepentirse no trata del sentimiento; es el verbo corriente de darse la vuelta y regresar, usado de un caminante o de un ejército. Lo que piden los profetas es un cambio de dirección que se pueda ver desde fuera. Este capítulo muestra la diferencia entre remordimiento y arrepentimiento en la respuesta de David: los versículos 16 al 20 presentan a David ayunando y tendido en el suelo siete días por el niño, y luego lavándose, ungiéndose y entrando a adorar en el momento en que el niño muere."
         },
         {
           "term": "Restitución cuádruple",
           "original": "Hebrew: אַרְבַּעְתָּיִם (arbaatayim), fourfold",
-          "note": "La sentencia que el propio David dicta en el versículo 6, que el hombre debe pagar la corderita cuatro veces, es una cita del estatuto. Éxodo 22:1 exige cuatro ovejas por una oveja robada y degollada, y cinco bueyes por un buey. No está inventando una pena en un arrebato; está aplicando la ley que conoce, correctamente, a un caso que todavía no ha reconocido como suyo. Natán responde entonces en el versículo 7 con cuatro palabras en hebreo: tú eres ese hombre."
+          "note": "La sentencia que el propio David dicta en el versículo 6, que el hombre debe pagar la corderita cuatro veces, es una cita del estatuto. Éxodo 22:1 exige cuatro ovejas por una oveja robada y degollada, y cinco bueyes por un buey. No está inventando una pena en un arrebato; está aplicando la ley que conoce, correctamente, a un caso que todavía no ha reconocido como suyo. Natán identifica entonces a David en el versículo 7: tú eres ese hombre."
         },
         {
           "term": "Rabá y el suministro de agua",
@@ -915,9 +920,13 @@
           "term": "Se tendió en el suelo y ayunó",
           "original": "",
           "note": "Los versículos 16 al 20 exponen las señales corrientes del duelo y de la súplica: ayunar, dormir en el suelo desnudo, negarse a lavarse, a ungirse o a cambiarse de ropa. Ungirse con aceite de oliva era el aseo diario en un país caluroso y seco, así que andar sin ungir se veía a la legua. Los siervos de David se asustan en el versículo 18 porque él hace todo eso antes de la muerte y nada de ello después."
+        },
+        {
+          "term": "Contexto e interpretación",
+          "note": "Joab informa que ha tomado el suministro de agua y pide a David que lleve las tropas restantes y conquiste la ciudad. David la toma después. El relato distingue el éxito de Joab en el asedio de la conquista final de David. La edición inglesa Berean Standard Bible y esta traducción presentan 12:31 como trabajos forzados con herramientas y fabricación de ladrillos; otras ediciones describen la muerte de los cautivos con herramientas. La formulación se interpreta de distintas maneras, por lo que este trato debe distinguirse del relato sobre quién conquistó la ciudad. El relato paralelo está en 1 Crónicas 20:3."
         }
       ],
-      "keyTakeaway": "Natán enfrenta a David con una parábola sobre un rico que roba la corderita de un pobre, y luego revela que David mismo es ese hombre por tomar a la mujer de Urías y disponer la muerte de Urías; David confiesa su pecado, el hijo que le nace de Betsabé muere pese a su ayuno y su oración, y más tarde David y Betsabé conciben a Salomón, a quien el SEÑOR ama. Joab captura Rabá de los amonitas, y David toma la ciudad, la saquea y somete a su gente a trabajo forzado.",
+      "keyTakeaway": "Natán confronta a David por Betsabé y Urías. David confiesa, el niño muere pese a su oración y después nace Salomón. En Rabá, Joab toma el suministro de agua y llama a David para completar la conquista; David toma la corona y el botín y pone a trabajar a la población.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1380,7 +1389,7 @@
         "Al oír esto, el rey se estremeció y, mientras subía al cuarto que está encima de la puerta, lloraba y decía: «¡Ay, Absalón, hijo mío! ¡Hijo mío, Absalón, hijo mío! ¡Ojalá hubiera muerto yo en tu lugar! ¡Ay, Absalón, hijo mío, hijo mío!». (18:33)."
       ],
       "crossRefs": [
-        "2 Samuel 14:25-26: El corte de pelo anual de Absalón, pesado en doscientos siclos del peso del rey.",
+        "2 Samuel 14:25-26: Se describen el aspecto de Absalón y su cabello excepcionalmente pesado, ofreciendo el detalle anterior que suele relacionarse con el episodio posterior del árbol.",
         "Deuteronomio 21:18-21: La ley para el hijo obstinado y rebelde que no quiere escuchar ni a su padre ni a su madre.",
         "2 Samuel 12:10-12: La palabra de que la espada nunca se apartaría de la casa de David.",
         "2 Samuel 19:1-8: Joab enfrenta a David por avergonzar a los hombres que le salvaron la vida al hacer duelo por el hombre que lo perseguía.",
@@ -1405,15 +1414,19 @@
         {
           "term": "Se le trabó la cabeza en la encina",
           "original": "Hebrew: אֵלָה (elah), terebinth or great tree",
-          "note": "El versículo 9 dice que se le trabó la cabeza en el árbol, no el cabello; el cabello lo añade el lector. Va montado en una mula bajo un terebinto bajo y de ramas gruesas en terreno de bosque quebrado, y queda colgado entre el árbol y el cielo cuando el animal sigue adelante. El versículo 8 ya ha anotado que aquel día el bosque mató a más hombres que la espada."
+          "note": "El versículo 9 dice que se le trabó la cabeza en el árbol, no el cabello; el cabello lo añade el lector. Va montado en una mula bajo un terebinto bajo y de ramas gruesas en terreno de bosque quebrado, y queda colgado en el aire cuando el animal sigue adelante. El versículo 8 ya ha anotado que aquel día el bosque mató a más hombres que la espada."
         },
         {
           "term": "Dos corredores",
           "original": "",
           "note": "Los versículos 19 al 27 giran sobre las dos rutas de salida del bosque de Efraín: el cusita va derecho por los montes, y Ajimaz toma el camino llano más largo por la llanura del Jordán y aun así llega primero. Las noticias viajaban al paso de un hombre a pie, y un vigía en la torre de la puerta identificaba a los corredores por su modo de correr mucho antes de que llegaran (versículo 27). Ser el primero con la noticia era en sí una posición en la corte."
+        },
+        {
+          "term": "Contexto e interpretación",
+          "note": "El versículo 9 dice que la cabeza de Absalón quedó atrapada en el árbol; no identifica su cabello como la causa. Joab le clavó tres lanzas y después diez escuderos lo golpearon y mataron."
         }
       ],
-      "keyTakeaway": "David organiza sus fuerzas en tres divisiones bajo Joab, Abisay e Itay, y luego se sitúa en la puerta de la ciudad mientras sus tropas salen; a Absalón se le traba la cabeza en una encina durante la batalla, y Joab lo mata con tres jabalinas pese a la orden de David de perdonarle la vida. Unos corredores llevan a David la noticia de que la batalla está ganada, pero cuando se entera de que Absalón ha muerto, se duele profundamente en la sala de la puerta, y lamenta no haber muerto él en lugar de su hijo.",
+      "keyTakeaway": "David organiza sus fuerzas en tres divisiones bajo Joab, Abisay e Itay, y se coloca junto a la puerta de la ciudad mientras sus tropas marchan; durante la batalla, la cabeza de Absalón queda atrapada en una encina. Pese a la orden de David de perdonarle la vida, Joab le clava tres lanzas y diez escuderos lo matan. Unos corredores informan a David de la victoria, pero al enterarse de la muerte de Absalón se aflige profundamente en la habitación sobre la puerta y lamenta no haber muerto en lugar de su hijo.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1633,13 +1646,15 @@
         "Números 35:33: La sangre contamina la tierra, y no puede hacerse expiación por ella sino con la sangre del que la derramó.",
         "Deuteronomio 21:22-23: Un cuerpo colgado de un madero no se ha de dejar de noche, porque el colgado está bajo la maldición de Dios.",
         "1 Samuel 17:4-7: Goliat de Gat, de seis codos y un palmo, con un asta de lanza como un rodillo de telar.",
-        "1 Crónicas 20:4-8: La lista paralela de los gigantes filisteos muertos por los hombres de David."
+        "1 Crónicas 20:4-8: La lista paralela de los gigantes filisteos muertos por los hombres de David.",
+        "Josué 9:15-20: Los líderes de Israel respetan el tratado jurado con los gabaonitas después de descubrir el engaño, estableciendo el juramento que explica la disputa posterior por la culpa de sangre.",
+        "Deuteronomio 24:16: Padres e hijos no deben ser ejecutados por los pecados unos de otros, lo que aporta la ley pertinente a la ejecución de los descendientes de Saúl."
       ],
       "translationNotes": [
         {
-          "term": "Los gabaonitas y el juramento roto",
+          "term": "Los gabaonitas y el juramento quebrantado",
           "original": "Hebrew: שְׁבוּעָה (shevuah), a sworn oath",
-          "note": "Los versículos 1 y 2 se remontan casi cuatro siglos. Los gabaonitas habían obtenido un tratado de Josué con engaño, e Israel les juró por el SEÑOR y lo cumplió incluso después de que el fraude saliera a la luz (Josué 9:15-20). Saúl rompió ese juramento e intentó exterminarlos, y el hambre se atribuye a eso. El versículo 4 es el detalle que un lector no debe saltarse: rechazan plata u oro, que es el rescate que Números 35:31 prohíbe aceptar por una vida, y piden en cambio hombres de la casa que derramó la sangre."
+          "note": "Los versículos 1 y 2 remiten a casi cuatro siglos antes. Los gabaonitas habían obtenido un tratado de Josué mediante engaño, e Israel les juró por el SEÑOR y lo respetó incluso después de descubrir el fraude (Josué 9:15-20). Saúl quebrantó ese juramento e intentó exterminarlos, y la hambruna se atribuye a ello. El versículo 4 registra su rechazo de plata u oro. Piden siete descendientes de Saúl, a quienes David entrega para su ejecución; el capítulo no identifica la participación personal de cada víctima en el ataque de Saúl. Números 35:31 prohíbe aceptar rescate por un asesino culpable que merece la muerte."
         },
         {
           "term": "Expiación",
@@ -1660,9 +1675,13 @@
           "term": "Rizpa sobre la roca",
           "original": "",
           "note": "Los versículos 9 y 10 sitúan la exposición al comienzo de la siega de la cebada, que es abril, y dicen que Rizpa mantuvo alejados de los cuerpos a las aves y a los animales salvajes hasta que cayó la lluvia. Las primeras lluvias llegan en octubre. Se quedó sobre cilicio junto a sus hijos cerca de seis meses, a la intemperie, y la exigencia de la ley de que un cuerpo se sepulte ese mismo día (Deuteronomio 21:23) es lo que convierte su vigilia en una acusación a la que el rey por fin responde en el versículo 13."
+        },
+        {
+          "term": "Contexto e interpretación",
+          "note": "La hambruna se relaciona con el ataque de Saúl contra los gabaonitas, cuyo tratado Israel había jurado respetar. David entrega a siete descendientes de Saúl; los gabaonitas los ejecutan. El capítulo no identifica la participación personal de cada víctima en el ataque de Saúl, y Deuteronomio 24:16 prohíbe ejecutar a los hijos por los pecados de sus padres."
         }
       ],
-      "keyTakeaway": "Un hambre de tres años lleva a David a ejecutar a siete descendientes de Saúl para satisfacer a los gabaonitas, a quienes Saúl había intentado exterminar; después de sepultar debidamente los restos, Dios pone fin al hambre y las fuerzas de David derrotan a varios gigantes filisteos en batallas posteriores.",
+      "keyTakeaway": "Una hambruna de tres años se relaciona con el ataque de Saúl contra los gabaonitas. David entrega a siete descendientes de Saúl a los gabaonitas, quienes los ejecutan; después de enterrar los restos, Dios responde a la oración por la tierra. Las fuerzas de David también derrotan a varios gigantes filisteos.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1823,11 +1842,11 @@
         "y Urías, el hitita. En total fueron treinta y siete. (23:39)."
       ],
       "crossRefs": [
-        "1 Crónicas 11:10-47: La lista paralela de los valientes de David, con otra relación de nombres al final.",
+        "1 Crónicas 11:10-47: Crónicas enumera por separado a los valientes de David y sus hazañas, ofreciendo el catálogo paralelo a la lista que sigue a su último oráculo.",
         "2 Samuel 7:12-16: El pacto que estas últimas palabras llaman eterno, ordenado en todo y seguro.",
         "Números 15:5,10: La libación derramada al SEÑOR junto al holocausto.",
         "Miqueas 5:2: Belén, pequeña entre los clanes de Judá, de la cual sale el gobernante de Israel.",
-        "Salmos 72:1-7: El rey que gobierna en el temor de Dios es como la luz de la mañana y como la lluvia sobre la hierba segada."
+        "Salmos 72:1-7: La oración pide un rey que juzgue con justicia, defienda a los pobres y traiga prosperidad como la lluvia sobre un campo segado."
       ],
       "translationNotes": [
         {
@@ -1849,9 +1868,13 @@
           "term": "La derramó al SEÑOR",
           "original": "Hebrew: נֶסֶךְ (nesekh), drink offering",
           "note": "Tres hombres se abren paso por una guarnición filistea para sacar agua del pozo de Belén, y David no quiere beberla (versículos 15 al 17). Derramar un líquido en el suelo delante de Dios era la libación que acompañaba a los sacrificios diarios (Números 15:5-10). Trata el agua comprada a ese riesgo como algo a lo que solo Dios tiene derecho."
+        },
+        {
+          "term": "Contexto e interpretación",
+          "note": "Los versículos 1-7 presentan el oráculo de David. La lista de sus valientes comienza en el versículo 8; el capítulo no dice que David compilara o recitara esa lista como parte del oráculo."
         }
       ],
-      "keyTakeaway": "David pronuncia sus últimas palabras, afirma el pacto de Dios con él y anuncia juicio para los hombres malvados. Luego cataloga a sus guerreros valientes, enumera sus hazañas individuales y nombra a los treinta y siete jefes de sus combatientes.",
+      "keyTakeaway": "El capítulo presenta el último oráculo de David sobre el gobierno justo, el pacto de Dios y el juicio contra el mal. Después enumera a sus guerreros valientes y sus hazañas, terminando con treinta y siete hombres en total.",
       "headings": [
         {
           "beforeVerse": 1,
@@ -1898,21 +1921,22 @@
       ],
       "crossRefs": [
         "1 Crónicas 21:1-30: El relato paralelo, que abre con Satanás incitando a David y cierra con fuego cayendo sobre el altar.",
-        "Éxodo 30:11-16: Todo hombre censado debe dar medio siclo de rescate, para que no estalle plaga alguna entre ellos al ser contados.",
+        "Éxodo 30:11-16: Un censo exige un rescate de medio siclo por cada hombre contado para evitar una plaga, ofreciendo la ley pertinente sin demostrar qué omitió David.",
         "2 Crónicas 3:1: Salomón edifica la casa del SEÑOR en el monte Moria, en la era de Ornán el jebuseo.",
         "Génesis 22:1-14: A Abraham se lo envía a la tierra de Moria, y él llama al lugar El SEÑOR proveerá.",
-        "1 Reyes 8:37-40: Salomón ora para que, cuando venga el hambre, el tizón o la peste, Dios oiga desde el cielo y perdone."
+        "1 Reyes 8:37-40: Salomón ora para que, cuando venga el hambre, el tizón o la peste, Dios oiga desde el cielo y perdone.",
+        "1 Crónicas 21:1-8: El relato paralelo identifica a Satanás como instigador del censo y registra la confesión de David, conservando su atribución distinta de la de Samuel."
       ],
       "translationNotes": [
         {
           "term": "El rescate por un censo",
           "original": "Hebrew: כֹּפֶר נֶפֶשׁ (kopher nephesh), a ransom for a life",
-          "note": "Nada de este capítulo tiene sentido sin Éxodo 30:11-16, y ningún lector moderno lo tiene a mano. Esa ley dice que, cuando se hace un censo de Israel, todo hombre contado debe pagar medio siclo como rescate por su vida al SEÑOR, ricos y pobres por igual, para que no haya plaga entre ellos al ser contados. Un recuento de hombres de guerra trata a la nación como un activo del rey, y el medio siclo es el recordatorio permanente de que pertenece a Dios. La objeción de Joab en el versículo 3 se hace sin argumentos, y tiene razón."
+          "note": "Samuel comienza con la ira del SEÑOR contra Israel y dice que él incitó a David; Crónicas identifica a Satanás como el instigador. David confiesa que el censo fue pecaminoso. Éxodo 30 relaciona el rescate de un censo con la protección frente a una plaga, pero ninguno de los dos relatos afirma expresamente que David omitiera ese pago ni lo da como única explicación. Éxodo 30:11-16 fija el rescate del censo en medio siclo por cada hombre contado, tanto rico como pobre, para sostener la Tienda de reunión."
         },
         {
           "term": "Arrepentirse / la conciencia lo golpea",
           "original": "Hebrew: וַיַּךְ לֵב־דָּוִד (vayyakh lev David), and David's heart struck him",
-          "note": "El hebreo del versículo 10 dice que el corazón de David lo golpeó, usando nakah, el verbo corriente de golpear o abatir. Esa misma expresión se usa una vez antes en su vida, en 1 Samuel 24:5, después de que cortara la orilla del manto de Saúl en la cueva. Las dos veces llega después del acto y antes de que nadie lo acuse, y las dos veces lo que sigue es una confesión con palabras llanas: he pecado gravemente en lo que he hecho."
+          "note": "La expresión hebrea que está detrás del remordimiento de conciencia de David también aparece después de que corta el manto de Saúl en 1 Samuel 24:5. En el relato del censo, David confiesa enseguida: He cometido un pecado muy grande (2 Samuel 24:10). En el episodio del manto, dice a sus hombres que no puede alzar la mano contra el ungido del SEÑOR (1 Samuel 24:6). Los pasajes comparten la expresión sobre la conciencia, pero registran respuestas distintas."
         },
         {
           "term": "El altar en la era",
@@ -1922,7 +1946,7 @@
         {
           "term": "Cincuenta siclos de plata",
           "original": "Hebrew: חֲמִשִּׁים שְׁקָלִים כֶּסֶף (chamishim sheqalim kesef)",
-          "note": "El versículo 24 registra el precio en cincuenta siclos de plata, alrededor de libra y cuarto, y dice exactamente qué compró: la era y los bueyes, es decir, la superficie de trabajo y los animales para el sacrificio. 1 Crónicas 21:25 registra un segundo pago, mucho mayor, de seiscientos siclos de oro, y dice qué compró aquel: el sitio. Uno es el precio de una era y de una yunta de bueyes; el otro es el precio del terreno sobre el que se alzaría el templo."
+          "note": "2 Samuel 24:24 registra cincuenta siclos de plata por la era y los bueyes; 1 Crónicas 21:25 registra seiscientos siclos de oro por aquel lugar. Algunos intérpretes concilian estas cifras proponiendo una compra menor seguida de una adquisición más amplia del terreno del templo. Ningún relato narra expresamente dos transacciones ni da esa explicación, de modo que se trata de una armonización propuesta y no de una secuencia de hechos establecida."
         },
         {
           "term": "Desde Dan hasta Berseba",
@@ -1930,7 +1954,7 @@
           "note": "La ruta del censo de los versículos 2 al 8 va desde Dan, en los manantiales del norte bajo el monte Hermón, hasta Berseba, en el sur seco, a unas 150 millas de distancia, y le llevó a Joab nueve meses y veinte días. La expresión es la manera corriente de Israel de decir el país entero, de un extremo al otro. Contar hombres de guerra a lo largo de todo ese trecho es lo que hace de esto un censo militar."
         }
       ],
-      "keyTakeaway": "El SEÑOR incita a David a hacer un censo; una vez que Joab completa el recuento de los hombres de guerra de Israel, David se arrepiente y escoge la peste como castigo, la cual mata a setenta mil personas antes de detenerse en Jerusalén. David compra la era de Arauna, edifica un altar y ofrece sacrificios, y la peste cesa.",
+      "keyTakeaway": "En su ira contra Israel, el SEÑOR incita a David a ordenar un censo. Después David confiesa su pecado y una plaga mata a setenta mil personas antes de que el SEÑOR la detenga. David compra la era de Arauna y ofrece sacrificios, y Dios responde a la oración por la tierra.",
       "headings": [
         {
           "beforeVerse": 1,
