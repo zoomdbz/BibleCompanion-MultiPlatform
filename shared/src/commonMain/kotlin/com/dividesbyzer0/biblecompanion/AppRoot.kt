@@ -1443,11 +1443,12 @@ fun HomeScreen(
               Row(verticalAlignment = Alignment.CenterVertically) {
                 IconButton(
                   onClick = {
-                    platformShareText(
-                      ctx,
-                      votdLocalRef,
-                      "${wrapVotdQuotes(stripScriptureInlineTags(votd.text), prefs.appLanguage)}\n\u2014 $votdLocalRef"
-                    )
+                    scope.launch {
+                      val shareText = withContext(Dispatchers.Default) {
+                        buildVotdShareText(ctx, votd, prefs)
+                      }
+                      platformShareText(ctx, votdLocalRef, shareText)
+                    }
                   }
                 ) {
                   Icon(
