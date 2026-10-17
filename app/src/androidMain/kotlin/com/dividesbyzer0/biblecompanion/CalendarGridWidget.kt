@@ -1,7 +1,6 @@
 package com.dividesbyzer0.biblecompanion
 
 import android.content.Context
-import android.content.Intent
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.unit.DpSize
 import androidx.compose.ui.unit.dp
@@ -22,7 +21,6 @@ import androidx.glance.appwidget.action.actionRunCallback
 import androidx.glance.appwidget.cornerRadius
 import androidx.glance.appwidget.provideContent
 import androidx.glance.appwidget.state.updateAppWidgetState
-import androidx.glance.appwidget.updateAll
 import androidx.glance.background
 import androidx.glance.currentState
 import androidx.glance.layout.Alignment
@@ -161,7 +159,7 @@ class CalendarGridWidget : GlanceAppWidget() {
         .cornerRadius(16.dp)
         .background(GlanceTheme.colors.widgetBackground)
         .padding(8.dp)
-        .clickable(actionRunCallback<OpenCalendarAction>())
+        .clickable(calendarWidgetOpenAction())
     ) {
       // Title: [H/E/B] ... < April 2026 > ...
       Row(
@@ -312,16 +310,6 @@ class CalendarGridWidget : GlanceAppWidget() {
   }
 }
 
-class OpenCalendarAction : ActionCallback {
-  override suspend fun onAction(context: Context, glanceId: GlanceId, parameters: ActionParameters) {
-    val intent = Intent("com.dividesbyzer0.biblecompanion.FEAST_CALENDAR").apply {
-      setClassName("com.dividesbyzer0.biblecompanion", "com.dividesbyzer0.biblecompanion.MainActivity")
-      addFlags(Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TOP)
-    }
-    context.startActivity(intent)
-  }
-}
-
 class ToggleCalendarTypeAction : ActionCallback {
   override suspend fun onAction(context: Context, glanceId: GlanceId, parameters: ActionParameters) {
     updateAppWidgetState(context, glanceId) { prefs ->
@@ -333,7 +321,7 @@ class ToggleCalendarTypeAction : ActionCallback {
         else -> "B"
       }
     }
-    CalendarGridWidget().updateAll(context)
+    CalendarGridWidget().update(context, glanceId)
   }
 }
 
@@ -343,7 +331,7 @@ class PrevMonthAction : ActionCallback {
       val current = prefs[CalendarGridWidget.MONTH_OFFSET_KEY] ?: 0
       prefs[CalendarGridWidget.MONTH_OFFSET_KEY] = current - 1
     }
-    CalendarGridWidget().updateAll(context)
+    CalendarGridWidget().update(context, glanceId)
   }
 }
 
@@ -353,7 +341,7 @@ class NextMonthAction : ActionCallback {
       val current = prefs[CalendarGridWidget.MONTH_OFFSET_KEY] ?: 0
       prefs[CalendarGridWidget.MONTH_OFFSET_KEY] = current + 1
     }
-    CalendarGridWidget().updateAll(context)
+    CalendarGridWidget().update(context, glanceId)
   }
 }
 
@@ -362,6 +350,6 @@ class ResetMonthAction : ActionCallback {
     updateAppWidgetState(context, glanceId) { prefs ->
       prefs[CalendarGridWidget.MONTH_OFFSET_KEY] = 0
     }
-    CalendarGridWidget().updateAll(context)
+    CalendarGridWidget().update(context, glanceId)
   }
 }

@@ -1,7 +1,6 @@
 package com.dividesbyzer0.biblecompanion
 
 import android.content.Context
-import android.content.Intent
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.unit.DpSize
 import androidx.compose.ui.unit.dp
@@ -21,7 +20,6 @@ import androidx.glance.appwidget.action.actionRunCallback
 import androidx.glance.appwidget.cornerRadius
 import androidx.glance.appwidget.provideContent
 import androidx.glance.appwidget.state.updateAppWidgetState
-import androidx.glance.appwidget.updateAll
 import androidx.glance.background
 import androidx.glance.currentState
 import androidx.glance.appwidget.lazy.LazyColumn
@@ -156,7 +154,7 @@ class FeastWidget : GlanceAppWidget() {
         .cornerRadius(16.dp)
         .background(GlanceTheme.colors.widgetBackground)
         .padding(12.dp)
-        .clickable(actionRunCallback<OpenFeastCalendarAction>()),
+        .clickable(calendarWidgetOpenAction()),
       verticalAlignment = if (showItems.size <= 1) Alignment.CenterVertically else Alignment.Top
     ) {
       // Header row with title and calendar type toggle
@@ -207,7 +205,9 @@ class FeastWidget : GlanceAppWidget() {
       } else {
         LazyColumn(modifier = GlanceModifier.fillMaxSize()) {
           itemsIndexed(showItems) { idx, feast ->
-            Column {
+            Column(
+              modifier = GlanceModifier.fillMaxWidth().clickable(calendarWidgetOpenAction())
+            ) {
               if (idx > 0) {
                 Spacer(GlanceModifier.height(itemSpacing))
                 Box(
@@ -305,7 +305,7 @@ class FeastWidget : GlanceAppWidget() {
         .cornerRadius(12.dp)
         .background(GlanceTheme.colors.widgetBackground)
         .padding(horizontal = 8.dp, vertical = 4.dp)
-        .clickable(actionRunCallback<OpenFeastCalendarAction>()),
+        .clickable(calendarWidgetOpenAction()),
       verticalAlignment = Alignment.CenterVertically
     ) {
       if (feast != null) {
@@ -352,16 +352,6 @@ class FeastWidget : GlanceAppWidget() {
   }
 }
 
-class OpenFeastCalendarAction : ActionCallback {
-  override suspend fun onAction(context: Context, glanceId: GlanceId, parameters: ActionParameters) {
-    val intent = Intent("com.dividesbyzer0.biblecompanion.FEAST_CALENDAR").apply {
-      setClassName("com.dividesbyzer0.biblecompanion", "com.dividesbyzer0.biblecompanion.MainActivity")
-      addFlags(Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TOP)
-    }
-    context.startActivity(intent)
-  }
-}
-
 class ToggleFeastCalTypeAction : ActionCallback {
   override suspend fun onAction(context: Context, glanceId: GlanceId, parameters: ActionParameters) {
     updateAppWidgetState(context, glanceId) { prefs ->
@@ -373,6 +363,6 @@ class ToggleFeastCalTypeAction : ActionCallback {
         else -> "B"
       }
     }
-    FeastWidget().updateAll(context)
+    FeastWidget().update(context, glanceId)
   }
 }
