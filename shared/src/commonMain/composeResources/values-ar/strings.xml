@@ -324,6 +324,8 @@
     <string name="intro_section_header">مقدمة السفر</string>
     <string name="tts_read_intros">قراءة مقدمات الأسفار صوتيًا</string>
     <string name="external_bible_version">نسخة الكتاب المقدس للروابط الخارجية</string>
+    <string name="include_app_link_when_sharing">تضمين رابط يفتح في التطبيق عند المشاركة</string>
+    <string name="include_app_link_when_sharing_desc">أضف أيضًا رابطًا إلى Bible Companion عند نسخ نصوص الكتاب المقدس أو مشاركتها. ستظل روابط Bible.com أو Bible Gateway العامة مُضمَّنة.</string>
     <string name="external_bible_version_desc">اختر نسخة الكتاب المقدس للمراجع الخارجية. تُفتح روابط Bible.com في تطبيق YouVersion Bible إذا كان مثبتًا؛ وإلا فتُفتح صفحة Bible.com في المتصفح. ولا يغيّر هذا نص Bible Companion.</string>
     <string name="external_biblegateway_version_desc">اختر نسخة الكتاب المقدس للمراجع الخارجية. تُفتح الروابط على موقع Bible Gateway في المتصفح. ولا يغيّر هذا نص Bible Companion.</string>
     <string name="in_app_bible_version">نسخة الكتاب المقدس داخل التطبيق</string>

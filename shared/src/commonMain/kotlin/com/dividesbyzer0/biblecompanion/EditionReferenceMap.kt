@@ -81,6 +81,14 @@ internal fun mapEditionReference(
   return VerseAnchor(first.chapter, first.verseStart, end)
 }
 
+/** Bare verse markers need the same audited story and book identity as the reader. */
+internal fun editionNativeVerseAnchors(book: Book, bookId: String): List<VerseAnchor> =
+  book.stories.flatMap { story ->
+    story.summaryBullets.mapNotNull { raw ->
+      parseTrailingVerseAnchor(raw, story.id, bookId)?.anchor
+    }
+  }
+
 internal object EditionReferenceMaps {
   private val json = Json { ignoreUnknownKeys = true }
   private val cache = MutableStateFlow<Map<String, EditionReferenceMap?>>(emptyMap())
@@ -128,9 +136,7 @@ internal object EditionReferenceMaps {
     for (collection in listOf("old_testament", "new_testament", "deuterocanonical", "apocrypha", "pseudepigrapha")) {
       val loaded = ContentRepo.loadBookWithEdition(context, collection, bookId, language, edition) ?: continue
       if (loaded.effectiveEdition != edition) return null
-      return fullNativeVerseAnchor(anchor, loaded.book.stories.flatMap { story ->
-        story.summaryBullets.mapNotNull(::verseAnchorFromText)
-      })
+      return fullNativeVerseAnchor(anchor, editionNativeVerseAnchors(loaded.book, bookId))
     }
     return null
   }
@@ -148,16 +154,14 @@ internal object EditionReferenceMaps {
       val target = ContentRepo.loadBookWithEdition(context, collection, bookId, language, toEdition) ?: continue
       if (target.effectiveEdition != toEdition) return null
       fun chapterNumbers(book: Book, chapter: Int): Set<Int> = book.stories
-        .flatMap { versePickerNumbers(it.summaryBullets, chapter) }.toSet()
+        .flatMap { versePickerNumbers(it.summaryBullets, chapter, it.id, bookId) }.toSet()
       val targetNumbers = chapterNumbers(target.book, mapped.chapter)
       if (!(mapped.verseStart..mapped.verseEnd).all { it in targetNumbers }) return null
       val source = ContentRepo.loadBookWithEdition(context, collection, bookId, language, fromEdition) ?: return null
       if (source.effectiveEdition != fromEdition) return null
       val sourceNumbers = chapterNumbers(source.book, original.chapter)
       if (!(original.verseStart..original.verseEnd).all { it in sourceNumbers }) return null
-      return fullNativeVerseAnchor(mapped, target.book.stories.flatMap { story ->
-        story.summaryBullets.mapNotNull(::verseAnchorFromText)
-      })
+      return fullNativeVerseAnchor(mapped, editionNativeVerseAnchors(target.book, bookId))
     }
     return null
   }

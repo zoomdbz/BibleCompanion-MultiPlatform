@@ -324,6 +324,8 @@
     <string name="intro_section_header">책 서문</string>
     <string name="tts_read_intros">TTS가 책 서문을 읽음</string>
     <string name="external_bible_version">외부 성경 역본</string>
+    <string name="include_app_link_when_sharing">공유할 때 앱 내 링크 포함</string>
+    <string name="include_app_link_when_sharing_desc">성경 말씀을 복사하거나 공유할 때 Bible Companion 링크도 추가합니다. Bible.com 또는 Bible Gateway의 공개 링크는 계속 포함됩니다.</string>
     <string name="external_bible_version_desc">외부 참조에 사용할 성경 역본을 선택합니다. YouVersion 성경 앱이 설치되어 있으면 Bible.com 링크가 앱에서 열리고, 설치되어 있지 않으면 브라우저에서 Bible.com이 열립니다. Bible Companion의 본문은 변경되지 않습니다.</string>
     <string name="external_biblegateway_version_desc">외부 참조에 사용할 성경 역본을 선택합니다. 링크는 브라우저에서 Bible Gateway 웹사이트로 열립니다. Bible Companion의 본문은 변경되지 않습니다.</string>
     <string name="in_app_bible_version">앱 내 성경 역본</string>

@@ -130,6 +130,40 @@ class EditionReferenceMapTest {
   }
 
   @Test
+  fun nativeSingleChapterMarkersUseTheirAuditedStoryAndBook() {
+    val story = Story(
+      id = "susanna-1",
+      title = "Susanna",
+      refs = listOf("Susanna 1-64"),
+      summaryBullets = listOf("In Babylon wohnte ein Mann mit Namen Jojakim. (1).")
+    )
+    val book = Book("susanna", "Susanna", listOf(story))
+    val anchors = editionNativeVerseAnchors(book, "susanna")
+
+    assertEquals(listOf(VerseAnchor(1, 1)), anchors)
+    assertEquals(VerseAnchor(1, 1), fullNativeVerseAnchor(VerseAnchor(1, 1), anchors))
+    assertNull(fullNativeVerseAnchor(VerseAnchor(1, 2), anchors))
+    assertEquals(emptyList(), editionNativeVerseAnchors(book, "john"))
+    assertEquals(emptyList(), editionNativeVerseAnchors(
+      book.copy(stories = listOf(story.copy(id = "unknown-1"))), "susanna"
+    ))
+  }
+
+  @Test
+  fun explicitNativeMarkersKeepTheirCoordinates() {
+    val story = Story(
+      id = "john-3",
+      title = "John 3",
+      refs = listOf("John 3:1-36"),
+      summaryBullets = listOf("Source text. (3:16-17).")
+    )
+    val anchors = editionNativeVerseAnchors(Book("john", "John", listOf(story)), "john")
+
+    assertEquals(listOf(VerseAnchor(3, 16, 17)), anchors)
+    assertEquals(VerseAnchor(3, 16, 17), fullNativeVerseAnchor(VerseAnchor(3, 16), anchors))
+  }
+
+  @Test
   fun chapterHeaderUsesTheActiveEditionsLastNativeVerse() {
     val chapter = EditionChapter(number = 8, verses = listOf(
       EditionVerse(8, 1, text = "first"), EditionVerse(8, 9, text = "last")

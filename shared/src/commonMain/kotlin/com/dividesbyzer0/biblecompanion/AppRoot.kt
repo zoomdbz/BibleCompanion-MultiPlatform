@@ -3235,16 +3235,15 @@ fun BookScreen(
                   },
                   onCopyBullet = { idx ->
                     doHaptic()
-                    val content = buildSelectedContent(book, setOf(story.id to idx))
-                    val url = content.primaryRef?.let {
-                      editionAwareExternalLink(
-                        ctx, ScriptureRefs.canonicalizeRef(it), bookId, prefs, activeEditionId
-                      )?.second
+                    scope.launch {
+                      val content = withContext(Dispatchers.Default) {
+                        buildReaderShareText(
+                          ctx, col, book, setOf(story.id to idx), prefs, activeEditionId,
+                          bookId = bookId
+                        )
+                      }
+                      platformCopyToClipboard(ctx, content.primaryRef?.let { ScriptureRefs.localizeRef(it) } ?: verseLbl, content.text)
                     }
-                    val appLink = appPassageLink(col, bookId, story.id, effectiveLanguage, activeEditionId,
-                      parseTrailingVerseAnchor(story.summaryBullets[idx], story.id, bookId)?.anchor)
-                    val shareText = content.text + "\n\n" + listOfNotNull(url, appLink).joinToString("\n")
-                    platformCopyToClipboard(ctx, content.primaryRef?.let { ScriptureRefs.localizeRef(it) } ?: verseLbl, shareText)
                   },
                   activeSectionTts = sectionTtsKey
                     ?.takeIf { it.startsWith("${story.id}:") }
@@ -3321,33 +3320,32 @@ fun BookScreen(
                   // Copy
                   IconButton(onClick = {
                     doHaptic()
-                    val content = buildSelectedContent(book, selectedBullets)
-                    platformCopyToClipboard(ctx, content.primaryRef?.let { ScriptureRefs.localizeRef(it) } ?: versesLbl, content.text)
-                    selectedBullets = emptySet()
+                    val selection = selectedBullets
+                    scope.launch {
+                      val content = withContext(Dispatchers.Default) {
+                        buildReaderShareText(
+                          ctx, col, book, selection, prefs, activeEditionId, bookId = bookId
+                        )
+                      }
+                      platformCopyToClipboard(ctx, content.primaryRef?.let { ScriptureRefs.localizeRef(it) } ?: versesLbl, content.text)
+                      selectedBullets = selectedBullets - selection
+                    }
                   }) {
                     Icon(Icons.Filled.ContentCopy, contentDescription = stringResource(Res.string.cd_copy))
                   }
                   // Share
                   IconButton(onClick = {
                     doHaptic()
-                    val content = buildSelectedContent(book, selectedBullets)
-                    val url = content.primaryRef?.let {
-                      editionAwareExternalLink(
-                        ctx, ScriptureRefs.canonicalizeRef(it), bookId, prefs, activeEditionId
-                      )?.second
-                    }
-                    val firstStory = book.stories.firstOrNull { story -> selectedBullets.any { it.first == story.id } }
-                    val anchors = book.stories.flatMap { story ->
-                      story.summaryBullets.mapIndexedNotNull { index, bullet ->
-                        parseTrailingVerseAnchor(bullet, story.id, bookId)?.anchor
-                          .takeIf { (story.id to index) in selectedBullets }
+                    val selection = selectedBullets
+                    scope.launch {
+                      val content = withContext(Dispatchers.Default) {
+                        buildReaderShareText(
+                          ctx, col, book, selection, prefs, activeEditionId, bookId = bookId
+                        )
                       }
+                      platformShareText(ctx, content.primaryRef?.let { ScriptureRefs.localizeRef(it) } ?: versesLbl, content.text)
+                      selectedBullets = selectedBullets - selection
                     }
-                    val appLink = appPassageLink(col, bookId, firstStory?.id, effectiveLanguage, activeEditionId,
-                      contiguousSelectionAnchor(anchors))
-                    val shareText = content.text + "\n\n" + listOfNotNull(url, appLink).joinToString("\n")
-                    platformShareText(ctx, content.primaryRef?.let { ScriptureRefs.localizeRef(it) } ?: versesLbl, shareText)
-                    selectedBullets = emptySet()
                   }) {
                     Icon(Icons.Filled.Share, contentDescription = stringResource(Res.string.share))
                   }
@@ -3743,31 +3741,7 @@ internal fun StoryCard(
   val ktLabel = stringResource(Res.string.key_takeaway)
   val crLabel = stringResource(Res.string.cross_references)
   val canonicalShareRef = story.refs.firstOrNull()?.let { ScriptureRefs.canonicalizeRef(it) }
-  val sharePlain = remember(
-    story,
-    col,
-    bookId,
-    canonicalShareRef,
-    prefs.translation,
-    prefs.readerMode,
-    prefs.appLanguage,
-    prefs.internalBibleVersion,
-    ktLabel,
-    crLabel
-  ) {
-    val md = buildStoryMarkdown(story, ktLabel, crLabel)
-    val plain = markdownToPlainText(md)
-    val url = canonicalShareRef?.let { ref ->
-      editionAwareExternalLink(
-        ctx, ref, bookId, prefs,
-        BibleEditions.effective(prefs.appLanguage, prefs.internalBibleVersion)
-      )?.second
-    }
-    val deepLink = appPassageLink(col, bookId, story.id, prefs.appLanguage,
-      BibleEditions.effective(prefs.appLanguage, prefs.internalBibleVersion))
-    val links = listOfNotNull(url, deepLink).joinToString("\n")
-    "$plain\n\n$links"
-  }
+  val shareScope = rememberCoroutineScope()
 
   val hasCollapsibleContent = story.summaryBullets.isNotEmpty() ||
       story.keyTakeaway.isNotBlank() ||
@@ -3823,7 +3797,23 @@ internal fun StoryCard(
             )
           }
         }
-        IconButton(onClick = { platformShareText(ctx, story.title, sharePlain) }) {
+        IconButton(onClick = {
+          shareScope.launch {
+            val sharePlain = withContext(Dispatchers.Default) {
+              val md = buildStoryMarkdown(story, ktLabel, crLabel)
+              val plain = markdownToPlainText(md)
+              val sourceEdition = BibleEditions.effective(prefs.appLanguage, prefs.internalBibleVersion)
+              val deepLink = if (prefs.includeAppLinksWhenSharing) {
+                appPassageLink(col, bookId, story.id, prefs.appLanguage, sourceEdition)
+              } else null
+              val links = canonicalShareRef?.let { ref ->
+                readerShareLinks(ctx, ref, bookId, prefs, sourceEdition, deepLink)
+              } ?: listOfNotNull(deepLink)
+              if (links.isEmpty()) plain else "$plain\n\n${links.joinToString("\n")}"
+            }
+            platformShareText(ctx, story.title, sharePlain)
+          }
+        }) {
           Icon(
             Icons.Filled.Share,
             contentDescription = stringResource(Res.string.share),
@@ -5668,6 +5658,18 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
       }
 
       Spacer(Modifier.height(4.dp))
+
+      SettingsSwitch(
+        stringResource(Res.string.include_app_link_when_sharing),
+        prefs.includeAppLinksWhenSharing
+      ) { enabled ->
+        scope.launch { repo.setIncludeAppLinksWhenSharing(enabled) }
+      }
+      Text(
+        stringResource(Res.string.include_app_link_when_sharing_desc),
+        style = MaterialTheme.typography.bodySmall,
+        color = MaterialTheme.colorScheme.onSurfaceVariant
+      )
 
       // Collections
       Text(stringResource(Res.string.collections), style = MaterialTheme.typography.titleSmall)

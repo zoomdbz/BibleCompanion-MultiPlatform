@@ -324,6 +324,8 @@
     <string name="intro_section_header">書の序文</string>
     <string name="tts_read_intros">TTSで序文を読む</string>
     <string name="external_bible_version">外部用の聖書訳</string>
+    <string name="include_app_link_when_sharing">共有時にアプリ内リンクを含める</string>
+    <string name="include_app_link_when_sharing_desc">聖書の本文をコピーまたは共有する際に、Bible Companionへのリンクも追加します。Bible.comまたはBible Gatewayの公開リンクは引き続き含まれます。</string>
     <string name="external_bible_version_desc">外部参照に使う聖書訳を選びます。YouVersion聖書アプリがインストールされていれば、Bible.comのリンクはそのアプリで開きます。インストールされていなければ、ブラウザーでBible.comを開きます。Bible Companion内の本文は変わりません。</string>
     <string name="external_biblegateway_version_desc">外部参照に使う聖書訳を選びます。リンクを開くと、ブラウザーでBible Gatewayのウェブサイトが開きます。Bible Companion内の本文は変わりません。</string>
     <string name="in_app_bible_version">アプリ内の聖書訳</string>

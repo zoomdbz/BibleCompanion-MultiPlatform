@@ -22,6 +22,7 @@ expect class PrefsRepo(context: PlatformContext) {
     suspend fun setTextSizeScale(scale: Float)
     suspend fun setReadingLineSpacing(spacing: Float)
     suspend fun setVersePerLine(enabled: Boolean)
+    suspend fun setIncludeAppLinksWhenSharing(enabled: Boolean)
     suspend fun setLastRead(
         collection: String,
         bookId: String,

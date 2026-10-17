@@ -76,6 +76,7 @@ data class PrefsState(
   val textSizeScale: Float = 1.0f,
   val readingLineSpacing: Float = 1.65f,
   val versePerLine: Boolean = true,
+  val includeAppLinksWhenSharing: Boolean = false,
   val lastReadCollection: String? = null,
   val lastReadBookId: String? = null,
   val lastReadBookTitle: String? = null,
