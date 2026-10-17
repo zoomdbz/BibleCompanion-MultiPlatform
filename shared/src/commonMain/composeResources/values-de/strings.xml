@@ -323,8 +323,8 @@
     <string name="intro_section_header">Buch-Einführung</string>
     <string name="tts_read_intros">TTS liest Buch-Einführungen</string>
     <string name="external_bible_version">Externe Bibelversion</string>
-    <string name="include_app_link_when_sharing">Beim Teilen Link zur App hinzufügen</string>
-    <string name="include_app_link_when_sharing_desc">Füge beim Kopieren oder Teilen von Bibeltexten zusätzlich einen Link zu Bible Companion hinzu. Öffentliche Links zu Bible.com oder Bible Gateway werden weiterhin eingefügt.</string>
+    <string name="verse_share_link_provider">Links zum Teilen von Versen</string>
+    <string name="verse_share_link_provider_desc">Wähle Bible.com oder Bible Gateway für Links beim Kopieren oder Teilen von Versen.</string>
     <string name="external_bible_version_desc">Wähle die Bibelversion für externe Verweise. Bible.com-Links öffnen sich in der YouVersion-Bibel-App, wenn sie installiert ist; andernfalls öffnen sie Bible.com im Browser. Der Text in Bible Companion bleibt unverändert.</string>
     <string name="external_biblegateway_version_desc">Wähle die Bibelversion für externe Verweise. Links werden auf der Website von Bible Gateway im Browser geöffnet. Der Text in Bible Companion bleibt unverändert.</string>
     <string name="in_app_bible_version">Bibelversion in der App</string>

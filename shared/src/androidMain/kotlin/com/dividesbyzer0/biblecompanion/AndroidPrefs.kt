@@ -43,7 +43,7 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
         val TEXT_SIZE_SCALE = floatPreferencesKey("text_size_scale")
         val READING_LINE_SPACING = floatPreferencesKey("reading_line_spacing")
         val VERSE_PER_LINE = booleanPreferencesKey("verse_per_line")
-        val INCLUDE_APP_LINKS_WHEN_SHARING = booleanPreferencesKey("include_app_links_when_sharing")
+        val VERSE_SHARE_PROVIDER = stringPreferencesKey("verse_share_provider")
         val LAST_READ_COLLECTION = stringPreferencesKey("last_read_collection")
         val LAST_READ_BOOK_ID = stringPreferencesKey("last_read_book_id")
         val LAST_READ_BOOK_TITLE = stringPreferencesKey("last_read_book_title")
@@ -108,7 +108,7 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
             textSizeScale = p[Keys.TEXT_SIZE_SCALE] ?: 1.0f,
             readingLineSpacing = (p[Keys.READING_LINE_SPACING] ?: 1.65f).coerceIn(1.3f, 2.1f),
             versePerLine = p[Keys.VERSE_PER_LINE] ?: true,
-            includeAppLinksWhenSharing = p[Keys.INCLUDE_APP_LINKS_WHEN_SHARING] ?: false,
+            verseShareProvider = normalizeVerseShareProvider(p[Keys.VERSE_SHARE_PROVIDER]),
             lastReadCollection = p[Keys.LAST_READ_COLLECTION],
             lastReadBookId = p[Keys.LAST_READ_BOOK_ID],
             lastReadBookTitle = p[Keys.LAST_READ_BOOK_TITLE],
@@ -189,8 +189,8 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
     actual suspend fun setVersePerLine(enabled: Boolean) =
         context.dataStore.edit { it[Keys.VERSE_PER_LINE] = enabled }.let { Unit }
 
-    actual suspend fun setIncludeAppLinksWhenSharing(enabled: Boolean) =
-        context.dataStore.edit { it[Keys.INCLUDE_APP_LINKS_WHEN_SHARING] = enabled }.let { Unit }
+    actual suspend fun setVerseShareProvider(provider: String) =
+        context.dataStore.edit { it[Keys.VERSE_SHARE_PROVIDER] = normalizeVerseShareProvider(provider) }.let { Unit }
 
     actual suspend fun setLastRead(
         collection: String,

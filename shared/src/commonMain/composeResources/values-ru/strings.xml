@@ -324,8 +324,8 @@
     <string name="intro_section_header">Введение к книге</string>
     <string name="tts_read_intros">Озвучивать введения к книгам</string>
     <string name="external_bible_version">Версия Библии для внешних ссылок</string>
-    <string name="include_app_link_when_sharing">Добавлять ссылку на приложение при отправке</string>
-    <string name="include_app_link_when_sharing_desc">Добавлять дополнительную ссылку на Bible Companion при копировании или отправке библейского текста. Общедоступные ссылки на Bible.com или Bible Gateway по-прежнему включаются.</string>
+    <string name="verse_share_link_provider">Ссылки при отправке стихов</string>
+    <string name="verse_share_link_provider_desc">Выберите Bible.com или Bible Gateway для ссылок при копировании или отправке стихов.</string>
     <string name="external_bible_version_desc">Выберите перевод Библии для внешних ссылок. Ссылки Bible.com открываются в приложении YouVersion Bible, если оно установлено; иначе они открывают Bible.com в браузере. Текст в Bible Companion не меняется.</string>
     <string name="external_biblegateway_version_desc">Выберите перевод Библии для внешних ссылок. Ссылки открываются на сайте Bible Gateway в браузере. Текст в Bible Companion не меняется.</string>
     <string name="in_app_bible_version">Версия Библии в приложении</string>

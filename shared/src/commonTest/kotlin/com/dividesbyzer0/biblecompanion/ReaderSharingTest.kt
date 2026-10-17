@@ -52,13 +52,13 @@ class ReaderSharingTest {
   }
 
   @Test
-  fun disjointSelectionsKeepSourceOrderAndSeparateExactPublicAndOptionalAppLinks() {
+  fun disjointSelectionsKeepSourceOrderAndSeparateExactPublicLinks() {
     val story = story("john-3", "John 3:1-36", listOf(
       "First selected verse. (3:16).",
       "Not selected. (3:17).",
       "Second selected verse. (3:18)."
     ))
-    val prefs = PrefsState(appLanguage = "en", includeAppLinksWhenSharing = true)
+    val prefs = PrefsState(appLanguage = "en")
     val content = payload(Book("john", "John", listOf(story)),
       linkedSetOf(story.id to 2, story.id to 0), prefs, BibleEditions.BSB)
     val links = content.text.lineSequence().filter { "://" in it }.toList()
@@ -68,36 +68,46 @@ class ReaderSharingTest {
     assertFalse("16-18" in content.text)
     assertEquals(listOf(
       "https://www.bible.com/bible/3034/JHN.3.16.BSB",
-      appPassageLink("new_testament", "john", "john-3", "en", "bsb", VerseAnchor(3, 16)),
-      "https://www.bible.com/bible/3034/JHN.3.18.BSB",
-      appPassageLink("new_testament", "john", "john-3", "en", "bsb", VerseAnchor(3, 18))
+      "https://www.bible.com/bible/3034/JHN.3.18.BSB"
     ), links)
   }
 
   @Test
-  fun multipleChaptersBecomeSeparateBlocksInBookOrderWithTheirOwnStoryLinks() {
+  fun multipleChaptersBecomeSeparateBlocksInBookOrderWithTheirOwnVerseLinks() {
     val first = story("john-3", "John 3:1-36", listOf("Earlier chapter. (3:36)."))
     val second = story("john-4", "John 4:1-54", listOf("Later chapter. (4:1)."))
-    val prefs = PrefsState(appLanguage = "en", includeAppLinksWhenSharing = true)
+    val prefs = PrefsState(appLanguage = "en")
     val content = payload(Book("john", "John", listOf(first, second)),
       linkedSetOf(second.id to 0, first.id to 0), prefs, "bsb")
 
     assertEquals("John 3:36", content.primaryRef)
     assertTrue(content.text.indexOf("Earlier chapter.") < content.text.indexOf("Later chapter."))
     assertTrue("\n\n\"Later chapter.\"\nJohn 4:1 BSB" in content.text)
-    assertTrue(appPassageLink("new_testament", "john", "john-3", "en", "bsb", VerseAnchor(3, 36)) in content.text)
-    assertTrue(appPassageLink("new_testament", "john", "john-4", "en", "bsb", VerseAnchor(4, 1)) in content.text)
+    assertTrue("https://www.bible.com/bible/3034/JHN.3.36.BSB" in content.text)
+    assertTrue("https://www.bible.com/bible/3034/JHN.4.1.BSB" in content.text)
+    assertFalse("biblecompanion://" in content.text)
   }
 
   @Test
-  fun appLinkIsOptInAndNeverReplacesThePublicLink() {
-    val publicUrl = "https://www.bible.com/bible/3034/JHN.3.16.BSB"
-    val appUrl = "biblecompanion://open?book=john"
-    val prefs = PrefsState(appLanguage = "en")
+  fun internalReaderUsesItsSavedWebsiteAndExternalReadersOverrideThatChoice() {
+    val internal = PrefsState(appLanguage = "en", verseShareProvider = "biblegateway")
+    assertEquals(listOf(Linker.buildBibleGatewayUrl("John 3:16", "NIV")),
+      fixtureLinks("John 3:16", "john", internal, "bsb"))
+    assertEquals(listOf("https://www.bible.com/bible/3034/JHN.3.16.BSB"),
+      fixtureLinks("John 3:16", "john", internal.copy(readerMode = "biblecom"), "bsb"))
+    assertEquals(listOf(Linker.buildBibleGatewayUrl("John 3:16", "ESV")),
+      fixtureLinks("John 3:16", "john", internal.copy(readerMode = "biblegateway", verseShareProvider = "biblecom"), "bsb"))
+  }
 
-    assertEquals(listOf(publicUrl), fixtureLinks("John 3:16", "john", prefs, "bsb", appUrl))
-    assertEquals(listOf(publicUrl, appUrl), fixtureLinks(
-      "John 3:16", "john", prefs.copy(includeAppLinksWhenSharing = true), "bsb", appUrl
+  @Test
+  fun shareProviderDefaultsAndUnrecognizedValuesNormalizeToBibleCom() {
+    assertEquals("biblecom", PrefsState().verseShareProvider)
+    for (value in listOf(null, "", "  ", "internal", "other-site", " BIBLECOM ")) {
+      assertEquals("biblecom", normalizeVerseShareProvider(value), value)
+    }
+    assertEquals("biblegateway", normalizeVerseShareProvider("  BIBLEGATEWAY  "))
+    assertEquals(listOf("https://www.bible.com/bible/3034/JHN.3.16.BSB"), fixtureLinks(
+      "John 3:16", "john", PrefsState(appLanguage = "en", verseShareProvider = "unsupported"), "bsb"
     ))
   }
 
@@ -105,10 +115,12 @@ class ReaderSharingTest {
   fun internalSharingOnlyResolvesPublicReadersAndRejectsCustomSchemeResults() {
     val attempts = mutableListOf<Pair<String, String>>()
     val prefs = PrefsState(appLanguage = "en", readerMode = "internal", translation = "ESV")
-    val links = readerShareLinks("John 3:16", "john", prefs, "bsb", null) { _, _, candidate ->
-      attempts += candidate.readerMode to candidate.translation
-      "BSB" to "biblecompanion://open?book=john"
-    }
+    val links = readerShareLinks("John 3:16", "john", prefs, "bsb",
+      resolveExternal = { _, _, candidate ->
+        attempts += candidate.readerMode to candidate.translation
+        "BSB" to "biblecompanion://open?book=john"
+      },
+      resolveSourceAnchor = { _, _, _, _ -> error("Bible.com must keep its audited resolver") })
 
     assertEquals(listOf("biblecom" to "BSB"), attempts)
     assertTrue(links.isEmpty())
@@ -133,6 +145,37 @@ class ReaderSharingTest {
   }
 
   @Test
+  fun gatewayDefaultsEncodeReferenceLookupsInAllThirteenLanguages() {
+    val expected = mapOf(
+      "en" to "NIV", "de" to "SCH2000", "es" to "NVI", "fr" to "SG21", "it" to "NR2006",
+      "pt" to "NVT", "ru" to "NRT", "ja" to "JLB", "ko" to "KLB", "zh-Hans" to "CCB",
+      "zh-Hant" to "RCU17TS", "ar" to "NAV", "hi" to "ERV-HI"
+    )
+    for ((language, version) in expected) {
+      val prefs = PrefsState(appLanguage = language, verseShareProvider = "biblegateway", translation = "ESV")
+      val links = fixtureLinks("John 3:16", "john", prefs, BibleEditions.defaultForLanguage(language))
+      // These catalog entries are reference lookup destinations; this assertion
+      // does not establish provider passage identity or text equivalence.
+      assertEquals(listOf(Linker.buildBibleGatewayUrl("John 3:16", version)), links, language)
+      assertTrue(links.single().startsWith("https://www.biblegateway.com/passage/?search=John"), language)
+      assertTrue(links.single().endsWith("&version=$version"), language)
+    }
+  }
+
+  @Test
+  fun gatewayLookupUsesItsOwnCatalogAliasesAndDeuterocanonicalFallbacks() {
+    val italian = PrefsState(appLanguage = "it", readerMode = "biblegateway", translation = "NR06")
+    assertEquals(listOf(Linker.buildBibleGatewayUrl("John 3:16", "NR2006")),
+      fixtureLinks("John 3:16", "john", italian, "nr06"))
+    val chinese = PrefsState(appLanguage = "zh-Hant", readerMode = "biblegateway", translation = "CCB_T")
+    assertEquals(listOf(Linker.buildBibleGatewayUrl("John 3:16", "CCBT")),
+      fixtureLinks("John 3:16", "john", chinese, "rcuv"))
+    val english = PrefsState(appLanguage = "en", verseShareProvider = "biblegateway")
+    assertEquals(listOf(Linker.buildBibleGatewayUrl("Tobit 1:1", "NRSVUE")),
+      fixtureLinks("Tobit 1:1", "tobit", english, "bsb"))
+  }
+
+  @Test
   fun aSafelyMappedSelectedExternalProviderIsRespected() {
     val prefs = PrefsState(appLanguage = "de", readerMode = "biblegateway", translation = "SCH2000")
     val links = fixtureLinks("Psalms 8:4", "psalms", prefs, BibleEditions.LUTHER_1912) { _, from, to, anchor ->
@@ -143,6 +186,45 @@ class ReaderSharingTest {
     }
 
     assertEquals(listOf(Linker.buildBibleGatewayUrl("Psalms 8:5", "SCH2000")), links)
+  }
+
+  @Test
+  fun gatewayLookupMapsAlternateSourceCoordinatesBeforeQueryingAnUnauditedCatalogEntry() {
+    val prefs = PrefsState(appLanguage = "de", readerMode = "biblegateway", translation = "HOF")
+    val links = fixtureLinks("Psalms 8:4-5", "psalms", prefs, BibleEditions.LUTHER_1912) { _, from, to, anchor ->
+      assertEquals(BibleEditions.LUTHER_1912, from)
+      assertEquals("sch2000", to)
+      assertEquals(VerseAnchor(8, 4, 5), anchor)
+      VerseAnchor(8, 5, 6)
+    }
+
+    assertEquals(listOf(Linker.buildBibleGatewayUrl("Psalms 8:5-6", "HOF")), links)
+  }
+
+  @Test
+  fun gatewayCannotBypassAFailedAuditedCrosswalkWithABaseLookup() {
+    val prefs = PrefsState(appLanguage = "en", readerMode = "biblegateway", translation = "KJV")
+    var attempts = 0
+    val links = fixtureLinks("Revelation 12:17-18", "revelation", prefs, "bsb") { _, from, to, anchor ->
+      attempts += 1
+      assertEquals("bsb", from)
+      assertEquals(BibleEditions.KJV_1769, to)
+      assertEquals(VerseAnchor(12, 17, 18), anchor)
+      null // The merged BSB unit crosses the KJV chapter boundary.
+    }
+
+    assertTrue(links.isEmpty())
+    assertEquals(1, attempts)
+  }
+
+  @Test
+  fun gatewayInvalidNativeUnitsAndUnmappedAlternateLookupsStayUnlinked() {
+    val base = PrefsState(appLanguage = "en", verseShareProvider = "biblegateway")
+    assertTrue(fixtureLinks("John 3:99", "john", base, "bsb") { _, _, _, _ -> null }.isEmpty())
+    val alternate = PrefsState(appLanguage = "ja", verseShareProvider = "biblegateway")
+    assertTrue(fixtureLinks("Psalms 8:4", "psalms", alternate, BibleEditions.BUNGO) { _, _, _, _ -> null }.isEmpty())
+    val audited = PrefsState(appLanguage = "de", verseShareProvider = "biblegateway")
+    assertTrue(fixtureLinks("John 3:99", "john", audited, "sch2000") { _, _, _, _ -> null }.isEmpty())
   }
 
   @Test
@@ -167,22 +249,17 @@ class ReaderSharingTest {
     assertTrue(fixtureLinks("Job 3", "job", prefs, BibleEditions.DIODATI_1885) { _, _, _, _ ->
       error("a chapter-only alternate reference must not reach an anchor resolver")
     }.isEmpty())
-    val appUrl = appPassageLink("old_testament", "job", "job-3", "it", "diodati1885", VerseAnchor(3, 10, 12))
-    assertEquals(listOf(appUrl), fixtureLinks("Job 3:10-12", "job",
-      prefs.copy(includeAppLinksWhenSharing = true), BibleEditions.DIODATI_1885, appUrl
-    ) { _, _, _, _ -> null })
   }
 
   @Test
   fun englishKjvKeepsItsSourceEditionAndEntireRangeEvenWithHiddenEsv() {
     val story = story("john-3", "John 3:1-36", listOf("For God so loved the world. (3:16-17)."))
-    val prefs = PrefsState(appLanguage = "en", internalBibleVersion = BibleEditions.KJV_1769,
-      includeAppLinksWhenSharing = true)
+    val prefs = PrefsState(appLanguage = "en", internalBibleVersion = BibleEditions.KJV_1769)
     val content = payload(Book("john", "John", listOf(story)), setOf(story.id to 0), prefs, BibleEditions.KJV_1769)
 
     assertTrue("John 3:16-17 KJV" in content.text)
     assertTrue("https://www.bible.com/bible/1/JHN.3.16-17.KJV" in content.text)
-    assertTrue(appPassageLink("new_testament", "john", "john-3", "en", "kjv1769", VerseAnchor(3, 16, 17)) in content.text)
+    assertFalse("biblecompanion://" in content.text)
     assertFalse("BSB" in content.text)
   }
 
@@ -192,7 +269,7 @@ class ReaderSharingTest {
     val prefs = PrefsState(appLanguage = "de")
     val content = buildReaderShareText("old_testament", Book("psalms", "Psalms", listOf(story)),
       setOf(story.id to 0), prefs, BibleEditions.LUTHER_1912,
-      linksForReference = { _, _ -> listOf("https://www.bible.com/bible/157/PSA.8.5.SCH2000") },
+      linksForReference = { _ -> listOf("https://www.bible.com/bible/157/PSA.8.5.SCH2000") },
       localizeReference = { it.replace("Psalms", "Psalmen") })
 
     assertTrue("Psalmen 8:4 Luther 1912" in content.text)
@@ -208,8 +285,8 @@ class ReaderSharingTest {
     val prefs = PrefsState(appLanguage = "de")
     val content = buildReaderShareText("deuterocanonical", Book("susanna", "Susanna", listOf(story)),
       setOf(story.id to 0), prefs, "sch2000",
-      linksForReference = { ref, appLink ->
-        fixtureLinks(ref, "susanna", prefs, "sch2000", appLink) { bookId, from, to, anchor ->
+      linksForReference = { ref ->
+        fixtureLinks(ref, "susanna", prefs, "sch2000") { bookId, from, to, anchor ->
           assertEquals("sch2000", from)
           assertEquals(from, to)
           fullNativeVerseAnchor(anchor, story.summaryBullets.mapNotNull {
@@ -232,7 +309,7 @@ class ReaderSharingTest {
     val story = story("unknown-1", "Susanna 1-64", listOf("Source text (an actual parenthesis) (18)."))
     val content = buildReaderShareText("deuterocanonical", Book("susanna", "Susanna", listOf(story)),
       setOf(story.id to 0), PrefsState(appLanguage = "en"), "bsb",
-      linksForReference = { _, _ -> error("unknown bare markers must not request a verse link") },
+      linksForReference = { _ -> error("unknown bare markers must not request a verse link") },
       localizeReference = { it })
 
     assertEquals("\"Source text (an actual parenthesis) (18).\"\nSusanna 1-64 BSB", content.text)
@@ -245,10 +322,10 @@ class ReaderSharingTest {
     ))
     val book = Book("bel", "Bel und der Drache", listOf(story))
     val authoritativeBookId = "bel_and_the_dragon"
-    val prefs = PrefsState(appLanguage = "de", includeAppLinksWhenSharing = true)
+    val prefs = PrefsState(appLanguage = "de")
     val content = buildReaderShareText("deuterocanonical", book, setOf(story.id to 0), prefs, "sch2000",
-      linksForReference = { ref, appLink ->
-        fixtureLinks(ref, authoritativeBookId, prefs, "sch2000", appLink) { bookId, _, _, anchor ->
+      linksForReference = { ref ->
+        fixtureLinks(ref, authoritativeBookId, prefs, "sch2000") { bookId, _, _, anchor ->
           fullNativeVerseAnchor(anchor, story.summaryBullets.mapNotNull {
             parseTrailingVerseAnchor(it, story.id, bookId)?.anchor
           })
@@ -260,8 +337,7 @@ class ReaderSharingTest {
     assertEquals("Bel and the Dragon 1:1", content.primaryRef)
     assertTrue("Bel and the Dragon 1:1 SCH2000" in content.text)
     assertTrue("https://www.bible.com/bible/3523/BEL.1.1.NRSVUE" in content.text)
-    assertTrue(appPassageLink("deuterocanonical", authoritativeBookId, "bel-1", "de", "sch2000",
-      VerseAnchor(1, 1)) in content.text)
+    assertFalse("biblecompanion://" in content.text)
     assertFalse("(1)." in content.text)
     assertEquals("bel", book.id)
   }
@@ -275,7 +351,7 @@ class ReaderSharingTest {
     prefs: PrefsState,
     sourceEdition: String
   ): SelectedContent = buildReaderShareText("new_testament", book, selected, prefs, sourceEdition,
-    linksForReference = { ref, appLink -> fixtureLinks(ref, book.id, prefs, sourceEdition, appLink) },
+    linksForReference = { ref -> fixtureLinks(ref, book.id, prefs, sourceEdition) },
     localizeReference = { it })
 
   // Native assets are platform-backed. This fixture supplies only their anchor
@@ -286,14 +362,15 @@ class ReaderSharingTest {
     bookId: String,
     prefs: PrefsState,
     sourceEdition: String,
-    appLink: String? = null,
     resolveAnchor: (String, String, String, VerseAnchor) -> VerseAnchor? = { _, _, _, anchor -> anchor }
-  ): List<String> = readerShareLinks(reference, bookId, prefs, sourceEdition, appLink) { ref, targetBook, candidate ->
-    val language = candidate.appLanguage
-    val version = Linker.selectedVersionForReader(candidate.translation, candidate.readerMode, language)
-    val target = version?.let { providerNumberingEdition(language, candidate.readerMode, it, targetBook) }
-    val mapped = editionAwareCanonicalReference(ref, targetBook, BibleEditions.defaultForLanguage(language),
-      sourceEdition, target, resolveAnchor)
-    mapped?.let { Linker.linkForReader(it, candidate.translation, candidate.readerMode, language) }
-  }
+  ): List<String> = readerShareLinks(reference, bookId, prefs, sourceEdition,
+    resolveExternal = { ref, targetBook, candidate ->
+      val language = candidate.appLanguage
+      val version = Linker.selectedVersionForReader(candidate.translation, candidate.readerMode, language)
+      val target = version?.let { providerNumberingEdition(language, candidate.readerMode, it, targetBook) }
+      val mapped = editionAwareCanonicalReference(ref, targetBook, BibleEditions.defaultForLanguage(language),
+        sourceEdition, target, resolveAnchor)
+      mapped?.let { Linker.linkForReader(it, candidate.translation, candidate.readerMode, language) }
+    },
+    resolveSourceAnchor = resolveAnchor)
 }

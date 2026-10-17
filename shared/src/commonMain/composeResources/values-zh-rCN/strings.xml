@@ -323,8 +323,8 @@
     <string name="intro_short">简介</string>
     <string name="intro_section_header">本卷简介</string>
     <string name="tts_read_intros">TTS 朗读本卷简介</string>
-    <string name="include_app_link_when_sharing">分享时附加应用内链接</string>
-    <string name="include_app_link_when_sharing_desc">复制或分享经文时，附加一个 Bible Companion 链接。仍会包含 Bible.com 或 Bible Gateway 的公开网页链接。</string>
+    <string name="verse_share_link_provider">经文分享链接</string>
+    <string name="verse_share_link_provider_desc">选择复制或分享经文时使用的链接：Bible.com 或 Bible Gateway。</string>
     <string name="external_bible_version">外部圣经版本</string>
     <string name="external_bible_version_desc">选择外部经文链接使用的圣经版本。若已安装YouVersion圣经应用，Bible.com链接会在该应用中打开；否则会在浏览器中打开Bible.com。这不会更改Bible Companion内的正文。</string>
     <string name="external_biblegateway_version_desc">选择外部经文链接使用的圣经版本。链接会在浏览器中打开Bible Gateway网站。这不会更改Bible Companion内的正文。</string>

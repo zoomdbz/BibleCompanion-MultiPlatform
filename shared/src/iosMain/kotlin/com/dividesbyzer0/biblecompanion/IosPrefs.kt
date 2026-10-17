@@ -53,7 +53,7 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
             textSizeScale = getFloat("text_size_scale", 1.0f),
             readingLineSpacing = getFloat("reading_line_spacing", 1.65f).coerceIn(1.3f, 2.1f),
             versePerLine = getBool("verse_per_line", true),
-            includeAppLinksWhenSharing = getBool("include_app_links_when_sharing", false),
+            verseShareProvider = normalizeVerseShareProvider(getString("verse_share_provider")),
             lastReadCollection = getString("last_read_collection"),
             lastReadBookId = getString("last_read_book_id"),
             lastReadBookTitle = getString("last_read_book_title"),
@@ -142,8 +142,8 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
     actual suspend fun setVersePerLine(enabled: Boolean) {
         defaults.setBool(enabled, forKey = "verse_per_line"); refresh()
     }
-    actual suspend fun setIncludeAppLinksWhenSharing(enabled: Boolean) {
-        defaults.setBool(enabled, forKey = "include_app_links_when_sharing"); refresh()
+    actual suspend fun setVerseShareProvider(provider: String) {
+        defaults.setObject(normalizeVerseShareProvider(provider), forKey = "verse_share_provider"); refresh()
     }
     actual suspend fun setLastRead(
         collection: String,

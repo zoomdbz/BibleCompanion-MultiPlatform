@@ -3,6 +3,12 @@ package com.dividesbyzer0.biblecompanion
 import com.dividesbyzer0.biblecompanion.platform.PlatformContext
 import kotlinx.coroutines.flow.Flow
 
+internal fun normalizeVerseShareProvider(provider: String?): String =
+    when (provider?.trim()?.lowercase()) {
+        "biblegateway" -> "biblegateway"
+        else -> "biblecom"
+    }
+
 // Cross-platform prefs using a simple in-memory + platform persistence approach
 expect class PrefsRepo(context: PlatformContext) {
     val flow: Flow<PrefsState>
@@ -22,7 +28,7 @@ expect class PrefsRepo(context: PlatformContext) {
     suspend fun setTextSizeScale(scale: Float)
     suspend fun setReadingLineSpacing(spacing: Float)
     suspend fun setVersePerLine(enabled: Boolean)
-    suspend fun setIncludeAppLinksWhenSharing(enabled: Boolean)
+    suspend fun setVerseShareProvider(provider: String)
     suspend fun setLastRead(
         collection: String,
         bookId: String,

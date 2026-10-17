@@ -3803,12 +3803,9 @@ internal fun StoryCard(
               val md = buildStoryMarkdown(story, ktLabel, crLabel)
               val plain = markdownToPlainText(md)
               val sourceEdition = BibleEditions.effective(prefs.appLanguage, prefs.internalBibleVersion)
-              val deepLink = if (prefs.includeAppLinksWhenSharing) {
-                appPassageLink(col, bookId, story.id, prefs.appLanguage, sourceEdition)
-              } else null
               val links = canonicalShareRef?.let { ref ->
-                readerShareLinks(ctx, ref, bookId, prefs, sourceEdition, deepLink)
-              } ?: listOfNotNull(deepLink)
+                readerShareLinks(ctx, ref, bookId, prefs, sourceEdition)
+              }.orEmpty()
               if (links.isEmpty()) plain else "$plain\n\n${links.joinToString("\n")}"
             }
             platformShareText(ctx, story.title, sharePlain)
@@ -5659,17 +5656,32 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
 
       Spacer(Modifier.height(4.dp))
 
-      SettingsSwitch(
-        stringResource(Res.string.include_app_link_when_sharing),
-        prefs.includeAppLinksWhenSharing
-      ) { enabled ->
-        scope.launch { repo.setIncludeAppLinksWhenSharing(enabled) }
+      AnimatedVisibility(visible = isInternal) {
+        Column(verticalArrangement = Arrangement.spacedBy(4.dp)) {
+          Text(
+            stringResource(Res.string.verse_share_link_provider),
+            style = MaterialTheme.typography.titleSmall
+          )
+          Text(
+            stringResource(Res.string.verse_share_link_provider_desc),
+            style = MaterialTheme.typography.bodySmall,
+            color = MaterialTheme.colorScheme.onSurfaceVariant
+          )
+          val shareProviders = listOf("biblecom" to "Bible.com", "biblegateway" to "Bible Gateway")
+          val selectedShareProvider = normalizeVerseShareProvider(prefs.verseShareProvider)
+          SingleChoiceSegmentedButtonRow(Modifier.fillMaxWidth()) {
+            shareProviders.forEachIndexed { index, (provider, label) ->
+              SegmentedButton(
+                selected = selectedShareProvider == provider,
+                onClick = { scope.launch { repo.setVerseShareProvider(provider) } },
+                shape = SegmentedButtonDefaults.itemShape(index = index, count = shareProviders.size)
+              ) {
+                Text(label, maxLines = 1, style = MaterialTheme.typography.labelSmall)
+              }
+            }
+          }
+        }
       }
-      Text(
-        stringResource(Res.string.include_app_link_when_sharing_desc),
-        style = MaterialTheme.typography.bodySmall,
-        color = MaterialTheme.colorScheme.onSurfaceVariant
-      )
 
       // Collections
       Text(stringResource(Res.string.collections), style = MaterialTheme.typography.titleSmall)

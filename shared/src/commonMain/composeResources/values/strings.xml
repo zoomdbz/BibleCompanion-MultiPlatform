@@ -356,8 +356,8 @@
     <string name="tts_read_intros">TTS reads book intros</string>
     <!-- Internal and external Bible editions -->
     <string name="external_bible_version">External Bible Version</string>
-    <string name="include_app_link_when_sharing">Include in-app link when sharing</string>
-    <string name="include_app_link_when_sharing_desc">Add a Bible Companion link when copying or sharing Scripture. Public Bible.com or Bible Gateway links are still included.</string>
+    <string name="verse_share_link_provider">Verse sharing links</string>
+    <string name="verse_share_link_provider_desc">Choose Bible.com or Bible Gateway for links when copying or sharing verses.</string>
     <string name="external_bible_version_desc">Choose the version for external references. Bible.com links open in the YouVersion Bible app when it is installed; otherwise they open Bible.com in your browser. This does not change the text in Bible Companion.</string>
     <string name="external_biblegateway_version_desc">Choose the Bible version for external references. Links open on the Bible Gateway website in your browser. This does not change the text in Bible Companion.</string>
     <string name="in_app_bible_version">In-App Bible Version</string>

@@ -324,8 +324,8 @@
     <string name="intro_section_header">पुस्तक का परिचय</string>
     <string name="tts_read_intros">TTS पुस्तक परिचय पढ़े</string>
     <string name="external_bible_version">बाहरी बाइबल संस्करण</string>
-    <string name="include_app_link_when_sharing">साझा करते समय ऐप में खुलने वाला लिंक जोड़ें</string>
-    <string name="include_app_link_when_sharing_desc">बाइबल के वचन कॉपी या साझा करते समय Bible Companion का लिंक भी जोड़ें। Bible.com या Bible Gateway के सार्वजनिक लिंक पहले की तरह शामिल रहेंगे।</string>
+    <string name="verse_share_link_provider">वचन साझा करने के लिंक</string>
+    <string name="verse_share_link_provider_desc">वचन कॉपी या साझा करते समय लिंक के लिए Bible.com या Bible Gateway चुनें।</string>
     <string name="external_bible_version_desc">बाहरी संदर्भों के लिए बाइबल संस्करण चुनें। यदि YouVersion Bible ऐप इंस्टॉल है, तो Bible.com के लिंक उसमें खुलते हैं; अन्यथा वे ब्राउज़र में Bible.com पर खुलते हैं। इससे Bible Companion का पाठ नहीं बदलता।</string>
     <string name="external_biblegateway_version_desc">बाहरी संदर्भों के लिए बाइबल संस्करण चुनें। लिंक आपके ब्राउज़र में Bible Gateway वेबसाइट पर खुलते हैं। इससे Bible Companion का पाठ नहीं बदलता।</string>
     <string name="in_app_bible_version">ऐप में बाइबल संस्करण</string>

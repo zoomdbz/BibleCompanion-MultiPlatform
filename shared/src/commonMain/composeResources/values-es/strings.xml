@@ -323,8 +323,8 @@
     <string name="intro_short">Intro</string>
     <string name="intro_section_header">Introducción del Libro</string>
     <string name="tts_read_intros">TTS lee las introducciones</string>
-    <string name="include_app_link_when_sharing">Incluir enlace a la app al compartir</string>
-    <string name="include_app_link_when_sharing_desc">Añade también un enlace a Bible Companion al copiar o compartir pasajes bíblicos. Los enlaces públicos de Bible.com o Bible Gateway se siguen incluyendo.</string>
+    <string name="verse_share_link_provider">Enlaces para compartir versículos</string>
+    <string name="verse_share_link_provider_desc">Elige Bible.com o Bible Gateway para los enlaces al copiar o compartir versículos.</string>
     <string name="external_bible_version">Versión bíblica externa</string>
     <string name="external_bible_version_desc">Elige la versión para las referencias externas. Los enlaces de Bible.com se abren en la app Biblia YouVersion si está instalada; de lo contrario, abren Bible.com en el navegador. Esto no cambia el texto de Bible Companion.</string>
     <string name="external_biblegateway_version_desc">Elige la versión de la Biblia para las referencias externas. Los enlaces se abren en el sitio web de Bible Gateway en el navegador. Esto no cambia el texto de Bible Companion.</string>

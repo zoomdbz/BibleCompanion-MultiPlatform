@@ -2,17 +2,21 @@ package com.dividesbyzer0.biblecompanion
 
 import com.dividesbyzer0.biblecompanion.platform.PlatformContext
 
-/** Sharing uses a public reader independently of the reader used inside the app. */
+/** External readers share their website; the internal reader uses its saved share provider. */
 internal fun readerShareLinks(
   context: PlatformContext,
   canonicalRef: String,
   bookId: String,
   prefs: PrefsState,
-  sourceEdition: String,
-  appLink: String?
-): List<String> = readerShareLinks(canonicalRef, bookId, prefs, sourceEdition, appLink) { ref, targetBookId, candidate ->
-  editionAwareExternalLink(context, ref, targetBookId, candidate, sourceEdition)
-}
+  sourceEdition: String
+): List<String> = readerShareLinks(canonicalRef, bookId, prefs, sourceEdition,
+  resolveExternal = { ref, targetBookId, candidate ->
+    editionAwareExternalLink(context, ref, targetBookId, candidate, sourceEdition)
+  },
+  resolveSourceAnchor = { targetBookId, fromEdition, toEdition, anchor ->
+    EditionReferenceMaps.resolve(context, LocaleUtils.effectiveAssetTag(prefs.appLanguage),
+      targetBookId, fromEdition, toEdition, anchor)
+  })
 
 /** Inject the checked public-link resolver so payload tests need no platform assets. */
 internal fun readerShareLinks(
@@ -20,33 +24,55 @@ internal fun readerShareLinks(
   bookId: String,
   prefs: PrefsState,
   sourceEdition: String,
-  appLink: String?,
-  resolveExternal: (canonicalRef: String, bookId: String, providerPrefs: PrefsState) -> Pair<String, String>?
+  resolveExternal: (canonicalRef: String, bookId: String, providerPrefs: PrefsState) -> Pair<String, String>?,
+  resolveSourceAnchor: (bookId: String, fromEdition: String, toEdition: String, anchor: VerseAnchor) -> VerseAnchor?
 ): List<String> {
   val language = LocaleUtils.effectiveAssetTag(prefs.appLanguage)
   val source = readerShareSourceEdition(language, sourceEdition)
-  val providerCandidates = buildList {
-    if (prefs.readerMode.trim().lowercase() in setOf("biblecom", "biblegateway")) {
-      add(prefs.copy(appLanguage = language))
-    }
-    // The hidden external translation can still be ESV while the internal
-    // reader displays BSB or another language's base corpus. Use its declared
-    // numbering authority rather than guessing that those editions match.
-    val fallbackVersion = if (language == "en" && source == BibleEditions.KJV_1769) {
-      "KJV"
-    } else {
-      Linker.defaultVersionForLanguage(language)
-    }
-    add(prefs.copy(appLanguage = language, readerMode = "biblecom", translation = fallbackVersion))
-  }.distinctBy { it.readerMode.trim().lowercase() to it.translation.trim().uppercase() }
-
-  val publicUrl = providerCandidates.firstNotNullOfOrNull { candidate ->
-    resolveExternal(canonicalRef, bookId, candidate)?.second?.takeIf { it.startsWith("https://") }
+  if (source !in BibleEditions.available(language)) return emptyList()
+  val externalMode = prefs.readerMode.trim().lowercase()
+    .takeIf { it == "biblecom" || it == "biblegateway" }
+  val provider = externalMode ?: normalizeVerseShareProvider(prefs.verseShareProvider)
+  val defaultVersion = when {
+    language == "en" && source == BibleEditions.KJV_1769 -> "KJV"
+    provider == "biblegateway" -> Linker.defaultGatewayVersionForLanguage(language)
+    else -> Linker.defaultVersionForLanguage(language)
   }
-  return buildList {
-    publicUrl?.let(::add)
-    if (prefs.includeAppLinksWhenSharing) appLink?.let(::add)
-  }.distinct()
+  val candidate = prefs.copy(appLanguage = language, readerMode = provider,
+    translation = if (externalMode != null) prefs.translation else defaultVersion)
+  fun publicUrl(result: Pair<String, String>?): String? = result?.second?.takeIf {
+    val host = if (provider == "biblegateway") "www.biblegateway.com" else "www.bible.com"
+    it.startsWith("https://$host/")
+  }
+
+  publicUrl(resolveExternal(canonicalRef, bookId, candidate))?.let { return listOf(it) }
+  if (provider == "biblecom") {
+    // Hidden external preferences cannot change the internal corpus's declared
+    // numbering authority. Keep the fallback on the selected website.
+    if (!candidate.translation.equals(defaultVersion, ignoreCase = true)) {
+      publicUrl(resolveExternal(canonicalRef, bookId, candidate.copy(translation = defaultVersion)))
+        ?.let { return listOf(it) }
+    }
+    return emptyList()
+  }
+
+  // Failure for an audited provider target is authoritative. A generic lookup
+  // must not reinterpret failed KJV crosswalks or invalid native verse units.
+  val selectedVersion = Linker.selectedVersionForReader(candidate.translation, provider, language)
+  if (selectedVersion != null && providerNumberingEdition(language, provider, selectedVersion, bookId) != null) {
+    return emptyList()
+  }
+
+  // Gateway's localized catalog includes structural comparators rather than
+  // audited edition identities. A share-only reference lookup first maps the
+  // source passage to the base corpus; this does not claim identical wording
+  // or provider numbering. Unmapped alternate passages remain unlinked.
+  val base = BibleEditions.defaultForLanguage(language)
+  val lookupReference = editionAwareCanonicalReference(canonicalRef, bookId, base, source, base,
+    resolveSourceAnchor) ?: return emptyList()
+  return listOfNotNull(publicUrl(Linker.linkForReader(
+    lookupReference, candidate.translation, "biblegateway", language
+  )))
 }
 
 internal fun buildReaderShareText(
@@ -58,13 +84,12 @@ internal fun buildReaderShareText(
   sourceEdition: String,
   bookId: String = book.id
 ): SelectedContent = buildReaderShareText(collection, book, selected, prefs, sourceEdition,
-  linksForReference = { ref, appLink ->
-    readerShareLinks(context, ref, bookId, prefs, sourceEdition, appLink)
+  linksForReference = { ref ->
+    readerShareLinks(context, ref, bookId, prefs, sourceEdition)
   },
   bookId = bookId)
 
 private data class ReaderShareUnit(
-  val storyId: String,
   val storyTitle: String,
   val storyReference: String?,
   val bookName: String?,
@@ -85,7 +110,7 @@ internal fun buildReaderShareText(
   selected: Set<Pair<String, Int>>,
   prefs: PrefsState,
   sourceEdition: String,
-  linksForReference: (canonicalRef: String, appLink: String?) -> List<String>,
+  linksForReference: (canonicalRef: String) -> List<String>,
   localizeReference: (String) -> String = ScriptureRefs::localizeRef,
   bookId: String = book.id
 ): SelectedContent {
@@ -124,7 +149,7 @@ internal fun buildReaderShareText(
       }
       val text = stripScriptureInlineTags(readerTextWithoutTrailingAnchor(raw, parsed)).trim()
       blocks.getOrPut(key) { mutableListOf() } += ReaderShareUnit(
-        story.id, story.title, storyReference, bookName, anchor, text
+        story.title, storyReference, bookName, anchor, text
       )
     }
   }
@@ -144,22 +169,11 @@ internal fun buildReaderShareText(
     val links = if (exact) {
       readerShareContiguousSpans(anchors).flatMap { span ->
         val ref = "${first.bookName} ${readerNativeReferenceTail(span)}"
-        val storyId = units.first { unit ->
-          unit.anchor?.let {
-            it.chapter == span.chapter && it.verseStart <= span.verseEnd && it.verseEnd >= span.verseStart
-          } == true
-        }.storyId
-        val appLink = if (prefs.includeAppLinksWhenSharing) {
-          appPassageLink(collection, bookId, storyId, language, edition, span)
-        } else null
-        linksForReference(ref, appLink)
+        linksForReference(ref)
       }.distinct()
     } else {
       // Without source coordinates there is no proved selected verse target.
-      // The opt-in app link can still open the actual source story.
-      if (prefs.includeAppLinksWhenSharing) {
-        listOf(appPassageLink(collection, bookId, first.storyId, language, edition))
-      } else emptyList()
+      emptyList()
     }
 
     buildString {
