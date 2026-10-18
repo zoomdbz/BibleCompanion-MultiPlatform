@@ -1,0 +1,267 @@
+{
+  "scope": "English source readthrough: all 129 approved summaries, all 154 new or repaired notes, and all 236 changed reference descriptions. Detected wording ambiguities were compared with bundled Scripture; native-edition checks are recorded separately.",
+  "reviewer": "root",
+  "source_commit": "41cf9d02330836b86c6cd7c6456a70386f883b6b",
+  "reviewed_rows": [
+    "S001",
+    "S002",
+    "S003",
+    "S004",
+    "S005",
+    "S006",
+    "S007",
+    "S008",
+    "S009",
+    "S010",
+    "S011",
+    "S012",
+    "S013",
+    "S014",
+    "S015",
+    "S016",
+    "S017",
+    "S018",
+    "S019",
+    "S020",
+    "S021",
+    "S022",
+    "S023",
+    "S024",
+    "S025",
+    "S026",
+    "S027",
+    "S028",
+    "S029",
+    "S030",
+    "S031",
+    "S032",
+    "S033",
+    "S034",
+    "S035",
+    "S036",
+    "S037",
+    "S038",
+    "S039",
+    "S040",
+    "S041",
+    "S042",
+    "S043",
+    "S044",
+    "S045",
+    "S046",
+    "S047",
+    "S048",
+    "S049",
+    "S050",
+    "S051",
+    "S052",
+    "S053",
+    "S054",
+    "S055",
+    "S056",
+    "S057",
+    "S058",
+    "S059",
+    "S060",
+    "S061",
+    "S062",
+    "S063",
+    "S064",
+    "S065",
+    "S066",
+    "S067",
+    "S068",
+    "S069",
+    "S070",
+    "S071",
+    "S072",
+    "S073",
+    "S074",
+    "S075",
+    "S076",
+    "S077",
+    "S078",
+    "S079",
+    "S080",
+    "S081",
+    "S082",
+    "S083",
+    "S084",
+    "S085",
+    "S086",
+    "S087",
+    "S088",
+    "S089",
+    "S090",
+    "S091",
+    "S092",
+    "S093",
+    "S094",
+    "S095",
+    "S096",
+    "S097",
+    "S098",
+    "S099",
+    "S100",
+    "S101",
+    "S102",
+    "S103",
+    "S104",
+    "S105",
+    "S106",
+    "S107",
+    "S108",
+    "S109",
+    "S110",
+    "S111",
+    "S112",
+    "S113",
+    "S114",
+    "S115",
+    "S116",
+    "S117",
+    "S118",
+    "S119",
+    "S120",
+    "S121",
+    "S122",
+    "S123",
+    "S124",
+    "S125",
+    "S126",
+    "S127",
+    "S128",
+    "S129"
+  ],
+  "summaries_reviewed": 129,
+  "notes_reviewed": 154,
+  "reference_descriptions_reviewed": 236,
+  "corrections": [
+    {
+      "rows": [
+        "S037"
+      ],
+      "detail": "Made Micah's mother the silver-dedication actor and Micah the person expecting favor from hiring a Levite."
+    },
+    {
+      "rows": [
+        "S123"
+      ],
+      "detail": "Expanded ambiguous single-chapter shorthand Third John 5-8 to explicit 3 John 1:5-8 for the supporting-teachers parallel."
+    },
+    {
+      "rows": [
+        "S046"
+      ],
+      "detail": "Removed an invented fortnight from the repentance note; chapter 12 dates the child's death to the seventh day."
+    },
+    {
+      "rows": [
+        "S046",
+        "S058"
+      ],
+      "detail": "Added the forced-labor/execution rendering difference, keeping it separate from Joab/David capture roles and crown-weight explanation."
+    },
+    {
+      "rows": [
+        "S042"
+      ],
+      "detail": "Restored 1 Samuel 12:22's stated basis for assurance, the LORD's great name and choice of His people; kept faithful-service commands and warnings distinct."
+    },
+    {
+      "rows": [
+        "S030"
+      ],
+      "detail": "Replaced an unlabeled identity claim about Milcom/Molech with the explicit names and conduct in 1 Kings 11:5,7 and 2 Kings 23:10."
+    },
+    {
+      "rows": [
+        "S082"
+      ],
+      "detail": "Expanded a generic Esau/Edom reference label into the actual birthright/red-stew/Edom context of Genesis 25:29-34."
+    },
+    {
+      "rows": [
+        "S030"
+      ],
+      "detail": "Independent translation review exposed the retained gods-of-seven-nations note still assigning child sacrifice to Milcom and supplying unstated cult details. Replaced it with the exact list and conduct narrated in10:6; localized as an additional exact retained-entry correction, separate from the154 planned note slots."
+    },
+    {
+      "rows": [
+        "S014",
+        "S020",
+        "S049",
+        "S051",
+        "S059",
+        "S061",
+        "S063",
+        "S067",
+        "S075",
+        "S093",
+        "S098",
+        "S099",
+        "S129"
+      ],
+      "detail": "Corrected13 retained reference descriptions after full480-entry readthrough. Exact before/after entries are in translation_adjustments.json; these are supplemental corrections outside the common236 translated reference slots."
+    },
+    {
+      "rows": [
+        "S038",
+        "S054",
+        "S055",
+        "S063"
+      ],
+      "detail": "Corrected four retained notes: Danite silence command versus physical gagging, explicit2Kings4 citation for two debt-slavery notes, and Job children in their brother's house rather than tents. Exact supplemental corrections are recorded separately from the154 planned note slots."
+    },
+    {
+      "rows": [
+        "S038"
+      ],
+      "detail": "Corrected the retained migration note: Judges18:21 places children, livestock and possessions in front. Kept parallel groups of600 as parallels, without asserting a fixed army-unit size."
+    },
+    {
+      "rows": [
+        "S046"
+      ],
+      "detail": "Removed two unsupported numerical Hebrew word-count claims from retained notes; confession and accusation wording remains intact."
+    },
+    {
+      "rows": [
+        "S050",
+        "S052",
+        "S056"
+      ],
+      "detail": "Removed unrecorded witness payment, aligned Exodus20 coveting list, distinguished the two conscience-stricken episodes, and labeled the two-purchase explanation as proposed harmonization rather than narrated fact."
+    },
+    {
+      "rows": [
+        "S052"
+      ],
+      "detail": "Removed the duplicate paid-witness claim in retained note6, using the same1Kings21 source evidence as the S056 reference correction."
+    },
+    {
+      "rows": [
+        "S010",
+        "S033",
+        "S041"
+      ],
+      "detail": "Removed three unnecessary numerical tally claims while preserving the listed negotiations, wonderful-wordplay explanation, and repeated no-king refrain."
+    },
+    {
+      "rows": [
+        "S047"
+      ],
+      "detail": "Aligned the retained Absalom hanging description with the English BSB suspended-in-midair wording. Native heaven/earth wording and head/hair differences remain separately handled."
+    },
+    {
+      "rows": [
+        "S062"
+      ],
+      "detail": "Disambiguated the commander/scribe job titles from the personal names Rehum/Shimshai in retained note2."
+    }
+  ],
+  "passed": true,
+  "additional_retained_notes_reviewed": 16,
+  "retained_reference_descriptions_reviewed": 480,
+  "retained_reference_method": "Read every retained English description; compared detected ambiguities with bundled Scripture, including explicit Noah pair counts, census exceptions, Psalm72 wording, metal/casting scope, actor attribution, Rachel/Ramah, and Zechariah14 rendering."
+}

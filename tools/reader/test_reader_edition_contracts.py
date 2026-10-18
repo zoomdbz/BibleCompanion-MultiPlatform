@@ -174,7 +174,7 @@ class ReaderEditionContracts(unittest.TestCase):
     def test_saved_reader_restore_checks_actual_edition_in_addition_to_identity(self):
         resume_route = APP.split("val continueReading:", 1)[1].split("val navBack", 1)[0]
         self.assertIn("readingResumeCanRestoreSavedEdition(prefs)", resume_route)
-        self.assertIn('restored?.arguments?.getString("sourceEdition")', resume_route)
+        self.assertIn('restored?.arguments.stringArgument("sourceEdition")', resume_route)
         self.assertIn("&& BibleEditions.forNavigation(", resume_route)
         self.assertIn("sourceEdition == BibleEditions.effective(prefs.appLanguage, prefs.internalBibleVersion)", RESUME)
 

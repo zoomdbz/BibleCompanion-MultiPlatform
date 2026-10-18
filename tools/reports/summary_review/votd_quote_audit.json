@@ -1,0 +1,40 @@
+{
+  "scope": "Shared Verse of the Day display/share formatter for all 13 languages, including Android/iOS notification content. Canonical scripture assets retain their punctuation.",
+  "validation_method": "Python reference-model invariants and source-contract tests; Kotlin regression fixtures are added for Continuous Integration. No local app build or Kotlin test execution was performed.",
+  "corpora": {
+    "daily_and_feast_excerpts": 4862,
+    "alternate_edition_verse_units": 383783,
+    "primary_edition_verse_units": 400565,
+    "total": 789210
+  },
+  "quote_character_inventory": {
+    "units_scanned": 789210,
+    "characters": {
+      "U+00AB": 21211,
+      "U+00BB": 22250,
+      "U+2019": 75993,
+      "U+201C": 45878,
+      "U+201D": 41848,
+      "U+2018": 8365,
+      "U+300C": 24878,
+      "U+300D": 23084,
+      "U+300E": 6174,
+      "U+300F": 6127,
+      "U+203A": 3,
+      "U+2039": 3
+    },
+    "unhandled_candidates": []
+  },
+  "invariants": [
+    "Observed typographic quotation marks normalize to ASCII.",
+    "Explicit double and single speech events close in proper order.",
+    "Outer double quotation encloses the excerpt.",
+    "Words and inline display tags are preserved.",
+    "Apostrophes in contractions and possessives remain apostrophes."
+  ],
+  "source_contracts": {
+    "command": "python3 -m unittest tools.notifications.test_notification_contracts tools.home.test_home_contracts",
+    "tests_passed": 12
+  },
+  "passed": true
+}

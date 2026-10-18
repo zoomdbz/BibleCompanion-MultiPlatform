@@ -75,18 +75,24 @@ class ReleaseOptimizationContracts(unittest.TestCase):
 
     def test_release_versions_match_on_android_and_apple(self):
         app = (ROOT / "app/build.gradle.kts").read_text(encoding="utf-8")
-        self.assertIn("versionCode = 51", app)
-        self.assertIn('versionName = "5.0.0"', app)
+        version_code = re.search(r"versionCode = (\d+)", app).group(1)
+        version_name = re.search(r'versionName = "([\d.]+)"', app).group(1)
         apple = (ROOT / "iosApp/iosApp.xcodeproj/project.pbxproj").read_text(encoding="utf-8")
-        self.assertEqual(["51", "51"], re.findall(r"CURRENT_PROJECT_VERSION = (\d+);", apple))
-        self.assertEqual(
-            ["5.0.0", "5.0.0"],
-            re.findall(r"MARKETING_VERSION = ([\d.]+);", apple),
-        )
+        # The app and the embedded FeastWidgetExtension each carry Debug and
+        # Release values; App Store validation expects every bundle to agree.
+        build_numbers = re.findall(r"CURRENT_PROJECT_VERSION = (\d+);", apple)
+        marketing_versions = re.findall(r"MARKETING_VERSION = ([\d.]+);", apple)
+        self.assertEqual(4, len(build_numbers))
+        self.assertEqual(4, len(marketing_versions))
+        self.assertEqual({version_code}, set(build_numbers))
+        self.assertEqual({version_name}, set(marketing_versions))
         # The toolchain upgrade must not drop support for previously supported devices.
         self.assertIn("minSdk = 24", app)
+        # Project and app configurations stay at iOS 16.0; the embedded
+        # FeastWidgetExtension needs iOS 17.0 for interactive widget buttons and
+        # simply does not load on iOS 16 devices.
         self.assertEqual(
-            ["16.0"] * 4,
+            ["16.0"] * 4 + ["17.0"] * 2,
             re.findall(r"IPHONEOS_DEPLOYMENT_TARGET = ([\d.]+);", apple),
         )
 
@@ -147,6 +153,7 @@ class ReleaseOptimizationContracts(unittest.TestCase):
             "-keep class ai.onnxruntime.** { *; }",
             "-keep class * extends androidx.room.RoomDatabase { public <init>(); }",
             "-keep class * extends androidx.work.InputMerger { public <init>(); }",
+            "-keep class * implements androidx.glance.appwidget.action.ActionCallback { public <init>(); }",
         ], rules)
         for folder in (ROOT / "app", ROOT / "shared"):
             for path in folder.rglob("*.pro"):
