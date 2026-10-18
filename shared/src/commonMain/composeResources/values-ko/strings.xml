@@ -220,8 +220,8 @@
     <!-- 에세네 / 성전 두루마리 / 희년서 절기 -->
     <string name="feast_new_wine_name">새 포도주 절기</string>
     <string name="feast_new_oil_name">새 기름 절기</string>
-    <string name="feast_memorial_q2_name">두 번째 기념일</string>
-    <string name="feast_memorial_q4_name">네 번째 기념일</string>
+    <string name="feast_memorial_q2_name">기념일 (넷째 달)</string>
+    <string name="feast_memorial_q4_name">기념일 (열째 달)</string>
     <string name="essene_calendar_label">에세네</string>
 
     <!-- Prophecy -->

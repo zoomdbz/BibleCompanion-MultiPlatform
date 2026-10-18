@@ -221,8 +221,8 @@
     <!-- Fêtes esséniennes / Rouleau du Temple / Jubilés -->
     <string name="feast_new_wine_name">Fête du Vin Nouveau</string>
     <string name="feast_new_oil_name">Fête de l’Huile Nouvelle</string>
-    <string name="feast_memorial_q2_name">Deuxième Jour de Commémoration</string>
-    <string name="feast_memorial_q4_name">Quatrième Jour de Commémoration</string>
+    <string name="feast_memorial_q2_name">Jour de Commémoration (4e mois)</string>
+    <string name="feast_memorial_q4_name">Jour de Commémoration (10e mois)</string>
     <string name="essene_calendar_label">Essénien</string>
 
     <!-- Prophecy -->

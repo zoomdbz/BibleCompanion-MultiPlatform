@@ -220,8 +220,8 @@
     <!-- Fiestas esenias / Rollo del Templo / Jubileos -->
     <string name="feast_new_wine_name">Fiesta del Vino Nuevo</string>
     <string name="feast_new_oil_name">Fiesta del Aceite Nuevo</string>
-    <string name="feast_memorial_q2_name">Segundo Día de Memorial</string>
-    <string name="feast_memorial_q4_name">Cuarto Día de Memorial</string>
+    <string name="feast_memorial_q2_name">Día de Memorial (mes 4)</string>
+    <string name="feast_memorial_q4_name">Día de Memorial (mes 10)</string>
     <string name="essene_calendar_label">Esenio</string>
 
     <!-- Prophecy -->
