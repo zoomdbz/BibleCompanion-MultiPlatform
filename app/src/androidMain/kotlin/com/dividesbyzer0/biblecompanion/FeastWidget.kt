@@ -3,6 +3,7 @@ package com.dividesbyzer0.biblecompanion
 import android.content.Context
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.unit.DpSize
+import androidx.compose.ui.unit.TextUnit
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.datastore.preferences.core.Preferences
@@ -18,12 +19,12 @@ import androidx.glance.appwidget.SizeMode
 import androidx.glance.appwidget.action.ActionCallback
 import androidx.glance.appwidget.action.actionRunCallback
 import androidx.glance.appwidget.cornerRadius
+import androidx.glance.appwidget.lazy.LazyColumn
+import androidx.glance.appwidget.lazy.itemsIndexed
 import androidx.glance.appwidget.provideContent
 import androidx.glance.appwidget.state.updateAppWidgetState
 import androidx.glance.background
 import androidx.glance.currentState
-import androidx.glance.appwidget.lazy.LazyColumn
-import androidx.glance.appwidget.lazy.itemsIndexed
 import androidx.glance.layout.Alignment
 import androidx.glance.layout.Box
 import androidx.glance.layout.Column
@@ -34,6 +35,7 @@ import androidx.glance.layout.fillMaxWidth
 import androidx.glance.layout.height
 import androidx.glance.layout.padding
 import androidx.glance.layout.width
+import androidx.glance.text.FontFamily
 import androidx.glance.text.FontWeight
 import androidx.glance.text.Text
 import androidx.glance.text.TextStyle
@@ -50,6 +52,7 @@ class FeastWidget : GlanceAppWidget() {
     private val SMALL = DpSize(110.dp, 50.dp)
     private val MEDIUM = DpSize(180.dp, 80.dp)
     private val LARGE = DpSize(220.dp, 150.dp)
+    private const val SHOWN_FEASTS = 10
     val CAL_TYPE_KEY = stringPreferencesKey("feast_calendar_type")
   }
 
@@ -59,13 +62,15 @@ class FeastWidget : GlanceAppWidget() {
     val month = cal.get(Calendar.MONTH) + 1
     val day = cal.get(Calendar.DAY_OF_MONTH)
 
-    val feasts = CalendarUtils.upcomingFeasts(year, month, day, 10)
+    // Enough candidates that a single-calendar filter still fills the list.
+    val feasts = CalendarUtils.upcomingFeasts(year, month, day, SHOWN_FEASTS * 6)
+    val appearance = loadWidgetAppearance(context)
 
     provideContent {
       val prefs = currentState<Preferences>()
       val calType = prefs[CAL_TYPE_KEY] ?: "B"
-      GlanceTheme {
-        WidgetContent(feasts, calType)
+      BibleCompanionWidgetTheme(appearance) {
+        WidgetContent(feasts, calType, appearance.fontFamily)
       }
     }
   }
@@ -83,28 +88,23 @@ class FeastWidget : GlanceAppWidget() {
   @Composable
   private fun WidgetContent(
     feasts: List<CalendarUtils.UpcomingFeast>,
-    calType: String
+    calType: String,
+    family: FontFamily?
   ) {
     val size = LocalSize.current
     val tier = sizeTier(size)
 
-    // Filter feasts by calendar type
-    val filteredFeasts = when (calType) {
-      "H" -> feasts.filter { it.calendarType == FeastCalendarType.HEBREW }
-      "E" -> feasts.filter { it.calendarType == FeastCalendarType.ESSENE }
-      "K" -> feasts.filter { it.calendarType == FeastCalendarType.KARAITE }
-      else -> feasts
-    }
+    // Filter first, then cut to the shown count, so a single calendar fills the list.
+    val selected = calendarTypeFor(calType)
+    val shownFeasts = (if (selected == null) feasts else feasts.filter { it.calendarType == selected })
+      .take(SHOWN_FEASTS)
+    val showMarker = selected == null
 
-    // Compact: single row, just next feast + countdown
     if (tier == SizeTier.COMPACT) {
-      CompactContent(filteredFeasts.firstOrNull(), calType)
+      CompactContent(shownFeasts.firstOrNull(), family)
       return
     }
 
-    val showItems = filteredFeasts
-
-    // Responsive font sizes
     val headerFontSize = when (tier) {
       SizeTier.COMPACT -> 9.sp
       SizeTier.SMALL -> 10.sp
@@ -151,50 +151,38 @@ class FeastWidget : GlanceAppWidget() {
     Column(
       modifier = GlanceModifier
         .fillMaxSize()
-        .cornerRadius(16.dp)
-        .background(GlanceTheme.colors.widgetBackground)
+        .cornerRadius(24.dp)
+        .background(GlanceTheme.colors.background)
         .padding(12.dp)
         .clickable(calendarWidgetOpenAction()),
-      verticalAlignment = if (showItems.size <= 1) Alignment.CenterVertically else Alignment.Top
+      verticalAlignment = if (shownFeasts.size <= 1) Alignment.CenterVertically else Alignment.Top
     ) {
-      // Header row with title and calendar type toggle
+      // Header row with title and calendar filter chip
       Row(
         modifier = GlanceModifier.fillMaxWidth(),
         verticalAlignment = Alignment.CenterVertically
       ) {
         Text(
-          text = "\u2721 " + WidgetStrings.feastsHeader(),
+          text = "✡ " + WidgetStrings.feastsHeader(),
           style = TextStyle(
             fontWeight = FontWeight.Bold,
             fontSize = headerFontSize,
-            color = GlanceTheme.colors.onSurfaceVariant
+            color = GlanceTheme.colors.onSurfaceVariant,
+            fontFamily = family
           ),
           maxLines = 1,
           modifier = GlanceModifier.defaultWeight()
         )
-        Box(
-          modifier = GlanceModifier
-            .clickable(actionRunCallback<ToggleFeastCalTypeAction>())
-            .padding(horizontal = 14.dp, vertical = 10.dp),
-          contentAlignment = Alignment.Center
-        ) {
-          Text(
-            text = when (calType) {
-              "H" -> "\u2721 " + WidgetStrings.calHebrew()
-              "E" -> "\u2609 " + WidgetStrings.calEssene()
-              "K" -> "\u263E " + WidgetStrings.calKaraite()
-              else -> "\u2721\u2609\u263E " + WidgetStrings.calAll()
-            },
-            style = TextStyle(
-              fontSize = toggleFontSize,
-              color = GlanceTheme.colors.primary
-            )
-          )
-        }
+        Spacer(GlanceModifier.width(6.dp))
+        WidgetChip(
+          text = filterGlyphs(calType) + " " + filterLabel(calType),
+          fontSize = toggleFontSize,
+          action = actionRunCallback<ToggleFeastCalTypeAction>()
+        )
       }
       Spacer(GlanceModifier.height(itemSpacing))
 
-      if (showItems.isEmpty()) {
+      if (shownFeasts.isEmpty()) {
         Text(
           text = WidgetStrings.noFeasts(),
           style = TextStyle(
@@ -204,27 +192,36 @@ class FeastWidget : GlanceAppWidget() {
         )
       } else {
         LazyColumn(modifier = GlanceModifier.fillMaxSize()) {
-          itemsIndexed(showItems) { idx, feast ->
+          itemsIndexed(shownFeasts) { idx, feast ->
             Column(
               modifier = GlanceModifier.fillMaxWidth().clickable(calendarWidgetOpenAction())
             ) {
-              if (idx > 0) {
+              if (idx == 0) {
+                HeroRow(
+                  feast = feast,
+                  showMarker = showMarker,
+                  nameFontSize = nameFontSizeFirst,
+                  dateFontSize = dateFontSize,
+                  family = family
+                )
+              } else {
+                if (idx > 1) {
+                  Spacer(GlanceModifier.height(itemSpacing))
+                  Box(
+                    modifier = GlanceModifier.fillMaxWidth().height(1.dp)
+                      .background(GlanceTheme.colors.surfaceVariant)
+                  ) {}
+                }
                 Spacer(GlanceModifier.height(itemSpacing))
-                Box(
-                  modifier = GlanceModifier.fillMaxWidth().height(1.dp)
-                    .background(GlanceTheme.colors.onSurfaceVariant)
-                ) {}
-                Spacer(GlanceModifier.height(itemSpacing))
+                FeastRow(
+                  feast = feast,
+                  showMarker = showMarker,
+                  nameFontSize = nameFontSize,
+                  dateFontSize = dateFontSize,
+                  countdownFontSize = countdownFontSize,
+                  family = family
+                )
               }
-              FeastRow(
-                feast = feast,
-                isFirst = idx == 0,
-                calType = calType,
-                nameFontSizeFirst = nameFontSizeFirst,
-                nameFontSize = nameFontSize,
-                dateFontSize = dateFontSize,
-                countdownFontSize = countdownFontSize
-              )
             }
           }
         }
@@ -232,40 +229,80 @@ class FeastWidget : GlanceAppWidget() {
     }
   }
 
+  /** The next feast, raised on a primary container card like the app's highlight cards. */
+  @Composable
+  private fun HeroRow(
+    feast: CalendarUtils.UpcomingFeast,
+    showMarker: Boolean,
+    nameFontSize: TextUnit,
+    dateFontSize: TextUnit,
+    family: FontFamily?
+  ) {
+    Column(
+      modifier = GlanceModifier
+        .fillMaxWidth()
+        .background(GlanceTheme.colors.primaryContainer)
+        .cornerRadius(12.dp)
+        .padding(horizontal = 10.dp, vertical = 8.dp)
+    ) {
+      Text(
+        text = feastLabel(feast, showMarker),
+        style = TextStyle(
+          fontWeight = FontWeight.Bold,
+          fontSize = nameFontSize,
+          color = GlanceTheme.colors.onPrimaryContainer,
+          fontFamily = family
+        ),
+        maxLines = 1
+      )
+      Spacer(GlanceModifier.height(2.dp))
+      Row(
+        modifier = GlanceModifier.fillMaxWidth(),
+        verticalAlignment = Alignment.CenterVertically
+      ) {
+        Text(
+          text = formatDate(feast.gregorianMonth, feast.gregorianDay),
+          style = TextStyle(
+            fontSize = dateFontSize,
+            color = GlanceTheme.colors.onPrimaryContainer
+          ),
+          maxLines = 1,
+          modifier = GlanceModifier.defaultWeight()
+        )
+        Text(
+          text = countdownLabel(feast.daysUntil),
+          style = TextStyle(
+            fontSize = dateFontSize,
+            fontWeight = FontWeight.Bold,
+            color = GlanceTheme.colors.onPrimaryContainer
+          ),
+          maxLines = 1
+        )
+      }
+    }
+  }
+
   @Composable
   private fun FeastRow(
     feast: CalendarUtils.UpcomingFeast,
-    isFirst: Boolean,
-    calType: String,
-    nameFontSizeFirst: androidx.compose.ui.unit.TextUnit,
-    nameFontSize: androidx.compose.ui.unit.TextUnit,
-    dateFontSize: androidx.compose.ui.unit.TextUnit,
-    countdownFontSize: androidx.compose.ui.unit.TextUnit
+    showMarker: Boolean,
+    nameFontSize: TextUnit,
+    dateFontSize: TextUnit,
+    countdownFontSize: TextUnit,
+    family: FontFamily?
   ) {
-    // Add [H] or [E] marker when showing both calendars
-    val marker = if (calType == "B") {
-      when (feast.calendarType) {
-        FeastCalendarType.HEBREW -> " \u2721"
-        FeastCalendarType.ESSENE -> " \u2609"
-        FeastCalendarType.KARAITE -> " \u263E"
-      }
-    } else ""
-
-    val baseName = WidgetStrings.feastName(feast.id, feast.name)
-    val dayLabel = WidgetStrings.dayOfFeast(feast.dayOfFeast)
-    val displayLabel = if (feast.totalDays > 1) "$baseName ($dayLabel)" else baseName
-
+    val soon = feast.daysUntil <= 1
     Row(
       modifier = GlanceModifier.fillMaxWidth(),
       verticalAlignment = Alignment.CenterVertically
     ) {
       Column(modifier = GlanceModifier.defaultWeight()) {
         Text(
-          text = "$displayLabel$marker",
+          text = feastLabel(feast, showMarker),
           style = TextStyle(
-            fontWeight = if (isFirst) FontWeight.Bold else FontWeight.Normal,
-            fontSize = if (isFirst) nameFontSizeFirst else nameFontSize,
-            color = if (isFirst) GlanceTheme.colors.primary else GlanceTheme.colors.onSurface
+            fontSize = nameFontSize,
+            color = GlanceTheme.colors.onSurface,
+            fontFamily = family
           ),
           maxLines = 1
         )
@@ -281,15 +318,11 @@ class FeastWidget : GlanceAppWidget() {
           maxLines = 1
         )
         Text(
-          text = when (feast.daysUntil) {
-            0 -> WidgetStrings.today()
-            1 -> WidgetStrings.tomorrow()
-            else -> WidgetStrings.daysShort(feast.daysUntil)
-          },
+          text = countdownLabel(feast.daysUntil),
           style = TextStyle(
             fontSize = countdownFontSize,
-            fontWeight = if (feast.daysUntil <= 1) FontWeight.Bold else FontWeight.Normal,
-            color = if (feast.daysUntil <= 1) GlanceTheme.colors.primary else GlanceTheme.colors.onSurfaceVariant
+            fontWeight = if (soon) FontWeight.Bold else FontWeight.Normal,
+            color = if (soon) GlanceTheme.colors.primary else GlanceTheme.colors.onSurfaceVariant
           ),
           maxLines = 1
         )
@@ -298,26 +331,24 @@ class FeastWidget : GlanceAppWidget() {
   }
 
   @Composable
-  private fun CompactContent(feast: CalendarUtils.UpcomingFeast?, calType: String) {
+  private fun CompactContent(feast: CalendarUtils.UpcomingFeast?, family: FontFamily?) {
     Row(
       modifier = GlanceModifier
         .fillMaxSize()
-        .cornerRadius(12.dp)
-        .background(GlanceTheme.colors.widgetBackground)
-        .padding(horizontal = 8.dp, vertical = 4.dp)
+        .cornerRadius(16.dp)
+        .background(GlanceTheme.colors.primaryContainer)
+        .padding(horizontal = 10.dp, vertical = 4.dp)
         .clickable(calendarWidgetOpenAction()),
       verticalAlignment = Alignment.CenterVertically
     ) {
       if (feast != null) {
-        val cbaseName = WidgetStrings.feastName(feast.id, feast.name)
-        val cdayLabel = WidgetStrings.dayOfFeast(feast.dayOfFeast)
-        val cdisplayLabel = if (feast.totalDays > 1) "$cbaseName ($cdayLabel)" else cbaseName
         Text(
-          text = cdisplayLabel,
+          text = feastLabel(feast, showMarker = false),
           style = TextStyle(
             fontWeight = FontWeight.Bold,
             fontSize = 11.sp,
-            color = GlanceTheme.colors.primary
+            color = GlanceTheme.colors.onPrimaryContainer,
+            fontFamily = family
           ),
           maxLines = 1,
           modifier = GlanceModifier.defaultWeight()
@@ -327,22 +358,34 @@ class FeastWidget : GlanceAppWidget() {
           text = when (feast.daysUntil) {
             0 -> WidgetStrings.today()
             1 -> WidgetStrings.tomorrow()
-            else -> "${formatDate(feast.gregorianMonth, feast.gregorianDay)} \u2022 " + WidgetStrings.daysShort(feast.daysUntil)
+            else -> "${formatDate(feast.gregorianMonth, feast.gregorianDay)} • " + WidgetStrings.daysShort(feast.daysUntil)
           },
           style = TextStyle(
             fontSize = 10.sp,
             fontWeight = if (feast.daysUntil <= 1) FontWeight.Bold else FontWeight.Normal,
-            color = if (feast.daysUntil <= 1) GlanceTheme.colors.primary else GlanceTheme.colors.onSurfaceVariant
+            color = GlanceTheme.colors.onPrimaryContainer
           ),
           maxLines = 1
         )
       } else {
         Text(
           text = WidgetStrings.noFeasts(),
-          style = TextStyle(fontSize = 10.sp, color = GlanceTheme.colors.onSurfaceVariant)
+          style = TextStyle(fontSize = 10.sp, color = GlanceTheme.colors.onPrimaryContainer)
         )
       }
     }
+  }
+
+  private fun feastLabel(feast: CalendarUtils.UpcomingFeast, showMarker: Boolean): String {
+    val baseName = WidgetStrings.feastName(feast.id, feast.name)
+    val label = if (feast.totalDays > 1) "$baseName (${WidgetStrings.dayOfFeast(feast.dayOfFeast)})" else baseName
+    return if (showMarker) "$label ${calendarGlyph(feast.calendarType)}" else label
+  }
+
+  private fun countdownLabel(daysUntil: Int): String = when (daysUntil) {
+    0 -> WidgetStrings.today()
+    1 -> WidgetStrings.tomorrow()
+    else -> WidgetStrings.daysShort(daysUntil)
   }
 
   private fun formatDate(month: Int, day: Int): String {

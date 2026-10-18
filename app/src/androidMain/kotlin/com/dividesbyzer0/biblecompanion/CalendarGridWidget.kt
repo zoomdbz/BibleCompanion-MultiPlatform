@@ -37,6 +37,7 @@ import androidx.glance.text.FontWeight
 import androidx.glance.text.Text
 import androidx.glance.text.TextAlign
 import androidx.glance.text.TextStyle
+import androidx.glance.unit.ColorProvider
 import java.text.SimpleDateFormat
 import java.util.Calendar
 import java.util.Locale
@@ -63,7 +64,11 @@ private data class MonthData(
   val daysInMonth: Int,
   val firstDow: Int,
   val feastMap: Map<Int, List<FeastMarker>>,
-  val monthName: String
+  val title: String
+)
+
+private val LEGEND_CALENDARS = listOf(
+  FeastCalendarType.HEBREW, FeastCalendarType.ESSENE, FeastCalendarType.KARAITE
 )
 
 class CalendarGridWidget : GlanceAppWidget() {
@@ -76,6 +81,7 @@ class CalendarGridWidget : GlanceAppWidget() {
   }
 
   override suspend fun provideGlance(context: Context, id: GlanceId) {
+    val appearance = loadWidgetAppearance(context)
     provideContent {
       val prefs = currentState<Preferences>()
       val calType = prefs[CAL_TYPE_KEY] ?: "B"
@@ -99,12 +105,12 @@ class CalendarGridWidget : GlanceAppWidget() {
         daysInMonth = CalendarUtils.daysInGregorianMonth(year, month),
         firstDow = CalendarUtils.firstDayOfWeekInMonth(year, month),
         feastMap = CalendarUtils.buildFeastMap(year, month),
-        monthName = CalendarUtils.localizedMonthName(month, Locale.getDefault().language)
+        title = widgetMonthTitle(year, month)
       )
 
-      GlanceTheme {
+      BibleCompanionWidgetTheme(appearance) {
         val size = LocalSize.current
-        CalendarContent(size, data, calType, monthOffset)
+        CalendarContent(size, data, calType, monthOffset, appearance)
       }
     }
   }
@@ -115,21 +121,44 @@ class CalendarGridWidget : GlanceAppWidget() {
     return localized.take(5)
   }
 
-  private fun filterFeasts(feasts: List<FeastMarker>?, calType: String): List<FeastMarker>? {
+  private fun filterFeasts(feasts: List<FeastMarker>?, selected: FeastCalendarType?): List<FeastMarker>? {
     if (feasts == null) return null
-    val filtered = when (calType) {
-      "H" -> feasts.filter { it.calendar == FeastCalendarType.HEBREW }
-      "E" -> feasts.filter { it.calendar == FeastCalendarType.ESSENE }
-      "K" -> feasts.filter { it.calendar == FeastCalendarType.KARAITE }
-      else -> feasts
-    }
+    val filtered = if (selected == null) feasts else feasts.filter { it.calendar == selected }
     return filtered.ifEmpty { null }
   }
 
+  /** Same tinting rule as the in-app calendar day cells. */
+  private fun feastCellColor(feasts: List<FeastMarker>, appearance: WidgetAppearance): ColorProvider {
+    val hasHebrew = feasts.any { it.calendar == FeastCalendarType.HEBREW }
+    val hasEssene = feasts.any { it.calendar == FeastCalendarType.ESSENE }
+    val hasKaraite = feasts.any { it.calendar == FeastCalendarType.KARAITE }
+    val spring = feasts.any { it.isSpring }
+    return when {
+      (hasHebrew || hasKaraite) && hasEssene -> mixedFeastCellColor(appearance.schemes)
+      hasHebrew -> seasonColor(spring, 0.25f)
+      hasKaraite -> seasonColor(spring, 0.22f)
+      else -> seasonColor(spring, 0.15f)
+    }
+  }
+
+  /** The Hebrew legend swatch follows the displayed month: gold in spring, indigo in fall. */
+  private fun hebrewLegendIsSpring(feastMap: Map<Int, List<FeastMarker>>): Boolean {
+    val hebrew = feastMap.values.flatten().filter { it.calendar == FeastCalendarType.HEBREW }
+    return hebrew.isEmpty() || hebrew.any { it.isSpring }
+  }
+
   @Composable
-  private fun CalendarContent(size: DpSize, data: MonthData, calType: String, monthOffset: Int) {
+  private fun CalendarContent(
+    size: DpSize,
+    data: MonthData,
+    calType: String,
+    monthOffset: Int,
+    appearance: WidgetAppearance
+  ) {
+    val family = appearance.fontFamily
     val totalSlots = data.firstDow + data.daysInMonth
     val rows = (totalSlots + 6) / 7
+    val selected = calendarTypeFor(calType)
 
     val isSmall = size.height < 160.dp
     val isLarge = size.height >= 240.dp
@@ -140,70 +169,73 @@ class CalendarGridWidget : GlanceAppWidget() {
     val markerFs = if (isLarge) 8.sp else 7.sp
     val feastNameFs = if (isLarge) 7.sp else 6.sp
     val titleFs = if (isLarge) 15.sp else if (isSmall) 11.sp else 13.sp
-    val arrowFs = if (isLarge) 18.sp else if (isSmall) 14.sp else 16.sp
+    val arrowFs = if (isLarge) 14.sp else if (isSmall) 11.sp else 12.sp
     val toggleFs = if (isLarge) 11.sp else if (isSmall) 8.sp else 9.sp
     val legendFs = if (isLarge) 10.sp else if (isSmall) 7.sp else 8.sp
-    val showHebrew = !isSmall
-    val showName = !isSmall
 
-    val titleH = if (isLarge) 24.dp else if (isSmall) 18.dp else 20.dp
+    val titleH = if (isLarge) 26.dp else if (isSmall) 20.dp else 22.dp
     val headerH = if (isLarge) 18.dp else if (isSmall) 14.dp else 16.dp
-    val legendH = if (!isSmall) 16.dp else 10.dp
+    val legendH = if (isLarge) 20.dp else if (isSmall) 14.dp else 18.dp
     val fixedH = titleH + headerH + legendH + 8.dp + 16.dp
     val gridH = size.height - fixedH
     val rowH = if (rows > 0 && gridH > 20.dp) gridH / rows else 16.dp
 
+    // Rows with a fixed height clip their children, so each extra line of cell
+    // content is gated on the room the row actually has.
+    val showMarkers = rowH >= 22.dp
+    val showHebrew = !isSmall && rowH >= 30.dp
+    val showName = !isSmall && rowH >= 44.dp
+    val hebrewSpring = hebrewLegendIsSpring(data.feastMap)
+
     Column(
       modifier = GlanceModifier
         .fillMaxSize()
-        .cornerRadius(16.dp)
-        .background(GlanceTheme.colors.widgetBackground)
+        .cornerRadius(24.dp)
+        .background(GlanceTheme.colors.background)
         .padding(8.dp)
         .clickable(calendarWidgetOpenAction())
     ) {
-      // Title: [H/E/B] ... < April 2026 > ...
+      // Title: [filter chip] ... [<] April 2026 [>] ...
       Row(
         modifier = GlanceModifier.fillMaxWidth().height(titleH),
         verticalAlignment = Alignment.CenterVertically
       ) {
         if (!isSmall) {
-          Box(
-            modifier = GlanceModifier
-              .height(titleH)
-              .clickable(actionRunCallback<ToggleCalendarTypeAction>())
-              .padding(horizontal = 12.dp, vertical = 6.dp),
-            contentAlignment = Alignment.Center
-          ) {
-            Text(
-              when (calType) {
-                "H" -> "\u2721"
-                "E" -> "\u2609"
-                "K" -> "\u263E"
-                else -> "\u2721\u2609\u263E"
-              },
-              style = TextStyle(fontSize = toggleFs, color = GlanceTheme.colors.primary)
-            )
-          }
+          WidgetChip(
+            text = filterGlyphs(calType),
+            fontSize = toggleFs,
+            action = actionRunCallback<ToggleCalendarTypeAction>(),
+            horizontalPadding = 10.dp,
+            verticalPadding = 3.dp
+          )
         }
         Spacer(GlanceModifier.defaultWeight())
-        Box(
-          modifier = GlanceModifier.height(titleH).padding(horizontal = 6.dp)
-            .clickable(actionRunCallback<PrevMonthAction>()),
-          contentAlignment = Alignment.Center
-        ) {
-          Text("\u25C0", style = TextStyle(fontSize = arrowFs, color = GlanceTheme.colors.primary))
-        }
-        Text(
-          "${data.monthName} ${data.year}",
-          style = TextStyle(fontWeight = FontWeight.Bold, fontSize = titleFs, color = GlanceTheme.colors.onSurface)
+        WidgetChip(
+          text = "◀",
+          fontSize = arrowFs,
+          action = actionRunCallback<PrevMonthAction>(),
+          horizontalPadding = 10.dp,
+          verticalPadding = 3.dp
         )
-        Box(
-          modifier = GlanceModifier.height(titleH).padding(horizontal = 6.dp)
-            .clickable(actionRunCallback<NextMonthAction>()),
-          contentAlignment = Alignment.Center
-        ) {
-          Text("\u25B6", style = TextStyle(fontSize = arrowFs, color = GlanceTheme.colors.primary))
-        }
+        Spacer(GlanceModifier.width(8.dp))
+        Text(
+          data.title,
+          style = TextStyle(
+            fontWeight = FontWeight.Bold,
+            fontSize = titleFs,
+            color = GlanceTheme.colors.primary,
+            fontFamily = family
+          ),
+          maxLines = 1
+        )
+        Spacer(GlanceModifier.width(8.dp))
+        WidgetChip(
+          text = "▶",
+          fontSize = arrowFs,
+          action = actionRunCallback<NextMonthAction>(),
+          horizontalPadding = 10.dp,
+          verticalPadding = 3.dp
+        )
         Spacer(GlanceModifier.defaultWeight())
       }
 
@@ -214,7 +246,12 @@ class CalendarGridWidget : GlanceAppWidget() {
         for (h in narrowWeekdaySymbols()) {
           Text(
             text = h,
-            style = TextStyle(fontSize = headerFs, fontWeight = FontWeight.Bold, textAlign = TextAlign.Center, color = GlanceTheme.colors.onSurfaceVariant),
+            style = TextStyle(
+              fontSize = headerFs,
+              fontWeight = FontWeight.Bold,
+              textAlign = TextAlign.Center,
+              color = GlanceTheme.colors.onSurfaceVariant
+            ),
             modifier = GlanceModifier.defaultWeight()
           )
         }
@@ -222,8 +259,8 @@ class CalendarGridWidget : GlanceAppWidget() {
 
       Spacer(GlanceModifier.height(2.dp))
 
-      // Day grid rows \u2014 wrapped in a single inner Column so the outer Column
-      // stays under Glance's 10-child cap. Without this nesting, 5\u20136 weeks
+      // Day grid rows — wrapped in a single inner Column so the outer Column
+      // stays under Glance's 10-child cap. Without this nesting, 5–6 weeks
       // plus title/header/legend pushed children to 11+ and Glance silently
       // truncated, blanking the widget.
       Column(modifier = GlanceModifier.fillMaxWidth()) {
@@ -234,15 +271,15 @@ class CalendarGridWidget : GlanceAppWidget() {
               val day = slotIndex - data.firstDow + 1
               val inMonth = day in 1..data.daysInMonth
               val feasts = if (inMonth) data.feastMap[day] else null
-              val filteredFeasts = filterFeasts(feasts, calType)
+              val filteredFeasts = filterFeasts(feasts, selected)
               val isToday = inMonth && day == data.todayDay
               val hasFeast = filteredFeasts != null
 
-              val bgColor = when {
+              val bgColor: ColorProvider = when {
                 !inMonth -> GlanceTheme.colors.surfaceVariant
                 isToday -> GlanceTheme.colors.primaryContainer
-                hasFeast -> GlanceTheme.colors.tertiaryContainer
-                else -> GlanceTheme.colors.widgetBackground
+                hasFeast -> feastCellColor(filteredFeasts, appearance)
+                else -> GlanceTheme.colors.background
               }
 
               Box(
@@ -250,7 +287,7 @@ class CalendarGridWidget : GlanceAppWidget() {
                   .defaultWeight()
                   .padding(1.dp)
                   .background(bgColor)
-                  .cornerRadius(4.dp),
+                  .cornerRadius(6.dp),
                 contentAlignment = Alignment.TopCenter
               ) {
                 if (inMonth) {
@@ -263,7 +300,7 @@ class CalendarGridWidget : GlanceAppWidget() {
                       style = TextStyle(
                         fontSize = dayFs,
                         fontWeight = if (isToday || hasFeast) FontWeight.Bold else FontWeight.Normal,
-                        color = if (isToday) GlanceTheme.colors.primary else GlanceTheme.colors.onSurface,
+                        color = if (isToday) GlanceTheme.colors.onPrimaryContainer else GlanceTheme.colors.onSurface,
                         textAlign = TextAlign.Center
                       )
                     )
@@ -271,15 +308,24 @@ class CalendarGridWidget : GlanceAppWidget() {
                       val heb = HebrewCalendar.gregorianToHebrew(data.year, data.month, day)
                       Text("${heb.day}", style = TextStyle(fontSize = hebrewFs, color = GlanceTheme.colors.onSurfaceVariant))
                     }
-                    if (hasFeast) {
-                      val hasH = filteredFeasts.any { it.calendar == FeastCalendarType.HEBREW }
-                      val hasE = filteredFeasts.any { it.calendar == FeastCalendarType.ESSENE }
+                    if (hasFeast && showMarkers) {
+                      val spring = filteredFeasts.any { it.isSpring }
                       Row {
-                        if (hasH) Text("\u2721", style = TextStyle(fontSize = markerFs, color = GlanceTheme.colors.error))
-                        if (hasE) Text("\u2609", style = TextStyle(fontSize = markerFs, color = GlanceTheme.colors.primary))
+                        for (calendar in LEGEND_CALENDARS) {
+                          if (filteredFeasts.any { it.calendar == calendar }) {
+                            Text(
+                              calendarGlyph(calendar),
+                              style = TextStyle(fontSize = markerFs, color = calendarMarkerColor(calendar, spring))
+                            )
+                          }
+                        }
                       }
                       if (showName) {
-                        Text(shortFeastName(filteredFeasts), style = TextStyle(fontSize = feastNameFs, color = GlanceTheme.colors.onSurfaceVariant), maxLines = 1)
+                        Text(
+                          shortFeastName(filteredFeasts),
+                          style = TextStyle(fontSize = feastNameFs, color = GlanceTheme.colors.onSurfaceVariant),
+                          maxLines = 1
+                        )
                       }
                     }
                   }
@@ -290,20 +336,30 @@ class CalendarGridWidget : GlanceAppWidget() {
         }
       }
 
-      // Legend + Today button
+      // Legend + Today chip
       Spacer(GlanceModifier.height(2.dp))
-      Row(modifier = GlanceModifier.fillMaxWidth(), verticalAlignment = Alignment.CenterVertically) {
-        if (calType != "E") Text("\u2721 " + WidgetStrings.calHebrew(), style = TextStyle(fontSize = legendFs, color = GlanceTheme.colors.error))
-        if (calType == "B") Spacer(GlanceModifier.width(8.dp))
-        if (calType != "H") Text("\u2609 " + WidgetStrings.calEssene(), style = TextStyle(fontSize = legendFs, color = GlanceTheme.colors.primary))
+      Row(
+        modifier = GlanceModifier.fillMaxWidth().height(legendH),
+        verticalAlignment = Alignment.CenterVertically
+      ) {
+        for (calendar in LEGEND_CALENDARS) {
+          if (selected == null || selected == calendar) {
+            WidgetLegendEntry(
+              calendar = calendar,
+              spring = calendar != FeastCalendarType.HEBREW || hebrewSpring,
+              fontSize = legendFs
+            )
+            Spacer(GlanceModifier.width(8.dp))
+          }
+        }
         Spacer(GlanceModifier.defaultWeight())
         if (monthOffset != 0) {
-          Box(
-            modifier = GlanceModifier.clickable(actionRunCallback<ResetMonthAction>()).padding(horizontal = 4.dp),
-            contentAlignment = Alignment.Center
-          ) {
-            Text(WidgetStrings.todayLabel(), style = TextStyle(fontSize = legendFs, fontWeight = FontWeight.Bold, color = GlanceTheme.colors.primary))
-          }
+          WidgetChip(
+            text = WidgetStrings.todayLabel(),
+            fontSize = legendFs,
+            action = actionRunCallback<ResetMonthAction>(),
+            verticalPadding = 2.dp
+          )
         }
       }
     }

@@ -793,6 +793,10 @@ internal fun localizedFeastDisplayName(id: String): String = when (id) {
   "tisha_bav" -> stringResource(Res.string.feast_tisha_bav)
   "fast_gedaliah" -> stringResource(Res.string.feast_fast_gedaliah)
   "hanukkah" -> stringResource(Res.string.feast_hanukkah)
+  "new_wine" -> stringResource(Res.string.feast_new_wine_name)
+  "new_oil" -> stringResource(Res.string.feast_new_oil_name)
+  "memorial_q2" -> stringResource(Res.string.feast_memorial_q2_name)
+  "memorial_q4" -> stringResource(Res.string.feast_memorial_q4_name)
   else -> id
 }
 

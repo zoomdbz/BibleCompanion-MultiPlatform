@@ -209,6 +209,10 @@ object WidgetStrings {
         "tisha_bav" -> getString(Res.string.feast_tisha_bav)
         "fast_gedaliah" -> getString(Res.string.feast_fast_gedaliah)
         "hanukkah" -> getString(Res.string.feast_hanukkah)
+        "new_wine" -> getString(Res.string.feast_new_wine_name)
+        "new_oil" -> getString(Res.string.feast_new_oil_name)
+        "memorial_q2" -> getString(Res.string.feast_memorial_q2_name)
+        "memorial_q4" -> getString(Res.string.feast_memorial_q4_name)
         else -> englishFallback
       }
     }

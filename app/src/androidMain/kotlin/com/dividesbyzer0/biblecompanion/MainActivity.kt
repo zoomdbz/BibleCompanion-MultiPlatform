@@ -120,6 +120,14 @@ class MainActivity : AppCompatActivity() {
 
         setContent {
             val prefs by repo.flow.collectAsState(init)
+            // Home-screen widgets follow the in-app theme, custom accents, and font choice.
+            LaunchedEffect(
+                prefs.theme, prefs.themePreset, prefs.fontMode,
+                prefs.customThemeHue, prefs.customThemeSaturation, prefs.customThemeLightness,
+                prefs.customThemeSecondary, prefs.customThemeTertiary
+            ) {
+                refreshHomeScreenWidgets(applicationContext)
+            }
             val dark = when (prefs.theme.lowercase()) {
                 "dark" -> true
                 "light" -> false
