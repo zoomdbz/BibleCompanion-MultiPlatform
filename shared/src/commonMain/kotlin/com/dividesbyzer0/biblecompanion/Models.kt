@@ -113,9 +113,9 @@ data class PrefsState(
   val dailyVerseNotificationMinuteOfDay: Int = 9 * 60,
   // Display format only; scheduling always uses minutes since midnight.
   val dailyVerseNotification24Hour: Boolean = false,
-  // Screenshot-mode hint: when true, settings opens with the language picker pre-expanded.
-  val screenshotExpandLanguage: Boolean = false,
-  val aiSearch: Boolean = true
+  val aiSearch: Boolean = true,
+  // Saved-verses ordering: "custom" (manual drag order) or "auto" (Bible order).
+  val savedVerseSort: String = "custom"
 )
 
 enum class SearchHitType { STORY, NOTE, BOOK }
@@ -167,7 +167,9 @@ data class SavedVerse(
   val timestamp: Long,
   // 0 = not manually ordered (sorts to top by timestamp); positive = explicit user position.
   val sortOrder: Int = 0,
-  val sourceLanguage: String? = null
+  val sourceLanguage: String? = null,
+  // Verses saved together from one selection share a groupId and render as one card.
+  val groupId: String? = null
 )
 
 internal fun SavedVerse.sameScriptureLocation(other: SavedVerse): Boolean {

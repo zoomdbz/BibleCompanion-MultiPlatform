@@ -28,7 +28,7 @@
     <string name="language_system">Predeterminado del sistema</string>
     <string name="bible_version">Versión bíblica</string>
     <string name="preferred_reader">Destino de los enlaces bíblicos</string>
-    <string name="preferred_reader_subtitle">Elige dónde se abren las referencias bíblicas.</string>
+    <string name="preferred_reader_subtitle">Elige dónde se abre una referencia bíblica al tocarla: en la app, Bible.com o Bible Gateway.</string>
     <string name="reader_biblecom">Bible.com</string>
     <string name="reader_biblegateway">Bible Gateway</string>
     <string name="reader_internal">En la app</string>
@@ -329,7 +329,7 @@
     <string name="external_bible_version_desc">Elige la versión para las referencias externas. Los enlaces de Bible.com se abren en la app Biblia YouVersion si está instalada; de lo contrario, abren Bible.com en el navegador. Esto no cambia el texto de Bible Companion.</string>
     <string name="external_biblegateway_version_desc">Elige la versión de la Biblia para las referencias externas. Los enlaces se abren en el sitio web de Bible Gateway en el navegador. Esto no cambia el texto de Bible Companion.</string>
     <string name="in_app_bible_version">Versión bíblica en la app</string>
-    <string name="in_app_bible_version_desc">Identifica la versión bíblica que se lee dentro de Bible Companion. Es independiente de la versión usada para los enlaces externos.</string>
+    <string name="in_app_bible_version_desc">Define la versión de la Biblia que se usa en toda la app: el lector, el versículo del día, la búsqueda y el texto que copias o compartes. Es independiente de la versión que abren tus enlaces externos.</string>
     <string name="version_bsb">Berean Standard Bible (BSB)</string>
     <string name="version_kjv">King James Version (KJV)</string>
     <string name="version_local_modern">Nueva Versión Internacional (NVI)</string>
@@ -475,4 +475,10 @@
     <string name="ui_tertiary_color">Terciario</string>
     <string name="ui_custom_palette_hint">Elige cada color por separado o combina ambos acentos con el color primario.</string>
     <string name="ui_match_accent_colors">Combinar acentos con el primario</string>
+    <string name="saved_sort_auto">Orden bíblico</string>
+    <string name="saved_sort_custom">Personalizado</string>
+    <string name="cd_reorder_saved_verse">Reordenar</string>
+    <string name="cd_previous_month">Mes anterior</string>
+    <string name="cd_next_month">Mes siguiente</string>
+    <string name="cd_clear_search">Borrar búsqueda</string>
 </resources>

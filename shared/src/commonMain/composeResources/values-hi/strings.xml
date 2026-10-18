@@ -28,7 +28,7 @@
     <string name="language_system">सिस्टम डिफ़ॉल्ट</string>
     <string name="bible_version">बाइबल संस्करण</string>
     <string name="preferred_reader">पवित्रशास्त्र लिंक का गंतव्य</string>
-    <string name="preferred_reader_subtitle">चुनें कि बाइबल संदर्भ कहाँ खुलें।</string>
+    <string name="preferred_reader_subtitle">चुनें कि टैप करने पर कोई बाइबल संदर्भ कहाँ खुले: ऐप में, Bible.com, या Bible Gateway।</string>
     <string name="reader_biblecom">Bible.com</string>
     <string name="reader_biblegateway">Bible Gateway</string>
     <string name="reader_internal">ऐप में</string>
@@ -329,7 +329,7 @@
     <string name="external_bible_version_desc">बाहरी संदर्भों के लिए बाइबल संस्करण चुनें। यदि YouVersion Bible ऐप इंस्टॉल है, तो Bible.com के लिंक उसमें खुलते हैं; अन्यथा वे ब्राउज़र में Bible.com पर खुलते हैं। इससे Bible Companion का पाठ नहीं बदलता।</string>
     <string name="external_biblegateway_version_desc">बाहरी संदर्भों के लिए बाइबल संस्करण चुनें। लिंक आपके ब्राउज़र में Bible Gateway वेबसाइट पर खुलते हैं। इससे Bible Companion का पाठ नहीं बदलता।</string>
     <string name="in_app_bible_version">ऐप में बाइबल संस्करण</string>
-    <string name="in_app_bible_version_desc">Bible Companion में पढ़े जाने वाले बाइबल संस्करण की पहचान करता है। यह बाहरी लिंक के लिए चुने गए संस्करण से अलग है।</string>
+    <string name="in_app_bible_version_desc">ऐप में हर जगह इस्तेमाल होने वाला बाइबल संस्करण तय करता है: रीडर, आज का वचन, खोज, और वह पाठ जिसे आप कॉपी या साझा करते हैं। यह आपके बाहरी लिंक द्वारा खोले जाने वाले संस्करण से अलग है।</string>
     <string name="version_bsb">Berean Standard Bible (BSB)</string>
     <string name="version_kjv">King James Version (KJV)</string>
     <string name="version_local_modern">इंडियन रिवाइज्ड वर्जन 2019 (IRVHin)</string>
@@ -474,4 +474,10 @@
     <string name="ui_tertiary_color">तृतीयक</string>
     <string name="ui_custom_palette_hint">हर रंग अलग चुनें या दोनों सहायक रंगों को प्राथमिक रंग से मिलाएँ।</string>
     <string name="ui_match_accent_colors">सहायक रंगों को प्राथमिक से मिलाएँ</string>
+    <string name="saved_sort_auto">बाइबल क्रम</string>
+    <string name="saved_sort_custom">कस्टम</string>
+    <string name="cd_reorder_saved_verse">क्रम बदलें</string>
+    <string name="cd_previous_month">पिछला महीना</string>
+    <string name="cd_next_month">अगला महीना</string>
+    <string name="cd_clear_search">खोज साफ़ करें</string>
 </resources>

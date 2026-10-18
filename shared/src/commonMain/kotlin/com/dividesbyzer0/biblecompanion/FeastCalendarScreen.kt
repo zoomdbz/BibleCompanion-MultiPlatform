@@ -209,7 +209,7 @@ fun FeastCalendarScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) 
             verticalAlignment = Alignment.CenterVertically
           ) {
             IconButton(onClick = { advanceMonth(-1) }) {
-              Icon(Icons.AutoMirrored.Filled.ArrowBack, contentDescription = null)
+              Icon(Icons.AutoMirrored.Filled.ArrowBack, contentDescription = stringResource(Res.string.cd_previous_month))
             }
             Column(horizontalAlignment = Alignment.CenterHorizontally) {
               Text(monthTitle, style = MaterialTheme.typography.titleMedium)
@@ -220,7 +220,7 @@ fun FeastCalendarScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) 
               )
             }
             IconButton(onClick = { advanceMonth(1) }) {
-              Icon(Icons.AutoMirrored.Filled.ArrowForward, contentDescription = null)
+              Icon(Icons.AutoMirrored.Filled.ArrowForward, contentDescription = stringResource(Res.string.cd_next_month))
             }
           }
 

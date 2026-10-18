@@ -28,7 +28,7 @@
     <string name="language_system">افتراضي النظام</string>
     <string name="bible_version">نسخة الكتاب المقدس</string>
     <string name="preferred_reader">وجهة روابط الكتاب المقدس</string>
-    <string name="preferred_reader_subtitle">اختر أين تفتح مراجع الكتاب المقدس.</string>
+    <string name="preferred_reader_subtitle">اختر أين يُفتح المرجع الكتابي عند النقر عليه: داخل التطبيق أو Bible.com أو Bible Gateway.</string>
     <string name="reader_biblecom">Bible.com</string>
     <string name="reader_biblegateway">Bible Gateway</string>
     <string name="reader_internal">داخل التطبيق</string>
@@ -329,7 +329,7 @@
     <string name="external_bible_version_desc">اختر نسخة الكتاب المقدس للمراجع الخارجية. تُفتح روابط Bible.com في تطبيق YouVersion Bible إذا كان مثبتًا؛ وإلا فتُفتح صفحة Bible.com في المتصفح. ولا يغيّر هذا نص Bible Companion.</string>
     <string name="external_biblegateway_version_desc">اختر نسخة الكتاب المقدس للمراجع الخارجية. تُفتح الروابط على موقع Bible Gateway في المتصفح. ولا يغيّر هذا نص Bible Companion.</string>
     <string name="in_app_bible_version">نسخة الكتاب المقدس داخل التطبيق</string>
-    <string name="in_app_bible_version_desc">يحدّد نسخة الكتاب المقدس المقروءة داخل Bible Companion. وهي مستقلة عن النسخة المستخدمة للروابط الخارجية.</string>
+    <string name="in_app_bible_version_desc">يحدّد نسخة الكتاب المقدس المستخدمة في كل مكان داخل التطبيق: القارئ وآية اليوم والبحث والنص الذي تنسخه أو تشاركه. مستقلة عن النسخة التي تفتحها روابطك الخارجية.</string>
     <string name="version_bsb">Berean Standard Bible (BSB)</string>
     <string name="version_kjv">King James Version (KJV)</string>
     <string name="version_local_modern">الكتاب الشريف (SAB)</string>
@@ -475,4 +475,10 @@
     <string name="ui_tertiary_color">الثالث</string>
     <string name="ui_custom_palette_hint">اختر كل لون بشكل مستقل، أو نسّق اللونين المكمّلين مع اللون الأساسي.</string>
     <string name="ui_match_accent_colors">تنسيق اللونين مع الأساسي</string>
+    <string name="saved_sort_auto">ترتيب الكتاب المقدس</string>
+    <string name="saved_sort_custom">مخصص</string>
+    <string name="cd_reorder_saved_verse">إعادة الترتيب</string>
+    <string name="cd_previous_month">الشهر السابق</string>
+    <string name="cd_next_month">الشهر التالي</string>
+    <string name="cd_clear_search">مسح البحث</string>
 </resources>

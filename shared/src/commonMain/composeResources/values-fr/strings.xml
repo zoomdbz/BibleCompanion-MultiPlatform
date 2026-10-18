@@ -28,7 +28,7 @@
     <string name="language_system">Par défaut du système</string>
     <string name="bible_version">Version de la Bible</string>
     <string name="preferred_reader">Destination des liens bibliques</string>
-    <string name="preferred_reader_subtitle">Choisissez où s'ouvrent les références bibliques.</string>
+    <string name="preferred_reader_subtitle">Choisissez où s’ouvre une référence biblique lorsque vous la touchez : dans l’application, Bible.com ou Bible Gateway.</string>
     <string name="reader_biblecom">Bible.com</string>
     <string name="reader_biblegateway">Bible Gateway</string>
     <string name="reader_internal">Dans l’appli</string>
@@ -330,7 +330,7 @@
     <string name="external_bible_version_desc">Choisissez la version pour les références externes. Les liens Bible.com s'ouvrent dans l'application biblique YouVersion si elle est installée ; sinon, ils ouvrent Bible.com dans votre navigateur. Cela ne modifie pas le texte de Bible Companion.</string>
     <string name="external_biblegateway_version_desc">Choisissez la version de la Bible pour les références externes. Les liens s'ouvrent sur le site Web Bible Gateway dans votre navigateur. Cela ne modifie pas le texte de Bible Companion.</string>
     <string name="in_app_bible_version">Version biblique dans l'application</string>
-    <string name="in_app_bible_version_desc">Identifie la version biblique lue dans Bible Companion. Elle est distincte de la version utilisée pour les liens externes.</string>
+    <string name="in_app_bible_version_desc">Définit la version de la Bible utilisée partout dans l’application : le lecteur, le verset du jour, la recherche et le texte que vous copiez ou partagez. Indépendante de la version qu’ouvrent vos liens externes.</string>
     <string name="version_bsb">Berean Standard Bible (BSB)</string>
     <string name="version_kjv">King James Version (KJV)</string>
     <string name="version_local_modern">Nouvelle Bible Segond (NBS)</string>
@@ -476,4 +476,10 @@
     <string name="ui_tertiary_color">Tertiaire</string>
     <string name="ui_custom_palette_hint">Choisissez chaque couleur séparément ou harmonisez les deux accents avec la couleur primaire.</string>
     <string name="ui_match_accent_colors">Harmoniser avec la couleur primaire</string>
+    <string name="saved_sort_auto">Ordre biblique</string>
+    <string name="saved_sort_custom">Personnalisé</string>
+    <string name="cd_reorder_saved_verse">Réorganiser</string>
+    <string name="cd_previous_month">Mois précédent</string>
+    <string name="cd_next_month">Mois suivant</string>
+    <string name="cd_clear_search">Effacer la recherche</string>
 </resources>

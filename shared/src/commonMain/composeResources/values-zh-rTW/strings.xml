@@ -28,7 +28,7 @@
     <string name="language_system">系統預設</string>
     <string name="bible_version">聖經版本</string>
     <string name="preferred_reader">經文連結開啟位置</string>
-    <string name="preferred_reader_subtitle">選擇在哪裡開啟經文引用。</string>
+    <string name="preferred_reader_subtitle">選擇點按聖經引用時在哪裡開啟：應用程式內、Bible.com 或 Bible Gateway。</string>
     <string name="reader_biblecom">Bible.com</string>
     <string name="reader_biblegateway">Bible Gateway</string>
     <string name="reader_internal">應用內</string>
@@ -329,7 +329,7 @@
     <string name="external_bible_version_desc">選擇外部經文連結使用的聖經版本。若已安裝YouVersion聖經應用程式，Bible.com連結會在該應用程式中開啟；否則會在瀏覽器中開啟Bible.com。這不會更改Bible Companion內的正文。</string>
     <string name="external_biblegateway_version_desc">選擇外部經文連結使用的聖經版本。連結會在瀏覽器中開啟Bible Gateway網站。這不會更改Bible Companion內的正文。</string>
     <string name="in_app_bible_version">應用程式內聖經版本</string>
-    <string name="in_app_bible_version_desc">標明Bible Companion內閱讀的聖經版本。它與外部連結使用的版本相互獨立。</string>
+    <string name="in_app_bible_version_desc">設定應用程式內各處使用的聖經版本：閱讀器、每日經文、搜尋，以及你複製或分享的文字。與外部連結開啟的版本各自獨立。</string>
     <string name="version_bsb">Berean Standard Bible (BSB)</string>
     <string name="version_kjv">King James Version (KJV)</string>
     <string name="version_local_modern">和合本修訂版 (RCUV)</string>
@@ -474,4 +474,10 @@
     <string name="ui_tertiary_color">強調色</string>
     <string name="ui_custom_palette_hint">分別選擇每種顏色，或讓兩種輔助色與主色協調。</string>
     <string name="ui_match_accent_colors">將輔助色與主色協調</string>
+    <string name="saved_sort_auto">聖經順序</string>
+    <string name="saved_sort_custom">自訂</string>
+    <string name="cd_reorder_saved_verse">重新排序</string>
+    <string name="cd_previous_month">上個月</string>
+    <string name="cd_next_month">下個月</string>
+    <string name="cd_clear_search">清除搜尋</string>
 </resources>

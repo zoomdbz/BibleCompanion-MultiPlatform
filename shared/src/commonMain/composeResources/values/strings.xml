@@ -59,7 +59,7 @@
     <string name="language_system">System default</string>
     <string name="bible_version">Bible Version</string>
     <string name="preferred_reader">Scripture Link Destination</string>
-    <string name="preferred_reader_subtitle">Choose where Bible references open.</string>
+    <string name="preferred_reader_subtitle">Choose where a tapped Bible reference opens: in the app, Bible.com, or Bible Gateway.</string>
     <string name="reader_biblecom">Bible.com</string>
     <string name="reader_biblegateway">Bible Gateway</string>
     <string name="reader_internal">In-App</string>
@@ -361,7 +361,7 @@
     <string name="external_bible_version_desc">Choose the version for external references. Bible.com links open in the YouVersion Bible app when it is installed; otherwise they open Bible.com in your browser. This does not change the text in Bible Companion.</string>
     <string name="external_biblegateway_version_desc">Choose the Bible version for external references. Links open on the Bible Gateway website in your browser. This does not change the text in Bible Companion.</string>
     <string name="in_app_bible_version">In-App Bible Version</string>
-    <string name="in_app_bible_version_desc">Identifies the Bible version read inside Bible Companion. This is separate from the version used for external links.</string>
+    <string name="in_app_bible_version_desc">Sets the Bible version used everywhere inside the app: the reader, verse of the day, search, and the text you copy or share. Separate from the version your external links open.</string>
     <string name="version_bsb">Berean Standard Bible (BSB)</string>
     <string name="version_kjv">King James Version (KJV)</string>
     <string name="version_local_modern">In-app Bible edition</string>
@@ -508,4 +508,10 @@
     <string name="ui_tertiary_color">Tertiary</string>
     <string name="ui_custom_palette_hint">Choose each color independently, or match both accents to your primary color.</string>
     <string name="ui_match_accent_colors">Match accents to primary</string>
+    <string name="saved_sort_auto">Bible order</string>
+    <string name="saved_sort_custom">Custom</string>
+    <string name="cd_reorder_saved_verse">Reorder</string>
+    <string name="cd_previous_month">Previous month</string>
+    <string name="cd_next_month">Next month</string>
+    <string name="cd_clear_search">Clear search</string>
 </resources>

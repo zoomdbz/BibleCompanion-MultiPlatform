@@ -28,7 +28,7 @@
     <string name="language_system">Systemstandard</string>
     <string name="bible_version">Bibelversion</string>
     <string name="preferred_reader">Ziel für Bibelstellen-Links</string>
-    <string name="preferred_reader_subtitle">Wähle, wo Bibelstellen geöffnet werden.</string>
+    <string name="preferred_reader_subtitle">Wähle, wo eine angetippte Bibelstelle geöffnet wird: in der App, Bible.com oder Bible Gateway.</string>
     <string name="reader_biblecom">Bible.com</string>
     <string name="reader_biblegateway">Bible Gateway</string>
     <string name="reader_internal">In-App</string>
@@ -328,7 +328,7 @@
     <string name="external_bible_version_desc">Wähle die Bibelversion für externe Verweise. Bible.com-Links öffnen sich in der YouVersion-Bibel-App, wenn sie installiert ist; andernfalls öffnen sie Bible.com im Browser. Der Text in Bible Companion bleibt unverändert.</string>
     <string name="external_biblegateway_version_desc">Wähle die Bibelversion für externe Verweise. Links werden auf der Website von Bible Gateway im Browser geöffnet. Der Text in Bible Companion bleibt unverändert.</string>
     <string name="in_app_bible_version">Bibelversion in der App</string>
-    <string name="in_app_bible_version_desc">Zeigt die Bibelversion an, die in Bible Companion gelesen wird. Sie ist von der Version für externe Links getrennt.</string>
+    <string name="in_app_bible_version_desc">Legt die Bibelversion fest, die überall in der App verwendet wird: Leser, Vers des Tages, Suche und der Text, den du kopierst oder teilst. Unabhängig von der Version, die deine externen Links öffnen.</string>
     <string name="version_bsb">Berean Standard Bible (BSB)</string>
     <string name="version_kjv">King James Version (KJV)</string>
     <string name="version_local_modern">Schlachter 2000 (SCH2000)</string>
@@ -474,4 +474,10 @@
     <string name="ui_tertiary_color">Tertiärfarbe</string>
     <string name="ui_custom_palette_hint">Wähle jede Farbe einzeln oder stimme beide Akzentfarben auf die Primärfarbe ab.</string>
     <string name="ui_match_accent_colors">Akzente auf Primärfarbe abstimmen</string>
+    <string name="saved_sort_auto">Bibelreihenfolge</string>
+    <string name="saved_sort_custom">Eigene</string>
+    <string name="cd_reorder_saved_verse">Neu anordnen</string>
+    <string name="cd_previous_month">Voriger Monat</string>
+    <string name="cd_next_month">Nächster Monat</string>
+    <string name="cd_clear_search">Suche löschen</string>
 </resources>

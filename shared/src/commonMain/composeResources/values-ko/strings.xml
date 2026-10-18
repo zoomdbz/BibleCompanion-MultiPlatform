@@ -28,7 +28,7 @@
     <string name="language_system">시스템 기본값</string>
     <string name="bible_version">성경 버전</string>
     <string name="preferred_reader">성경 링크 열기 위치</string>
-    <string name="preferred_reader_subtitle">성경 참조를 열 위치를 선택하세요.</string>
+    <string name="preferred_reader_subtitle">탭한 성경 구절을 어디에서 열지 선택합니다: 앱 내, Bible.com 또는 Bible Gateway.</string>
     <string name="reader_biblecom">Bible.com</string>
     <string name="reader_biblegateway">Bible Gateway</string>
     <string name="reader_internal">앱 내</string>
@@ -329,7 +329,7 @@
     <string name="external_bible_version_desc">외부 참조에 사용할 성경 역본을 선택합니다. YouVersion 성경 앱이 설치되어 있으면 Bible.com 링크가 앱에서 열리고, 설치되어 있지 않으면 브라우저에서 Bible.com이 열립니다. Bible Companion의 본문은 변경되지 않습니다.</string>
     <string name="external_biblegateway_version_desc">외부 참조에 사용할 성경 역본을 선택합니다. 링크는 브라우저에서 Bible Gateway 웹사이트로 열립니다. Bible Companion의 본문은 변경되지 않습니다.</string>
     <string name="in_app_bible_version">앱 내 성경 역본</string>
-    <string name="in_app_bible_version_desc">Bible Companion에서 읽는 성경 역본을 표시합니다. 외부 링크에 사용하는 역본과는 별개입니다.</string>
+    <string name="in_app_bible_version_desc">앱 전체에서 사용되는 성경 버전을 설정합니다. 리더, 오늘의 말씀, 검색, 복사하거나 공유하는 텍스트에 적용됩니다. 외부 링크가 여는 버전과는 별개입니다.</string>
     <string name="version_bsb">Berean Standard Bible (BSB)</string>
     <string name="version_kjv">King James Version (KJV)</string>
     <string name="version_local_modern">표준새번역 개정판 (RNKSV)</string>
@@ -474,4 +474,10 @@
     <string name="ui_tertiary_color">강조색</string>
     <string name="ui_custom_palette_hint">각 색을 따로 선택하거나 보조색과 강조색을 기본색에 맞추세요.</string>
     <string name="ui_match_accent_colors">보조색과 강조색을 기본색에 맞추기</string>
+    <string name="saved_sort_auto">성경 순서</string>
+    <string name="saved_sort_custom">사용자 지정</string>
+    <string name="cd_reorder_saved_verse">순서 변경</string>
+    <string name="cd_previous_month">이전 달</string>
+    <string name="cd_next_month">다음 달</string>
+    <string name="cd_clear_search">검색 지우기</string>
 </resources>

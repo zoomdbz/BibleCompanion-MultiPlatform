@@ -7,6 +7,7 @@ import androidx.compose.animation.core.FastOutSlowInEasing
 import androidx.compose.animation.core.tween
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.background
+import androidx.compose.foundation.border
 import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.isSystemInDarkTheme
@@ -156,6 +157,8 @@ import androidx.compose.ui.graphics.luminance
 import androidx.compose.ui.hapticfeedback.HapticFeedbackType
 import androidx.compose.ui.platform.LocalHapticFeedback
 import androidx.compose.ui.semantics.contentDescription
+import androidx.compose.ui.semantics.clearAndSetSemantics
+import androidx.compose.foundation.selection.toggleable
 import androidx.compose.ui.semantics.Role
 import androidx.compose.ui.semantics.semantics
 import androidx.compose.ui.semantics.selected
@@ -1322,7 +1325,7 @@ fun HomeScreen(
                 results = emptyList()
                 showSheet = false
               }) {
-                Icon(Icons.Filled.Close, contentDescription = null, tint = MaterialTheme.colorScheme.onSurfaceVariant)
+                Icon(Icons.Filled.Close, contentDescription = stringResource(Res.string.cd_clear_search), tint = MaterialTheme.colorScheme.onSurfaceVariant)
               }
             }
           }
@@ -3373,6 +3376,7 @@ fun BookScreen(
                           }
                         }
                       } else {
+                        val groupIds = computeSaveGroupIds(selectedBullets)
                         for ((sid, idx) in selectedBullets) {
                           if (savedVerseMap[sid]?.containsKey(idx) == true) continue
                           val story = book.stories.find { it.id == sid } ?: continue
@@ -3385,7 +3389,8 @@ fun BookScreen(
                               bulletIndex = idx,
                               bulletText = bulletText,
                               editionId = activeEditionId,
-                              sourceLanguage = effectiveLanguage
+                              sourceLanguage = effectiveLanguage,
+                              groupId = groupIds[sid to idx]
                             )
                           )
                         }
@@ -3426,6 +3431,7 @@ fun BookScreen(
                         onClick = {
                           doHaptic()
                           scope.launch {
+                            val groupIds = computeSaveGroupIds(selectedBullets)
                             for ((sid, idx) in selectedBullets) {
                               val existing = savedVerseRecords[sid]?.get(idx)
                               if (existing != null) {
@@ -3442,7 +3448,8 @@ fun BookScreen(
                                     bulletText = bulletText,
                                     editionId = activeEditionId,
                                     sourceLanguage = effectiveLanguage,
-                                    highlightColor = hlKey
+                                    highlightColor = hlKey,
+                                    groupId = groupIds[sid to idx]
                                   )
                                 )
                               }
@@ -3505,6 +3512,7 @@ fun BookScreen(
                           onClick = {
                             doHaptic()
                             scope.launch {
+                              val groupIds = computeSaveGroupIds(selectedBullets)
                               for ((sid, idx) in selectedBullets) {
                                 val story = book.stories.find { it.id == sid } ?: continue
                                 val bulletText = story.summaryBullets.getOrNull(idx) ?: continue
@@ -3516,7 +3524,8 @@ fun BookScreen(
                                   bulletIndex = idx,
                                   bulletText = bulletText,
                                   editionId = activeEditionId,
-                                  sourceLanguage = effectiveLanguage
+                                  sourceLanguage = effectiveLanguage,
+                                  groupId = groupIds[sid to idx]
                                 ).also { repo.addSavedVerse(it) }
                                 repo.addLabelToVerse(saved, lbl.id)
                               }
@@ -4193,6 +4202,41 @@ private fun mapSavedVersesToCurrentBook(
     }
 }
 
+// The one reference shown on a grouped saved card: the head verse, extended to
+// the group's last verse (e.g. "Romans 6:1-2").
+private fun groupReference(group: List<SavedVerse>): String {
+  val head = group.first()
+  if (group.size == 1) return head.displayReference()
+  val startV = head.verseStart
+  val endV = group.last().let { it.verseEnd ?: it.verseStart }
+  val base = head.displayReference()
+  return if (startV != null && endV != null && endV > startV) "$base-$endV" else base
+}
+
+// Contiguous runs of 2+ selected bullets in one story share a groupId so they
+// save and display as a single grouped card; singletons get null (ungrouped).
+private fun computeSaveGroupIds(selection: Set<Pair<String, Int>>): Map<Pair<String, Int>, String?> {
+  val out = HashMap<Pair<String, Int>, String?>()
+  val base = currentTimeMillis()
+  var run = 0
+  for ((sid, pairs) in selection.groupBy { it.first }) {
+    val idxs = pairs.map { it.second }.sorted()
+    var i = 0
+    while (i < idxs.size) {
+      var j = i
+      while (j + 1 < idxs.size && idxs[j + 1] == idxs[j] + 1) j++
+      if (j > i) {
+        val gid = "grp-$base-${run++}"
+        for (k in i..j) out[sid to idxs[k]] = gid
+      } else {
+        out[sid to idxs[i]] = null
+      }
+      i = j + 1
+    }
+  }
+  return out
+}
+
 private fun makeSavedVerse(
   collection: String,
   bookId: String,
@@ -4201,7 +4245,8 @@ private fun makeSavedVerse(
   bulletText: String,
   editionId: String,
   sourceLanguage: String,
-  highlightColor: String? = null
+  highlightColor: String? = null,
+  groupId: String? = null
 ): SavedVerse {
   val anchor = parseTrailingVerseAnchor(bulletText, story.id, bookId)?.anchor
   return SavedVerse(
@@ -4217,7 +4262,8 @@ private fun makeSavedVerse(
     text = bulletText,
     ref = savedVerseReference(story.refs.firstOrNull().orEmpty(), anchor),
     highlightColor = highlightColor,
-    timestamp = currentTimeMillis()
+    timestamp = currentTimeMillis(),
+    groupId = groupId
   )
 }
 
@@ -4309,6 +4355,19 @@ private fun labelColor(key: String): Color {
 }
 
 @Composable
+private fun ColorDot(colorKey: String) {
+  val dot = if (colorKey.lowercase() == "default") MaterialTheme.colorScheme.onSurface
+            else labelColor(colorKey.lowercase())
+  Box(
+    Modifier
+      .size(14.dp)
+      .clip(CircleShape)
+      .background(dot)
+      .border(1.dp, MaterialTheme.colorScheme.outlineVariant, CircleShape)
+  )
+}
+
+@Composable
 private fun highlightBgColor(colorKey: String?): Color {
   val isDark = MaterialTheme.colorScheme.surface.luminance() < 0.25f
   val alpha = if (isDark) 0.30f else 0.18f
@@ -4357,17 +4416,17 @@ fun SavedItemsScreen(
           selected = selectedTab == 0,
           onClick = { selectedTab = 0 },
           shape = SegmentedButtonDefaults.itemShape(index = 0, count = 3)
-        ) { Text(stringResource(Res.string.bookmarks_tab), maxLines = 1) }
+        ) { Text(stringResource(Res.string.bookmarks_tab), maxLines = 2, style = MaterialTheme.typography.labelSmall) }
         SegmentedButton(
           selected = selectedTab == 1,
           onClick = { selectedTab = 1 },
           shape = SegmentedButtonDefaults.itemShape(index = 1, count = 3)
-        ) { Text(stringResource(Res.string.saved_verses_tab), maxLines = 1) }
+        ) { Text(stringResource(Res.string.saved_verses_tab), maxLines = 2, style = MaterialTheme.typography.labelSmall) }
         SegmentedButton(
           selected = selectedTab == 2,
           onClick = { selectedTab = 2 },
           shape = SegmentedButtonDefaults.itemShape(index = 2, count = 3)
-        ) { Text(stringResource(Res.string.labels_tab), maxLines = 1) }
+        ) { Text(stringResource(Res.string.labels_tab), maxLines = 2, style = MaterialTheme.typography.labelSmall) }
       }
 
       when (selectedTab) {
@@ -4390,17 +4449,66 @@ fun SavedItemsScreen(
               }
             }
           } else {
-            // Sort: sortOrder=0 items first by timestamp desc; user-ordered items (sortOrder>0) by sortOrder asc.
-            // Same SnapshotStateList-inside-remember pattern as saved verses below; see that comment for why.
-            val displayBookmarks = remember(bookmarks) {
-              bookmarks.sortedWith(compareBy<Bookmark> { it.sortOrder }.thenByDescending { it.timestamp })
-                .toMutableStateList()
+            val ctx = LocalPlatformContext.current
+            val sortMode = prefs.savedVerseSort
+            val isCustom = sortMode != "auto"
+
+            // Verses saved together (same non-null groupId) render as one card,
+            // members in verse order. Auto sorts cards by Bible order; Custom
+            // keeps the user's manual drag order (sortOrder).
+            val groups: List<List<SavedVerse>> = remember(savedVerses, sortMode) {
+              val byGroup = LinkedHashMap<String, MutableList<SavedVerse>>()
+              val items = ArrayList<List<SavedVerse>>()
+              for (sv in savedVerses) {
+                val gid = sv.groupId
+                if (gid == null) items.add(listOf(sv))
+                else byGroup.getOrPut(gid) { ArrayList() }.add(sv)
+              }
+              val verseKey = compareBy<SavedVerse>({ it.chapter ?: 0 }, { it.verseStart ?: 0 }, { it.bulletIndex })
+              for (members in byGroup.values) items.add(members.sortedWith(verseKey))
+              if (sortMode == "auto") {
+                val collOrder = listOf("old_testament", "new_testament", "deuterocanonical", "apocrypha", "pseudepigrapha")
+                val bookIndexByColl = HashMap<String, Map<String, Int>>()
+                fun bookIndex(coll: String, id: String): Int =
+                  bookIndexByColl.getOrPut(coll) {
+                    ContentRepo.listBooksLocalized(ctx, coll, prefs.appLanguage)
+                      .mapIndexed { i, pair -> pair.first to i }.toMap()
+                  }[id] ?: Int.MAX_VALUE
+                items.sortedWith(
+                  compareBy<List<SavedVerse>>(
+                    { collOrder.indexOf(it.first().collection).let { x -> if (x < 0) Int.MAX_VALUE else x } },
+                    { bookIndex(it.first().collection, it.first().bookId) },
+                    { it.first().chapter ?: 0 },
+                    { it.first().verseStart ?: 0 }
+                  )
+                )
+              } else {
+                items.sortedWith(
+                  compareBy<List<SavedVerse>> { g -> g.minOf { it.sortOrder } }
+                    .thenByDescending { g -> g.maxOf { it.timestamp } }
+                )
+              }
             }
-            val displayBookmarksRef = rememberUpdatedState(displayBookmarks)
+
+            SingleChoiceSegmentedButtonRow(Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 8.dp)) {
+              SegmentedButton(
+                selected = sortMode == "auto",
+                onClick = { scope.launch { repo.setSavedVerseSort("auto") } },
+                shape = SegmentedButtonDefaults.itemShape(index = 0, count = 2)
+              ) { Text(stringResource(Res.string.saved_sort_auto), maxLines = 2, style = MaterialTheme.typography.labelSmall) }
+              SegmentedButton(
+                selected = isCustom,
+                onClick = { scope.launch { repo.setSavedVerseSort("custom") } },
+                shape = SegmentedButtonDefaults.itemShape(index = 1, count = 2)
+              ) { Text(stringResource(Res.string.saved_sort_custom), maxLines = 2, style = MaterialTheme.typography.labelSmall) }
+            }
+
+            val displayGroups = remember(groups) { groups.toMutableStateList() }
+            val displayGroupsRef = rememberUpdatedState(displayGroups)
             var needsPersist by remember { mutableStateOf(false) }
             val lazyListState = rememberLazyListState()
             val reorderState = rememberReorderableLazyListState(lazyListState) { from, to ->
-              val list = displayBookmarksRef.value
+              val list = displayGroupsRef.value
               val moved = list.removeAt(from.index)
               list.add(to.index, moved)
               needsPersist = true
@@ -4408,146 +4516,28 @@ fun SavedItemsScreen(
             LaunchedEffect(reorderState.isAnyItemDragging) {
               if (!reorderState.isAnyItemDragging && needsPersist) {
                 needsPersist = false
-                val reordered = displayBookmarks.mapIndexed { idx, bm -> bm.copy(sortOrder = idx + 1) }
-                repo.reorderBookmarks(reordered)
-              }
-            }
-            LazyColumn(
-              state = lazyListState,
-              contentPadding = PaddingValues(16.dp),
-              verticalArrangement = Arrangement.spacedBy(8.dp)
-            ) {
-              items(
-                items = displayBookmarks,
-                key = { "${it.collection}/${it.bookId}/${it.sourceLanguage ?: "en"}/${it.storyId}" }
-              ) { bm ->
-                ReorderableItem(reorderState, key = "${bm.collection}/${bm.bookId}/${bm.sourceLanguage ?: "en"}/${bm.storyId}") { isDragging ->
-                  val bmColor = if (bm.collection == "old_testament" || bm.collection == "pseudepigrapha")
-                    MaterialTheme.colorScheme.onSurfaceVariant else MaterialTheme.colorScheme.error
-                  val elevation = if (isDragging) 8.dp else 0.dp
-                  Card(
-                    modifier = Modifier.fillMaxWidth().clickable {
-                      onOpenBook(bm.collection, bm.bookId,
-                        resolveStoryIdAcrossLanguages(bm.storyId, bm.sourceLanguage, prefs.appLanguage))
-                    },
-                    elevation = CardDefaults.cardElevation(defaultElevation = elevation)
-                  ) {
-                    Row(
-                      Modifier.padding(start = 16.dp, top = 12.dp, bottom = 12.dp, end = 4.dp),
-                      verticalAlignment = Alignment.Top
-                    ) {
-                      Icon(
-                        Icons.Filled.Bookmark,
-                        contentDescription = null,
-                        tint = bmColor,
-                        modifier = Modifier.size(24.dp).padding(top = 2.dp)
-                      )
-                      Spacer(Modifier.width(12.dp))
-                      Column(Modifier.weight(1f)) {
-                        Text(bm.storyTitle, style = MaterialTheme.typography.titleSmall)
-                        Text(
-                          bm.bookTitle,
-                          style = MaterialTheme.typography.bodySmall,
-                          color = MaterialTheme.colorScheme.onSurfaceVariant
-                        )
-                        if (bm.snippet.isNotBlank()) {
-                          Text(
-                            bm.snippet,
-                            style = MaterialTheme.typography.bodySmall,
-                            color = MaterialTheme.colorScheme.onSurfaceVariant,
-                            maxLines = 2,
-                            overflow = TextOverflow.Ellipsis,
-                            modifier = Modifier.padding(top = 4.dp)
-                          )
-                        }
-                      }
-                      // Drag handle on trailing edge; long-press or touch to drag
-                      IconButton(
-                        modifier = Modifier.draggableHandle(),
-                        onClick = {}
-                      ) {
-                        Icon(
-                          Icons.Filled.DragHandle,
-                          contentDescription = null,
-                          modifier = Modifier.size(18.dp),
-                          tint = MaterialTheme.colorScheme.onSurfaceVariant.copy(alpha = 0.5f)
-                        )
-                      }
-                      IconButton(onClick = {
-                        scope.launch { repo.removeBookmark(bm.collection, bm.bookId, bm.storyId, bm.sourceLanguage) }
-                      }) {
-                        Icon(
-                          Icons.Filled.Close,
-                          contentDescription = stringResource(Res.string.cd_remove_bookmark),
-                          modifier = Modifier.size(16.dp),
-                          tint = MaterialTheme.colorScheme.error
-                        )
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-        1 -> {
-          if (savedVerses.isEmpty()) {
-            Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
-              Column(horizontalAlignment = Alignment.CenterHorizontally) {
-                Icon(
-                  Icons.Filled.Star,
-                  contentDescription = null,
-                  modifier = Modifier.size(48.dp),
-                  tint = MaterialTheme.colorScheme.onSurfaceVariant.copy(alpha = 0.5f)
-                )
-                Spacer(Modifier.height(8.dp))
-                Text(
-                  stringResource(Res.string.saved_verses_tab),
-                  style = MaterialTheme.typography.bodyMedium,
-                  color = MaterialTheme.colorScheme.onSurfaceVariant
-                )
-              }
-            }
-          } else {
-            // Sort: sortOrder=0 items first by timestamp desc; user-ordered items (sortOrder>0) by sortOrder asc.
-            // The SnapshotStateList must be created INSIDE remember so it persists across recompositions;
-            // creating it outside causes drags to snap back because mutations land on a list that gets
-            // discarded on the next recomposition.
-            val displayVerses = remember(savedVerses) {
-              savedVerses.sortedWith(compareBy<SavedVerse> { it.sortOrder }.thenByDescending { it.timestamp })
-                .toMutableStateList()
-            }
-            // Reorder lambda captures displayVerses at creation time. When savedVerses updates after a
-            // persist, displayVerses gets a new instance — keep the lambda pointing at the live one.
-            val displayVersesRef = rememberUpdatedState(displayVerses)
-            var needsPersist by remember { mutableStateOf(false) }
-            val lazyListState = rememberLazyListState()
-            val reorderState = rememberReorderableLazyListState(lazyListState) { from, to ->
-              val list = displayVersesRef.value
-              val moved = list.removeAt(from.index)
-              list.add(to.index, moved)
-              needsPersist = true
-            }
-            LaunchedEffect(reorderState.isAnyItemDragging) {
-              if (!reorderState.isAnyItemDragging && needsPersist) {
-                needsPersist = false
-                val reordered = displayVerses.mapIndexed { idx, sv -> sv.copy(sortOrder = idx + 1) }
+                // Flatten groups in display order; ascending sortOrder keeps
+                // groups contiguous and verses in their in-group order.
+                var order = 1
+                val reordered = displayGroups.flatMap { g -> g.map { it.copy(sortOrder = order++) } }
                 repo.reorderSavedVerses(reordered)
               }
             }
             LazyColumn(
               state = lazyListState,
+              modifier = Modifier.weight(1f),
               contentPadding = PaddingValues(16.dp),
               verticalArrangement = Arrangement.spacedBy(8.dp)
             ) {
               items(
-                items = displayVerses,
-                key = { savedVerseUiKey(it) }
-              ) { sv ->
-                ReorderableItem(reorderState, key = savedVerseUiKey(sv)) { isDragging ->
-                  val hlColor = highlightBgColor(sv.highlightColor)
-                  val verseLabels = labels.filter { it.id in sv.labels }
-                  val barColor = when (sv.highlightColor) {
+                items = displayGroups,
+                key = { it.first().groupId ?: savedVerseUiKey(it.first()) }
+              ) { group ->
+                ReorderableItem(reorderState, key = group.first().groupId ?: savedVerseUiKey(group.first())) { isDragging ->
+                  val head = group.first()
+                  val hlColor = highlightBgColor(head.highlightColor)
+                  val verseLabels = labels.filter { l -> group.any { l.id in it.labels } }
+                  val barColor = when (head.highlightColor) {
                     "yellow" -> Color(0xFFFBC02D)
                     "green" -> Color(0xFF66BB6A)
                     "blue" -> Color(0xFF42A5F5)
@@ -4556,9 +4546,7 @@ fun SavedItemsScreen(
                   }
                   val elevation = if (isDragging) 8.dp else 0.dp
                   Card(
-                    modifier = Modifier.fillMaxWidth().clickable {
-                      onOpenSavedVerse(sv)
-                    },
+                    modifier = Modifier.fillMaxWidth().clickable { onOpenSavedVerse(head) },
                     elevation = CardDefaults.cardElevation(defaultElevation = elevation)
                   ) {
                     Row(
@@ -4579,20 +4567,23 @@ fun SavedItemsScreen(
                           .weight(1f)
                           .padding(start = 12.dp, top = 12.dp, bottom = 12.dp)
                       ) {
-                        ScriptureRefs.ClickableRefsText(
-                          text = sv.text,
-                          collection = sv.collection,
-                          prefs = prefs,
-                          referenceEditionId = sv.scriptureEdition(),
-                          referenceLanguage = sv.scriptureLanguage(),
-                          defaultBook = sv.bookId,
-                          allowRelativeInParensOnly = true,
-                          textStyle = MaterialTheme.typography.bodyMedium,
-                          onNonLinkClick = { onOpenSavedVerse(sv) }
-                        )
+                        for (sv in group) {
+                          ScriptureRefs.ClickableRefsText(
+                            text = sv.text,
+                            collection = sv.collection,
+                            prefs = prefs,
+                            referenceEditionId = sv.scriptureEdition(),
+                            referenceLanguage = sv.scriptureLanguage(),
+                            defaultBook = sv.bookId,
+                            allowRelativeInParensOnly = true,
+                            textStyle = MaterialTheme.typography.bodyMedium,
+                            onNonLinkClick = { onOpenSavedVerse(head) }
+                          )
+                          if (sv !== group.last()) Spacer(Modifier.height(6.dp))
+                        }
                         Spacer(Modifier.height(4.dp))
                         Text(
-                          ScriptureRefs.localizeRef(sv.displayReference()),
+                          ScriptureRefs.localizeRef(groupReference(group)),
                           style = MaterialTheme.typography.bodySmall,
                           color = MaterialTheme.colorScheme.onSurfaceVariant
                         )
@@ -4619,20 +4610,21 @@ fun SavedItemsScreen(
                           }
                         }
                       }
-                      // Drag handle — visible on trailing edge; long-press or touch to drag
-                      IconButton(
-                        modifier = Modifier.draggableHandle(),
-                        onClick = {}
-                      ) {
-                        Icon(
-                          Icons.Filled.DragHandle,
-                          contentDescription = null,
-                          modifier = Modifier.size(18.dp),
-                          tint = MaterialTheme.colorScheme.onSurfaceVariant.copy(alpha = 0.5f)
-                        )
+                      if (isCustom) {
+                        IconButton(
+                          modifier = Modifier.draggableHandle(),
+                          onClick = {}
+                        ) {
+                          Icon(
+                            Icons.Filled.DragHandle,
+                            contentDescription = stringResource(Res.string.cd_reorder_saved_verse),
+                            modifier = Modifier.size(18.dp),
+                            tint = MaterialTheme.colorScheme.onSurfaceVariant.copy(alpha = 0.5f)
+                          )
+                        }
                       }
                       IconButton(onClick = {
-                        scope.launch { repo.removeSavedVerse(sv) }
+                        scope.launch { for (sv in group) repo.removeSavedVerse(sv) }
                       }) {
                         Icon(Icons.Filled.Close, contentDescription = stringResource(Res.string.cd_remove_saved_verse), modifier = Modifier.size(18.dp), tint = MaterialTheme.colorScheme.onSurfaceVariant)
                       }
@@ -5119,6 +5111,20 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
     "ar" to listOf("NAV","ERV-AR")
   )
 
+  // One place decides the default external version when the language or the
+  // reader destination changes, so both call sites stay in sync.
+  fun externalVersionDefaultOrNull(eff: String, mode: String): String? {
+    if (mode == "internal") return null
+    val key = if (eff.startsWith("zh")) {
+      if (eff.contains("hant", ignoreCase = true)) "zh-Hant" else "zh-Hans"
+    } else eff.substringBefore('-')
+    val list = if (mode == "biblecom") versionsByLang[key] ?: versionsByLang["en"].orEmpty()
+               else bgVersionsByLang[key] ?: bgVersionsByLang["en"].orEmpty()
+    if (prefs.translation in list) return null
+    return if (mode == "biblecom") Linker.defaultVersionForLanguage(eff)
+           else Linker.defaultGatewayVersionForLanguage(eff)
+  }
+
   Scaffold(
     topBar = {
       CenterAlignedTopAppBar(
@@ -5131,8 +5137,9 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
       )
     }
   ) { pad ->
-    Column(
-      Modifier.padding(pad).padding(16.dp).verticalScroll(rememberScrollState()),
+    FadingScrollColumn(
+      modifier = Modifier.padding(pad),
+      contentPadding = PaddingValues(16.dp),
       verticalArrangement = Arrangement.spacedBy(8.dp)
     ) {
       // ─── APPEARANCE SECTION ───
@@ -5237,9 +5244,10 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
         stringResource(Res.string.font_serif)
       else
         stringResource(Res.string.font_sans)
+      val fontCd = stringResource(Res.string.font_label) + ", " + currentFontLabel
       Box {
-        OutlinedButton(onClick = { fontExpanded = true }, modifier = Modifier.fillMaxWidth()) {
-          Text(currentFontLabel, maxLines = 1, overflow = TextOverflow.Ellipsis)
+        OutlinedButton(onClick = { fontExpanded = true }, modifier = Modifier.fillMaxWidth().semantics { contentDescription = fontCd }) {
+          Text(currentFontLabel, maxLines = 1, overflow = TextOverflow.Ellipsis, modifier = Modifier.clearAndSetSemantics {})
         }
         DropdownMenu(expanded = fontExpanded, onDismissRequest = { fontExpanded = false }) {
           DropdownMenuItem(
@@ -5268,6 +5276,7 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
             fontSize = MaterialTheme.typography.bodyMedium.fontSize * sliderScale
           )
         )
+        val textSizeCd = stringResource(Res.string.text_size)
         Slider(
           value = sliderScale,
           onValueChange = { v ->
@@ -5276,7 +5285,7 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
             scope.launch { repo.setTextSizeScale(snapped) }
           },
           valueRange = 0.8f..1.6f,
-          modifier = Modifier.weight(1f).padding(horizontal = 8.dp)
+          modifier = Modifier.weight(1f).padding(horizontal = 8.dp).semantics { contentDescription = textSizeCd }
         )
         Text(
           "A",
@@ -5298,6 +5307,7 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
       var lineSpacing by remember(prefs.readingLineSpacing) {
         mutableStateOf(prefs.readingLineSpacing)
       }
+      val lineSpacingCd = stringResource(Res.string.ui_line_spacing)
       Slider(
         value = lineSpacing,
         onValueChange = { value ->
@@ -5306,11 +5316,23 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
           scope.launch { repo.setReadingLineSpacing(snapped) }
         },
         valueRange = 1.3f..2.1f,
-        modifier = Modifier.fillMaxWidth()
+        modifier = Modifier.fillMaxWidth().semantics { contentDescription = lineSpacingCd }
+      )
+
+      Text(
+        "${(lineSpacing * 100).toInt()}%",
+        style = MaterialTheme.typography.labelSmall,
+        color = MaterialTheme.colorScheme.onSurfaceVariant
       )
 
       Row(
-        modifier = Modifier.fillMaxWidth(),
+        modifier = Modifier
+          .fillMaxWidth()
+          .toggleable(
+            value = prefs.versePerLine,
+            role = Role.Switch,
+            onValueChange = { enabled -> scope.launch { repo.setVersePerLine(enabled) } }
+          ),
         verticalAlignment = Alignment.CenterVertically
       ) {
         Text(
@@ -5320,7 +5342,7 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
         )
         Switch(
           checked = prefs.versePerLine,
-          onCheckedChange = { enabled -> scope.launch { repo.setVersePerLine(enabled) } }
+          onCheckedChange = null
         )
       }
 
@@ -5354,12 +5376,15 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
 
       Box {
         OutlinedButton(onClick = { jesusColorExpanded = true }, modifier = Modifier.fillMaxWidth()) {
+          ColorDot(currentJesusColorKey)
+          Spacer(Modifier.width(8.dp))
           Text(currentJesusColorLabel, maxLines = 1, overflow = TextOverflow.Ellipsis)
         }
         DropdownMenu(expanded = jesusColorExpanded, onDismissRequest = { jesusColorExpanded = false }) {
           jesusColorOptions.forEach { (key, resId) ->
             DropdownMenuItem(
               text = { Text(stringResource(resId)) },
+              leadingIcon = { ColorDot(key) },
               onClick = { jesusColorExpanded = false; scope.launch { repo.setJesusWordsColor(key) } }
             )
           }
@@ -5424,12 +5449,15 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
 
       Box {
         OutlinedButton(onClick = { dnColorExpanded = true }, modifier = Modifier.fillMaxWidth()) {
+          ColorDot(currentDnColorKey)
+          Spacer(Modifier.width(8.dp))
           Text(currentDnColorLabel, maxLines = 1, overflow = TextOverflow.Ellipsis)
         }
         DropdownMenu(expanded = dnColorExpanded, onDismissRequest = { dnColorExpanded = false }) {
           dnColorOptions.forEach { (key, resId) ->
             DropdownMenuItem(
               text = { Text(stringResource(resId)) },
+              leadingIcon = { ColorDot(key) },
               onClick = { dnColorExpanded = false; scope.launch { repo.setDivineNameColor(key) } }
             )
           }
@@ -5443,7 +5471,7 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
 
       // Language
       Text(stringResource(Res.string.language), style = MaterialTheme.typography.titleSmall)
-      var langExpanded by remember { mutableStateOf(prefs.screenshotExpandLanguage) }
+      var langExpanded by remember { mutableStateOf(false) }
       val languageOptions = listOf(
         "system" to stringResource(Res.string.language_system),
         "en" to "English",
@@ -5463,9 +5491,10 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
       val currentLangLabel = languageOptions.firstOrNull { it.first == prefs.appLanguage }?.second
         ?: stringResource(Res.string.language_system)
 
+      val languageCd = stringResource(Res.string.language) + ", " + currentLangLabel
       Box {
-        OutlinedButton(onClick = { langExpanded = true }, modifier = Modifier.fillMaxWidth()) {
-          Text(currentLangLabel, maxLines = 1, overflow = TextOverflow.Ellipsis)
+        OutlinedButton(onClick = { langExpanded = true }, modifier = Modifier.fillMaxWidth().semantics { contentDescription = languageCd }) {
+          Text(currentLangLabel, maxLines = 1, overflow = TextOverflow.Ellipsis, modifier = Modifier.clearAndSetSemantics {})
         }
         DropdownMenu(expanded = langExpanded, onDismissRequest = { langExpanded = false }) {
           languageOptions.forEach { (code, label) ->
@@ -5476,28 +5505,8 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
                 val prevLang = prefs.appLanguage
                 scope.launch {
                   repo.setAppLanguage(code)
-
-                  val eff = LocaleUtils.effectiveAssetTag(code)
-                  val langKey =
-                    if (eff.startsWith("zh")) {
-                      if (eff.contains("hant", ignoreCase = true)) "zh-Hant" else "zh-Hans"
-                    } else eff.substringBefore('-')
-
-                  val youList = versionsByLang[langKey] ?: versionsByLang["en"].orEmpty()
-                  val bgList  = bgVersionsByLang[langKey] ?: bgVersionsByLang["en"].orEmpty()
-
-                  val current = prefs.translation
-                  if (prefs.readerMode != "internal") {
-                    if (prefs.readerMode == "biblecom") {
-                      if (current !in youList) {
-                        repo.setVersion(Linker.defaultVersionForLanguage(eff))
-                      }
-                    } else {
-                      if (current !in bgList) {
-                        repo.setVersion(Linker.defaultGatewayVersionForLanguage(eff))
-                      }
-                    }
-                  }
+                  externalVersionDefaultOrNull(LocaleUtils.effectiveAssetTag(code), prefs.readerMode)
+                    ?.let { repo.setVersion(it) }
 
                   // AppCompat recreates Android activities when the locale
                   // changes. Do not request a second explicit recreation.
@@ -5527,6 +5536,51 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
         else
           (bgVersionsByLang[languageKey] ?: bgVersionsByLang["en"].orEmpty())
 
+      // In-app Bible version is independent of where scripture links open: it
+      // drives the in-app reader, verse of the day, search, and share text, so
+      // it stays visible whichever reader destination is selected.
+      Column(verticalArrangement = Arrangement.spacedBy(4.dp)) {
+        Text(
+          text = stringResource(Res.string.in_app_bible_version),
+          style = MaterialTheme.typography.titleSmall
+        )
+        Text(
+          text = stringResource(Res.string.in_app_bible_version_desc),
+          style = MaterialTheme.typography.bodySmall,
+          color = MaterialTheme.colorScheme.onSurfaceVariant
+        )
+        var internalVersionExpanded by remember { mutableStateOf(false) }
+        val internalChoices = bibleEditionOptions(prefs.appLanguage)
+        val selectedInternalLabel = internalChoices
+          .firstOrNull { it.first == BibleEditions.selectedForLanguage(prefs.appLanguage, prefs.internalBibleVersion) }
+          ?.second ?: internalChoices.first().second
+        val inAppVersionCd = stringResource(Res.string.in_app_bible_version) + ", " + selectedInternalLabel
+        Box {
+          OutlinedButton(
+            onClick = { internalVersionExpanded = true },
+            modifier = Modifier.fillMaxWidth().semantics { contentDescription = inAppVersionCd }
+          ) {
+            Text(selectedInternalLabel, maxLines = 1, overflow = TextOverflow.Ellipsis, modifier = Modifier.clearAndSetSemantics {})
+          }
+          DropdownMenu(
+            expanded = internalVersionExpanded,
+            onDismissRequest = { internalVersionExpanded = false }
+          ) {
+            internalChoices.forEach { (id, label) ->
+              DropdownMenuItem(
+                text = { Text(label) },
+                onClick = {
+                  internalVersionExpanded = false
+                  scope.launch { repo.setInternalBibleVersion(id) }
+                }
+              )
+            }
+          }
+        }
+      }
+
+      Spacer(Modifier.height(4.dp))
+
       Text(stringResource(Res.string.preferred_reader), style = MaterialTheme.typography.titleSmall)
       Text(stringResource(Res.string.preferred_reader_subtitle), style = MaterialTheme.typography.bodySmall)
       val readerModes = listOf("internal", "biblecom", "biblegateway")
@@ -5543,67 +5597,13 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
               if (prefs.readerMode != mode) {
                 scope.launch {
                   repo.setReaderMode(mode)
-                  if (mode != "internal") {
-                    val eff = LocaleUtils.effectiveAssetTag(prefs.appLanguage)
-                    val lk = if (eff.startsWith("zh")) {
-                      if (eff.contains("hant", ignoreCase = true)) "zh-Hant" else "zh-Hans"
-                    } else eff.substringBefore('-')
-                    val list = if (mode == "biblecom") versionsByLang[lk] ?: versionsByLang["en"].orEmpty()
-                               else bgVersionsByLang[lk] ?: bgVersionsByLang["en"].orEmpty()
-                    if (prefs.translation !in list) {
-                      repo.setVersion(
-                        if (mode == "biblecom") Linker.defaultVersionForLanguage(eff)
-                        else Linker.defaultGatewayVersionForLanguage(eff)
-                      )
-                    }
-                  }
+                  externalVersionDefaultOrNull(LocaleUtils.effectiveAssetTag(prefs.appLanguage), mode)
+                    ?.let { repo.setVersion(it) }
                 }
               }
             },
             shape = SegmentedButtonDefaults.itemShape(index = idx, count = 3)
-          ) { Text(readerLabels[idx], maxLines = 1, style = MaterialTheme.typography.labelSmall) }
-        }
-      }
-
-      AnimatedVisibility(visible = isInternal) {
-        Column(verticalArrangement = Arrangement.spacedBy(4.dp)) {
-          Spacer(Modifier.height(4.dp))
-          Text(
-            text = stringResource(Res.string.in_app_bible_version),
-            style = MaterialTheme.typography.titleSmall
-          )
-          Text(
-            text = stringResource(Res.string.in_app_bible_version_desc),
-            style = MaterialTheme.typography.bodySmall,
-            color = MaterialTheme.colorScheme.onSurfaceVariant
-          )
-          var internalVersionExpanded by remember { mutableStateOf(false) }
-          val internalChoices = bibleEditionOptions(prefs.appLanguage)
-          val selectedInternalLabel = internalChoices
-            .firstOrNull { it.first == BibleEditions.selectedForLanguage(prefs.appLanguage, prefs.internalBibleVersion) }
-            ?.second ?: internalChoices.first().second
-          Box {
-            OutlinedButton(
-              onClick = { internalVersionExpanded = true },
-              modifier = Modifier.fillMaxWidth()
-            ) {
-              Text(selectedInternalLabel, maxLines = 1, overflow = TextOverflow.Ellipsis)
-            }
-            DropdownMenu(
-              expanded = internalVersionExpanded,
-              onDismissRequest = { internalVersionExpanded = false }
-            ) {
-              internalChoices.forEach { (id, label) ->
-                DropdownMenuItem(
-                  text = { Text(label) },
-                  onClick = {
-                    internalVersionExpanded = false
-                    scope.launch { repo.setInternalBibleVersion(id) }
-                  }
-                )
-              }
-            }
-          }
+          ) { Text(readerLabels[idx], maxLines = 2, style = MaterialTheme.typography.labelSmall) }
         }
       }
 
@@ -5639,9 +5639,10 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
             readerMode = prefs.readerMode,
             appLanguage = prefs.appLanguage
           ) ?: prefs.translation
+          val externalVersionCd = stringResource(Res.string.external_bible_version) + ", " + selectedExternalVersion
           Box {
-            OutlinedButton(onClick = { verExpanded = true }, modifier = Modifier.fillMaxWidth()) {
-              Text(selectedExternalVersion, maxLines = 1, overflow = TextOverflow.Ellipsis)
+            OutlinedButton(onClick = { verExpanded = true }, modifier = Modifier.fillMaxWidth().semantics { contentDescription = externalVersionCd }) {
+              Text(selectedExternalVersion, maxLines = 1, overflow = TextOverflow.Ellipsis, modifier = Modifier.clearAndSetSemantics {})
             }
             DropdownMenu(expanded = verExpanded, onDismissRequest = { verExpanded = false }) {
               versionChoices.forEach { v ->
@@ -5677,7 +5678,7 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
                 onClick = { scope.launch { repo.setVerseShareProvider(provider) } },
                 shape = SegmentedButtonDefaults.itemShape(index = index, count = shareProviders.size)
               ) {
-                Text(label, maxLines = 1, style = MaterialTheme.typography.labelSmall)
+                Text(label, maxLines = 2, style = MaterialTheme.typography.labelSmall)
               }
             }
           }
@@ -5899,12 +5900,14 @@ private fun SectionHeader(text: String) {
 @Composable
 private fun SettingsSwitch(label: String, checked: Boolean, onCheckedChange: (Boolean) -> Unit) {
   Row(
-    Modifier.fillMaxWidth(),
+    Modifier
+      .fillMaxWidth()
+      .toggleable(value = checked, role = Role.Switch, onValueChange = onCheckedChange),
     horizontalArrangement = Arrangement.SpaceBetween,
     verticalAlignment = Alignment.CenterVertically
   ) {
     Text(label, style = MaterialTheme.typography.bodyLarge, modifier = Modifier.weight(1f).padding(end = 8.dp))
-    Switch(checked = checked, onCheckedChange = onCheckedChange)
+    Switch(checked = checked, onCheckedChange = null)
   }
 }
 
@@ -5980,8 +5983,9 @@ fun AboutScreen(onBack: () -> Unit) {
       )
     }
   ) { pad ->
-    Column(
-      Modifier.padding(pad).padding(16.dp).verticalScroll(rememberScrollState()),
+    FadingScrollColumn(
+      modifier = Modifier.padding(pad),
+      contentPadding = PaddingValues(16.dp),
       verticalArrangement = Arrangement.spacedBy(12.dp),
       horizontalAlignment = Alignment.CenterHorizontally
     ) {
@@ -6647,8 +6651,9 @@ private fun GenericNotesScreen(
         }
       }
     } else if (!showToc) {
-      Column(
-        Modifier.padding(pad).then(noteContentSelectionModifier).padding(16.dp).verticalScroll(rememberScrollState()),
+      FadingScrollColumn(
+        modifier = Modifier.padding(pad).then(noteContentSelectionModifier),
+        contentPadding = PaddingValues(16.dp),
         verticalArrangement = Arrangement.spacedBy(12.dp)
       ) {
         RenderNotesMarkdown(body = body, prefs = prefs, selectionResetKey = selectionResetKey)

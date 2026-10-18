@@ -28,7 +28,7 @@
     <string name="language_system">システム既定</string>
     <string name="bible_version">聖書の版</string>
     <string name="preferred_reader">聖書リンクの表示先</string>
-    <string name="preferred_reader_subtitle">聖書参照を開く場所を選びます。</string>
+    <string name="preferred_reader_subtitle">タップした聖書の参照箇所をどこで開くかを選びます：アプリ内、Bible.com、または Bible Gateway。</string>
     <string name="reader_biblecom">Bible.com</string>
     <string name="reader_biblegateway">Bible Gateway</string>
     <string name="reader_internal">アプリ内</string>
@@ -329,7 +329,7 @@
     <string name="external_bible_version_desc">外部参照に使う聖書訳を選びます。YouVersion聖書アプリがインストールされていれば、Bible.comのリンクはそのアプリで開きます。インストールされていなければ、ブラウザーでBible.comを開きます。Bible Companion内の本文は変わりません。</string>
     <string name="external_biblegateway_version_desc">外部参照に使う聖書訳を選びます。リンクを開くと、ブラウザーでBible Gatewayのウェブサイトが開きます。Bible Companion内の本文は変わりません。</string>
     <string name="in_app_bible_version">アプリ内の聖書訳</string>
-    <string name="in_app_bible_version_desc">Bible Companion内で読む聖書訳を示します。外部リンクに使用する聖書訳とは別です。</string>
+    <string name="in_app_bible_version_desc">アプリ内のすべてで使われる聖書の版を設定します。リーダー、今日の聖句、検索、コピーや共有するテキストに適用されます。外部リンクで開く版とは別です。</string>
     <string name="version_bsb">Berean Standard Bible (BSB)</string>
     <string name="version_kjv">King James Version (KJV)</string>
     <string name="version_local_modern">リビングバイブル (JCB)</string>
@@ -474,4 +474,10 @@
     <string name="ui_tertiary_color">アクセント</string>
     <string name="ui_custom_palette_hint">各色を個別に選ぶか、サブとアクセントをメインの色に合わせられます。</string>
     <string name="ui_match_accent_colors">サブとアクセントをメインに合わせる</string>
+    <string name="saved_sort_auto">聖書の順</string>
+    <string name="saved_sort_custom">カスタム</string>
+    <string name="cd_reorder_saved_verse">並べ替え</string>
+    <string name="cd_previous_month">前の月</string>
+    <string name="cd_next_month">次の月</string>
+    <string name="cd_clear_search">検索をクリア</string>
 </resources>

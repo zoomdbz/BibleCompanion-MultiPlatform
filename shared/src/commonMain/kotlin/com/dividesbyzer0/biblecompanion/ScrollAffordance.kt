@@ -39,6 +39,7 @@ fun FadingScrollColumn(
   modifier: Modifier = Modifier,
   contentPadding: PaddingValues = PaddingValues(16.dp),
   verticalArrangement: Arrangement.Vertical = Arrangement.spacedBy(12.dp),
+  horizontalAlignment: Alignment.Horizontal = Alignment.Start,
   fadeHeight: Dp = 64.dp,
   content: @Composable ColumnScope.() -> Unit
 ) {
@@ -56,6 +57,7 @@ fun FadingScrollColumn(
     Column(
       Modifier.fillMaxSize().verticalScroll(scrollState).padding(contentPadding),
       verticalArrangement = verticalArrangement,
+      horizontalAlignment = horizontalAlignment,
       content = content
     )
     // Plain boxes carry no pointer input, so scroll gestures reach the column.

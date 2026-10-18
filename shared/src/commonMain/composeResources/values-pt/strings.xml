@@ -28,7 +28,7 @@
     <string name="language_system">Padrão do sistema</string>
     <string name="bible_version">Versão da Bíblia</string>
     <string name="preferred_reader">Destino dos links bíblicos</string>
-    <string name="preferred_reader_subtitle">Escolha onde as referências bíblicas abrem.</string>
+    <string name="preferred_reader_subtitle">Escolha onde uma referência bíblica abre ao ser tocada: no app, Bible.com ou Bible Gateway.</string>
     <string name="reader_biblecom">Bible.com</string>
     <string name="reader_biblegateway">Bible Gateway</string>
     <string name="reader_internal">No app</string>
@@ -329,7 +329,7 @@
     <string name="external_bible_version_desc">Escolha a versão para referências externas. Os links do Bible.com abrem no aplicativo Bíblia YouVersion quando ele está instalado; caso contrário, abrem o Bible.com no navegador. Isso não altera o texto do Bible Companion.</string>
     <string name="external_biblegateway_version_desc">Escolha a versão da Bíblia para referências externas. Os links abrem o site Bible Gateway no navegador. Isso não altera o texto do Bible Companion.</string>
     <string name="in_app_bible_version">Versão bíblica no app</string>
-    <string name="in_app_bible_version_desc">Identifica a versão bíblica lida no Bible Companion. Ela é separada da versão usada nos links externos.</string>
+    <string name="in_app_bible_version_desc">Define a versão da Bíblia usada em todo o app: o leitor, o versículo do dia, a busca e o texto que você copia ou compartilha. Independente da versão que seus links externos abrem.</string>
     <string name="version_bsb">Berean Standard Bible (BSB)</string>
     <string name="version_kjv">King James Version (KJV)</string>
     <string name="version_local_modern">Nova Versão Transformadora (NVT)</string>
@@ -474,4 +474,10 @@
     <string name="ui_tertiary_color">Terciária</string>
     <string name="ui_custom_palette_hint">Escolha cada cor separadamente ou combine as duas cores de destaque com a cor primária.</string>
     <string name="ui_match_accent_colors">Combinar destaques com a primária</string>
+    <string name="saved_sort_auto">Ordem bíblica</string>
+    <string name="saved_sort_custom">Personalizado</string>
+    <string name="cd_reorder_saved_verse">Reordenar</string>
+    <string name="cd_previous_month">Mês anterior</string>
+    <string name="cd_next_month">Próximo mês</string>
+    <string name="cd_clear_search">Limpar busca</string>
 </resources>

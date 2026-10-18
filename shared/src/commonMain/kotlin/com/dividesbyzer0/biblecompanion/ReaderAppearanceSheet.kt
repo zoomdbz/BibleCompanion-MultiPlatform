@@ -33,6 +33,7 @@ import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.semantics.contentDescription
 import androidx.compose.ui.semantics.semantics
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextOverflow
@@ -171,6 +172,7 @@ fun ReaderAppearanceSheet(
       }
 
       Text(stringResource(Res.string.text_size), style = MaterialTheme.typography.titleSmall)
+      val textSizeCd = stringResource(Res.string.text_size)
       Slider(
         value = textScale,
         onValueChange = { value ->
@@ -179,10 +181,11 @@ fun ReaderAppearanceSheet(
           scope.launch { repo.setTextSizeScale(snapped) }
         },
         valueRange = 0.8f..1.6f,
-        modifier = Modifier.fillMaxWidth()
+        modifier = Modifier.fillMaxWidth().semantics { contentDescription = textSizeCd }
       )
 
       Text(stringResource(Res.string.ui_line_spacing), style = MaterialTheme.typography.titleSmall)
+      val lineSpacingCd = stringResource(Res.string.ui_line_spacing)
       Slider(
         value = lineSpacing,
         onValueChange = { value ->
@@ -191,7 +194,7 @@ fun ReaderAppearanceSheet(
           scope.launch { repo.setReadingLineSpacing(snapped) }
         },
         valueRange = 1.3f..2.1f,
-        modifier = Modifier.fillMaxWidth()
+        modifier = Modifier.fillMaxWidth().semantics { contentDescription = lineSpacingCd }
       )
 
       Row(

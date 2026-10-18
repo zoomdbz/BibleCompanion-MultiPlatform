@@ -28,7 +28,7 @@
     <string name="language_system">Системный по умолчанию</string>
     <string name="bible_version">Перевод Библии</string>
     <string name="preferred_reader">Куда открывать ссылки на Писание</string>
-    <string name="preferred_reader_subtitle">Выберите, где будут открываться ссылки на Писание.</string>
+    <string name="preferred_reader_subtitle">Выберите, где открывается ссылка на Писание при нажатии: в приложении, Bible.com или Bible Gateway.</string>
     <string name="reader_biblecom">Bible.com</string>
     <string name="reader_biblegateway">Bible Gateway</string>
     <string name="reader_internal">В приложении</string>
@@ -329,7 +329,7 @@
     <string name="external_bible_version_desc">Выберите перевод Библии для внешних ссылок. Ссылки Bible.com открываются в приложении YouVersion Bible, если оно установлено; иначе они открывают Bible.com в браузере. Текст в Bible Companion не меняется.</string>
     <string name="external_biblegateway_version_desc">Выберите перевод Библии для внешних ссылок. Ссылки открываются на сайте Bible Gateway в браузере. Текст в Bible Companion не меняется.</string>
     <string name="in_app_bible_version">Версия Библии в приложении</string>
-    <string name="in_app_bible_version_desc">Указывает версию Библии, которую вы читаете в Bible Companion. Она не зависит от версии для внешних ссылок.</string>
+    <string name="in_app_bible_version_desc">Задаёт версию Библии, используемую во всём приложении: чтение, стих дня, поиск и текст, который вы копируете или отправляете. Не зависит от версии, которую открывают внешние ссылки.</string>
     <string name="version_bsb">Berean Standard Bible (BSB)</string>
     <string name="version_kjv">King James Version (KJV)</string>
     <string name="version_local_modern">Новый русский перевод (NRT/NRP)</string>
@@ -474,4 +474,10 @@
     <string name="ui_tertiary_color">Третичный</string>
     <string name="ui_custom_palette_hint">Выберите каждый цвет отдельно или подберите оба акцентных цвета к основному.</string>
     <string name="ui_match_accent_colors">Подобрать акценты к основному</string>
+    <string name="saved_sort_auto">Порядок Библии</string>
+    <string name="saved_sort_custom">Свой порядок</string>
+    <string name="cd_reorder_saved_verse">Изменить порядок</string>
+    <string name="cd_previous_month">Предыдущий месяц</string>
+    <string name="cd_next_month">Следующий месяц</string>
+    <string name="cd_clear_search">Очистить поиск</string>
 </resources>

@@ -76,6 +76,7 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
         val AI_SEARCH = booleanPreferencesKey("ai_search")
         val BOOKMARKS_JSON = stringPreferencesKey("bookmarks_json")
         val SAVED_VERSES_JSON = stringPreferencesKey("saved_verses_json")
+        val SAVED_VERSE_SORT = stringPreferencesKey("saved_verse_sort")
         val LABELS_JSON = stringPreferencesKey("labels_json")
     }
 
@@ -138,7 +139,8 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
             dailyVerseNotifications = p[Keys.DAILY_VERSE_NOTIFICATIONS] ?: false,
             dailyVerseNotificationMinuteOfDay = (p[Keys.DAILY_VERSE_NOTIFICATION_TIME] ?: 540).coerceIn(0, 1439),
             dailyVerseNotification24Hour = p[Keys.DAILY_VERSE_NOTIFICATION_24_HOUR] ?: false,
-            aiSearch = p[Keys.AI_SEARCH] ?: true
+            aiSearch = p[Keys.AI_SEARCH] ?: true,
+            savedVerseSort = p[Keys.SAVED_VERSE_SORT] ?: "custom"
         )
     }
 
@@ -191,6 +193,9 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
 
     actual suspend fun setVerseShareProvider(provider: String) =
         context.dataStore.edit { it[Keys.VERSE_SHARE_PROVIDER] = normalizeVerseShareProvider(provider) }.let { Unit }
+
+    actual suspend fun setSavedVerseSort(mode: String) =
+        context.dataStore.edit { it[Keys.SAVED_VERSE_SORT] = mode }.let { Unit }
 
     actual suspend fun setLastRead(
         collection: String,
