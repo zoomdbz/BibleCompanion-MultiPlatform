@@ -115,7 +115,9 @@ data class PrefsState(
   val dailyVerseNotification24Hour: Boolean = false,
   val aiSearch: Boolean = true,
   // Saved-verses ordering: "custom" (manual drag order) or "auto" (Bible order).
-  val savedVerseSort: String = "custom"
+  val savedVerseSort: String = "custom",
+  // Bookmark ordering: "custom" (manual drag order) or "auto" (Bible order).
+  val bookmarkSort: String = "custom"
 )
 
 enum class SearchHitType { STORY, NOTE, BOOK }

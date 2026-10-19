@@ -65,6 +65,7 @@ import androidx.compose.material.icons.filled.Close
 import androidx.compose.material.icons.filled.ContentCopy
 import androidx.compose.material.icons.filled.ExpandMore
 import androidx.compose.material.icons.automirrored.filled.EventNote
+import androidx.compose.material.icons.automirrored.filled.Label
 import androidx.compose.material.icons.filled.FamilyRestroom
 import androidx.compose.material.icons.filled.FormatColorFill
 import androidx.compose.material.icons.filled.Gavel
@@ -139,6 +140,7 @@ import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableFloatStateOf
 import androidx.compose.runtime.mutableStateMapOf
+import androidx.compose.runtime.mutableStateListOf
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.saveable.rememberSaveable
@@ -458,19 +460,71 @@ fun AppRoot(
         }
       }
     }
-    val navBack: () -> Unit = {
-      if (!nav.popBackStack()) nav.navigate(Dest.Home.route) {
-        popUpTo(Dest.Home.route) { inclusive = true }
-      }
-    }
-    // Explicit passage targets must remain events even when launchSingleTop
-    // reuses a reader entry holding the same route and saveable state. Negative
-    // ids keep this stream disjoint from platform-supplied external event ids.
+    // Request-id stream is defined before navBack so a trail pop can mint a
+    // fresh event id. Explicit passage targets must remain events even when
+    // launchSingleTop reuses a reader entry holding the same route and saveable
+    // state. Negative ids keep this stream disjoint from platform-supplied
+    // external event ids.
     var nextInternalReaderRequestId by rememberSaveable { mutableStateOf(-1L) }
     val freshInternalReaderRequestId: () -> Long = {
       val requestId = nextInternalReaderRequestId
       nextInternalReaderRequestId = followingInternalReaderRequestId(requestId)
       requestId
+    }
+    // Reader passage trail: a cross-reference hop pushes the departing passage
+    // so the top-left back arrow walks back through them instead of leaving the
+    // reader. Bounded to 50; cleared whenever we land on a non-reader screen.
+    val readerTrail = remember { mutableStateListOf<ReaderTrailEntry>() }
+    // The reader reports its current scroll (item index, pixel offset) here so a
+    // trail push records where you were; a back pop restores it via the request
+    // id it mints (matched in the book composable, applied in the reader).
+    val readerScroll = remember { mutableStateOf(0 to 0) }
+    var pendingReaderScrollRestore by remember { mutableStateOf<Triple<Long, Int, Int>?>(null) }
+    fun currentReaderPassage(): ReaderTrailEntry? {
+      val entry = nav.currentBackStackEntry ?: return null
+      if (entry.destination.route?.startsWith("book/") != true) return null
+      val a = entry.arguments
+      val c = a.stringArgument("col") ?: return null
+      val b = a.stringArgument("bookId") ?: return null
+      return ReaderTrailEntry(
+        col = c, bookId = b,
+        storyId = a.stringArgument("storyId"),
+        verse = a.stringArgument("verse")?.toIntOrNull()?.takeIf { it > 0 },
+        verseEnd = a.stringArgument("verseEnd")?.toIntOrNull(),
+        sourceLang = a.stringArgument("sourceLang"),
+        sourceEdition = a.stringArgument("sourceEdition"),
+        scrollIndex = readerScroll.value.first,
+        scrollOffset = readerScroll.value.second
+      )
+    }
+    val pushReaderTrail: () -> Unit = {
+      // A new forward navigation; any pending back-restore target is now stale.
+      pendingReaderScrollRestore = null
+      currentReaderPassage()?.let { entry ->
+        readerTrail.add(entry)
+        while (readerTrail.size > 50) readerTrail.removeAt(0)
+      }
+    }
+    val navBack: () -> Unit = {
+      val prev = readerTrail.removeLastOrNull()
+      if (prev != null && nav.currentBackStackEntry?.destination?.route?.startsWith("book/") == true) {
+        val rid = freshInternalReaderRequestId()
+        pendingReaderScrollRestore = Triple(rid, prev.scrollIndex, prev.scrollOffset)
+        nav.navigate(Dest.BookView.route(
+          prev.col, prev.bookId, prev.storyId, prev.verse, prev.verseEnd,
+          sourceLang = prev.sourceLang, sourceEdition = prev.sourceEdition,
+          requestId = rid
+        )) { launchSingleTop = true }
+      } else if (!nav.popBackStack()) {
+        nav.navigate(Dest.Home.route) {
+          popUpTo(Dest.Home.route) { inclusive = true }
+        }
+      }
+    }
+    LaunchedEffect(Unit) {
+      nav.currentBackStackEntryFlow.collect { entry ->
+        if (entry.destination.route?.startsWith("book/") != true) readerTrail.clear()
+      }
     }
 
     var pendingSearchFocus by remember { mutableStateOf(false) }
@@ -527,6 +581,10 @@ fun AppRoot(
     }
 
     val editionNavigate: (EditionDestination) -> Unit = { target ->
+      // Inline cross-reference taps come through here. Record the passage we
+      // are leaving (no-op unless we are currently in the reader) so the back
+      // arrow can return to it.
+      pushReaderTrail()
       expireSavedReadingNowState()
       nav.navigate(Dest.BookView.route(
         target.collection, target.bookId, target.storyId, target.verse, target.verseEnd,
@@ -841,6 +899,10 @@ fun AppRoot(
           val sourceLangArg = back.arguments.stringArgument("sourceLang")
           val sourceEditionArg = back.arguments.stringArgument("sourceEdition")
           val requestIdArg = back.arguments.stringArgument("requestId")?.toLongOrNull()
+          // Scroll position to restore on a back-pop: only when the minted
+          // request id matches this navigation.
+          val scrollRestore = pendingReaderScrollRestore
+            ?.takeIf { it.first == requestIdArg }?.let { it.second to it.third }
           val readerPrefs = prefs.copy(internalBibleVersion = BibleEditions.forNavigation(
             prefs.appLanguage, prefs.internalBibleVersion, sourceLangArg, sourceEditionArg
           ))
@@ -851,6 +913,8 @@ fun AppRoot(
             prefs.appLanguage, sourceLangArg, linkedEditionUnavailable
           )
           val readerNavigate: (String, String, String?, Int?, Int?) -> Unit = { nextCol, nextBook, nextStory, nextVerse, nextEnd ->
+            // Record the passage we are leaving so the back arrow can return to it.
+            pushReaderTrail()
             nav.navigate(Dest.BookView.route(
               nextCol, nextBook, nextStory, nextVerse, nextEnd,
               sourceLang = LocaleUtils.effectiveAssetTag(readerPrefs.appLanguage),
@@ -875,6 +939,8 @@ fun AppRoot(
             initialRequestId = requestIdArg,
             linkedEditionUnavailable = linkedEditionUnavailable,
             autoStartTts = autoStartTtsArg,
+            onReaderScroll = { i, o -> readerScroll.value = i to o },
+            initialScrollRestore = scrollRestore,
             onChangeBibleVersion = { editionId, targetStoryId, targetVerse, targetEnd ->
               scope.launch {
                 repo.setInternalBibleVersion(editionId)
@@ -2101,6 +2167,8 @@ fun BookScreen(
   onChooseBook: () -> Unit = {},
   onChangeBibleVersion: (String, String?, Int?, Int?) -> Unit,
   onNavigateToBook: ((col: String, bookId: String, autoStartTts: Boolean) -> Unit)? = null,
+  onReaderScroll: (Int, Int) -> Unit = { _, _ -> },
+  initialScrollRestore: Pair<Int, Int>? = null,
   onBack: () -> Unit
 ) {
   val ctx = LocalPlatformContext.current
@@ -2178,6 +2246,13 @@ fun BookScreen(
     bookId,
     saver = LazyListState.Saver
   ) { LazyListState() }
+
+  // Report scroll position up so the cross-reference back trail can record and
+  // later restore where the reader was.
+  LaunchedEffect(listState) {
+    snapshotFlow { listState.firstVisibleItemIndex to listState.firstVisibleItemScrollOffset }
+      .collect { onReaderScroll(it.first, it.second) }
+  }
 
   // Route targets are navigation events, not standing scroll commands. Store
   // the identity that was handled instead of a Boolean: a reused navigation
@@ -2535,7 +2610,11 @@ fun BookScreen(
         expandedStoryIds = expandedStoryIds + resolvedStoryId
       }
       val storyIdx = storyIndex[resolvedStoryId]
-      if (initialVerse != null && keepLoadedLinkedVerse) {
+      val restore = initialScrollRestore
+      if (restore != null) {
+        // Back-pop: land where the reader was, not at chapter top.
+        listState.scrollToItem(restore.first, restore.second)
+      } else if (initialVerse != null && keepLoadedLinkedVerse) {
         val story = book.stories.find { it.id == resolvedStoryId }
         if (story != null) {
           val end = initialVerseEnd?.coerceAtLeast(initialVerse) ?: initialVerse
@@ -4164,6 +4243,22 @@ internal fun StoryCard(
 }
 
 
+// One hop in the reader's cross-reference back trail: enough to rebuild the
+// passage route (a fresh request id is minted on return).
+private data class ReaderTrailEntry(
+  val col: String,
+  val bookId: String,
+  val storyId: String?,
+  val verse: Int?,
+  val verseEnd: Int?,
+  val sourceLang: String?,
+  val sourceEdition: String?,
+  // Reading scroll position (LazyColumn item index + pixel offset) at the time
+  // this passage was left, so a back pop lands where you were, not chapter top.
+  val scrollIndex: Int = 0,
+  val scrollOffset: Int = 0
+)
+
 private fun mapSavedVersesToCurrentBook(
   book: Book,
   savedVerses: List<SavedVerse>,
@@ -4397,6 +4492,7 @@ fun SavedItemsScreen(
   var selectedTab by remember { mutableStateOf(0) }
   var confirmDeleteLabel by remember { mutableStateOf<Label?>(null) }
   var skipDeleteConfirm by remember { mutableStateOf(false) }
+  var labelEditorKey by remember { mutableStateOf<String?>(null) }
 
   Scaffold(
     topBar = {
@@ -4443,6 +4539,162 @@ fun SavedItemsScreen(
                 Spacer(Modifier.height(8.dp))
                 Text(
                   stringResource(Res.string.bookmarks_tab),
+                  style = MaterialTheme.typography.bodyMedium,
+                  color = MaterialTheme.colorScheme.onSurfaceVariant
+                )
+              }
+            }
+          } else {
+            val ctx = LocalPlatformContext.current
+            val sortMode = prefs.bookmarkSort
+            val isCustom = sortMode != "auto"
+            // Auto sorts by Bible order (collection, book, then chapter from the
+            // story id tail "<book>-<chapter>"); Custom keeps the user's manual
+            // drag order (sortOrder). Same SnapshotStateList-inside-remember
+            // pattern as saved verses; see that comment for why.
+            val displayBookmarks = remember(bookmarks, sortMode) {
+              val sorted = if (sortMode == "auto") {
+                val collOrder = listOf("old_testament", "new_testament", "deuterocanonical", "apocrypha", "pseudepigrapha")
+                val bookIndexByColl = HashMap<String, Map<String, Int>>()
+                fun bookIndex(coll: String, id: String): Int =
+                  bookIndexByColl.getOrPut(coll) {
+                    ContentRepo.listBooksLocalized(ctx, coll, prefs.appLanguage)
+                      .mapIndexed { i, pair -> pair.first to i }.toMap()
+                  }[id] ?: Int.MAX_VALUE
+                bookmarks.sortedWith(
+                  compareBy<Bookmark>(
+                    { collOrder.indexOf(it.collection).let { x -> if (x < 0) Int.MAX_VALUE else x } },
+                    { bookIndex(it.collection, it.bookId) },
+                    { it.storyId.substringAfterLast('-').toIntOrNull() ?: Int.MAX_VALUE }
+                  )
+                )
+              } else {
+                bookmarks.sortedWith(compareBy<Bookmark> { it.sortOrder }.thenByDescending { it.timestamp })
+              }
+              sorted.toMutableStateList()
+            }
+            val displayBookmarksRef = rememberUpdatedState(displayBookmarks)
+            var needsPersist by remember { mutableStateOf(false) }
+            val lazyListState = rememberLazyListState()
+            val reorderState = rememberReorderableLazyListState(lazyListState) { from, to ->
+              val list = displayBookmarksRef.value
+              val moved = list.removeAt(from.index)
+              list.add(to.index, moved)
+              needsPersist = true
+            }
+            LaunchedEffect(reorderState.isAnyItemDragging) {
+              if (!reorderState.isAnyItemDragging && needsPersist) {
+                needsPersist = false
+                val reordered = displayBookmarks.mapIndexed { idx, bm -> bm.copy(sortOrder = idx + 1) }
+                repo.reorderBookmarks(reordered)
+              }
+            }
+            SingleChoiceSegmentedButtonRow(Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 8.dp)) {
+              SegmentedButton(
+                selected = sortMode == "auto",
+                onClick = { scope.launch { repo.setBookmarkSort("auto") } },
+                shape = SegmentedButtonDefaults.itemShape(index = 0, count = 2)
+              ) { Text(stringResource(Res.string.saved_sort_auto), maxLines = 2, style = MaterialTheme.typography.labelSmall) }
+              SegmentedButton(
+                selected = isCustom,
+                onClick = { scope.launch { repo.setBookmarkSort("custom") } },
+                shape = SegmentedButtonDefaults.itemShape(index = 1, count = 2)
+              ) { Text(stringResource(Res.string.saved_sort_custom), maxLines = 2, style = MaterialTheme.typography.labelSmall) }
+            }
+            LazyColumn(
+              state = lazyListState,
+              modifier = Modifier.weight(1f),
+              contentPadding = PaddingValues(16.dp),
+              verticalArrangement = Arrangement.spacedBy(8.dp)
+            ) {
+              items(
+                items = displayBookmarks,
+                key = { "${it.collection}/${it.bookId}/${it.sourceLanguage ?: "en"}/${it.storyId}" }
+              ) { bm ->
+                ReorderableItem(reorderState, key = "${bm.collection}/${bm.bookId}/${bm.sourceLanguage ?: "en"}/${bm.storyId}") { isDragging ->
+                  val bmColor = if (bm.collection == "old_testament" || bm.collection == "pseudepigrapha")
+                    MaterialTheme.colorScheme.onSurfaceVariant else MaterialTheme.colorScheme.error
+                  val elevation = if (isDragging) 8.dp else 0.dp
+                  Card(
+                    modifier = Modifier.fillMaxWidth().clickable {
+                      onOpenBook(bm.collection, bm.bookId,
+                        resolveStoryIdAcrossLanguages(bm.storyId, bm.sourceLanguage, prefs.appLanguage))
+                    },
+                    elevation = CardDefaults.cardElevation(defaultElevation = elevation)
+                  ) {
+                    Row(
+                      Modifier.padding(start = 16.dp, top = 12.dp, bottom = 12.dp, end = 4.dp),
+                      verticalAlignment = Alignment.Top
+                    ) {
+                      Icon(
+                        Icons.Filled.Bookmark,
+                        contentDescription = null,
+                        tint = bmColor,
+                        modifier = Modifier.size(24.dp).padding(top = 2.dp)
+                      )
+                      Spacer(Modifier.width(12.dp))
+                      Column(Modifier.weight(1f)) {
+                        Text(bm.storyTitle, style = MaterialTheme.typography.titleSmall)
+                        Text(
+                          bm.bookTitle,
+                          style = MaterialTheme.typography.bodySmall,
+                          color = MaterialTheme.colorScheme.onSurfaceVariant
+                        )
+                        if (bm.snippet.isNotBlank()) {
+                          Text(
+                            bm.snippet,
+                            style = MaterialTheme.typography.bodySmall,
+                            color = MaterialTheme.colorScheme.onSurfaceVariant,
+                            maxLines = 2,
+                            overflow = TextOverflow.Ellipsis,
+                            modifier = Modifier.padding(top = 4.dp)
+                          )
+                        }
+                      }
+                      // Drag handle on trailing edge (Custom order only); long-press or touch to drag
+                      if (isCustom) {
+                        IconButton(
+                          modifier = Modifier.draggableHandle(),
+                          onClick = {}
+                        ) {
+                          Icon(
+                            Icons.Filled.DragHandle,
+                            contentDescription = null,
+                            modifier = Modifier.size(18.dp),
+                            tint = MaterialTheme.colorScheme.onSurfaceVariant.copy(alpha = 0.5f)
+                          )
+                        }
+                      }
+                      IconButton(onClick = {
+                        scope.launch { repo.removeBookmark(bm.collection, bm.bookId, bm.storyId, bm.sourceLanguage) }
+                      }) {
+                        Icon(
+                          Icons.Filled.Close,
+                          contentDescription = stringResource(Res.string.cd_remove_bookmark),
+                          modifier = Modifier.size(16.dp),
+                          tint = MaterialTheme.colorScheme.error
+                        )
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+        1 -> {
+          if (savedVerses.isEmpty()) {
+            Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
+              Column(horizontalAlignment = Alignment.CenterHorizontally) {
+                Icon(
+                  Icons.Filled.Star,
+                  contentDescription = null,
+                  modifier = Modifier.size(48.dp),
+                  tint = MaterialTheme.colorScheme.onSurfaceVariant.copy(alpha = 0.5f)
+                )
+                Spacer(Modifier.height(8.dp))
+                Text(
+                  stringResource(Res.string.saved_verses_tab),
                   style = MaterialTheme.typography.bodyMedium,
                   color = MaterialTheme.colorScheme.onSurfaceVariant
                 )
@@ -4609,6 +4861,16 @@ fun SavedItemsScreen(
                             }
                           }
                         }
+                      }
+                      IconButton(onClick = {
+                        labelEditorKey = group.first().groupId ?: savedVerseUiKey(group.first())
+                      }) {
+                        Icon(
+                          Icons.AutoMirrored.Filled.Label,
+                          contentDescription = stringResource(Res.string.cd_label),
+                          modifier = Modifier.size(18.dp),
+                          tint = MaterialTheme.colorScheme.onSurfaceVariant
+                        )
                       }
                       if (isCustom) {
                         IconButton(
@@ -4796,6 +5058,80 @@ fun SavedItemsScreen(
       dismissButton = {
         TextButton(onClick = { confirmDeleteLabel = null }) {
           Text(stringResource(Res.string.back))
+        }
+      }
+    )
+  }
+
+  labelEditorKey?.let { key ->
+    val members = savedVerses.filter { (it.groupId ?: savedVerseUiKey(it)) == key }
+    if (members.isEmpty()) return@let
+    var newLabelName by remember { mutableStateOf("") }
+    AlertDialog(
+      onDismissRequest = { labelEditorKey = null },
+      title = { Text(stringResource(Res.string.add_label)) },
+      text = {
+        Column {
+          if (labels.isEmpty()) {
+            Text(
+              stringResource(Res.string.no_labels_yet),
+              style = MaterialTheme.typography.bodySmall,
+              color = MaterialTheme.colorScheme.onSurfaceVariant
+            )
+          } else {
+            FlowRow(
+              horizontalArrangement = Arrangement.spacedBy(6.dp),
+              verticalArrangement = Arrangement.spacedBy(4.dp)
+            ) {
+              for (lbl in labels) {
+                val applied = members.any { lbl.id in it.labels }
+                FilterChip(
+                  selected = applied,
+                  onClick = {
+                    scope.launch {
+                      for (sv in members) {
+                        if (applied) repo.removeLabelFromVerse(sv, lbl.id)
+                        else repo.addLabelToVerse(sv, lbl.id)
+                      }
+                    }
+                  },
+                  label = { Text(lbl.name, style = MaterialTheme.typography.labelSmall) },
+                  leadingIcon = { Box(Modifier.size(8.dp).background(labelColor(lbl.color), CircleShape)) }
+                )
+              }
+            }
+          }
+          Spacer(Modifier.height(8.dp))
+          Row(verticalAlignment = Alignment.CenterVertically) {
+            OutlinedTextField(
+              value = newLabelName,
+              onValueChange = { newLabelName = it },
+              modifier = Modifier.weight(1f),
+              placeholder = { Text(stringResource(Res.string.new_label), style = MaterialTheme.typography.labelSmall) },
+              singleLine = true,
+              textStyle = MaterialTheme.typography.labelSmall
+            )
+            Spacer(Modifier.width(8.dp))
+            FilledTonalButton(
+              onClick = {
+                val name = newLabelName.trim()
+                if (name.isNotBlank()) {
+                  scope.launch {
+                    val id = name.lowercase().replace(Regex("[^a-z0-9]"), "_") + "_" + currentTimeMillis()
+                    repo.addLabel(Label(id = id, name = name, timestamp = currentTimeMillis()))
+                    for (sv in members) repo.addLabelToVerse(sv, id)
+                    newLabelName = ""
+                  }
+                }
+              },
+              enabled = newLabelName.isNotBlank()
+            ) { Text("+") }
+          }
+        }
+      },
+      confirmButton = {
+        TextButton(onClick = { labelEditorKey = null }) {
+          Text(stringResource(Res.string.done))
         }
       }
     )
@@ -5320,7 +5656,10 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
       )
 
       Text(
-        "${(lineSpacing * 100).toInt()}%",
+        // Shown relative to the default spacing (1.65x) so the resting default
+        // reads 100%; tighter goes below, looser above. Label only; the stored
+        // multiplier and the rendered line height are unchanged.
+        "${kotlin.math.round(lineSpacing / 1.65f * 100).toInt()}%",
         style = MaterialTheme.typography.labelSmall,
         color = MaterialTheme.colorScheme.onSurfaceVariant
       )

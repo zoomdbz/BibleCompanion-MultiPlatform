@@ -30,6 +30,7 @@ expect class PrefsRepo(context: PlatformContext) {
     suspend fun setVersePerLine(enabled: Boolean)
     suspend fun setVerseShareProvider(provider: String)
     suspend fun setSavedVerseSort(mode: String)
+    suspend fun setBookmarkSort(mode: String)
     suspend fun setLastRead(
         collection: String,
         bookId: String,

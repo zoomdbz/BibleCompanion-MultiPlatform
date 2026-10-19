@@ -85,7 +85,8 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
                 defaults.integerForKey("daily_verse_notification_time").toInt().coerceIn(0, 1439) else 540,
             dailyVerseNotification24Hour = getBool("daily_verse_notification_24_hour", false),
             aiSearch = getBool("ai_search", true),
-            savedVerseSort = getString("saved_verse_sort") ?: "custom"
+            savedVerseSort = getString("saved_verse_sort") ?: "custom",
+            bookmarkSort = getString("bookmark_sort") ?: "custom"
         )
     }
 
@@ -148,6 +149,9 @@ actual class PrefsRepo actual constructor(context: PlatformContext) {
 
     actual suspend fun setSavedVerseSort(mode: String) {
         defaults.setObject(mode, forKey = "saved_verse_sort"); refresh()
+    }
+    actual suspend fun setBookmarkSort(mode: String) {
+        defaults.setObject(mode, forKey = "bookmark_sort"); refresh()
     }
     actual suspend fun setLastRead(
         collection: String,

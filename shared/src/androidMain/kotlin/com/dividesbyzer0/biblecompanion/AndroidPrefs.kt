@@ -77,6 +77,7 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
         val BOOKMARKS_JSON = stringPreferencesKey("bookmarks_json")
         val SAVED_VERSES_JSON = stringPreferencesKey("saved_verses_json")
         val SAVED_VERSE_SORT = stringPreferencesKey("saved_verse_sort")
+        val BOOKMARK_SORT = stringPreferencesKey("bookmark_sort")
         val LABELS_JSON = stringPreferencesKey("labels_json")
     }
 
@@ -140,7 +141,8 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
             dailyVerseNotificationMinuteOfDay = (p[Keys.DAILY_VERSE_NOTIFICATION_TIME] ?: 540).coerceIn(0, 1439),
             dailyVerseNotification24Hour = p[Keys.DAILY_VERSE_NOTIFICATION_24_HOUR] ?: false,
             aiSearch = p[Keys.AI_SEARCH] ?: true,
-            savedVerseSort = p[Keys.SAVED_VERSE_SORT] ?: "custom"
+            savedVerseSort = p[Keys.SAVED_VERSE_SORT] ?: "custom",
+            bookmarkSort = p[Keys.BOOKMARK_SORT] ?: "custom"
         )
     }
 
@@ -196,6 +198,9 @@ actual class PrefsRepo actual constructor(private val context: PlatformContext) 
 
     actual suspend fun setSavedVerseSort(mode: String) =
         context.dataStore.edit { it[Keys.SAVED_VERSE_SORT] = mode }.let { Unit }
+
+    actual suspend fun setBookmarkSort(mode: String) =
+        context.dataStore.edit { it[Keys.BOOKMARK_SORT] = mode }.let { Unit }
 
     actual suspend fun setLastRead(
         collection: String,
