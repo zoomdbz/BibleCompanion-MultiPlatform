@@ -241,9 +241,11 @@
     <string name="prophecy_second_coming_rapture_desc">Il ritorno di Cristo, la risurrezione, il raduno, l'ira e le principali posizioni cronologiche</string>
     <!-- Data -->
     <string name="data_section">Dati</string>
-    <string name="data_section_desc">Trasferisci segnalibri, versetti salvati, evidenziazioni ed etichette tra dispositivi. Tocca Esporta per copiare i dati negli appunti, poi incollali in Importa sull'altro dispositivo. Le impostazioni e le preferenze non sono incluse.</string>
+    <string name="data_section_desc">Trasferisci segnalibri, versetti salvati, evidenziazioni ed etichette tra dispositivi. Tocca Esporta per salvare un file di backup, poi usa Importa sull'altro dispositivo per aprire quel file. Le impostazioni e le preferenze non sono incluse.</string>
     <string name="export_data">Esporta</string>
     <string name="import_data">Importa</string>
+    <string name="backup_saved">Backup salvato</string>
+    <string name="jump_to_section">Vai alla sezione</string>
     <string name="import_paste_hint">Incolla qui il JSON di backup</string>
     <string name="import_confirm">Ripristina</string>
     <string name="select_all">Seleziona tutto</string>

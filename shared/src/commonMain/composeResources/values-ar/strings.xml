@@ -241,9 +241,11 @@
     <string name="prophecy_second_coming_rapture_desc">عودة المسيح والقيامة واجتماع المؤمنين والغضب وأهم الآراء حول التوقيت</string>
     <!-- Data -->
     <string name="data_section">البيانات</string>
-    <string name="data_section_desc">انقل الإشارات المرجعية والآيات المحفوظة والتمييزات والتصنيفات بين الأجهزة. اضغط على تصدير لنسخ بياناتك إلى الحافظة، ثم الصقها في استيراد على جهازك الآخر. الإعدادات والتفضيلات غير مضمنة.</string>
+    <string name="data_section_desc">انقل الإشارات المرجعية والآيات المحفوظة والتمييزات والتصنيفات بين الأجهزة. اضغط على تصدير لحفظ ملف نسخة احتياطية، ثم استخدم استيراد على جهازك الآخر لفتح هذا الملف. الإعدادات والتفضيلات غير مضمنة.</string>
     <string name="export_data">تصدير</string>
     <string name="import_data">استيراد</string>
+    <string name="backup_saved">تم حفظ النسخة الاحتياطية</string>
+    <string name="jump_to_section">الانتقال إلى القسم</string>
     <string name="import_paste_hint">الصق نسخة JSON الاحتياطية هنا</string>
     <string name="import_confirm">استعادة</string>
     <string name="select_all">تحديد الكل</string>

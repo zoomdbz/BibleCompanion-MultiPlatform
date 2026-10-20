@@ -65,6 +65,13 @@ kotlin {
       implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.7.3")
       implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.9.0")
       implementation("sh.calvin.reorderable:reorderable:2.4.0")
+      // File save/open for data backup export/import (replaces the clipboard,
+      // which truncated large backups). 0.12.0 is the release built against
+      // Compose Multiplatform 1.9.x; later versions require CMP 1.10+.
+      // api (not implementation) so the :app module's MainActivity can call
+      // FileKit.init on its own ComponentActivity.
+      api("io.github.vinceglb:filekit-core:0.12.0")
+      api("io.github.vinceglb:filekit-dialogs:0.12.0")
     }
 
     commonTest.dependencies {

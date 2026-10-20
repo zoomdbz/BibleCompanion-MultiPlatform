@@ -240,9 +240,11 @@
     <string name="prophecy_second_coming_rapture_desc">Christi Wiederkunft, Auferstehung, Sammlung, Zorn und die wichtigsten Zeitmodelle</string>
     <!-- Data -->
     <string name="data_section">Daten</string>
-    <string name="data_section_desc">Übertrage deine Lesezeichen, gespeicherten Verse, Markierungen und Labels zwischen Geräten. Tippe auf Exportieren, um deine Daten in die Zwischenablage zu kopieren, und füge sie auf dem anderen Gerät in Importieren ein. Einstellungen und Präferenzen sind nicht enthalten.</string>
+    <string name="data_section_desc">Übertrage deine Lesezeichen, gespeicherten Verse, Markierungen und Labels zwischen Geräten. Tippe auf Exportieren, um eine Sicherungsdatei zu speichern, und verwende auf dem anderen Gerät Importieren, um diese Datei zu öffnen. Einstellungen und Präferenzen sind nicht enthalten.</string>
     <string name="export_data">Exportieren</string>
     <string name="import_data">Importieren</string>
+    <string name="backup_saved">Sicherung gespeichert</string>
+    <string name="jump_to_section">Zum Abschnitt springen</string>
     <string name="import_paste_hint">Backup-JSON hier einfügen</string>
     <string name="import_confirm">Wiederherstellen</string>
     <string name="select_all">Alles auswählen</string>

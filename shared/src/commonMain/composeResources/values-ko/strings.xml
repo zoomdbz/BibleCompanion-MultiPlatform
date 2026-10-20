@@ -241,9 +241,11 @@
     <string name="prophecy_second_coming_rapture_desc">그리스도의 재림, 부활, 성도의 모임, 진노와 주요 시기 견해</string>
     <!-- Data -->
     <string name="data_section">데이터</string>
-    <string name="data_section_desc">즐겨찾기, 저장된 구절, 하이라이트, 라벨을 기기 간에 전송하세요. 내보내기를 눌러 데이터를 클립보드에 복사한 다음 다른 기기의 가져오기에 붙여넣으세요. 설정과 환경 설정은 포함되지 않습니다.</string>
+    <string name="data_section_desc">즐겨찾기, 저장된 구절, 하이라이트, 라벨을 기기 간에 전송하세요. 내보내기를 눌러 백업 파일을 저장한 다음, 다른 기기의 가져오기에서 그 파일을 여세요. 설정과 환경 설정은 포함되지 않습니다.</string>
     <string name="export_data">내보내기</string>
     <string name="import_data">가져오기</string>
+    <string name="backup_saved">백업을 저장했습니다</string>
+    <string name="jump_to_section">섹션으로 이동</string>
     <string name="import_paste_hint">백업 JSON을 여기에 붙여넣기</string>
     <string name="import_confirm">복원</string>
     <string name="select_all">모두 선택</string>

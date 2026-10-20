@@ -241,9 +241,11 @@
     <string name="prophecy_second_coming_rapture_desc">El regreso de Cristo, la resurrección, la reunión, la ira y las principales posturas cronológicas</string>
     <!-- Data -->
     <string name="data_section">Datos</string>
-    <string name="data_section_desc">Transfiere tus marcadores, versículos guardados, resaltados y etiquetas entre dispositivos. Toca Exportar para copiar tus datos al portapapeles y luego pégalos en Importar en tu otro dispositivo. La configuración y las preferencias no se incluyen.</string>
+    <string name="data_section_desc">Transfiere tus marcadores, versículos guardados, resaltados y etiquetas entre dispositivos. Toca Exportar para guardar un archivo de copia de seguridad y luego usa Importar en tu otro dispositivo para abrir ese archivo. La configuración y las preferencias no se incluyen.</string>
     <string name="export_data">Exportar</string>
     <string name="import_data">Importar</string>
+    <string name="backup_saved">Copia de seguridad guardada</string>
+    <string name="jump_to_section">Ir a la sección</string>
     <string name="import_paste_hint">Pega el JSON de respaldo aquí</string>
     <string name="import_confirm">Restaurar</string>
     <string name="select_all">Seleccionar todo</string>

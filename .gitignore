@@ -98,3 +98,8 @@ GoogleService-Info.plist
 
 # Node (if ever used)
 node_modules/
+
+# Plan B: GitHub Actions iOS build, a fallback for Bitrise if the free monthly
+# build cap is exceeded. Not in use; Bitrise stays primary.
+.github/workflows/ios.yml
+iosApp/ExportOptions.plist

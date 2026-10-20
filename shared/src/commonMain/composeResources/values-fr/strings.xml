@@ -242,9 +242,11 @@
     <string name="prophecy_second_coming_rapture_desc">Le retour du Christ, la résurrection, le rassemblement, la colère et les principales chronologies</string>
     <!-- Data -->
     <string name="data_section">Données</string>
-    <string name="data_section_desc">Transférez vos signets, versets enregistrés, surlignages et étiquettes entre appareils. Appuyez sur Exporter pour copier vos données dans le presse-papiers, puis collez-les dans Importer sur votre autre appareil. Les paramètres et préférences ne sont pas inclus.</string>
+    <string name="data_section_desc">Transférez vos signets, versets enregistrés, surlignages et étiquettes entre appareils. Appuyez sur Exporter pour enregistrer un fichier de sauvegarde, puis utilisez Importer sur votre autre appareil pour ouvrir ce fichier. Les paramètres et préférences ne sont pas inclus.</string>
     <string name="export_data">Exporter</string>
     <string name="import_data">Importer</string>
+    <string name="backup_saved">Sauvegarde enregistrée</string>
+    <string name="jump_to_section">Aller à la section</string>
     <string name="import_paste_hint">Collez le JSON de sauvegarde ici</string>
     <string name="import_confirm">Restaurer</string>
     <string name="select_all">Tout sélectionner</string>

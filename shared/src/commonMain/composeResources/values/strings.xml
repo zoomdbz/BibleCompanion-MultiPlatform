@@ -178,9 +178,11 @@
 
     <!-- Data / Export -->
     <string name="data_section">Data</string>
-    <string name="data_section_desc">Transfer your bookmarks, saved verses, highlights, and labels between devices. Tap Export to copy your data to the clipboard, then paste it into Import on your other device. Settings and preferences are not included.</string>
+    <string name="data_section_desc">Transfer your bookmarks, saved verses, highlights, and labels between devices. Tap Export to save a backup file, then use Import on your other device to open that file. Settings and preferences are not included.</string>
     <string name="export_data">Export</string>
     <string name="import_data">Import</string>
+    <string name="backup_saved">Backup saved</string>
+    <string name="jump_to_section">Jump to section</string>
     <string name="import_paste_hint">Paste backup JSON here</string>
     <string name="import_confirm">Restore</string>
     <string name="cancel">Cancel</string>

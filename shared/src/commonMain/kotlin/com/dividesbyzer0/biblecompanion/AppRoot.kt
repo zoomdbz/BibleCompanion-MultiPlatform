@@ -58,6 +58,7 @@ import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowBack
 import androidx.compose.material.icons.automirrored.filled.ArrowForward
 import androidx.compose.material.icons.automirrored.filled.MenuBook
+import androidx.compose.material.icons.filled.ArrowDropDown
 import androidx.compose.material.icons.filled.AutoAwesome
 import androidx.compose.material.icons.filled.CalendarMonth
 import androidx.compose.material.icons.filled.Bookmark
@@ -106,7 +107,11 @@ import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.TimeInput
 import androidx.compose.material3.rememberTimePickerState
 import androidx.compose.material3.FilledTonalButton
-import androidx.compose.material3.AssistChip
+import io.github.vinceglb.filekit.FileKit
+import io.github.vinceglb.filekit.readString
+import io.github.vinceglb.filekit.dialogs.FileKitType
+import io.github.vinceglb.filekit.dialogs.openFilePicker
+import io.github.vinceglb.filekit.dialogs.deprecated.openFileSaver
 import androidx.compose.material3.FilterChip
 import androidx.compose.material3.HorizontalDivider
 import androidx.compose.material3.Icon
@@ -5511,19 +5516,26 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
     }
   ) { pad ->
     Column(Modifier.padding(pad)) {
-      // Quick-select: jump the long settings list to a section. Chips wrap so
-      // every section is visible at once; a single-line scroller hid the ones
-      // past the right edge with no hint they were there.
-      FlowRow(
-        Modifier.fillMaxWidth().padding(horizontal = 12.dp, vertical = 4.dp),
-        horizontalArrangement = Arrangement.spacedBy(6.dp),
-        verticalArrangement = Arrangement.spacedBy(6.dp)
-      ) {
-        for (sectionTitle in settingsSections) {
-          AssistChip(
-            onClick = { scope.launch { settingsScroll.animateScrollTo(sectionOffsets[sectionTitle] ?: 0) } },
-            label = { Text(sectionTitle, maxLines = 1, style = MaterialTheme.typography.labelMedium) }
-          )
+      // Quick-select: jump the long settings list to a section. A dropdown
+      // keeps this one row tall (the chip row wrapped to three lines on a
+      // phone and ate the screen) and lists every section, so none hide off
+      // the edge with no hint they are there.
+      var jumpMenuOpen by remember { mutableStateOf(false) }
+      Box(Modifier.fillMaxWidth().padding(horizontal = 12.dp, vertical = 4.dp)) {
+        OutlinedButton(onClick = { jumpMenuOpen = true }) {
+          Text(stringResource(Res.string.jump_to_section))
+          Icon(Icons.Filled.ArrowDropDown, contentDescription = null)
+        }
+        DropdownMenu(expanded = jumpMenuOpen, onDismissRequest = { jumpMenuOpen = false }) {
+          for (sectionTitle in settingsSections) {
+            DropdownMenuItem(
+              text = { Text(sectionTitle) },
+              onClick = {
+                jumpMenuOpen = false
+                scope.launch { settingsScroll.animateScrollTo(sectionOffsets[sectionTitle] ?: 0) }
+              }
+            )
+          }
         }
       }
       FadingScrollColumn(
@@ -6181,25 +6193,43 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
 
       var exportResult by remember { mutableStateOf<String?>(null) }
       var importResult by remember { mutableStateOf<String?>(null) }
-      var showImportDialog by remember { mutableStateOf(false) }
-      var importText by remember { mutableStateOf("") }
 
-      val copiedMsg = stringResource(Res.string.copied_to_clipboard)
-      val appNameText = stringResource(Res.string.app_name)
+      val savedMsg = stringResource(Res.string.backup_saved)
       val successMsg = stringResource(Res.string.import_success)
       val errorMsg = stringResource(Res.string.import_error)
 
       Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
         OutlinedButton(onClick = {
           scope.launch {
+            // Write the backup to a file the OS save dialog places. The old
+            // clipboard copy silently truncated large backups and lost data.
             val backup = repo.exportBackup()
-            platformCopyToClipboard(ctx, appNameText, backup)
-            exportResult = copiedMsg
+            val saved = runCatching {
+              FileKit.openFileSaver(
+                bytes = backup.encodeToByteArray(),
+                suggestedName = "biblecompanion-backup",
+                extension = "json"
+              )
+            }.getOrNull()
+            if (saved != null) exportResult = savedMsg
           }
         }) {
           Text(stringResource(Res.string.export_data))
         }
-        OutlinedButton(onClick = { showImportDialog = true }) {
+        OutlinedButton(onClick = {
+          scope.launch {
+            // Read the chosen backup file instead of a pasted blob, which
+            // choked on size the same way the clipboard export did.
+            val picked = runCatching {
+              FileKit.openFilePicker(type = FileKitType.File("json"))
+            }.getOrNull()
+            if (picked != null) {
+              val text = runCatching { picked.readString() }.getOrNull()
+              val ok = text != null && repo.importBackup(text)
+              importResult = if (ok) successMsg else errorMsg
+            }
+          }
+        }) {
           Text(stringResource(Res.string.import_data))
         }
       }
@@ -6213,36 +6243,6 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
           color = if (msg == successMsg) MaterialTheme.colorScheme.primary
                   else MaterialTheme.colorScheme.error)
         LaunchedEffect(msg) { delay(3000.milliseconds); importResult = null }
-      }
-
-      if (showImportDialog) {
-        AlertDialog(
-          onDismissRequest = { showImportDialog = false },
-          title = { Text(stringResource(Res.string.import_data)) },
-          text = {
-            OutlinedTextField(
-              value = importText,
-              onValueChange = { importText = it },
-              modifier = Modifier.fillMaxWidth().heightIn(min = 120.dp),
-              placeholder = { Text(stringResource(Res.string.import_paste_hint)) }
-            )
-          },
-          confirmButton = {
-            TextButton(onClick = {
-              scope.launch {
-                val ok = repo.importBackup(importText)
-                importResult = if (ok) successMsg else errorMsg
-                showImportDialog = false
-                importText = ""
-              }
-            }) { Text(stringResource(Res.string.import_confirm)) }
-          },
-          dismissButton = {
-            TextButton(onClick = { showImportDialog = false; importText = "" }) {
-              Text(stringResource(Res.string.cancel))
-            }
-          }
-        )
       }
 
       HorizontalDivider(Modifier.padding(vertical = 8.dp))

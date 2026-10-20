@@ -241,9 +241,11 @@
     <string name="prophecy_second_coming_rapture_desc">キリストの再臨、復活、集め、御怒り、主要な時期説</string>
     <!-- Data -->
     <string name="data_section">データ</string>
-    <string name="data_section_desc">ブックマーク・保存した節・ハイライト・ラベルを端末間で転送できます。エクスポートをタップしてクリップボードにコピーし、もう一方の端末でインポートに貼り付けてください。設定や環境設定は含まれません。</string>
+    <string name="data_section_desc">ブックマーク・保存した節・ハイライト・ラベルを端末間で転送できます。エクスポートをタップしてバックアップファイルを保存し、もう一方の端末でインポートからそのファイルを開いてください。設定や環境設定は含まれません。</string>
     <string name="export_data">エクスポート</string>
     <string name="import_data">インポート</string>
+    <string name="backup_saved">バックアップを保存しました</string>
+    <string name="jump_to_section">セクションへ移動</string>
     <string name="import_paste_hint">バックアップ JSON をここに貼り付け</string>
     <string name="import_confirm">復元</string>
     <string name="select_all">すべて選択</string>

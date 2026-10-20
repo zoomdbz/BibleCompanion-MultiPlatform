@@ -25,6 +25,8 @@ import androidx.lifecycle.lifecycleScope
 import kotlinx.coroutines.launch
 import com.dividesbyzer0.biblecompanion.platform.LocalPlatformContext
 import com.dividesbyzer0.biblecompanion.platform.normalizeLocaleTagForCompare
+import io.github.vinceglb.filekit.FileKit
+import io.github.vinceglb.filekit.dialogs.init
 
 private data class NavigationEvent(val value: String?, val id: Long)
 
@@ -65,6 +67,9 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        // Register FileKit's activity-result launchers for the backup
+        // export/import file dialogs. Must run before any dialog is shown.
+        FileKit.init(this)
         notificationPermissionRequested = savedInstanceState?.getBoolean("daily_verse_permission_requested") ?: false
         shortcutEventState.value = NavigationEvent(null, savedInstanceState?.getLong("shortcut_event_id") ?: 0L)
         deepLinkEventState.value = NavigationEvent(null, savedInstanceState?.getLong("deep_link_event_id") ?: 0L)

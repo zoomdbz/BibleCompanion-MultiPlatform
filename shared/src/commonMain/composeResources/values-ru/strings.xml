@@ -241,9 +241,11 @@
     <string name="prophecy_second_coming_rapture_desc">Возвращение Христа, воскресение, собрание верующих, гнев и основные взгляды на сроки</string>
     <!-- Data -->
     <string name="data_section">Данные</string>
-    <string name="data_section_desc">Переносите закладки, сохранённые стихи, выделения и метки между устройствами. Нажмите Экспорт, чтобы скопировать данные в буфер обмена, затем вставьте их в Импорт на другом устройстве. Настройки и предпочтения не включены.</string>
+    <string name="data_section_desc">Переносите закладки, сохранённые стихи, выделения и метки между устройствами. Нажмите Экспорт, чтобы сохранить файл резервной копии, затем используйте Импорт на другом устройстве, чтобы открыть этот файл. Настройки и предпочтения не включены.</string>
     <string name="export_data">Экспорт</string>
     <string name="import_data">Импорт</string>
+    <string name="backup_saved">Резервная копия сохранена</string>
+    <string name="jump_to_section">Перейти к разделу</string>
     <string name="import_paste_hint">Вставьте JSON резервной копии сюда</string>
     <string name="import_confirm">Восстановить</string>
     <string name="select_all">Выбрать все</string>

@@ -241,9 +241,11 @@
     <string name="prophecy_second_coming_rapture_desc">मसीह की वापसी, पुनरुत्थान, विश्वासियों का एकत्र होना, क्रोध और समय संबंधी प्रमुख मत</string>
     <!-- Data -->
     <string name="data_section">डेटा</string>
-    <string name="data_section_desc">बुकमार्क, सहेजे गए पद, हाइलाइट और लेबल को उपकरणों के बीच स्थानांतरित करें। डेटा को क्लिपबोर्ड पर कॉपी करने के लिए निर्यात पर टैप करें, फिर दूसरे उपकरण पर आयात में चिपकाएं। सेटिंग और प्राथमिकताएं शामिल नहीं हैं।</string>
+    <string name="data_section_desc">बुकमार्क, सहेजे गए पद, हाइलाइट और लेबल को उपकरणों के बीच स्थानांतरित करें। बैकअप फ़ाइल सहेजने के लिए निर्यात पर टैप करें, फिर उस फ़ाइल को खोलने के लिए दूसरे उपकरण पर आयात का उपयोग करें। सेटिंग और प्राथमिकताएं शामिल नहीं हैं।</string>
     <string name="export_data">निर्यात करें</string>
     <string name="import_data">आयात करें</string>
+    <string name="backup_saved">बैकअप सहेजा गया</string>
+    <string name="jump_to_section">अनुभाग पर जाएं</string>
     <string name="import_paste_hint">बैकअप JSON यहाँ चिपकाएँ</string>
     <string name="import_confirm">पुनर्स्थापित करें</string>
     <string name="select_all">सभी चुनें</string>

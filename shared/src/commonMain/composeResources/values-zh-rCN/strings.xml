@@ -241,9 +241,11 @@
     <string name="prophecy_second_coming_rapture_desc">基督再临、复活、信徒聚集、神的忿怒与主要时间观点</string>
     <!-- Data -->
     <string name="data_section">数据</string>
-    <string name="data_section_desc">在设备间传输您的书签、收藏经文、高亮和标签。点击导出将数据复制到剪贴板,然后在另一设备上粘贴到导入中。设置和偏好不包含在内。</string>
+    <string name="data_section_desc">在设备间传输您的书签、收藏经文、高亮和标签。点击导出以保存备份文件，然后在另一设备上使用导入打开该文件。设置和偏好不包含在内。</string>
     <string name="export_data">导出</string>
     <string name="import_data">导入</string>
+    <string name="backup_saved">备份已保存</string>
+    <string name="jump_to_section">快速跳转</string>
     <string name="import_paste_hint">在此粘贴备份 JSON</string>
     <string name="import_confirm">恢复</string>
     <string name="select_all">全选</string>
