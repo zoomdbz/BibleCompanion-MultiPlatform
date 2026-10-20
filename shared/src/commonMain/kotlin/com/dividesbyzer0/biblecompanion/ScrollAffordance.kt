@@ -12,6 +12,7 @@ import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
+import androidx.compose.foundation.ScrollState
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
@@ -37,13 +38,13 @@ import androidx.compose.ui.unit.dp
 @Composable
 fun FadingScrollColumn(
   modifier: Modifier = Modifier,
+  scrollState: ScrollState = rememberScrollState(),
   contentPadding: PaddingValues = PaddingValues(16.dp),
   verticalArrangement: Arrangement.Vertical = Arrangement.spacedBy(12.dp),
   horizontalAlignment: Alignment.Horizontal = Alignment.Start,
   fadeHeight: Dp = 64.dp,
   content: @Composable ColumnScope.() -> Unit
 ) {
-  val scrollState = rememberScrollState()
   val surface = MaterialTheme.colorScheme.background
   val bottomAlpha by animateFloatAsState(
     targetValue = if (scrollState.canScrollForward) 1f else 0f,

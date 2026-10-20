@@ -80,16 +80,17 @@ internal fun ReaderChapterSheet(
                     }
                 }
             }
-            SingleChoiceSegmentedButtonRow(Modifier.fillMaxWidth()) {
-                SegmentedButton(selected = !verseTab, onClick = { verseTab = false },
+            SingleChoiceSegmentedButtonRow(Modifier.fillMaxWidth().height(IntrinsicSize.Max)) {
+                SegmentedButton(modifier = Modifier.fillMaxHeight(), selected = !verseTab, onClick = { verseTab = false },
                     shape = SegmentedButtonDefaults.itemShape(0, 2)) {
                     Text(stringResource(Res.string.ui_chapters))
                 }
-                SegmentedButton(selected = verseTab, onClick = { verseTab = true },
+                SegmentedButton(modifier = Modifier.fillMaxHeight(), selected = verseTab, onClick = { verseTab = true },
                     shape = SegmentedButtonDefaults.itemShape(1, 2)) {
                     Text(stringResource(Res.string.ui_verses))
                 }
             }
+
             Spacer(Modifier.height(12.dp))
             if (verseTab) {
                 FlowRow(

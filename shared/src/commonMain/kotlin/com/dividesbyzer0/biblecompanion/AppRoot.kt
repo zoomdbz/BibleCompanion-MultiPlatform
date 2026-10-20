@@ -106,6 +106,7 @@ import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.TimeInput
 import androidx.compose.material3.rememberTimePickerState
 import androidx.compose.material3.FilledTonalButton
+import androidx.compose.material3.AssistChip
 import androidx.compose.material3.FilterChip
 import androidx.compose.material3.HorizontalDivider
 import androidx.compose.material3.Icon
@@ -175,6 +176,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.layout.onGloballyPositioned
 import androidx.compose.ui.layout.onSizeChanged
+import androidx.compose.ui.layout.positionInParent
 import androidx.compose.ui.layout.positionInRoot
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavType
@@ -4507,18 +4509,21 @@ fun SavedItemsScreen(
     }
   ) { pad ->
     Column(Modifier.padding(pad)) {
-      SingleChoiceSegmentedButtonRow(Modifier.fillMaxWidth().padding(horizontal = 16.dp)) {
+      SingleChoiceSegmentedButtonRow(Modifier.fillMaxWidth().height(IntrinsicSize.Max).padding(horizontal = 16.dp)) {
         SegmentedButton(
+          modifier = Modifier.fillMaxHeight(),
           selected = selectedTab == 0,
           onClick = { selectedTab = 0 },
           shape = SegmentedButtonDefaults.itemShape(index = 0, count = 3)
         ) { Text(stringResource(Res.string.bookmarks_tab), maxLines = 2, style = MaterialTheme.typography.labelSmall) }
         SegmentedButton(
+          modifier = Modifier.fillMaxHeight(),
           selected = selectedTab == 1,
           onClick = { selectedTab = 1 },
           shape = SegmentedButtonDefaults.itemShape(index = 1, count = 3)
         ) { Text(stringResource(Res.string.saved_verses_tab), maxLines = 2, style = MaterialTheme.typography.labelSmall) }
         SegmentedButton(
+          modifier = Modifier.fillMaxHeight(),
           selected = selectedTab == 2,
           onClick = { selectedTab = 2 },
           shape = SegmentedButtonDefaults.itemShape(index = 2, count = 3)
@@ -4589,13 +4594,15 @@ fun SavedItemsScreen(
                 repo.reorderBookmarks(reordered)
               }
             }
-            SingleChoiceSegmentedButtonRow(Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 8.dp)) {
+            SingleChoiceSegmentedButtonRow(Modifier.fillMaxWidth().height(IntrinsicSize.Max).padding(horizontal = 16.dp, vertical = 8.dp)) {
               SegmentedButton(
+                modifier = Modifier.fillMaxHeight(),
                 selected = sortMode == "auto",
                 onClick = { scope.launch { repo.setBookmarkSort("auto") } },
                 shape = SegmentedButtonDefaults.itemShape(index = 0, count = 2)
               ) { Text(stringResource(Res.string.saved_sort_auto), maxLines = 2, style = MaterialTheme.typography.labelSmall) }
               SegmentedButton(
+                modifier = Modifier.fillMaxHeight(),
                 selected = isCustom,
                 onClick = { scope.launch { repo.setBookmarkSort("custom") } },
                 shape = SegmentedButtonDefaults.itemShape(index = 1, count = 2)
@@ -4742,13 +4749,15 @@ fun SavedItemsScreen(
               }
             }
 
-            SingleChoiceSegmentedButtonRow(Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 8.dp)) {
+            SingleChoiceSegmentedButtonRow(Modifier.fillMaxWidth().height(IntrinsicSize.Max).padding(horizontal = 16.dp, vertical = 8.dp)) {
               SegmentedButton(
+                modifier = Modifier.fillMaxHeight(),
                 selected = sortMode == "auto",
                 onClick = { scope.launch { repo.setSavedVerseSort("auto") } },
                 shape = SegmentedButtonDefaults.itemShape(index = 0, count = 2)
               ) { Text(stringResource(Res.string.saved_sort_auto), maxLines = 2, style = MaterialTheme.typography.labelSmall) }
               SegmentedButton(
+                modifier = Modifier.fillMaxHeight(),
                 selected = isCustom,
                 onClick = { scope.launch { repo.setSavedVerseSort("custom") } },
                 shape = SegmentedButtonDefaults.itemShape(index = 1, count = 2)
@@ -4936,6 +4945,22 @@ fun SavedItemsScreen(
                   }
                   AnimatedVisibility(visible = editingLabel?.id == lbl.id) {
                     Column(Modifier.padding(top = 8.dp)) {
+                      // Recolor this label in place; its id and every verse tagged with it are kept.
+                      FlowRow(
+                        horizontalArrangement = Arrangement.spacedBy(6.dp),
+                        verticalArrangement = Arrangement.spacedBy(6.dp),
+                        modifier = Modifier.padding(bottom = 8.dp)
+                      ) {
+                        for (c in colorOptions) {
+                          Surface(
+                            onClick = { scope.launch { repo.updateLabel(lbl.id, lbl.name, c) } },
+                            shape = CircleShape,
+                            color = labelColor(c),
+                            border = if (c == lbl.color) BorderStroke(2.dp, MaterialTheme.colorScheme.onSurface) else null,
+                            modifier = Modifier.size(32.dp)
+                          ) {}
+                        }
+                      }
                       if (versesWithLabel.isEmpty()) {
                         Text(
                           stringResource(Res.string.no_labels_yet),
@@ -5316,6 +5341,17 @@ private fun ttsBuildManuscriptVariantsText(story: Story): String = buildString {
 @Composable
 fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
   val scope = rememberCoroutineScope()
+  val settingsScroll = rememberScrollState()
+  val sectionOffsets = remember { mutableStateMapOf<String, Int>() }
+  val secAppearance = stringResource(Res.string.appearance)
+  val secContent = stringResource(Res.string.content_section)
+  val secSearch = stringResource(Res.string.search_section)
+  val secDaily = stringResource(Res.string.daily_notification_title)
+  val secAccessibility = stringResource(Res.string.accessibility_section)
+  val secTts = stringResource(Res.string.tts_section)
+  val secData = stringResource(Res.string.data_section)
+  val secSupport = stringResource(Res.string.support)
+  val settingsSections = listOf(secAppearance, secContent, secSearch, secDaily, secAccessibility, secTts, secData, secSupport)
   val ctx = LocalPlatformContext.current
   val notificationPermissionDenied by DailyVerseNotificationBridge.permissionRequestDenied.collectAsState()
   var notificationPermissionPending by remember { mutableStateOf(false) }
@@ -5330,9 +5366,10 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
       title = { Text(stringResource(Res.string.daily_notification_time)) },
       text = {
         Column(verticalArrangement = Arrangement.spacedBy(20.dp)) {
-          SingleChoiceSegmentedButtonRow(Modifier.fillMaxWidth()) {
+          SingleChoiceSegmentedButtonRow(Modifier.fillMaxWidth().height(IntrinsicSize.Max)) {
             listOf(false, true).forEachIndexed { index, format24Hour ->
               SegmentedButton(
+                modifier = Modifier.fillMaxHeight(),
                 selected = use24Hour == format24Hour,
                 onClick = {
                   time.is24hour = format24Hour
@@ -5473,13 +5510,30 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
       )
     }
   ) { pad ->
-    FadingScrollColumn(
-      modifier = Modifier.padding(pad),
-      contentPadding = PaddingValues(16.dp),
-      verticalArrangement = Arrangement.spacedBy(8.dp)
-    ) {
+    Column(Modifier.padding(pad)) {
+      // Quick-select: jump the long settings list to a section. Chips wrap so
+      // every section is visible at once; a single-line scroller hid the ones
+      // past the right edge with no hint they were there.
+      FlowRow(
+        Modifier.fillMaxWidth().padding(horizontal = 12.dp, vertical = 4.dp),
+        horizontalArrangement = Arrangement.spacedBy(6.dp),
+        verticalArrangement = Arrangement.spacedBy(6.dp)
+      ) {
+        for (sectionTitle in settingsSections) {
+          AssistChip(
+            onClick = { scope.launch { settingsScroll.animateScrollTo(sectionOffsets[sectionTitle] ?: 0) } },
+            label = { Text(sectionTitle, maxLines = 1, style = MaterialTheme.typography.labelMedium) }
+          )
+        }
+      }
+      FadingScrollColumn(
+        scrollState = settingsScroll,
+        modifier = Modifier.weight(1f),
+        contentPadding = PaddingValues(16.dp),
+        verticalArrangement = Arrangement.spacedBy(8.dp)
+      ) {
       // ─── APPEARANCE SECTION ───
-      SectionHeader(stringResource(Res.string.appearance))
+      SectionHeader(stringResource(Res.string.appearance), sectionOffsets)
 
       // Theme
       Text(stringResource(Res.string.theme), style = MaterialTheme.typography.titleSmall)
@@ -5806,7 +5860,7 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
       HorizontalDivider(Modifier.padding(vertical = 8.dp))
 
       // ─── CONTENT SECTION ───
-      SectionHeader(stringResource(Res.string.content_section))
+      SectionHeader(stringResource(Res.string.content_section), sectionOffsets)
 
       // Language
       Text(stringResource(Res.string.language), style = MaterialTheme.typography.titleSmall)
@@ -5928,9 +5982,10 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
         stringResource(Res.string.reader_biblecom),
         stringResource(Res.string.reader_biblegateway)
       )
-      SingleChoiceSegmentedButtonRow(Modifier.fillMaxWidth()) {
+      SingleChoiceSegmentedButtonRow(Modifier.fillMaxWidth().height(IntrinsicSize.Max)) {
         readerModes.forEachIndexed { idx, mode ->
           SegmentedButton(
+            modifier = Modifier.fillMaxHeight(),
             selected = prefs.readerMode == mode,
             onClick = {
               if (prefs.readerMode != mode) {
@@ -6010,9 +6065,10 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
           )
           val shareProviders = listOf("biblecom" to "Bible.com", "biblegateway" to "Bible Gateway")
           val selectedShareProvider = normalizeVerseShareProvider(prefs.verseShareProvider)
-          SingleChoiceSegmentedButtonRow(Modifier.fillMaxWidth()) {
+          SingleChoiceSegmentedButtonRow(Modifier.fillMaxWidth().height(IntrinsicSize.Max)) {
             shareProviders.forEachIndexed { index, (provider, label) ->
               SegmentedButton(
+                modifier = Modifier.fillMaxHeight(),
                 selected = selectedShareProvider == provider,
                 onClick = { scope.launch { repo.setVerseShareProvider(provider) } },
                 shape = SegmentedButtonDefaults.itemShape(index = index, count = shareProviders.size)
@@ -6039,7 +6095,7 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
       HorizontalDivider(Modifier.padding(vertical = 8.dp))
 
       // ─── SEARCH SECTION ───
-      SectionHeader(stringResource(Res.string.search_section))
+      SectionHeader(stringResource(Res.string.search_section), sectionOffsets)
       SettingsSwitch(stringResource(Res.string.ai_search), prefs.aiSearch) {
         scope.launch { repo.setAiSearch(it) }
       }
@@ -6052,7 +6108,7 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
       HorizontalDivider(Modifier.padding(vertical = 8.dp))
 
       // Daily notifications remain between Search and Accessibility.
-      SectionHeader(stringResource(Res.string.daily_notification_title))
+      SectionHeader(stringResource(Res.string.daily_notification_title), sectionOffsets)
       SettingsSwitch(stringResource(Res.string.daily_notification_toggle), prefs.dailyVerseNotifications) { enabled ->
         if (!notificationPermissionPending) {
           if (!enabled) {
@@ -6090,7 +6146,7 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
       HorizontalDivider(Modifier.padding(vertical = 8.dp))
 
       // ─── ACCESSIBILITY SECTION ───
-      SectionHeader(stringResource(Res.string.accessibility_section))
+      SectionHeader(stringResource(Res.string.accessibility_section), sectionOffsets)
       SettingsSwitch(stringResource(Res.string.haptic_feedback), prefs.hapticEnabled) {
         scope.launch { repo.setHapticEnabled(it) }
       }
@@ -6101,7 +6157,7 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
       HorizontalDivider(Modifier.padding(vertical = 8.dp))
 
       // ─── TEXT-TO-SPEECH SECTION ───
-      SectionHeader(stringResource(Res.string.tts_section))
+      SectionHeader(stringResource(Res.string.tts_section), sectionOffsets)
       SettingsSwitch(stringResource(Res.string.tts_auto_continue), prefs.autoContinueTts) {
         scope.launch { repo.setAutoContinueTts(it) }
       }
@@ -6115,7 +6171,7 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
       HorizontalDivider(Modifier.padding(vertical = 8.dp))
 
       // ─── DATA SECTION ───
-      SectionHeader(stringResource(Res.string.data_section))
+      SectionHeader(stringResource(Res.string.data_section), sectionOffsets)
       Text(
         stringResource(Res.string.data_section_desc),
         style = MaterialTheme.typography.bodySmall,
@@ -6192,7 +6248,7 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
       HorizontalDivider(Modifier.padding(vertical = 8.dp))
 
       // ─── SUPPORT SECTION ───
-      SectionHeader(stringResource(Res.string.support))
+      SectionHeader(stringResource(Res.string.support), sectionOffsets)
 
       OutlinedButton(
         onClick = {
@@ -6223,16 +6279,19 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
         Text(stringResource(Res.string.share_app))
       }
     }
+    }
   }
 }
 
 @Composable
-private fun SectionHeader(text: String) {
+private fun SectionHeader(text: String, offsets: MutableMap<String, Int>? = null) {
   Text(
     text,
     style = MaterialTheme.typography.titleMedium,
     color = MaterialTheme.colorScheme.primary,
-    modifier = Modifier.padding(bottom = 4.dp)
+    modifier = Modifier
+      .onGloballyPositioned { offsets?.put(text, it.positionInParent().y.toInt()) }
+      .padding(bottom = 4.dp)
   )
 }
 
