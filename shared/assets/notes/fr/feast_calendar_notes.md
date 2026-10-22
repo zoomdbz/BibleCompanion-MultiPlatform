@@ -44,4 +44,6 @@ Ces observances se situent en dehors de la grille mensuelle, mais font néanmoin
 
 ## Genèse 1:14
 
-« Dieu dit : Qu'il y ait des luminaires dans l'étendue du ciel, pour séparer le jour d'avec la nuit ; que ce soient des **signes** pour marquer les **saisons** (*moadim* : les temps fixés), les jours et les années. » Les corps célestes ont été créés, en partie, pour marquer le calendrier des fêtes de Dieu.
+> Dieu dit : Qu'il y ait des luminaires dans la voûte céleste pour séparer le jour et la nuit ! Qu'ils servent de signes pour marquer les rencontres festives, les jours et les années.
+
+Le mot hébreu rendu ici par « rencontres festives » est *moadim*, qui désigne des temps fixés, notamment les fêtes bibliques. Les luminaires marquent ces temps.

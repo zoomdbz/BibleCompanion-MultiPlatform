@@ -12,7 +12,7 @@ Esta é a floresta além das árvores. O evangelho não trata de se fixar em qua
 
 A graça não é uma licença para continuar vivendo como quisermos; é o poder que nos liberta para vivermos de modo diferente. Jesus não condenou os quebrantados, mas também lhes disse para deixarem sua vida antiga. **A verdadeira fé** não é apenas acreditar que Ele existe, mas confiar nele o suficiente para segui-lo, afastando-se do pecado, aprendendo a andar em seu caminho e dependendo de seu Espírito para a força. A graça perdoa o nosso passado, mas também nos chama para um novo futuro.
 
-> **«Pois a graça de Deus se manifestou, trazendo salvação a todos os homens, educando-nos para que, renegando a impiedade e as paixões mundanas, vivamos no presente século de modo sensato, justo e piedoso, aguardando a bendita esperança e a manifestação da glória do nosso grande Deus e Salvador Cristo Jesus, o qual a si mesmo se deu por nós, a fim de nos remir de toda iniquidade e purificar, para si mesmo, um povo exclusivamente seu, zeloso de boas obras» (Tito 2:11–14).**
+> **«Pois a graça de Deus foi revelada e a todos traz salvação. Somos instruídos a abandonar o estilo de vida ímpio e os prazeres pecaminosos. Neste mundo perverso, devemos viver com sabedoria, justiça e devoção, enquanto aguardamos esperançosamente o dia em que será revelada a glória de nosso grande Deus e Salvador, Jesus Cristo. Ele entregou sua vida para nos libertar de todo pecado, para nos purificar e fazer de nós seu povo, inteiramente dedicado às boas obras.» (Tito 2:11–14).**
 
 ### Outras Escrituras de apoio
 

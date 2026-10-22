@@ -12,7 +12,7 @@ Questa è la foresta oltre gli alberi. Il vangelo non riguarda l’ossessione su
 
 La grazia non è una licenza per continuare a vivere come vogliamo; è la potenza che ci libera per vivere in modo diverso. Gesù non condannò i feriti, ma disse anche loro di lasciare la loro vecchia vita. **La vera fede** non è solo credere che Egli esiste, ma fidarsi di Lui abbastanza da seguirlo, allontanandosi dal peccato, imparando a camminare nella Sua via e dipendendo dal Suo Spirito per la forza. La grazia perdona il nostro passato, ma ci chiama anche a un futuro nuovo.
 
-> **«Infatti la grazia di Dio, apportatrice di salvezza per tutti gli uomini, è apparsa, e ci insegna a rinunciare all’empietà e alle passioni mondane, e a vivere in questo mondo moderatamente, giustamente e in modo santo, nell’attesa della beata speranza e della manifestazione della gloria del nostro grande Dio e Salvatore, Cristo Gesù, che ha dato se stesso per noi, per riscattarci da ogni iniquità e purificarsi un popolo che gli appartenga, zelante nelle opere buone» (Tito 2:11–14).**
+> **«Infatti la grazia di Dio, salvifica per tutti gli uomini, si è manifestata, e ci insegna a rinunciare all’empietà e alle passioni mondane, per vivere in questo mondo moderatamente, giustamente e in modo santo, aspettando la beata speranza e l’apparizione della gloria del nostro grande Dio e Salvatore, Cristo Gesù. Egli ha dato se stesso per noi per riscattarci da ogni iniquità e purificarsi un popolo che gli appartenga, zelante nelle opere buone.» (Tito 2:11–14).**
 
 ### Altri versetti di sostegno
 

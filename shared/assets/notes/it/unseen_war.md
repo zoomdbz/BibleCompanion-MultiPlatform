@@ -22,7 +22,7 @@ Dietro ogni falso dio c’è una potenza che si oppone al Signore.
 
 - **(Efesini 6:12)** – «Le forze spirituali della malvagità nei luoghi celesti.» *(il campo di battaglia degli spiriti)*  
 
-- **(2 Corinzi 12:2–4)** – «Fu rapito fino al terzo cielo… nel Paradiso.» *(la dimora di Dio)*  
+- **(2 Corinzi 12:2–4)** – «Conosco un uomo in Cristo che quattordici anni fa (se fu con il corpo non so, se fu senza il corpo non so, Dio lo sa) fu rapito fino al terzo cielo. So che quell’uomo (se fu con il corpo o senza il corpo non so, Dio lo sa) fu rapito in paradiso e udì parole ineffabili che non è lecito all’uomo pronunciare.» *(la dimora di Dio)*
 
 **Conclusione (Scrittura):** La Bibbia identifica più cieli: il cielo visibile (Genesi 1:8), la sfera di conflitto spirituale (Daniele 10:13; Ef 6:12) e il luogo della dimora di Dio (2 Corinzi 12:2–4).  
 
@@ -31,11 +31,11 @@ Dietro ogni falso dio c’è una potenza che si oppone al Signore.
 ## 2. Principati e Potestà  
 **Significato semplice:** Esistono potenze malvagie organizzate che si oppongono al popolo di Dio; Cristo ha l'autorità suprema su di esse.  
 
-- **(Efesini 6:12)** – «Noi lottiamo… contro i dominatori di questo mondo di tenebre.»  
+- **(Efesini 6:12)** – «il nostro combattimento infatti non è contro sangue e carne, ma contro i principati, contro le potenze, contro i dominatori di questo mondo di tenebre, contro le forze spirituali della malvagità, che sono nei luoghi celesti.»
 
 - **(Colossesi 2:15)** – Cristo «ha spogliato i principati e le potestà.»  
 
-- **(Daniele 10:20)** – «Il principe di Persia… il principe di Grecia.»  
+- **(Daniele 10:20)** – «Egli disse: “Sai perché sono venuto da te? Ora torno a lottare con il re di Persia; e quando uscirò a combattere, verrà il principe di Grecia.»
 
 **Conclusione (Scrittura):** La Bibbia dichiara che i dominatori invisibili si oppongono al popolo di Dio (Ef 6:12; Dan 10:20), ma Cristo ha tolto loro il potere finale (Colossesi 2:15).  
 
@@ -55,7 +55,7 @@ Dietro ogni falso dio c’è una potenza che si oppone al Signore.
 
 - **Alcuni angeli già incatenati:**  
 
-  - **(2 Pietro 2:4)** – «Dio non risparmiò gli angeli che avevano peccato… ma li consegnò agli abissi.»  
+  - **(2 Pietro 2:4)** – «Se Dio infatti non risparmiò gli angeli che avevano peccato, ma li inabissò, confinandoli in antri tenebrosi per esservi custoditi per il giudizio;»
 
   - **Giuda 6** – «Sono custoditi nelle tenebre con catene eterne.»  
 
@@ -141,7 +141,7 @@ L’idolatria nella Scrittura non riguarda solo gli dèi antichi, ma anche l’e
 
 - **(Atti 10:25–26)** – Quando Cornelio si prostrò davanti a Pietro, Pietro lo rialzò dicendo: «Alzati; anch’io sono un uomo.»  
 
-- **(Esodo 20:4–5)** – «Non ti farai scultura né immagine… non ti prostrerai davanti a loro e non le servirai.»  
+- **(Esodo 20:4–5)** – «Non farti scultura, né immagine alcuna delle cose che sono lassù nel cielo o quaggiù sulla terra o nelle acque sotto la terra. Non ti prostrare davanti a loro e non li servire, perché io, il Signore, il tuo Dio, sono un Dio geloso; punisco l’iniquità dei padri sui figli fino alla terza e alla quarta generazione di quelli che mi odiano,»
 
 Anche i santi più fedeli sono esempi di fede, non mediatori. L’adorazione, la preghiera e la devozione appartengono a Dio solo.  
 
@@ -171,9 +171,9 @@ Anche i santi più fedeli sono esempi di fede, non mediatori. L’adorazione, la
 ## 5. Miti Sumerici e i Nephilim  
 **Significato semplice:** La Bibbia non nomina «Sumer», ma nomina **Babele** e collega i primi regni e la ribellione alla corruzione spirituale.  
 
-- **(Genesi 6:1–4)** – «I figli di Dio… i Nephilim erano sulla terra.»  
+- **(Genesi 6:1–4)** – «Quando gli uomini cominciarono a moltiplicarsi sulla faccia della terra e furono loro nate delle figlie, avvenne che i figli di Dio videro che le figlie degli uomini erano belle e presero per mogli quelle che si scelsero fra tutte. Il Signore disse: «Lo Spirito mio non contenderà per sempre con l’uomo poiché, nel suo traviamento, egli non è che carne; i suoi giorni dureranno quindi centoventi anni». In quel tempo c’erano sulla terra i giganti, e ci furono anche in seguito, quando i figli di Dio si unirono alle figlie degli uomini, ed ebbero da loro dei figli. Questi sono gli uomini potenti che, fin dai tempi antichi, sono stati famosi.»
 
-- **(Genesi 10:8–12)** – Nimrod… il suo regno cominciò con Babele.  
+- **(Genesi 10:8–12)** – «Cus generò Nimrod, che cominciò a essere potente sulla terra. Egli fu un potente cacciatore davanti al Signore; perciò si dice: «Come Nimrod, potente cacciatore davanti al Signore». Il principio del suo regno fu Babel, Erec, Accad e Calne nel paese di Scinear. Da quel paese andò in Assiria e costruì Ninive, Recobot-Ir e Cala; e tra Ninive e Cala, Resen, la grande città.»
 
 - **(Genesi 11:1–9)** – La torre di Babele: ribellione dell’uomo.  
 
@@ -288,13 +288,13 @@ Il Corano onora Gesù (*ʿĪsā*) come profeta, ma nega la sua crocifissione e r
 #### Obiezione 1: La Bibbia è stata corrotta
 Il Corano stesso conferma la Torà e il Vangelo come rivelazioni autentiche.
 
-**Corano 5:44 (Sahih International)**
+**Corano 5:44 (tradotto da Sahih International)**
 > «In verità abbiamo fatto scendere la Torà, in cui c’erano guida e luce. I profeti che si erano sottomessi [ad Allah] giudicavano per mezzo di essa i Giudei, come facevano i rabbini e i dotti in virtù di ciò che della Scrittura di Allah era stato affidato loro, e ne erano testimoni.»
 
-**Corano 5:46 (Sahih International)**
+**Corano 5:46 (tradotto da Sahih International)**
 > «E abbiamo mandato, seguendo le loro orme, Gesù figlio di Maria, confermando ciò che era venuto prima di lui nella Torà; e gli abbiamo dato il Vangelo, in cui c’erano guida e luce, che confermava ciò che lo precedeva della Torà come guida e istruzione per i giusti.»
 
-**Corano 10:94 (Sahih International)**
+**Corano 10:94 (tradotto da Sahih International)**
 > «Se dunque sei in dubbio, [o Maometto], riguardo a ciò che ti abbiamo rivelato, chiedi a coloro che leggevano la Scrittura prima di te. La verità ti è certamente giunta dal tuo Signore; non essere dunque tra coloro che dubitano.»
 
 La Bibbia afferma la propria conservazione.
@@ -335,14 +335,14 @@ La Bibbia afferma la propria conservazione.
 
 L’Islam rispetta Gesù (*ʿĪsā*) come profeta, ma nega la sua divinità, la sua figliolanza e la crocifissione.
 
-**Corano 4:171 (Sahih International)**
+**Corano 4:171 (tradotto da Sahih International)**
 > «O gente della Scrittura, non eccedete nella vostra religione e non dite di Allah altro che la verità. Il Messia, Gesù figlio di Maria, non era che un messaggero di Allah, la Sua parola che Egli rivolse a Maria e uno spirito [creato per Suo comando] proveniente da Lui. Credete dunque in Allah e nei Suoi messaggeri. Non dite: “Tre”; desistete, è meglio per voi. Allah è un solo Dio. Esaltato è Lui dall’avere un figlio.»
 
 La Bibbia identifica Gesù come Figlio eterno di Dio, uguale al Padre.
 
 **(Giovanni 1:1-14)**
 
-> «Nel principio era la Parola… la Parola è diventata carne.»
+> «Nel principio era la Parola, la Parola era con Dio, e la Parola era Dio. Essa era nel principio con Dio. Ogni cosa è stata fatta per mezzo di lei, e senza di lei neppure una delle cose fatte è stata fatta. In lei era la vita, e la vita era la luce degli uomini. La luce splende nelle tenebre, e le tenebre non l’hanno sopraffatta. Vi fu un uomo mandato da Dio, il cui nome era Giovanni; egli venne come testimone per rendere testimonianza alla luce, affinché tutti credessero per mezzo di lui. Egli stesso non era la luce, ma venne per rendere testimonianza alla luce. La vera luce che illumina ogni uomo stava venendo nel mondo. Egli era nel mondo, e il mondo fu fatto per mezzo di lui, ma il mondo non l’ha conosciuto. È venuto in casa sua, e i suoi non l’hanno ricevuto; ma a tutti quelli che l’hanno ricevuto egli ha dato il diritto di diventare figli di Dio, a quelli cioè che credono nel suo nome, i quali non sono nati da sangue, né da volontà di carne, né da volontà d’uomo, ma sono nati da Dio. E la Parola è diventata carne e ha abitato per un tempo fra di noi, piena di grazia e di verità; e noi abbiamo contemplato la sua gloria, gloria come di unigenito dal Padre.»
 
 **(Colossesi 2:9)**
 > «Poiché in lui abita corporalmente tutta la pienezza della Deità.»
@@ -371,7 +371,7 @@ La dottrina della Trinità afferma un solo Dio in tre Persone.
 
 Il Corano **4:157** nega la crocifissione, ma l’evento è così ben attestato da **fonti storiche laiche non cristiane** che persino storici scettici lo accettano come fatto.
 
-**Corano 4:157 (Sahih International)**
+**Corano 4:157 (tradotto da Sahih International)**
 
 > *«E per aver detto: “Abbiamo ucciso il Messia, Gesù figlio di Maria, il messaggero di Allah”. Ma non l’hanno ucciso né crocifisso; un altro fu reso simile a lui ai loro occhi. In verità, coloro che dissentono su questo ne sono nel dubbio. Non ne hanno conoscenza, ma seguono soltanto supposizioni. Di certo non l’hanno ucciso.»*
 
@@ -425,7 +425,7 @@ Questo è storicamente falso. Le prove sono schiaccianti:
 
 - Fonti islamiche ammettono che ʿUthmān bruciò varianti del Corano.
 
-- **Sahih al-Bukhari 4987**: «ʿUthmān inviò a ogni provincia musulmana una copia di ciò che avevano trascritto e ordinò che tutto il restante materiale coranico… fosse bruciato.»
+- **Sahih al-Bukhari 4987**: «ʿUthmān inviò a ogni provincia musulmana una copia di ciò che avevano trascritto e ordinò che tutto il restante materiale coranico, scritto su fogli sparsi o in copie complete, fosse bruciato.»
 
 Se il Corano non avesse mai avuto varianti, perché era necessario bruciare?
 
@@ -436,11 +436,11 @@ Se il Corano non avesse mai avuto varianti, perché era necessario bruciare?
 
 Questo crea una trappola: implica che il Corano non sia sufficiente in sé, benché affermi di essere guida chiara.
 
-**Corano 16:89 (Sahih International)**
+**Corano 16:89 (tradotto da Sahih International)**
 
 > «Abbiamo fatto scendere su di te il Libro come chiarimento di ogni cosa, guida, misericordia e buona novella per i musulmani.»
 
-**Corano 6:114 (Sahih International)**
+**Corano 6:114 (tradotto da Sahih International)**
 
 > «Cercherò forse un altro giudice all’infuori di Allah, mentre è Lui che vi ha rivelato il Libro spiegato in dettaglio?»
 
@@ -480,8 +480,8 @@ Questa obiezione crolla di fronte sia alla Scrittura sia alla storia laica:
 #### Visione dell’Islam
 Nell’Islam la salvezza dipende dalla bilancia delle opere; le buone devono pesare più delle cattive, e in definitiva Allah può concedere o negare misericordia.
 
-**Corano 23:102–103 (Sahih International)**
-> «Coloro la cui bilancia sarà pesante; saranno essi i riusciti; e coloro la cui bilancia sarà leggera; avranno perduto se stessi; staranno nell’Inferno in eterno.»
+**Corano 23:102–103 (tradotto da Sahih International)**
+> «Allora coloro la cui bilancia sarà pesante [di opere buone], saranno essi i vincitori. Ma coloro la cui bilancia sarà leggera, saranno quelli che avranno perduto le loro anime, [restando] nell’Inferno in eterno.»
 
 Questo riflette un sistema di salvezza basato sulle opere.
 
@@ -495,7 +495,7 @@ La Legge è santa e rivela lo standard di Dio; ma nessun uomo l’ha adempiuta p
 > «Tutti hanno peccato e sono privi della gloria di Dio.»
 
 **(Galati 3:10)**
-> «Quanti si fondano sulle opere della legge sono sotto maledizione… “Maledetto chiunque non persevera in tutte le cose scritte nel libro della legge per metterle in pratica.”»
+> «Infatti tutti quelli che si basano sulle opere della legge sono sotto maledizione, perché è scritto: «Maledetto chiunque non si attiene a tutte le cose scritte nel libro della legge per metterle in pratica».»
 
 **(Galati 3:24)**
 > «La legge è stata un pedagogo per condurci a Cristo, affinché fossimo giustificati per fede.»
@@ -536,7 +536,7 @@ La Torà proibisce lo sfruttamento dei minori, chiamandolo malvagio.
 I bambini non possono acconsentire; la consumazione è sfruttamento e coercizione.
 
 #### 2) Poligamia oltre i limiti
-**Corano 4:3 (Sahih International)**
+**Corano 4:3 (tradotto da Sahih International)**
 > «E se temete di non essere giusti con le orfane, sposate fra le [altre] donne quelle che vi piacciono, due, tre o quattro. Ma se temete di non essere giusti, allora [sposatene] una sola o quelle che la vostra mano destra possiede. Questo è più adatto affinché non incliniate [all’ingiustizia].»
 
 Maometto prese più di quattro mogli, superando il limite del Corano e la proibizione della Torà.
@@ -545,7 +545,7 @@ Maometto prese più di quattro mogli, superando il limite del Corano e la proibi
 > «Non abbia molte mogli, affinché il suo cuore non si svii, e non accumuli per sé argento e oro in quantità eccessiva.»
 
 #### 3) Moglie del figlio adottivo
-**Corano 33:37 (Sahih International)**
+**Corano 33:37 (tradotto da Sahih International)**
 > «E [ricorda, o Muhammad] quando dicevi a colui che Allah aveva favorito e che tu avevi favorito: “Tieni con te tua moglie e temi Allah”, mentre nascondevi dentro di te ciò che Allah avrebbe rivelato. Temevi la gente, mentre Allah ha più diritto di essere temuto da te. Quando poi Zayd non ebbe più bisogno di lei, te la demmo in moglie, affinché i credenti non provassero alcun disagio riguardo alle mogli dei loro figli adottivi quando questi non ne hanno più bisogno. E il comando di Allah è sempre adempiuto.»
 
 La Torà proibisce unione del genere.
@@ -554,7 +554,7 @@ La Torà proibisce unione del genere.
 > «Non scoprirai la nudità di tua nuora; è la moglie di tuo figlio, non scoprirai la sua nudità.»
 
 #### 4) Violenza e conversioni forzate
-**Corano 9:5 (Sahih International)**
+**Corano 9:5 (tradotto da Sahih International)**
 > «Quando saranno trascorsi i mesi sacri, uccidete i politeisti ovunque li troviate, catturateli, assediateli e appostatevi contro di loro in ogni luogo d’agguato. Ma se si pentono, stabiliscono la preghiera e danno la zakat, lasciateli andare per la loro strada. In verità Allah è perdonatore e misericordioso.»
 
 Invece la Legge condanna l’omicidio e Gesù rifiutò la violenza per la fede.
@@ -568,13 +568,13 @@ Invece la Legge condanna l’omicidio e Gesù rifiutò la violenza per la fede.
 #### 5) Negazione di Cristo
 Il Corano nega la figliolanza e la croce.
 
-**Corano 4:171 (Sahih International)**
+**Corano 4:171 (tradotto da Sahih International)**
 > «O Gente della Scrittura, non eccedete nella vostra religione e non dite su Allah altro che la verità. Il Messia, Gesù figlio di Maria, non era che un messaggero di Allah, la Sua parola che Egli rivolse a Maria e uno spirito [creato a un comando] proveniente da Lui. Credete dunque in Allah e nei Suoi messaggeri. Non dite: “Tre”; desistete, è meglio per voi. In verità Allah è un Dio solo. Egli è troppo eccelso per avere un figlio.»
 
-**Corano 112:3 (Sahih International)**
+**Corano 112:3 (tradotto da Sahih International)**
 > «Non genera e non è generato.»
 
-**Corano 4:157 (Sahih International)**
+**Corano 4:157 (tradotto da Sahih International)**
 > «E per aver detto: “Abbiamo ucciso il Messia, Gesù figlio di Maria, il messaggero di Allah”. Invece non l’hanno ucciso né crocifisso; ma un altro fu reso ai loro occhi simile a lui. In verità coloro che dissentono a questo riguardo sono nel dubbio. Non ne hanno alcuna conoscenza, ma seguono soltanto congetture. E certamente non l’hanno ucciso.»
 
 La Bibbia insegna l’opposto: Gesù è il Figlio eterno di Dio, crocifisso e risorto.
@@ -600,7 +600,7 @@ Molte fonti islamiche riportano che Maometto possedeva schiavi e permetteva lo s
 
 Questo presuppone che Maometto e i suoi compagni possedessero schiavi, normalizzato all’interno della sua leadership.
 
-**Corano 4:24 (Sahih International)**
+**Corano 4:24 (tradotto da Sahih International)**
 > «E [vi sono proibite] le donne già sposate, eccetto quelle che la vostra mano destra possiede. [Questo è] il decreto di Allah su di voi.»
 
 Questo versetto permetteva lo stupro delle prigioniere di guerra, anche se già sposate.
@@ -641,7 +641,7 @@ Al contrario, Maometto permise lo stupro delle prigioniere senza queste protezio
 La Sura 33 concede a Maometto esenzioni uniche.
 
 #### Mogli e concubine illimitate
-**Corano 33:50 (Sahih International)**
+**Corano 33:50 (tradotto da Sahih International)**
 > «O Profeta, in verità ti abbiamo reso lecite le tue mogli alle quali hai dato il compenso dovuto, quelle che la tua destra possiede fra le prigioniere che Allah ti ha assegnato, le figlie dei tuoi zii paterni, delle tue zie paterne, dei tuoi zii materni e delle tue zie materne che sono emigrate con te, e una donna credente se si offre al Profeta e se il Profeta desidera sposarla; questo privilegio è soltanto per te, esclusi gli altri credenti. Sappiamo bene ciò che abbiamo reso obbligatorio per loro riguardo alle loro mogli e a quelle che la loro destra possiede, ma questo è affinché tu non abbia alcun disagio. Allah è perdonatore e misericordioso.»
 
 Qui a Maometto sono concesse mogli e concubine senza limite, mentre i musulmani ordinari sono limitati a quattro (Corano 4:3).
@@ -652,14 +652,14 @@ La Torà vieta moltiplicare le mogli.
 > «Non prenda per sé molte mogli, affinché il suo cuore non si svii; e non accumuli per sé quantità eccessive d’argento e d’oro.»
 
 #### Restrizioni esclusive
-**Corano 33:52 (Sahih International)**
-> «Non ti sono lecite altre donne dopo queste, né cambiarle con altre, anche se la loro bellezza ti piace, eccetto quelle che la tua destra possiede.»
+**Corano 33:52 (tradotto da Sahih International)**
+> «Non ti sono lecite, [o Maometto], [altre] donne dopo [queste], né [ti è lecito] cambiarle con [altre] mogli, anche se la loro bellezza ti piace, eccetto quelle che la tua destra possiede. E Allah osserva sempre ogni cosa.»
 
 Regole fatte su misura per la situazione matrimoniale di Maometto.
 
 #### Rivelazione sull’etichetta a tavola
-**Corano 33:53 (Sahih International)**
-> «O voi che credete! Non entrate nelle case del Profeta per il pasto finché non vi sia dato il permesso… mangiate e andatevene senza intrattenervi a conversare. Questo lo infastidiva; egli si vergognava a dirvelo, ma Allah non si vergogna della verità…»
+**Corano 33:53 (tradotto da Sahih International)**
+> «O voi che credete, non entrate nelle case del Profeta se non quando vi è permesso per un pasto, senza aspettare che sia pronto. Ma quando siete invitati, entrate; e quando avete mangiato, disperdetevi senza cercare di trattenervi a conversare. In verità quel [comportamento] infastidiva il Profeta, ed egli si vergognava di [congedarvi]. Ma Allah non si vergogna della verità. E quando chiedete qualcosa alle [sue mogli], chiedetelo da dietro una separazione. Questo è più puro per i vostri cuori e per i loro. Non vi è lecito arrecare danno al Messaggero di Allah né sposare mai le sue mogli dopo di lui. Questo sarebbe un’enormità agli occhi di Allah.»
 
 Disagio personale trasformato in legge; eppure un hadith riporta che egli visitava le sue nove mogli in una sola notte.
 
@@ -681,29 +681,31 @@ Contrasto evidente.
 L’Islam insegna che il Corano è perfetto e privo di contraddizioni. Tuttavia, anche nel testo e nella tradizione islamica compaiono conflitti e materiale mancante.
 
 #### 1) Cronologia della creazione
-**Corano 7:54**: sei giorni.
+**Corano 7:54 (tradotto da Sahih International)**
+> «In verità il vostro Signore è Allah, che creò i cieli e la terra in sei giorni e poi Si stabilì sul Trono.»
 
-**Qur’an 41:9–12 (Italiano)**
+**Corano 41:9–12 (tradotto da Sahih International)**
 > Di': «Davvero non credete in Colui che creò la terra in due giorni e Gli attribuite eguali? Egli è il Signore dei mondi. E pose sulla terra montagne stabili sopra di essa, la benedisse e vi stabilì i suoi sostentamenti in quattro giorni, in misura uguale per chi chiede. Poi Si rivolse al cielo quando era fumo e disse a esso e alla terra: “Venite, di buon grado o per forza.” Dissero: “Siamo venuti di buon grado.” E li completò in sette cieli in due giorni e ispirò a ciascun cielo il suo ordine. E abbellimmo il cielo più vicino con luminari e come protezione. Tale è la determinazione dell’Onnipotente, del Sapiente.»
 
-
-Nel complesso, la sura 41 descrive otto giorni, non sei. La Bibbia è coerente: Dio creò in sei giorni e si riposò il settimo (Genesi 1:31–2:2).
+Sommando in sequenza, la sura 41 dà due giorni, poi quattro, poi due, cioè otto, contro i sei giorni di 7:54. I commentatori musulmani intendono i quattro giorni come comprensivi dei primi due, e così il totale resta sei; il passo stesso non lo dice. La Genesi non lascia nulla da conciliare: numera ogni giorno, dal primo al sesto, e Dio si riposò il settimo (Genesi 1:5; 1:31–2:2).
 
 #### 2) Vino: benedizione o impurità?
-**Corano 16:67**: bevanda inebriante e buon sostentamento.
+**Corano 16:67 (tradotto da Sahih International)**
+> «E dai frutti delle palme e delle viti ricavate bevanda inebriante e buon sostentamento. In ciò vi è certamente un segno per un popolo che ragiona.»
 
-**Corano 5:90**: gli inebrianti sono opera di Satana; evitateli.
+**Corano 5:90 (tradotto da Sahih International)**
+> «O voi che credete, in verità gli inebrianti, il gioco d’azzardo, i sacrifici su altari di pietra [ad altri che non siano Allah] e le frecce divinatorie non sono che sozzura, opera di Satana; evitateli, affinché possiate prosperare.»
 
 L’insegnamento cambia nel tempo. La Bibbia condanna coerentemente l’ubriachezza, pur ammettendo il vino con moderazione (Salmo 104:15; Efesini 5:18).
 
 #### 3) Violenza vs. Pace
-**Corano 2:256 (Sahih International)**
+**Corano 2:256 (tradotto da Sahih International)**
 > «Non c’è costrizione nella religione. La retta via si distingue chiaramente dall’errore. Chi dunque rinnega i Taghut e crede in Allah si è afferrato al sostegno più saldo, che non si spezza. Allah tutto ascolta e tutto conosce.»
 
-**Corano 9:5 (Sahih International)**
-> «Quando saranno trascorsi i mesi sacri, uccidete i politeisti ovunque li troviate, catturateli, assediateli e appostatevi contro di loro in ogni luogo d’imboscata…»
+**Corano 9:5 (tradotto da Sahih International)**
+> «Quando saranno trascorsi i mesi sacri, uccidete i politeisti ovunque li troviate, catturateli, assediateli e appostatevi contro di loro in ogni luogo d’agguato. Ma se si pentono, stabiliscono la preghiera e danno la zakat, lasciateli andare per la loro strada. In verità Allah è perdonatore e misericordioso.»
 
-Corano 9:29 (Sahih International):
+Corano 9:29 (tradotto da Sahih International):
 
 > «Combattete coloro che non credono in Allah né nell’Ultimo Giorno, che non considerano illecito ciò che Allah e il Suo Messaggero hanno dichiarato illecito e che, tra coloro ai quali fu data la Scrittura, non professano la religione della verità, finché non paghino spontaneamente la jizya e siano umiliati.»
 
@@ -713,21 +715,30 @@ Il versetto pacifico è anteriore; quello violento è successivo e gli studiosi 
 > «Ma io vi dico: amate i vostri nemici e pregate per quelli che vi perseguitano.»
 
 #### 4) Destino vs. Libero arbitrio
-**Corano 18:29 (Sahih International)**: «E di’: “La verità viene dal vostro Signore; chi vuole creda e chi vuole non creda”.»
+**Corano 18:29 (tradotto da Sahih International)**
+> «E di’: “La verità viene dal vostro Signore; dunque chi vuole creda, e chi vuole non creda.”»
 
-**Corano 16:93 (Sahih International)**: «Se Allah avesse voluto, avrebbe fatto di voi un’unica comunità religiosa; ma svia chi vuole e guida chi vuole…»
+**Corano 16:93 (tradotto da Sahih International)**
+> «E se Allah avesse voluto, avrebbe fatto di voi un’unica religione, ma Egli svia chi vuole e guida chi vuole. E certamente sarete interrogati su ciò che facevate.»
 
-Il Corano afferma il libero arbitrio in un passo e lo nega in un altro. La Bibbia tiene insieme la sovranità di Dio e la responsabilità umana (Romani 9:19–21; Giosuè 24:15).
+Il Corano afferma il libero arbitrio in un passo e lo nega in un altro. La Bibbia tiene insieme la sovranità di Dio e la responsabilità umana, a volte in un solo versetto:
+
+**(Atti 2:23)**
+> «Quest’uomo, quando vi fu dato nelle mani per il determinato consiglio e la prescienza di Dio, voi, per mano di iniqui, inchiodandolo sulla croce, lo uccideste.»
+
+Paolo affronta l’obiezione «Chi può resistere alla sua volontà?» in Romani 9:19–21, e nel capitolo seguente scrive: «Chiunque avrà invocato il nome del Signore sarà salvato» (Romani 10:13). Giosuè disse a Israele: «Scegliete oggi chi volete servire» (Giosuè 24:15).
 
 #### 5) Morte di Gesù
-**Corano 4:157**: negazione.
+**Corano 4:157 (tradotto da Sahih International)**
+> «E per aver detto: “Abbiamo ucciso il Messia, Gesù figlio di Maria, il messaggero di Allah”. Invece non l’hanno ucciso né crocifisso; ma un altro fu reso ai loro occhi simile a lui. In verità coloro che dissentono a questo riguardo sono nel dubbio. Non ne hanno alcuna conoscenza, ma seguono soltanto congetture. E certamente non l’hanno ucciso.»
 
-**Corano 19:33**: «Pace su di me il giorno in cui morirò…»: sembra affermarla.
+**Corano 19:33 (tradotto da Sahih International)**
+> «E la pace è su di me il giorno in cui nacqui, il giorno in cui morirò e il giorno in cui sarò risuscitato vivo.»
 
-La Bibbia: coerente:
+Corano 4:157 nega che Gesù sia stato ucciso o crocifisso. Corano 19:33 parla di un giorno in cui Egli morirà, senza dire quando né come. La Bibbia afferma chiaramente la Sua morte, insieme alla Sua sepoltura e alla Sua risurrezione il terzo giorno:
 
 **(1 Corinzi 15:3–4)**
-> «Cristo è morto per i nostri peccati… è stato sepolto… è risuscitato il terzo giorno…»
+> «Poiché vi ho prima di tutto trasmesso, come l’ho ricevuto anch’io, che Cristo morì per i nostri peccati, secondo le Scritture; che fu seppellito; che è stato risuscitato il terzo giorno, secondo le Scritture;»
 
 **Storici a conferma:**
 - **Tacito, *Annales* 15.44**: «Cristo subì la pena estrema durante il regno di Tiberio per mano di uno dei nostri procuratori, Ponzio Pilato.»
@@ -928,7 +939,7 @@ La «Stella di David» (esagramma) non si trova da nessuna parte nella Scrittura
 - *Significato:* L’insegnamento confuciano valorizza l’ordine familiare e la formazione morale; la Bibbia afferma un’educazione secondo Dio e l’amore per il prossimo.
 
 **Taoismo (道家) – Il Dao come ordine della vita.**  
-- **(Giovanni 1:1)** – «In principio era il Verbo (Logos/Dao), il Verbo era con Dio e il Verbo era Dio.»
+- **(Giovanni 1:1)** – «Nel principio era la Parola, la Parola era con Dio, e la Parola era Dio.»
 
 - **(Giovanni 14:6)** – «Io sono la Via, la Verità e la Vita.»  
 
@@ -964,7 +975,7 @@ Per un trattamento sistematico più approfondito di ciascun movimento elencato q
 
 - **(Deuteronomio 18:20–22)** – Se una predizione fallisce, il profeta ha parlato con presunzione.
 
-- **(Matteo 7:15–20)** – «Guardatevi dai falsi profeti… li riconoscerete dai loro frutti.»
+- **(Matteo 7:15–20)** – «Guardatevi dai falsi profeti i quali vengono verso di voi in vesti da pecore, ma dentro sono lupi rapaci. Li riconoscerete dai loro frutti. Si raccoglie forse uva dalle spine, o fichi dai rovi? Così, ogni albero buono fa frutti buoni, ma l’albero cattivo fa frutti cattivi. Un albero buono non può fare frutti cattivi, né un albero cattivo fare frutti buoni. Ogni albero che non fa buon frutto è tagliato e gettato nel fuoco. Li riconoscerete dunque dai loro frutti.
 
 - **(1 Giovanni 4:1–3)** – Mettete alla prova gli spiriti. Vera confessione: Gesù Cristo è venuto nella carne.
 
@@ -1042,7 +1053,7 @@ Per un trattamento sistematico più approfondito di ciascun movimento elencato q
 
 - (Matteo 6:19–21) – Non accumulate tesori sulla terra.
 
-- (1 Timoteo 6:5–10) – Quelli che vogliono arricchirsi cadono in una trappola… perché l’amore del denaro è radice di ogni male.
+- (1 Timoteo 6:5–10) – «acerbe discussioni di persone corrotte di mente e prive della verità, le quali considerano la pietà come una fonte di guadagno. La pietà, con animo contento del proprio stato, è un grande guadagno. Infatti non abbiamo portato nulla nel mondo, e neppure possiamo portarne via nulla; ma avendo di che nutrirci e di che coprirci, saremo di questo contenti. Invece quelli che vogliono arricchire cadono vittime di tentazioni, di inganni e di molti desideri insensati e funesti, che affondano gli uomini nella rovina e nella perdizione. Infatti l’amore del denaro è radice di ogni specie di mali, e alcuni che vi si sono dati si sono sviati dalla fede e si sono procurati molti dolori.»
 
 - (Giovanni 16:33) – Nel mondo avrete tribolazione.
 
@@ -1170,7 +1181,7 @@ Tieni saldamente la fede che è stata trasmessa una volta per sempre ai santi (G
 
 - **(Giovanni 8:39–41)** – Alcuni, pur figli di Abramo, volevano uccidere Gesù.  
 
-- **(Giovanni 8:44)** – «Voi siete dal diavolo… egli è bugiardo e padre della menzogna.»  
+- **(Giovanni 8:44)** – «Voi siete figli del diavolo, che è vostro padre, e volete fare i desideri del padre vostro. Egli è stato omicida fin dal principio e non si è attenuto alla verità, perché non c’è verità in lui. Quando dice il falso parla di quel che è suo, perché è bugiardo e padre della menzogna.»
 
 - **(Giovanni 8:47)** – Chi è da Dio ascolta la sua parola.  
 

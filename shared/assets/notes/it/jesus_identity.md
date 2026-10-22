@@ -6,7 +6,7 @@ La fede cristiana inizia con il Messia d'Israele. Gesù nacque nel popolo d'Isra
 
 ## Gesù discendeva da Abramo, Davide e Giuda
 
-> «Questo è il registro della genealogia di Gesù Cristo, figlio di Davide, figlio di Abramo...»
+> «Genealogia di Gesù Cristo, figlio di Davide, figlio di Abraamo.»
 >
 > **Matteo 1:1**
 
@@ -14,13 +14,13 @@ Matteo presenta Gesù collocandoLo nella storia dell'alleanza d'Israele. Abramo 
 
 La Lettera agli Ebrei è ancora più esplicita:
 
-> «È infatti evidente che il nostro Signore discese da Giuda...»
+> «è noto infatti che il nostro Signore è nato dalla tribù di Giuda, per la quale Mosè non disse nulla riguardo al sacerdozio.»
 >
 > **Ebrei 7:14**
 
 Gesù appartiene alla tribù di Giuda. L'Apocalisse conserva questa identità dopo la Sua risurrezione e ascensione:
 
-> «Ecco, il Leone della tribù di Giuda, la Radice di Davide, ha trionfato...»
+> “Ma uno degli anziani mi disse: «Non piangere; ecco, il leone della tribù di Giuda, la radice di Davide, ha vinto per aprire il libro e i suoi sette sigilli».”
 >
 > **Apocalisse 5:5**
 
@@ -36,19 +36,19 @@ Quando Gesù parlò con la donna samaritana, lei disse:
 
 Gesù non corresse il modo in cui lei Lo aveva identificato. Nella stessa conversazione disse:
 
-> «...la salvezza viene dai Giudei».
+> «Voi adorate quel che non conoscete; noi adoriamo quel che conosciamo, perché la salvezza viene dai Giudei.»
 >
 > **Giovanni 4:22**
 
 Anche Paolo descrive il Messia come proveniente da Israele secondo la Sua ascendenza umana:
 
-> «A loro appartengono i patriarchi, e da loro proviene il Cristo secondo la Sua discendenza umana...»
+> «ai quali appartengono i padri e dai quali proviene, secondo la carne, il Cristo, che è sopra tutte le cose Dio benedetto in eterno. Amen!»
 >
 > **Romani 9:5**
 
 ## Gesù fu circonciso e presentato secondo la Legge
 
-> «Quando furono trascorsi gli otto giorni prima della Sua circoncisione, Gli fu posto nome Gesù...»
+> «Quando furono compiuti gli otto giorni dopo i quali egli doveva essere circonciso, gli fu posto nome Gesù, il nome che gli era stato dato dall’angelo prima che egli fosse concepito.»
 >
 > **Luca 2:21**
 
@@ -125,7 +125,7 @@ Il Nuovo Testamento non insegna ai Gentili a diventare etnicamente ebrei. Insegn
 
 Paolo dice ai credenti gentili che un tempo erano:
 
-> «separati da Cristo, esclusi dalla cittadinanza d'Israele ed estranei ai patti della promessa...»
+> «ricordatevi che in quel tempo eravate senza Cristo, esclusi dalla cittadinanza d’Israele ed estranei ai patti della promessa, senza speranza e senza Dio nel mondo.»
 >
 > **Efesini 2:12**
 

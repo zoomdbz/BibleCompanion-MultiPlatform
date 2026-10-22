@@ -39,7 +39,7 @@ La Fête des Trompettes (Yom Terouah) est la seule fête qui commence à la nouv
 ### Jour des Expiations → Jugement Final
 - Apocalypse 20:11–15 : Le jugement du Grand Trône Blanc
 - Zacharie 12:10 : « Ils tourneront les regards vers moi, celui qu'ils ont percé, et ils pleureront »
-- Romains 11:26–27 : « Tout Israël sera sauvé... le Libérateur viendra de Sion »
+- Romains 11:26–27 : « Et c'est ainsi que tout Israël sera sauvé, comme il est écrit : Le libérateur viendra de Sion, il détournera de Jacob les impiétés ; et telle sera mon alliance avec eux, lorsque j'ôterai leurs péchés. »
 - Lévitique 16 : Le grand prêtre entre dans le Saint des Saints une fois par an pour faire l'expiation. Jésus est entré dans le Saint des Saints céleste une fois pour toutes (Hébreux 9:11–12). L'application finale demeure future.
 
 ### Tabernacles → Dieu Habite avec l'Homme

@@ -192,13 +192,13 @@ Le Bibbie inglesi spesso traducono *daimonizomai* con l’espressione inglese «
 «Demonizzato» rende meglio il senso passivo: una persona influenzata in vari gradi dal potere demoniaco, anziché suggerire una possessione permanente.
 
 **Scrittura:**
-- Matteo 4:24: «…gli portarono tutti i malati… e i *daimonizomenous* (demonizzati)…»
+- Matteo 4:24: «La sua fama si sparse per tutta la Siria; gli recarono tutti i malati colpiti da varie infermità e da vari dolori, indemoniati, epilettici, paralitici; ed egli li guarì.» (Greco in questo versetto: *daimonizomenous*)
 
 - Matteo 8:28–33: i Gadarenici *daimonizomenoi* mostrarono un controllo estremo.
 
 - Luca 13:11-16: una donna «legata da uno spirito» da diciotto anni fu guarita; Gesù disse che era oppressa da Satana.
 
-- Atti 10:38: «Dio unse Gesù… ed egli guarì tutti coloro che erano oppressi dal diavolo.»
+- Atti 10:38: «vale a dire, la storia di Gesù di Nazaret: come Dio lo ha unto di Spirito Santo e di potenza, e come egli è andato dappertutto facendo del bene e guarendo tutti quelli che erano sotto il potere del diavolo, perché Dio era con lui.»
 
 **Chiarimento:**
 - Ebraico: *shedim* (plurale) = spiriti ostili ai quali Israele aveva il divieto di offrire sacrifici (Deuteronomio 32:17; Salmo 106:37).
@@ -222,7 +222,7 @@ In ebraico, *satan* significa «avversario» o «oppositore». A volte si riferi
 
 - Matteo 4:1–11: Gesù tentato dal diavolo (*diabolos*), chiamato Satana.
 
-- Apocalisse 12:9: «il gran dragone… l’antico serpente, chiamato diavolo e Satana, che seduce tutto il mondo.»
+- Apocalisse 12:9: «Il gran dragone, il serpente antico, che è chiamato diavolo e Satana, il seduttore di tutto il mondo, fu gettato giù; fu gettato sulla terra, e con lui furono gettati anche i suoi angeli.»
 
 **Chiarimento:**
 - «Satana» = avversario/accusatore, in seguito definito come nemico di Dio.
@@ -244,7 +244,7 @@ Il termine sottolinea impurità rituale/morale e influenza spirituale ostile. Ne
 
 - Marco 3:30: «Ha uno spirito immondo» = accusa demoniaca.
 
-- Luca 11:24: «Quando uno spirito immondo esce da un uomo…»
+- Luca 11:24: «Quando lo spirito immondo esce da un uomo, si aggira per luoghi aridi, cercando riposo; e, non trovandone, dice: “Ritornerò nella mia casa, dalla quale sono uscito”;»
 
 **Chiarimento:**
 - Contesto profetico ebraico: falsa adorazione e impurità collegate a spiriti ostili.
@@ -271,7 +271,7 @@ Il termine sottolinea impurità rituale/morale e influenza spirituale ostile. Ne
 
 - In (Isaia 14:12), la parola ebraica è *Helel*, che significa «Il Brillante». Non è lo stesso termine di «Stella del mattino» usato per Gesù nell’Apocalisse.
 
-- Il contesto immediato si rivolge al re di Babilonia. Tuttavia, il linguaggio trascende qualsiasi sovrano umano («Salirò al di sopra delle altezze delle nubi; sarò simile all’Altissimo», Isaia 14:14), motivo per cui la tradizione cristiana ha letto a lungo un doppio riferimento: il re umano come tipo della ribellione spirituale che vi sta dietro. Questo è parallelo a Ezechiele 28, dove il re di Tiro è descritto in un linguaggio che eccede qualsiasi mortale («tu eri il cherubino unto a proteggere… eri sul monte santo di Dio»).
+- Il contesto immediato si rivolge al re di Babilonia. Tuttavia, il linguaggio trascende qualsiasi sovrano umano («Salirò al di sopra delle altezze delle nubi; sarò simile all’Altissimo», Isaia 14:14), motivo per cui la tradizione cristiana ha letto a lungo un doppio riferimento: il re umano come tipo della ribellione spirituale che vi sta dietro. Questo è parallelo a Ezechiele 28, dove il re di Tiro è descritto in un linguaggio che eccede qualsiasi mortale («Eri un cherubino dalle ali distese, un protettore. Ti avevo stabilito, tu stavi sul monte santo di Dio, camminavi in mezzo a pietre di fuoco.»).
 
 - Luca 10:18 («Io vedevo Satana cadere dal cielo come un fulmine») riecheggia le immagini di Isaia 14. Gesù non lo citò come testo di prova diretto, ma la risonanza è presente e fu riconosciuta dai padri della chiesa.
 

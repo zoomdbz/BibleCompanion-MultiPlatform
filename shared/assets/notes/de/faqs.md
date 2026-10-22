@@ -15,7 +15,7 @@ Die Idee ist nicht Strafe; es geht um unendliche Energie, die auf endliches Sein
 
 - **2. Mose 19,16–18**: Als Gott auf den Sinai herabfuhr, „zitterte der ganze Berg heftig“, und das Volk blieb auf Abstand, weil es seine Gegenwart nicht ertragen konnte.
 
-- **Jesaja 6,5**: Als Jesaja die Herrlichkeit des Herrn sah, rief er: „Weh mir, ich vergehe… denn meine Augen haben den König, den HERRN Zebaoth, gesehen!“
+- **Jesaja 6,5**: Als Jesaja die Herrlichkeit des Herrn sah, rief er: „Da sprach ich: Wehe mir, ich vergehe! Denn ich bin ein Mann mit unreinen Lippen und wohne unter einem Volk, das unreine Lippen hat; denn meine Augen haben den König, den Herrn der Heerscharen, gesehen!“
 
 - **Hesekiel 1,28**: Hesekiel fällt nieder, als er „das Aussehen der Gestalt der Herrlichkeit des HERRN“ erblickt.  
   Diese Verse zeigen, dass die Gegenwart Gottes die menschlichen Sinne übersteigt; nicht aus Zorn, sondern aufgrund reiner Intensität.
@@ -82,7 +82,7 @@ Durch Leiden zeigt Gott, dass er dem Schmerz nicht fernsteht; er trägt ihn mit 
 - **1. Mose 1,31**: „Und Gott sah alles an, was er gemacht hatte; und siehe, es war sehr gut.“  
   Die Schöpfung war nicht fehlerhaft angelegt; der Verfall kam durch den Missbrauch des freien Willens.
 
-- **1. Mose 50,20**: Josef: „Ihr gedachtet es böse mit mir zu machen; Gott aber gedachte es gut zu machen… um ein großes Volk am Leben zu erhalten.“  
+- **1. Mose 50,20**: Josef: „Ihr gedachtet mir zwar Böses zu tun; aber Gott gedachte es gut zu machen, um es so hinauszuführen, wie es jetzt zutage liegt, um ein zahlreiches Volk am Leben zu erhalten.“\
   Gott verursacht das Böse nicht; er lenkt es zu seinem Erlösungsziel.
 
 - **Römer 8,28**: „Wir wissen aber, dass denen, die Gott lieben, alle Dinge zum Besten dienen, denen, die nach seinem Vorsatz berufen sind.“  
@@ -91,7 +91,7 @@ Durch Leiden zeigt Gott, dass er dem Schmerz nicht fernsteht; er trägt ihn mit 
 - **Jakobus 1,2–4**: „Haltet es für lauter Freude, wenn ihr in mancherlei Anfechtungen fallt; denn die Bewährung eures Glaubens bewirkt Standhaftigkeit.“  
   Schmerz ist nicht sinnlos; er reift die Seele.
 
-- **1. Petrus 4,12–13**: „Lasst euch durch die Feuerprobe nicht befremden… sondern freut euch, dass ihr Anteil an den Leiden des Christus habt.“  
+- **1. Petrus 4,12–13**: „Geliebte, lasst euch durch die unter euch entstandene Feuerprobe nicht befremden, als widerführe euch etwas Fremdartiges; sondern in dem Maß, wie ihr Anteil habt an den Leiden des Christus, freut euch, damit ihr euch auch bei der Offenbarung seiner Herrlichkeit jubelnd freuen könnt.“\
   Leiden verbindet die Gläubigen mit dem Herzen Christi und läutert Mitgefühl und Glauben.
 
 - **2. Korinther 4,17–18**: „Unsere leichte Bedrängnis, die schnell vorübergeht, schafft eine ewige und über alle Maßen gewichtige Herrlichkeit.“  
@@ -166,7 +166,7 @@ Die Schrift vermittelt mehrere Wahrheiten, die prägen, wie wir verspätete, and
 
 **1) Ausrichtung am Willen Gottes**
 
-- **1. Johannes 5,14–15**: „Wenn wir etwas nach seinem Willen bitten, hört er uns … und wir wissen, dass wir die Bitten haben, die wir von ihm erbeten haben.“
+- **1. Johannes 5,14–15**: „Und das ist die Freimütigkeit, die wir ihm gegenüber haben, dass er uns hört, wenn wir seinem Willen gemäß um etwas bitten. Und wenn wir wissen, dass er uns hört, um was wir auch bitten, so wissen wir, dass wir das Erbetene haben, das wir von ihm erbeten haben.“
 
 - **Lukas 22,42**: Selbst Jesus betete: „Nicht mein Wille, sondern deiner geschehe.“ Beim Gebet geht es nicht um Kontrolle, sondern um Gemeinschaft.
 
@@ -200,7 +200,7 @@ Der Dorn wurde nicht wie von Paulus erbeten entfernt, doch Christus ließ ihn ni
 
 **5) Hilfe des Geistes im Gebet**
 
-- **Römer 8,26–28**: „Der Geist hilft unserer Schwachheit … der Geist selbst tritt für uns ein mit Seufzen, das sich nicht in Worte fassen lässt … denen, die Gott lieben, dient alles zum Besten.“
+- **Römer 8,26–28**: „Ebenso kommt aber auch der Geist unseren Schwachheiten zu Hilfe. Denn wir wissen nicht, was wir beten sollen, wie sich’s gebührt; aber der Geist selbst tritt für uns ein mit unaussprechlichen Seufzern. Der aber die Herzen erforscht, weiß, was das Trachten des Geistes ist; denn er tritt so für die Heiligen ein, wie es Gott entspricht. Wir wissen aber, dass denen, die Gott lieben, alle Dinge zum Besten dienen, denen, die nach dem Vorsatz berufen sind.“
 
 - **Jakobus 5,16**: „Das wirksame Gebet eines Gerechten vermag viel.“
 
@@ -230,7 +230,7 @@ Der Tod kam durch die Sünde (**Römer 5,12**), und die gesamte Schöpfung seufz
 - **2. Samuel 12,22–23**: Nach dem Tod seines kleinen Sohnes sagt David: „Ich werde zu ihm gehen, aber es wird nicht zu mir zurückkehren.“  
   Davids Zuversicht zeigt seinen Glauben, dass das Kind bei Gott ist und die Wiedervereinigung jenseits des Todes wartet.
 
-- **Jesaja 57,1–2**: „Der Gerechte kommt um, und niemand nimmt es sich zu Herzen… er geht zum Frieden ein; die in ihrer Aufrichtigkeit wandeln, ruhen auf ihren Lagern.“  
+- **Jesaja 57,1–2**: „Der Gerechte kommt um, und kein Mensch nimmt es zu Herzen; und treue Männer werden hinweggerafft, ohne dass jemand bemerkt, dass der Gerechte vor dem Unglück hinweggenommen wird. Er geht zum Frieden ein; sie ruhen auf ihren Lagern, ein jeder, der gerade Wege ging.“\
   Früher Tod kann barmherzige Bewahrung vor kommendem Bösen sein.
 
 - **Matthäus 19,14**: Jesus sagte: „Lasst die Kinder zu mir kommen und hindert sie nicht, denn solchen gehört das Himmelreich.“  
@@ -308,7 +308,7 @@ Die Schrift rahmt diese Befehle als **begrenzte Gerichte**, **Schutz vor zersetz
 
 - **Matthäus 5,9; 5,38–44**: Seligpreisung der Friedensstifter; Liebe zu Feinden; Verzicht auf persönliche Vergeltung.
 
-- **Römer 12,19**: „Rächt euch nicht selbst… Mein ist die Rache, ich will vergelten, spricht der Herr.“  
+- **Römer 12,19**: «Rächt euch nicht selbst, Geliebte, sondern gebt Raum dem Zorn [Gottes]; denn es steht geschrieben: »Mein ist die Rache; ich will vergelten, spricht der Herr«.»\
   Gericht gehört Gott; nicht privater Hand.
 
 **Biblische Zusammenfassung:** Alttestamentliche Kriegsbefehle erscheinen als zeitgebundene Gerichte gegen verfestigtes Böses, durch strenge Grenzen reguliert, mit Gnade für jeden, der umkehrt. Gott richtet Israel nach demselben Maß; Prophetenwort und Neues Testament weisen zum Ende des Krieges unter Gottes Herrschaft und zum Ruf, Frieden zu stiften.
@@ -339,10 +339,10 @@ Wer dieses Geschenk annimmt, dem wird vergeben und er wird zum Leben wiederherge
 - **Römer 2,5–8**: Wer in Verstockung verharrt, „häuft Zorn auf den Tag des Zornes“; wer das Gute sucht, empfängt ewiges Leben.  
   Gericht folgt beharrlicher Bosheit.
 
-- **Matthäus 25,41-46**: Jesus spricht von der endgültigen Scheidung: „Geht weg von mir, ihr Verfluchten, in das ewige Feuer, das dem Teufel und seinen Engeln bereitet ist… Und sie werden hingehen in die ewige Strafe; die Gerechten aber in das ewige Leben.“  
+- **Matthäus 25,41-46**: Jesus spricht von der endgültigen Scheidung: „Dann wird er auch denen zur Linken sagen: Geht hinweg von mir, ihr Verfluchten, in das ewige Feuer, das dem Teufel und seinen Engeln bereitet ist! Denn ich bin hungrig gewesen, und ihr habt mich nicht gespeist; ich bin durstig gewesen, und ihr habt mir nicht zu trinken gegeben; ich bin ein Fremdling gewesen, und ihr habt mich nicht beherbergt; ohne Kleidung, und ihr habt mich nicht bekleidet; krank und gefangen, und ihr habt mich nicht besucht! Dann werden auch sie ihm antworten und sagen: Herr, wann haben wir dich hungrig oder durstig oder als Fremdling oder ohne Kleidung oder krank oder gefangen gesehen und haben dir nicht gedient? Dann wird er ihnen antworten: Wahrlich, ich sage euch: Was ihr einem dieser Geringsten nicht getan habt, das habt ihr mir auch nicht getan! Und sie werden in die ewige Strafe hingehen, die Gerechten aber in das ewige Leben.“\
   Das Urteil knüpft an die Ablehnung der Barmherzigkeit, nicht an fehlende Gelegenheit.
 
-- **Johannes 3,18–19**: „Wer an ihn glaubt, wird nicht gerichtet; wer aber nicht glaubt, ist schon gerichtet, weil er nicht an den Namen des einzigen Sohnes Gottes geglaubt hat… und die Menschen liebten die Finsternis mehr als das Licht.“  
+- **Johannes 3,18–19**: „Wer an ihn glaubt, wird nicht gerichtet; wer aber nicht glaubt, der ist schon gerichtet, weil er nicht an den Namen des eingeborenen Sohnes Gottes geglaubt hat. Darin aber besteht das Gericht, dass das Licht in die Welt gekommen ist, und die Menschen liebten die Finsternis mehr als das Licht; denn ihre Werke waren böse.“\
   Verdammnis entspringt der Liebe zur Finsternis.
 
 - **Römer 1,24–26**: „Gott gab sie dahin“, ihren Begierden ausgeliefert.  
@@ -387,7 +387,7 @@ Jeder Glaubensakt antwortet auf das, was Gott bereits offenbart hat: durch Schö
 
 **Biblische Belege:**
 
-- **Römer 1,19–20**: „Was man von Gott erkennen kann, ist ihnen offenbar, weil Gott es ihnen gezeigt hat. Denn seine unsichtbaren Eigenschaften, seine ewige Macht und sein göttliches Wesen, werden deutlich wahrgenommen… sodass sie keine Entschuldigung haben.“  
+- **Römer 1,19–20**: „weil das von Gott Erkennbare unter ihnen offenbar ist, da Gott es ihnen offenbar gemacht hat; denn sein unsichtbares Wesen, nämlich seine ewige Kraft und Gottheit, wird seit Erschaffung der Welt an den Werken durch Nachdenken wahrgenommen, sodass sie keine Entschuldigung haben.“\
   Die Schöpfung bezeugt Gott; Glaube antwortet.
 
 - **Johannes 20,29**: „Selig sind, die nicht sehen und doch glauben.“  
@@ -399,7 +399,7 @@ Jeder Glaubensakt antwortet auf das, was Gott bereits offenbart hat: durch Schö
 - **Hebräer 11,6**: „Ohne Glauben ist es unmöglich, Gott zu gefallen; denn wer sich Gott naht, muss glauben, dass er existiert und dass er die belohnt, die ihn suchen.“  
   Beziehung beruht auf freiwilligem Vertrauen; nicht erzwungenem Beweis.
 
-- **Epheser 2,8–9**: „Aus Gnade seid ihr gerettet durch den Glauben… Gottes Gabe; nicht aus Werken.“  
+- **Epheser 2,8–9**: „Denn aus Gnade seid ihr errettet durch den Glauben, und das nicht aus euch — Gottes Gabe ist es; nicht aus Werken, damit niemand sich rühme.“\
   Glaube ist der Kanal der Gnade.
 
 **Warum nicht Gewissheit?**
@@ -429,10 +429,10 @@ Diese Freiheit macht Liebe möglich; sie erlaubt aber auch Auflehnung. Gott wuss
 
 **Biblische Belege:**
 
-- **Hesekiel 28,12–17**: Der König von Tyrus wird in einer Sprache beschrieben, die Parallelen zum Fall eines Himmelswesens zeigt: „Du warst das Siegel der Vollkommenheit, voller Weisheit und vollkommen an Schönheit… Du warst untadelig auf deinen Wegen vom Tag deiner Erschaffung an, bis Unrecht an dir gefunden wurde.“  
+- **Hesekiel 28,12–17**: Der König von Tyrus wird in einer Sprache beschrieben, die Parallelen zum Fall eines Himmelswesens zeigt: „Menschensohn, stimme ein Klagelied an über den König von Tyrus und sprich zu ihm: So spricht Gott, der Herr: O du Siegel der Vollendung, voller Weisheit und vollkommener Schönheit! In Eden, im Garten Gottes warst du; mit allerlei Edelsteinen warst du bedeckt: mit Sardis, Topas, Diamant, Chrysolith, Onyx, Jaspis, Saphir, Karfunkel, Smaragd, und mit Gold. Deine kunstvoll hergestellten Tamburine und Flöten waren bei dir; am Tag deiner Erschaffung wurden sie bereitet. Du warst ein gesalbter, schützender Cherub, ja, ich hatte dich dazu eingesetzt; du warst auf dem heiligen Berg Gottes, und du wandeltest mitten unter den feurigen Steinen. Du warst vollkommen in deinen Wegen vom Tag deiner Erschaffung an, bis Sünde in dir gefunden wurde. Durch deine vielen Handelsgeschäfte ist dein Inneres mit Frevel erfüllt worden, und du hast gesündigt. Darum habe ich dich von dem Berg Gottes verstoßen und dich, du schützender Cherub, aus der Mitte der feurigen Steine vertilgt. Dein Herz hat sich überhoben wegen deiner Schönheit; du hast deine Weisheit um deines Glanzes willen verderbt. So habe ich dich auf die Erde geworfen und dich vor den Königen zum Schauspiel gemacht.“\
   Hochmut verdarb, was vollkommen war.
 
-- **Jesaja 14,12–15**: „Wie bist du vom Himmel gefallen, du Glanzstern, Sohn der Morgenröte!… Du sprachst in deinem Herzen: Ich will zum Himmel aufsteigen; ich will meinen Thron über die Sterne Gottes erhöhen.“  
+- **Jesaja 14,12–15**: „Wie bist du vom Himmel herabgefallen, du Glanzstern, Sohn der Morgenröte! Wie bist du zu Boden geschmettert, du Überwältiger der Nationen! Und doch hattest du dir in deinem Herzen vorgenommen: Ich will zum Himmel emporsteigen und meinen Thron über die Sterne Gottes erhöhen und mich niederlassen auf dem Versammlungsberg im äußersten Norden; ich will emporfahren auf Wolkenhöhen, dem Allerhöchsten mich gleichmachen! Doch ins Totenreich bist du hinabgestürzt, in die tiefste Grube!“\
   Rebellion beginnt mit Selbstüberhöhung und Verweigerung der Unterordnung.
 
 - **1. Timotheus 3,6**: Hochmut heißt „Gericht des Teufels“.  
@@ -483,10 +483,10 @@ Diese Einflüsse geben sich als Götter aus, fordern Opfer, verkehren Moral und 
 
 **Biblische Belege:**
 
-- **Römer 1,19–23**: „Was man von Gott erkennen kann, ist ihnen offenbar, weil Gott es ihnen gezeigt hat… Seine unsichtbaren Eigenschaften, seine ewige Macht und sein göttliches Wesen, werden deutlich wahrgenommen… sodass sie keine Entschuldigung haben.“ Die Menschheit kannte Gott, „tauschte aber die Herrlichkeit des unvergänglichen Gottes ein gegen Bilder, die sterblichen Menschen, Vögeln, Tieren und kriechenden Geschöpfen gleichen“.  
+- **Römer 1,19–23**: „weil das von Gott Erkennbare unter ihnen offenbar ist, da Gott es ihnen offenbar gemacht hat; denn sein unsichtbares Wesen, nämlich seine ewige Kraft und Gottheit, wird seit Erschaffung der Welt an den Werken durch Nachdenken wahrgenommen, sodass sie keine Entschuldigung haben. Denn obgleich sie Gott erkannten, haben sie ihn doch nicht als Gott geehrt und ihm nicht gedankt, sondern sind in ihren Gedanken in nichtigen Wahn verfallen, und ihr unverständiges Herz wurde verfinstert. Da sie sich für weise hielten, sind sie zu Narren geworden und haben die Herrlichkeit des unvergänglichen Gottes vertauscht mit einem Bild, das dem vergänglichen Menschen, den Vögeln und vierfüßigen und kriechenden Tieren gleicht.“\
   Religion beginnt häufig mit dem Erkennen des Göttlichen und driftet in Götzendienst.
 
-- **5. Mose 32,16–17**: „Sie reizten ihn zur Eifersucht durch fremde Götter… Sie opferten den Dämonen und nicht Gott.“  
+- **5. Mose 32,16–17**: „Sie erregten seine Eifersucht durch fremde [Götter]; durch Gräuel erzürnten sie ihn. Sie opferten den Dämonen, die nicht Gott sind, Göttern, die sie nicht kannten, neuen Göttern, die erst vor Kurzem aufgekommen waren, die eure Väter nicht verehrten.“\
   Viele heidnische Götter werden als dämonische Mächte identifiziert.
 
 - **Psalm 106,37–38**: „Sie opferten ihre Söhne und Töchter den Dämonen; sie vergossen unschuldiges Blut.“  
@@ -501,7 +501,7 @@ Diese Einflüsse geben sich als Götter aus, fordern Opfer, verkehren Moral und 
 - **Epheser 6,12**: „Unser Kampf ist nicht gegen Fleisch und Blut, sondern gegen die Mächtigen, gegen die Gewalten, gegen die Weltbeherrscher dieser Finsternis, gegen die geistlichen Mächte der Bosheit in den himmlischen Regionen.“  
   Religiöse Täuschung ist Teil eines größeren geistlichen Kampfes.
 
-- **Apostelgeschichte 17,26–27**: „Er hat aus einem Menschen alle Völker der Menschheit gemacht… damit sie Gott suchen und ihn vielleicht ertasten und finden; und doch ist er einem jeden von uns nicht fern.“  
+- **Apostelgeschichte 17,26–27**: „Und er hat aus einem Blut jedes Volk der Menschheit gemacht, dass sie auf dem ganzen Erdboden wohnen sollen, und hat im Voraus verordnete Zeiten und die Grenzen ihres Wohnens bestimmt, damit sie den Herrn suchen sollten, ob sie ihn wohl umhertastend wahrnehmen und finden möchten; und doch ist er ja jedem Einzelnen von uns nicht ferne;“\
   Jede Kultur trägt Echos der Wahrheit, die auf den Schöpfer zurückweisen.
 
 - **Johannes 1,9**: Jesus ist „das wahre Licht, das jeden Menschen erleuchtet, der in die Welt kommt“.  
@@ -510,10 +510,10 @@ Diese Einflüsse geben sich als Götter aus, fordern Opfer, verkehren Moral und 
 - **Johannes 14,6**: „Ich bin der Weg und die Wahrheit und das Leben; niemand kommt zum Vater als nur durch mich.“  
   Wahrheit ist eins; Gottes Barmherzigkeit reicht zu allen.
 
-- **1. Timotheus 2,3–4**: „Gott, unser Retter… will, dass alle Menschen gerettet werden und zur Erkenntnis der Wahrheit kommen“.  
+- **1. Timotheus 2,3–4**: „denn dies ist gut und angenehm vor Gott, unserem Retter, welcher will, dass alle Menschen gerettet werden und zur Erkenntnis der Wahrheit kommen.“\
   Die Vielfalt religiöser Vorstellungen zeigt sowohl die menschliche Sehnsucht nach Gott als auch seine Geduld mit unserer Verwirrung.
 
-- **Römer 10,12–13**: „Es ist kein Unterschied zwischen Jude und Grieche… derselbe Herr ist Herr über alle und reich für alle, die ihn anrufen.“  
+- **Römer 10,12–13**: «Es ist ja kein Unterschied zwischen Juden und Griechen: Alle haben denselben Herrn, der reich ist für alle, die ihn anrufen, denn: »Jeder, der den Namen des Herrn anruft, wird gerettet werden«.»\
   Erlösung wird allen angeboten; die Wahrheit bleibt eine.
 
 **Zusammenfassung:**  
@@ -537,13 +537,13 @@ Wer sie annimmt, wird mit seiner Gerechtigkeit bekleidet; wer sie ablehnt, bleib
 
 **Biblische Belege:**
 
-- **Römer 3,23–26**: „Alle haben gesündigt und verfehlen die Herrlichkeit Gottes… und werden umsonst gerechtfertigt durch seine Gnade, durch die Erlösung in Christus Jesus… damit er selbst gerecht sei und zugleich den rechtfertige, der aus dem Glauben an Jesus ist.“  
+- **Römer 3,23–26**: „denn alle haben gesündigt und verfehlen die Herrlichkeit, die sie vor Gott haben sollten, sodass sie ohne Verdienst gerechtfertigt werden durch seine Gnade aufgrund der Erlösung, die in Christus Jesus ist. Ihn hat Gott zum Sühnopfer bestimmt, [das wirksam wird] durch den Glauben an sein Blut, um seine Gerechtigkeit zu erweisen, weil er die Sünden ungestraft ließ, die zuvor geschehen waren, als Gott Zurückhaltung übte, um seine Gerechtigkeit in der jetzigen Zeit zu erweisen, damit er selbst gerecht sei und zugleich den rechtfertige, der aus dem Glauben an Jesus ist.“\
   Gottes Vergebung gründet in seiner Gerechtigkeit; nicht außerhalb von ihr.
 
 - **Hebräer 9,22**: „Ohne Blutvergießen geschieht keine Vergebung.“  
   Leben für Leben; erfüllt im Opfer Christi.
 
-- **Jesaja 53,5–6**: „Er ist um unserer Übertretungen willen durchbohrt… der HERR warf unser aller Sünde auf ihn.“  
+- **Jesaja 53,5–6**: „Doch er wurde um unserer Übertretungen willen durchbohrt, wegen unserer Missetaten zerschlagen; die Strafe lag auf ihm, damit wir Frieden hätten, und durch seine Wunden sind wir geheilt worden. Wir alle gingen in die Irre wie Schafe, jeder wandte sich auf seinen Weg; aber der Herr warf unser aller Schuld auf ihn.“\
   Der leidende Knecht trägt die Strafe, die wir verdienten.
 
 - **1. Petrus 2,24**: „Er hat unsere Sünden selbst an seinem Leib auf das Holz hinaufgetragen, damit wir der Sünde abgestorben der Gerechtigkeit leben.“  
@@ -552,7 +552,7 @@ Wer sie annimmt, wird mit seiner Gerechtigkeit bekleidet; wer sie ablehnt, bleib
 - **Epheser 2,8–9**: „Denn aus Gnade seid ihr gerettet durch Glauben, und das nicht aus euch selbst; es ist Gottes Gabe, nicht aus Werken, damit niemand sich rühme.“  
   Gnade ist ein Geschenk; doch sie muss angenommen werden.
 
-- **Johannes 3,16–18**: „So sehr hat Gott die Welt geliebt, dass er seinen einzigen Sohn gab, damit jeder, der an ihn glaubt, nicht verloren geht, sondern ewiges Leben hat… wer aber nicht glaubt, ist schon gerichtet.“  
+- **Johannes 3,16–18**: „Denn so [sehr] hat Gott die Welt geliebt, dass er seinen eingeborenen Sohn gab, damit jeder, der an ihn glaubt, nicht verlorengeht, sondern ewiges Leben hat. Denn Gott hat seinen Sohn nicht in die Welt gesandt, damit er die Welt richte, sondern damit die Welt durch ihn gerettet werde. Wer an ihn glaubt, wird nicht gerichtet; wer aber nicht glaubt, der ist schon gerichtet, weil er nicht an den Namen des eingeborenen Sohnes Gottes geglaubt hat.“\
   Wer Gnade verweigert, lässt die Schuld unbeglichen.
 
 - **2. Korinther 5,21**: „Den, der keine Sünde kannte, hat er für uns zur Sünde gemacht, damit wir Gottes Gerechtigkeit würden in ihm.“  

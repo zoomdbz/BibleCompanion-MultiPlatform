@@ -2,7 +2,7 @@
 
 Vangelo è una parola antica che significa buona notizia. Si parte dalla cattiva notizia, perché senza di essa la buona non ha senso.
 
-Dio mantiene un solo standard, e quello standard è perfetto. Non «hai fatto del tuo meglio.» Non «più giornate buone che cattive.» Perfetto. Giacomo lo ha messo dove nessuno può schivarlo: «chiunque osservi tutta la legge, ma inciampi in un solo punto, è colpevole di tutti» (Giacomo 2:10). Rileggi. Un solo passo falso ti mette nella stessa stanza di chi ha infranto ogni regola scritta. Passi o non passi, il voto minimo è cento, e la scala non si abbassa. Essere abbastanza bravo non è mai stato il test; nessuno lo supera, né tu, né io, né il santo seduto due banchi più in là.
+Dio ha un solo criterio, e quel criterio è la perfezione. Non «hai fatto del tuo meglio.» Non «più giornate buone che cattive.» Perfetto. Giacomo lo ha messo dove nessuno può schivarlo: «chiunque osservi tutta la legge, ma inciampi in un solo punto, è colpevole di tutti» (Giacomo 2:10). Rileggi. Un solo passo falso ti mette sullo stesso piano di chi ha infranto ogni regola. O passi o non passi: servono cento punti su cento, senza adeguamento alla media della classe. Essere abbastanza bravo non è mai stato il test; nessuno lo supera, né tu, né io, né il santo seduto due banchi più in là.
 
 Adesso il conto. Paolo nomina il prezzo in sette parole: «il salario del peccato è la morte» (Romani 6:23). Un salario è qualcosa che si guadagna, e questa è la busta paga che il peccato consegna. Arriva a scadenza, e non torna indietro. È il buco in cui ognuno di noi si trova, e non possiamo uscirne, perché le stesse mani che lo hanno scavato non lo possono riempire.
 

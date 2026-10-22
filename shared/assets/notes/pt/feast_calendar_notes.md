@@ -44,4 +44,6 @@ Estas observâncias estão fora da grade mensal, mas continuam fazendo parte do 
 
 ## Gênesis 1:14
 
-«E disse Deus: 'Haja luminares na expansão dos céus para separar o dia da noite; e sejam eles para **sinais** e para **estações** (*moadim*: tempos determinados), e para dias e anos.'» Os corpos celestes foram criados, em parte, para marcar o calendário das festas de Deus.
+> Então Deus disse: “Haja luzes no céu para separar o dia da noite e marcar as estações, os dias e os anos.”
+
+A palavra hebraica traduzida aqui por "estações" é *moadim*, que pode indicar tempos determinados, incluindo as festas bíblicas. Os luminares marcam esses tempos.

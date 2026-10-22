@@ -39,7 +39,7 @@ A Festa das Trombetas (Yom Teruah) é a única festa que começa na lua nova, o 
 ### Dia da Expiação → Julgamento Final
 - Apocalipse 20:11–15: O julgamento do Grande Trono Branco
 - Zacarias 12:10: «Olharão para mim, a quem traspassaram, e prantearão»
-- Romanos 11:26–27: «Todo Israel será salvo... o Libertador virá de Sião»
+- Romanos 11:26–27: «E assim todo o Israel será salvo. Como dizem as Escrituras: “O libertador virá de Sião e afastará Israel da impiedade. E esta é minha aliança com eles: eu removerei seus pecados”.»
 - Levítico 16: O sumo sacerdote entra no Santo dos Santos uma vez por ano para fazer expiação. Jesus entrou no Santo dos Santos celestial de uma vez por todas (Hebreus 9:11–12). A aplicação final permanece futura.
 
 ### Tabernáculos → Deus Habita com o Homem

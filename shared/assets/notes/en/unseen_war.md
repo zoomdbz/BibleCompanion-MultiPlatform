@@ -22,7 +22,7 @@ Behind every false god stands a power opposed to the Lord.
 
 - **(Ephesians 6:12)** – "Spiritual forces of evil in the heavenly places." *(the battleground of spirits)*  
 
-- **(2 Corinthians 12:2–4)** – "Caught up to the third heaven… into Paradise." *(God's dwelling)*  
+- **(2 Corinthians 12:2–4)** – "I know a man in Christ who fourteen years ago was caught up to the third heaven. Whether it was in the body or out of it I do not know, but God knows. And I know that this man— whether in the body or out of it I do not know, but God knows— was caught up to Paradise. The things he heard were inexpressible, things that man is not permitted to tell." *(God's dwelling)*
 
 **Key Takeaway (Scripture):** Scripture identifies multiple heavens: the sky (Genesis 1:8), the spiritual realm of conflict (Daniel 10:13; Ephesians 6:12), and God's dwelling place (2 Corinthians 12:2–4).  
 
@@ -31,9 +31,9 @@ Behind every false god stands a power opposed to the Lord.
 ## 2. Principalities and Powers  
 **Plain meaning:** There are organized evil powers that oppose God's people; Christ has ultimate authority over them.  
 
-- **(Ephesians 6:12)** – "We wrestle… against the rulers… the cosmic powers over this present darkness."  
+- **(Ephesians 6:12)** – "For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this world’s darkness, and against the spiritual forces of evil in the heavenly realms."
 
-- **(Daniel 10:20)** – "The prince of Persia… the prince of Greece."  
+- **(Daniel 10:20)** – “Do you know why I have come to you?” he said. “I must return at once to fight against the prince of Persia, and when I have gone forth, behold, the prince of Greece will come.
 
 - **(Colossians 2:15)** – Christ "disarmed the rulers and authorities."  
 
@@ -141,7 +141,7 @@ Idolatry in Scripture is not only about ancient gods but also about exalting hum
 
 - **(Acts 10:25–26)** – When Cornelius bowed before Peter, Peter raised him, saying, "Stand up; I too am a man."  
 
-- **(Exodus 20:4–5)** – "You shall not make for yourself a carved image… you shall not bow down to them or serve them."  
+- **(Exodus 20:4–5)** – "You shall not make for yourself an idol in the form of anything in the heavens above, on the earth below, or in the waters beneath. You shall not bow down to them or worship them; for I, the LORD your God, am a jealous God, visiting the iniquity of the fathers on their children to the third and fourth generations of those who hate Me,"
 
 Even the most faithful saints are examples of faith, not mediators. Worship, prayer, and devotion belong to God alone.  
 
@@ -154,11 +154,11 @@ Even the most faithful saints are examples of faith, not mediators. Worship, pra
 
 - **(Leviticus 19:26)** – "You shall not practice divination or tell fortunes."  
 
-- **(Deuteronomy 18:10–12)** – "Anyone who practices divination, tells fortunes… or is a sorcerer… is an abomination."  
+- **(Deuteronomy 18:10–12)** – "Let no one be found among you who sacrifices his son or daughter in the fire, practices divination or conjury, interprets omens, practices sorcery, casts spells, consults a medium or spiritist, or inquires of the dead. For whoever does these things is detestable to the LORD. And because of these detestable things, the LORD your God is driving out the nations before you."
 
 - **(Acts 16:16–18)** – Paul casts out a spirit of divination.  
 
-- **(Revelation 21:8)** – "Sorcerers… their portion will be in the lake that burns with fire."  
+- **(Revelation 21:8)** – But to the cowardly and unbelieving and abominable and murderers and sexually immoral and sorcerers and idolaters and all liars, their place will be in the lake that burns with fire and sulfur. This is the second death.”
 
 - **(Revelation 18:23)** – "All nations were deceived by your sorcery."  
 
@@ -171,9 +171,9 @@ Even the most faithful saints are examples of faith, not mediators. Worship, pra
 ## 5. Sumerian Myths and the Nephilim  
 **Plain meaning:** The Bible does not name "Sumer," but it does name **Babel** and links early kingdoms and rebellion with spiritual corruption.  
 
-- **(Genesis 6:1–4)** – "The sons of God… the Nephilim were on the earth in those days."  
+- **(Genesis 6:1–4)** – "Now when men began to multiply on the face of the earth and daughters were born to them, the sons of God saw that the daughters of men were beautiful, and they took as wives whomever they chose. So the LORD said, “My Spirit will not contend with man forever, for he is mortal; his days shall be 120 years.” The Nephilim were on the earth in those days— and afterward as well— when the sons of God had relations with the daughters of men. And they bore them children who became the mighty men of old, men of renown."
 
-- **(Genesis 10:8–12)** – "Nimrod… the beginning of his kingdom was Babel."  
+- **(Genesis 10:8–12)** – "Cush was the father of Nimrod, who began to be a mighty one on the earth. He was a mighty hunter before the LORD; so it is said, “Like Nimrod, a mighty hunter before the LORD.” His kingdom began in Babylon, Erech, Accad, and Calneh, in the land of Shinar. From that land he went forth into Assyria, where he built Nineveh, Rehoboth-Ir, Calah, and Resen, which is between Nineveh and the great city of Calah."
  
 - **(Genesis 11:1–9)** – Tower of Babel: organized human rebellion.  
 
@@ -191,7 +191,7 @@ Even the most faithful saints are examples of faith, not mediators. Worship, pra
 
 - **(Psalm 96:5)** – "All the gods of the peoples are worthless idols, but the LORD made the heavens."  
 
-- **(1 Corinthians 8:5–6)** – Many so-called gods exist, but "for us there is one God, the Father… and one Lord, Jesus Christ…"  
+- **(1 Corinthians 8:5–6)** – "For even if there are so-called gods, whether in heaven or on earth (as there are many so-called gods and lords), yet for us there is but one God, the Father, from whom all things came and for whom we exist. And there is but one Lord, Jesus Christ, through whom all things came and through whom we exist."
 
 - **(John 10:30)** – Jesus: "I and the Father are one."  
 
@@ -339,7 +339,7 @@ The Bible identifies Jesus as the eternal Son of God, equal with the Father.
 
 **(John 1:1-14)** 
  
-> "In the beginning was the Word… the Word became flesh."  
+> "In the beginning was the Word, and the Word was with God, and the Word was God. He was with God in the beginning. Through Him all things were made, and without Him nothing was made that has been made. In Him was life, and that life was the light of men. The Light shines in the darkness, and the darkness has not overcome it. There came a man who was sent from God. His name was John. He came as a witness to testify about the Light, so that through him everyone might believe. He himself was not the Light, but he came to testify about the Light. The true Light, who gives light to everyone, was coming into the world. He was in the world, and though the world was made through Him, the world did not recognize Him. He came to His own, and His own did not receive Him. But to all who did receive Him, to those who believed in His name, He gave the right to become children of God — children born not of blood, nor of the desire or will of man, but born of God. The Word became flesh and made His dwelling among us. We have seen His glory, the glory of the one and only Son from the Father, full of grace and truth."
 
 **(Colossians 2:9)**
 > "For in him the whole fullness of deity dwells bodily."
@@ -421,7 +421,7 @@ This is historically false. The evidence is overwhelming:
 
 - Islamic sources themselves admit Uthman burned variant Qur'ans.
 
-- Sahih al-Bukhari 4987: "Uthman sent to every Muslim province one copy of what they had copied, and ordered that all the other Qur'anic materials… be burnt."
+- Sahih al-Bukhari 4987: "Uthman sent to every Muslim province one copy of what they had copied, and ordered that all the other Qur'anic materials, whether written in fragmentary manuscripts or whole copies, be burnt."
 
 If the Qur'an never had variants, why was burning necessary?
 
@@ -655,7 +655,7 @@ This shows rules created uniquely for Muhammad's marriage situation.
 
 #### Dining Etiquette Revelation
 **Qur'an 33:53 (Sahih International)**
-> "O you who have believed, do not enter the houses of the Prophet except when you are permitted for a meal, without awaiting its readiness. But when you are invited, then enter; and when you have eaten, disperse without seeking to remain for conversation. Indeed, that [behavior] was troubling the Prophet, and he is shy of [dismissing] you. But Allah is not shy of the truth…"
+> "O you who have believed, do not enter the houses of the Prophet except when you are permitted for a meal, without awaiting its readiness. But when you are invited, then enter; and when you have eaten, disperse without seeking to remain for conversation. Indeed, that [behavior] was troubling the Prophet, and he is shy of [dismissing] you. But Allah is not shy of the truth. And when you ask [his wives] for something, ask them from behind a partition. That is purer for your hearts and their hearts. And it is not [conceivable or lawful] for you to harm the Messenger of Allah or to marry his wives after him, ever. Indeed, that would be in the sight of Allah an enormity."
 
 This elevates Muhammad's personal discomfort into law, described as him being "too shy" to dismiss guests. Yet hadiths report him sleeping with nine wives in a single night.
 
@@ -682,14 +682,14 @@ Islam teaches that the Qur'an is perfect and without contradiction. However, eve
 **Qur'an 41:9–12 (Sahih International)**
 > Say, "Do you indeed disbelieve in He who created the earth in two days and attribute to Him equals? That is the Lord of the worlds. And He placed on the earth firmly set mountains over its surface, and He blessed it and determined therein its [creatures'] sustenance in four days without distinction, for [the information] of those who ask. Then He directed Himself to the heaven while it was smoke and said to it and to the earth, 'Come [into being], willingly or by compulsion.' They said, 'We have come willingly.' And He completed them as seven heavens within two days and inspired in each heaven its command. And We adorned the nearest heaven with lamps and as protection. That is the determination of the Exalted in Might, the Knowing."
 
-Taken together, Surah 41 describes eight days, not six. The Bible is consistent: God created in six days and rested on the seventh (Genesis 1:31–2:2).
+Added in sequence, Surah 41 gives two days, then four, then two, which makes eight against the six days of 7:54. Muslim commentators read the four days as including the first two, which keeps the total at six; the passage itself does not state this. Genesis leaves nothing to reconcile: it numbers each day, from the first to the sixth, and God rested on the seventh (Genesis 1:5; 1:31–2:2).
 
 #### 2. Wine: Blessed or Cursed?
 **Qur'an 16:67 (Sahih International)**
 > "And from the fruits of the palm trees and grapevines you take intoxicant and good provision. Indeed in that is a sign for a people who reason."
 
-**Qur'an 5:90 (Sahih International)**
-> "O you who have believed, indeed, intoxicants… are but defilement from the work of Satan, so avoid it that you may be successful."
+**Qur'an 5:90 (Sahih International; spelling corrected)**
+> "O you who have believed, indeed, intoxicants, gambling, [sacrificing on] stone altars [to other than Allah], and divining arrows are but defilement from the work of Satan, so avoid it that you may be successful."
 
 The teaching changes over time. The Bible consistently condemns drunkenness while allowing wine in moderation (Psalm 104:15; Ephesians 5:18).
 
@@ -698,7 +698,7 @@ The teaching changes over time. The Bible consistently condemns drunkenness whil
 > "There shall be no compulsion in [acceptance of] the religion. The right course has become clear from the wrong. So whoever disbelieves in Taghut and believes in Allah has grasped the most trustworthy handhold with no break in it. And Allah is Hearing and Knowing."
 
 **Qur'an 9:5 (Sahih International)**
-> "And when the sacred months have passed, then kill the polytheists wherever you find them and capture them and besiege them and sit in wait for them at every place of ambush…"
+> "And when the sacred months have passed, then kill the polytheists wherever you find them and capture them and besiege them and sit in wait for them at every place of ambush. But if they should repent, establish prayer, and give zakah, let them [go] on their way. Indeed, Allah is Forgiving and Merciful."
 
 Qur'an 9:29 (Sahih International):
 
@@ -714,18 +714,23 @@ The peaceful verse is early; the violent verse is later and considered by Muslim
 > "And say, 'The truth is from your Lord, so whoever wills – let him believe; and whoever wills – let him disbelieve.'"
 
 **Qur'an 16:93 (Sahih International)**
-> "And if Allah had willed, He could have made you of one religion, but He causes to stray whom He wills and guides whom He wills…"
+> "And if Allah had willed, He could have made you [of] one religion, but He causes to stray whom He wills and guides whom He wills. And you will surely be questioned about what you used to do."
 
-The Qur'an affirms free will in one place and denies it in another. The Bible balances God's sovereignty with human responsibility (Romans 9:19–21; Joshua 24:15).
+The Qur'an affirms free will in one place and denies it in another. The Bible holds God's sovereignty and human responsibility together, sometimes in a single verse:
+
+**(Acts 2:23)**
+> "He was delivered up by God’s set plan and foreknowledge, and you, by the hands of the lawless, put Him to death by nailing Him to the cross."
+
+Paul takes up the objection "Who can resist his will?" in Romans 9:19–21, and in the next chapter writes, "Everyone who calls on the name of the Lord will be saved" (Romans 10:13). Joshua told Israel, "Choose this day whom you will serve" (Joshua 24:15).
 
 #### 5. Jesus' Death
 **Qur'an 4:157 (Sahih International)**
-> "And [for] their saying, 'Indeed, we have killed the Messiah, Jesus, the son of Mary, the messenger of Allah.' And they did not kill him, nor did they crucify him; but [another] was made to resemble him to them…"
+> "And [for] their saying, 'Indeed, we have killed the Messiah, Jesus, the son of Mary, the messenger of Allah.' And they did not kill him, nor did they crucify him; but [another] was made to resemble him to them. And indeed, those who differ over it are in doubt about it. They have no knowledge of it except the following of assumption. And they did not kill him, for certain."
 
 **Qur'an 19:33 (Sahih International)**
 > "And peace is on me the day I was born and the day I will die and the day I am raised alive."
 
-The Qur'an denies and affirms Jesus' death in different passages. The Bible is consistent:
+Qur'an 4:157 denies that Jesus was killed or crucified. Qur'an 19:33 speaks of a day He will die, without saying when or how. The Bible states His death plainly, with His burial and resurrection on the third day:
 
 **(1 Corinthians 15:3–4)**
 > "For I delivered to you as of first importance what I also received: that Christ died for our sins in accordance with the Scriptures, that he was buried, that he was raised on the third day in accordance with the Scriptures."
@@ -826,7 +831,7 @@ So what's more likely?
 
 - (Micah 5:2) – The Messiah would be born in Bethlehem.
 
-- (Isaiah 53:5) – "He was pierced for our transgressions... and with his wounds we are healed."
+- (Isaiah 53:5) – "But He was pierced for our transgressions, He was crushed for our iniquities; the punishment that brought us peace was upon Him, and by His stripes we are healed."
 
 - (Daniel 9:26) – The Anointed One would be "cut off" before the destruction of the Temple.
 
@@ -929,9 +934,9 @@ The "Star of David" (hexagram) is not found anywhere in Scripture. Its closest b
 
 **Daoism (道家) – The Way (Dao) as the order of life.**  
 
-- **(John 1:1)** – "In the beginning was the Word (Logos/Dao), and the Word was with God, and the Word was God."  
+- **(John 1:1)** – "In the beginning was the Word, and the Word was with God, and the Word was God."
 
-- **(John 14:6)** – "I am the Way (道), the Truth, and the Life."  
+- **(John 14:6)** – "I am the Way, the Truth, and the Life."
 
 - **(Psalm 46:10)** – "Be still, and know that I am God."  
 
@@ -967,7 +972,7 @@ For deeper systematic treatment of each movement listed below (founders, structu
 
 - **(Deuteronomy 18:20–22)** – If a prediction fails, the prophet has spoken presumptuously.
 
-- **(Matthew 7:15–20)** – "Beware of false prophets… you will recognize them by their fruits."
+- **(Matthew 7:15–20)** – "Beware of false prophets. They come to you in sheep’s clothing, but inwardly they are ravenous wolves. By their fruit you will recognize them. Are grapes gathered from thornbushes, or figs from thistles? Likewise, every good tree bears good fruit, but a bad tree bears bad fruit. A good tree cannot bear bad fruit, and a bad tree cannot bear good fruit. Every tree that does not bear good fruit is cut down and thrown into the fire. So then, by their fruit you will recognize them."
 
 - **(1 John 4:1–3)** – Test the spirits. True confession: Jesus Christ has come in the flesh.
 
@@ -1173,7 +1178,7 @@ Hold fast to the faith once for all delivered to the saints (Jude 3).
 
 - **(John 8:39–41)** – Abraham's children sought to kill Jesus instead of following Abraham's faith.  
 
-- **(John 8:44)** – "You are of your father the devil… he is a liar and the father of lies."  
+- **(John 8:44)** – "You belong to your father, the devil, and you want to carry out his desires. He was a murderer from the beginning, refusing to uphold the truth, because there is no truth in him. When he lies, he speaks his native language, because he is a liar and the father of lies."
 
 - **(John 8:47)** – "Whoever is of God hears the words of God."  
 

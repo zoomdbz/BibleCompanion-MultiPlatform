@@ -56,7 +56,7 @@ These movements either deny the deity of Christ, deny the sufficiency of His ato
 
 **Why it is heresy:**
 
-- Adds a second messiah: (Matthew 24:23-27) explicitly warns against this. "Behold, I have told you beforehand. So, if they say to you, 'Look, he is in the wilderness,' do not go out... For as the lightning comes from the east and shines as far as the west, so will be the coming of the Son of Man."
+- Adds a second messiah: (Matthew 24:23-27) explicitly warns against this. "At that time, if anyone says to you, ‘Look, here is the Christ!’ or ‘There He is!’ do not believe it. For false Christs and false prophets will appear and perform great signs and wonders to deceive even the elect, if that were possible. See, I have told you in advance. So if they tell you, ‘There He is, in the wilderness,’ do not go out, or, ‘Here He is, in the inner rooms,’ do not believe it. For just as the lightning comes from the east and flashes as far as the west, so will be the coming of the Son of Man."
 - Adds "God the Mother" to the Godhead: There is no Hebrew or Greek warrant for this. The "bride" of Revelation 21:9 is the church (Ephesians 5:25-32), not a divine female counterpart to the Father.
 - Christ's atoning work was once for all: (Hebrews 9:26-28, Hebrews 10:12-14). A second messiah is theologically unnecessary because the first one's work was complete.
 - The Father is the only proper name for God in the New Testament prayer model: (Matthew 6:9), and Jesus reveals the Father, not a Mother (John 14:9).
@@ -65,7 +65,7 @@ These movements either deny the deity of Christ, deny the sufficiency of His ato
 
 ### Jehovah's Witnesses / Watch Tower Bible and Tract Society
 
-**Also known as:** JW. JWs. Witnesses. Russellites (early name, after founder Charles Taze Russell). Bible Students (the pre-1931 name). International Bible Students Association (IBSA). Watch Tower Bible and Tract Society of Pennsylvania (the legal corporate entity). Watchtower Bible and Tract Society of New York. Christian Congregation of Jehovah's Witnesses. The Governing Body (the eight-man leadership council based in Warwick, NY). Kingdom Hall (their meeting place name). The Watchtower and Awake! magazines are their flagship publications. *jw.org* is the official web presence.
+**Also known as:** JW. JWs. Witnesses. Russellites (early name, after founder Charles Taze Russell). Bible Students (the pre-1931 name). International Bible Students Association (IBSA). Watch Tower Bible and Tract Society of Pennsylvania (the legal corporate entity). Watchtower Bible and Tract Society of New York. Christian Congregation of Jehovah's Witnesses. The Governing Body (the leadership council based in Warwick, NY). Kingdom Hall (their meeting place name). The Watchtower and Awake! magazines are their flagship publications. *jw.org* is the official web presence.
 
 **Founder:** Charles Taze Russell, 1879. Reorganized under Joseph Franklin Rutherford in the 1930s. Currently headquartered in Warwick, New York.
 
@@ -83,7 +83,7 @@ These movements either deny the deity of Christ, deny the sufficiency of His ato
 
 **Historical racial teaching:** Early Watch Tower publications also repeated racial ideas tied to the old "curse of Ham" or "curse of Canaan" interpretation. Some early material connected Black people with Noah's curse, spoke of servitude as part of that curse, and even speculated about Black skin being changed in the restored world. Modern Jehovah's Witness publications now reject this interpretation and correctly state that Genesis curses Canaan, not Ham, and gives no biblical basis for treating Black people as cursed. The point is not that every current Jehovah's Witness believes this today; many do not. The point is that the organization has a documented history of publishing racial teaching it later abandoned, which fits its broader pattern of changing doctrine while still claiming unique prophetic authority.
 
-**The New World Translation:** The Watch Tower's official Bible translation, first published 1950-1961. The translation committee was anonymous, and most translators have since been identified as not having formal training in biblical Hebrew or Greek. The NWT systematically alters texts that affirm the deity of Christ. The most famous example is John 1:1, which the NWT renders "the Word was a god" rather than "the Word was God." This translation is rejected by every recognized Greek scholarship resource because the Greek grammar (Colwell's Rule, anarthrous predicate nominatives preceding the verb) does not permit it.
+**The New World Translation:** The Watch Tower's official Bible translation, first published 1950-1961. The translation committee was anonymous, and most translators have since been identified as not having formal training in biblical Hebrew or Greek. The NWT systematically alters texts that affirm the deity of Christ. The most famous example is John 1:1, which the NWT renders "the Word was a god" rather than "the Word was God." John places *theos* before the verb; the construction is commonly read as describing the Word's divine nature. Colwell's Rule alone does not decide the translation. John 1:3 and John 20:28 provide the wider context against reading the Word as a lesser god.
 
 **Failed prophecies (a partial list):**
 
@@ -99,7 +99,7 @@ Deuteronomy 18:22 is direct: "When a prophet speaks in the name of the LORD, if 
 
 ### Mormonism / The Church of Jesus Christ of Latter-day Saints
 
-**Also known as:** LDS. LDS Church. The Church of Jesus Christ of Latter-day Saints. Latter-day Saints. Saints (member self-reference). Mormons. The Brethren (referring to top leadership). The Quorum of the Twelve Apostles. The First Presidency. The Brighamites (historical, distinguishing the Utah church). The "Brighton Young Church" (informal historical reference). Affiliated and breakaway groups include the Community of Christ (formerly Reorganized LDS Church, RLDS, headquartered in Independence, MO; significantly more mainstream Christian than the Utah LDS), the Fundamentalist Church of Jesus Christ of Latter-Day Saints (FLDS, the polygamist breakaway under Warren Jeffs), the Apostolic United Brethren (AUB), and the Kingston Group (Davis County Cooperative Society). The mainstream Utah-based church has, since 2018 under President Russell M. Nelson, been pushing back against the "Mormon" nickname and asking media to use the full church name.
+**Also known as:** LDS. LDS Church. The Church of Jesus Christ of Latter-day Saints. Latter-day Saints. Saints (member self-reference). Mormons. The Brethren (referring to top leadership). The Quorum of the Twelve Apostles. The First Presidency. The Brighamites (historical, distinguishing the Utah church). Affiliated and breakaway groups include the Community of Christ (formerly Reorganized LDS Church, RLDS, headquartered in Independence, MO; significantly more mainstream Christian than the Utah LDS), the Fundamentalist Church of Jesus Christ of Latter-Day Saints (FLDS, the polygamist breakaway under Warren Jeffs), the Apostolic United Brethren (AUB), and the Kingston Group (Davis County Cooperative Society). In 2018, under President Russell M. Nelson (died 2025), the mainstream Utah-based church began pushing back against the "Mormon" nickname and asking media to use the full church name.
 
 **Founder:** Joseph Smith Jr., 1830. Founded in Fayette, New York, after Smith claimed an angel named Moroni led him to gold plates buried near Palmyra, NY, which he then translated into the Book of Mormon using "seer stones" placed in a hat.
 
@@ -180,6 +180,36 @@ Deuteronomy 18:22 is direct: "When a prophet speaks in the name of the LORD, if 
 
 ---
 
+### Armstrongism
+
+**Also known as:** The Worldwide Church of God (WCG, the historical body; originally the Radio Church of God). "The Church of God" in the Armstrong lineage. The Plain Truth magazine and The World Tomorrow broadcast were its public face; Ambassador College was its school. The doctrine survives in the splinter groups that kept Herbert W. Armstrong's teaching after the parent church abandoned it: the Philadelphia Church of God (Gerald Flurry; The Trumpet magazine), the Living Church of God (Roderick C. Meredith; Tomorrow's World), the United Church of God, the Restored Church of God (David C. Pack), the Church of God a Worldwide Association, and the Intercontinental Church of God (Garner Ted Armstrong). Core literature: Armstrong's *The United States and Britain in Prophecy*, *Mystery of the Ages*, and *1975 in Prophecy*.
+
+**Founder:** Herbert W. Armstrong (1892-1986), who began the Radio Church of God in 1934 and renamed it the Worldwide Church of God in 1968.
+
+**Important, and to its credit:** After Armstrong died in 1986, the Worldwide Church of God itself renounced his distinctive doctrines, embraced the Trinity and salvation by grace, was received into mainstream evangelicalism, and later renamed itself Grace Communion International. That reversal is one of the clearest cases on record of a group repenting of its error. The heresy described here is "Armstrongism" as preserved by the splinter groups that rejected that reform, not the reformed body that left it behind.
+
+**What Armstrong taught (Worldwide Church of God before the 1990s reforms):**
+
+- **Grace preached, the Sabbath made the test.** Armstrong preached that salvation is by grace through faith in Jesus Christ, but he treated the Sabbath as the "test commandment," so in practice keeping it marked who counted as a true Christian. Members were required to keep the weekly Sabbath, the annual Holy Days of Leviticus 23, tithing, and the clean and unclean food laws, and Christmas, Easter, and birthdays were rejected as pagan.
+- **British-Israelism (Anglo-Israelism).** He taught that the United States and Britain descend from the northern ten tribes of Israel, identified them as Manasseh and Ephraim, and applied many biblical prophecies to the Anglo-Saxon peoples on that basis.
+- **Denial of the Trinity.** He taught that God is a "family," presently the Father and the Son as two beings, and that the Holy Spirit is an impersonal force, the same view of the Spirit taught by the Jehovah's Witnesses.
+- **Man becomes God.** He taught that the saved will be born into the God Family as God-beings at the resurrection. This is deification, the same category of error as Mormonism's exaltation.
+- **Repeated Tribulation warnings.** He warned in the 1930s, the 1940s, the 1950s, the 1960s, the 1970s, and the 1980s that the Great Tribulation would soon begin. Many of the church's ministers expected Christ's return in 1975; it did not come.
+
+**The successor groups today:** The splinter groups vary in how many of Armstrong's distinctives they kept, so read each group's own statements before assuming it holds every teaching above. The United Church of God, for example, says that "it is impossible for any man to earn eternal life by his own efforts" and that eternal life "comes as a result of God's grace," while also teaching that "obedience to God's law is required of those who will receive the gift of eternal life" and holding "the commanded observance" of the Sabbath and the seven annual festivals. Its statement of beliefs calls the Holy Spirit "the power of God" and says the reason for mankind's existence is "to be born as spirit beings into the family of God."
+
+**Why it is heresy:**
+
+- **It denies the eternal, unique God and teaches that men become God-beings.** (Isaiah 43:10): "Before me no god was formed, nor shall there be any after me." (Isaiah 44:6): "I am the first and I am the last; besides me there is no god." The saved are adopted sons who will be made like Christ (1 John 3:2), never additional God-beings. The line between Creator and creature does not dissolve.
+- **It denies the personal deity of the Holy Spirit.** (Acts 5:3-4): Peter tells Ananias he has "lied to the Holy Spirit," then, "You have not lied to man but to God." The Spirit is a person and is God, not a force. (Matthew 28:19): one name, Father, Son, and Holy Spirit.
+- **British-Israelism has no footing in Scripture.** (Galatians 3:28-29): "There is neither Jew nor Greek, slave nor free, male nor female, for you are all one in Christ Jesus. And if you belong to Christ, then you are Abraham’s seed and heirs according to the promise." Sonship runs through faith in Christ, not Anglo-Saxon descent. (Acts 17:26): God "made from one man every nation." There is no chosen race, only the people of faith.
+- **It makes Sabbath and holy-day observance the test of a true Christian.** The charge is not that Armstrong taught a person earns salvation; Grace Communion International's own history records that he preached salvation by grace. The charge is that the system made observance the line between true and false believers, and Scripture forbids that judgment: (Colossians 2:16): "Therefore let no one pass judgment on you in questions of food and drink, or with regard to a festival or a new moon or a Sabbath." Keep the distinction this guide holds: observing the feasts as instruction is not the sin, since the shadows point to Christ (Colossians 2:17); binding them on other believers as the mark of who belongs to Christ is.
+- **Its warnings did not come to pass.** Decade after decade, the announced Tribulation did not arrive. (Deuteronomy 18:22): "if the word does not come to pass or come true, that is a word that the LORD has not spoken; the prophet has spoken it presumptuously."
+
+**The answer:** Armstrongism's British-Israelism is the mirror image of the Black Hebrew Israelite error treated elsewhere in this guide: each names one people Israel by blood, Anglo-Saxons in one case and Black Americans in the other, while Scripture counts Abraham's offspring by faith in Christ (Galatians 3:29). The parent church saw its errors and repented of them. Test the teachings of the splinter groups by the gospel it recovered: one God in three persons, salvation by grace, the Holy Spirit as God, and the promises open to all who are in Christ.
+
+---
+
 ### Arianism
 
 **Also known as:** Arian Christianity. Anti-Nicene theology. Subordinationism (in milder forms). Semi-Arianism (Homoiousian: the Son is "of similar substance" rather than "of the same substance"). Eunomianism (after Eunomius, an extreme Arian). The "Homoian" position (Son is "like" the Father). Modern descendants in this list (Jehovah's Witnesses, Iglesia ni Cristo, Christadelphians, some Unitarian groups) preserve the Arian Christology under different organizational names.
@@ -192,12 +222,12 @@ Deuteronomy 18:22 is direct: "When a prophet speaks in the name of the LORD, if 
 
 **Scriptural conflicts:**
 
-- (John 1:1): "In the beginning was the Word, and the Word was with God, and the Word was God." The Greek *theos en ho logos* is unambiguous; the Word was God, eternally.
+- (John 1:1): "In the beginning was the Word, and the Word was with God, and the Word was God." The Word already *was* in the beginning, was with God, and was God, and "all things were made through him, and without him was not any thing made that was made" (John 1:3). He is not one of the things made; He is the One through whom everything made came to be.
 - (John 8:58): "Before Abraham was, I am." Yeshua applies the divine name *ego eimi* (the Septuagint rendering of *ehyeh asher ehyeh* in Exodus 3:14) to Himself.
-- (Colossians 1:15-17): "He is the image of the invisible God, the firstborn of all creation. For by him all things were created... all things were created through him and for him. And he is before all things, and in him all things hold together." *Prototokos* (firstborn) here means preeminent in rank, not first in time; the rest of the passage rules out any reading of Him as a creature.
+- (Colossians 1:15-17): "The Son is the image of the invisible God, the firstborn over all creation. For in Him all things were created, things in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities. All things were created through Him and for Him. He is before all things, and in Him all things hold together." *Prototokos* (firstborn) here means preeminent in rank, not first in time; the rest of the passage rules out any reading of Him as a creature.
 - (Colossians 2:9): "For in him the whole fulness of deity dwells bodily."
 - (Hebrews 1:8): "But of the Son he says, 'Your throne, O God, is forever and ever.'" The Father directly calls the Son God.
-- (Titus 2:13): "...our great God and Savior Jesus Christ."
+- (Titus 2:13): "as we await the blessed hope and glorious appearance of our great God and Savior Jesus Christ."
 
 **Historical record:** The Council of Nicaea convened in 325 AD specifically to address Arianism. Of the approximately 318 bishops present, all but two signed the Nicene Creed declaring the Son *homoousios*, of one substance with the Father. The two who refused were exiled along with Arius. Arius died in Constantinople in 336 AD under disputed circumstances.
 
@@ -397,8 +427,8 @@ If you are inside a prosperity ministry and these patterns are surfacing concern
 - (1 Timothy 2:3-4): "This is good, and it is pleasing in the sight of God our Savior, who desires all people to be saved and to come to the knowledge of the truth."
 - (2 Peter 3:9): "The Lord is not slow to fulfill his promise as some count slowness, but is patient toward you, not wishing that any should perish, but that all should reach repentance."
 - (Ezekiel 33:11): "Say to them, As I live, declares the Lord GOD, I have no pleasure in the death of the wicked, but that the wicked turn from his way and live."
-- (Ezekiel 18:23, 32): "Have I any pleasure in the death of the wicked, declares the Lord GOD, and not rather that he should turn from his way and live?... For I have no pleasure in the death of anyone, declares the Lord GOD; so turn, and live."
-- (Matthew 23:37): "O Jerusalem, Jerusalem... How often would I have gathered your children together as a hen gathers her brood under her wings, and you would not!" Yeshua weeps over Jerusalem because they refused. Calvinist theology must reread this as Yeshua wanting what God did not actually decree, splitting the divine will against itself.
+- (Ezekiel 18:23, 32): "Do I take any pleasure in the death of the wicked? declares the Lord GOD. Wouldn’t I prefer that he turn from his ways and live?"; "For I take no pleasure in anyone’s death, declares the Lord GOD. So repent and live!"
+- (Matthew 23:37): "O Jerusalem, Jerusalem, who kills the prophets and stones those sent to her, how often I have longed to gather your children together, as a hen gathers her chicks under her wings, but you were unwilling!" Yeshua weeps over Jerusalem because they refused. Calvinist theology must reread this as Yeshua wanting what God did not actually decree, splitting the divine will against itself.
 
 The Calvinist response is to distinguish "God's revealed will" (what He commands) from "God's secret will" (what He decrees). On this view, God reveals He wants all saved while secretly decreeing only some to be saved. The text never makes this distinction. The text says God desires all. To save the system, the system overrides the text.
 
@@ -406,8 +436,8 @@ The Calvinist response is to distinguish "God's revealed will" (what He commands
 
 - (John 3:16): "For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life." The Greek *ton kosmon* (the world) is comprehensive; the same Greek word in 1 John 2:15-17 ("Do not love the world") clearly means every person, every nation, the entire human race.
 - (1 John 2:2): "He is the propitiation for our sins, and not for ours only but also for the sins of the whole world." This verse is fatal to Limited Atonement on its plain reading. The Calvinist must redefine "world" here to mean "the elect from every nation" rather than "every person." The Greek *holos ho kosmos* will not bear that load.
-- (Hebrews 2:9): "...so that by the grace of God he might taste death for everyone." The Greek *huper pantos* is "for every one." Not for some.
-- (1 Timothy 4:10): "...the living God, who is the Savior of all people, especially of those who believe." All people. Especially (not exclusively) believers.
+- (Hebrews 2:9): "But we see Jesus, who was made a little lower than the angels, now crowned with glory and honor because He suffered death, so that by the grace of God He might taste death for everyone." The Greek *huper pantos* is "for every one." Not for some.
+- (1 Timothy 4:10): "To this end we labor and strive, because we have set our hope on the living God, who is the Savior of everyone, and especially of those who believe." All people. Especially (not exclusively) believers.
 - (2 Peter 2:1): "But false prophets also arose among the people, just as there will be false teachers among you, who will secretly bring in destructive heresies, **even denying the Master who bought them**, bringing upon themselves swift destruction." Peter says false teachers were bought (purchased through the atonement) and yet are destroyed. Limited Atonement cannot account for this.
 - (Isaiah 53:6): "All we like sheep have gone astray; we have turned, every one, to his own way; and the LORD has laid on him the iniquity of us all." The same "all" who went astray is the "all" whose iniquity was laid on the Servant. To restrict the second "all" to the elect requires restricting the first "all" to the elect, which would mean only the elect ever sinned. The text will not allow this.
 
@@ -424,14 +454,14 @@ The words "whoever," "everyone," "all who," "anyone," and "any" appear throughou
 **4. Scripture warns real believers they can fall away. These warnings make no sense if falling away is impossible:**
 
 - (Hebrews 6:4-6): "For it is impossible, in the case of those who have once been enlightened, who have tasted the heavenly gift, and have shared in the Holy Spirit, and have tasted the goodness of the word of God and the powers of the age to come, and then have fallen away, to restore them again to repentance, since they are crucifying once again the Son of God to their own harm and holding him up to contempt."
-- (Hebrews 10:26-29): "For if we go on sinning deliberately after receiving the knowledge of the truth, there no longer remains a sacrifice for sins, but a fearful expectation of judgment, and a fury of fire that will consume the adversaries... How much worse punishment, do you think, will be deserved by the one who has trampled underfoot the Son of God, and has profaned the blood of the covenant by which he was sanctified, and has outraged the Spirit of grace?" Note: "by which he was sanctified." The person warned was sanctified by the blood of Christ; that is not an unbeliever's status.
+- (Hebrews 10:26-29): "If we deliberately go on sinning after we have received the knowledge of the truth, no further sacrifice for sins remains, but only a fearful expectation of judgment and of raging fire that will consume all adversaries. Anyone who rejected the law of Moses died without mercy on the testimony of two or three witnesses. How much more severely do you think one deserves to be punished who has trampled on the Son of God, profaned the blood of the covenant that sanctified him, and insulted the Spirit of grace?" Note: "by which he was sanctified." The person warned was sanctified by the blood of Christ; that is not an unbeliever's status.
 - (2 Peter 2:20-22): "For if, after they have escaped the defilements of the world through the knowledge of our Lord and Savior Jesus Christ, they are again entangled in them and overcome, the last state has become worse for them than the first. For it would have been better for them never to have known the way of righteousness than after knowing it to turn back from the holy commandment delivered to them."
 - (1 Timothy 4:1): "Now the Spirit expressly says that in later times some will depart from the faith by devoting themselves to deceitful spirits and teachings of demons." Departing from the faith presupposes having had the faith.
 - (1 Corinthians 9:27): Paul writes, "But I discipline my body and keep it under control, lest after preaching to others I myself should be disqualified." If Paul, the apostle, can fear disqualification, the doctrine that perseverance is automatic is wrong.
 - (John 15:1-6): The vine and branches passage. Jesus says branches IN HIM that bear no fruit are taken away, gathered, thrown into the fire, and burned. To force this to mean "branches that were never really in Him" requires reading the text against itself.
 - (Galatians 5:4): "You are severed from Christ, you who would be justified by the law; you have fallen away from grace." Paul addresses Galatian believers and says they can fall from grace.
 
-The Calvinist response to all these warnings is "they are addressed to false converts who never were truly saved" or "they are hypothetical warnings used to keep the elect persevering." The text gives no indication of this. The warnings are addressed to "brothers" (Hebrews 3:12), to "you who have been enlightened... who have tasted... who have shared." If the warnings are not real, the words used to describe their recipients are misleading.
+The Calvinist response to all these warnings is "they are addressed to false converts who never were truly saved" or "they are hypothetical warnings used to keep the elect persevering." The text gives no indication of this. The warnings are addressed to "brothers" (Hebrews 3:12). Hebrews 6:4-6 says: "It is impossible for those who have once been enlightened, who have tasted the heavenly gift, who have shared in the Holy Spirit, who have tasted the goodness of the word of God and the powers of the coming age — and then have fallen away — to be restored to repentance, because they themselves are crucifying the Son of God all over again and subjecting Him to open shame." If the warnings are not real, the words used to describe their recipients are misleading.
 
 **5. Real choice is part of God's design. Scripture commands choice, not merely the appearance of it:**
 
@@ -476,9 +506,9 @@ Examine that picture against Scripture's testimony about who God is:
 
 **God is love.** (1 John 4:8, 16): "God is love." This is not a metaphor and not an attribute among others; it is a statement about His essence. Love that refuses to give the beloved any real possibility of response is not love. A husband who "loves" his wife but irresistibly causes her every choice has not loved her. A father who "loves" his children but predetermines from before their conception which ones will spend eternity with him and which ones will burn, with no real choice for any of them, is not loving them. He is choosing them or rejecting them, but it is not love. Calvinism must redefine love the way it redefines justice, until the word means something other than what every reader of Scripture, every spouse, and every parent knows it to mean.
 
-**God is not a respecter of persons.** (Acts 10:34): "Truly I understand that God shows no partiality." (Romans 2:11): "For God shows no partiality." (Deuteronomy 10:17): "...who is not partial and takes no bribe." Yet Unconditional Election is the doctrine that God shows partiality on the most consequential matter that exists, choosing some for eternal glory and passing over others, with no basis in anything those persons did or would do. The Calvinist response is that God's selection is not arbitrary because it is rooted in His sovereign will. That answer trades the word "partial" for the word "sovereign" without resolving the moral problem; it just relabels it.
+**God is not a respecter of persons.** (Acts 10:34): "Truly I understand that God shows no partiality." (Romans 2:11): "For God shows no partiality." (Deuteronomy 10:17): "For the LORD your God is God of gods and Lord of lords, the great, mighty, and awesome God, showing no partiality and accepting no bribe." Yet Unconditional Election is the doctrine that God shows partiality on the most consequential matter that exists, choosing some for eternal glory and passing over others, with no basis in anything those persons did or would do. The Calvinist response is that God's selection is not arbitrary because it is rooted in His sovereign will. That answer trades the word "partial" for the word "sovereign" without resolving the moral problem; it just relabels it.
 
-**God does not desire the death of the wicked.** (Ezekiel 18:23): "Have I any pleasure in the death of the wicked, declares the Lord GOD, and not rather that he should turn from his way and live?" (Ezekiel 18:32): "For I have no pleasure in the death of anyone, declares the Lord GOD; so turn, and live." (Ezekiel 33:11): "As I live, declares the Lord GOD, I have no pleasure in the death of the wicked." (1 Timothy 2:4): "...who desires all people to be saved." (2 Peter 3:9): "...not wishing that any should perish, but that all should reach repentance."
+**God does not desire the death of the wicked.** (Ezekiel 18:23): "Have I any pleasure in the death of the wicked, declares the Lord GOD, and not rather that he should turn from his way and live?" (Ezekiel 18:32): "For I have no pleasure in the death of anyone, declares the Lord GOD; so turn, and live." (Ezekiel 33:11): "As I live, declares the Lord GOD, I have no pleasure in the death of the wicked." (1 Timothy 2:4): "who wants everyone to be saved and to come to the knowledge of the truth." (2 Peter 3:9): "The Lord is not slow in keeping His promise as some understand slowness, but is patient with you, not wanting anyone to perish but everyone to come to repentance."
 
 These verses are decisive. God Himself, by His own word, by His own oath ("As I live"), declares that He has no pleasure in the death of the wicked and desires that they turn and live. Strict Calvinism must say that this revealed desire is not God's actual will, that God's secret decree determines that most of those whose deaths He claims to grieve will in fact die unredeemed because He never gave them the grace to repent. The system splits God against Himself: His revealed will pleads, His decretal will refuses. The God of Scripture is not double-minded (James 1:8 applies only to the man, but the principle of integrity belongs to God by nature). A God who weeps over the lost (Luke 19:41-44) while having decreed their lostness from eternity is a God whose tears are theatrical. Calvinist theologians have wrestled honestly with this tension; the wrestling has not resolved it.
 
@@ -754,7 +784,7 @@ If you encounter Scientology recruitment, it will likely come through one of the
 **Why it is heresy:**
 
 - Denies the reality of sin: (Romans 3:23): "All have sinned and fall short of the glory of God." (1 John 1:8): "If we say we have no sin, we deceive ourselves, and the truth is not in us."
-- Denies the bodily resurrection: (1 Corinthians 15:14-17): "If Christ has not been raised, our preaching is in vain and your faith is in vain... If in Christ we have hope in this life only, we are of all people most to be pitied."
+- Denies the bodily resurrection: (1 Corinthians 15:14-19): "And if Christ has not been raised, our preaching is worthless, and so is your faith. In that case, we are also exposed as false witnesses about God. For we have testified about God that He raised Christ from the dead, but He did not raise Him if in fact the dead are not raised. For if the dead are not raised, then not even Christ has been raised. And if Christ has not been raised, your faith is futile; you are still in your sins. Then those also who have fallen asleep in Christ have perished. If our hope in Christ is for this life alone, we are to be pitied more than all men."
 - Replaces biblical authority with Eddy's writings: Same error as Mormonism, Watch Tower, and others.
 - Dualism: Treats matter as illusion and spirit as real, reviving Gnostic anti-material premises. Christianity affirms the goodness of creation (Genesis 1:31).
 
@@ -793,11 +823,11 @@ The dead do not communicate with the living. What spiritualism contacts, when co
 
 **Current visibility:** The formal Shaker movement has very few remaining adherents, but the core error is not gone. The same pattern reappears whenever a teacher claims a new incarnation, second appearing, or completed version of Christ beyond Jesus of Nazareth.
 
-**Why it is heresy:** Adds a "second incarnation" of Christ, contradicting (Hebrews 9:28): "Christ, having been offered once to bear the sins of many, will appear a second time, not to deal with sin but to save those who are eagerly waiting for him." A female "second Christ" is the same error as World Mission Society Church of God's "God the Mother." Mandatory celibacy contradicts (1 Timothy 4:1-3): "Now the Spirit expressly says that in later times some will depart from the faith by devoting themselves to deceitful spirits and teachings of demons, through the insincerity of liars whose consciences are seared, who forbid marriage..."
+**Why it is heresy:** Adds a "second incarnation" of Christ, contradicting (Hebrews 9:28): "Christ, having been offered once to bear the sins of many, will appear a second time, not to deal with sin but to save those who are eagerly waiting for him." A female "second Christ" is the same error as World Mission Society Church of God's "God the Mother." Mandatory celibacy contradicts (1 Timothy 4:1-3): "Now the Spirit expressly states that in later times some will abandon the faith to follow deceitful spirits and the teachings of demons, influenced by the hypocrisy of liars, whose consciences are seared with a hot iron. They will prohibit marriage and require abstinence from certain foods that God has created to be received with thanksgiving by those who believe and know the truth."
 
 ---
 
-### Pentecostalism / Modalism
+### Oneness Pentecostalism / Modalism
 
 **Also known as:** Oneness Pentecostal. Apostolic Pentecostal. Apostolic Faith. United Pentecostal Church International (UPCI, the largest Oneness body). Pentecostal Assemblies of the World (PAW, the historically Black Oneness body). Bible Way Church. The Apostolic Church. Oneness Apostolic. Jesus Only. Jesus Name. Jesus' Name Pentecostalism. Sabellianism (the historic patristic name, after Sabellius). Modalistic Monarchianism (the technical patristic term). Patripassianism (a sub-variant teaching that the Father suffered on the cross, since Father, Son, and Spirit are the same person). Modalists (general). The "Acts 2:38" people (after the verse they cite for Jesus-name baptism). Some smaller Oneness bodies use names like "True Jesus Church," "First Born Church of the Living God," "Way of the Cross Church of Christ," and various "Apostolic" designations. The Trinitarian Pentecostal denominations (Assemblies of God, Foursquare Gospel, Church of God Cleveland, Pentecostal Holiness Church) are NOT Oneness; only the bodies above are.
 
@@ -817,7 +847,7 @@ The dead do not communicate with the living. What spiritualism contacts, when co
 - (John 17): Jesus prays to the Father. He does not pray to Himself. The high priestly prayer makes no sense in modalism.
 - (John 14:16): Jesus says He will ask the Father to send another Helper. The Greek *allos* (another of the same kind) presupposes distinction.
 - (Hebrews 1:8-9): The Father directly addresses the Son as God and as a distinct person.
-- (Matthew 28:19): "the name of the Father and of the Son and of the Holy Spirit" (singular "name," but three articulated persons: *tou Patros kai tou Huiou kai tou Hagiou Pneumatos*). The Greek grammar makes the three distinct.
+- (Matthew 28:19): "the name of the Father and of the Son and of the Holy Spirit" (singular "name," with the Father, the Son, and the Holy Spirit each named separately: *tou Patros kai tou Huiou kai tou Hagiou Pneumatos*). The articles do not establish personhood by themselves; the distinct persons are shown by the passages above.
 
 **Practical consequence:** Oneness theology denies the eternal love within the Godhead. If God is one Person, He had no one to love until He created. Trinitarian theology grounds love eternally in God Himself: the Father loves the Son in the Spirit from before time. (1 John 4:8): "God is love." This is meaningful only if God is internally relational.
 
@@ -860,7 +890,7 @@ The Roman Catholic Church is a complex institution. It affirms the Trinity, the 
 Scripture is direct:
 
 - (1 Timothy 2:5): "For there is one God, and there is one mediator between God and men, the man Christ Jesus."
-- (Exodus 20:3-5): "You shall have no other gods before me. You shall not make for yourself a carved image... You shall not bow down to them or serve them."
+- (Exodus 20:3-5): "You shall have no other gods before Me. You shall not make for yourself an idol in the form of anything in the heavens above, on the earth below, or in the waters beneath. You shall not bow down to them or worship them; for I, the LORD your God, am a jealous God, visiting the iniquity of the fathers on their children to the third and fourth generations of those who hate Me,"
 - (Deuteronomy 18:11): The dead are not to be consulted; necromancy is forbidden. Praying to deceased saints is functionally indistinguishable from this.
 - (Matthew 6:9): The Father is the proper recipient of prayer.
 
@@ -1007,6 +1037,26 @@ Gnosticism offers secret knowledge. The gospel offers public truth. Gnosticism d
 
 ---
 
+### Black Hebrew Israelites
+
+**Also known as:** Hebrew Israelites. Black Hebrews. Israelite camps. The "1West" camps (a common label for the confrontational street-preaching groups). Organizations in the militant stream include the Israelite School of Universal Practical Knowledge (ISUPK), Israel United in Christ (IUIC), the Great Millstone, House of Israel, and the Sicarii. This entry does not target the older, non-militant congregations such as William Saunders Crowdy's Church of God and Saints of Christ (1896) or Wentworth Arthur Matthew's Commandment Keepers (1919); it targets the racially exclusivist, grace-denying stream that the Southern Poverty Law Center and the Anti-Defamation League have documented as antisemitic hate groups. It overlaps the Hebrew Roots entry on the law-as-salvation error; see that entry as well.
+
+**What it is:** A modern movement, mostly among Black Americans, teaching that Black people (often together with Hispanics and Native Americans) are the literal biological descendants of the twelve tribes of Israel and therefore the only true covenant people. In its militant forms it adds that white people are Edomites, the descendants of Esau and the biblical enemy, and that the people known today as Jews are impostors. Salvation is cast as a matter of bloodline plus law-keeping; grace is rejected, and some camps reject the name of Jesus (using forms such as "Yahawashi") and reject Christianity as a slavemaster's religion.
+
+**A fair statement first:** People of African descent were present in the biblical world and are present among Jews and Israelites today; claiming Hebrew ancestry is not itself the error, and studying one's heritage is not sin. The error named here is the doctrine: that the covenant belongs to one race, that another race is the enemy by blood, and that salvation comes by lineage and law rather than by Christ received through faith.
+
+**Why it is heresy:**
+
+- **The gospel is not inherited by blood.** (Galatians 3:7-9): "it is those of faith who are the sons of Abraham." (Galatians 3:28-29): "There is neither Jew nor Greek, slave nor free, male nor female, for you are all one in Christ Jesus. And if you belong to Christ, then you are Abraham’s seed and heirs according to the promise." (Romans 2:28-29): the true Jew is one inwardly, by the Spirit. (Romans 10:12-13): "For there is no difference between Jew and Greek: The same Lord is Lord of all, and gives richly to all who call on Him, for, “Everyone who calls on the name of the Lord will be saved.”"
+- **God shows no partiality, and the dividing wall is gone.** (Acts 10:34-35): "Then Peter began to speak: “I now truly understand that God does not show favoritism, but welcomes those from every nation who fear Him and do what is right." (Ephesians 2:14): Christ "has broken down in his flesh the dividing wall of hostility." (Revelation 7:9): a multitude "from every nation, from all tribes and peoples and languages," standing before the throne.
+- **Racial hatred breaks the command that sums up the law.** (Matthew 22:37-39): love God, and love your neighbor as yourself. (1 John 4:20): "If anyone says, 'I love God,' and hates his brother, he is a liar." (James 2:9): "if you show partiality, you are committing sin."
+- **It misreads "synagogue of Satan."** The camps cite (Revelation 2:9) to brand modern Jews impostors, but that verse addresses one first-century situation in Smyrna; it is not a charter for racial unmasking. Paul settles it: (Romans 11:1-2): "Has God rejected his people? By no means!" (Romans 11:28-29): "the gifts and the calling of God are irrevocable."
+- **Where it rejects or renames the Savior, it denies the only name that saves.** (John 14:6): "No one comes to the Father except through me." (Acts 4:12): "there is no other name under heaven given among men by which we must be saved."
+
+**The answer:** This is the Judaizers' old error, the gospel of bloodline and law that Paul fought in Galatians, hardened into racial supremacy and turned against the Jews themselves. The covenant was never a matter of race; it is a matter of being in Christ, where there is no Jew or Greek, no slave or free, no Edomite or Israelite by blood, only one new people made by faith. Hatred of any race is proof the doctrine is not from God, "for God shows no partiality" (Romans 2:11).
+
+---
+
 ### Monophysitism / Eutychianism
 
 **Also known as:** Eutychianism (after Eutyches). Monophysitism (Greek: "one nature"). Miaphysitism (the related but distinct Oriental Orthodox position; "one united nature"). Non-Chalcedonian Christianity. Pre-Chalcedonian Christianity (sympathetic term used by Oriental Orthodox). Anti-Chalcedonian (polemical term). Cyrillian theology (after Cyril of Alexandria, whose language some Monophysites cited). The "one nature" school. Specific Oriental Orthodox churches that historically rejected Chalcedon: Coptic Orthodox Church, Ethiopian Orthodox Tewahedo Church, Eritrean Orthodox Tewahedo Church, Syriac Orthodox Church (formerly Jacobite), Armenian Apostolic Church, Malankara Orthodox Syrian Church (India). These churches now call themselves Miaphysite rather than Monophysite and the historical rupture is significantly understood as linguistic.
@@ -1050,7 +1100,7 @@ Gnosticism offers secret knowledge. The gospel offers public truth. Gnosticism d
 - (Romans 5:12-21): "Sin came into the world through one man, and death through sin, and so death spread to all men because all sinned."
 - (Psalm 51:5): "Behold, I was brought forth in iniquity, and in sin did my mother conceive me."
 - (Ephesians 2:8-9): "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast."
-- (Romans 3:10-12): "None is righteous, no, not one... no one does good, not even one."
+- (Romans 3:10-12): "As it is written: “There is no one righteous, not even one. There is no one who understands, no one who seeks God. All have turned away, they have together become worthless; there is no one who does good, not even one.”"
 
 Augustine's response to Pelagianism (in works like *On Nature and Grace*, *On the Spirit and the Letter*) became the foundation of the Western church's understanding of grace. The Council of Carthage (418 AD) and the Council of Ephesus (431 AD) condemned Pelagianism.
 
@@ -1122,7 +1172,7 @@ Augustine's response to Pelagianism (in works like *On Nature and Grace*, *On th
 
 **Why it is heresy:**
 
-- (1 John 1:1-3): The apostle directly refutes Docetic and Gnostic claims: "That which was from the beginning, which we have heard, which we have seen with our eyes, which we looked upon and have touched with our hands, concerning the word of life..."
+- (1 John 1:1-3): The apostle directly refutes Docetic and Gnostic claims: "That which was from the beginning, which we have heard, which we have seen with our own eyes, which we have gazed upon and touched with our own hands — this is the Word of life. And this is the life that was revealed; we have seen it and testified to it, and we proclaim to you the eternal life that was with the Father and was revealed to us. We proclaim to you what we have seen and heard, so that you also may have fellowship with us. And this fellowship of ours is with the Father and with His Son, Jesus Christ."
 - (Genesis 1:31): "And God saw everything that he had made, and behold, it was very good." Material creation is good.
 - (1 Timothy 4:1-5): Forbidding marriage and certain foods (Gnostic-influenced asceticism) is named as a doctrine of demons.
 - (Colossians 2:8-10): The fullness of deity dwells bodily in Christ. No secret hierarchy of aeons mediates between the Father and creation.
@@ -1160,11 +1210,37 @@ Augustine's response to Pelagianism (in works like *On Nature and Grace*, *On th
 **Why it is heresy:**
 
 - (1 John 4:2-3): "Every spirit that confesses that Jesus Christ has come in the flesh is from God, and every spirit that does not confess Jesus is not from God. This is the spirit of the antichrist."
-- (1 John 1:1): "...which we have looked upon and have touched with our hands."
+- (1 John 1:1): "That which was from the beginning, which we have heard, which we have seen with our own eyes, which we have gazed upon and touched with our own hands — this is the Word of life."
 - (Luke 24:39): "See my hands and my feet, that it is I myself. Touch me, and see. For a spirit does not have flesh and bones as you see that I have."
 - (Hebrews 2:14): "Since therefore the children share in flesh and blood, he himself likewise partook of the same things, that through death he might destroy the one who has the power of death."
 
 If Christ did not really take on human flesh, the incarnation is fictional and the cross is theatrical. The gospel collapses.
+
+---
+
+### Full Preterism (Hyper-Preterism)
+
+**Also known as:** Hyper-preterism. Consistent preterism. Pantelism (from Greek *panteles*, "entirely complete"). Covenant Eschatology (its preferred internal name). The "AD 70 doctrine." Key modern figures: Max King (*The Spirit of Prophecy*, 1971; *The Cross and the Parousia of Christ*, 1987), Don K. Preston, Ed Stevens (International Preterist Association), John Noe. It spreads mainly through books, websites, and online forums rather than a single denomination, and some adherents remain inside otherwise-orthodox congregations.
+
+**Not to be confused with partial preterism.** Partial preterism holds that much of the Olivet Discourse and Revelation's near judgments fell on Jerusalem in AD 70, while still confessing a future bodily return of Christ, a future bodily resurrection, and a final judgment still ahead. That is a legitimate interpretive view held by many Scripture-affirming believers. The heresy named here is the *full* or *consistent* form, which extends the AD 70 fulfillment to everything and leaves nothing future.
+
+**Historical form and modern echo:** The claim that the resurrection had already occurred appeared in the apostles' own day; Paul opposed it in 2 Timothy 2:17-18. The built-out system is modern, formalized by Max King in the 1970s under the name Covenant Eschatology, and it circulates today mostly online.
+
+**Core teaching:** Every biblical prophecy, including the Second Coming, the resurrection of the dead, and the final judgment, was fulfilled by AD 70 in the Roman destruction of Jerusalem and the Temple. The return of Christ was a spiritual, invisible "coming" in judgment on Jerusalem, not a future bodily appearing. The resurrection was likewise "spiritual" and is already past. Therefore nothing prophetic remains future: no bodily return, no bodily resurrection of believers, no final judgment, no new heavens and new earth still to come. History simply continues with no appointed end.
+
+**Why it is heresy:**
+
+- **Paul named this exact error and condemned it.** (2 Timothy 2:17-18): "and the talk of such men will spread like gangrene. Among them are Hymenaeus and Philetus, who have deviated from the truth. They say that the resurrection has already occurred, and they undermine the faith of some." A resurrection already past is not a new idea; it is the Hymenaeus-Philetus error, and Scripture calls it swerving from the truth and overthrowing faith.
+- **It denies the future bodily resurrection, which Paul makes the hinge of the gospel.** (1 Corinthians 15:12-19): if there is no future resurrection of the dead, then Christ was not raised, and "if Christ has not been raised, your faith is futile and you are still in your sins" (15:17). Christ is "the firstfruits," and the believers' resurrection comes "at his coming" (15:23), which full preterism places in the past and spiritualizes away.
+- **It denies the visible, bodily return.** (Acts 1:11): "This Jesus, who was taken up from you into heaven, will come in the same way as you saw him go into heaven." (Revelation 1:7): "Behold, he is coming with the clouds, and every eye will see him." An invisible AD 70 "coming" that no eye saw cannot satisfy either text.
+- **It abolishes the blessed hope the church is still told to wait for.** (Titus 2:13): "as we await the blessed hope and glorious appearance of our great God and Savior Jesus Christ." (1 Thessalonians 4:16-17): the dead in Christ rise and the living are caught up. If that already happened in AD 70, the church has been waiting for nothing.
+- **Paul rebuked the same panic in his own day.** (2 Thessalonians 2:1-3): concerning "the coming of our Lord Jesus Christ and our being gathered together to him," he tells them not to be shaken by any message claiming "that the day of the Lord has come," because that day will not come until the rebellion and the man of lawlessness come first. People were already claiming the day had arrived; Paul said they were deceived.
+- **It is the mindset Peter assigned to the scoffers.** (2 Peter 3:3-4): "Most importantly, you must understand that in the last days scoffers will come, scoffing and following their own evil desires. “Where is the promise of His coming?” they will ask. “Ever since our fathers fell asleep, everything continues as it has from the beginning of creation.”" Peter answers them with a still-future consummation: "new heavens and a new earth in which righteousness dwells" (2 Peter 3:13).
+- **It contradicts the plain words of Jesus Himself.** In the Olivet Discourse the Lord ties the Temple's destruction to a future, visible coming: (Matthew 24:30): "At that time the sign of the Son of Man will appear in heaven, and all the tribes of the earth will mourn. They will see the Son of Man coming on the clouds of heaven with power and great glory." When the Lord places a visible coming ahead, there is nothing to reinterpret.
+
+**On Daniel 9 and AD 70:** Reading Daniel 9:26, "the people of the prince who is to come shall destroy the city and the sanctuary," as the Roman destruction of Jerusalem and the Temple in AD 70 is a legitimate reading, held by many who are nowhere near full preterism. The error is not dating the Temple's destruction to AD 70. The error is the leap from "AD 70 fulfilled much prophecy" to "therefore nothing is future, including the resurrection and the return." The first is interpretation. The second denies the faith.
+
+**The answer:** Partial preterism can honor the text and still wait for the Lord. Full preterism cannot, because it treats the believer's resurrection and the Lord's return as already fulfilled in AD 70. It is the old Hymenaeus claim in a new system: a resurrection already past, a hope already emptied. Test it by the promise that still stands: "Men of Galilee,” they said, “why do you stand here looking into the sky? This same Jesus, who has been taken from you into heaven, will come back in the same way you have seen Him go into heaven." (Acts 1:11).
 
 ---
 

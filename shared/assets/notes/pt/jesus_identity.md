@@ -6,7 +6,7 @@ A fé cristã começa com o Messias de Israel. Jesus nasceu no povo de Israel e 
 
 ## Jesus descendeu de Abraão, Davi e Judá
 
-> "Este é o registro da genealogia de Jesus Cristo, filho de Davi, filho de Abraão..."
+> "Este é o registro dos antepassados de Jesus Cristo, descendente de Davi e de Abraão:"
 >
 > **Mateus 1:1**
 
@@ -14,13 +14,13 @@ Mateus apresenta Jesus colocando-O dentro da história da aliança de Israel. Ab
 
 Hebreus é ainda mais explícito:
 
-> "Pois é evidente que nosso Senhor descendeu de Judá..."
+> "De fato, como todos sabem, nosso Senhor veio da tribo de Judá, e Moisés nunca mencionou que dessa tribo viriam sacerdotes."
 >
 > **Hebreus 7:14**
 
 Jesus pertence à tribo de Judá. Apocalipse mantém essa identidade depois de Sua ressurreição e ascensão:
 
-> "Eis que o Leão da tribo de Judá, a Raiz de Davi, triunfou..."
+> "Então um dos 24 anciãos me disse: “Não chore! Veja, o Leão da tribo de Judá, o herdeiro do trono de Davi, conquistou a vitória. Ele é digno de abrir o livro e os sete selos”."
 >
 > **Apocalipse 5:5**
 
@@ -36,19 +36,19 @@ Quando Jesus falou com a mulher samaritana, ela disse:
 
 Jesus não corrigiu a identificação dela. Na mesma conversa, Ele disse:
 
-> "...a salvação vem dos judeus."
+> "Vocês, samaritanos, sabem muito pouco a respeito daquele a quem adoram. Nós adoramos com conhecimento, pois a salvação vem por meio dos judeus."
 >
 > **João 4:22**
 
 Paulo também descreve o Messias como procedente de Israel segundo Sua ascendência humana:
 
-> "Deles são os patriarcas, e deles procede a descendência humana de Cristo..."
+> "Do povo de Israel vêm os patriarcas, e o próprio Cristo, quanto à sua natureza humana, era israelita. E ele é Deus, aquele que governa sobre todas as coisas e é digno de louvor eterno! Amém."
 >
 > **Romanos 9:5**
 
 ## Jesus foi circuncidado e apresentado segundo a Lei
 
-> "Quando se completaram os oito dias para a Sua circuncisão, foi-Lhe dado o nome de Jesus..."
+> "Oito dias depois, quando o bebê foi circuncidado, chamaram-no Jesus, o nome que o anjo lhe tinha dado antes mesmo de ele ser concebido."
 >
 > **Lucas 2:21**
 
@@ -125,7 +125,7 @@ O Novo Testamento não ensina os gentios a se tornarem etnicamente judeus. Ensin
 
 Paulo diz aos crentes gentios que antes estavam:
 
-> "separados de Cristo, excluídos da comunidade de Israel e estranhos às alianças da promessa..."
+> "Naquele tempo, vocês viviam afastados de Cristo. Não tinham os privilégios do povo de Israel e não conheciam as promessas da aliança. Viviam no mundo sem Deus e sem esperança."
 >
 > **Efésios 2:12**
 

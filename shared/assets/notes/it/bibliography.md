@@ -88,6 +88,12 @@ Le opere seguenti sono elencate come fonti per le note di studio e le introduzio
 
 - Scholem, Gershom. *Kabbalah.* Jerusalem: Keter Publishing House, 1974. [Scheda di catalogo del 1974](https://juc.gov.jo/cgi-bin/koha/opac-ISBDdetail.pl?biblionumber=1303725) | [Google Books, ristampa successiva](https://books.google.com/books?id=qJesQGFsSwsC)
 
+- Colwell, E. C. "A Definite Rule for the Use of the Article in the Greek New Testament." *Journal of Biblical Literature* 52 (1933): 12-21.
+
+- Harner, Philip B. "Qualitative Anarthrous Predicate Nouns: Mark 15:39 and John 1:1." *Journal of Biblical Literature* 92 (1973): 75-87.
+
+- Caragounis, Chrys C., and Jan van der Watt. "A Grammatical Analysis of John 1,1." *Filología Neotestamentaria* 21 (2008): 91-138. [BSW](https://www.bsw.org/filologia-neotestamentaria/vol-21-2008/a-grammatical-analysis-of-john-1-1/525/article-p91.html)
+
 ## Commentari, teologia biblica e opere apologetiche
 
 - Stoner, Peter W. *Science Speaks.* 2a ed. Chicago: Moody Press, 1958. [Scheda dell'edizione](https://openlibrary.org/works/OL8400068W/Science_Speaks) | [Edizione online riveduta successivamente](https://sciencespeaks.dstoner.net/)
@@ -103,6 +109,28 @@ Le opere seguenti sono elencate come fonti per le note di studio e le introduzio
 - Brown, Michael L. *Answering Jewish Objections to Jesus.* 5 vol. Vol. 1-4, Grand Rapids: Baker Books, 2000-2006; Vol. 5, Purple Pomegranate Productions, 2010. [Vol. 1](https://books.google.com/books?id=HeBjnPNWkNQC) | [Vol. 2](https://books.google.com/books?id=hDItC304gtAC) | [Vol. 3](https://bakerpublishinggroup.com/products/9780801064234_answering-jewish-objections-to-jesus) | [Vol. 4](https://bakerpublishinggroup.com/products/9780801064265_answering-jewish-objections-to-jesus) | [Vol. 5](https://www.logos.com/product/47649/answering-jewish-objections-to-jesus-vol-5)
 
 - Keil, C. F. *The Twelve Minor Prophets.* Tradotto da James Martin. Vol. 10 di *Commentary on the Old Testament*, di C. F. Keil e F. Delitzsch. Peabody, MA: Hendrickson, 1996. [Scheda della raccolta in dieci volumi del 1996](https://verbum.com/product/5790/keil-and-delitzsch-commentary-on-the-old-testament-k-d) | [Scansione originale di pubblico dominio](https://archive.org/details/biblicalcommenta06keil06) | [Testo gratuito consultabile](https://www.stepbible.org/version.jsp?version=KD)
+
+## Fonti dei movimenti e documentazione
+
+**Nota:** Pubblicazioni dei gruppi trattati nelle note, documentazione delle organizzazioni che li monitorano e la traduzione del Corano citata nelle note.
+
+- Grace Communion International. "A Short History of Grace Communion International." [GCI](https://archive.gci.org/articles/a-short-history-of-grace-communion-international/)
+
+- United Church of God. "Fundamental Beliefs of the United Church of God." [UCG](https://www.ucg.org/fundamental-beliefs-of-the-united-church-of-god)
+
+- United Church of God. "What Does God Require for Eternal Life?" *The Good News*, July-August 1996. [UCG](https://www.ucg.org/learn/good-news/good-news-magazine-july-august-1996/what-does-god-require-eternal-life)
+
+- United Church of God. "Does Observing Holy Days Save Us?" Sermone. [UCG](https://www.ucg.org/sermons/does-observing-holy-days-save-us)
+
+- Watch Tower Bible and Tract Society. "Two New Members of the Governing Body." *The Watchtower* (Study Edition), October 2025. [jw.org](https://www.jw.org/en/library/magazines/watchtower-study-october-2025/Two-New-Members-of-the-Governing-Body/)
+
+- The Church of Jesus Christ of Latter-day Saints. "Download Updated March 2026 Chart of General Authorities, General Officers." Church Newsroom. [Newsroom](https://newsroom.churchofjesuschrist.org/article/download-updated-march-2026-chart-of-general-authorities-general-officers)
+
+- Southern Poverty Law Center. "Radical Hebrew Israelites." Extremist Files. [SPLC](https://www.splcenter.org/resources/extremist-files/radical-hebrew-israelites/)
+
+- Anti-Defamation League. "Black Hebrew Israelites." Backgrounder. [ADL](https://www.adl.org/resources/backgrounder/black-hebrew-israelites)
+
+- Saheeh International, trans. *The Qur'an*. Traduzione inglese; fonte delle citazioni del Corano in queste note. [Quran.com](https://quran.com/7/54?translations=20)
 
 ## Segni astronomici
 

@@ -286,7 +286,7 @@ Tenez ferme dans la foi transmise une fois pour toutes aux saints (Jude 3).
 
 **Passages de soutien :**
 
-- (Matthieu 5:14–16) « Vous êtes la lumière du monde… Une ville située sur une montagne ne peut être cachée. »
+- (Matthieu 5:14–16) « C'est vous qui êtes la lumière du monde. Une ville située sur une montagne ne peut être cachée. On n'allume pas une lampe pour la mettre sous le boisseau, mais on la met sur le porte-lampe, et elle brille pour tous ceux qui sont dans la maison. Que votre lumière brille ainsi devant les gens, afin qu'ils voient vos belles œuvres et glorifient votre Père qui est dans les cieux. »
 
 - (Jean 3:16) « Car Dieu a tant aimé le monde qu’il a donné son Fils unique, afin que quiconque croit en lui ne périsse pas, mais qu’il ait la vie éternelle. »
 
@@ -375,7 +375,7 @@ Toutes les phrases que l’on cite comme des « vérités bibliques » ne se t
 
 - La vérité : Dieu aide les impuissants.
 
-- (Psaume 121:1–2) : « Je lève mes yeux vers les montagnes… D’où me viendra le secours ? Le secours me vient de l’Éternel, qui a fait les cieux et la terre. »
+- (Psaume 121:1–2) : « Chant pour les montées. Je lève les yeux vers les montagnes. D'où me viendra le secours ? Le secours me vient du [DN]Seigneur[/DN], qui fait le ciel et la terre. »
 
 - (Romains 5:6) : « Car, lorsque nous étions encore sans force, Christ, au temps marqué, est mort pour des impies. »
 

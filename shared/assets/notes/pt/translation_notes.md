@@ -193,13 +193,13 @@ As Bíblias em inglês geralmente traduzem *daimonizomai* com a expressão ingle
 «Endemoninhado» reflete melhor o sentido passivo: alguém afetado pelo poder demoníaco em diferentes graus, sem necessariamente indicar posse permanente.
 
 **Escritura:**
-- Mateus 4:24: «…trouxeram-lhe todos os enfermos… e os *daimonizomenous* (endemoninhados)…»
+- Mateus 4:24: «As notícias a seu respeito se espalharam até a Síria, e logo o povo começou a lhe trazer todos que estavam enfermos. Qualquer que fosse a enfermidade ou dor, quer estivessem possuídos por demônio, quer sofressem de convulsões, quer fossem paralíticos, Jesus os curava.» (Grego neste versículo: *daimonizomenous*)
 
 - Mateus 8:28–33: os gadarenos *daimonizomenoi* mostraram extremo controle.
 
 - Lucas 13:11-16: uma mulher «presa por um espírito» por dezoito anos foi curada; Jesus chamou isso de opressão de Satanás.
 
-- Atos 10:38: «Deus ungiu a Jesus… e ele curou todos os oprimidos pelo diabo.»
+- Atos 10:38: «Sabem também que Deus ungiu Jesus de Nazaré com o Espírito Santo e com poder. Então Jesus foi por toda parte fazendo o bem e curando todos os oprimidos pelo diabo, porque Deus estava com ele.»
 
 **Esclarecimento:**
 - Hebraico: *shedim* (plural) = espíritos hostis aos quais Israel era proibido de oferecer sacrifícios (Deuteronômio 32:17; Salmo 106:37).
@@ -223,7 +223,7 @@ Em hebraico, *satan* significa «adversário» ou «opositor». Às vezes humano
 
 - Mateus 4:1–11: Jesus é tentado pelo diabo (*diabolos*), chamado Satanás.
 
-- Apocalipse 12:9: «o grande dragão… a antiga serpente, chamada diabo e Satanás, que engana o mundo inteiro.»
+- Apocalipse 12:9: «Esse enorme dragão, a antiga serpente chamada diabo ou Satanás, que engana o mundo todo, foi lançado na terra com seus anjos.»
 
 **Esclarecimento:**
 - «Satanás» = adversário/acusador, depois consolidado como inimigo de Deus.
@@ -245,7 +245,7 @@ O termo enfatiza impureza ritual/moral e influência espiritual hostil. Nos Evan
 
 - Marcos 3:30: «Ele tem um espírito imundo» = acusação demoníaca.
 
-- Lucas 11:24: «Quando um espírito imundo sai de uma pessoa…»
+- Lucas 11:24: «Quando um espírito impuro sai de uma pessoa, anda por lugares secos à procura de descanso. Mas, não o encontrando, diz: ‘Voltarei à casa da qual saí’.»
 
 **Esclarecimento:**
 - Contexto profético hebraico: falsa adoração e impureza ligadas a espíritos hostis.
@@ -272,7 +272,7 @@ O termo enfatiza impureza ritual/moral e influência espiritual hostil. Nos Evan
 
 - Em (Isaías 14:12), a palavra hebraica é *Helel*, que significa «O Brilhante.» Não é o mesmo termo que «Estrela da manhã» usado para Jesus no Apocalipse.
 
-- O contexto imediato se dirige ao rei da Babilônia. No entanto, a linguagem transcende qualquer governante humano («Subirei acima das mais altas nuvens; serei semelhante ao Altíssimo,» Isaías 14:14), razão pela qual a tradição cristã tem lido há muito tempo uma dupla referência: o rei humano como tipo da rebelião espiritual por trás dele. Isso é paralelo a Ezequiel 28, onde o rei de Tiro é descrito em linguagem que excede qualquer mortal («tu eras querubim ungido para proteger… estavas no santo monte de Deus»).
+- O contexto imediato se dirige ao rei da Babilônia. No entanto, a linguagem transcende qualquer governante humano («Subirei acima das mais altas nuvens; serei semelhante ao Altíssimo,» Isaías 14:14), razão pela qual a tradição cristã tem lido há muito tempo uma dupla referência: o rei humano como tipo da rebelião espiritual por trás dele. Isso é paralelo a Ezequiel 28, onde o rei de Tiro é descrito em linguagem que excede qualquer mortal («Eu o escolhi e o ungi, como querubim guardião. Você tinha acesso ao monte santo de Deus e andava entre as pedras cintilantes.»).
 
 - Lucas 10:18 («Eu vi Satanás caindo do céu como um relâmpago») ecoa as imagens de Isaías 14. Jesus não o citou como texto de prova direto, mas a ressonância está presente e foi reconhecida pelos pais da igreja.
 

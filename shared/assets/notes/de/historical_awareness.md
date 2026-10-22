@@ -6,7 +6,8 @@ Ein Leitfaden, der Lesern zeigt, wie die Bibel, die wir heute in Händen halten,
 
 ## 1. Wie wir die Bibel bekamen
 
-**(Lukas 1:1–4)**: „Schon viele haben es unternommen, einen Bericht zu verfassen… Ich bin allem sorgfältig nachgegangen… damit du die Zuverlässigkeit der Lehre erkennst.“  
+**(Lukas 1:1–4)**: „Nachdem viele es unternommen haben, einen Bericht über die Tatsachen abzufassen, die unter uns völlig erwiesen sind, wie sie uns diejenigen überliefert haben, die von Anfang an Augenzeugen und Diener des Wortes gewesen sind, so schien es auch mir gut, der ich allem von Anfang an genau nachgegangen bin, es dir der Reihe nach zu beschreiben, vortrefflichster Theophilus, damit du die Gewissheit der Dinge erkennst, in denen du unterrichtet worden bist.“
+
 ➡ Lukas zeigt, dass die frühen Christen sorgfältig aufzeichneten, was geschah.
 
 **(2. Timotheus 3:16)**: „Alle Schrift ist von Gott eingegeben und nützlich zur Lehre, zur Überführung, zur Zurechtweisung, zur Erziehung in der Gerechtigkeit.“  
@@ -46,7 +47,8 @@ Ein Leitfaden, der Lesern zeigt, wie die Bibel, die wir heute in Händen halten,
 
 ## 3. Kirche und Politik
 
-**(Matthäus 23:27–28)**: „Wehe euch, Schriftgelehrte und Pharisäer… ihr seid wie übertünchte Gräber.“  
+**(Matthäus 23:27–28)**: „Wehe euch, ihr Schriftgelehrten und Pharisäer, ihr Heuchler, dass ihr getünchten Gräbern gleicht, die äußerlich zwar schön scheinen, inwendig aber voller Totengebeine und aller Unreinheit sind! So erscheint auch ihr äußerlich vor den Menschen als gerecht, inwendig aber seid ihr voller Heuchelei und Gesetzlosigkeit.“
+
 ➡ Jesus verurteilte religiöse Führer, die äußerlich heilig wirkten, aber innerlich verdorben waren.
 
 **(Apostelgeschichte 5:29)**: „Man muss Gott mehr gehorchen als den Menschen.“  
@@ -82,7 +84,8 @@ Ein Leitfaden, der Lesern zeigt, wie die Bibel, die wir heute in Händen halten,
 
 ## 5. Verlorene und unterdrückte Texte
 
-**(Judas 1:14–15)**: „Henoch, der siebte nach Adam, hat geweissagt...“  
+**(Judas 1:14–15)**: „Von diesen hat aber auch Henoch, der Siebte nach Adam, geweissagt, indem er sprach: »Siehe, der Herr ist gekommen mit seinen heiligen Zehntausenden, um Gericht zu halten über alle und alle Gottlosen unter ihnen zu strafen wegen all ihrer gottlosen Taten, womit sie sich vergangen haben, und wegen all der harten [Worte], die gottlose Sünder gegen ihn geredet haben.«“
+
 ➡ Judas zitiert direkt aus dem Buch Henoch.
 
 **(Kolosser 4:16)**: „Sorgt dafür, dass er auch in der Gemeinde der Laodizeer gelesen wird und dass ihr wiederum den Brief aus Laodizea lest.“  
@@ -161,7 +164,7 @@ Henoch ist nicht randständig; er ist zentral. **1 Henoch** klärt Genesis, vert
 
 ## 6. Entlehnte Feste (Synkretismus)
 
-**(Jeremia 10:2–4)**: „Lernt nicht den Weg der Nationen... Sie schlagen einen Baum aus dem Wald, den der Handwerker mit dem Meißel bearbeitet. Sie schmücken ihn mit Silber und Gold, befestigen ihn mit Hammer und Nägeln, damit er nicht wackelt.“
+**(Jeremia 10:2–4)**: „So spricht der [DN]Herr[/DN]: Lernt nicht den Weg der Heiden und erschreckt nicht vor den Zeichen des Himmels, auch wenn die Heiden sich vor ihnen fürchten! Denn die Bräuche der Heiden sind nichtig. Denn ein Holz ist’s, das man im Wald gehauen hat und das der Künstler mit dem Schnitzmesser anfertigt. Er verziert es mit Silber und Gold und befestigt es mit Hämmern und Nägeln, damit es nicht wackelt;“
 
 ➡ Eine Warnung davor, die Bräuche heidnischer Völker zu übernehmen.
 
@@ -372,7 +375,8 @@ Gläubige, die biblische Übereinstimmung suchen, sollten die von Gott in (3 Mos
 
 ## 8. Moderne Echos
 
-**(2. Timotheus 4:3–4)**: „Sie werden die gesunde Lehre nicht ertragen. Stattdessen … werden sie Lehrer um sich scharen, die ihren juckenden Ohren sagen, was sie hören wollen.“  
+**(2. Timotheus 4:3–4)**: „Denn es wird eine Zeit kommen, da werden sie die gesunde Lehre nicht ertragen, sondern sich selbst nach ihren eigenen Lüsten Lehrer beschaffen, weil sie empfindliche Ohren haben; und sie werden ihre Ohren von der Wahrheit abwenden und sich den Legenden zuwenden.“
+
 ➡ Die Schrift warnt vor Verfälschung aus Bequemlichkeit und Macht.
 
 **Geschichte:** Heutige Debatten über Übersetzungen, inklusive Sprache und Sexualität spiegeln alte Kämpfe um Kontrolle wider. Das Wohlstandsevangelium lehrt, dass Reichtum Gottes Wille sei, ähnlich wie im Mittelalter, als die Kirche Ablässe verkaufte (im Grunde „Tickets in den Himmel“ gegen Geld). Das Christentum ist heute in Zehntausende von Konfessionen gespalten, oft mehr geprägt durch Kultur, Tradition oder Politik als durch die Worte Jesu selbst. Weltweit nimmt die Verfolgung wieder zu, und die biblische Wahrheit wird ignoriert oder den Wünschen der Gesellschaft angepasst.

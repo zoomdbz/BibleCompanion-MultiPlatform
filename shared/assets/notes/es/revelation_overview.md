@@ -39,7 +39,7 @@ La Fiesta de las Trompetas (Yom Teruah) es la única fiesta que comienza en luna
 ### Día de la Expiación → Juicio Final
 - Apocalipsis 20:11–15: El juicio del Gran Trono Blanco
 - Zacarías 12:10: «Mirarán a mí, a quien traspasaron, y llorarán»
-- Romanos 11:26–27: «Todo Israel será salvo... el Libertador vendrá de Sion»
+- Romanos 11:26–27: «De esta manera, todo Israel será salvo tal como está escrito: «El Redentor vendrá de Sion y apartará de Jacob la impiedad. Y este es mi pacto con ellos cuando quite sus pecados».»
 - Levítico 16: El sumo sacerdote entra al Lugar Santísimo una vez al año para hacer expiación. Jesús entró al Lugar Santísimo celestial una vez y para siempre (Hebreos 9:11–12). La aplicación final permanece futura.
 
 ### Tabernáculos → Dios Habita con el Hombre

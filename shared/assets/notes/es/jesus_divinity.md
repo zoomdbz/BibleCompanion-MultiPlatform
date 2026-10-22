@@ -279,13 +279,13 @@ Ejemplos incluyen:
 
 **Para imaginar estas probabilidades:**
 
-- Ganar una lotería nacional una vez es alrededor de 1 en 300 millones. Que Jesús cumpliera 8 profecías es como ganar esa lotería **más de medio millón de veces seguidas**.
+- Ganar una lotería nacional una vez es alrededor de 1 en 300 millones. Que Jesús cumpliera 8 profecías es como ganar esa lotería **dos veces seguidas**.
 
 - La probabilidad de ser alcanzado por un rayo en toda tu vida es de aproximadamente 1 en 15,000. Las probabilidades de cumplimiento profético son billones de veces más raras.
 
 - Peter Stoner lo ilustró de esta manera: cubre todo el estado de Texas con monedas de plata a una profundidad de sesenta centímetros, marca una moneda, venda los ojos de un hombre y déjalo caminar. La probabilidad de que escoja la moneda marcada al primer intento es igual a la probabilidad de cumplir solo 8 profecías.
 
-- Ampliando más, cumplir 48 profecías sería como contar **todos los granos de arena en todas las playas del mundo**, marcar uno y luego encontrarlo con los ojos vendados en el primer intento.
+- Para 48 profecías, la estimación de Stoner de **1 en 10^157** es mucho menor que la probabilidad de elegir un grano marcado entre toda la arena de la Tierra. Ni siquiera esa enorme cantidad de arena alcanza para representar la probabilidad indicada.
 
 - ¿Cumplir más de 300 profecías? Las probabilidades crecen de manera tan exponencial que el lenguaje humano y las matemáticas no logran expresar la imposibilidad excepto por un diseño divino.
 

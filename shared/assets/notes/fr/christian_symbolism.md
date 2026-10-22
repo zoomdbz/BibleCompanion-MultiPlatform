@@ -31,4 +31,4 @@
 
 Avant que la croix ne devienne dominante, les premiers chrétiens utilisaient le poisson, le Chi-Rho et l’image du berger. Cela pose la question : *la croix est-elle le symbole le plus complet de Jésus, ou surtout celui de sa mort ?*
 
-L’Évangile dans sa plénitude tient les deux ensemble : « Christ est mort pour nos péchés… il a été enseveli, et il est ressuscité le troisième jour » (1 Corinthiens 15:3–4). Un crucifix fixe le regard sur le prix qui a été payé ; une croix vide, sur la victoire qui a été remportée. Ni l’un ni l’autre, seul, ne raconte toute l’histoire.
+L’Évangile dans sa plénitude tient les deux ensemble : « Je vous ai transmis, avant tout, ce que j'avais moi-même reçu : le Christ est mort pour nos péchés, selon les Ecritures. Il a été enseveli, il s'est réveillé le troisième jour, selon les Ecritures. » (1 Corinthiens 15:3–4). Un crucifix fixe le regard sur le prix qui a été payé ; une croix vide, sur la victoire qui a été remportée. Ni l’un ni l’autre, seul, ne raconte toute l’histoire.

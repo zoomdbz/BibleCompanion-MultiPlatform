@@ -22,7 +22,7 @@ Hinter jedem falschen Gott steht eine Macht, die dem Herrn widersteht.
 
 - **(Epheser 6,12)** – „Geistige Mächte der Bosheit in den Himmeln.“ *(das Schlachtfeld der Geister)*  
 
-- **2. Korinther 12,2–4** – „Entrückt bis in den dritten Himmel… in das Paradies.“ *(Gottes Wohnstätte)*  
+- **2. Korinther 12,2–4** – „Ich weiß von einem Menschen in Christus, der vor 14 Jahren (ob im Leib oder ob außerhalb des Leibes, ich weiß es nicht; Gott weiß es) bis in den dritten Himmel entrückt wurde. Und ich weiß von dem betreffenden Menschen (ob im Leib oder außerhalb des Leibes, weiß ich nicht; Gott weiß es), dass er in das Paradies entrückt wurde und unaussprechliche Worte hörte, die ein Mensch nicht sagen darf.“ *(Gottes Wohnstätte)*
 
 
 **Schlussfolgerung (Schrift):** Die Schrift unterscheidet mehrere Himmel: den sichtbaren Himmel (Gen 1,8), die unsichtbare Kampfsphäre (Dan 10,13; Eph 6,12) und die Wohnstätte Gottes (2 Kor 12,2–4).  
@@ -32,7 +32,7 @@ Hinter jedem falschen Gott steht eine Macht, die dem Herrn widersteht.
 ## 2. Mächte und Gewalten  
 **Einfach erklärt:** Es gibt organisierte böse Mächte, die sich Gottes Volk widersetzen; Christus hat die höchste Autorität über sie.  
 
-- **(Epheser 6,12)** – „Unser Kampf… ist gegen die Herrschaften… die Weltbeherrscher dieser Finsternis.“  
+- **(Epheser 6,12)** – „denn unser Kampf richtet sich nicht gegen Fleisch und Blut, sondern gegen die Herrschaften, gegen die Gewalten, gegen die Weltbeherrscher der Finsternis dieser Weltzeit, gegen die geistlichen [Mächte] der Bosheit in den himmlischen [Regionen].“
 
 - **(Daniel 10,20)** – „Der Fürst von Griechenland wird kommen.“  
 
@@ -145,7 +145,7 @@ Götzendienst in der Schrift betrifft nicht nur antike Götter, sondern auch die
 
 - **(Apostelgeschichte 10,25–26)** – Als Kornelius vor Petrus niederfiel, richtete Petrus ihn auf und sprach: „Steh auf; auch ich bin ein Mensch.“  
 
-- **(Exodus 20,4–5)** – „Du sollst dir kein geschnitztes Bild machen… du sollst dich nicht vor ihnen niederwerfen noch ihnen dienen.“  
+- **(Exodus 20,4–5)** – „Du sollst dir kein Bildnis noch irgendein Gleichnis machen, weder von dem, was oben im Himmel, noch von dem, was unten auf Erden, noch von dem, was in den Wassern unter der Erde ist. Bete sie nicht an und diene ihnen nicht! Denn ich, der Herr, dein Gott, bin ein eifersüchtiger Gott, der die Schuld der Väter heimsucht an den Kindern bis in das dritte und vierte Glied derer, die mich hassen,“
 
 Selbst die treuesten Heiligen sind Vorbilder des Glaubens, keine Mittler. Anbetung, Gebet und Hingabe gehören Gott allein.  
 
@@ -295,13 +295,13 @@ Der Koran ehrt Jesus (*ʿĪsā*) als Propheten, leugnet jedoch seine Kreuzigung 
 #### Einwand 1: Die Bibel wurde verfälscht
 Der Koran selbst bekräftigt die Tora und das Evangelium als echte Offenbarungen.
 
-**Koran 5:44 (Sahih International)**
+**Koran 5:44 (übersetzt aus Sahih International)**
 > „Wahrlich, Wir sandten die Tora herab, in der Rechtleitung und Licht waren. Die Propheten, die sich (Allah) ergeben hatten, richteten danach für die Juden – ebenso die Rabbiner und Gelehrten, weil ihnen das Buch Allahs anvertraut worden war – und sie waren Zeugen darüber.“
 
-**Koran 5:46 (Sahih International)**
+**Koran 5:46 (übersetzt aus Sahih International)**
 > „Und Wir ließen, in ihren Fußstapfen, Jesus, den Sohn der Maria, folgen, zur Bestätigung dessen, was vor ihm in der Tora war; und Wir gaben ihm das Evangelium, in dem Rechtleitung und Licht waren und das bestätigte, was vor ihm in der Tora war, als Rechtleitung und Ermahnung für die Gottesfürchtigen.“
 
-**Koran 10:94 (Sahih International)**
+**Koran 10:94 (übersetzt aus Sahih International)**
 > „Und wenn du (o Muhammad) im Zweifel bist über das, was Wir dir herabgesandt haben, so frage diejenigen, die die Schrift vor dir lesen. Wahrlich, die Wahrheit ist zu dir von deinem Herrn gekommen; so gehöre nicht zu den Zweifelnden.“
 
 Die Bibel bezeugt ihre eigene Bewahrung.
@@ -341,14 +341,14 @@ Die Bibel bezeugt ihre eigene Bewahrung.
 
 Der Islam achtet Jesus (*ʿĪsā*) als Propheten, leugnet jedoch seine Göttlichkeit, seine Gottessohnschaft und seine Kreuzigung.
 
-**Koran 4:171 (Sahih International)**
-> „O Leute der Schrift, übertreibt nicht in eurer Religion und sagt über Allah nur die Wahrheit. Der Messias, Jesus, der Sohn der Maria, ist nur der Gesandte Allahs und sein Wort, das er Maria entbot, und Geist von ihm. So glaubt an Allah und seine Gesandten und sagt nicht: ‚Drei‘; hört auf – es ist besser für euch. Allah ist nur ein einziger Gott. Gepriesen sei er, dass er einen Sohn habe!“
+**Koran 4:171 (übersetzt aus Sahih International)**
+> „O Leute der Schrift, übertreibt nicht in eurer Religion und sagt über Allah nur die Wahrheit. Der Messias, Jesus, der Sohn der Maria, war nur ein Gesandter Allahs und sein Wort, das er Maria entbot, und eine Seele [erschaffen auf Befehl] von ihm. So glaubt an Allah und seine Gesandten. Und sagt nicht: ‚Drei‘; hört auf; es ist besser für euch. Wahrlich, Allah ist nur ein einziger Gott. Erhaben ist er darüber, einen Sohn zu haben.“
 
 Die Bibel identifiziert Jesus als den ewigen Sohn Gottes, dem Vater gleich.
 
 **(Johannes 1:1–14)**
 
-> „Im Anfang war das Wort … und das Wort wurde Fleisch.“
+> „Im Anfang war das Wort, und das Wort war bei Gott, und das Wort war Gott. Dieses war im Anfang bei Gott. Alles ist durch dasselbe entstanden; und ohne dasselbe ist auch nicht eines entstanden, was entstanden ist. In ihm war das Leben, und das Leben war das Licht der Menschen. Und das Licht leuchtet in der Finsternis, und die Finsternis hat es nicht begriffen. Es war ein Mensch, von Gott gesandt; sein Name war Johannes. Dieser kam zum Zeugnis, um von dem Licht Zeugnis zu geben, damit alle durch ihn glaubten. Nicht er war das Licht, sondern er sollte Zeugnis geben von dem Licht. Das wahre Licht, welches jeden Menschen erleuchtet, sollte in die Welt kommen. Er war in der Welt, und die Welt ist durch ihn geworden, doch die Welt erkannte ihn nicht. Er kam in sein Eigentum, und die Seinen nahmen ihn nicht auf. Allen aber, die ihn aufnahmen, denen gab er das Anrecht, Kinder Gottes zu werden, denen, die an seinen Namen glauben; die nicht aus dem Blut, noch aus dem Willen des Fleisches, noch aus dem Willen des Mannes, sondern aus Gott geboren sind. Und das Wort wurde Fleisch und wohnte unter uns; und wir sahen seine Herrlichkeit, eine Herrlichkeit als des Eingeborenen vom Vater, voller Gnade und Wahrheit.“
 
 **(Kolosser 2:9)**
 > „Denn in ihm wohnt die ganze Fülle der Gottheit leibhaftig.“
@@ -377,9 +377,9 @@ Die Lehre von der Dreieinigkeit bekennt einen Gott in drei Personen.
 
 Der Koran bestreitet die Kreuzigung in **Koran 4:157**, doch das Ereignis ist in **nichtchristlichen, weltlichen historischen Quellen** so gut bezeugt, dass selbst skeptische Historiker es als Fakt anerkennen.
 
-**Koran 4:157 (Sahih International)**
+**Koran 4:157 (übersetzt aus Sahih International)**
 
-> „Und wegen ihrer Rede: ‚Wir haben den Messias, Jesus, den Sohn der Maria, den Gesandten Allahs, getötet.‘ – doch sie haben ihn nicht getötet und ihn nicht gekreuzigt, sondern es erschien ihnen nur so; und diejenigen, die darüber uneins sind, sind wahrlich im Zweifel darüber; sie haben kein Wissen darüber, außer dem Folgen von Mutmaßung; und sie haben ihn gewiss nicht getötet.“
+> „Und wegen ihrer Rede: ‚Wir haben den Messias, Jesus, den Sohn der Maria, den Gesandten Allahs, getötet.‘ Doch sie haben ihn nicht getötet und ihn nicht gekreuzigt, sondern ein anderer wurde ihm für sie ähnlich gemacht. Und diejenigen, die darüber uneins sind, sind wahrlich im Zweifel darüber. Sie haben darüber kein Wissen, sondern folgen nur Mutmaßungen. Und sie haben ihn gewiss nicht getötet.“
 
 Der Islam lehrt, Jesus sei nicht gekreuzigt worden. Doch sowohl die Bibel als auch weltliche Historiker berichten es eindeutig.
 
@@ -431,7 +431,7 @@ Das ist historisch falsch. Die Belege sind überwältigend:
 
 - Islamische Quellen selbst gestehen ein, dass ʿUthmān abweichende Koranexemplare verbrennen ließ.
 
-- Sahih al-Buchārī 4987: „ʿUthmān sandte in jede muslimische Provinz eine Abschrift dessen, was sie geschrieben hatten, und befahl, dass alle anderen koranischen Materialien … verbrannt werden.“
+- Sahih al-Buchārī 4987: „ʿUthmān sandte in jede muslimische Provinz eine Abschrift dessen, was sie geschrieben hatten, und befahl, dass alle anderen koranischen Materialien, ob auf einzelnen Blättern oder in vollständigen Abschriften niedergeschrieben, verbrannt werden.“
 
 Wenn es nie Varianten des Korans gab, warum war das Verbrennen nötig?
 
@@ -442,11 +442,11 @@ Wenn es nie Varianten des Korans gab, warum war das Verbrennen nötig?
 
 Das erzeugt eine Falle: Es bedeutet, der Koran sei aus sich heraus nicht ausreichend, obwohl er behauptet, klare Rechtleitung zu sein.
 
-Koran 16:89 (Sahih International)
+Koran 16:89 (übersetzt aus Sahih International)
 
 > „Und Wir haben zu dir das Buch hinabgesandt als Erklärung für alle Dinge und als Rechtleitung und Barmherzigkeit und frohe Botschaft für die Muslime.“
 
-Koran 6:114 (Sahih International)
+Koran 6:114 (übersetzt aus Sahih International)
 
 > „Soll ich denn einen anderen Richter als Allah suchen, wo er es ist, der zu euch das Buch detailliert herabgesandt hat?“
 
@@ -486,7 +486,7 @@ Dieser Einwand bricht sowohl unter der Schrift als auch unter der weltlichen Ges
 #### Sicht des Islam auf die Rettung
 Im Islam hängt die Rettung vom Gleichgewicht der Taten ab. Gute Werke müssen die schlechten überwiegen, und letztlich kann Allah Barmherzigkeit gewähren oder versagen.
 
-**Koran 23:102–103 (Sahih International)**
+**Koran 23:102–103 (übersetzt aus Sahih International)**
 > „Dann sind diejenigen, deren Waagschalen schwer sind [mit guten Taten], die Erfolgreichen. Aber diejenigen, deren Waagschalen leicht sind – das sind diejenigen, die ihre Seelen verloren haben; sie sind in der Hölle und bleiben ewig.“
 
 Das spiegelt ein werksbasiertes System der Rettung wider, gemessen an Gesetz und Taten.
@@ -542,7 +542,7 @@ Das mosaische Gesetz verbietet die sexuelle Ausbeutung von Kindern und verurteil
 Kinder können nicht einwilligen; daher fällt der Vollzug der Ehe mit einem Kind unter Ausbeutung und Nötigung.
 
 #### 2. Polygamie über das Maß hinaus
-**Koran 4:3 (Sahih International)**
+**Koran 4:3 (übersetzt aus Sahih International)**
 > „Und wenn ihr fürchtet, den Waisenmädchen gegenüber nicht gerecht zu handeln, dann heiratet von den [anderen] Frauen, die euch gefallen, zwei, drei oder vier. Wenn ihr aber fürchtet, nicht gerecht zu sein, dann [heiratet nur] eine oder diejenigen, die eure rechte Hand besitzt. Das ist eher geeignet, damit ihr nicht [zur Ungerechtigkeit] neigt.“
 
 Mohammed nahm jedoch mehr als vier Frauen und überschritt damit sowohl den eigenen koranischen Maßstab als auch das Gebot des mosaischen Gesetzes.
@@ -551,7 +551,7 @@ Mohammed nahm jedoch mehr als vier Frauen und überschritt damit sowohl den eige
 > „Auch soll er sich nicht viele Frauen nehmen, damit sein Herz nicht abgelenkt werde; und Silber und Gold soll er sich nicht sehr mehren.“
 
 #### 3. Ehe mit der Frau des Adoptivsohnes
-**Koran 33:37 (Sahih International)**
+**Koran 33:37 (übersetzt aus Sahih International)**
 > „Und [gedenke, o Mohammed], als du zu demjenigen, dem Allah Gunst erwiesen hatte und dem auch du Gunst erwiesen hattest, sagtest: ‚Behalte deine Frau und fürchte Allah‘, während du in dir verborgen hieltest, was Allah offenbaren wollte. Du fürchtetest die Menschen, obwohl Allah mehr Anrecht darauf hat, dass du ihn fürchtest. Als Zaid dann kein Bedürfnis mehr nach ihr hatte, gaben Wir sie dir zur Frau, damit für die Gläubigen kein Bedenken hinsichtlich der Frauen ihrer Adoptivsöhne bestehe, nachdem diese kein Bedürfnis mehr nach ihnen haben. Und Allahs Befehl wird stets vollzogen.“
 
 Das Gesetz des Mose verbietet solche Verbindungen.
@@ -560,7 +560,7 @@ Das Gesetz des Mose verbietet solche Verbindungen.
 > „Die Blöße deiner Schwiegertochter sollst du nicht aufdecken; sie ist die Frau deines Sohnes.“
 
 #### 4. Gewalt und Zwangsbekehrungen
-**Koran 9:5 (Sahih International)**
+**Koran 9:5 (übersetzt aus Sahih International)**
 > „Wenn dann die heiligen Monate abgelaufen sind, tötet die Götzendiener, wo immer ihr sie findet, ergreift sie, belagert sie und lauert ihnen an jedem Ort des Hinterhalts auf. Wenn sie aber bereuen, das Gebet verrichten und die Zakat entrichten, dann lasst sie ihres Weges ziehen. Wahrlich, Allah ist vergebend und barmherzig.“
 
 Im Gegensatz dazu verurteilt das mosaische Gesetz Mord, und Jesus lehnte Gewalt für den Glauben ab.
@@ -574,13 +574,13 @@ Im Gegensatz dazu verurteilt das mosaische Gesetz Mord, und Jesus lehnte Gewalt 
 #### 5. Verleugnung Christi
 Der Koran leugnet die Sohnschaft und die Kreuzigung Jesu.
 
-**Koran 4:171 (Sahih International)**
-> „O Leute der Schrift, übertreibt nicht in eurer Religion und sagt über Allah nur die Wahrheit. Der Messias, Jesus, der Sohn der Maria, ist nur der Gesandte Allahs und sein Wort, das er Maria entbot, und Geist von ihm. So glaubt an Allah und seine Gesandten und sagt nicht: ‚Drei‘; hört auf - es ist besser für euch. Allah ist nur ein einziger Gott. Erhaben ist er darüber, einen Sohn zu haben.“
+**Koran 4:171 (übersetzt aus Sahih International)**
+> „O Leute der Schrift, übertreibt nicht in eurer Religion und sagt über Allah nur die Wahrheit. Der Messias, Jesus, der Sohn der Maria, war nur ein Gesandter Allahs und sein Wort, das er Maria entbot, und eine Seele [erschaffen auf Befehl] von ihm. So glaubt an Allah und seine Gesandten. Und sagt nicht: ‚Drei‘; hört auf; es ist besser für euch. Wahrlich, Allah ist nur ein einziger Gott. Erhaben ist er darüber, einen Sohn zu haben.“
 
-**Koran 112:3 (Sahih International)**
+**Koran 112:3 (übersetzt aus Sahih International)**
 > „Er zeugt nicht und ist nicht gezeugt.“
 
-**Koran 4:157 (Sahih International)**
+**Koran 4:157 (übersetzt aus Sahih International)**
 > „Und wegen ihrer Rede: ‚Wir haben den Messias, Jesus, den Sohn der Maria, den Gesandten Allahs, getötet.‘ Doch sie haben ihn nicht getötet und ihn nicht gekreuzigt, sondern ein anderer wurde ihm für sie ähnlich gemacht. Und diejenigen, die darüber uneins sind, sind wahrlich im Zweifel darüber. Sie haben darüber kein Wissen, sondern folgen nur Mutmaßungen. Und sie haben ihn gewiss nicht getötet.“
 
 Die Bibel lehrt das Gegenteil: Jesus ist der ewige Sohn Gottes, gekreuzigt und auferstanden.
@@ -607,7 +607,7 @@ Mehrere islamische Quellen berichten, dass Mohammed Sklaven besaß und die Verge
 
 Dies setzt voraus, dass Mohammed und seine Gefährten Sklaven hielten, was innerhalb seiner Führung normalisiert war.
 
-**Koran 4:24 (Sahih International)**
+**Koran 4:24 (übersetzt aus Sahih International)**
 > „Und [verboten sind euch] verheiratete Frauen, außer denen, die eure rechte Hand besitzt. [Dies ist] die Verordnung Allahs über euch.“
 
 Dieser Vers erlaubte die Vergewaltigung weiblicher Kriegsgefangener, auch wenn sie bereits verheiratet waren.
@@ -648,7 +648,7 @@ Im Gegensatz dazu erlaubte Mohammed die Vergewaltigung von Gefangenen ohne diese
 Sure 33 gewährt Mohammed besondere Ausnahmen und Privilegien.
 
 #### Unbegrenzte Ehefrauen und Konkubinen
-**Koran 33:50 (Sahih International)**
+**Koran 33:50 (übersetzt aus Sahih International)**
 > „O Prophet, Wir haben dir deine Frauen erlaubt, denen du ihren geschuldeten Lohn gegeben hast, und diejenigen, die deine rechte Hand besitzt von dem, was Allah dir [an Gefangenen] zurückgegeben hat, sowie die Töchter deiner Onkel väterlicherseits, die Töchter deiner Tanten väterlicherseits, die Töchter deiner Onkel mütterlicherseits und die Töchter deiner Tanten mütterlicherseits, die mit dir ausgewandert sind, und eine gläubige Frau, wenn sie sich dem Propheten schenkt und der Prophet sie heiraten will; [dies gilt] nur für dich unter Ausschluss der [anderen] Gläubigen. Wir wissen wohl, was Wir ihnen hinsichtlich ihrer Frauen und derjenigen, die ihre rechte Hand besitzt, zur Pflicht gemacht haben; [dies gilt für dich], damit keine Bedrängnis auf dir liege. Und Allah ist stets vergebend und barmherzig.“
 
 Hier wird Mohammed unbegrenzte Anzahl an Frauen und Konkubinen gestattet, anders als gewöhnlichen Muslimen, die auf vier begrenzt sind (Koran 4:3).
@@ -659,14 +659,14 @@ Die Tora verbietet das Mehren der Frauen.
 > „Er soll sich nicht viele Frauen nehmen, damit sein Herz sich nicht abwendet; auch soll er sich nicht übermäßig Silber und Gold anhäufen.“
 
 #### Exklusive Beschränkungen
-**Koran 33:52 (Sahih International)**
+**Koran 33:52 (übersetzt aus Sahih International)**
 > „Es ist dir, [o Mohammed], danach nicht erlaubt, [weitere] Frauen zu nehmen oder sie gegen [andere] Frauen einzutauschen, selbst wenn ihre Schönheit dir gefällt, außer denjenigen, die deine rechte Hand besitzt. Und Allah wacht stets über alle Dinge.“
 
 Das zeigt eigens für Mohammed geschaffene Regeln in seiner Ehefrage.
 
 #### Offenbarung über Benimmregeln beim Essen
-**Koran 33:53 (Sahih International)**
-> „O ihr, die ihr glaubt, tretet nicht in die Häuser des Propheten ein, außer wenn euch zum Mahl die Erlaubnis gegeben ist … Wenn ihr gegessen habt, dann geht auseinander …“
+**Koran 33:53 (übersetzt aus Sahih International)**
+> „O ihr, die ihr glaubt, tretet nicht in die Häuser des Propheten ein, außer wenn euch zu einem Mahl die Erlaubnis gegeben wird, ohne auf seine Zubereitung zu warten. Wenn ihr aber eingeladen werdet, dann tretet ein; und wenn ihr gegessen habt, dann geht auseinander, ohne zur Unterhaltung zu verweilen. Gewiss, dieses [Verhalten] fiel dem Propheten lästig, und er schämte sich vor euch, [euch fortzuschicken]. Aber Allah schämt sich nicht vor der Wahrheit . Und wenn ihr [seine Frauen] um etwas bittet, dann bittet sie hinter einer Trennwand. Das ist reiner für eure Herzen und ihre Herzen. Es ist euch nicht erlaubt, Allahs Gesandten zu verletzen oder jemals nach ihm seine Frauen zu heiraten. Das wäre vor Allah eine schwere Verfehlung.“
 
 Hier wird Mohammeds persönliches Unbehagen zum Gesetz erhoben, er sei „zu schüchtern“, Gäste wegzuschicken. Doch Hadithe berichten, er habe in einer Nacht bei neun Frauen gelegen.
 
@@ -688,32 +688,32 @@ Der Widerspruch ist auffällig: „zu schüchtern“, um Gäste zum Gehen zu bit
 Der Islam lehrt, der Koran sei vollkommen und widerspruchslos. Doch bereits im Text und in der islamischen Überlieferung finden sich Konflikte und fehlendes Material.
 
 #### 1. Schöpfungszeitplan
-**Koran 7:54 (Sahih International)**
+**Koran 7:54 (übersetzt aus Sahih International)**
 > „Wahrlich, euer Herr ist Allah, der die Himmel und die Erde in sechs Tagen schuf und sich dann über dem Thron erhob.“
 
-**Qur’an 41:9–12 (Deutsch)**
+**Koran 41:9–12 (übersetzt aus Sahih International)**
 > Sprich: Leugnet ihr etwa Den, Der die Erde in zwei Tagen erschuf, und stellt Ihm Gleichgestellte zur Seite? Das ist der Herr der Welten. Und Er setzte auf ihr fest gegründete Berge, segnete sie und bestimmte in ihr ihre Nahrung in vier Tagen, gleichmäßig für die Fragenden. Dann wandte Er Sich zum Himmel, während er noch Rauch war, und sprach zu ihm und zur Erde: „Kommt beide, freiwillig oder widerwillig.“ Sie sagten: „Wir kommen freiwillig.“ Da vollendete Er sie zu sieben Himmeln in zwei Tagen und gab jeder Himmelssphäre ihre Aufgabe ein. Und Wir schmückten den untersten Himmel mit Leuchten und als Schutz. Das ist die Bestimmung des Allmächtigen, des Allwissenden.
 
 
-Zusammengenommen beschreibt Sure 41 acht Tage, nicht sechs. Die Bibel ist konsistent: Gott schuf in sechs Tagen und ruhte am siebten (1. Mose 1:31–2:2).
+Zählt man der Reihe nach zusammen, nennt Sure 41 zwei Tage, dann vier, dann zwei, also acht, gegenüber den sechs Tagen von 7:54. Muslimische Ausleger verstehen die vier Tage einschließlich der ersten zwei, sodass die Summe bei sechs bleibt; der Abschnitt selbst sagt das nicht. Die Genesis braucht keinen solchen Ausgleich: Sie zählt jeden Tag, vom ersten bis zum sechsten, und Gott ruhte am siebten (1. Mose 1:5; 1:31–2:2).
 
 #### 2. Wein: gesegnet oder verflucht?
-**Koran 16:67 (Sahih International)**
+**Koran 16:67 (übersetzt aus Sahih International)**
 > „Und aus den Früchten der Palmen und der Weinstöcke gewinnt ihr berauschendes Getränk und guten Lebensunterhalt. Darin ist wahrlich ein Zeichen für Menschen, die nachdenken.“
 
-**Koran 5:90 (Sahih International)**
-> „O ihr, die ihr glaubt, berauschende Getränke … sind ein Gräuel von Satans Werk; meidet es …“
+**Koran 5:90 (übersetzt aus Sahih International)**
+> „O ihr, die ihr glaubt, berauschende Getränke, Glücksspiel, [Opfer auf] steinernen Altären [für andere als Allah] und Lospfeile sind nur ein Gräuel von Satans Werk; so meidet es, auf dass es euch wohl ergehe.“
 
 Die Lehre ändert sich im Lauf der Zeit. Die Bibel verurteilt beständig Trunksucht, erlaubt aber Wein in Maßen (Psalmen 104:15; Epheser 5:18).
 
 #### 3. Gewalt vs. Frieden
-**Koran 2:256 (Sahih International)**
+**Koran 2:256 (übersetzt aus Sahih International)**
 > „Es gibt keinen Zwang im Glauben. Der rechte Weg ist klar vom Irrweg unterschieden. Wer also Taghut verleugnet und an Allah glaubt, hält sich an der festesten Handhabe, die nicht zerbricht. Und Allah ist hörend und wissend.“
 
-**Koran 9:5 (Sahih International)**
-> „Und wenn die heiligen Monate verflossen sind, dann tötet die Götzendiener, wo immer ihr sie findet, ergreift sie, belagert sie und lauert ihnen an jedem Ort auf …“
+**Koran 9:5 (übersetzt aus Sahih International)**
+> „Wenn dann die heiligen Monate abgelaufen sind, tötet die Götzendiener, wo immer ihr sie findet, ergreift sie, belagert sie und lauert ihnen an jedem Ort des Hinterhalts auf. Wenn sie aber bereuen, das Gebet verrichten und die Zakat entrichten, dann lasst sie ihres Weges ziehen. Wahrlich, Allah ist vergebend und barmherzig.“
 
-**Koran 9:29 (Sahih International):**
+**Koran 9:29 (übersetzt aus Sahih International):**
 > „Kämpft gegen diejenigen, die weder an Allah noch an den Jüngsten Tag glauben, die nicht für verboten erachten, was Allah und sein Gesandter verboten haben, und die unter jenen, denen die Schrift gegeben wurde, nicht die Religion der Wahrheit annehmen, bis sie die Dschizya willig entrichten und gedemütigt sind.“
 
 Der friedliche Vers ist früh; der gewalttätige später und gilt in der islamischen Gelehrsamkeit oft als Abrogation des früheren. Jesus befahl seinen Nachfolgern niemals zu töten. Stattdessen sagte er:
@@ -722,22 +722,27 @@ Der friedliche Vers ist früh; der gewalttätige später und gilt in der islamis
 > „Liebt eure Feinde und betet für die, die euch verfolgen.“
 
 #### 4. Vorsehung vs. freier Wille
-**Koran 18:29 (Sahih International)**
-> „Die Wahrheit ist von eurem Herrn: Wer will, der glaube; und wer will, der verleugne.“
+**Koran 18:29 (übersetzt aus Sahih International)**
+> „Und sag: ‚Die Wahrheit ist von eurem Herrn; wer nun will, der glaube, und wer will, der verleugne.‘“
 
-**Koran 16:93 (Sahih International)**
-> „Und wenn Allah gewollt hätte, hätte er euch zu einer einzigen Gemeinde gemacht; aber er lässt in die Irre gehen, wen er will, und leitet recht, wen er will …“
+**Koran 16:93 (übersetzt aus Sahih International)**
+> „Und wenn Allah gewollt hätte, hätte er euch zu einer einzigen Gemeinde gemacht; aber er lässt in die Irre gehen, wen er will, und leitet recht, wen er will. Und ihr werdet ganz gewiss nach dem gefragt werden, was ihr zu tun pflegtet.“
 
-Der Koran bejaht an einer Stelle den freien Willen und verneint ihn an anderer. Die Bibel hält Gottes Souveränität und menschliche Verantwortung im Gleichgewicht (Römer 9:19–21; Josua 24:15).
+Der Koran bejaht an einer Stelle den freien Willen und verneint ihn an anderer. Die Bibel hält Gottes Souveränität und die Verantwortung des Menschen zusammen, manchmal in einem einzigen Vers:
+
+**(Apostelgeschichte 2:23)**
+> „Diesen, der nach Gottes festgesetztem Ratschluss und Vorsehung dahingegeben worden war, habt ihr genommen und durch die Hände der Gesetzlosen ans Kreuz geschlagen und getötet.“
+
+Paulus greift den Einwand „Wer kann seinem Willen widerstehen?“ in Römer 9:19–21 auf und schreibt im nächsten Kapitel: „Jeder, der den Namen des Herrn anruft, wird gerettet werden“ (Römer 10:13). Josua sagte zu Israel: „Erwählt euch heute, wem ihr dienen wollt“ (Josua 24:15).
 
 #### 5. Jesu Tod
-**Koran 4:157 (Sahih International)**
-> „… sie töteten ihn nicht und kreuzigten ihn nicht …“
+**Koran 4:157 (übersetzt aus Sahih International)**
+> „Und wegen ihrer Rede: ‚Wir haben den Messias, Jesus, den Sohn der Maria, den Gesandten Allahs, getötet.‘ Doch sie haben ihn nicht getötet und ihn nicht gekreuzigt, sondern ein anderer wurde ihm für sie ähnlich gemacht. Und diejenigen, die darüber uneins sind, sind wahrlich im Zweifel darüber. Sie haben darüber kein Wissen, sondern folgen nur Mutmaßungen. Und sie haben ihn gewiss nicht getötet.“
 
-**Koran 19:33 (Sahih International)**
+**Koran 19:33 (übersetzt aus Sahih International)**
 > „Und Friede über mich am Tag, da ich geboren wurde, und am Tag, da ich sterben werde, und am Tag, da ich lebendig auferweckt werde.“
 
-Der Koran leugnet und bejaht Jesu Tod an verschiedenen Stellen. Die Bibel ist konsistent:
+Koran 4:157 bestreitet, dass Jesus getötet oder gekreuzigt wurde. Koran 19:33 spricht von einem Tag, an dem Er sterben wird, ohne zu sagen, wann oder wie. Die Bibel bezeugt Seinen Tod klar, zusammen mit Seinem Begräbnis und Seiner Auferstehung am dritten Tag:
 
 **(1. Korinther 15:3–4)**
 > „Denn ich habe euch vor allem überliefert, was ich auch empfangen habe: dass Christus für unsere Sünden gestorben ist nach den Schriften, dass er begraben wurde und dass er am dritten Tag auferweckt worden ist nach den Schriften.“
@@ -943,7 +948,7 @@ Der „Davidstern“ (Hexagramm) findet sich nirgendwo in der Schrift. Sein näc
 
 
 **Daoismus (道家) – Der Weg (Dao) als Ordnung des Lebens.**  
-- **(Johannes 1,1)** – „Im Anfang war das Wort (Logos/Dao).“  
+- **(Johannes 1,1)** – „Im Anfang war das Wort, und das Wort war bei Gott, und das Wort war Gott.“
 
 - **(Johannes 14,6)** – „Ich bin der Weg, die Wahrheit und das Leben.“  
 
@@ -982,7 +987,7 @@ Für eine tiefere systematische Behandlung jeder unten aufgeführten Bewegung (G
 
 - **(5. Mose 18:20–22)** – Wenn eine Vorhersage fehlschlägt, hat der Prophet vermessen geredet.
 
-- **(Matthäus 7:15–20)** – „Hütet euch vor falschen Propheten… an ihren Früchten werdet ihr sie erkennen.“
+- **(Matthäus 7:15–20)** – „Hütet euch aber vor den falschen Propheten, die in Schafskleidern zu euch kommen, inwendig aber reißende Wölfe sind! An ihren Früchten werdet ihr sie erkennen. Sammelt man auch Trauben von Dornen, oder Feigen von Disteln? So bringt jeder gute Baum gute Früchte, der schlechte Baum aber bringt schlechte Früchte. Ein guter Baum kann keine schlechten Früchte bringen, und ein schlechter Baum kann keine guten Früchte bringen. Jeder Baum, der keine gute Frucht bringt, wird abgehauen und ins Feuer geworfen. Darum werdet ihr sie an ihren Früchten erkennen.“
 
 - **(1. Johannes 4:1–3)** – Prüft die Geister. Wahres Bekenntnis: Jesus Christus ist im Fleisch gekommen.
 
@@ -1060,7 +1065,7 @@ Für eine tiefere systematische Behandlung jeder unten aufgeführten Bewegung (G
 
 - (Matthäus 6:19–21) – Sammelt euch keine Schätze auf Erden.
 
-- (1. Timotheus 6:5–10) – Die, die reich werden wollen, fallen in eine Falle… denn die Geldliebe ist eine Wurzel aller Arten von Übeln.
+- (1. Timotheus 6:5–10) – „unnütze Streitgespräche von Menschen, die eine verdorbene Gesinnung haben und der Wahrheit beraubt sind und meinen, die Gottesfurcht sei ein Mittel zur Bereicherung — von solchen halte dich fern! Es ist allerdings die Gottesfurcht eine große Bereicherung, wenn sie mit Genügsamkeit verbunden wird. Denn wir haben nichts in die Welt hineingebracht, und es ist klar, dass wir auch nichts hinausbringen können. Wenn wir aber Nahrung und Kleidung haben, soll uns das genügen! Denn die, welche reich werden wollen, fallen in Versuchung und Fallstricke und viele törichte und schädliche Begierden, welche die Menschen in Untergang und Verderben stürzen. Denn die Geldgier ist eine Wurzel alles Bösen; etliche, die sich ihr hingegeben haben, sind vom Glauben abgeirrt und haben sich selbst viel Schmerzen verursacht.“
 
 - (Johannes 16:33) – In der Welt habt ihr Bedrängnis.
 
@@ -1189,7 +1194,7 @@ Halte fest am Glauben, der ein für alle Mal den Heiligen überliefert wurde (Ju
 
 - **(Johannes 8,39–41)** – Kinder Abrahams wollten Jesus töten.  
 
-- **(Johannes 8,44)** – „Ihr habt den Teufel zum Vater… er ist ein Lügner und der Vater der Lüge.“  
+- **(Johannes 8,44)** – „Ihr habt den Teufel zum Vater, und was euer Vater begehrt, wollt ihr tun! Der war ein Menschenmörder von Anfang an und steht nicht in der Wahrheit, denn Wahrheit ist nicht in ihm. Wenn er die Lüge redet, so redet er aus seinem Eigenen, denn er ist ein Lügner und der Vater derselben.“
 
 - **(Johannes 8,47)** – Wer von Gott ist, hört Gottes Worte.  
 

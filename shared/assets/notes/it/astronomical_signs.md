@@ -89,7 +89,7 @@ I Magi videro «la sua stella» (Matteo 2:2). Diversi eventi astronomici intorno
 
 - **Triplice congiunzione Giove-Regolo** (3–2 a.C.): Giove (il «pianeta re») passò la stella Regolo (latino per «piccolo re») nella costellazione del Leone (il leone = Giuda) tre volte a causa del moto retrogrado
 - **Congiunzione Giove-Venere** (17 giugno 2 a.C.): I due pianeti più luminosi si fusero in un'unica brillante «stella» visibile da Babilonia, in direzione della Giudea
-- **«Fermata» retrograda di Giove** (25 dicembre 2 a.C.): Visto da Gerusalemme, Giove sembrò fermarsi nel cielo direttamente sopra Betlemme a sud, corrispondendo a Matteo 2:9: «la stella... li precedeva... finché giunse e si fermò sopra il luogo dove si trovava il bambino»
+- **«Fermata» retrograda di Giove** (25 dicembre 2 a.C.): Visto da Gerusalemme, Giove sembrò fermarsi nel cielo direttamente sopra Betlemme a sud, corrispondendo a Matteo 2:9: «Essi dunque, udito il re, partirono; e la stella, che avevano vista in Oriente, andava davanti a loro finché, giunta al luogo dov’era il bambino, vi si fermò sopra.»
 
 Queste non sono speculazioni; sono verificate da software astronomico moderno (ad es. Stellarium). Che sia stato uno o una combinazione di questi eventi «la stella,» l'allineamento con la profezia di Numeri 24:17 («una stella spunterà da Giacobbe») è sorprendente.
 
@@ -179,7 +179,7 @@ Lune di sangue consecutive nello stesso giorno della festa in anni consecutivi n
 
 **Tempeste Solari Prima della Luna di Sangue di Purim 2026**
 
-Dal **1º al 5 febbraio 2026**, la regione attiva AR4366, un gruppo di macchie solari 14 volte più largo della Terra, è esplosa con sei brillamenti solari di classe X in quattro giorni, inclusi due eventi di classe X8.1 tra i più forti del Ciclo Solare 25. Un'espulsione di massa coronale ha colpito la Terra il 5 febbraio, scatenando tempeste geomagnetiche e aurore diffuse. Ciò si è verificato circa 25 giorni prima della luna di sangue di Purim del 3 marzo.
+Dal **1º al 5 febbraio 2026**, la regione attiva AR4366, un gruppo di macchie solari 14 volte più largo della Terra, è esplosa con sei brillamenti solari di classe X in quattro giorni, tra cui un brillamento di classe X8.1, tra i più forti del Ciclo Solare 25, e uno di classe X4.2. Un'espulsione di massa coronale ha colpito la Terra il 5 febbraio, scatenando tempeste geomagnetiche e aurore diffuse. Ciò si è verificato circa 25 giorni prima della luna di sangue di Purim del 3 marzo.
 
 ### Nota
 

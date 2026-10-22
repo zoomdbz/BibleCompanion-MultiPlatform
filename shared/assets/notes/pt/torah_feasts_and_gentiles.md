@@ -24,7 +24,7 @@ Paulo rejeita repetidamente a justificação pelas obras da Lei:
 
 No entanto, Efésios não termina no versículo 9:
 
-> "Pois somos feitura de Deus, criados em Cristo Jesus para boas obras..."
+> Pois somos obra-prima de Deus, criados em Cristo Jesus a fim de realizar as boas obras que ele de antemão planejou para nós.
 >
 > **Efésios 2:10**
 
@@ -258,7 +258,7 @@ Portanto, as leis da aliança do Sinai para o estrangeiro residente não podem s
 
 Efésios contém uma linguagem que precisa ser encarada diretamente:
 
-> "...abolindo em Sua carne a lei dos mandamentos e decretos. Ele fez isso para criar em Si mesmo, dos dois, um novo homem, estabelecendo assim a paz."
+> Ele acabou com o sistema da lei, com seus mandamentos e ordenanças, promovendo a paz ao criar para si, desses dois grupos, uma nova humanidade.
 >
 > **Efésios 2:15**
 
@@ -288,7 +288,7 @@ Paulo escreve:
 
 E:
 
-> "Todo alimento é puro..."
+> Não destruam a obra de Deus por causa da comida. Embora todos os alimentos sejam aceitáveis, é errado comer algo que leve alguém a tropeçar.
 >
 > **Romanos 14:20**
 
@@ -327,7 +327,7 @@ As leis alimentares não são essenciais para a salvação, mas é simplista dem
 
 Em nenhum lugar o Novo Testamento ordena que os crentes gentios guardem Levítico 11, e em nenhum lugar cita Levítico 11 quando fala da liberdade alimentar (**Romanos 14:14, 20; 1 Coríntios 10:25-27; 1 Timóteo 4:3-5**). Atos 15 menciona sangue, carne de animais estrangulados e alimento oferecido a ídolos. Pedro explica que sua própria visão dizia respeito a pessoas (**Atos 10:28**), e a controvérsia de Marcos 7 trata de mãos não lavadas (**Marcos 7:2-5**).
 
-Levítico 11 contém um mandamento dado por Deus e fundamentado em Sua santidade (**Levítico 11:44-45; Deuteronômio 14:2-3**). A Escritura não permite que sua observância sirva de fundamento para justificação, vanglória ou condenação de outro crente a quem Deus recebeu (**Romanos 14:3-4**). Com base em **Romanos 14:2**, pode-se concluir que isso depende da fé de cada pessoa.
+Levítico 11 contém um mandamento dado por Deus e fundamentado em Sua santidade (**Levítico 11:44-45; Deuteronômio 14:2-3**). A Escritura não permite que sua observância sirva de fundamento para justificação, vanglória ou condenação de outro crente a quem Deus recebeu (**Romanos 14:3-4**). **Romanos 14:2** descreve crentes com dietas diferentes. Aplicar esse princípio a Levítico 11 é uma inferência; essas regras alimentares não devem ser usadas para condenar outro crente.
 
 ## O sábado: o Quarto Mandamento e os crentes gentios
 
@@ -355,7 +355,7 @@ Suas palavras apresentam o sábado como um presente feito para a humanidade, ao 
 
 O mandamento é explícito:
 
-> "Lembre-se do dia de sábado, para santificá-lo. Trabalhe seis dias e faça neles todo o seu trabalho, mas o sétimo dia é sábado dedicado ao SENHOR, seu Deus..."
+> “Lembre-se de guardar o sábado, fazendo dele um dia santo. Você tem seis dias na semana para fazer os trabalhos habituais, mas o sétimo dia é o sábado do Senhor, seu Deus. Nesse dia, ninguém em sua casa fará trabalho algum: nem você, nem seus filhos e filhas, nem seus servos e servas, nem seus animais, nem os estrangeiros que vivem entre vocês.”
 >
 > **Êxodo 20:8-10**
 
@@ -367,7 +367,7 @@ O mandamento se fundamenta no próprio descanso de Deus após a criação:
 
 O Quarto Mandamento também inclui explicitamente o não israelita que vive entre o povo de Deus:
 
-> "...nesse dia vocês não farão trabalho algum: nem vocês, nem seus filhos ou filhas, nem seus servos ou servas, nem seus animais, nem o estrangeiro que estiver dentro das suas portas."
+> mas o sétimo dia é o sábado do Senhor, seu Deus. Nesse dia, ninguém em sua casa fará trabalho algum: nem você, nem seus filhos e filhas, nem seus servos e servas, nem seus animais, nem os estrangeiros que vivem entre vocês.
 >
 > **Êxodo 20:10**
 
@@ -511,7 +511,7 @@ Paulo escreve:
 >
 > **Romanos 14:5**
 
-O tema do próprio capítulo é comer e abster-se (**Romanos 14:2-3, 6, 14-23**), e o versículo 6 liga o dia ao mesmo contraste: "Quem considera um dia especial, assim o faz para o Senhor; quem come, come para o Senhor... e quem se abstém, abstém-se para o Senhor." Paulo nunca menciona o sábado semanal.
+O tema do próprio capítulo é comer e abster-se (**Romanos 14:2-3, 6, 14-23**), e o versículo 6 liga o dia ao mesmo contraste: "Quem adora a Deus num dia especial o faz para honrá-lo. Quem come qualquer tipo de alimento também o faz para honrar o Senhor, uma vez que dá graças a Deus antes de comer. E quem se recusa a comer certos alimentos deseja, igualmente, agradar ao Senhor e por isso dá graças a Deus." Paulo nunca menciona o sábado semanal.
 
 Como o sábado não é mencionado, Romanos 14 não deve ser tratado como uma revogação explícita do Quarto Mandamento.
 
@@ -615,7 +615,7 @@ O calendário das festas continua visível depois da ressurreição:
 
 Paulo escreve à igreja de Corinto, composta em grande parte por gentios:
 
-> "Pois Cristo, nosso Cordeiro pascal, foi sacrificado. Portanto, celebremos a festa..."
+> Livrem-se do fermento velho, para que sejam massa nova, sem fermento, o que de fato são. Cristo, nosso Cordeiro pascal, foi sacrificado. Por isso, celebremos a festa não com o velho pão, fermentado com maldade e perversidade, mas com o novo pão da sinceridade e da verdade, sem nenhum fermento.
 >
 > **1 Coríntios 5:7-8**
 
@@ -699,13 +699,13 @@ Esse é um dos motivos mais fortes para não tratar as festas como relíquias te
 
 Zacarias descreve o SENHOR tornando-Se Rei sobre toda a terra:
 
-> "Naquele dia, o SENHOR se tornará Rei sobre toda a terra..."
+> E o Senhor será rei sobre toda a terra. Naquele dia, haverá um só Senhor, e somente seu nome será adorado.
 >
 > **Zacarias 14:9**
 
 Então, os sobreviventes das nações recebem a ordem de subir a Jerusalém:
 
-> "...ano após ano, para adorar o Rei, o SENHOR dos Exércitos, e celebrar a Festa dos Tabernáculos."
+> No final, os inimigos que sobreviverem à praga subirão a Jerusalém a cada ano para adorar o Rei, o Senhor dos Exércitos, e para celebrar a Festa das Cabanas.
 >
 > **Zacarias 14:16**
 
@@ -727,7 +727,7 @@ A visão usa o calendário designado por Deus num cenário de reino futuro.
 
 Isaías diz:
 
-> "Assim como os novos céus e a nova terra que farei permanecerão diante de Mim..."
+> “Tão certo como meus novos céus e minha nova terra permanecerão, vocês sempre serão meu povo, com um nome que jamais desaparecerá”, diz o Senhor.
 >
 > **Isaías 66:22**
 

@@ -279,13 +279,13 @@ Esempi includono:
 
 **Per immaginare queste probabilità:**
 
-- Vincere una lotteria nazionale una volta è circa 1 su 300 milioni. Gesù che adempie 8 profezie equivale a vincere quella lotteria **più di mezzo milione di volte di seguito**.
+- Vincere una lotteria nazionale una volta è circa 1 su 300 milioni. Gesù che adempie 8 profezie equivale a vincere quella lotteria **due volte di seguito**.
 
 - La probabilità di essere colpiti da un fulmine nella propria vita è circa 1 su 15.000. Le probabilità di compimento profetico sono oltre migliaia di miliardi di volte più rare.
 
 - Peter Stoner lo illustrò così: copri l’intero stato del Texas con monete d’argento alte sessanta centimetri, marca una moneta, benda gli occhi a un uomo e lascialo camminare. La probabilità che scelga la moneta marcata al primo tentativo è uguale alla probabilità di adempiere solo 8 profezie.
 
-- Andando oltre, adempiere 48 profezie sarebbe come contare **tutti i granelli di sabbia di tutte le spiagge del mondo**, segnarne uno e poi trovarlo bendati al primo tentativo.
+- Per 48 profezie, la stima di Stoner, **1 su 10^157**, è molto inferiore alla probabilità di scegliere un granello segnato tra tutta la sabbia della Terra. Persino questa enorme quantità è troppo piccola per rappresentare quelle probabilità.
 
 - Adempiere più di 300 profezie? Le probabilità crescono così esponenzialmente che il linguaggio umano e la matematica non riescono nemmeno a esprimere l’impossibilità, se non attraverso un disegno divino.
 

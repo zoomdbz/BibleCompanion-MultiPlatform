@@ -2,7 +2,7 @@
 
 Evangelho é uma palavra antiga que significa boa notícia. Comece pela má notícia, porque a boa notícia não faz sentido sem ela.
 
-Deus mantém um único padrão, e o padrão é perfeito. Não «fez o que pôde.» Não «mais dias bons do que ruins.» Perfeito. Tiago colocou isso onde ninguém pode escapar: «pois qualquer que guarda toda a lei, mas tropeça em um só ponto, se torna culpado de todos» (Tiago 2:10). Leia duas vezes. Um deslize te coloca na mesma sala da pessoa que quebrou todas as regras do livro. Passa ou reprova, a nota de aprovação é cem, e a curva não existe. Ser bom o bastante nunca foi o teste; ninguém passa nele de qualquer jeito, nem você, nem eu, nem o santo dois bancos adiante.
+Deus tem um único padrão, e esse padrão é a perfeição. Não «fez o que pôde.» Não «mais dias bons do que ruins.» Perfeito. Tiago colocou isso onde ninguém pode escapar: «pois qualquer que guarda toda a lei, mas tropeça em um só ponto, se torna culpado de todos» (Tiago 2:10). Leia duas vezes. Um deslize te coloca no mesmo patamar de quem desrespeitou todas as regras. Passa ou reprova, a nota de aprovação é cem, e não há ajuste da nota pela média da turma. Ser bom o bastante nunca foi o teste; ninguém passa nele de qualquer jeito, nem você, nem eu, nem o santo dois bancos adiante.
 
 Agora a conta. Paulo nomeia o preço em sete palavras: «o salário do pecado é a morte» (Romanos 6:23). Salário é algo que você ganha, e este é o contracheque que o pecado emite. Ele vence, e não volta sem fundos. Esse é o buraco em que cada um de nós está, e não conseguimos sair, porque as mesmas mãos que cavaram o buraco não conseguem preenchê-lo.
 

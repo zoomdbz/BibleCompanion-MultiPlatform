@@ -12,7 +12,7 @@ C’est la forêt au-delà des arbres. L’évangile ne consiste pas à s’obs�
 
 La grâce n’est pas une licence pour continuer à vivre comme nous voulons ; c’est la puissance qui nous libère pour vivre autrement. Jésus n’a pas condamné les brisés, mais Il leur a aussi dit de quitter leur ancienne vie. **La vraie foi** n’est pas seulement croire qu’Il existe, mais Lui faire suffisamment confiance pour Le suivre: se détourner du péché, apprendre à marcher dans Sa voie et dépendre de Son Esprit pour la force. La grâce pardonne notre passé, mais elle nous appelle aussi à un avenir nouveau.
 
-> **« Car la grâce de Dieu, source de salut pour tous les hommes, a été manifestée. Elle nous enseigne à renoncer à l’impiété et aux convoitises mondaines, et à vivre dans le siècle présent selon la sagesse, la justice et la piété, en attendant la bienheureuse espérance et la manifestation de la gloire de notre grand Dieu et Sauveur Jésus-Christ, qui s’est donné lui-même pour nous, afin de nous racheter de toute iniquité et de se purifier un peuple qui lui appartienne, zélé pour les bonnes œuvres » (Tite 2:11–14).**
+> **«Car elle s'est manifestée, la grâce de Dieu, source de salut pour tous les humains. Elle nous apprend à renier l'impiété et les désirs de ce monde, et à vivre dans le temps présent d'une manière pondérée, juste et pieuse, en attendant la bienheureuse espérance et la manifestation de la gloire de notre grand Dieu et Sauveur, Jésus-Christ. Il s'est donné lui-même pour nous, afin de nous rédimer de tout mal et de purifier un peuple qui soit son bien propre et qui se passionne pour les belles œuvres.» (Tite 2:11–14).**
 
 ### Autres Écritures de soutien
 

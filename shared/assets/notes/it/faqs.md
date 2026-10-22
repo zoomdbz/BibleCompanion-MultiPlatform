@@ -15,7 +15,7 @@ L’idea non è la punizione; è l’energia infinita che incontra l’essere fi
 
 - **Esodo 19:16–18**: Quando Dio scende sul Sinai, «tutto il monte tremava fortemente»; il popolo rimane lontano, incapace di sostenere la Sua presenza.
 
-- **Isaia 6:5**: Vedendo la gloria del Signore, Isaia esclama: «Guai a me! Sono perduto… perché i miei occhi hanno visto il Re, il SIGNORE degli eserciti!»
+- **Isaia 6:5**: Vedendo la gloria del Signore, Isaia esclama: “Allora io dissi: «Guai a me, sono perduto! Perché io sono un uomo dalle labbra impure e abito in mezzo a un popolo dalle labbra impure; e i miei occhi hanno visto il Re, il Signore degli eserciti!»”
 
 - **Ezechiele 1:28**: Ezechiele cade con la faccia a terra alla vista «dell’apparenza della somiglianza della gloria del SIGNORE».  
   Questi versetti mostrano che la presenza divina supera i sensi mortali; non per ira, ma per pura intensità.
@@ -82,7 +82,7 @@ Attraverso la sofferenza, Dio mostra che non è distante dal dolore; lo porta co
 - **Genesi 1:31**: «Dio vide tutto ciò che aveva fatto; ed ecco, era molto buono.»  
   La creazione non era difettosa per disegno; la corruzione è entrata dall’abuso del libero arbitrio.
 
-- **Genesi 50:20**: Giuseppe disse ai suoi fratelli: «Voi avevate macchinato del male contro di me; ma Dio ha pensato di convertirlo in bene… per conservare in vita un popolo numeroso.»  
+- **Genesi 50:20**: Giuseppe disse ai suoi fratelli: «Voi avevate pensato del male contro di me, ma Dio ha pensato di convertirlo in bene per compiere quello che oggi avviene: per conservare in vita un popolo numeroso.»\
   Dio non causa il male; lo volge al Suo scopo redentivo.
 
 - **Romani 8:28**: «Or sappiamo che tutte le cose cooperano al bene di quelli che amano Dio, i quali sono chiamati secondo il suo disegno.»  
@@ -91,7 +91,7 @@ Attraverso la sofferenza, Dio mostra che non è distante dal dolore; lo porta co
 - **Giacomo 1:2–4**: «Fratelli miei, considerate una grande gioia quando venite a trovarvi in prove svariate, sapendo che la prova della vostra fede produce costanza.»  
   Il dolore non è vano; matura l’anima.
 
-- **1 Pietro 4:12–13**: «Non vi stupite per l’ardente prova… ma rallegratevi nella misura in cui partecipate alle sofferenze di Cristo.»  
+- **1 Pietro 4:12–13**: «Carissimi, non vi stupite per l’incendio che divampa in mezzo a voi per provarvi, come se vi accadesse qualcosa di strano. Anzi, rallegratevi in quanto partecipate alle sofferenze di Cristo, perché anche al momento della rivelazione della sua gloria possiate rallegrarvi ed esultare.»\
   La sofferenza allinea i credenti al cuore di Cristo, affinando la compassione e la fede.
 
 - **2 Corinzi 4:17–18**: «La nostra momentanea, leggera afflizione ci produce un sempre più grande, smisurato peso eterno di gloria.»  
@@ -166,7 +166,7 @@ La Scrittura offre diverse verità che orientano il modo in cui comprendiamo le 
 
 **1) Allineamento alla volontà di Dio**
 
-- **1 Giovanni 5:14–15**: «Se domandiamo qualcosa secondo la Sua volontà, Egli ci ascolta… sappiamo di avere le cose che Gli abbiamo chiesto.»
+- **1 Giovanni 5:14–15**: «Questa è la fiducia che abbiamo in lui: che se domandiamo qualche cosa secondo la sua volontà, egli ci esaudisce. Se sappiamo che egli ci esaudisce in ciò che gli chiediamo, noi sappiamo di avere le cose che gli abbiamo chieste.»
 
 - **Luca 22:42**: Anche Gesù pregò: «Non la mia volontà, ma la Tua sia fatta.» La preghiera non riguarda il controllo; è comunione.
 
@@ -200,7 +200,7 @@ Paolo non ottenne la rimozione che aveva chiesto, ma Cristo non lo lasciò senza
 
 **5) L’aiuto dello Spirito nella preghiera**
 
-- **Romani 8:26–28**: «Lo Spirito viene in aiuto alla nostra debolezza… lo Spirito stesso intercede per noi con sospiri troppo profondi per essere espressi a parole… tutte le cose cooperano al bene di quelli che amano Dio.»
+- **Romani 8:26–28**: «Allo stesso modo ancora, lo Spirito viene in aiuto alla nostra debolezza, perché non sappiamo pregare come si conviene; ma lo Spirito intercede egli stesso per noi con sospiri ineffabili; e colui che esamina i cuori sa quale sia il desiderio dello Spirito, perché egli intercede per i santi secondo il volere di Dio. Or sappiamo che tutte le cose cooperano al bene di quelli che amano Dio, i quali sono chiamati secondo il suo disegno.»
 
 - **Giacomo 5:16**: «La preghiera efficace del giusto può molto.»
 
@@ -230,7 +230,7 @@ La morte è entrata attraverso il peccato (**Romani 5:12**), e tutta la creazion
 - **2 Samuele 12:22–23**: Dopo la morte del figlio piccolo, Davide dice: «Io andrò da lui, ma egli non tornerà da me.»  
   La sua fiducia mostra la speranza che il bambino sia con Dio e che il ricongiungimento attenda oltre la morte.
 
-- **Isaia 57:1–2**: «Il giusto muore e nessuno vi pone mente… egli entra nella pace; riposa nel suo letto chi cammina nella rettitudine.»  
+- **Isaia 57:1–2**: «Il giusto muore, e nessuno vi bada; gli uomini buoni sono tolti di mezzo, e nessuno considera che il giusto è tolto di mezzo per sottrarlo ai mali che sopraggiungono. Egli entra nella pace; quelli che hanno camminato per la retta via riposano sui loro letti.»\
   Una morte precoce può essere misericordia che sottrae al male futuro.
 
 - **Matteo 19:14**: Gesù disse: «Lasciate che i piccoli vengano a me e non glielo impedite, perché di tali è il regno dei cieli.»  
@@ -308,7 +308,7 @@ La Scrittura presenta quei comandi come **atti di giudizio limitati**, **protezi
 
 - **Matteo 5:9; 5:38–44**: Beati gli operatori di pace; Gesù insegna l’amore per i nemici e rifiuta la vendetta personale.
 
-- **Romani 12:19**: «Non fate le vostre vendette… a me la vendetta, dice il Signore.»  
+- **Romani 12:19**: “Non fate le vostre vendette, miei cari, ma cedete il posto all’ira di Dio; poiché sta scritto: «A me la vendetta; io darò la retribuzione», dice il Signore.”\
   Il giudizio appartiene a Dio; non alle mani private.
 
 **Sintesi biblica:** I comandi di guerra nell’Antico Testamento sono giudizi a tempo contro un male radicato, regolati da limiti rigorosi, con misericordia offerta a chi si converte. Dio giudica Israele con lo stesso criterio; profeti e Nuovo Testamento orientano verso la fine della guerra sotto il regno di Dio e la chiamata a fare pace.
@@ -339,10 +339,10 @@ Chi accetta questo dono è perdonato e restaurato alla vita. Chi lo rifiuta sceg
 - **Romani 2:5–8**: Chi persiste nell’indurimento «accumula ira per il giorno dell’ira»; chi cerca il bene riceve vita eterna.  
   Il giudizio segue la perseveranza volontaria nel male.
 
-- **Matteo 25:41-46**: Gesù parla della separazione finale: «Andate via da me, maledetti, nel fuoco eterno preparato per il diavolo e per i suoi angeli… E questi se ne andranno a punizione eterna; ma i giusti a vita eterna.»  
+- **Matteo 25:41-46**: Gesù parla della separazione finale: “Allora dirà anche a quelli della sua sinistra: “Andate via da me, maledetti, nel fuoco eterno, preparato per il diavolo e per i suoi angeli! Perché ebbi fame e non mi deste da mangiare; ebbi sete e non mi deste da bere; fui straniero e non mi accoglieste; nudo e non mi vestiste; malato e in prigione, e non mi visitaste”. Allora anche questi risponderanno, dicendo: “Signore, quando ti abbiamo visto aver fame, o sete, o essere straniero, o nudo, o ammalato, o in prigione, e non ti abbiamo assistito?” Allora risponderà loro: “In verità vi dico che in quanto non l’avete fatto a uno di questi minimi, non l’avete fatto neppure a me”. Questi se ne andranno a punizione eterna; ma i giusti a vita eterna».”\
   La sentenza è legata al rifiuto della misericordia; non alla mancanza di opportunità.
 
-- **Giovanni 3:18–19**: «Chi crede in Lui non è giudicato; chi non crede è già giudicato, perché non ha creduto nel nome dell’unigenito Figlio di Dio… gli uomini hanno amato le tenebre anziché la luce.»  
+- **Giovanni 3:18–19**: «Chi crede in lui non è giudicato; chi non crede è già giudicato, perché non ha creduto nel nome dell’unigenito Figlio di Dio. Il giudizio è questo: la luce è venuta nel mondo, e gli uomini hanno amato le tenebre più della luce, perché le loro opere erano malvagie.»\
   La condanna nasce dalla preferenza per le tenebre.
 
 - **Romani 1:24–26**: «Perciò Dio li ha abbandonati» ai loro desideri.  
@@ -388,7 +388,7 @@ Ogni atto di fede risponde a ciò che Dio ha già rivelato: attraverso la creazi
 
 **Supporto biblico:**
 
-- **Romani 1:19–20**: «Quel che si può conoscere di Dio è manifesto in loro, avendolo Dio manifestato loro. Infatti le sue qualità invisibili, la sua eterna potenza e divinità, si vedono chiaramente fin dalla creazione del mondo… quindi essi sono inescusabili.»  
+- **Romani 1:19–20**: «poiché quel che si può conoscere di Dio è manifesto in loro, avendolo Dio manifestato loro; infatti le sue qualità invisibili, la sua eterna potenza e divinità, si vedono chiaramente fin dalla creazione del mondo, essendo percepite per mezzo delle opere sue; perciò essi sono inescusabili,»\
   La creazione rivela la realtà di Dio; la fede risponde a tale rivelazione.
 
 - **Giovanni 20:29**: Gesù disse: «Beati quelli che non hanno visto e hanno creduto.»  
@@ -400,7 +400,7 @@ Ogni atto di fede risponde a ciò che Dio ha già rivelato: attraverso la creazi
 - **Ebrei 11:6**: «Senza fede è impossibile piacergli; poiché chi si accosta a Dio deve credere che Egli è e che ricompensa tutti quelli che lo cercano.»  
   La relazione dipende da fiducia volontaria; non da prova coercitiva.
 
-- **Efesini 2:8–9**: «Per grazia siete stati salvati mediante la fede… è il dono di Dio; non per opere.»  
+- **Efesini 2:8–9**: «Infatti è per grazia che siete stati salvati, mediante la fede; e ciò non viene da voi: è il dono di Dio. Non è in virtù di opere affinché nessuno se ne vanti;»\
   La fede è il canale mediante cui si riceve la grazia.
 
 **Perché non la certezza?**
@@ -430,10 +430,10 @@ Questa libertà rende possibile l’amore; consente anche la ribellione. Dio pre
 
 **Supporto biblico:**
 
-- **Ezechiele 28:12–17**: Parole al re di Tiro in un linguaggio che echeggia la caduta di un essere celeste: «Tu mettevi il sigillo alla perfezione, eri pieno di saggezza e di una bellezza perfetta… Eri perfetto nelle tue vie dal giorno in cui fosti creato, finché non si trovò in te l’iniquità.»  
+- **Ezechiele 28:12–17**: Parole al re di Tiro in un linguaggio che echeggia la caduta di un essere celeste: “«Figlio d’uomo, pronuncia un lamento sul re di Tiro e digli: Così parla il Signore, Dio: “Tu mettevi il sigillo alla perfezione, eri pieno di saggezza, di una bellezza perfetta; eri in Eden, il giardino di Dio; eri coperto di ogni tipo di pietre preziose: rubini, topazi, diamanti, crisoliti, onici, diaspri, zaffiri, carbonchi, smeraldi, oro; tamburi e flauti erano al tuo servizio, preparati il giorno che fosti creato. Eri un cherubino dalle ali distese, un protettore. Ti avevo stabilito, tu stavi sul monte santo di Dio, camminavi in mezzo a pietre di fuoco. Tu fosti perfetto nelle tue vie dal giorno che fosti creato, finché non si trovò in te la perversità. Per l’abbondanza del tuo commercio, tutto in te si è riempito di violenza e tu hai peccato; perciò io ti caccio via, come un profano, dal monte di Dio e ti farò sparire, o cherubino protettore, di mezzo alle pietre di fuoco. Il tuo cuore si è insuperbito per la tua bellezza; tu hai corrotto la tua saggezza a causa del tuo splendore. Io ti getto a terra, ti do in spettacolo ai re.”\
   L’orgoglio corrompe ciò che era perfetto.
 
-- **Isaia 14:12–15**: «Come mai sei caduto dal cielo, astro del mattino… Tu dicevi in cuor tuo: Io salirò in cielo, innalzerò il mio trono al di sopra delle stelle di Dio.»  
+- **Isaia 14:12–15**: “Come mai sei caduto dal cielo, astro mattutino, figlio dell’aurora? Come mai sei atterrato, tu che calpestavi le nazioni? Tu dicevi in cuor tuo: “Io salirò in cielo, innalzerò il mio trono al di sopra delle stelle di Dio; mi siederò sul monte dell’assemblea, nella parte estrema del settentrione; salirò sulle sommità delle nubi, sarò simile all’Altissimo”. Invece ti hanno fatto discendere nel soggiorno dei morti, nelle profondità della fossa!”\
   La ribellione comincia con l’autoesaltazione e il rifiuto della sottomissione.
 
 - **1 Timoteo 3:6**: L’orgoglio è chiamato «la condanna del diavolo.»  
@@ -455,7 +455,7 @@ Dio permette la ribellione per manifestare la vera natura del bene, esporre il m
 
 - **Giobbe 1:6–12**: Anche nella prova, Satana resta entro limiti; la sua ribellione è permessa ma non incontrollata.
 
-- **Apocalisse 12:7–9**: «Ci fu una guerra nel cielo… il gran dragone fu precipitato… colui che seduce tutto il mondo.»  
+- **Apocalisse 12:7–9**: «E ci fu una battaglia nel cielo: Michele e i suoi angeli combatterono contro il dragone. Il dragone e i suoi angeli combatterono, ma non vinsero, e per loro non ci fu più posto nel cielo. Il gran dragone, il serpente antico, che è chiamato diavolo e Satana, il seduttore di tutto il mondo, fu gettato giù; fu gettato sulla terra, e con lui furono gettati anche i suoi angeli.»\
   Il male è sconfitto; non è coeguale a Dio.
 
 **L’esito:**
@@ -484,10 +484,10 @@ Queste influenze si mascherano da dèi, esigono sacrifici, pervertono la moralit
 
 **Supporto biblico:**
 
-- **Romani 1:19–23**: «Quel che si può conoscere di Dio è manifesto in loro, avendolo Dio manifestato loro… Le sue qualità invisibili, la sua eterna potenza e divinità, si vedono chiaramente… quindi essi sono inescusabili.» Ma essi hanno «mutato la gloria del Dio incorruttibile in immagini simili a quelle dell’uomo corruttibile, di uccelli, di quadrupedi e di rettili».  
+- **Romani 1:19–23**: «poiché quel che si può conoscere di Dio è manifesto in loro, avendolo Dio manifestato loro; infatti le sue qualità invisibili, la sua eterna potenza e divinità, si vedono chiaramente fin dalla creazione del mondo, essendo percepite per mezzo delle opere sue; perciò essi sono inescusabili, perché, pur avendo conosciuto Dio, non lo hanno glorificato come Dio, né lo hanno ringraziato; ma si sono dati a vani ragionamenti e il loro cuore privo d’intelligenza si è ottenebrato. Benché si dichiarino sapienti, sono diventati stolti, e hanno mutato la gloria del Dio incorruttibile in immagini simili a quelle dell’uomo corruttibile, di uccelli, di quadrupedi e di rettili.»\
   La religione spesso inizia con il riconoscimento del divino, poi deraglia nell’idolatria.
 
-- **Deuteronomio 32:16–17**: «Hanno provocato la sua gelosia con dèi stranieri… Hanno sacrificato ai demoni e non a Dio.»  
+- **Deuteronomio 32:16–17**: «Essi lo hanno fatto ingelosire con divinità straniere, lo hanno irritato con pratiche abominevoli. Hanno sacrificato a dèmoni che non sono Dio, a dèi che non avevano conosciuto, dèi nuovi, apparsi di recente, che i vostri padri non avevano temuto.»\
   La Scrittura identifica molte divinità pagane con potenze demoniache.
 
 - **Salmo 106:37–38**: «Hanno sacrificato i loro figli e le loro figlie ai demoni; hanno sparso sangue innocente.»  
@@ -511,10 +511,10 @@ Queste influenze si mascherano da dèi, esigono sacrifici, pervertono la moralit
 - **Giovanni 14:6**: «Io sono la via, la verità e la vita; nessuno viene al Padre se non per mezzo di me.»  
   La verità è unica; la misericordia di Dio ha respiro universale.
 
-- **1 Timoteo 2:3–4**: «Dio nostro Salvatore… vuole che tutti gli uomini siano salvati e vengano alla conoscenza della verità.»  
+- **1 Timoteo 2:3–4**: «Questo è buono e gradito davanti a Dio, nostro Salvatore, il quale vuole che tutti gli uomini siano salvati e vengano alla conoscenza della verità.»\
   La diversità religiosa rivela sia l’anelito dell’umanità verso Dio sia la Sua pazienza verso la nostra confusione.
 
-- **Romani 10:12–13**: «Non c’è distinzione tra Giudeo e Greco… lo stesso è il Signore di tutti… chiunque invocherà il nome del Signore sarà salvato.»  
+- **Romani 10:12–13**: «Poiché non c’è distinzione tra Giudeo e Greco, essendo egli lo stesso Signore di tutti, ricco verso tutti quelli che lo invocano. Infatti chiunque avrà invocato il nome del Signore sarà salvato.»\
   La redenzione è offerta universalmente; la verità rimane una.
 
 **Sintesi:**  
@@ -538,13 +538,13 @@ Chi lo riceve è rivestito della Sua giustizia; chi lo rifiuta rimane sotto la c
 
 **Supporto biblico:**
 
-- **Romani 3:23–26**: «Tutti hanno peccato e sono privi della gloria di Dio… e sono giustificati gratuitamente per la sua grazia, mediante la redenzione che è in Cristo Gesù… affinché egli sia giusto e giustifichi colui che ha fede in Gesù.»  
+- **Romani 3:23–26**: «tutti hanno peccato e sono privi della gloria di Dio, ma sono giustificati gratuitamente per la sua grazia, mediante la redenzione che è in Cristo Gesù. Dio lo ha prestabilito come sacrificio propiziatorio mediante la fede nel suo sangue, per dimostrare la sua giustizia, avendo usato tolleranza verso i peccati commessi in passato, al tempo della sua divina pazienza; e per dimostrare la sua giustizia nel tempo presente affinché egli sia giusto e giustifichi colui che ha fede in Gesù.»\
   Il perdono di Dio è radicato nella Sua giustizia; non al di fuori di essa.
 
 - **Ebrei 9:22**: «Senza spargimento di sangue non c’è perdono dei peccati.»  
   Una vita per una vita; compiuto nel sacrificio di Cristo.
 
-- **Isaia 53:5–6**: «Egli è stato trafitto a causa delle nostre trasgressioni… il SIGNORE ha fatto ricadere su di lui l’iniquità di noi tutti.»  
+- **Isaia 53:5–6**: «Egli è stato trafitto a causa delle nostre trasgressioni, stroncato a causa delle nostre iniquità; il castigo, per cui abbiamo pace, è caduto su di lui e mediante le sue lividure noi siamo stati guariti. Noi tutti eravamo smarriti come pecore, ognuno di noi seguiva la propria via; ma il Signore ha fatto ricadere su di lui l’iniquità di noi tutti.»\
   Il Servo sofferente porta la pena meritata dall’umanità.
 
 - **1 Pietro 2:24**: «Egli ha portato i nostri peccati nel suo corpo, sul legno, affinché, morti al peccato, vivessimo per la giustizia.»  
@@ -553,7 +553,7 @@ Chi lo riceve è rivestito della Sua giustizia; chi lo rifiuta rimane sotto la c
 - **Efesini 2:8–9**: «Per grazia siete stati salvati mediante la fede; e ciò non viene da voi, è il dono di Dio; non in virtù di opere, affinché nessuno si vanti.»  
   La grazia è dono; ma va ricevuto.
 
-- **Giovanni 3:16–18**: «Dio ha tanto amato il mondo che ha dato il suo Figlio unigenito, affinché chiunque crede in lui non perisca ma abbia vita eterna… chi non crede è già giudicato.»  
+- **Giovanni 3:16–18**: «Perché Dio ha tanto amato il mondo, che ha dato il suo unigenito Figlio, affinché chiunque crede in lui non perisca, ma abbia vita eterna. Infatti Dio non ha mandato suo Figlio nel mondo per giudicare il mondo, ma perché il mondo sia salvato per mezzo di lui. Chi crede in lui non è giudicato; chi non crede è già giudicato, perché non ha creduto nel nome dell’unigenito Figlio di Dio.»\
   Il rifiuto della grazia lascia il debito insoluto.
 
 - **2 Corinzi 5:21**: «Colui che non ha conosciuto peccato, egli lo ha fatto essere peccato per noi; affinché noi diventassimo giustizia di Dio in lui.»  

@@ -190,10 +190,10 @@ English Bibles often render *daimonizomai* as "demon-possessed," but the Greek f
 The translation "demonized" better reflects the passive sense, someone affected by demonic power to varying degrees, rather than suggesting permanent possession.  
 
 **Scripture:**  
-- Matthew 4:24: "…they brought him all the sick… and those *daimonizomenous* (demonized)…"  
+- Matthew 4:24: "News about Him spread all over Syria, and people brought to Him all who were ill with various diseases, those suffering acute pain, the demon-possessed, those having seizures, and the paralyzed, and He healed them." (Greek in this verse: *daimonizomenous*)
 - Matthew 8:28–33: the Gadarene men *daimonizomenoi* showed extreme control.  
 - Luke 13:11-16: a woman "bound by a spirit" for eighteen years is healed; Jesus calls this Satan's oppression.  
-- Acts 10:38: "God anointed Jesus… healing all who were oppressed by the devil."  
+- Acts 10:38: "how God anointed Jesus of Nazareth with the Holy Spirit and with power, and how Jesus went around doing good and healing all who were oppressed by the devil, because God was with Him."
 
 **Clarification:**  
 - Hebrew: *shedim* (plural) = hostile spirits Israel was forbidden to sacrifice to (Deut 32:17; Ps 106:37).  
@@ -215,7 +215,7 @@ In Hebrew, *satan* means "adversary" or "one who opposes." Sometimes human (1 Sa
 
 - Matthew 4:1–11: Jesus tempted by the devil (*diabolos*), called Satan.  
 
-- Revelation 12:9: "the great dragon… that ancient serpent, called the devil and Satan, who deceives the whole world."  
+- Revelation 12:9: "And the great dragon was hurled down — that ancient serpent called the devil and Satan, the deceiver of the whole world. He was hurled to the earth, and his angels with him."
 
 **Clarification:**  
 - "Satan" = adversary/accuser, later crystallized as God's enemy.  
@@ -237,7 +237,7 @@ Term emphasizes ritual/moral impurity and hostile spiritual influence. In the Go
 
 - Mark 3:30: "He has an unclean spirit" is equated with demonic accusation.  
 
-- Luke 11:24: "When an unclean spirit goes out of a person…"  
+- Luke 11:24: "When an unclean spirit comes out of a man, it passes through arid places seeking rest and does not find it. Then it says, ‘I will return to the house I left.’"
 
 **Clarification:**  
 - Hebrew prophetic background: false worship and impurity tied to hostile spirits.  
@@ -264,7 +264,7 @@ Term emphasizes ritual/moral impurity and hostile spiritual influence. In the Go
 
 - In (Isaiah 14:12), the Hebrew word is *Helel*, which means "Shining One." It is not the same term as "Morning Star" used for Jesus in Revelation.
 
-- The immediate context addresses the king of Babylon. However, the language transcends any human ruler, "I will ascend above the heights of the clouds; I will be like the Most High" (Isaiah 14:14), which is why Christian tradition has long read a dual reference: the human king as a type of the spiritual rebellion behind him. This parallels Ezekiel 28, where the king of Tyre is addressed in language that exceeds any mortal ("you were the anointed guardian cherub… you were on the holy mountain of God").
+- The immediate context addresses the king of Babylon. However, the language transcends any human ruler, "I will ascend above the heights of the clouds; I will be like the Most High" (Isaiah 14:14), which is why Christian tradition has long read a dual reference: the human king as a type of the spiritual rebellion behind him. This parallels Ezekiel 28, where the king of Tyre is addressed in language that exceeds any mortal ("You were anointed as a guardian cherub, for I had ordained you. You were on the holy mountain of God; you walked among the fiery stones.").
 
 - Luke 10:18 ("I saw Satan fall like lightning from heaven") echoes Isaiah 14's imagery. Jesus did not quote it as a direct proof text, but the resonance is there and recognized by the church fathers.
 

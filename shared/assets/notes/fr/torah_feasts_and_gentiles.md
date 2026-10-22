@@ -24,7 +24,7 @@ Paul rejette à plusieurs reprises la justification par les œuvres de la Loi :
 
 Cependant, l'épître aux Éphésiens ne s'arrête pas au verset 9 :
 
-> « Car nous sommes l'ouvrage de Dieu, ayant été créés en Jésus-Christ pour accomplir de bonnes œuvres... »
+> Car nous sommes son ouvrage, nous avons été créés en Jésus-Christ pour des œuvres bonnes que Dieu a préparées d'avance, afin que nous nous y adonnions.
 >
 > **Éphésiens 2:10**
 
@@ -258,7 +258,7 @@ Les lois de l'alliance du Sinaï relatives aux étrangers résidents ne peuvent 
 
 L'épître aux Éphésiens emploie des termes qui doivent être affrontés directement :
 
-> « ...abolissant dans Sa chair la loi des commandements et des ordonnances. Il l'a fait pour créer en Lui-même, avec les deux, un seul homme nouveau, établissant ainsi la paix. »
+> réduit à rien la loi avec ses commandements et leurs prescriptions, pour créer en lui, avec les deux, un seul homme nouveau, en faisant la paix,
 >
 > **Éphésiens 2:15**
 
@@ -288,7 +288,7 @@ Paul écrit :
 
 Et :
 
-> « Tous les aliments sont purs... »
+> Ne va pas détruire l'œuvre de Dieu pour un aliment. Certes, tout est pur ; mais il est mauvais de faire de sa nourriture une pierre d'achoppement.
 >
 > **Romains 14:20**
 
@@ -327,7 +327,7 @@ Les lois alimentaires ne sont pas essentielles au salut, mais il est trop simpli
 
 Le Nouveau Testament ne commande nulle part aux croyants non juifs d'observer Lévitique 11, et il ne nomme nulle part Lévitique 11 lorsqu'il parle de liberté alimentaire (**Romains 14:14, 20 ; 1 Corinthiens 10:25-27 ; 1 Timothée 4:3-5**). Actes 15 mentionne le sang, la viande d'animaux étouffés et les aliments offerts aux idoles. Pierre explique que sa propre vision concernait les personnes (**Actes 10:28**), et le débat de Marc 7 porte sur les mains non lavées (**Marc 7:2-5**).
 
-Lévitique 11 est un commandement que Dieu a donné et fondé sur Sa sainteté (**Lévitique 11:44-45 ; Deutéronome 14:2-3**). L'Écriture ne permet pas d'utiliser son observance comme fondement de la justification, de l'orgueil ou de la condamnation d'un autre croyant que Dieu a accueilli (**Romains 14:3-4**). On peut conclure, sur la base de **Romains 14:2**, que cela dépend de la foi de chacun.
+Lévitique 11 est un commandement que Dieu a donné et fondé sur Sa sainteté (**Lévitique 11:44-45 ; Deutéronome 14:2-3**). L'Écriture ne permet pas d'utiliser son observance comme fondement de la justification, de l'orgueil ou de la condamnation d'un autre croyant que Dieu a accueilli (**Romains 14:3-4**). **Romains 14:2** décrit des croyants aux régimes alimentaires différents. Appliquer ce principe à Lévitique 11 relève de la déduction ; ces règles alimentaires ne doivent pas servir à condamner un autre croyant.
 
 ## Le sabbat : le Quatrième Commandement et les croyants non juifs
 
@@ -355,7 +355,7 @@ Sa formulation présente le sabbat comme un don fait à l'humanité, en réponse
 
 Le commandement est explicite :
 
-> « Souviens-toi du jour du sabbat pour le sanctifier. Tu travailleras six jours et tu feras tout ton ouvrage, mais le septième jour est un sabbat pour YHWH, ton Dieu... »
+> Souviens-toi du sabbat, pour en faire un jour sacré. Pendant six jours tu travailleras, et tu feras tout ton ouvrage. Mais le septième jour, c'est un sabbat pour le Seigneur, ton Dieu : tu ne feras aucun travail, ni toi, ni ton fils, ni ta fille, ni ton serviteur, ni ta servante, ni tes bêtes, ni les immigrés qui sont dans tes villes.
 >
 > **Exode 20:8-10**
 
@@ -367,7 +367,7 @@ Le commandement s'enracine dans le repos de Dieu après la création :
 
 Le Quatrième Commandement inclut aussi explicitement le non-Israélite qui vit parmi le peuple de Dieu :
 
-> « ...pendant lequel tu ne feras aucun ouvrage, ni toi, ni ton fils ou ta fille, ni ton serviteur ou ta servante, ni ton bétail, ni l'étranger qui réside dans tes portes. »
+> Mais le septième jour, c'est un sabbat pour le Seigneur, ton Dieu : tu ne feras aucun travail, ni toi, ni ton fils, ni ta fille, ni ton serviteur, ni ta servante, ni tes bêtes, ni les immigrés qui sont dans tes villes.
 >
 > **Exode 20:10**
 
@@ -511,7 +511,7 @@ Paul écrit :
 >
 > **Romains 14:5**
 
-Le sujet propre du chapitre est le fait de manger ou de s'abstenir (**Romains 14:2-3, 6, 14-23**), et le verset 6 relie le jour à ce même contraste : « Celui qui observe un jour particulier le fait pour le Seigneur ; celui qui mange le fait pour le Seigneur... et celui qui s'abstient le fait pour le Seigneur. » Paul ne nomme jamais le sabbat hebdomadaire.
+Le sujet propre du chapitre est le fait de manger ou de s'abstenir (**Romains 14:2-3, 6, 14-23**), et le verset 6 relie le jour à ce même contraste : «Celui qui tient compte des jours en tient compte pour le Seigneur. Celui qui mange, c'est pour le Seigneur qu'il mange, car il rend grâce à Dieu ; celui qui ne mange pas, c'est pour le Seigneur qu'il ne mange pas : il rend aussi grâce à Dieu.» Paul ne nomme jamais le sabbat hebdomadaire.
 
 Puisque le sabbat n'est pas nommé, Romains 14 ne doit pas être traité comme une abrogation explicite du Quatrième Commandement.
 
@@ -615,7 +615,7 @@ Le calendrier des fêtes reste visible après la résurrection :
 
 Paul écrit à l'Église de Corinthe, composée en grande partie de non-Juifs :
 
-> « Car le Christ, notre agneau pascal, a été sacrifié. Célébrons donc la fête... »
+> Purifiez-vous du vieux levain pour être une pâte nouvelle, puisque vous êtes sans levain ; car le Christ, notre Pâque, a été sacrifié. Célébrons donc la fête, non pas avec du vieux levain, ni avec un levain de malfaisance et de méchanceté, mais avec les pains sans levain de la sincérité et de la vérité.
 >
 > **1 Corinthiens 5:7-8**
 
@@ -699,13 +699,13 @@ C'est l'une des raisons les plus fortes de ne pas traiter les fêtes comme des v
 
 Zacharie décrit YHWH devenant Roi sur toute la terre :
 
-> « En ce jour-là, YHWH deviendra Roi sur toute la terre... »
+> Le Seigneur sera roi de toute la terre ; en ce jour-là, le Seigneur sera un, et son nom un.
 >
 > **Zacharie 14:9**
 
 Ensuite, les survivants des nations reçoivent l'ordre de monter à Jérusalem :
 
-> « ...année après année pour adorer le Roi, YHWH des armées, et pour célébrer la fête des Tabernacles. »
+> Alors tous ceux qui seront restés de toutes les nations venues contre Jérusalem monteront chaque année pour se prosterner devant le roi, le Seigneur (YHWH) des Armées, et pour célébrer la fête des Huttes.
 >
 > **Zacharie 14:16**
 
@@ -727,7 +727,7 @@ La vision emploie le calendrier fixé de Dieu dans le cadre d'un royaume futur.
 
 Ésaïe dit :
 
-> « Car, de même que les nouveaux cieux et la nouvelle terre que Je vais créer subsisteront devant Moi... »
+> En effet, comme le ciel nouveau et la terre nouvelle que je fais subsisteront devant moi, – déclaration du Seigneur  – ainsi subsisteront votre descendance et votre nom.
 >
 > **Ésaïe 66:22**
 

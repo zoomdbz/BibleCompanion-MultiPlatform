@@ -88,6 +88,12 @@
 
 - Scholem, Gershom. *Kabbalah.* Jerusalem: Keter Publishing House, 1974. [1974年版目録](https://juc.gov.jo/cgi-bin/koha/opac-ISBDdetail.pl?biblionumber=1303725) | [Google Books、後年の再版](https://books.google.com/books?id=qJesQGFsSwsC)
 
+- Colwell, E. C. "A Definite Rule for the Use of the Article in the Greek New Testament." *Journal of Biblical Literature* 52 (1933): 12-21.
+
+- Harner, Philip B. "Qualitative Anarthrous Predicate Nouns: Mark 15:39 and John 1:1." *Journal of Biblical Literature* 92 (1973): 75-87.
+
+- Caragounis, Chrys C., and Jan van der Watt. "A Grammatical Analysis of John 1,1." *Filología Neotestamentaria* 21 (2008): 91-138. [BSW](https://www.bsw.org/filologia-neotestamentaria/vol-21-2008/a-grammatical-analysis-of-john-1-1/525/article-p91.html)
+
 ## 注解書、聖書神学、護教論的著作
 
 - Stoner, Peter W. *Science Speaks.* 第2版。Chicago: Moody Press, 1958. [版の書誌情報](https://openlibrary.org/works/OL8400068W/Science_Speaks) | [後年のオンライン改訂版](https://sciencespeaks.dstoner.net/)
@@ -103,6 +109,28 @@
 - Brown, Michael L. *Answering Jewish Objections to Jesus.* 全5巻。第1-4巻、Grand Rapids: Baker Books, 2000-2006。第5巻、Purple Pomegranate Productions, 2010. [第1巻](https://books.google.com/books?id=HeBjnPNWkNQC) | [第2巻](https://books.google.com/books?id=hDItC304gtAC) | [第3巻](https://bakerpublishinggroup.com/products/9780801064234_answering-jewish-objections-to-jesus) | [第4巻](https://bakerpublishinggroup.com/products/9780801064265_answering-jewish-objections-to-jesus) | [第5巻](https://www.logos.com/product/47649/answering-jewish-objections-to-jesus-vol-5)
 
 - Keil, C. F. *The Twelve Minor Prophets.* James Martin訳。C. F. KeilおよびF. Delitzschによる*Commentary on the Old Testament*第10巻。Peabody, MA: Hendrickson, 1996. [1996年全10巻組の書誌情報](https://verbum.com/product/5790/keil-and-delitzsch-commentary-on-the-old-testament-k-d) | [原版のパブリックドメイン・スキャン](https://archive.org/details/biblicalcommenta06keil06) | [無料の検索可能な本文](https://www.stepbible.org/version.jsp?version=KD)
+
+## 運動の一次資料と記録
+
+**注記：** ノートで扱う団体自身の出版物、それらを追跡する機関の記録、そしてノートが引用するクルアーンの翻訳。
+
+- Grace Communion International. "A Short History of Grace Communion International." [GCI](https://archive.gci.org/articles/a-short-history-of-grace-communion-international/)
+
+- United Church of God. "Fundamental Beliefs of the United Church of God." [UCG](https://www.ucg.org/fundamental-beliefs-of-the-united-church-of-god)
+
+- United Church of God. "What Does God Require for Eternal Life?" *The Good News*, July-August 1996. [UCG](https://www.ucg.org/learn/good-news/good-news-magazine-july-august-1996/what-does-god-require-eternal-life)
+
+- United Church of God. "Does Observing Holy Days Save Us?" 説教. [UCG](https://www.ucg.org/sermons/does-observing-holy-days-save-us)
+
+- Watch Tower Bible and Tract Society. "Two New Members of the Governing Body." *The Watchtower* (Study Edition), October 2025. [jw.org](https://www.jw.org/en/library/magazines/watchtower-study-october-2025/Two-New-Members-of-the-Governing-Body/)
+
+- The Church of Jesus Christ of Latter-day Saints. "Download Updated March 2026 Chart of General Authorities, General Officers." Church Newsroom. [Newsroom](https://newsroom.churchofjesuschrist.org/article/download-updated-march-2026-chart-of-general-authorities-general-officers)
+
+- Southern Poverty Law Center. "Radical Hebrew Israelites." Extremist Files. [SPLC](https://www.splcenter.org/resources/extremist-files/radical-hebrew-israelites/)
+
+- Anti-Defamation League. "Black Hebrew Israelites." Backgrounder. [ADL](https://www.adl.org/resources/backgrounder/black-hebrew-israelites)
+
+- Saheeh International, trans. *The Qur'an*. 英訳。これらのノートにおけるクルアーン引用の出典。 [Quran.com](https://quran.com/7/54?translations=20)
 
 ## 天文学的しるし
 

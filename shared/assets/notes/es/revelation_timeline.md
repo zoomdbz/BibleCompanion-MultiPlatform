@@ -437,7 +437,7 @@ Babilonia cae. Reyes, mercaderes y marineros lamentan que el sistema económico 
 
 Se advierte al pueblo de Dios:
 
-> «Salgan de ella, pueblo Mío...»
+> Luego oí otra voz del cielo que decía: «Salgan de ella, pueblo mío, para que no sean cómplices de sus pecados ni los alcance ninguna de sus plagas;»
 >
 > **Apocalipsis 18:4**
 
@@ -551,7 +551,7 @@ Esta es la segunda muerte.
 
 Solo después del Milenio, la liberación de Satanás, la rebelión final y el Gran Trono Blanco dice Juan:
 
-> «Entonces vi un cielo nuevo y una tierra nueva, porque el primer cielo y la primera tierra habían pasado...»
+> Después vi un cielo nuevo y una tierra nueva, porque el primer cielo y la primera tierra habían dejado de existir, lo mismo que el mar.
 >
 > **Apocalipsis 21:1**
 
@@ -728,13 +728,13 @@ El arrebatamiento mismo es bíblico. Se discute su momento en relación con los 
 
 Pablo escribe:
 
-> «Porque el Señor mismo descenderá del cielo con voz de mando, con voz de arcángel y con trompeta de Dios, y los muertos en Cristo resucitarán primero. Después nosotros, los que vivimos y permanezcamos, seremos arrebatados junto con ellos en las nubes para recibir al Señor en el aire. Y así estaremos siempre con el Señor».
+> El Señor mismo descenderá del cielo con voz de mando, con voz de arcángel y con trompeta de Dios, y los muertos en Cristo resucitarán primero. Luego los que estemos vivos, los que hayamos quedado, seremos arrebatados junto con ellos en las nubes para encontrarnos con el Señor en el aire. Y así estaremos con el Señor para siempre.
 >
 > **1 Tesalonicenses 4:16-17**
 
 Pablo también dice:
 
-> «No todos dormiremos, pero todos seremos transformados, en un instante, en un abrir y cerrar de ojos, a la última trompeta. Porque sonará la trompeta, los muertos resucitarán incorruptibles y nosotros seremos transformados».
+> Fíjense bien en el misterio que les voy a revelar: no todos moriremos, pero todos seremos transformados, en un instante, en un abrir y cerrar de ojos, al toque final de la trompeta. Pues sonará la trompeta y los muertos resucitarán con un cuerpo incorruptible, y nosotros seremos transformados.
 >
 > **1 Corintios 15:51-52**
 

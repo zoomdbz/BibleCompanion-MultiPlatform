@@ -39,7 +39,7 @@ The Feast of Trumpets (Yom Teruah) is the only feast that begins on a new moon, 
 ### Day of Atonement → Final Judgment
 - Revelation 20:11–15: The Great White Throne judgment
 - Zechariah 12:10: "They will look on me, the one they have pierced, and they will mourn"
-- Romans 11:26–27: "All Israel will be saved... the Deliverer will come from Zion"
+- Romans 11:26–27: "And so all Israel will be saved, as it is written: “The Deliverer will come from Zion; He will remove godlessness from Jacob. And this is My covenant with them when I take away their sins.”"
 - Leviticus 16: The high priest enters the Holy of Holies once a year to make atonement. Jesus entered the heavenly Holy of Holies once for all (Hebrews 9:11–12). The final application remains future.
 
 ### Tabernacles → God Dwells with Man

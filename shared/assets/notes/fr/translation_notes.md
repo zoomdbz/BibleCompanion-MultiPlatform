@@ -192,13 +192,13 @@ Les Bibles anglaises traduisent souvent *daimonizomai* par l’expression anglai
 « Démonisé » reflète mieux le sens passif : une personne affectée à divers degrés par une puissance démoniaque, plutôt que de suggérer une possession permanente.
 
 **Écriture:**
-- Matthieu 4:24 : « …on lui amena tous les malades… et ceux *daimonizomenous* (démonisés)… »
+- Matthieu 4:24 : « Sa renommée se répandit dans toute la Syrie. On lui amenait tous ceux qui souffraient, en proie à toutes sortes de maladies et de tourments – démoniaques, lunatiques, paralytiques – et il les guérit. » (Grec dans ce verset : *daimonizomenous*)
 
 - Matthieu 8:28–33 : les Gadaréniens *daimonizomenoi* manifestaient un contrôle extrême.
 
 - Luc 13:11-16 : une femme « liée par un esprit » depuis dix-huit ans fut guérie ; Jésus appela cela une oppression de Satan.
 
-- Actes 10:38 : « Dieu a oint Jésus… et il a guéri tous ceux qui étaient opprimés par le diable. »
+- Actes 10:38 : « comment Dieu a conféré une onction d'Esprit saint et de puissance à Jésus de Nazareth qui, là où il passait, faisait du bien et guérissait tous ceux qui étaient opprimés par le diable ; car Dieu était avec lui. »
 
 **Précision:**
 - Hébreu: *shedim* (pluriel) = esprits hostiles auxquels Israël avait l’interdiction d’offrir des sacrifices (Deutéronome 32:17; Psaume 106:37).
@@ -222,7 +222,7 @@ En hébreu, *satan* signifie « adversaire » ou « opposant ». Parfois hum
 
 - Matthieu 4:1–11 : Jésus tenté par le diable (*diabolos*), appelé Satan.
 
-- Apocalypse 12:9 : « le grand dragon… l’antique serpent, appelé diable et Satan, qui séduit toute la terre. »
+- Apocalypse 12:9 : « Il fut jeté à bas, le grand dragon, le serpent d'autrefois, celui qui est appelé le diable et le Satan, celui qui égare toute la terre habitée ; il fut jeté sur la terre, et ses anges y furent jetés avec lui. »
 
 **Précision:**
 - « Satan » = adversaire/accusateur, ensuite cristallisé comme ennemi de Dieu.
@@ -244,7 +244,7 @@ Ce terme souligne l’impureté rituelle/morale et l’influence spirituelle hos
 
 - Marc 3:30 : « Il a un esprit impur » = accusation démoniaque.
 
-- Luc 11:24 : « Lorsque l’esprit impur sort d’un homme… »
+- Luc 11:24 : « Lorsque l'esprit impur est sorti de l'être humain, il passe par des lieux arides, cherche du repos et, comme il n'en trouve pas, il se dit : « Je vais retourner dans ma maison, celle d'où je suis sorti. » »
 
 **Précision:**
 - Contexte prophétique hébreu: faux culte et impureté liées aux esprits hostiles.
@@ -271,7 +271,7 @@ Ce terme souligne l’impureté rituelle/morale et l’influence spirituelle hos
 
 - Dans (Ésaïe 14:12), le mot hébreu est *Helel*, qui signifie « Le Brillant ». Ce n’est pas le même terme que « Étoile du matin » utilisé pour Jésus dans l’Apocalypse.
 
-- Le contexte immédiat s’adresse au roi de Babylone. Cependant, le langage transcende tout dirigeant humain (« Je monterai au-dessus des hauteurs des nuages ; je serai semblable au Très-Haut » (Ésaïe 14:14)); c’est pourquoi la tradition chrétienne y lit depuis longtemps une double référence : le roi humain comme type de la rébellion spirituelle qui est derrière lui. Cela est parallèle à Ézéchiel 28, où le roi de Tyr est décrit en des termes qui dépassent tout mortel (« tu étais le chérubin oint, protecteur… tu étais sur la sainte montagne de Dieu »).
+- Le contexte immédiat s’adresse au roi de Babylone. Cependant, le langage transcende tout dirigeant humain (« Je monterai au-dessus des hauteurs des nuages ; je serai semblable au Très-Haut » (Ésaïe 14:14)); c’est pourquoi la tradition chrétienne y lit depuis longtemps une double référence : le roi humain comme type de la rébellion spirituelle qui est derrière lui. Cela est parallèle à Ézéchiel 28, où le roi de Tyr est décrit en des termes qui dépassent tout mortel (« Tu étais un keroub protecteur, aux ailes déployées ; je t'avais placé dans la montagne sacrée de Dieu ; tu étais là, tu te promenais au milieu des pierres ardentes. »).
 
 - Luc 10:18 (« Je voyais Satan tomber du ciel comme un éclair ») fait écho aux images d’Ésaïe 14. Jésus ne l’a pas cité comme texte-preuve direct, mais la résonance est là et a été reconnue par les Pères de l’Église.
 

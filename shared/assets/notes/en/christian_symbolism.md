@@ -22,7 +22,7 @@
 - Paul also described the cross as a place of boasting in Christ (Galatians 6:14) and union with Him in death and resurrection (Romans 6:5).  
 - The **shift to the cross** as the central Christian symbol developed over time, especially by the 4th century.  
 - Today, the cross remains a universal emblem of Christianity, though historically it symbolizes **Christ's death** more than His resurrection.
-- A **crucifix** (the cross bearing Christ's body) keeps the eye on the atoning death. Paul said, "we preach Christ crucified" (1 Corinthians 1:23) and resolved "to know nothing... except Jesus Christ and Him crucified" (1 Corinthians 2:2).
+- A **crucifix** (the cross bearing Christ's body) keeps the eye on the atoning death. Paul said, "we preach Christ crucified" (1 Corinthians 1:23) and wrote, "For I resolved to know nothing while I was with you except Jesus Christ and Him crucified." (1 Corinthians 2:2).
 - An **empty cross** points past the death to the resurrection; Christ is no longer on it because He rose. "He is not here, for He has risen" (Matthew 28:6). The empty cross and the empty tomb together proclaim the victory that is the heart of the gospel (1 Corinthians 15:3–4, 17, 20).
 
 ---
@@ -31,4 +31,4 @@
 
 Early Christians used fish, Chi-Rho, and shepherd imagery before the cross became dominant. This raises the question: *is the cross the fullest symbol of Jesus, or mainly of His death?*  
 
-The fuller gospel holds both together: "Christ died for our sins... was buried... and was raised on the third day" (1 Corinthians 15:3–4). A crucifix fixes the eye on the price that was paid; an empty cross on the victory that was won. Neither alone tells the whole story.
+The fuller gospel holds both together: "For what I received I passed on to you as of first importance: that Christ died for our sins according to the Scriptures, that He was buried, that He was raised on the third day according to the Scriptures," (1 Corinthians 15:3–4). A crucifix fixes the eye on the price that was paid; an empty cross on the victory that was won. Neither alone tells the whole story.

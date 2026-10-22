@@ -22,7 +22,7 @@
 - Der **Übergang zum Kreuz** als zentralem christlichen Symbol vollzog sich im Laufe der Zeit, besonders seit dem 4. Jahrhundert.  
 - Paulus beschreibt das Kreuz außerdem als Ort des **Rühmens in Christus** (Galater 6,14) und der Vereinigung mit ihm in **Tod und Auferstehung** (Römer 6,5).  
 - Heute ist das Kreuz ein universales Emblem des Christentums, historisch steht es jedoch stärker für **den Tod Christi** als für seine Auferstehung.
-- Ein **Kruzifix** (das Kreuz mit dem Leib Christi) hält den Blick auf den Sühnetod gerichtet. Paulus sagte: „wir predigen Christus als den Gekreuzigten“ (1 Korinther 1,23) und beschloss, „nichts zu wissen … als allein Jesus Christus, den Gekreuzigten“ (1 Korinther 2,2).
+- Ein **Kruzifix** (das Kreuz mit dem Leib Christi) hält den Blick auf den Sühnetod gerichtet. Paulus sagte: „wir predigen Christus als den Gekreuzigten“ (1 Korinther 1,23) und schrieb: „Denn ich hatte mir vorgenommen, unter euch nichts anderes zu wissen als nur Jesus Christus, und zwar als Gekreuzigten.“ (1 Korinther 2,2).
 - Ein **leeres Kreuz** weist über den Tod hinaus auf die Auferstehung; Christus ist nicht mehr daran, weil er auferstanden ist. „Er ist nicht hier, denn er ist auferstanden“ (Matthäus 28,6). Das leere Kreuz und das leere Grab verkünden zusammen den Sieg, der das Herz des Evangeliums ist (1 Korinther 15,3–4.17.20).
 
 ---
@@ -31,4 +31,4 @@
 
 Bevor das Kreuz vorherrschte, verwendeten die ersten Christen Fisch-, Chi-Rho- und Hirtenbilder. Das wirft die Frage auf: *Ist das Kreuz das umfassendste Zeichen für Jesus, oder vor allem für seinen Tod?*
 
-Das vollere Evangelium hält beides zusammen: „Christus ist für unsere Sünden gestorben … und ist begraben worden … und ist auferweckt worden am dritten Tag“ (1 Korinther 15,3–4). Ein Kruzifix richtet den Blick auf den Preis, der gezahlt wurde; ein leeres Kreuz auf den Sieg, der errungen wurde. Keines von beiden allein erzählt die ganze Geschichte.
+Das vollere Evangelium hält beides zusammen: „Denn ich habe euch zuallererst das überliefert, was ich auch empfangen habe, nämlich dass Christus für unsere Sünden gestorben ist, nach den Schriften, und dass er begraben worden ist und dass er auferstanden ist am dritten Tag, nach den Schriften,“ (1 Korinther 15,3–4). Ein Kruzifix richtet den Blick auf den Preis, der gezahlt wurde; ein leeres Kreuz auf den Sieg, der errungen wurde. Keines von beiden allein erzählt die ganze Geschichte.

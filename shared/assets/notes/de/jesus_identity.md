@@ -6,7 +6,7 @@ Der christliche Glaube beginnt mit Israels Messias. Jesus wurde in das Volk Isra
 
 ## Jesus stammte von Abraham, David und Juda ab
 
-> „Dies ist das Buch der Abstammung Jesu Christi, des Sohnes Davids, des Sohnes Abrahams...“
+> „Geschlechtsregister Jesu Christi, des Sohnes Davids, des Sohnes Abrahams.“
 >
 > **Matthäus 1:1**
 
@@ -14,13 +14,13 @@ Matthäus führt Jesus ein, indem er Ihn in Israels Bundesgeschichte einordnet. 
 
 Der Hebräerbrief sagt es noch deutlicher:
 
-> „Denn es ist offenbar, dass unser Herr aus Juda hervorgegangen ist...“
+> „denn es ist ja bekannt, dass unser Herr aus Juda entsprossen ist; und zu diesem Stamm hat Mose nichts über ein Priestertum geredet.“
 >
 > **Hebräer 7:14**
 
 Jesus gehört zum Stamm Juda. Die Offenbarung bewahrt diese Identität nach Seiner Auferstehung und Himmelfahrt:
 
-> „Siehe, der Löwe aus dem Stamm Juda, die Wurzel Davids, hat überwunden...“
+> „Und einer von den Ältesten spricht zu mir: Weine nicht! Siehe, es hat überwunden der Löwe, der aus dem Stamm Juda ist, die Wurzel Davids, um das Buch zu öffnen und seine sieben Siegel zu brechen!“
 >
 > **Offenbarung 5:5**
 
@@ -36,19 +36,19 @@ Als Jesus mit der Samariterin sprach, sagte sie:
 
 Jesus korrigierte ihre Bezeichnung nicht. Im selben Gespräch sagte Er:
 
-> „...das Heil kommt von den Juden.“
+> „Ihr betet an, was ihr nicht kennt; wir beten an, was wir kennen, denn das Heil kommt aus den Juden.“
 >
 > **Johannes 4:22**
 
 Auch Paulus beschreibt den Messias nach Seiner menschlichen Abstammung als aus Israel kommend:
 
-> „Ihnen gehören die Väter, und aus ihnen stammt dem Fleisch nach der Christus...“
+> „ihnen gehören auch die Väter an, und von ihnen stammt dem Fleisch nach der Christus, der über alle ist, hochgelobter Gott in Ewigkeit. Amen!“
 >
 > **Römer 9:5**
 
 ## Jesus wurde nach dem Gesetz beschnitten und dargestellt
 
-> „Als die acht Tage bis zu Seiner Beschneidung vollendet waren, gab man Ihm den Namen Jesus...“
+> „Und als acht Tage vollendet waren, als man das Kind beschneiden musste, da wurde ihm der Name Jesus gegeben, den der Engel genannt hatte, ehe er im Mutterleib empfangen worden war.“
 >
 > **Lukas 2:21**
 
@@ -125,7 +125,7 @@ Das Neue Testament lehrt nicht, dass Menschen aus den Nationen ethnisch jüdisch
 
 Paulus sagt den Gläubigen aus den Nationen, dass sie einst waren:
 
-> „ohne Christus, ausgeschlossen vom Bürgerrecht Israels und Fremde hinsichtlich der Bündnisse der Verheißung...“
+> „— dass ihr in jener Zeit ohne Christus wart, ausgeschlossen von der Bürgerschaft Israels und fremd den Bündnissen der Verheißung; ihr hattet keine Hoffnung und wart ohne Gott in der Welt.“
 >
 > **Epheser 2:12**
 

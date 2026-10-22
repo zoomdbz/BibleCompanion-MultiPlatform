@@ -438,7 +438,7 @@ A Babilônia cai. Reis, mercadores e marinheiros lamentam porque o sistema econ�
 
 O povo de Deus é advertido:
 
-> "Saiam dela, povo Meu..."
+> Então ouvi outra voz do céu, que disse: “Saiam dela, meu povo! Não participem de seus pecados, ou serão castigados com ela.”
 >
 > **Apocalipse 18:4**
 
@@ -552,7 +552,7 @@ Essa é a segunda morte.
 
 Somente depois do Milênio, da libertação de Satanás, da rebelião final e do Grande Trono Branco João diz:
 
-> "Então vi um novo céu e uma nova terra, pois o primeiro céu e a primeira terra haviam passado..."
+> Então vi um novo céu e uma nova terra, pois o primeiro céu e a primeira terra já não existiam, e o mar também não mais existia.
 >
 > **Apocalipse 21:1**
 
@@ -730,13 +730,13 @@ O arrebatamento em si é bíblico. Seu momento em relação aos juízos de Apoca
 
 Paulo escreve:
 
-> "Pois o Senhor mesmo descerá do céu com um brado de comando, com a voz do arcanjo e com o toque da trombeta de Deus. Primeiro, os mortos em Cristo ressuscitarão. Depois, com eles, nós, os que ainda estivermos vivos, seremos arrebatados nas nuvens ao encontro do Senhor, nos ares. Então, estaremos com o Senhor para sempre."
+> Pois o Senhor mesmo descerá do céu com um brado de comando, com a voz do arcanjo e com o toque da trombeta de Deus. Primeiro, os mortos em Cristo ressuscitarão. Depois, com eles, nós, os que ainda estivermos vivos, seremos arrebatados nas nuvens ao encontro do Senhor, nos ares. Então, estaremos com o Senhor para sempre.
 >
 > **1 Tessalonicenses 4:16-17**
 
 Paulo também diz:
 
-> "Mas eu lhes revelarei um segredo maravilhoso: nem todos dormiremos, mas todos seremos transformados! Acontecerá num instante, num piscar de olhos, ao som da última trombeta. Pois, quando a última trombeta soar, aqueles que morreram ressuscitarão a fim de viver para sempre. E nós que estivermos vivos também seremos transformados."
+> Mas eu lhes revelarei um segredo maravilhoso: nem todos dormiremos, mas todos seremos transformados! Acontecerá num instante, num piscar de olhos, ao som da última trombeta. Pois, quando a última trombeta soar, aqueles que morreram ressuscitarão a fim de viver para sempre. E nós que estivermos vivos também seremos transformados.
 >
 > **1 Coríntios 15:51-52**
 

@@ -6,7 +6,7 @@ La foi chrétienne commence avec le Messie d'Israël. Jésus est né au sein du 
 
 ## Jésus descendait d'Abraham, de David et de Juda
 
-> « Voici le registre de la généalogie de Jésus-Christ, fils de David, fils d'Abraham... »
+> « Généalogie de Jésus-Christ, fils de David, fils d'Abraham. »
 >
 > **Matthieu 1:1**
 
@@ -14,13 +14,13 @@ Matthieu présente Jésus en Le situant dans l'histoire de l'alliance d'Israël.
 
 L'épître aux Hébreux est encore plus explicite :
 
-> « Car il est évident que notre Seigneur est issu de Juda... »
+> « En effet, il est notoire que notre Seigneur est issu de Juda, tribu dont Moïse n'a rien dit concernant les prêtres. »
 >
 > **Hébreux 7:14**
 
 Jésus appartient à la tribu de Juda. L'Apocalypse conserve cette identité après Sa résurrection et Son ascension :
 
-> « Voici, le Lion de la tribu de Juda, la Racine de David, a triomphé... »
+> « Mais l'un des anciens me dit : Ne pleure pas ; le lion de la tribu de Juda, le rejeton de David, a été vainqueur : il peut ouvrir le livre et ses sept sceaux ! »
 >
 > **Apocalypse 5:5**
 
@@ -36,19 +36,19 @@ Lorsque Jésus parla avec la femme samaritaine, elle dit :
 
 Jésus ne corrigea pas cette identification. Dans la même conversation, Il dit :
 
-> « ...le salut vient des Juifs. »
+> « Vous, vous adorez ce que vous ne connaissez pas ; nous, nous adorons ce que nous connaissons, car le salut vient des Juifs. »
 >
 > **Jean 4:22**
 
 Paul décrit lui aussi le Messie comme issu d'Israël selon Son ascendance humaine :
 
-> « À eux appartiennent les patriarches, et c'est d'eux que le Christ est issu selon Son humanité... »
+> « les pères, et de qui est issu, selon la chair, le Christ, qui est au-dessus de tout, Dieu béni pour toujours ! Amen ! »
 >
 > **Romains 9:5**
 
 ## Jésus fut circoncis et présenté conformément à la Loi
 
-> « Quand les huit jours précédant Sa circoncision furent accomplis, Il fut appelé Jésus... »
+> « Quand huit jours furent accomplis, il fut circoncis et on lui donna le nom de Jésus, celui que l'ange avait indiqué avant sa conception. »
 >
 > **Luc 2:21**
 
@@ -125,7 +125,7 @@ Le Nouveau Testament n'enseigne pas aux non-Juifs à devenir ethniquement juifs.
 
 Paul dit aux croyants non juifs qu'ils étaient autrefois :
 
-> « séparés du Christ, exclus de la citoyenneté d'Israël et étrangers aux alliances de la promesse... »
+> « vous étiez en ce temps-là sans Christ, privés du droit de cité en Israël, étrangers aux alliances de la promesse, sans espérance et sans Dieu dans le monde. »
 >
 > **Éphésiens 2:12**
 

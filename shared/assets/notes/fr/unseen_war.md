@@ -22,7 +22,7 @@ Derrière chaque faux dieu se tient une puissance opposée au Seigneur.
 
 - **(Éphésiens 6:12)** – « Les esprits du mal dans les lieux célestes. » *(le champ de bataille des esprits)*  
 
-- **(2 Corinthiens 12:2–4)** – « Enlevé jusqu’au troisième ciel… dans le paradis. » *(la demeure de Dieu)*  
+- **(2 Corinthiens 12:2–4)** – « Je connais un homme dans le Christ… voici quatorze ans – était-ce dans son corps ? je ne sais pas ; était-ce hors de son corps ? je ne sais pas, Dieu le sait – un tel homme fut enlevé jusqu'au troisième ciel. Et je sais qu'un tel homme – était-ce dans son corps ou sans son corps ? je ne sais pas, Dieu le sait – fut enlevé au paradis et qu'il entendit des paroles ineffables, qu'il n'est pas permis à un homme d'énoncer. » *(la demeure de Dieu)*
 
 **Conclusion (Écriture):** L’Écriture distingue plusieurs cieux : le ciel visible (Genèse 1:8), le domaine du combat spirituel (Daniel 10:13; Ép 6:12), et la demeure de Dieu (2 Co 12:2–4).  
 
@@ -31,7 +31,7 @@ Derrière chaque faux dieu se tient une puissance opposée au Seigneur.
 ## 2. Principautés et Puissances  
 **Sens simple :** Il existe des puissances mauvaises organisées qui s'opposent au peuple de Dieu ; Christ a l'autorité ultime sur elles.  
 
-- **(Éphésiens 6:12)** – « Notre lutte… contre les dominations… les princes de ce monde de ténèbres. »  
+- **(Éphésiens 6:12)** – « En effet, ce n'est pas contre le sang et la chair que nous luttons, mais contre les principats, contre les autorités, contre les pouvoirs de ce monde de ténèbres, contre les puissances spirituelles mauvaises qui sont dans les lieux célestes. »
 
 - **(Daniel 10:20)** – « Le chef de la Grèce va venir. »  
 
@@ -141,7 +141,7 @@ L’idolâtrie dans l’Écriture ne concerne pas seulement les dieux antiques m
 
 - **(Actes 10:25–26)** – Quand Corneille se prosterna devant Pierre, Pierre le releva en disant : « Lève-toi ; moi aussi, je suis un homme. »  
 
-- **(Exode 20:4–5)** – « Tu ne te feras point d’image taillée… tu ne te prosterneras point devant elles et tu ne les serviras point. »  
+- **(Exode 20:4–5)** – « Tu ne te feras pas de statue, ni aucune forme de ce qui est dans le ciel, en haut, de ce qui est sur la terre, en bas, ou de ce qui est au-dessous de la terre, dans les eaux. Tu ne te prosterneras pas devant ces choses-là et tu ne les serviras pas ; car moi, le Seigneur (YHWH), ton Dieu, je suis un Dieu à la passion jalouse, qui fais rendre des comptes aux fils pour la faute des pères, jusqu'à la troisième et la quatrième génération de ceux qui me détestent, »
 
 Même les saints les plus fidèles sont des exemples de foi, non des médiateurs. L’adoration, la prière et la dévotion appartiennent à Dieu seul.  
 
@@ -288,14 +288,14 @@ Le Coran honore Jésus (*ʿĪsā*) comme prophète, mais nie sa crucifixion et s
 #### Objection 1 : La Bible a été corrompue
 Le Coran lui-même affirme que la Torah et l’Évangile sont des révélations authentiques.
 
-**Coran 5:44 (Sahih International)**
+**Coran 5:44 (traduit de Sahih International)**
 > « En vérité, Nous avons fait descendre la Torah où il y avait une direction et une lumière. Les prophètes qui s’étaient soumis [à Allah] jugeaient par elle les Juifs, de même que les rabbins et les docteurs, en raison de ce dont ils avaient été chargés de garder du Livre d’Allah ; et ils en étaient témoins. »
 
-**Coran 5:46 (Sahih International)**
+**Coran 5:46 (traduit de Sahih International)**
 > « Et Nous avons envoyé, sur leurs traces, Jésus, fils de Marie, confirmant ce qui, avant lui, était de la Torah ; et Nous lui avons donné l’Évangile, dans lequel il y a une direction et une lumière, confirmant ce qui précédait de la Torah, une direction et une exhortation pour les pieux. »
 
-**Coran 10:94 (Sahih International)**
-> « Si tu es dans le doute au sujet de ce que Nous t’avons révélé, interroge ceux qui lisent le Livre avant toi. La vérité, certes, t’est venue de la part de ton Seigneur ; ne sois donc point de ceux qui doutent. »
+**Coran 10:94 (traduit de Sahih International)**
+> « Si tu es dans le doute, [ô Mahomet], au sujet de ce que Nous t’avons révélé, interroge ceux qui lisent le Livre avant toi. La vérité, certes, t’est venue de la part de ton Seigneur ; ne sois donc point de ceux qui doutent. »
 
 La Bible affirme sa propre préservation.
 
@@ -334,14 +334,14 @@ La Bible affirme sa propre préservation.
 
 L’islam respecte Jésus (*ʿĪsā*) comme prophète mais nie sa divinité, sa filiation et sa crucifixion.
 
-**Coran 4:171 (Sahih International)**
-> « Ô gens du Livre ! N’exagérez pas dans votre religion et ne dites sur Allah que la vérité. Le Messie, Jésus, fils de Marie, n’est qu’un messager d’Allah, Sa parole qu’Il a jetée à Marie, et un esprit venant de Lui. Croyez donc en Allah et en Ses messagers. Et ne dites pas : “Trois”. Cessez ! Ce sera meilleur pour vous. Allah n’est qu’un Dieu unique. Il est trop glorieux pour avoir un fils. »
+**Coran 4:171 (traduit de Sahih International)**
+> « Ô gens du Livre ! N’exagérez pas dans votre religion et ne dites sur Allah que la vérité. Le Messie, Jésus, fils de Marie, n’est qu’un messager d’Allah, Sa parole qu’Il a adressée à Marie, et une âme [créée par un ordre] venant de Lui. Croyez donc en Allah et en Ses messagers. Et ne dites pas : “Trois” ; cessez, ce sera meilleur pour vous. En vérité, Allah n’est qu’un Dieu unique. Il est trop glorieux pour avoir un fils. »
 
 La Bible identifie Jésus comme le Fils éternel de Dieu, égal au Père.
 
 **(Jean 1:1-14)**
 
-> « Au commencement était la Parole… la Parole a été faite chair. »
+> « Au commencement était la Parole ; la Parole était auprès de Dieu ; la Parole était Dieu. Elle était au commencement auprès de Dieu. Tout est venu à l'existence par elle, et rien n'est venu à l'existence sans elle. Ce qui est venu à l'existence en elle était vie, et la vie était la lumière des humains. La lumière brille dans les ténèbres, et les ténèbres n'ont pas pu la saisir. Survint un homme, envoyé de Dieu, du nom de Jean. Il vint comme témoin, pour rendre témoignage à la lumière, afin que tous croient par lui. Ce n'est pas lui qui était la lumière ; il venait rendre témoignage à la lumière. La Parole était la vraie lumière, celle qui éclaire tout humain ; elle venait dans le monde. Elle était dans le monde, et le monde est venu à l'existence par elle, mais le monde ne l'a jamais connue. Elle est venue chez elle, et les siens ne l'ont pas accueillie ; mais à tous ceux qui l'ont reçue, elle a donné le pouvoir de devenir enfants de Dieu — à ceux qui mettent leur foi en son nom. Ceux-là sont nés, non pas du sang, ni d'une volonté de chair, ni d'une volonté d'homme, mais de Dieu. La Parole est devenue chair ; elle a fait sa demeure parmi nous, et nous avons vu sa gloire, une gloire de Fils unique issu du Père ; elle était pleine de grâce et de vérité. »
 
 **(Colossiens 2:9)**
 > « Car en lui habite corporellement toute la plénitude de la divinité. »
@@ -370,9 +370,9 @@ La doctrine de la Trinité affirme un seul Dieu en trois Personnes.
 
 Le Coran nie la crucifixion en **Coran 4:157**, mais l’événement est si bien attesté dans des **sources historiques non chrétiennes et séculières** que même des historiens sceptiques l’acceptent comme un fait.
 
-**Coran 4:157 (Sahih International)**
+**Coran 4:157 (traduit de Sahih International)**
 
-> *« Et à cause de leur parole : “Nous avons vraiment tué le Messie, Jésus, fils de Marie, le messager d’Allah”; alors qu’ils ne l’ont ni tué ni crucifié ; mais quelqu’un qui lui ressemblait fut mis à sa place. Et ceux qui discutent sur son sujet sont vraiment dans le doute ; ils n’en ont aucune connaissance certaine, ils ne suivent que des conjectures ; et ils ne l’ont certainement pas tué. »*
+> *« Et à cause de leur parole : “Nous avons vraiment tué le Messie, Jésus, fils de Marie, le messager d’Allah.” Or ils ne l’ont ni tué ni crucifié ; mais [un autre] fut rendu semblable à lui à leurs yeux. Et ceux qui divergent à son sujet sont vraiment dans le doute ; ils n’en ont aucune connaissance, ils ne font que suivre des conjectures. Et ils ne l’ont certainement pas tué. »*
 
 L’islam enseigne que Jésus n’a pas été crucifié. Mais la Bible et les historiens séculiers l’attestent clairement.
 
@@ -424,7 +424,7 @@ C’est historiquement faux. Les preuves sont accablantes :
 
 - Les sources islamiques elles-mêmes reconnaissent qu’ʿUthmān a brûlé des Corans variants.
 
-- **Sahih al-Bukhari 4987** : « ʿUthmān envoya à chaque province musulmane un exemplaire de ce qu’ils avaient copié, et ordonna que tous les autres matériaux coraniques… soient brûlés. »
+- **Sahih al-Bukhari 4987** : « ʿUthmān envoya à chaque province musulmane un exemplaire de ce qu’ils avaient copié et ordonna que tous les autres matériaux coraniques, qu’ils soient écrits sur des feuillets séparés ou dans des copies complètes, soient brûlés. »
 
 Si le Coran n’avait jamais eu de variantes, pourquoi fallait-il brûler ?
 
@@ -435,11 +435,11 @@ Si le Coran n’avait jamais eu de variantes, pourquoi fallait-il brûler ?
 
 Cela crée un piège : cela suppose que le Coran n’est pas suffisant en lui-même, alors même qu’il prétend être une guidance claire.
 
-**Coran 16:89 (Sahih International)**
+**Coran 16:89 (traduit de Sahih International)**
 
 > « Nous avons fait descendre sur toi le Livre, pour expliquer toute chose, ainsi qu’une direction, une miséricorde et une bonne nouvelle pour les musulmans. »
 
-**Coran 6:114 (Sahih International)**
+**Coran 6:114 (traduit de Sahih International)**
 
 > « Chercherai-je un autre juge qu’Allah, alors que c’est Lui qui a fait descendre vers vous le Livre détaillé ? »
 
@@ -479,7 +479,7 @@ Cette objection s’effondre à la fois devant l’Écriture et l’histoire sé
 #### La vision islamique du salut
 En islam, le salut dépend de l’équilibre des œuvres. Les bonnes actions doivent l’emporter sur les mauvaises, et en fin de compte Allah peut accorder ou refuser sa miséricorde.
 
-**Coran 23:102–103 (Sahih International)**
+**Coran 23:102–103 (traduit de Sahih International)**
 > « Ceux dont la balance sera lourde [de bonnes œuvres] seront les bienheureux ; mais ceux dont la balance sera légère seront ceux qui auront perdu leurs âmes ; en Enfer ils demeureront éternellement. »
 
 Cela reflète un système de salut fondé sur les œuvres, mesuré par la loi et les actes.
@@ -535,7 +535,7 @@ La Loi de Moïse interdit l’exploitation sexuelle des enfants et la tient pour
 Les enfants ne peuvent consentir ; consommer un mariage avec une enfant relève donc de l’exploitation et de la contrainte.
 
 #### 2. Polygamie au-delà des limites
-**Coran 4:3 (Sahih International)**
+**Coran 4:3 (traduit de Sahih International)**
 > « Et si vous craignez de ne pas être équitables envers les orphelines, épousez parmi les [autres] femmes celles qui vous plaisent, deux, trois ou quatre. Mais si vous craignez de ne pas être équitables, alors [n’en épousez qu’]une seule ou celles que votre main droite possède. Cela convient mieux afin que vous ne penchiez pas [vers l’injustice]. »
 
 Mahomet prit cependant plus de quatre épouses, dépassant la norme coranique elle-même ainsi que l’ordonnance de la Loi de Moïse.
@@ -544,7 +544,7 @@ Mahomet prit cependant plus de quatre épouses, dépassant la norme coranique el
 > « Qu’il n’ait pas un grand nombre de femmes, afin que son cœur ne se détourne point ; et qu’il ne fasse pas de grandes amasses d’argent et d’or. »
 
 #### 3. Mariage avec la femme d’un fils adopté
-**Coran 33:37 (Sahih International)**
+**Coran 33:37 (traduit de Sahih International)**
 > « Et [souviens-toi, ô Mahomet] lorsque tu disais à celui qu’Allah avait comblé de bienfaits, comme toi-même l’avais comblé de bienfaits : “Garde ton épouse et crains Allah”, tandis que tu cachais en toi ce qu’Allah allait révéler. Tu craignais les gens, alors qu’Allah mérite davantage que tu le craignes. Puis, lorsque Zayd n’eut plus aucun besoin d’elle, Nous te la donnâmes pour épouse, afin qu’il n’y ait aucune gêne pour les croyants au sujet des épouses de leurs fils adoptifs lorsque ceux-ci n’en ont plus besoin. Et le commandement d’Allah s’accomplit toujours. »
 
 La Loi de Moïse interdit une telle union.
@@ -553,7 +553,7 @@ La Loi de Moïse interdit une telle union.
 > « Tu ne découvriras point la nudité de ta belle-fille : c’est la femme de ton fils. »
 
 #### 4. Violence et conversions forcées
-**Coran 9:5 (Sahih International)**
+**Coran 9:5 (traduit de Sahih International)**
 > « Lorsque les mois sacrés seront expirés, tuez les polythéistes où que vous les trouviez ; capturez-les, assiégez-les et guettez-les dans tout lieu d’embuscade. Mais s’ils se repentent, accomplissent la prière et acquittent l’aumône légale, laissez-les poursuivre leur chemin. Allah est certes pardonneur et miséricordieux. »
 
 Par contraste, la Loi de Moïse condamne le meurtre, et Jésus rejette la violence pour la foi.
@@ -567,14 +567,14 @@ Par contraste, la Loi de Moïse condamne le meurtre, et Jésus rejette la violen
 #### 5. Négation du Christ
 Le Coran nie la filiation et la crucifixion de Jésus.
 
-**Coran 4:171 (Sahih International)**
-> « Ô gens du Livre ! N’exagérez pas dans votre religion et ne dites sur Allah que la vérité. Le Messie, Jésus, fils de Marie, n’est qu’un messager d’Allah, Sa parole qu’Il a jetée à Marie, et un esprit venant de Lui. Croyez donc en Allah et en Ses messagers. Et ne dites pas : “Trois”. Cessez ! Ce sera meilleur pour vous. Allah n’est qu’un Dieu unique. Il est trop glorieux pour avoir un fils. »
+**Coran 4:171 (traduit de Sahih International)**
+> « Ô gens du Livre ! N’exagérez pas dans votre religion et ne dites sur Allah que la vérité. Le Messie, Jésus, fils de Marie, n’est qu’un messager d’Allah, Sa parole qu’Il a adressée à Marie, et une âme [créée par un ordre] venant de Lui. Croyez donc en Allah et en Ses messagers. Et ne dites pas : “Trois” ; cessez, ce sera meilleur pour vous. En vérité, Allah n’est qu’un Dieu unique. Il est trop glorieux pour avoir un fils. »
 
-**Coran 112:3 (Sahih International)**
+**Coran 112:3 (traduit de Sahih International)**
 > « Il n’a pas engendré et n’a pas été engendré. »
 
-**Coran 4:157 (Sahih International)**
-> « Et à cause de leur parole : “Nous avons vraiment tué le Messie, Jésus, fils de Marie, le messager d’Allah”; alors qu’ils ne l’ont ni tué ni crucifié, mais un autre leur fut rendu semblable. Ceux qui discutent à son sujet sont vraiment dans le doute ; ils n’en ont aucune connaissance et ne suivent que des conjectures. Ils ne l’ont certainement pas tué. »
+**Coran 4:157 (traduit de Sahih International)**
+> « Et à cause de leur parole : “Nous avons vraiment tué le Messie, Jésus, fils de Marie, le messager d’Allah.” Or ils ne l’ont ni tué ni crucifié ; mais [un autre] fut rendu semblable à lui à leurs yeux. Et ceux qui divergent à son sujet sont vraiment dans le doute ; ils n’en ont aucune connaissance, ils ne font que suivre des conjectures. Et ils ne l’ont certainement pas tué. »
 
 La Bible enseigne l’inverse : Jésus est le Fils éternel de Dieu, crucifié et ressuscité.
 
@@ -599,7 +599,7 @@ De multiples sources islamiques rapportent que Mahomet possédait des esclaves e
 
 Cela suppose que Mahomet et ses compagnons détenaient des esclaves, ce qui était normalisé dans son leadership.
 
-**Coran 4:24 (Sahih International)**
+**Coran 4:24 (traduit de Sahih International)**
 > « Et [vous sont interdites] les femmes déjà mariées, sauf celles que vos mains droites possèdent. [Ceci est] le décret d’Allah sur vous. »
 
 Ce verset a permis le viol de captives de guerre, même si elles étaient déjà mariées.
@@ -640,7 +640,7 @@ Par contraste, Mahomet a permis le viol de captives sans ces protections. La Tor
 La Sourate 33 accorde à Mahomet des exemptions et des privilèges uniques.
 
 #### Épouses et concubines illimitées
-**Coran 33:50 (Sahih International)**
+**Coran 33:50 (traduit de Sahih International)**
 > « Ô Prophète ! Nous t’avons rendues licites tes épouses auxquelles tu as donné leur dot, celles que ta main droite possède parmi les captives qu’Allah t’a rendues, les filles de tes oncles paternels, les filles de tes tantes paternelles, les filles de tes oncles maternels et les filles de tes tantes maternelles qui ont émigré avec toi, ainsi que toute femme croyante si elle fait don de sa personne au Prophète et si le Prophète souhaite l’épouser ; cela t’est réservé, à l’exclusion des [autres] croyants. Nous savons ce que Nous leur avons imposé au sujet de leurs épouses et de celles que leur main droite possède, mais [cela t’est accordé] afin que tu ne sois pas gêné. Allah est toujours pardonneur et miséricordieux. »
 
 Ici, Mahomet se voit autoriser un nombre illimité d’épouses/concubines, contrairement aux musulmans ordinaires limités à quatre (Coran 4:3).
@@ -651,14 +651,14 @@ La Torah interdit de multiplier les femmes.
 > « Qu’il n’ait pas un grand nombre de femmes, afin que son cœur ne se détourne point ; et qu’il n’amasse pas pour lui-même une quantité excessive d’argent et d’or. »
 
 #### Restrictions exclusives
-**Coran 33:52 (Sahih International)**
+**Coran 33:52 (traduit de Sahih International)**
 > « Il ne t’est pas permis, [ô Mahomet], de prendre d’autres femmes après celles-ci ni de les échanger contre d’autres épouses, même si leur beauté te séduit, à l’exception de celles que possède ta main droite. Et Allah observe toute chose. »
 
 Cela montre des règles créées uniquement pour la situation conjugale de Mahomet.
 
 #### Révélation d’étiquette de table
-**Coran 33:53 (Sahih International)**
-> « Ô vous qui croyez ! N’entrez pas dans les maisons du Prophète pour un repas avant qu’il ne soit prêt… Quand vous avez mangé, dispersez-vous sans vous attarder à la conversation. Cela importunait le Prophète, et il avait honte de vous le dire ; mais Allah ne craint pas de dire la vérité… »
+**Coran 33:53 (traduit de Sahih International)**
+> « Ô vous qui croyez ! N’entrez pas dans les maisons du Prophète, à moins qu’on ne vous y autorise pour un repas, sans attendre qu’il soit prêt. Mais lorsqu’on vous invite, entrez ; et quand vous avez mangé, dispersez-vous sans chercher à rester pour converser. En vérité, ce [comportement] importunait le Prophète, et il avait honte de [vous congédier]. Mais Allah n’a pas honte de la vérité. Et lorsque vous demandez quelque chose à [ses épouses], demandez-leur cela derrière une séparation. Cela est plus pur pour vos cœurs et pour les leurs. Il ne vous est pas permis de nuire au Messager d’Allah ni d’épouser ses épouses après lui, jamais. Cela serait une faute immense auprès d’Allah. »
 
 On élève ainsi un désagrément personnel de Mahomet au rang de loi, en le décrivant comme « trop pudique » pour congédier ses invités. Pourtant, des hadiths rapportent qu’il visitait ses neuf épouses en une seule nuit.
 
@@ -680,32 +680,32 @@ L’incohérence est frappante : « trop pudique » pour renvoyer des invités
 L’islam enseigne que le Coran est parfait et sans contradiction. Pourtant, dans le texte et la tradition islamique, on observe des conflits et des lacunes.
 
 #### 1. Chronologie de la création
-**Coran 7:54 (Sahih International)**
-> « Votre Seigneur est Allah, qui a créé les cieux et la terre en six jours, puis s’est établi au-dessus du Trône. »
+**Coran 7:54 (traduit de Sahih International)**
+> « En vérité, votre Seigneur est Allah, qui a créé les cieux et la terre en six jours, puis s’est établi au-dessus du Trône. »
 
-**Qur’an 41:9–12 (Français)**
-> Dis: « Rennez-vous Celui qui a créé la terre en deux jours et Lui attribuez-vous des égaux? C’est le Seigneur des mondes. Il y plaça des montagnes fermement établies, la bénit et y répartit ses subsistances en quatre jours, de façon égale pour ceux qui demandent. Puis Il se tourna vers le ciel qui n’était que fumée et lui dit ainsi qu’à la terre: “Venez toutes deux, de gré ou de force.” Elles dirent: “Nous venons de gré.” Il les acheva alors en sept cieux en deux jours et inspira à chaque ciel son ordre. Et Nous avons orné le ciel le plus proche de lampes et comme protection. Tel est le décret du Puissant, du Savant. »
+**Coran 41:9–12 (traduit de Sahih International)**
+> Dis : « Reniez-vous vraiment Celui qui a créé la terre en deux jours, et Lui attribuez-vous des égaux ? C’est le Seigneur des mondes. Il y plaça des montagnes fermement établies, la bénit et y détermina ses subsistances en quatre jours, de façon égale, pour [l’information de] ceux qui demandent. Puis Il se tourna vers le ciel, qui était alors fumée, et lui dit ainsi qu’à la terre : “Venez [à l’existence], de gré ou de force.” Ils dirent : “Nous venons de plein gré.” Il les acheva en sept cieux en deux jours et révéla à chaque ciel son ordre. Et Nous avons orné le ciel le plus proche de lampes et [en avons fait] une protection. Tel est le décret du Puissant, de l’Omniscient. »
 
 
-Pris ensemble, cela décrit huit jours, non six. La Bible est cohérente : Dieu créa en six jours et se reposa le septième (Genèse 1:31–2:2).
+Additionnés à la suite, les jours de la sourate 41 font deux, puis quatre, puis deux, soit huit, contre les six jours de 7:54. Les commentateurs musulmans comprennent que les quatre jours incluent les deux premiers, ce qui maintient le total à six ; le passage lui-même ne le dit pas. La Genèse ne laisse rien à concilier : elle numérote chaque jour, du premier au sixième, et Dieu se reposa le septième (Genèse 1:5 ; 1:31–2:2).
 
 #### 2. Vin : bénédiction ou souillure ?
-**Coran 16:67 (Sahih International)**
+**Coran 16:67 (traduit de Sahih International)**
 > « Et des fruits des palmiers et des vignes, vous retirez des boissons enivrantes et une bonne subsistance. Il y a certes là un signe pour les gens qui raisonnent. »
 
-**Coran 5:90 (Sahih International)**
-> « Les boissons enivrantes… ne sont qu’une abomination de l’œuvre de Satan : évitez-les… »
+**Coran 5:90 (traduit de Sahih International)**
+> « Ô vous qui croyez ! En vérité, les boissons enivrantes, les jeux de hasard, les sacrifices sur des autels de pierre [à d’autres qu’Allah] et les flèches divinatoires ne sont qu’une souillure, œuvre de Satan ; écartez-vous-en, afin que vous réussissiez. »
 
 L’enseignement change avec le temps. La Bible condamne constamment l’ivresse tout en permettant le vin avec modération (Psaume 104:15 ; Éphésiens 5:18).
 
 #### 3. Violence vs paix
-**Coran 2:256 (Sahih International)**
+**Coran 2:256 (traduit de Sahih International)**
 > « Nulle contrainte en religion. La bonne voie se distingue clairement de l’égarement. Quiconque mécroit au Taghut et croit en Allah saisit l’anse la plus solide, qui ne peut se briser. Et Allah entend tout et sait tout. »
 
-**Coran 9:5 (Sahih International)**
-> « Lorsque les mois sacrés seront expirés, tuez les polythéistes où que vous les trouviez, capturez-les, assiégez-les et guettez-les dans toute embuscade… »
+**Coran 9:5 (traduit de Sahih International)**
+> « Lorsque les mois sacrés seront expirés, tuez les polythéistes où que vous les trouviez ; capturez-les, assiégez-les et guettez-les dans tout lieu d’embuscade. Mais s’ils se repentent, accomplissent la prière et acquittent l’aumône légale, laissez-les poursuivre leur chemin. Allah est certes pardonneur et miséricordieux. »
 
-**Coran 9:29 (Sahih International)**
+**Coran 9:29 (traduit de Sahih International)**
 > « Combattez ceux qui ne croient ni en Allah ni au Jour dernier, qui ne tiennent pas pour illicite ce qu’Allah et Son Messager ont déclaré illicite et qui, parmi ceux qui ont reçu l’Écriture, n’adoptent pas la religion de la vérité, jusqu’à ce qu’ils versent la jizya de leurs propres mains et soient humiliés. »
 
 Le verset pacifique est ancien ; le verset violent est postérieur et considéré par des savants musulmans comme abrogeant le premier. Jésus n’a jamais ordonné de tuer pour la foi. Il a dit au contraire :
@@ -714,22 +714,27 @@ Le verset pacifique est ancien ; le verset violent est postérieur et considér�
 > « Aimez vos ennemis et priez pour ceux qui vous persécutent. »
 
 #### 4. Destin vs libre arbitre
-**Coran 18:29 (Sahih International)**
-> « Que celui qui veut croie, et que celui qui veut mécroie. »
+**Coran 18:29 (traduit de Sahih International)**
+> « Et dis : “La vérité émane de votre Seigneur ; quiconque le veut, qu’il croie, et quiconque le veut, qu’il mécroie.” »
 
-**Coran 16:93 (Sahih International)**
-> « S’Il avait voulu, Il aurait fait de vous une seule communauté ; mais Il égare qui Il veut et guide qui Il veut… »
+**Coran 16:93 (traduit de Sahih International)**
+> « Et si Allah l’avait voulu, Il aurait fait de vous une seule communauté ; mais Il égare qui Il veut et guide qui Il veut. Et vous serez certes interrogés sur ce que vous faisiez. »
 
-Le Coran affirme le libre arbitre en un endroit et le nie ailleurs. La Bible équilibre la souveraineté de Dieu et la responsabilité humaine (Romains 9:19–21 ; Josué 24:15).
+Le Coran affirme le libre arbitre en un endroit et le nie ailleurs. La Bible tient ensemble la souveraineté de Dieu et la responsabilité humaine, parfois dans un seul verset :
+
+**(Actes 2:23)**
+> « Cet homme, livré selon les décisions arrêtées dans la prescience de Dieu, vous l’avez supprimé en le faisant crucifier par des sans-loi. »
+
+Paul reprend l’objection « Qui peut s’opposer à sa décision ? » en Romains 9:19–21, et dans le chapitre suivant il écrit : « Quiconque invoquera le nom du Seigneur sera sauvé » (Romains 10:13). Josué dit à Israël : « Choisissez aujourd’hui qui vous voulez servir » (Josué 24:15).
 
 #### 5. Mort de Jésus
-**Coran 4:157 (Sahih International)**
-> « Ils ne l’ont ni tué ni crucifié… »
+**Coran 4:157 (traduit de Sahih International)**
+> « Et à cause de leur parole : “Nous avons vraiment tué le Messie, Jésus, fils de Marie, le messager d’Allah.” Or ils ne l’ont ni tué ni crucifié ; mais [un autre] fut rendu semblable à lui à leurs yeux. Et ceux qui divergent à son sujet sont vraiment dans le doute ; ils n’en ont aucune connaissance, ils ne font que suivre des conjectures. Et ils ne l’ont certainement pas tué. »
 
-**Coran 19:33 (Sahih International)**
+**Coran 19:33 (traduit de Sahih International)**
 > « La paix soit sur moi le jour où je naquis, le jour où je mourrai, et le jour où je serai ressuscité vivant. »
 
-Le Coran nie et affirme la mort de Jésus dans des passages différents. La Bible est cohérente :
+Coran 4:157 nie que Jésus ait été tué ou crucifié. Coran 19:33 parle d’un jour où Il mourra, sans dire quand ni comment. La Bible affirme clairement Sa mort, avec Sa mise au tombeau et Sa résurrection le troisième jour :
 
 **(1 Corinthiens 15:3–4)**
 > « Je vous ai transmis avant tout ce que j’avais aussi reçu : Christ est mort pour nos péchés conformément aux Écritures, il a été enseveli et il est ressuscité le troisième jour conformément aux Écritures. »
@@ -933,7 +938,7 @@ L’« Étoile de David » (hexagramme) ne se trouve nulle part dans l’Écri
 - *Sens :* L’enseignement confucéen valorise l’ordre familial et la formation morale ; la Bible affirme l’éducation pieuse et l’amour du prochain.  
 
 **Taoïsme (道家) – Le Dao comme ordre de la vie.**  
-- **(Jean 1:1)** – « Au commencement était la Parole (Logos/Dao). »  
+- **(Jean 1:1)** – « Au commencement était la Parole ; la Parole était auprès de Dieu ; la Parole était Dieu. »
 
 - **(Jean 14:6)** – « Je suis le chemin, la vérité et la vie. »  
 
@@ -969,7 +974,7 @@ Pour un traitement systématique plus approfondi de chaque mouvement listé ci-d
 
 - **(Deutéronome 18:20–22)** – Si une prédiction échoue, le prophète a parlé avec présomption.
 
-- **(Matthieu 7:15–20)** – « Méfiez-vous des faux prophètes… vous les reconnaîtrez à leurs fruits. »
+- **(Matthieu 7:15–20)** – « Gardez-vous des prophètes de mensonge. Ils viennent à vous déguisés en moutons, mais au dedans ce sont des loups voraces. C'est à leurs fruits que vous les reconnaîtrez. Cueille-t-on des raisins sur des épines, ou des figues sur des chardons ? Tout bon arbre produit de beaux fruits, tandis que l'arbre malade produit de mauvais fruits. Un bon arbre ne peut produire de mauvais fruits, ni un arbre malade produire de beaux fruits. Tout arbre qui ne produit pas de beau fruit est coupé et jeté au feu. C'est donc à leurs fruits que vous les reconnaîtrez. »
 
 - **(1 Jean 4:1–3)** – Éprouvez les esprits. Véritable confession : Jésus-Christ est venu en chair.
 
@@ -1047,7 +1052,7 @@ Pour un traitement systématique plus approfondi de chaque mouvement listé ci-d
 
 - (Matthieu 6:19–21) – Ne vous amassez pas de trésors sur la terre.
 
-- (1 Timothée 6:5–10) – Ceux qui veulent s’enrichir tombent dans un piège… car l’amour de l’argent est une racine de tous les maux.
+- (1 Timothée 6:5–10) – « les contestations interminables de gens à l'intelligence pervertie, privés de la vérité, qui considèrent la piété comme une source de profit. Certes, c'est une grande source de profit que la piété, si l'on se contente de ce qu'on a. Car nous n'avons rien apporté dans le monde, comme d'ailleurs nous n'en pouvons rien emporter. Si donc nous avons la nourriture et le vêtement, cela nous suffira. Mais ceux qui sont décidés à devenir riches tombent dans l'épreuve, dans un piège et dans beaucoup de désirs stupides et pernicieux, qui plongent les gens dans la destruction et la perdition. Car l'amour de l'argent est la racine de tous les maux, et quelques-uns, pour s'y être adonnés, se sont égarés loin de la foi et se sont infligé à eux-mêmes bien des tourments. »
 
 - (Jean 16:33) – Dans le monde vous aurez des tribulations.
 
@@ -1176,7 +1181,7 @@ Tiens fermement à la foi qui a été transmise une fois pour toutes aux saints 
 
 - **(Jean 8:39–41)** – Les enfants d’Abraham voulaient tuer Jésus.  
 
-- **(Jean 8:44)** – « Vous avez pour père le diable… il est menteur et père du mensonge. »  
+- **(Jean 8:44)** – « Vous, vous êtes de votre père, le diable, et vous voulez faire les désirs de votre père. Lui, il était homicide dès le commencement ; il ne se tenait pas dans la vérité, parce qu'il n'y a pas de vérité en lui. Lorsqu'il dit le mensonge, il parle de ce qui lui est propre, car il est à la fois le menteur et son père. »
 
 - **(Jean 8:47)** – Celui qui est de Dieu entend les paroles de Dieu.  
 

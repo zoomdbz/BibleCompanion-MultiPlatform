@@ -12,7 +12,7 @@ This is the forest beyond the trees. The gospel is not about obsessing over whic
 
 Grace is not a license to keep living however we want; it is the power that frees us to live differently. Jesus did not condemn the broken, but He also told them to leave their old life behind. **Real faith** is not just believing He exists, but trusting Him enough to follow, turning away from sin, learning to walk in His way, and depending on His Spirit for strength. Grace forgives our past, but it also calls us into a new future.
 
-> **"For the grace of God has appeared, bringing salvation for all people, training us to renounce ungodliness and worldly passions, and to live self-controlled, upright, and godly lives in the present age, waiting for our blessed hope, the appearing of the glory of our great God and Savior Jesus Christ, who gave himself for us to redeem us from all lawlessness and to purify for himself a people for his own possession who are zealous for good works" (Titus 2:11–14).**
+> **"For the grace of God has appeared, bringing salvation to everyone. It instructs us to renounce ungodliness and worldly passions, and to live sensible, upright, and godly lives in the present age, as we await the blessed hope and glorious appearance of our great God and Savior Jesus Christ. He gave Himself for us to redeem us from all lawlessness and to purify for Himself a people for His own possession, zealous for good deeds." (Titus 2:11–14).**
 
 ### Other Supporting Scripture
 

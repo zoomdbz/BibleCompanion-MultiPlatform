@@ -22,7 +22,7 @@
 - El **paso hacia la cruz** como símbolo cristiano central se desarrolló con el tiempo, especialmente a partir del siglo IV.  
 - Pablo también describió la cruz como lugar de **gloriarse en Cristo** (Gálatas 6:14) y de unión con Él en **muerte y resurrección** (Romanos 6:5).  
 - Hoy la cruz sigue siendo un emblema universal del cristianismo, aunque históricamente simboliza **la muerte de Cristo** más que su resurrección.
-- Un **crucifijo** (la cruz que lleva el cuerpo de Cristo) mantiene la mirada en la muerte expiatoria. Pablo dijo: «predicamos a Cristo crucificado» (1 Corintios 1:23) y resolvió «no saber cosa alguna… sino a Jesucristo, y a este crucificado» (1 Corintios 2:2).
+- Un **crucifijo** (la cruz que lleva el cuerpo de Cristo) mantiene la mirada en la muerte expiatoria. Pablo dijo: «predicamos a Cristo crucificado» (1 Corintios 1:23) y escribió: «Me decidí más bien, estando entre ustedes, a no saber de cosa alguna, excepto de Jesucristo y de este crucificado.» (1 Corintios 2:2).
 - Una **cruz vacía** señala más allá de la muerte hacia la resurrección; Cristo ya no está en ella porque resucitó. «No está aquí, pues ha resucitado» (Mateo 28:6). La cruz vacía y la tumba vacía juntas proclaman la victoria que es el corazón del evangelio (1 Corintios 15:3–4, 17, 20).
 
 ---
@@ -31,4 +31,4 @@
 
 Antes de que la cruz se volviera dominante, los primeros cristianos usaban el pez, el Chi-Rho y la imagen del pastor. Esto plantea la pregunta: *¿es la cruz el símbolo más pleno de Jesús, o sobre todo el de su muerte?*
 
-El evangelio más pleno sostiene ambos juntos: «Cristo murió por nuestros pecados… fue sepultado… y resucitó al tercer día» (1 Corintios 15:3–4). Un crucifijo fija la mirada en el precio que se pagó; una cruz vacía, en la victoria que se ganó. Ninguno por sí solo cuenta toda la historia.
+El evangelio más pleno sostiene ambos juntos: «Porque ante todo les transmití a ustedes lo que yo mismo recibí: que Cristo murió por nuestros pecados según las Escrituras, que fue sepultado, que resucitó al tercer día según las Escrituras,» (1 Corintios 15:3–4). Un crucifijo fija la mirada en el precio que se pagó; una cruz vacía, en la victoria que se ganó. Ninguno por sí solo cuenta toda la historia.

@@ -6,7 +6,8 @@ Un guide pour comprendre comment la Bible que nous avons aujourd’hui a été f
 
 ## 1. Comment nous avons obtenu la Bible
 
-**(Luc 1:1–4)** : « Plusieurs ont entrepris de composer un récit… j’ai tout examiné avec soin… afin que tu reconnaisses l’exactitude des enseignements. »  
+**(Luc 1:1–4)** : « Puisque beaucoup ont entrepris de composer un récit des faits qui se sont accomplis parmi nous, tels que nous les ont transmis ceux qui, dès le commencement, en ont été les témoins oculaires et sont devenus serviteurs de la Parole, il m'a semblé bon, à moi aussi, après m'être informé exactement de tout depuis les origines, de te l'exposer par écrit d'une manière suivie, très excellent Théophile, afin que tu connaisses la certitude des enseignements que tu as reçus. »
+
 ➡ Luc montre que les premiers chrétiens ont soigneusement documenté les événements.
 
 **(2 Timothée 3:16)** : « Toute Écriture est inspirée de Dieu et utile pour enseigner, convaincre, corriger et instruire dans la justice. »  
@@ -46,7 +47,8 @@ Un guide pour comprendre comment la Bible que nous avons aujourd’hui a été f
 
 ## 3. Église et politique
 
-**(Matthieu 23:27–28)** : « Malheur à vous, scribes et pharisiens… vous êtes semblables à des sépulcres blanchis. »  
+**(Matthieu 23:27–28)** : « Quel malheur pour vous, scribes et pharisiens, hypocrites ! Vous ressemblez à des sépulcres blanchis qui paraissent beaux au dehors, et qui au dedans sont pleins d'ossements de morts et de toute espèce d'impureté. Vous de même, au dehors, vous paraissez justes aux gens, mais au dedans vous êtes remplis d'hypocrisie et de mal. »
+
 ➡ Jésus a condamné les chefs religieux qui semblaient saints à l’extérieur mais étaient corrompus à l’intérieur.
 
 **(Actes 5:29)** : « Il faut obéir à Dieu plutôt qu’aux hommes. »  
@@ -81,7 +83,8 @@ Un guide pour comprendre comment la Bible que nous avons aujourd’hui a été f
 
 ## 5. Textes perdus et supprimés
 
-**(Jude 1:14–15)** : « Hénoc, le septième après Adam, a prophétisé... »  
+**(Jude 1:14–15)** : « C'est aussi à leur sujet qu'Hénoch, le septième depuis Adam, a dit en prophète : « Le Seigneur est venu avec ses saints par dizaines de milliers, afin d'exercer le jugement contre tous et de les confondre pour toutes leurs œuvres d'impiété et pour toutes les paroles dures qu'ont proférées contre lui les pécheurs impies. » »
+
 ➡ Jude cite directement le Livre d’Hénoc.
 
 **(Colossiens 4:16)** : « Lisez aussi cette lettre dans l’église des Laodicéens, et vous-mêmes lisez celle de Laodicée. »  
@@ -160,7 +163,7 @@ Hénoch n’est pas marginal ; il est central. **1 Hénoch** clarifie la Genèse
 
 ## 6. Fêtes Empruntées (Syncrétisme)
 
-**(Jérémie 10:2–4)** : « N’imitez pas la voie des nations… On coupe un arbre dans la forêt, l’ouvrage des mains d’un artisan avec la hache. On l’orne d’argent et d’or, on le fixe avec des clous et un marteau pour qu’il ne branle pas. »
+**(Jérémie 10:2–4)** : « Ainsi parle le [DN]Seigneur[/DN]  : Ne cherchez pas à apprendre les pratiques des nations, et ne soyez pas terrifiés par les signes du ciel comme le sont les nations. Car les prescriptions des peuples ne sont que futilité : on coupe du bois dans la forêt, la main de l'artisan le travaille au ciseau ; on l'embellit avec de l'argent et de l'or, on le fixe avec des clous, au marteau, pour qu'il ne vacille pas. »
 
 ➡ Un avertissement contre l’adoption des coutumes païennes.
 
@@ -372,7 +375,8 @@ Les croyants cherchant à s’aligner sur la Bible doivent honorer les temps fix
 
 ## 8. Échos modernes
 
-**(2 Timothée 4:3–4)** : « Ils ne supporteront pas la saine doctrine. Au contraire… ils s’entoureront de maîtres qui diront ce que leurs oreilles impatientes veulent entendre. »  
+**(2 Timothée 4:3–4)** : « Car il viendra un temps où ils ne supporteront plus l'enseignement sain ; mais au gré de leurs propres désirs, avec une démangeaison d'entendre, ils se donneront maîtres sur maîtres ; ils détourneront leurs oreilles de la vérité et dévieront vers les fables. »
+
 ➡ L’Écriture avertit contre la déformation par confort et par pouvoir.
 
 **Histoire :** Les débats actuels sur les traductions, le langage inclusif et la sexualité rappellent les luttes anciennes pour le contrôle. L’évangile de prospérité enseigne que la richesse est la volonté de Dieu, semblable à l’époque médiévale où l’Église vendait des indulgences (en réalité des « billets pour le ciel » contre de l’argent). Le christianisme est aujourd’hui divisé en des dizaines de milliers de dénominations, souvent plus façonnées par la culture, la tradition ou la politique que par les paroles mêmes de Jésus. Partout dans le monde, la persécution augmente de nouveau, et la vérité biblique est ignorée ou adaptée aux désirs de la société.

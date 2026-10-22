@@ -286,7 +286,7 @@ Permaneçam firmes na fé entregue de uma vez por todas aos santos (Judas 3).
 
 **Passagens de apoio:**
 
-- (Mateus 5:14–16) «Vocês são a luz do mundo … não se pode esconder uma cidade situada sobre um monte.»
+- (Mateus 5:14–16) «Vocês são a luz do mundo. É impossível esconder uma cidade construída no alto de um monte. Não faz sentido acender uma lâmpada e depois colocá-la sob um cesto. Pelo contrário, ela é colocada num pedestal, de onde ilumina todos que estão na casa. Da mesma forma, suas boas obras devem brilhar, para que todos as vejam e louvem seu Pai, que está no céu.»
 
 - (João 3:16) «Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna.»
 

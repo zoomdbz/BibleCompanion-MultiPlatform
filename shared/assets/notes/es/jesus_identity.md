@@ -6,7 +6,7 @@ La fe cristiana comienza con el Mesías de Israel. Jesús nació en el pueblo de
 
 ## Jesús descendía de Abraham, David y Judá
 
-> «Este es el registro de la genealogía de Jesucristo, hijo de David, hijo de Abraham...»
+> «Registro genealógico de Jesucristo, hijo de David y de Abraham:»
 >
 > **Mateo 1:1**
 
@@ -14,13 +14,13 @@ Mateo presenta a Jesús situándolo dentro de la historia del pacto de Israel. A
 
 Hebreos es aún más explícito:
 
-> «Porque es evidente que nuestro Señor descendió de Judá...»
+> «Es evidente que nuestro Señor procedía de la tribu de Judá, respecto a la cual nada dijo Moisés con relación al sacerdocio.»
 >
 > **Hebreos 7:14**
 
 Jesús pertenece a la tribu de Judá. Apocalipsis conserva esta identidad después de Su resurrección y ascensión:
 
-> «He aquí, el León de la tribu de Judá, la Raíz de David, ha vencido...»
+> “Uno de los ancianos me dijo: «¡Deja de llorar, que ya el León de la tribu de Judá, la Raíz de David, ha vencido! Él sí puede abrir el rollo y sus siete sellos».”
 >
 > **Apocalipsis 5:5**
 
@@ -36,19 +36,19 @@ Cuando Jesús habló con la mujer samaritana, ella dijo:
 
 Jesús no corrigió la manera en que ella lo identificó. En la misma conversación dijo:
 
-> «...la salvación viene de los judíos».
+> «Ahora ustedes adoran lo que no conocen; nosotros adoramos lo que conocemos, porque la salvación proviene de los judíos.»
 >
 > **Juan 4:22**
 
 Pablo también describe al Mesías como procedente de Israel según Su ascendencia humana:
 
-> «De ellos son los patriarcas, y de ellos procede la ascendencia humana de Cristo...»
+> «De ellos son los patriarcas y de ellos, según la naturaleza humana, nació Cristo, quien es Dios sobre todas las cosas. ¡Alabado sea por siempre! Amén.»
 >
 > **Romanos 9:5**
 
 ## Jesús fue circuncidado y presentado conforme a la Ley
 
-> «Cuando se cumplieron los ocho días para circuncidarlo, le pusieron por nombre Jesús...»
+> «Cuando se cumplieron los ocho días y fueron a circuncidarlo, lo llamaron Jesús, nombre que el ángel le había puesto antes de que fuera concebido.»
 >
 > **Lucas 2:21**
 
@@ -125,7 +125,7 @@ El Nuevo Testamento no enseña a los gentiles a convertirse étnicamente en jud�
 
 Pablo dice a los creyentes gentiles que en otro tiempo estaban:
 
-> «separados de Cristo, excluidos de la ciudadanía de Israel y ajenos a los pactos de la promesa...»
+> «recuerden que en ese entonces ustedes estaban separados de Cristo, excluidos de la ciudadanía de Israel y ajenos a los pactos de la promesa, sin esperanza y sin Dios en el mundo.»
 >
 > **Efesios 2:12**
 

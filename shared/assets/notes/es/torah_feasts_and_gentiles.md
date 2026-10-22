@@ -24,7 +24,7 @@ Pablo rechaza repetidamente la justificación por las obras de la Ley:
 
 Sin embargo, Efesios no termina en el versículo 9:
 
-> «Porque somos hechura de Dios, creados en Cristo Jesús para hacer buenas obras...»
+> Porque somos hechura de Dios, creados en Cristo Jesús para buenas obras, las cuales Dios dispuso de antemano a fin de que las pongamos en práctica.
 >
 > **Efesios 2:10**
 
@@ -258,7 +258,7 @@ Por tanto, las leyes sobre los extranjeros residentes del pacto del Sinaí no pu
 
 Efesios contiene un lenguaje que debe afrontarse directamente:
 
-> «...aboliendo en Su carne la ley de mandamientos y decretos. Hizo esto para crear en Sí mismo, de los dos, un solo hombre nuevo, estableciendo así la paz».
+> pues anuló la Ley con sus mandamientos y requisitos. Esto lo hizo para crear en sí mismo de los dos pueblos una nueva humanidad al hacer la paz,
 >
 > **Efesios 2:15**
 
@@ -288,7 +288,7 @@ Pablo escribe:
 
 Y:
 
-> «Todo alimento es limpio...»
+> No destruyas la obra de Dios por causa de la comida. Todo alimento es puro; lo malo es hacer tropezar a otros por lo que uno come.
 >
 > **Romanos 14:20**
 
@@ -327,7 +327,7 @@ Las leyes alimentarias no son esenciales para la salvación, pero es demasiado s
 
 El Nuevo Testamento no manda en ninguna parte a los creyentes gentiles guardar Levítico 11, y no menciona Levítico 11 cuando habla de libertad alimentaria (**Romanos 14:14, 20; 1 Corintios 10:25-27; 1 Timoteo 4:3-5**). Hechos 15 menciona sangre, carne de animales estrangulados y alimentos ofrecidos a ídolos. Pedro explica que su propia visión se refería a personas (**Hechos 10:28**), y la disputa de Marcos 7 trata de manos sin lavar (**Marcos 7:2-5**).
 
-Levítico 11 es un mandamiento que Dios dio y fundamentó en Su santidad (**Levítico 11:44-45; Deuteronomio 14:2-3**). La Escritura no permite usar su observancia como base para la justificación, la jactancia o la condena de otro creyente a quien Dios ha recibido (**Romanos 14:3-4**). Basándose en **Romanos 14:2**, se puede concluir que depende de la fe de cada persona.
+Levítico 11 es un mandamiento que Dios dio y fundamentó en Su santidad (**Levítico 11:44-45; Deuteronomio 14:2-3**). La Escritura no permite usar su observancia como base para la justificación, la jactancia o la condena de otro creyente a quien Dios ha recibido (**Romanos 14:3-4**). **Romanos 14:2** describe a creyentes con dietas distintas. Aplicar ese principio a Levítico 11 es una inferencia; estas normas alimentarias no deben usarse para condenar a otro creyente.
 
 ## El sábado: el Cuarto Mandamiento y los creyentes gentiles
 
@@ -355,7 +355,7 @@ Sus palabras presentan el sábado como un regalo hecho para la humanidad, al res
 
 El mandamiento es explícito:
 
-> «Recuerda el día de reposo para santificarlo. Seis días trabajarás y harás toda tu obra, pero el séptimo día es sábado para YHWH tu Dios...»
+> Acuérdate del día sábado para santificarlo. Trabaja seis días y haz en ellos todo lo que tengas que hacer, pero el día séptimo será un día de reposo para honrar al Señor tu Dios. No hagas en ese día ningún trabajo, ni tampoco tu hijo, ni tu hija, ni tu esclavo, ni tu esclava, ni tus animales, ni tampoco los extranjeros que vivan en tus ciudades.
 >
 > **Éxodo 20:8-10**
 
@@ -367,7 +367,7 @@ El mandamiento se fundamenta en el propio descanso de Dios después de la creaci
 
 El Cuarto Mandamiento también incluye explícitamente al no israelita que vive entre el pueblo de Dios:
 
-> «...en el cual no harás trabajo alguno, ni tú, ni tu hijo o hija, ni tu siervo o sierva, ni tu ganado, ni el extranjero que está dentro de tus puertas».
+> pero el día séptimo será un día de reposo para honrar al Señor tu Dios. No hagas en ese día ningún trabajo, ni tampoco tu hijo, ni tu hija, ni tu esclavo, ni tu esclava, ni tus animales, ni tampoco los extranjeros que vivan en tus ciudades.
 >
 > **Éxodo 20:10**
 
@@ -511,7 +511,7 @@ Pablo escribe:
 >
 > **Romanos 14:5**
 
-El tema propio del capítulo es comer y abstenerse (**Romanos 14:2-3, 6, 14-23**), y el versículo 6 vincula el día con ese mismo contraste: «Quien observa un día especial lo hace para el Señor; quien come lo hace para el Señor... y quien se abstiene lo hace para el Señor». Pablo nunca menciona el sábado semanal.
+El tema propio del capítulo es comer y abstenerse (**Romanos 14:2-3, 6, 14-23**), y el versículo 6 vincula el día con ese mismo contraste: «El que le da importancia especial a cierto día, lo hace para el Señor. El que come de todo, come para el Señor y lo demuestra dándole gracias a Dios. El que no come, para el Señor se abstiene y también da gracias a Dios.». Pablo nunca menciona el sábado semanal.
 
 Como el sábado no se menciona, Romanos 14 no debe tratarse como una derogación explícita del Cuarto Mandamiento.
 
@@ -615,7 +615,7 @@ El calendario de fiestas sigue visible después de la resurrección:
 
 Pablo escribe a la iglesia de Corinto, compuesta en gran parte por gentiles:
 
-> «Porque Cristo, nuestro cordero pascual, ha sido sacrificado. Celebremos, pues, la fiesta...»
+> Desháganse de la vieja levadura para que sean masa nueva, panes sin levadura, como lo son en realidad. Porque Cristo, nuestro Cordero pascual, ya ha sido sacrificado. Así que celebremos nuestra Pascua no con la vieja levadura, que es la malicia y la perversidad, sino con pan sin levadura, que es la sinceridad y la verdad.
 >
 > **1 Corintios 5:7-8**
 
@@ -699,13 +699,13 @@ Esta es una de las razones más sólidas para no tratar las fiestas como reliqui
 
 Zacarías describe a YHWH convirtiéndose en Rey sobre toda la tierra:
 
-> «En aquel día YHWH será Rey sobre toda la tierra...»
+> El Señor será rey sobre toda la tierra. En aquel día el Señor será el único Dios, y su nombre será el único nombre.
 >
 > **Zacarías 14:9**
 
 Luego se manda a los sobrevivientes de las naciones subir a Jerusalén:
 
-> «...año tras año para adorar al Rey, YHWH de los Ejércitos, y celebrar la Fiesta de los Tabernáculos».
+> Entonces los sobrevivientes de todas las naciones que atacaron a Jerusalén subirán año tras año para adorar al Rey, al Señor de los Ejércitos, y para celebrar la fiesta de las Enramadas.
 >
 > **Zacarías 14:16**
 
@@ -727,7 +727,7 @@ La visión usa el calendario señalado de Dios en el marco de un reino futuro.
 
 Isaías dice:
 
-> «Porque así como los cielos nuevos y la tierra nueva que Yo haré permanecerán delante de Mí...»
+> «Porque, así como perdurarán en mi presencia el cielo nuevo y la tierra nueva que yo haré, así también perdurarán el nombre y los descendientes de ustedes», afirma el Señor.
 >
 > **Isaías 66:22**
 

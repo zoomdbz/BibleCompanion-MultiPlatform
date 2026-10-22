@@ -89,7 +89,7 @@ Die Weisen sahen „seinen Stern“ (Matthäus 2,2). Mehrere astronomische Ereig
 
 - **Jupiter-Regulus-Dreifachkonjunktion** (3–2 v. Chr.): Jupiter (der „Königsplanet“) passierte den Stern Regulus (lateinisch für „kleiner König“) im Sternbild Löwe (der Löwe = Juda) drei Mal aufgrund der Rückläufigkeit
 - **Jupiter-Venus-Konjunktion** (17. Juni 2 v. Chr.): Die zwei hellsten Planeten verschmolzen zu einem einzigen strahlenden „Stern,“ von Babylon aus in Richtung Judäa sichtbar
-- **Jupiters rückläufiges „Stehenbleiben“** (25. Dezember 2 v. Chr.): Von Jerusalem aus gesehen schien Jupiter direkt über Bethlehem im Süden am Himmel stillzustehen, passend zu Matthäus 2,9: „der Stern... zog vor ihnen her... und kam und stand still über dem Ort, wo das Kind war“
+- **Jupiters rückläufiges „Stehenbleiben“** (25. Dezember 2 v. Chr.): Von Jerusalem aus gesehen schien Jupiter direkt über Bethlehem im Süden am Himmel stillzustehen, passend zu Matthäus 2,9: „Und als sie den König gehört hatten, zogen sie hin. Und siehe, der Stern, den sie im Morgenland gesehen hatten, ging vor ihnen her, bis er ankam und über dem Ort stillstand, wo das Kind war.“
 
 Dies sind keine Spekulationen; sie sind durch moderne Astronomiesoftware (z. B. Stellarium) verifiziert. Ob eines oder eine Kombination dieser Ereignisse „der Stern“ war, die Übereinstimmung mit der Prophezeiung aus 4. Mose 24,17 („Es wird ein Stern aus Jakob aufgehen“) ist beeindruckend.
 
@@ -178,7 +178,7 @@ Aufeinanderfolgende Blutmonde am selben Fest in aufeinanderfolgenden Jahren habe
 
 **Sonnenstürme vor dem Purim-Blutmond 2026**
 
-Am **1.–5. Februar 2026** brach die aktive Region AR4366, eine Sonnenfleckengruppe 14-mal breiter als die Erde, mit sechs X-Klasse-Sonneneruptionen in vier Tagen aus, einschließlich zweier X8,1-Klasse-Ereignisse unter den stärksten des Sonnenzyklus 25. Ein koronaler Massenauswurf traf die Erde am 5. Februar und löste geomagnetische Stürme und weit verbreitete Polarlichter aus. Dies ereignete sich etwa 25 Tage vor dem Purim-Blutmond am 3. März.
+Am **1.–5. Februar 2026** brach die aktive Region AR4366, eine Sonnenfleckengruppe 14-mal breiter als die Erde, mit sechs X-Klasse-Sonneneruptionen in vier Tagen aus, einschließlich eines Ereignisses der Klasse X8,1, eines der stärksten des Sonnenzyklus 25, und eines Ereignisses der Klasse X4,2. Ein koronaler Massenauswurf traf die Erde am 5. Februar und löste geomagnetische Stürme und weit verbreitete Polarlichter aus. Dies ereignete sich etwa 25 Tage vor dem Purim-Blutmond am 3. März.
 
 ### Anmerkung
 

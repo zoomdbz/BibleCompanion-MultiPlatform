@@ -24,7 +24,7 @@ Paulus lehnt die Rechtfertigung durch Werke des Gesetzes wiederholt ab:
 
 Doch der Epheserbrief endet nicht mit Vers 9:
 
-> „Denn wir sind Gottes Werk, geschaffen in Christus Jesus zu guten Werken...“
+> Denn wir sind seine Schöpfung, erschaffen in Christus Jesus zu guten Werken, die Gott zuvor bereitet hat, damit wir in ihnen wandeln sollen.
 >
 > **Epheser 2:10**
 
@@ -258,7 +258,7 @@ Deshalb können die Gesetze des Sinaibundes für ansässige Fremde nicht einfach
 
 Der Epheserbrief enthält eine Formulierung, der man sich direkt stellen muss:
 
-> „...indem Er in Seinem Fleisch das Gesetz der Gebote in Satzungen beseitigte. Dies tat Er, um in Sich Selbst aus den beiden einen neuen Menschen zu schaffen und so Frieden zu stiften.“
+> indem er in seinem Fleisch die Feindschaft, das Gesetz der Gebote in Satzungen, hinwegtat, um die zwei in sich selbst zu einem neuen Menschen zu schaffen und Frieden zu stiften,
 >
 > **Epheser 2:15**
 
@@ -288,7 +288,7 @@ Paulus schreibt:
 
 Und:
 
-> „Alle Speise ist rein...“
+> Zerstöre nicht wegen einer Speise das Werk Gottes! Es ist zwar alles rein, aber es ist demjenigen schädlich, der es mit Anstoß isst.
 >
 > **Römer 14:20**
 
@@ -327,7 +327,7 @@ Speisegebote sind für die Errettung nicht wesentlich, doch die Aussage „Das N
 
 Das Neue Testament gebietet Gläubigen aus den Nationen nirgends, Levitikus 11 zu halten, und es nennt Levitikus 11 nirgends, wenn es von Speisefreiheit spricht (**Römer 14:14, 20; 1 Korinther 10:25-27; 1 Timotheus 4:3-5**). Apostelgeschichte 15 nennt Blut, ersticktes Fleisch und Götzenopfer. Petrus erklärt seine eigene Vision als eine Aussage über Menschen (**Apostelgeschichte 10:28**), und beim Streit in Markus 7 geht es um ungewaschene Hände (**Markus 7:2-5**).
 
-Levitikus 11 ist ein Gebot Gottes, das Er in Seiner Heiligkeit begründet (**Levitikus 11:44-45; Deuteronomium 14:2-3**). Die Schrift gestattet nicht, seine Befolgung als Grundlage zur Rechtfertigung, zum Rühmen oder zur Verurteilung eines anderen Gläubigen zu verwenden, den Gott angenommen hat (**Römer 14:3-4**). Aus **Römer 14:2** kann man schließen, dass dies vom Glauben jedes Einzelnen abhängt.
+Levitikus 11 ist ein Gebot Gottes, das Er in Seiner Heiligkeit begründet (**Levitikus 11:44-45; Deuteronomium 14:2-3**). Die Schrift gestattet nicht, seine Befolgung als Grundlage zur Rechtfertigung, zum Rühmen oder zur Verurteilung eines anderen Gläubigen zu verwenden, den Gott angenommen hat (**Römer 14:3-4**). **Römer 14:2** beschreibt Gläubige mit unterschiedlicher Ernährung. Dieses Prinzip auf Levitikus 11 anzuwenden, ist eine Schlussfolgerung; diese Speisegebote dürfen nicht dazu benutzt werden, einen anderen Gläubigen zu verurteilen.
 
 ## Der Sabbat: Das Vierte Gebot und Gläubige aus den Nationen
 
@@ -355,7 +355,7 @@ Seine Formulierung stellt den Sabbat als ein Geschenk für die Menschheit dar un
 
 Das Gebot ist ausdrücklich:
 
-> „Gedenke des Sabbattages, dass du ihn heiligst. Sechs Tage sollst du arbeiten und all dein Werk tun, aber der siebte Tag ist ein Sabbat für den HERRN, deinen Gott...“
+> Gedenke an den Sabbattag und heilige ihn! Sechs Tage sollst du arbeiten und alle deine Werke tun; aber am siebten Tag ist der Sabbat des Herrn, deines Gottes; da sollst du kein Werk tun; weder du, noch dein Sohn, noch deine Tochter, noch dein Knecht, noch deine Magd, noch dein Vieh, noch dein Fremdling, der innerhalb deiner Tore lebt.
 >
 > **Exodus 20:8-10**
 
@@ -367,7 +367,7 @@ Das Gebot wird in Gottes eigener Schöpfungsruhe begründet:
 
 Das Vierte Gebot schließt auch ausdrücklich den Nichtisraeliten ein, der unter Gottes Volk lebt:
 
-> „...an dem du keinerlei Arbeit tun sollst, weder du noch dein Sohn oder deine Tochter, dein Knecht oder deine Magd oder dein Vieh noch der Fremde, der innerhalb deiner Tore lebt.“
+> aber am siebten Tag ist der Sabbat des Herrn, deines Gottes; da sollst du kein Werk tun; weder du, noch dein Sohn, noch deine Tochter, noch dein Knecht, noch deine Magd, noch dein Vieh, noch dein Fremdling, der innerhalb deiner Tore lebt.
 >
 > **Exodus 20:10**
 
@@ -511,7 +511,7 @@ Paulus schreibt:
 >
 > **Römer 14:5**
 
-Das eigene Thema des Kapitels ist Essen und Enthaltung (**Römer 14:2-3, 6, 14-23**), und Vers 6 verbindet den Tag mit demselben Gegensatz: „Wer den Tag achtet, achtet ihn für den Herrn; wer isst, isst für den Herrn ... und wer sich enthält, enthält sich für den Herrn.“ Paulus nennt den wöchentlichen Sabbat nie.
+Das eigene Thema des Kapitels ist Essen und Enthaltung (**Römer 14:2-3, 6, 14-23**), und Vers 6 verbindet den Tag mit demselben Gegensatz: „Wer auf den Tag achtet, der achtet darauf für den Herrn, und wer nicht auf den Tag achtet, der achtet nicht darauf für den Herrn. Wer isst, der isst für den Herrn, denn er dankt Gott; und wer nicht isst, der enthält sich der Speise für den Herrn und dankt Gott auch.“ Paulus nennt den wöchentlichen Sabbat nie.
 
 Da der Sabbat nicht genannt wird, darf Römer 14 nicht als ausdrückliche Aufhebung des Vierten Gebots behandelt werden.
 
@@ -615,7 +615,7 @@ Der Festkalender bleibt nach der Auferstehung sichtbar:
 
 Paulus schreibt an die überwiegend nichtjüdische Gemeinde in Korinth:
 
-> „Denn auch unser Passahlamm, Christus, ist geopfert worden. Darum lasst uns das Fest feiern...“
+> Darum fegt den alten Sauerteig aus, damit ihr ein neuer Teig seid, da ihr ja ungesäuert seid! Denn unser Passahlamm ist ja für uns geschlachtet worden: Christus. So wollen wir denn nicht mit altem Sauerteig Fest feiern, auch nicht mit Sauerteig der Bosheit und Schlechtigkeit, sondern mit ungesäuerten Broten der Lauterkeit und Wahrheit.
 >
 > **1 Korinther 5:7-8**
 
@@ -699,13 +699,13 @@ Dies ist einer der stärksten Gründe, die Feste nicht als vorübergehende Relik
 
 Sacharja beschreibt, wie der HERR König über die ganze Erde wird:
 
-> „An jenem Tag wird der HERR König über die ganze Erde sein...“
+> Und der Herr wird König sein über die ganze Erde. An jenem Tag wird der Herr der einzige sein und sein Name der einzige.
 >
 > **Sacharja 14:9**
 
 Dann erhalten die Überlebenden aus den Nationen den Auftrag, nach Jerusalem hinaufzuziehen:
 
-> „...Jahr für Jahr, um den König, den HERRN der Heerscharen, anzubeten und das Laubhüttenfest zu feiern.“
+> Und es wird geschehen, dass alle Übriggebliebenen von all den Heidenvölkern, die gegen Jerusalem gezogen sind, Jahr für Jahr heraufkommen werden, um den König, den Herrn der Heerscharen, anzubeten und das Laubhüttenfest zu feiern.
 >
 > **Sacharja 14:16**
 
@@ -727,7 +727,7 @@ Die Vision gebraucht Gottes festgesetzten Kalender in einem zukünftigen Reich.
 
 Jesaja sagt:
 
-> „Denn wie der neue Himmel und die neue Erde, die Ich machen werde, vor Mir bestehen werden...“
+> Denn gleichwie der neue Himmel und die neue Erde, die ich mache, vor meinem Angesicht bleiben werden, spricht der Herr, so soll auch euer Same und euer Name bestehen bleiben.
 >
 > **Jesaja 66:22**
 

@@ -283,13 +283,13 @@ Examples include:
 
 **To picture these odds:**
 
-- Winning a national lottery once is around 1 in 300 million. Jesus fulfilling 8 prophecies is like winning that lottery **over half a million times in a row**.
+- Winning a national lottery once is around 1 in 300 million. Jesus fulfilling 8 prophecies is like winning that lottery **twice in a row**.
 
 - The chance of being struck by lightning in your lifetime is about 1 in 15,000. Prophecy fulfillment odds are beyond trillions of times rarer.
 
 - Peter Stoner illustrated it this way: cover the entire state of Texas two feet deep in silver dollars, mark one coin, blindfold a man, and let him wander. The chance of him picking the marked coin on the first try equals the chance of fulfilling just 8 prophecies.
 
-- Expanding further, fulfilling 48 prophecies would be like counting **all the grains of sand on every beach on earth**, marking one, and then finding it blindfolded on the first attempt.
+- For 48 prophecies, Stoner's estimate of **1 in 10^157** is far smaller than the chance of picking one marked grain from all the sand on Earth. Even that enormous pile is nowhere near large enough to picture the stated odds.
 
 - Fulfilling over 300 prophecies? The odds grow so exponentially large that human language and mathematics fail to even express the impossibility apart from divine design.
 

@@ -88,6 +88,12 @@
 
 - Scholem, Gershom. *Kabbalah.* Jerusalem: Keter Publishing House, 1974. [1974年版书目记录](https://juc.gov.jo/cgi-bin/koha/opac-ISBDdetail.pl?biblionumber=1303725) | [Google Books，后期重印本](https://books.google.com/books?id=qJesQGFsSwsC)
 
+- Colwell, E. C. "A Definite Rule for the Use of the Article in the Greek New Testament." *Journal of Biblical Literature* 52 (1933): 12-21.
+
+- Harner, Philip B. "Qualitative Anarthrous Predicate Nouns: Mark 15:39 and John 1:1." *Journal of Biblical Literature* 92 (1973): 75-87.
+
+- Caragounis, Chrys C., and Jan van der Watt. "A Grammatical Analysis of John 1,1." *Filología Neotestamentaria* 21 (2008): 91-138. [BSW](https://www.bsw.org/filologia-neotestamentaria/vol-21-2008/a-grammatical-analysis-of-john-1-1/525/article-p91.html)
+
 ## 注释书、圣经神学与护教著作
 
 - Stoner, Peter W. *Science Speaks.* 第二版。Chicago: Moody Press, 1958. [版本记录](https://openlibrary.org/works/OL8400068W/Science_Speaks) | [后期修订网络版](https://sciencespeaks.dstoner.net/)
@@ -103,6 +109,28 @@
 - Brown, Michael L. *Answering Jewish Objections to Jesus.* 全5卷。第1-4卷，Grand Rapids: Baker Books, 2000-2006；第5卷，Purple Pomegranate Productions, 2010. [第1卷](https://books.google.com/books?id=HeBjnPNWkNQC) | [第2卷](https://books.google.com/books?id=hDItC304gtAC) | [第3卷](https://bakerpublishinggroup.com/products/9780801064234_answering-jewish-objections-to-jesus) | [第4卷](https://bakerpublishinggroup.com/products/9780801064265_answering-jewish-objections-to-jesus) | [第5卷](https://www.logos.com/product/47649/answering-jewish-objections-to-jesus-vol-5)
 
 - Keil, C. F. *The Twelve Minor Prophets.* James Martin 译。C. F. Keil 和 F. Delitzsch 所著 *Commentary on the Old Testament* 第10卷。Peabody, MA: Hendrickson, 1996. [1996年全10卷套装记录](https://verbum.com/product/5790/keil-and-delitzsch-commentary-on-the-old-testament-k-d) | [原版公有领域扫描本](https://archive.org/details/biblicalcommenta06keil06) | [免费可搜索文本](https://www.stepbible.org/version.jsp?version=KD)
+
+## 各运动的资料与文献
+
+**说明：** 笔记所讨论之团体的出版物、追踪这些团体之机构的文献，以及笔记所引用的古兰经译本。
+
+- Grace Communion International. "A Short History of Grace Communion International." [GCI](https://archive.gci.org/articles/a-short-history-of-grace-communion-international/)
+
+- United Church of God. "Fundamental Beliefs of the United Church of God." [UCG](https://www.ucg.org/fundamental-beliefs-of-the-united-church-of-god)
+
+- United Church of God. "What Does God Require for Eternal Life?" *The Good News*, July-August 1996. [UCG](https://www.ucg.org/learn/good-news/good-news-magazine-july-august-1996/what-does-god-require-eternal-life)
+
+- United Church of God. "Does Observing Holy Days Save Us?" 讲道. [UCG](https://www.ucg.org/sermons/does-observing-holy-days-save-us)
+
+- Watch Tower Bible and Tract Society. "Two New Members of the Governing Body." *The Watchtower* (Study Edition), October 2025. [jw.org](https://www.jw.org/en/library/magazines/watchtower-study-october-2025/Two-New-Members-of-the-Governing-Body/)
+
+- The Church of Jesus Christ of Latter-day Saints. "Download Updated March 2026 Chart of General Authorities, General Officers." Church Newsroom. [Newsroom](https://newsroom.churchofjesuschrist.org/article/download-updated-march-2026-chart-of-general-authorities-general-officers)
+
+- Southern Poverty Law Center. "Radical Hebrew Israelites." Extremist Files. [SPLC](https://www.splcenter.org/resources/extremist-files/radical-hebrew-israelites/)
+
+- Anti-Defamation League. "Black Hebrew Israelites." Backgrounder. [ADL](https://www.adl.org/resources/backgrounder/black-hebrew-israelites)
+
+- Saheeh International, trans. *The Qur'an*. 英文译本；本笔记中古兰经引文的来源。 [Quran.com](https://quran.com/7/54?translations=20)
 
 ## 天文奇兆
 

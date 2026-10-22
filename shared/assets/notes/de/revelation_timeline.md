@@ -437,7 +437,7 @@ Babylon fällt. Könige, Kaufleute und Seeleute trauern, weil das wirtschaftlich
 
 Gottes Volk wird gewarnt:
 
-> „Geht hinaus aus ihr, Mein Volk...“
+> Und ich hörte eine andere Stimme aus dem Himmel, die sprach: Geht hinaus aus ihr, mein Volk, damit ihr nicht ihrer Sünden teilhaftig werdet und damit ihr nicht von ihren Plagen empfangt!
 >
 > **Offenbarung 18:4**
 
@@ -551,7 +551,7 @@ Dies ist der zweite Tod.
 
 Erst nach dem Tausendjährigen Reich, Satans Freilassung, dem letzten Aufstand und dem Großen Weißen Thron sagt Johannes:
 
-> „Dann sah ich einen neuen Himmel und eine neue Erde; denn der erste Himmel und die erste Erde waren vergangen...“
+> Und ich sah einen neuen Himmel und eine neue Erde; denn der erste Himmel und die erste Erde waren vergangen, und das Meer gibt es nicht mehr.
 >
 > **Offenbarung 21:1**
 
@@ -728,13 +728,13 @@ Die Entrückung selbst ist biblisch. Ihr Zeitpunkt im Verhältnis zu den Gericht
 
 Paulus schreibt:
 
-> „Denn der Herr selbst wird vom Himmel herabkommen mit einem Befehlsruf, mit der Stimme eines Erzengels und mit der Posaune Gottes; und die Toten in Christus werden zuerst auferstehen. Danach werden wir, die Lebenden, die übrig bleiben, zugleich mit ihnen entrückt werden in Wolken zur Begegnung mit dem Herrn in die Luft. Und so werden wir allezeit beim Herrn sein.“
+> denn der Herr selbst wird, wenn der Befehl ergeht und die Stimme des Erzengels und die Posaune Gottes erschallt, vom Himmel herabkommen, und die Toten in Christus werden zuerst auferstehen. Danach werden wir, die wir leben und übrig bleiben, zusammen mit ihnen entrückt werden in Wolken, zur Begegnung mit dem Herrn, in die Luft, und so werden wir bei dem Herrn sein allezeit.
 >
 > **1 Thessalonicher 4:16-17**
 
 Paulus sagt außerdem:
 
-> „Wir werden nicht alle entschlafen, wir werden aber alle verwandelt werden, in einem Augenblick, in einem Nu, bei der letzten Posaune. Denn die Posaune wird erschallen, die Toten werden unverweslich auferweckt werden, und wir werden verwandelt werden.“
+> Siehe, ich sage euch ein Geheimnis: Wir werden zwar nicht alle entschlafen, wir werden aber alle verwandelt werden, plötzlich, in einem Augenblick, zur Zeit der letzten Posaune; denn die Posaune wird erschallen, und die Toten werden auferweckt werden unverweslich, und wir werden verwandelt werden.
 >
 > **1 Korinther 15:51-52**
 

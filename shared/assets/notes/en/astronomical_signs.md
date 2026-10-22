@@ -92,7 +92,7 @@ The Magi saw "his star" (Matthew 2:2). Several astronomical events around 3–2 
 
 - **Jupiter-Regulus triple conjunction** (3–2 BC): Jupiter (the "king planet") passed the star Regulus (Latin for "little king") in the constellation Leo (the lion = Judah) three times due to retrograde motion
 - **Jupiter-Venus conjunction** (June 17, 2 BC): The two brightest planets merged into a single brilliant "star" visible from Babylon, in the direction of Judea
-- **Jupiter's retrograde "stopping"** (December 25, 2 BC): As seen from Jerusalem, Jupiter appeared to stop in the sky directly over Bethlehem to the south, matching Matthew 2:9: "the star... went before them... and came to rest over the place where the child was"
+- **Jupiter's retrograde "stopping"** (December 25, 2 BC): As seen from Jerusalem, Jupiter appeared to stop in the sky directly over Bethlehem to the south, matching Matthew 2:9: "After they had heard the king, they went on their way, and the star they had seen in the east went ahead of them until it stood over the place where the Child was."
 
 These are not speculative; they are verified by modern astronomical software (e.g., Stellarium). Whether one or a combination of these events was "the star," the alignment with the prophecy of Numbers 24:17 ("a star shall come out of Jacob") is striking.
 
@@ -181,7 +181,7 @@ Back-to-back blood moons on the same feast in consecutive years has no modern pr
 
 **Solar Storms Before the 2026 Purim Blood Moon**
 
-On **February 1–5, 2026**, active region AR4366, a sunspot group 14 times wider than Earth, erupted with six X-class solar flares in four days, including two X8.1-class events among the strongest of Solar Cycle 25. A coronal mass ejection struck Earth on February 5, triggering geomagnetic storms and widespread aurora. This occurred approximately 25 days before the March 3 Purim blood moon.
+On **February 1–5, 2026**, active region AR4366, a sunspot group 14 times wider than Earth, erupted with six X-class solar flares in four days, including an X8.1-class flare, one of the strongest of Solar Cycle 25, and an X4.2-class flare. A coronal mass ejection struck Earth on February 5, triggering geomagnetic storms and widespread aurora. This occurred approximately 25 days before the March 3 Purim blood moon.
 
 ### Note
 

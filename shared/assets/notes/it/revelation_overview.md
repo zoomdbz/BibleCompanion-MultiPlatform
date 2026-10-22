@@ -39,7 +39,7 @@ La Festa delle Trombe (Yom Teruah) è l'unica festa che inizia con la luna nuova
 ### Giorno dell'Espiazione → Giudizio finale
 - Apocalisse 20:11–15: Il giudizio davanti al gran trono bianco
 - Zaccaria 12:10: «Guarderanno a me, a colui che hanno trafitto, e ne faranno cordoglio»
-- Romani 11:26–27: «Tutto Israele sarà salvato... il Liberatore verrà da Sion»
+- Romani 11:26–27: «e tutto Israele sarà salvato, così come è scritto: «Il liberatore verrà da Sion. Egli allontanerà da Giacobbe l’empietà; e questo sarà il mio patto con loro, quando toglierò via i loro peccati».»
 - Levitico 16: Il sommo sacerdote entra nel Santo dei Santi una volta all'anno per fare l'espiazione. Gesù è entrato una volta per sempre nel Santo dei Santi celeste (Ebrei 9:11–12). L'applicazione finale rimane futura.
 
 ### Festa delle Capanne → Dio abita con l'uomo

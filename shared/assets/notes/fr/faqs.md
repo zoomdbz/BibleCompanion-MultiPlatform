@@ -15,7 +15,7 @@ L’idée n’est pas la punition ; il s’agit d’une énergie infinie rencont
 
 - **Exode 19:16–18** : Quand Dieu descend sur le Sinaï, « toute la montagne tremble violemment » ; le peuple reste à distance, incapable de soutenir Sa présence.
 
-- **Ésaïe 6:5** : En voyant la gloire du Seigneur, Ésaïe s’écrie : « Malheur à moi ! Je suis perdu… car mes yeux ont vu le Roi, l’Éternel des armées ! »
+- **Ésaïe 6:5** : En voyant la gloire du Seigneur, Ésaïe s’écrie : «Alors je dis : Quel malheur pour moi ! Je suis perdu, car je suis un homme aux lèvres impures, j'habite au milieu d'un peuple aux lèvres impures, et mes yeux ont vu le Roi, le Seigneur (YHWH) des Armées !»
 
 - **Ézéchiel 1:28** : Ézéchiel tombe sur sa face en contemplant « l’aspect de la ressemblance de la gloire de l’Éternel ».  
   Ces versets montrent que la présence divine dépasse les sens mortels ; non par colère, mais par pure intensité.
@@ -82,19 +82,19 @@ Par la souffrance, Dieu montre qu’Il n’est pas distant de la douleur ; Il la
 - **Genèse 1:31** : « Dieu vit tout ce qu’Il avait fait ; et voici, cela était très bon. »  
   La création n’était pas défectueuse à l’origine ; la corruption est entrée par le mauvais usage du libre arbitre.
 
-- **Genèse 50:20** : Joseph dit à ses frères : « Vous aviez projeté de me faire du mal ; Dieu l’a changé en bien… pour sauver la vie d’un peuple nombreux. »  
+- **Genèse 50:20** : Joseph dit à ses frères : «Le mal que vous comptiez me faire, Dieu comptait en faire du bien, afin de faire ce qui arrive en ce jour, pour sauver la vie d'un peuple nombreux.»\
   Dieu ne cause pas le mal ; Il le retourne vers son dessein rédempteur.
 
 - **Romains 8:28** : « Nous savons que toutes choses concourent au bien de ceux qui aiment Dieu, de ceux qui sont appelés selon son dessein. »  
   La souffrance devient un canal du dessein divin.
 
-- **Jacques 1:2–4** : « Mes frères, regardez comme un sujet de joie complète les diverses épreuves… sachant que l’épreuve de votre foi produit la patience. »  
+- **Jacques 1:2–4** : «Mes frères, considérez comme un sujet de joie complète les diverses épreuves que vous pouvez rencontrer, sachant que l'épreuve de votre foi produit l'endurance. Or il faut que l'endurance accomplisse son œuvre pour que vous soyez accomplis et parfaits à tous égards, et qu'il ne vous manque rien.»\
   La douleur n’est pas vaine ; elle mûrit l’âme.
 
-- **1 Pierre 4:12–13** : « Ne soyez pas surpris de la fournaise… mais réjouissez-vous de la part que vous avez aux souffrances de Christ. »  
+- **1 Pierre 4:12–13** : «Bien-aimés, ne soyez pas surpris de l'embrasement qui sévit parmi vous pour vous mettre à l'épreuve, comme s'il vous arrivait quelque chose d'étrange. Au contraire, réjouissez-vous d'avoir part aux souffrances du Christ, afin qu'aussi vous vous réjouissiez et soyez transportés d'allégresse à la révélation de sa gloire.»\
   La souffrance aligne les croyants sur le cœur de Christ, affinant la compassion et la foi.
 
-- **2 Corinthiens 4:17–18** : « Nos légères afflictions du moment présent produisent… un poids éternel de gloire au-delà de toute comparaison. »  
+- **2 Corinthiens 4:17–18** : «Car un moment de détresse insignifiant produit pour nous, au-delà de toute mesure, un poids éternel de gloire. Aussi nous regardons, non pas à ce qui se voit, mais à ce qui ne se voit pas ; car ce qui se voit est éphémère, mais ce qui ne se voit pas est éternel.»\
   La douleur est temporaire ; la gloire façonnée est éternelle.
 
 Le mal et la souffrance révèlent les conséquences du libre arbitre dans un monde déchu ; mais ils révèlent aussi un Dieu qui refuse d’en rester indemne.  
@@ -166,7 +166,7 @@ L’Écriture présente plusieurs vérités qui orientent notre compréhension d
 
 **1) Alignement sur la volonté de Dieu**
 
-- **1 Jean 5:14–15** : « Si nous demandons quelque chose selon Sa volonté, Il nous écoute… nous savons que nous possédons les demandes que nous Lui avons adressées. »
+- **1 Jean 5:14–15** : «L'assurance que nous avons auprès de lui, c'est que, si nous demandons quoi que ce soit selon sa volonté, il nous entend. Et si nous savons qu'il nous entend, quoi que nous demandions, nous savons que nous avons ce que nous lui avons demandé.»
 
 - **Luc 22:42** : Même Jésus a prié : « Non pas Ma volonté, mais la Tienne soit faite. » La prière ne consiste pas à contrôler, mais à communier avec Dieu.
 
@@ -200,7 +200,7 @@ Paul n’a pas obtenu le retrait qu’il demandait, mais le Christ ne l’a pas 
 
 **5) L’aide de l’Esprit dans la prière**
 
-- **Romains 8:26–28** : « L’Esprit nous aide dans notre faiblesse… l’Esprit Lui-même intercède pour nous par des soupirs trop profonds pour être exprimés… toutes choses concourent au bien de ceux qui aiment Dieu. »
+- **Romains 8:26–28** : «De même aussi l'Esprit vient au secours de notre faiblesse, car nous ne savons pas ce qu'il convient de demander dans nos prières. Mais l'Esprit lui-même intercède par des soupirs inexprimables ; et celui qui sonde les cœurs sait à quoi tend l'Esprit : c'est selon Dieu qu'il intercède en faveur des saints. Nous savons, du reste, que tout coopère pour le bien de ceux qui aiment Dieu, de ceux qui sont appelés selon son projet.»
 
 - **Jacques 5:16** : « La prière fervente du juste a une grande efficacité. »
 
@@ -230,10 +230,10 @@ La mort est entrée par le péché (**Romains 5:12**), et toute la création sou
 - **2 Samuel 12:22–23** : Après la mort de son fils en bas âge, David dit : « J’irai vers lui, mais il ne reviendra pas vers moi. »  
   Sa confiance manifeste sa conviction que l’enfant est auprès de Dieu et que les retrouvailles les attendent au-delà de la mort.
 
-- **Ésaïe 57:1–2** : « Le juste périt, sans que personne le prenne à cœur… il entre dans la paix ; ceux qui ont marché dans la droiture reposent sur leurs couches. »  
+- **Ésaïe 57:1–2** : «Le juste disparaît, et personne ne réfléchit ; les hommes fidèles sont ensevelis, et personne ne comprend que le juste est enseveli pour échapper au malheur. Il entrera dans la paix, il reposera sur son lit, celui qui suit le droit chemin.»\
   Une mort précoce peut être miséricorde qui soustrait au mal à venir.
 
-- **Matthieu 19:14** : Jésus : « Laissez venir à moi les petits enfants… car le royaume des cieux est pour ceux qui leur ressemblent. »  
+- **Matthieu 19:14** : Jésus : «Alors Jésus dit : Laissez faire les enfants, ne les empêchez pas de venir à moi ; car le royaume des cieux est pour ceux qui sont comme eux.»\
   Christ revendique et accueille chaque enfant.
 
 - **Deutéronome 1:39** : Dieu épargne les enfants d’Israël dans le jugement, car ils « ne connaissent pas aujourd’hui le bien et le mal ».  
@@ -308,7 +308,7 @@ L’Écriture présente ces ordres comme des **jugements limités**, une **prote
 
 - **Matthieu 5:9 ; 5:38–44** : Jésus appelle bienheureux les artisans de paix ; Il enseigne l’amour des ennemis et rejette la vengeance personnelle.
 
-- **Romains 12:19** : « Ne vous vengez point vous-mêmes… à moi la vengeance, dit le Seigneur. »  
+- **Romains 12:19** : «Ne vous faites pas justice vous-mêmes, bien-aimés, mais laissez place à la colère, car il est écrit : C'est moi qui fais justice ! C'est moi qui paierai de retour, dit le Seigneur.»\
   Le jugement appartient à Dieu, non aux mains privées.
 
 **Résumé biblique :** Les ordres guerriers de l’Ancien Testament sont des jugements circonscrits contre un mal enraciné, régulés par des limites strictes, avec miséricorde offerte à qui se détourne du mal. Dieu juge Israël au même standard ; la prophétie et le Nouveau Testament orientent vers la fin de la guerre sous le règne de Dieu et l’appel à la paix.
@@ -339,10 +339,10 @@ Ceux qui acceptent ce don sont pardonnés et restaurés à la vie. Ceux qui le r
 - **Romains 2:5–8** : Ceux qui persistent dans la dureté « s’amassent un trésor de colère » ; ceux qui recherchent le bien reçoivent la vie éternelle.  
   Le jugement suit l’entêtement volontaire dans le mal.
 
-- **Matthieu 25:41-46** : Séparation finale : « Retirez-vous de moi, maudits, dans le feu éternel préparé pour le diable et pour ses anges… Et ceux-ci iront au châtiment éternel, mais les justes à la vie éternelle. »  
+- **Matthieu 25:41-46** : Séparation finale : “Ensuite il dira à ceux qui seront à sa gauche : « Allez-vous-en loin de moi, maudits, dans le feu éternel préparé pour le diable et pour ses anges. Car j'ai eu faim, et vous ne m'avez pas donné à manger ; j'ai eu soif, et vous ne m'avez pas donné à boire. J'étais étranger, et vous ne m'avez pas recueilli ; j'étais nu, et vous ne m'avez pas vêtu ; j'étais malade et en prison, et vous ne m'avez pas visité. » Alors ils répondront, eux aussi : « Seigneur, quand t'avons-nous vu avoir faim ou soif, étranger, ou nu, ou malade, ou en prison, sans nous mettre à ton service ? Alors il leur répondra : Amen, je vous le dis, dans la mesure où vous n'avez pas fait cela pour l'un de ces plus petits, c'est à moi que vous ne l'avez pas fait. » Et ceux-ci iront au châtiment éternel, mais les justes, à la vie éternelle.”\
   La sentence est liée au rejet de la miséricorde, non à un manque d’occasion.
 
-- **Jean 3:18–19** : « Celui qui croit en Lui n’est point jugé ; mais celui qui ne croit pas est déjà jugé, parce qu’il n’a pas cru au nom du Fils unique de Dieu… les hommes ont aimé les ténèbres plutôt que la lumière. »  
+- **Jean 3:18–19** : «Celui qui met sa foi en lui n'est pas jugé ; mais celui qui ne croit pas est déjà jugé, parce qu'il n'a pas mis sa foi dans le nom du Fils unique de Dieu. Et voici le jugement : la lumière est venue dans le monde, et les humains ont aimé les ténèbres plus que la lumière, parce que leurs œuvres étaient mauvaises.»\
   La condamnation naît de la préférence pour les ténèbres.
 
 - **Romains 1:24–26** : « Dieu les a livrés » à leurs convoitises.  
@@ -388,7 +388,7 @@ Chaque acte de foi répond à ce que Dieu a déjà révélé : par la création,
 
 **Appuis bibliques :**
 
-- **Romains 1:19–20** : « Ce qu’on peut connaître de Dieu est manifeste pour eux, Dieu le leur ayant fait connaître. En effet, les perfections invisibles de Dieu, sa puissance éternelle et sa divinité, se voient comme à l’œil depuis la création du monde… Ils sont donc inexcusables. »  
+- **Romains 1:19–20** : «car ce qu'on peut connaître de Dieu est manifeste parmi eux : c'est Dieu qui, pour eux, l'a rendu manifeste. En effet, ce qui chez lui est invisible – sa puissance éternelle et sa divinité – se voit fort bien depuis la création du monde, quand l'intelligence le discerne par ses ouvrages. Ils sont donc inexcusables,»\
   La création révèle la réalité de Dieu ; la foi y répond.
 
 - **Jean 20:29** : Jésus dit : « Heureux ceux qui n’ont pas vu et qui ont cru. »  
@@ -400,7 +400,7 @@ Chaque acte de foi répond à ce que Dieu a déjà révélé : par la création,
 - **Hébreux 11:6** : « Sans la foi il est impossible de lui être agréable ; car il faut que celui qui s’approche de Dieu croie que Dieu existe et qu’il récompense ceux qui le cherchent. »  
   La relation suppose une confiance volontaire, non une preuve coercitive.
 
-- **Éphésiens 2:8–9** : « C’est par la grâce que vous êtes sauvés, par le moyen de la foi… c’est le don de Dieu ; non par les œuvres. »  
+- **Éphésiens 2:8–9** : «C'est par la grâce, en effet, que vous êtes sauvés au moyen de la foi. Cela ne vient pas de vous, c'est le don de Dieu. Ce n'est pas en vertu des œuvres, pour que personne ne puisse faire le fier.»\
   La foi est le canal par lequel la grâce est reçue.
 
 **Pourquoi pas la certitude ?**
@@ -430,10 +430,10 @@ Cette liberté rend l’amour possible, mais permet aussi la rébellion. Dieu a 
 
 **Appuis bibliques :**
 
-- **Ézéchiel 28:12–17** : Propos au roi de Tyr en un langage qui évoque la chute d’un être céleste : « Tu étais le sceau de la perfection, plein de sagesse, parfait en beauté… Tu as été intègre dans tes voies depuis le jour où tu fus créé jusqu’à celui où l’iniquité a été trouvée chez toi. »  
+- **Ézéchiel 28:12–17** : Propos au roi de Tyr en un langage qui évoque la chute d’un être céleste : «Humain, entonne une complainte sur le roi de Tyr ! Tu lui diras : Ainsi parle le Seigneur Dieu  : Tu mettais le sceau à la perfection, tu étais plein de sagesse, parfait en beauté. Tu étais en Eden, le jardin de Dieu ; tu étais couvert de toutes sortes de pierres précieuses, de sardoine, de topaze, de diamant, de chrysolithe, d'onyx, de jaspe, de lapis-lazuli, d'escarboucle, d'émeraude et d'or ; tes tambourins et tes flûtes étaient à ton service, préparés pour le jour où tu fus créé. Tu étais un keroub protecteur, aux ailes déployées ; je t'avais placé dans la montagne sacrée de Dieu ; tu étais là, tu te promenais au milieu des pierres ardentes. Tu as été intègre dans tes voies, depuis le jour où tu fus créé jusqu'à celui où l'injustice a été trouvée chez toi. Par l'importance de ton commerce tu as été rempli de violence et tu as péché ; je t'exclus de la montagne de Dieu et je te fais disparaître, keroub protecteur, d'entre les pierres ardentes. Ton cœur s'est enhardi à cause de ta beauté, tu as perverti ta sagesse par ta splendeur ; je te jette à terre, je te livre en spectacle aux rois.»\
   L’orgueil a corrompu ce qui était parfait.
 
-- **Ésaïe 14:12–15** : « Comment es-tu tombé du ciel, astre brillant, fils de l’aurore ?… Tu disais en ton cœur : Je monterai au ciel, j’élèverai mon trône au-dessus des étoiles de Dieu. »  
+- **Ésaïe 14:12–15** : «Comment ! Tu es tombé du ciel, astre brillant, fils de l'aurore ! Tu as été abattu, toi qui domptais des nations ! Tu te disais : Je monterai au ciel, j'élèverai mon trône au-dessus des étoiles de Dieu, je m'assiérai sur la montagne de la Rencontre, au plus profond du nord ; je monterai sur les hauteurs des nuages, je serai semblable au Très-Haut. Mais on t'a fait descendre au séjour des morts, au plus profond du gouffre.»\
   La rébellion commence par l’exaltation de soi et le refus de se soumettre.
 
 - **1 Timothée 3:6** : L’orgueil est appelé « la condamnation du diable ».  
@@ -455,7 +455,7 @@ Dieu permet la rébellion pour manifester la vraie nature du bien, exposer le ma
 
 - **Job 1:6–12** : Même lors de l’épreuve, Satan demeure sous limites ; sa révolte est permise, non incontrôlée.
 
-- **Apocalypse 12:7–9** : « Il y eut guerre dans le ciel… le grand dragon fut précipité… celui qui séduit toute la terre » ; le mal est vaincu, non co-égal à Dieu.
+- **Apocalypse 12:7–9** : «Il y eut alors une guerre dans le ciel. Michel et ses anges combattirent le dragon. Le dragon combattit, lui et ses anges, mais il ne fut pas le plus fort, et il ne se trouva plus de place pour eux dans le ciel. Il fut jeté à bas, le grand dragon, le serpent d'autrefois, celui qui est appelé le diable et le Satan, celui qui égare toute la terre habitée ; il fut jeté sur la terre, et ses anges y furent jetés avec lui.» ; le mal est vaincu, non co-égal à Dieu.
 
 **L’issue :**
 
@@ -483,10 +483,10 @@ Ces influences se déguisent en dieux, exigent des sacrifices, pervertissent la 
 
 **Appuis bibliques :**
 
-- **Romains 1:19–23** : « Ce qu’on peut connaître de Dieu est manifeste pour eux, Dieu le leur ayant fait connaître… Ses perfections invisibles, sa puissance éternelle et sa divinité, se voient comme à l’œil… Ils sont donc inexcusables. » Mais l’humanité a « changé la gloire du Dieu incorruptible en images représentant l’homme corruptible, des oiseaux, des quadrupèdes et des reptiles ».  
+- **Romains 1:19–23** : «car ce qu'on peut connaître de Dieu est manifeste parmi eux : c'est Dieu qui, pour eux, l'a rendu manifeste. En effet, ce qui chez lui est invisible – sa puissance éternelle et sa divinité – se voit fort bien depuis la création du monde, quand l'intelligence le discerne par ses ouvrages. Ils sont donc inexcusables, puisque, tout en ayant connu Dieu, ils ne l'ont pas glorifié comme Dieu et ne lui ont pas rendu grâce ; mais ils se sont égarés dans des raisonnements futiles, et leur cœur sans intelligence a été plongé dans les ténèbres. Se prétendant sages, ils sont devenus fous et ils ont changé la gloire du Dieu impérissable en des images représentant l'être humain périssable, des oiseaux, des quadrupèdes et des reptiles.»\
   La religion commence souvent par la reconnaissance du divin, puis dérive vers l’idolâtrie.
 
-- **Deutéronome 32:16–17** : « Ils ont excité sa jalousie par des dieux étrangers… Ils ont sacrifié à des démons et non à Dieu. »  
+- **Deutéronome 32:16–17** : «ils provoquent sa jalousie par des dieux étrangers, ils le contrarient par des abominations ; ils sacrifient à des démons, qui ne sont pas Dieu, à des dieux qu'ils ne connaissent pas – des nouveaux venus, arrivés depuis peu, que vos pères ne vénéraient pas.»\
   L’Écriture identifie explicitement de nombreuses divinités païennes à des puissances démoniaques.
 
 - **Psaume 106:37–38** : « Ils ont sacrifié leurs fils et leurs filles aux démons ; ils ont répandu le sang innocent. »  
@@ -510,10 +510,10 @@ Ces influences se déguisent en dieux, exigent des sacrifices, pervertissent la 
 - **Jean 14:6** : « Je suis le chemin, la vérité et la vie ; nul ne vient au Père que par moi. »  
   La vérité est singulière ; la miséricorde de Dieu est universelle dans son offre.
 
-- **1 Timothée 2:3–4** : « Dieu notre Sauveur… veut que tous les hommes soient sauvés et parviennent à la connaissance de la vérité. »  
+- **1 Timothée 2:3–4** : «Cela est beau et agréé de Dieu, notre Sauveur, qui veut que tous les humains soient sauvés et parviennent à la connaissance de la vérité.»\
   La diversité des croyances révèle à la fois le désir humain de Dieu et Sa patience envers notre confusion.
 
-- **Romains 10:12–13** : « Il n’y a aucune distinction entre Juif et Grec… le même Seigneur est Seigneur de tous, riche pour tous ceux qui L’invoquent. »  
+- **Romains 10:12–13** : «Il n'y a pas de distinction, en effet, entre Juif et Grec : ils ont tous le même Seigneur, qui est riche pour tous ceux qui l'invoquent. Car quiconque invoquera le nom du Seigneur sera sauvé.»\
   La rédemption est offerte universellement, bien que la vérité demeure une.
 
 **Résumé :**  
@@ -537,13 +537,13 @@ Ceux qui le reçoivent sont revêtus de Sa justice ; ceux qui le refusent demeur
 
 **Appuis bibliques :**
 
-- **Romains 3:23–26** : « Tous ont péché et sont privés de la gloire de Dieu… et sont gratuitement justifiés par sa grâce, par le moyen de la rédemption qui est en Jésus-Christ… afin qu’il soit juste tout en justifiant celui qui a la foi en Jésus. »  
+- **Romains 3:23–26** : «tous, en effet, ont péché et sont privés de la gloire de Dieu ; et c'est gratuitement qu'ils sont justifiés par sa grâce, au moyen de la rédemption qui est en Jésus-Christ. C'est lui que Dieu s'est proposé de constituer en expiation, au moyen de la foi, par son sang, pour montrer sa justice ; parce qu'il avait laissé impunis les péchés commis auparavant, dans sa tolérance, Dieu a voulu montrer sa justice dans le temps présent, pour être juste tout en justifiant celui qui relève de la foi de Jésus.»\
   Le pardon de Dieu s’enracine dans Sa justice, non en dehors d’elle.
 
 - **Hébreux 9:22** : « Sans effusion de sang il n’y a pas de pardon des péchés. »  
   Une vie pour une vie ; accompli dans le sacrifice du Christ.
 
-- **Ésaïe 53:5–6** : « Il a été percé pour nos transgressions… l’Éternel a fait retomber sur lui l’iniquité de nous tous. »  
+- **Ésaïe 53:5–6** : «Or il était transpercé à cause de nos transgressions, écrasé à cause de nos fautes ; la correction qui nous vaut la paix est tombée sur lui, et c'est par ses meurtrissures que nous avons été guéris. Nous étions tous errants comme du petit bétail, chacun suivait sa propre voie ; et le Seigneur a fait venir sur lui notre faute à tous.»\
   Le serviteur souffrant porte la peine que méritait l’humanité.
 
 - **1 Pierre 2:24** : « Lui qui a porté lui-même nos péchés en son corps sur le bois, afin que morts au péché nous vivions pour la justice. »  
@@ -552,7 +552,7 @@ Ceux qui le reçoivent sont revêtus de Sa justice ; ceux qui le refusent demeur
 - **Éphésiens 2:8–9** : « Car c’est par la grâce que vous êtes sauvés, par le moyen de la foi ; et cela ne vient pas de vous, c’est le don de Dieu, non le résultat des œuvres, afin que personne ne se glorifie. »  
   La grâce est un don, mais elle doit être reçue.
 
-- **Jean 3:16–18** : « Dieu a tant aimé le monde qu’il a donné son Fils unique, afin que quiconque croit en lui ne périsse point, mais qu’il ait la vie éternelle… Celui qui ne croit pas est déjà jugé. »  
+- **Jean 3:16–18** : «Car Dieu a tant aimé le monde qu'il a donné son Fils unique, pour que quiconque met sa foi en lui ne se perde pas, mais ait la vie éternelle. Dieu, en effet, n'a pas envoyé son Fils dans le monde pour juger le monde, mais pour que par lui le monde soit sauvé. Celui qui met sa foi en lui n'est pas jugé ; mais celui qui ne croit pas est déjà jugé, parce qu'il n'a pas mis sa foi dans le nom du Fils unique de Dieu.»\
   Rejeter la grâce laisse la dette impayée.
 
 - **2 Corinthiens 5:21** : « Celui qui n’a point connu le péché, il l’a fait devenir péché pour nous, afin que nous devenions en lui justice de Dieu. »  

@@ -6,7 +6,7 @@ Christian faith begins with Israel's Messiah. Jesus was born into the people of 
 
 ## Jesus descended from Abraham, David, and Judah
 
-> "This is the record of the genealogy of Jesus Christ, the son of David, the son of Abraham..."
+> "This is the record of the genealogy of Jesus Christ, the son of David, the son of Abraham:"
 >
 > **Matthew 1:1**
 
@@ -14,13 +14,13 @@ Matthew introduces Jesus by placing Him inside Israel's covenant history. Abraha
 
 Hebrews is even more explicit:
 
-> "For it is clear that our Lord descended from Judah..."
+> "For it is clear that our Lord descended from Judah, a tribe as to which Moses said nothing about priests."
 >
 > **Hebrews 7:14**
 
 Jesus belongs to the tribe of Judah. Revelation retains this identity after His resurrection and ascension:
 
-> "Behold, the Lion of the tribe of Judah, the Root of David, has triumphed..."
+> "Then one of the elders said to me, “Do not weep! Behold, the Lion of the tribe of Judah, the Root of David, has triumphed to open the scroll and its seven seals.”"
 >
 > **Revelation 5:5**
 
@@ -36,19 +36,19 @@ When Jesus spoke with the Samaritan woman, she said:
 
 Jesus did not correct her identification. In the same conversation He said:
 
-> "...salvation is from the Jews."
+> "You worship what you do not know; we worship what we do know, for salvation is from the Jews."
 >
 > **John 4:22**
 
 Paul likewise describes the Messiah as coming from Israel according to His human ancestry:
 
-> "Theirs are the patriarchs, and from them proceeds the human descent of Christ..."
+> "Theirs are the patriarchs, and from them proceeds the human descent of Christ, who is God over all, forever worthy of praise! Amen."
 >
 > **Romans 9:5**
 
 ## Jesus was circumcised and presented according to the Law
 
-> "When the eight days before His circumcision had passed, He was named Jesus..."
+> "When the eight days before His circumcision had passed, He was named Jesus, the name the angel had given Him before He was conceived."
 >
 > **Luke 2:21**
 
@@ -125,7 +125,7 @@ The New Testament does not teach Gentiles to become ethnically Jewish. It teache
 
 Paul tells Gentile believers that they were once:
 
-> "separate from Christ, alienated from the commonwealth of Israel and strangers to the covenants of the promise..."
+> "remember that at that time you were separate from Christ, alienated from the commonwealth of Israel, and strangers to the covenants of the promise, without hope and without God in the world."
 >
 > **Ephesians 2:12**
 

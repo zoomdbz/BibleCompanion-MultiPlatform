@@ -22,7 +22,7 @@ Por trás de cada falso deus há um poder que se opõe ao Senhor.
 
 - **(Efésios 6:12)** – «As forças espirituais do mal nas regiões celestiais.» *(o campo de batalha dos espíritos)*  
 
-- **(2 Coríntios 12:2–4)** – «Foi arrebatado ao terceiro céu… ao paraíso.» *(a morada de Deus)*  
+- **(2 Coríntios 12:2–4)** – «Conheço um homem em Cristo que, há catorze anos, foi arrebatado ao terceiro céu. Se foi no corpo ou fora do corpo, não sei; só Deus o sabe. Sim, somente Deus sabe se foi no corpo ou fora do corpo. Mas eu sei que tal homem foi arrebatado ao paraíso e ouviu coisas tão maravilhosas que não podem ser expressas em palavras, coisas que a nenhum homem é permitido relatar.» *(a morada de Deus)*
 
 **Resumo (Escritura):** A Bíblia identifica múltiplos céus: o céu físico (Gênesis 1:8), o reino espiritual de conflito (Daniel 10:13; Ef 6:12) e a morada de Deus (2 Co 12:2–4).  
 
@@ -31,11 +31,11 @@ Por trás de cada falso deus há um poder que se opõe ao Senhor.
 ## 2. Principados e Potestades  
 **Sentido simples:** Existem poderes malignos organizados que se opõem ao povo de Deus; Cristo tem autoridade suprema sobre eles.  
 
-- **(Efésios 6:12)** – «A nossa luta é contra… principados e potestades.»  
+- **(Efésios 6:12)** – «Pois nós não lutamos contra inimigos de carne e sangue, mas contra governantes e autoridades do mundo invisível, contra grandes poderes neste mundo de trevas e contra espíritos malignos nas esferas celestiais.»
 
 - **(Colossenses 2:15)** – Cristo «despojou os principados e potestades.»  
 
-- **(Daniel 10:20)** – «O príncipe da Pérsia… o príncipe da Grécia.»  
+- **(Daniel 10:20)** – «Então ele disse: “Você sabe por que eu vim? Em breve terei de voltar para lutar com o príncipe do reino da Pérsia e, depois disso, virá o príncipe do reino da Grécia.»
 
 **Resumo (Escritura):** A Bíblia declara que governantes invisíveis se opõem ao povo de Deus (Ef 6:12; Dn 10:20), mas Cristo tirou-lhes o poder final (Cl 2:15).  
 
@@ -125,7 +125,7 @@ Por trás de cada falso deus há um poder que se opõe ao Senhor.
 
 - **(Jeremias 32:35)** – «Ofereceram seus filhos e filhas a Moloque.»  
 
-- **(Juízes 2:11–13)** – «Abandonaram ao Senhor… e serviram a Baal e Astarote.»  
+- **(Juízes 2:11–13)** – «Os israelitas fizeram o que era mau aos olhos do Senhor e serviram às imagens de Baal. Abandonaram o Senhor, o Deus de seus antepassados, que os havia tirado do Egito. Seguiram e adoraram os deuses dos povos ao redor e, com isso, provocaram a ira do Senhor. Abandonaram o Senhor para servir a Baal e às imagens de Astarote.»
 
 - **(Êxodo 12:12)** – «Executarei juízo sobre todos os deuses do Egito.»  
 
@@ -141,7 +141,7 @@ A idolatria nas Escrituras não trata apenas de deuses antigos, mas também de e
 
 - **(Atos 10:25–26)** – Quando Cornélio se prostrou diante de Pedro, Pedro o levantou, dizendo: «Levanta-te, eu também sou homem.»  
 
-- **(Êxodo 20:4–5)** – «Não farás para ti imagem de escultura… não te encurvarás a elas nem as servirás.»  
+- **(Êxodo 20:4–5)** – «“Não faça para si espécie alguma de ídolo ou imagem de qualquer coisa no céu, na terra ou no mar. Não se curve diante deles nem os adore, pois eu, o Senhor, seu Deus, sou um Deus zeloso. Trago as consequências do pecado dos pais sobre os filhos até a terceira e quarta geração dos que me rejeitam,»
 
 Mesmo os santos mais fiéis são exemplos de fé, não mediadores. Adoração, oração e devoção pertencem somente a Deus.  
 
@@ -171,9 +171,9 @@ Mesmo os santos mais fiéis são exemplos de fé, não mediadores. Adoração, o
 ## 5. Mitos Sumérios e os Nefilins  
 **Sentido simples:** A Bíblia não menciona «Suméria» pelo nome, mas cita **Babel** e liga os primeiros reinos e a rebelião à corrupção espiritual.  
 
-- **(Gênesis 6:1–4)** – «Os filhos de Deus… havia nefilins naqueles dias.»  
+- **(Gênesis 6:1–4)** – «Os seres humanos começaram a se multiplicar na terra e tiveram filhas. Os filhos de Deus perceberam que as filhas dos homens eram belas, tomaram para si as que os agradaram e se casaram com elas. Então o Senhor disse: “Meu Espírito não tolerará os humanos por muito tempo, pois são apenas carne mortal. Seus dias serão limitados a 120 anos”. Naqueles dias, e por algum tempo depois, havia na terra gigantes, pois quando os filhos de Deus tiveram relações com as filhas dos homens, elas deram à luz filhos que se tornaram os guerreiros famosos da antiguidade.»
 
-- **(Gênesis 10:8–12)** – Ninrode… o início do seu reino foi Babel.  
+- **(Gênesis 10:8–12)** – «Cuxe também foi o antepassado de Ninrode, o primeiro guerreiro valente da terra. Porque era o mais corajoso dos caçadores, seu nome deu origem ao provérbio: “Este homem é como Ninrode, o mais corajoso dos caçadores”. Ninrode construiu seu reino na terra da Babilônia, fundando as cidades de Babel, Ereque, Acade e Calné. Expandiu seu território até a Assíria, onde construiu as cidades de Nínive, Reobote-Ir, Calá e Resém, a grande cidade situada entre Nínive e Calá.»
 
 - **(Gênesis 11:1–9)** – Torre de Babel: a rebelião da humanidade.  
 
@@ -190,7 +190,7 @@ Mesmo os santos mais fiéis são exemplos de fé, não mediadores. Adoração, o
 
 - **(Salmo 96:5)** – «Todos os deuses dos povos são ídolos vãos, mas o Senhor fez os céus.»  
 
-- **(1 Coríntios 8:5–6)** – «Há muitos deuses e muitos senhores… contudo para nós há um só Deus, o Pai… e um só Senhor, Jesus Cristo.»  
+- **(1 Coríntios 8:5–6)** – «Sim, é fato que existem os que são chamados de deuses, por assim dizer, nos céus e na terra, e há pessoas que adoram muitos deuses e muitos senhores. Para nós, porém, Há somente um Deus, o Pai, por meio de quem todas as coisas foram criadas e para quem vivemos. E há somente um Senhor, Jesus Cristo, por meio de quem todas as coisas foram criadas e por meio de quem recebemos vida.»
 
 - **(João 10:30)** – «Eu e o Pai somos um.»  
 
@@ -288,13 +288,13 @@ O Alcorão honra Jesus (*ʿĪsā*) como profeta, mas nega sua crucificação e r
 #### Objeção 1: A Bíblia foi corrompida
 O próprio Alcorão reconhece a Torá e o Evangelho como revelações genuínas.
 
-**Alcorão 5:44 (Sahih International)**
-> «Em verdade, Nós enviamos a Torá, na qual havia orientação e luz. Por ela julgaram os profetas que se submeteram [a Allah], para os judeus, assim como os rabinos e os estudiosos, com o que lhes foi confiado do Livro de Allah, e foram testemunhas disso.»
+**Alcorão 5:44 (traduzido de Sahih International)**
+> «Em verdade, Nós enviamos a Torá, na qual havia orientação e luz. Por ela julgaram os profetas que se submeteram [a Alá], para os judeus, assim como os rabinos e os estudiosos, com o que lhes foi confiado do Livro de Alá, e foram testemunhas disso.»
 
-**Alcorão 5:46 (Sahih International)**
+**Alcorão 5:46 (traduzido de Sahih International)**
 > «E enviamos, seguindo-lhes os passos, Jesus, filho de Maria, confirmando o que havia antes dele na Torá; e concedemos-lhe o Evangelho, em que havia orientação e luz, e confirmação do que o precedeu na Torá, como orientação e exortação para os justos.»
 
-**Alcorão 10:94 (Sahih International)**
+**Alcorão 10:94 (traduzido de Sahih International)**
 > «E se estás em dúvida, [ó Maomé], acerca do que te revelamos, então pergunta aos que têm lido o Livro antes de ti. Em verdade, a verdade te veio de teu Senhor; portanto, não sejas dos que duvidam.»
 
 A Bíblia afirma sua própria preservação.
@@ -335,14 +335,14 @@ A Bíblia afirma sua própria preservação.
 
 O Islã respeita Jesus (*ʿIsa*) como profeta, mas nega sua divindade, filiação e crucificação.
 
-**Alcorão 4:171 (Sahih International)**
-> «Ó Povo do Livro, não exagereis em vossa religião, nem digais de Allah senão a verdade. O Messias, Jesus, filho de Maria, é apenas Mensageiro de Allah e Sua palavra, que Ele concedeu a Maria, e um espírito vindo d’Ele. Crede em Allah e em Seus mensageiros e não digais: “Três”; cessai! É melhor para vós. Allah é um Deus único. Glorificado seja por ter um filho.»
+**Alcorão 4:171 (traduzido de Sahih International)**
+> «Ó Povo do Livro, não exagereis em vossa religião, nem digais de Alá senão a verdade. O Messias, Jesus, filho de Maria, foi apenas um mensageiro de Alá e Sua palavra, que Ele dirigiu a Maria, e uma alma [criada por uma ordem] vinda d’Ele. Crede, pois, em Alá e em Seus mensageiros. E não digais: “Três”; cessai; é melhor para vós. Em verdade, Alá é um só Deus. Exaltado seja Ele acima de ter um filho.»
 
 A Bíblia identifica Jesus como o eterno Filho de Deus, igual ao Pai.
 
 **(João 1:1–14)**
 
-> «No princípio era o Verbo… e o Verbo se fez carne.»
+> «No princípio, aquele que é a Palavra já existia. A Palavra estava com Deus, e a Palavra era Deus. Ele existia no princípio com Deus. Por meio dele Deus criou todas as coisas, e sem ele nada foi criado. Aquele que é a Palavra possuía a vida, e sua vida trouxe luz a todos. A luz brilha na escuridão, e a escuridão nunca conseguiu apagá-la. Deus enviou um homem chamado João para falar a respeito da luz, a fim de que, por meio de seu testemunho, todos cressem. Ele não era a luz, mas veio para falar da luz. Aquele que é a verdadeira luz, que ilumina a todos, estava chegando ao mundo. Veio ao mundo que ele criou, mas o mundo não o reconheceu. Veio a seu próprio povo, e eles o rejeitaram. Mas, a todos que creram nele e o aceitaram, ele deu o direito de se tornarem filhos de Deus. Estes não nasceram segundo a ordem natural, nem como resultado da paixão ou da vontade humana, mas nasceram de Deus. Assim, a Palavra se tornou ser humano, carne e osso, e habitou entre nós. Ele era cheio de graça e verdade. E vimos sua glória, a glória do Filho único do Pai.»
 
 **(Colossenses 2:9)**
 > «Porque nele habita corporalmente toda a plenitude da divindade.»
@@ -354,7 +354,7 @@ A Bíblia identifica Jesus como o eterno Filho de Deus, igual ao Pai.
 > «Ele, que é o resplendor da glória e a expressão exata do seu Ser, sustentando todas as coisas pela palavra do seu poder; tendo feito a purificação dos pecados, assentou-se à direita da Majestade nas alturas.»
 
 **(Mateus 3:16–17)**
-> «E, sendo Jesus batizado… uma voz dos céus dizia: “Este é o meu Filho amado, em quem me agrado.”»
+> «Depois do batismo, enquanto Jesus saía da água, o céu se abriu, e ele viu o Espírito de Deus descer como uma pomba e pousar sobre ele. E uma voz do céu disse: “Este é meu Filho amado, que me dá grande alegria”.»
 
 A doutrina da Trindade afirma um só Deus em três Pessoas.
 
@@ -362,7 +362,7 @@ A doutrina da Trindade afirma um só Deus em três Pessoas.
 > «A graça do Senhor Jesus Cristo, e o amor de Deus, e a comunhão do Espírito Santo sejam com todos vós.»
 
 **(Mateus 28:19)**
-> «Ide… batizando-os em nome do Pai e do Filho e do Espírito Santo.»
+> «Portanto, vão e façam discípulos de todas as nações, batizando-os em nome do Pai, do Filho e do Espírito Santo.»
 
 **Resumo:** O Islã honra Jesus como profeta, mas lhe retira a filiação divina, a crucificação e o papel de Salvador. A Bíblia o identifica de forma consistente como o eterno Filho de Deus, o único caminho de salvação.
 
@@ -371,9 +371,9 @@ A doutrina da Trindade afirma um só Deus em três Pessoas.
 
 O Alcorão **4:157** nega a crucificação, mas o evento é **amplamente atestado por fontes históricas seculares não cristãs**, de modo que até historiadores céticos o aceitam como fato.
 
-**Alcorão 4:157 (Sahih International)**
+**Alcorão 4:157 (traduzido de Sahih International)**
 
-> *«E [por causa de] dizerem: “Certamente matamos o Messias, Jesus, filho de Maria, o mensageiro de Allah”. Mas não o mataram, nem o crucificaram; mas [outro] lhes foi feito parecer semelhante… e, com certeza, não o mataram.»*
+> *«E por dizerem: “Certamente matamos o Messias, Jesus, filho de Maria, o mensageiro de Alá”. Mas não o mataram nem o crucificaram; antes, [outro] lhes foi feito semelhante a ele. E, certamente, os que divergem a esse respeito estão em dúvida sobre isso. Não têm conhecimento disso, senão o seguir de suposições. E certamente não o mataram.»*
 
 O Islã ensina que Jesus não foi crucificado. Mas tanto a Bíblia quanto historiadores seculares registram claramente o contrário.
 
@@ -381,7 +381,7 @@ O Islã ensina que Jesus não foi crucificado. Mas tanto a Bíblia quanto histor
 
 **(João 19:16–18)**
 
-> *«Então o entregou para ser crucificado… Ali o crucificaram…»*
+> *«Então Pilatos lhes entregou Jesus para ser crucificado. E eles levaram Jesus. Carregando a própria cruz, Jesus foi ao local chamado Lugar da Caveira (em aramaico, Gólgota). Ali eles o pregaram na cruz. Outros dois foram crucificados com Jesus, um de cada lado e ele no meio.»*
 
 **(Lucas 23:46)**
 
@@ -425,7 +425,7 @@ Isso é historicamente falso. As evidências são contundentes:
 
 - Fontes islâmicas admitem que Uthman queimou variantes do Alcorão.
 
-- **Sahih al-Bukhari 4987**: «Uthman enviou a cada província muçulmana uma cópia do que havia sido copiado e ordenou que todos os outros materiais corânicos… fossem queimados.»
+- **Sahih al-Bukhari 4987**: «Uthman enviou a cada província muçulmana uma cópia do que haviam transcrito e ordenou que todo o restante material corânico, escrito em folhas avulsas ou em cópias completas, fosse queimado.»
 
 Se nunca houve variantes, por que a queima foi necessária?
 
@@ -436,13 +436,13 @@ Se nunca houve variantes, por que a queima foi necessária?
 
 Isso cria uma armadilha: significa que o Alcorão não é suficiente por si, apesar de afirmar ser guia claro.
 
-**Alcorão 16:89 (Sahih International)**
+**Alcorão 16:89 (traduzido de Sahih International)**
 
 > «E enviamos a ti o Livro como esclarecimento de todas as coisas e como orientação, misericórdia e boas novas para os muçulmanos.»
 
-**Alcorão 6:114 (Sahih International)**
+**Alcorão 6:114 (traduzido de Sahih International)**
 
-> «Buscarei, então, outro juiz além de Allah, sendo Ele quem vos revelou o Livro explicado em detalhes?»
+> «Buscarei, então, outro juiz além de Alá, sendo Ele quem vos revelou o Livro explicado em detalhes?»
 
 *Se o Alcorão é realmente um “esclarecimento de todas as coisas” e suficiente, por que leigos precisam depender de cadeias intermináveis de hadiths e eruditos? Essa contradição mostra que o livro não é aquilo que afirma.*
 
@@ -461,7 +461,7 @@ Essa objeção desaba diante da Escritura e da história secular:
 
 **(Isaías 53:5)**
 
-> «Mas ele foi traspassado pelas nossas transgressões… e pelas suas pisaduras fomos sarados.»
+> «Mas ele foi ferido por causa de nossa rebeldia e esmagado por causa de nossos pecados. Sofreu o castigo para que fôssemos restaurados e recebeu açoites para que fôssemos curados.»
 
 **(João 19:33–34)**
 
@@ -479,10 +479,10 @@ Essa objeção desaba diante da Escritura e da história secular:
 ### Salvação: Lei versus Graça
 
 #### A visão do Islã
-No Islã, a salvação depende da balança das obras: as boas devem pesar mais que as más, e a decisão final cabe à misericórdia de Allah.
+No Islã, a salvação depende da balança das obras: as boas devem pesar mais que as más, e a decisão final cabe à misericórdia de Alá.
 
-**Alcorão 23:102–103 (Sahih International)**
-> «Então, aqueles cujas balanças forem pesadas; estes serão bem-sucedidos; mas aqueles cujas balanças forem leves; estes perderam a si mesmos, ficando no Inferno, eternamente.»
+**Alcorão 23:102–103 (traduzido de Sahih International)**
+> «Então, aqueles cujas balanças forem pesadas [de boas obras], esses serão os bem-sucedidos. Mas aqueles cujas balanças forem leves, esses serão os que perderam a si mesmos, [ficando] no Inferno, eternamente.»
 
 Isso reflete um sistema de salvação baseado em obras, medido pela lei e pelos atos.
 
@@ -496,28 +496,28 @@ A Lei é santa e revela o padrão de Deus, mas ninguém a cumpriu perfeitamente;
 > «Todos pecaram e carecem da glória de Deus.»
 
 **(Gálatas 3:10)**
-> «Todos quantos são das obras da lei estão debaixo de maldição…»
+> «Contudo, os que confiam na lei para serem declarados justos estão sob maldição, pois as Escrituras dizem: “Maldito quem não se mantiver obediente a tudo que está escrito no Livro da Lei”.»
 
 **(Gálatas 3:24)**
 > «De modo que a lei nos serviu de aio para nos conduzir a Cristo, para que fôssemos justificados pela fé.»
 
 **(Romanos 8:3–4)**
-> «O que a lei não podia fazer, por estar enferma pela carne, Deus o fez, enviando o seu próprio Filho…»
+> «A lei não era capaz de nos salvar por causa da fraqueza de nossa natureza humana, por isso Deus fez o que a lei era incapaz de fazer ao enviar seu Filho na semelhança de nossa natureza humana pecaminosa e apresentá-lo como sacrifício por nosso pecado. Com isso, declarou o fim do domínio do pecado sobre nós, de modo que nós, que agora não seguimos mais nossa natureza humana, mas sim o Espírito, possamos cumprir as justas exigências da lei.»
 
 **(Hebreus 4:15)**
-> «Temos um sumo sacerdote… tentado em todas as coisas, à nossa semelhança, mas sem pecado.»
+> «Nosso Sumo Sacerdote entende nossas fraquezas, pois enfrentou as mesmas tentações que nós, mas nunca pecou.»
 
 #### Graça por meio de Jesus
 O evangelho proclama a salvação como dom da graça mediante a fé em Cristo, não por obras.
 
 **(Efésios 2:8–9)**
-> «Pela graça sois salvos, mediante a fé… não por obras, para que ninguém se glorie.»
+> «Vocês são salvos pela graça, por meio da fé. Isso não vem de vocês; é uma dádiva de Deus. Não é uma recompensa pela prática de boas obras, para que ninguém venha a se orgulhar.»
 
 **(João 5:24)**
-> «Quem ouve a minha palavra e crê naquele que me enviou tem a vida eterna… passou da morte para a vida.»
+> «“Eu lhes digo a verdade: quem ouve minha mensagem e crê naquele que me enviou tem a vida eterna. Jamais será condenado, mas já passou da morte para a vida.»
 
 **(João 11:25–26)**
-> «Eu sou a ressurreição e a vida… Crês isto?»
+> «Então Jesus disse: “Eu sou a ressurreição e a vida. Quem crê em mim viverá, mesmo depois de morrer. Quem vive e crê em mim jamais morrerá. Você crê nisso, Marta?”.»
 
 **Ponto-chave:** O Islã ensina salvação pela lei e obras; a Bíblia mostra que a lei condena a todos e aponta para Cristo, o único perfeito. A salvação é somente pela graça mediante a fé em Jesus.
 
@@ -532,13 +532,13 @@ Relata-se que Maomé desposou Aisha aos seis anos e consumou o casamento aos nov
 A Torá proíbe a exploração sexual de crianças e a trata como maldade.
 
 **(Deuteronômio 22:25–27)**
-> «Se… um homem pegar uma jovem desposada e se deitar com ela… morrerá somente o homem…»
+> «“Mas, se o homem encontrar a moça prometida em casamento no campo e a violentar, somente o homem deverá ser morto. Não façam nada à moça; não cometeu crime algum que mereça a pena de morte. É tão inocente quanto uma vítima de homicídio. Uma vez que o homem a violentou no campo, deve-se presumir que ela gritou, mas não houve quem a socorresse.»
 
 Crianças não podem consentir; consumar casamento com criança é exploração e coerção.
 
 #### 2) Poligamia além do limite
-**Alcorão 4:3 (Sahih International)**
-> «Casai com duas, três ou quatro… se temerdes não ser justos, então com uma só…»
+**Alcorão 4:3 (traduzido de Sahih International)**
+> «E, se temerdes não ser justos com as órfãs, casai com as que vos agradarem dentre as [outras] mulheres: duas, três ou quatro. Mas, se temerdes não ser justos, então [casai com] uma só, ou com aquelas que a vossa mão direita possui. Isso é mais adequado para que não vos inclineis [à injustiça].»
 
 Maomé tomou mais de quatro esposas, excedendo o próprio padrão corânico e contrariando o mandamento da Torá.
 
@@ -546,8 +546,8 @@ Maomé tomou mais de quatro esposas, excedendo o próprio padrão corânico e co
 > «Não multiplicará para si mulheres, para que seu coração não se desvie.»
 
 #### 3) Casamento com a esposa do filho adotivo
-**Alcorão 33:37 (Sahih International)**
-> «E [lembra-te, ó Muhammad], quando disseste àquele a quem Allah favoreceu e a quem tu favoreceste: “Conserva tua esposa e teme a Allah”, enquanto ocultavas dentro de ti o que Allah haveria de revelar. Temias as pessoas, embora Allah tivesse mais direito de ser temido por ti. Então, quando Zayd já não teve necessidade dela, Nós te casamos com ela, para que os crentes não sintam desconforto quanto às esposas de seus filhos adotivos quando estes já não tiverem necessidade delas. E a ordem de Allah sempre se cumpre.»
+**Alcorão 33:37 (traduzido de Sahih International)**
+> «E [lembra-te, ó Maomé], quando disseste àquele a quem Alá favoreceu e a quem tu favoreceste: “Conserva tua esposa e teme a Alá”, enquanto ocultavas dentro de ti o que Alá haveria de revelar. Temias as pessoas, embora Alá tivesse mais direito de ser temido por ti. Então, quando Zayd já não teve necessidade dela, Nós te casamos com ela, para que os crentes não sintam desconforto quanto às esposas de seus filhos adotivos quando estes já não tiverem necessidade delas. E a ordem de Alá sempre se cumpre.»
 
 A Torá proíbe tais uniões.
 
@@ -555,8 +555,8 @@ A Torá proíbe tais uniões.
 > «A nudez de tua nora não descobrirás; ela é mulher de teu filho, não descobrirás sua nudez.»
 
 #### 4) Violência e conversões forçadas
-**Alcorão 9:5 (Sahih International)**
-> «Quando os meses sagrados passarem, matai os politeístas onde quer que os encontreis… se se arrependerem, estabelecerem a oração e derem o zakat, deixai-os ir.»
+**Alcorão 9:5 (traduzido de Sahih International)**
+> «E, quando os meses sagrados tiverem passado, matai os politeístas onde quer que os encontreis, capturai-os, sitiai-os e ficai à espreita deles em todo lugar de emboscada. Mas, se se arrependerem, estabelecerem a oração e derem o zakat, deixai-os [seguir] seu caminho. Certamente, Alá é Perdoador e Misericordioso.»
 
 Em contraste, a Lei condena o homicídio, e Jesus rejeitou violência pela fé.
 
@@ -569,13 +569,13 @@ Em contraste, a Lei condena o homicídio, e Jesus rejeitou violência pela fé.
 #### 5) Negação de Cristo
 O Alcorão nega a filiação e a crucificação de Jesus.
 
-**Alcorão 4:171 (Sahih International)**
+**Alcorão 4:171 (traduzido de Sahih International)**
 > «Ó Povo do Livro, não cometais excessos em vossa religião nem digais acerca de Alá senão a verdade. O Messias, Jesus, filho de Maria, foi apenas um mensageiro de Alá, Sua palavra que Ele dirigiu a Maria e um espírito [criado por uma ordem] vindo d'Ele. Crede, pois, em Alá e em Seus mensageiros. E não digais: “Três”; cessai, pois isso é melhor para vós. Alá é um só Deus. Glorificado seja Ele, acima de ter um filho.»
 
-**Alcorão 112:3 (Sahih International)**
+**Alcorão 112:3 (traduzido de Sahih International)**
 > «Ele não gera nem foi gerado.»
 
-**Alcorão 4:157 (Sahih International)**
+**Alcorão 4:157 (traduzido de Sahih International)**
 > «E por terem dito: “Matamos o Messias, Jesus, filho de Maria, o mensageiro de Alá”. Mas não o mataram nem o crucificaram; outro lhes foi feito semelhante a ele. Aqueles que divergem a esse respeito estão em dúvida. Não têm conhecimento disso, salvo por seguirem suposições. E certamente não o mataram.»
 
 A Bíblia ensina o oposto: Jesus é o eterno Filho de Deus, crucificado e ressuscitado.
@@ -584,13 +584,13 @@ A Bíblia ensina o oposto: Jesus é o eterno Filho de Deus, crucificado e ressus
 > «Pelas suas pisaduras fomos sarados.»
 
 **(Salmo 22:16–18)**
-> «Traspassaram-me as mãos e os pés… repartem entre si as minhas vestes.»
+> «Meus inimigos me rodeiam como cães, um bando de perversos me cerca; perfuraram minhas mãos e meus pés. Posso contar todos os meus ossos; meus inimigos me encaram e desdenham de mim. Repartem minhas roupas entre si e lançam sortes por minha veste.»
 
 **(João 3:16)**
-> «Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito…»
+> «“Porque Deus amou tanto o mundo que deu seu Filho único, para que todo o que nele crer não pereça, mas tenha a vida eterna.»
 
 **(1 Coríntios 15:3–4)**
-> «Cristo morreu pelos nossos pecados… foi sepultado e ressuscitou ao terceiro dia.»
+> «Eu lhes transmiti o que era mais importante e o que também me foi transmitido: Cristo morreu por nossos pecados, como dizem as Escrituras. Ele foi sepultado e ressuscitou no terceiro dia, como dizem as Escrituras.»
 
 #### 6. Escravidão e Estupro
 
@@ -601,7 +601,7 @@ Múltiplas fontes islâmicas registram que Maomé possuía escravos e permitia o
 
 Isto pressupõe que Maomé e seus companheiros possuíam escravos, normalizado dentro de sua liderança.
 
-**Alcorão 4:24 (Sahih International)**
+**Alcorão 4:24 (traduzido de Sahih International)**
 > «E [também vos são proibidas] as mulheres já casadas, exceto aquelas que a vossa mão direita possuir. [Isto é] o decreto de Alá sobre vós.»
 
 Este versículo permitia o estupro de cativas de guerra, mesmo que já fossem casadas.
@@ -642,10 +642,10 @@ Em contraste, Maomé permitiu o estupro de cativas sem essas proteções. A Tor�
 A sura 33 concede isenções e privilégios exclusivos a Maomé.
 
 #### Esposas e concubinas, na prática, ilimitadas
-**Alcorão 33:50 (Sahih International)**
-> «Ó Profeta, permitimos-te tuas esposas às quais deste a devida compensação, aquelas que tua mão direita possui dentre as cativas que Allah te concedeu, as filhas de teus tios paternos, de tuas tias paternas, de teus tios maternos e de tuas tias maternas que emigraram contigo, e qualquer mulher crente que se ofereça ao Profeta, se o Profeta desejar casar-se com ela; isto é apenas para ti, excluindo os demais crentes. Sabemos muito bem o que tornamos obrigatório para eles quanto a suas esposas e àquelas que suas mãos direitas possuem, mas isto é para que não haja desconforto para ti. Allah é Perdoador e Misericordioso.»
+**Alcorão 33:50 (traduzido de Sahih International)**
+> «Ó Profeta, permitimos-te tuas esposas às quais deste a devida compensação, aquelas que tua mão direita possui dentre as cativas que Alá te concedeu, as filhas de teus tios paternos, de tuas tias paternas, de teus tios maternos e de tuas tias maternas que emigraram contigo, e qualquer mulher crente que se ofereça ao Profeta, se o Profeta desejar casar-se com ela; isto é apenas para ti, excluindo os demais crentes. Sabemos muito bem o que tornamos obrigatório para eles quanto a suas esposas e àquelas que suas mãos direitas possuem, mas isto é para que não haja desconforto para ti. Alá é Perdoador e Misericordioso.»
 
-Aqui se permitem a Muhammad, na prática, esposas e concubinas sem limite, enquanto os demais muçulmanos estão limitados a quatro (Alcorão 4:3).
+Aqui se permitem a Maomé, na prática, esposas e concubinas sem limite, enquanto os demais muçulmanos estão limitados a quatro (Alcorão 4:3).
 
 A Torá proíbe multiplicar esposas.
 
@@ -653,14 +653,14 @@ A Torá proíbe multiplicar esposas.
 > «Não tomará para si muitas mulheres, para que seu coração não se desvie; nem acumulará para si prata e ouro em excesso.»
 
 #### Restrições exclusivas
-**Alcorão 33:52 (Sahih International)**
-> «Não te são lícitas [ó Maomé] outras mulheres depois disto, nem te é permitido trocá-las por outras, ainda que sua beleza te agrade, exceto o que possuir tua mão direita.»
+**Alcorão 33:52 (traduzido de Sahih International)**
+> «Não te são lícitas, [ó Maomé], [outras] mulheres depois [disto], nem [te é lícito] trocá-las por [outras] esposas, ainda que sua beleza te agrade, exceto o que possuir tua mão direita. E Alá é sempre Observador de todas as coisas.»
 
 Regras feitas unicamente para a situação conjugal de Maomé.
 
 #### «Revelação» sobre etiqueta de refeição
-**Alcorão 33:53 (Sahih International)**
-> «Ó vós que credes! Não entreis nas casas do Profeta, a menos que vos seja permitido para uma refeição… depois de comer, retirai-vos sem prolongar a conversa; isso importunava o Profeta, e ele se envergonhava [de dizer-vos]; mas Allah não se envergonha da verdade…»
+**Alcorão 33:53 (traduzido de Sahih International)**
+> «Ó vós que credes, não entreis nas casas do Profeta, a não ser quando vos for permitido para uma refeição, sem esperar que esteja pronta. Mas, quando fordes convidados, entrai; e, quando tiverdes comido, dispersai-vos sem procurar ficar para conversar. Certamente, esse [comportamento] incomodava o Profeta, e ele se envergonhava de [despedir-vos]. Mas Alá não se envergonha da verdade. E quando pedirdes algo às [suas esposas], pedi-lhes por trás de uma divisória. Isso é mais puro para os vossos corações e para os delas. Não vos é lícito prejudicar o Mensageiro de Alá nem casar-vos jamais com suas esposas depois dele. Isso seria algo gravíssimo diante de Alá.»
 
 O incômodo pessoal do profeta é elevado a lei. Enquanto isso, um hadith relata que ele visitava nove esposas numa só noite.
 
@@ -682,29 +682,31 @@ O contraste é gritante: ele era tímido demais para mandar os convidados embora
 O Islã ensina que o Alcorão é perfeito e sem contradição; porém, no próprio texto e na tradição islâmica, veem-se conflitos e perdas.
 
 #### 1) Cronologia da criação
-**Alcorão 7:54**: seis dias.
+**Alcorão 7:54 (traduzido de Sahih International)**
+> «Certamente, o vosso Senhor é Alá, que criou os céus e a terra em seis dias e depois Se estabeleceu acima do Trono.»
 
-**Qur’an 41:9–12 (Português)**
+**Alcorão 41:9–12 (traduzido de Sahih International)**
 > Dize: «Negais, porventura, Aquele que criou a terra em dois dias e Lhe atribuís iguais? Esse é o Senhor dos mundos. E colocou nela firmes montanhas, abençoou-a e determinou nela o sustento de suas criaturas em quatro dias, de forma igual para os que perguntam. Em seguida, voltou-Se para o céu, quando era fumaça, e disse a ele e à terra: 'Vinde, de bom grado ou à força.' Disseram ambos: 'Vimos de bom grado.' Então completou-os como sete céus em dois dias e inspirou em cada céu a sua ordem. E adornamos o céu mais próximo com lâmpadas e como proteção. Esse é o decreto do Poderoso, do Onisciente.»
 
-
-A Bíblia: seis dias de criação e o sétimo de descanso (Gênesis 1:31–2:2).
+Somando em sequência, a sura 41 dá dois dias, depois quatro, depois dois, o que resulta em oito, contra os seis dias de 7:54. Os comentaristas muçulmanos entendem que os quatro dias incluem os dois primeiros, o que mantém o total em seis; a própria passagem não diz isso. Gênesis não deixa nada a conciliar: numera cada dia, do primeiro ao sexto, e Deus descansou no sétimo (Gênesis 1:5; 1:31–2:2).
 
 #### 2) Vinho: bênção ou imundície
-**Alcorão 16:67**: «bebida inebriante e bom sustento».
+**Alcorão 16:67 (traduzido de Sahih International)**
+> «E dos frutos das tamareiras e das videiras tirais bebida inebriante e bom sustento. Certamente, nisso há um sinal para um povo que raciocina.»
 
-**Alcorão 5:90**: «as bebidas inebriantes são imundície das obras de Satanás; evitai-as».
+**Alcorão 5:90 (traduzido de Sahih International)**
+> «Ó vós que credes, certamente as bebidas inebriantes, os jogos de azar, os sacrifícios em altares de pedra [a outros além de Alá] e as flechas divinatórias não são senão imundície da obra de Satanás; evitai-os, para que prospereis.»
 
 O ensino muda ao longo do tempo. A Bíblia condena a embriaguez de modo consistente e permite o vinho com moderação (Salmo 104:15; Efésios 5:18).
 
 #### 3) Violência versus paz
-**Alcorão 2:256 (Sahih International)**
+**Alcorão 2:256 (traduzido de Sahih International)**
 > «Não haverá compulsão na aceitação da religião. O caminho correto tornou-se distinto do erro. Portanto, quem rejeita o Taghut e crê em Alá agarrou-se à alça mais firme, que jamais se rompe. E Alá tudo ouve e tudo sabe.»
 
-**Alcorão 9:5 (Sahih International)**
-> «Quando os meses sagrados tiverem passado, matai os politeístas onde quer que os encontreis, capturai-os, sitiai-os e ficai à espreita deles em todo lugar de emboscada…»
+**Alcorão 9:5 (traduzido de Sahih International)**
+> «E, quando os meses sagrados tiverem passado, matai os politeístas onde quer que os encontreis, capturai-os, sitiai-os e ficai à espreita deles em todo lugar de emboscada. Mas, se se arrependerem, estabelecerem a oração e derem o zakat, deixai-os [seguir] seu caminho. Certamente, Alá é Perdoador e Misericordioso.»
 
-Alcorão 9:29 (Sahih International):
+Alcorão 9:29 (traduzido de Sahih International):
 
 > «Combatei aqueles que não creem em Alá nem no Último Dia, que não consideram ilícito o que Alá e Seu Mensageiro tornaram ilícito e que, dentre os que receberam o Livro, não adotam a religião da verdade, até que paguem voluntariamente a jizya enquanto estão humilhados.»
 
@@ -714,21 +716,30 @@ O versículo pacífico é anterior; o versículo violento veio depois e estudios
 > «Eu, porém, vos digo: amai os vossos inimigos e orai pelos que vos perseguem.»
 
 #### 4) Destino contra livre-arbítrio
-**Alcorão 18:29 (Sahih International)**: «E dize: “A verdade vem de vosso Senhor; quem quiser, creia, e quem quiser, não creia.”»
+**Alcorão 18:29 (traduzido de Sahih International)**
+> «E dize: “A verdade vem de vosso Senhor; então, quem quiser, que creia; e quem quiser, que descreia.”»
 
-**Alcorão 16:93 (Sahih International)**: «E, se Allah quisesse, teria feito de vós uma só religião; mas Ele desencaminha quem quer e guia quem quer…»
+**Alcorão 16:93 (traduzido de Sahih International)**
+> «E, se Alá quisesse, teria feito de vós uma só religião; mas Ele desencaminha quem quer e guia quem quer. E certamente sereis interrogados sobre o que fazíeis.»
 
-O Alcorão afirma o livre-arbítrio em uma passagem e o nega em outra. A Bíblia mantém juntas a soberania de Deus e a responsabilidade humana (Romanos 9:19–21; Josué 24:15).
+O Alcorão afirma o livre-arbítrio em uma passagem e o nega em outra. A Bíblia mantém juntas a soberania de Deus e a responsabilidade humana, às vezes num único versículo:
+
+**(Atos 2:23)**
+> «Ele foi entregue conforme o plano preestabelecido por Deus e seu conhecimento prévio daquilo que aconteceria. Com a ajuda de gentios que desconheciam a lei, vocês o pregaram na cruz e o mataram.»
+
+Paulo trata da objeção «Então por que Deus os culpa? Não estão apenas cumprindo a vontade dele?» em Romanos 9:19–21, e no capítulo seguinte escreve: «Todo aquele que invocar o nome do Senhor será salvo» (Romanos 10:13). Josué disse a Israel: «Escolham hoje a quem servirão» (Josué 24:15).
 
 #### 5) A morte de Jesus
-**Alcorão 4:157**: nega.
+**Alcorão 4:157 (traduzido de Sahih International)**
+> «E por terem dito: “Matamos o Messias, Jesus, filho de Maria, o mensageiro de Alá”. Mas não o mataram nem o crucificaram; outro lhes foi feito semelhante a ele. Aqueles que divergem a esse respeito estão em dúvida. Não têm conhecimento disso, salvo por seguirem suposições. E certamente não o mataram.»
 
-**Alcorão 19:33**: «paz sobre mim no dia em que nasci, no dia em que morrerei e no dia em que serei ressuscitado», soa como afirmação.
+**Alcorão 19:33 (traduzido de Sahih International)**
+> «E a paz está sobre mim no dia em que nasci, no dia em que morrerei e no dia em que serei ressuscitado vivo.»
 
-A Bíblia é consistente.
+Alcorão 4:157 nega que Jesus tenha sido morto ou crucificado. Alcorão 19:33 fala de um dia em que Ele morrerá, sem dizer quando nem como. A Bíblia declara claramente Sua morte, com Seu sepultamento e Sua ressurreição ao terceiro dia:
 
 **(1 Coríntios 15:3–4)**
-> «Cristo morreu pelos nossos pecados… e ressuscitou ao terceiro dia.»
+> «Eu lhes transmiti o que era mais importante e o que também me foi transmitido: Cristo morreu por nossos pecados, como dizem as Escrituras. Ele foi sepultado e ressuscitou no terceiro dia, como dizem as Escrituras.»
 
 **Historiadores seculares confirmam a crucificação:**
 - **Tácito, *Anais* 15.44**: «Cristo sofreu a pena extrema durante o reinado de Tibério, às mãos de um de nossos procuradores, Pôncio Pilatos.»
@@ -762,13 +773,13 @@ A Lei expõe o pecado, mas somente Cristo a cumpriu perfeitamente.
 > «Todos pecaram e carecem da glória de Deus, sendo justificados gratuitamente por sua graça, mediante a redenção que há em Cristo Jesus.»
 
 **(Efésios 2:8–9)**
-> «Pela graça sois salvos, mediante a fé… não vem das obras, para que ninguém se glorie.»
+> «Vocês são salvos pela graça, por meio da fé. Isso não vem de vocês; é uma dádiva de Deus. Não é uma recompensa pela prática de boas obras, para que ninguém venha a se orgulhar.»
 
 **(Atos 4:12)**
 > «E não há salvação em nenhum outro; porque abaixo do céu não existe nenhum outro nome, dado entre os homens, pelo qual importa que sejamos salvos.»
 
 **(João 11:25–26)**
-> «Eu sou a ressurreição e a vida… Crês isto?»
+> «Então Jesus disse: “Eu sou a ressurreição e a vida. Quem crê em mim viverá, mesmo depois de morrer. Quem vive e crê em mim jamais morrerá. Você crê nisso, Marta?”.»
 
 **Ponto-chave:**
 
@@ -780,7 +791,7 @@ A Lei expõe o pecado, mas somente Cristo a cumpriu perfeitamente.
 
 ### Uma questão de «contexto» e consistência
 
-**Alegação:** «Tudo no Alcorão é de Allah. Um anjo traz, o profeta repete. Contexto é tudo.»
+**Alegação:** «Tudo no Alcorão é de Alá. Um anjo traz, o profeta repete. Contexto é tudo.»
 
 - Se *contexto é tudo*, onde está o contexto que permite a Maomé isentar a si mesmo da lei moral que Deus deu por meio de Moisés?
 
@@ -929,7 +940,7 @@ A «Estrela de Davi» (hexagrama) não é encontrada em nenhuma parte das Escrit
 - *Significado:* O ensino confucionista valoriza a ordem familiar e a formação moral; a Bíblia afirma a criação dos filhos segundo Deus e o amor ao próximo.
 
 **Daoísmo (道家) – O Dao como ordem da vida.**  
-- **(João 1:1)** – «No princípio era o Verbo (Logos/Dao), e o Verbo estava com Deus, e o Verbo era Deus.»
+- **(João 1:1)** – «No princípio, aquele que é a Palavra já existia. A Palavra estava com Deus, e a Palavra era Deus.»
 
 - **(João 14:6)** – «Eu sou o caminho, a verdade e a vida.»  
 
@@ -965,7 +976,7 @@ Para um tratamento sistemático mais aprofundado de cada movimento listado abaix
 
 - **(Deuteronômio 18:20–22)** – Se a profecia não se cumprir, o profeta falou com presunção.
 
-- **(Mateus 7:15–20)** – «Acautelai-vos dos falsos profetas… pelos seus frutos os conhecereis.»
+- **(Mateus 7:15–20)** – «“Tomem cuidado com falsos profetas que vêm disfarçados de ovelhas, mas que, na verdade, são lobos esfomeados. Vocês os identificarão por seus frutos. É possível colher uvas de espinheiros ou figos de ervas daninhas? Da mesma forma, a árvore boa produz frutos bons, e a árvore ruim produz frutos ruins. A árvore boa não pode produzir frutos ruins, e a árvore ruim não pode produzir frutos bons. Toda árvore que não produz bons frutos é cortada e lançada ao fogo. Portanto, é possível identificar a pessoa por seus frutos.”»
 
 - **(1 João 4:1–3)** – Provai os espíritos. Verdadeira confissão: Jesus Cristo veio em carne.
 
@@ -1043,7 +1054,7 @@ Para um tratamento sistemático mais aprofundado de cada movimento listado abaix
 
 - (Mateus 6:19–21) – Não acumuleis tesouros na terra.
 
-- (1 Timóteo 6:5–10) – Os que querem enriquecer caem em tentação… porque o amor ao dinheiro é raiz de todos os males.
+- (1 Timóteo 6:5–10) – «Pessoas assim sempre causam problemas. Têm a mente corrompida e deram as costas à verdade. Para elas, a vida de devoção é apenas uma forma de enriquecer. No entanto, a devoção acompanhada de contentamento é, em si mesma, grande riqueza. Afinal, não trouxemos nada conosco quando viemos ao mundo, e nada levaremos quando o deixarmos. Portanto, se temos alimento e roupa, estejamos contentes. Mas aqueles que desejam enriquecer caem em tentações e armadilhas e em muitos desejos tolos e nocivos, que os levam à ruína e destruição. Pois o amor ao dinheiro é a raiz de todo mal. E alguns, por tanto desejarem dinheiro, desviaram-se da fé e afligiram a si mesmos com muitos sofrimentos.»
 
 - (João 16:33) – No mundo tereis aflições.
 
@@ -1169,9 +1180,9 @@ Apega-te à fé que uma vez por todas foi entregue aos santos (Judas 3).
 
 - **(Mateus 10:34)** – «Não penseis que vim trazer paz à terra; não vim trazer paz, mas espada.»  
 
-- **(João 8:39–41)** – «Se fôsseis filhos de Abraão, faríeis as obras de Abraão… agora procurais matar-me.»  
+- **(João 8:39–41)** – «“Nosso pai é Abraão!”, declararam eles. Jesus respondeu: “Se vocês fossem, de fato, filhos de Abraão, seguiriam o exemplo dele. Em vez disso, procuram me matar porque eu lhes disse a verdade que ouvi de Deus. Abraão nunca fez isso. Vocês estão imitando seu verdadeiro pai”. “Não somos filhos ilegítimos!”, retrucaram. “O próprio Deus é nosso verdadeiro Pai!”»
 
-- **(João 8:44)** – «Vós sois do diabo, que é vosso pai… ele é mentiroso e pai da mentira.»  
+- **(João 8:44)** – «Pois são filhos de seu pai, o diabo, e gostam de fazer as coisas perversas que ele deseja. Ele foi assassino desde o princípio. Sempre odiou a verdade, pois não há verdade alguma nele. Quando ele mente, age de acordo com seu caráter, pois é mentiroso e pai da mentira.»
 
 - **(João 8:47)** – «Quem é de Deus ouve as palavras de Deus.»  
 

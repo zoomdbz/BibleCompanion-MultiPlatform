@@ -12,7 +12,7 @@ Este es el bosque más allá de los árboles. El evangelio no trata de obsesiona
 
 La gracia no es una licencia para seguir viviendo como queramos; es el poder que nos libera para vivir de manera diferente. Jesús no condenó a los quebrantados, pero también les dijo que dejaran su vida pasada. **La fe verdadera** no es solo creer que Él existe, sino confiar en Él lo suficiente como para seguirlo, apartándonos del pecado, aprendiendo a caminar en Su camino y dependiendo de Su Espíritu para la fuerza. La gracia perdona nuestro pasado, pero también nos llama a un nuevo futuro.
 
-> **«Porque la gracia de Dios se ha manifestado para salvación a todos los hombres, enseñándonos que, renunciando a la impiedad y a los deseos mundanos, vivamos en este siglo sobria, justa y piadosamente, aguardando la esperanza bienaventurada y la manifestación gloriosa de nuestro gran Dios y Salvador Jesucristo, quien se dio a sí mismo por nosotros para redimirnos de toda iniquidad y purificar para sí un pueblo propio, celoso de buenas obras» (Tito 2:11–14).**
+> **«En verdad, Dios ha manifestado a toda la humanidad su gracia, la cual trae salvación y nos enseña a rechazar la impiedad y las pasiones mundanas. Así podremos vivir en este mundo con dominio propio, justicia y devoción, mientras aguardamos la bendita esperanza, es decir, la gloriosa venida de nuestro gran Dios y Salvador Jesucristo. Él se entregó por nosotros para rescatarnos de toda maldad y purificar para sí un pueblo elegido, dedicado a hacer el bien.» (Tito 2:11–14).**
 
 ### Otras Escrituras de apoyo
 

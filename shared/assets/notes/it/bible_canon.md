@@ -45,7 +45,7 @@ I concili furono convocati per risolvere **identità e dottrina**, non per compi
 
 ## Principali concili e cosa hanno fatto davvero
 
-### Concilio di Nicea (AD 325)
+### Concilio di Nicea (325 d.C.)
 
 **Domanda affrontata:**  
 Gesù è eternamente Dio, o un essere creato?
@@ -72,7 +72,7 @@ Gesù è eternamente Dio, della stessa essenza divina del Padre.
 
 ---
 
-### Concilio di Costantinopoli (AD 381)
+### Concilio di Costantinopoli (381 d.C.)
 
 **Domanda affrontata:**  
 Lo Spirito Santo è pienamente Dio?
@@ -97,13 +97,13 @@ Lo Spirito Santo è pienamente Dio, uguale al Padre e al Figlio.
 
 ## I concili regionali del canone
 
-### Concilio di Ippona (AD 393)
+### Concilio di Ippona (393 d.C.)
 
 - Elencò libri del Nuovo Testamento già in uso
 
 - Non rivendicò nuova autorità
 
-### Concili di Cartagine (AD 397, 419)
+### Concili di Cartagine (397 e 419 d.C.)
 
 - Riaffermarono lo stesso Nuovo Testamento di 27 libri
 
@@ -113,7 +113,7 @@ Questi concili **ratificarono**, non inventarono, il canone.
 
 ---
 
-### Concilio di Efeso (AD 431)
+### Concilio di Efeso (431 d.C.)
 
 **Domanda affrontata:**  
 Gesù è una persona o due persone?
@@ -136,7 +136,7 @@ Gesù è una persona unificata, pienamente Dio e pienamente umano.
 
 ---
 
-### Concilio di Calcedonia (AD 451)
+### Concilio di Calcedonia (451 d.C.)
 
 **Domanda affrontata:**  
 Come coesistono le nature divina e umana di Gesù?
@@ -159,7 +159,7 @@ Gesù esiste in due nature complete, divina e umana, unite in una persona.
 
 ---
 
-### Concilio di Costantinopoli II (AD 553)
+### Concilio di Costantinopoli II (553 d.C.)
 
 **Domanda affrontata:**  
 Calcedonia ha permesso accidentalmente una visione divisa di Cristo?
@@ -178,7 +178,7 @@ L’unità di Cristo fu riaffermata senza indebolire nessuna delle due nature.
 
 ---
 
-### Concilio di Costantinopoli III (AD 680–681)
+### Concilio di Costantinopoli III (680–681 d.C.)
 
 **Domanda affrontata:**  
 Gesù ha una volontà o due?
@@ -205,10 +205,10 @@ Gesù è pienamente Dio
 Costantinopoli (381)  
 Lo Spirito Santo è pienamente Dio
 
-Concilio di Ippona (AD 393)
+Concilio di Ippona (393 d.C.)
 Elencò libri del Nuovo Testamento già in uso
 
-Concili di Cartagine (AD 397, 419)
+Concili di Cartagine (397 e 419 d.C.)
 Riaffermarono lo stesso Nuovo Testamento di 27 libri
 
 Efeso (431)  
@@ -362,7 +362,7 @@ Le istituzioni amano il semplice.
 Enoch non è semplice.
 
 **Ma perché è importante:**
-La lettera dell’Epistola di Giuda cita direttamente Enoch come profezia.
+L’Epistola di Giuda cita direttamente Enoch come profezia.
 
 Non «come un’illustrazione.»
 Non «come una storia.»

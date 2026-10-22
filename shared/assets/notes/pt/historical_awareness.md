@@ -6,7 +6,8 @@ Um guia para entender como a Bíblia que temos hoje foi moldada por tradução, 
 
 ## 1. Como recebemos a Bíblia
 
-**(Lucas 1:1–4)**: «Muitos empreenderam compor uma narrativa… eu mesmo investiguei tudo cuidadosamente… para que saibas a certeza das coisas que te foram ensinadas.»  
+**(Lucas 1:1–4)**: «Muitos se propuseram a escrever uma narração dos acontecimentos que se cumpriram entre nós. Usaram os relatos que nos foram transmitidos por aqueles que, desde o princípio, foram testemunhas oculares e servos da palavra. Depois de investigar tudo detalhadamente desde o início, também decidi escrever-lhe um relato preciso, excelentíssimo Teófilo, para que tenha plena certeza de tudo que lhe foi ensinado.»
+
 ➡ Lucas mostra que os primeiros cristãos documentaram cuidadosamente os acontecimentos.
 
 **(2 Timóteo 3:16)**: «Toda a Escritura é inspirada por Deus e útil para ensinar, repreender, corrigir e instruir em justiça.»  
@@ -47,7 +48,8 @@ Um guia para entender como a Bíblia que temos hoje foi moldada por tradução, 
 
 ## 3. Igreja e política
 
-**(Mateus 23:27–28)**: «Ai de vós, escribas e fariseus… sois como sepulcros caiados.»  
+**(Mateus 23:27–28)**: «Que aflição os espera, mestres da lei e fariseus! Hipócritas! São como túmulos pintados de branco: bonitos por fora, mas cheios de ossos e de toda espécie de impureza por dentro. Por fora parecem justos, mas por dentro seu coração está cheio de hipocrisia e maldade.»
+
 ➡ Jesus condenou líderes religiosos que pareciam santos por fora mas eram corruptos por dentro.
 
 **(Atos 5:29)**: «Antes importa obedecer a Deus do que aos homens.»  
@@ -84,7 +86,7 @@ Um guia para entender como a Bíblia que temos hoje foi moldada por tradução, 
 
 ## 5. Textos perdidos e suprimidos
 
-- **(Judas 1:14–15)**: «Enoque, o sétimo depois de Adão, profetizou...»
+- **(Judas 1:14–15)**: «Enoque, que viveu na sétima geração depois de Adão, profetizou a respeito desses homens, dizendo: “Ouçam! O Senhor vem com incontáveis milhares de santos para julgar a todos. Convencerá os pecadores de seus atos perversos e dos insultos que pronunciaram contra ele”.»
 
 - ➡ Judas cita diretamente o Livro de Enoque.
 
@@ -165,7 +167,7 @@ Enoque não é marginal; é central. **1 Enoque** esclarece o Gênesis, aprofund
 
 ## 6. Festas Tomadas Emprestadas (Sincretismo)
 
-**(Jeremias 10:2–4)**: «Não aprendais o caminho das nações... Pois um corta do bosque um madeiro, obra das mãos do artífice com machado. Com prata e com ouro o enfeitam; com pregos e com martelo o fixam, para que não oscile.»
+**(Jeremias 10:2–4)**: «Assim diz o Senhor: “Não se comportem como as outras nações, que tentam ler seu futuro nas estrelas. Não tenham medo de suas previsões, ainda que elas encham outras nações de terror. Os costumes dessas nações são inúteis: cortam uma árvore, e dela o artesão esculpe um ídolo. Enfeitam-no com ouro e prata e fixam-no com martelo e pregos, para que não tombe.»
 
 ➡ Um aviso contra a adoção de costumes pagãos.
 
@@ -378,7 +380,8 @@ Os crentes que desejam alinhar-se biblicamente devem honrar os tempos designados
 
 ## 8. Ecos modernos
 
-**(2 Timóteo 4:3–4)**: «Não suportarão a sã doutrina. Em vez disso… se cercarão de mestres para dizer o que seus ouvidos desejam ouvir.»  
+**(2 Timóteo 4:3–4)**: «Pois virá o tempo em que as pessoas já não escutarão o ensino verdadeiro. Seguirão os próprios desejos e buscarão mestres que lhes digam apenas aquilo que agrada seus ouvidos. Rejeitarão a verdade e correrão atrás de mitos.»
+
 ➡ A Escritura adverte contra a distorção por conforto e poder.
 
 **História:** Os debates modernos sobre traduções, linguagem inclusiva e sexualidade refletem antigas lutas por controle. O evangelho da prosperidade ensina que a riqueza é vontade de Deus, semelhante à época medieval em que a igreja vendia indulgências (basicamente «ingressos para o céu» em troca de dinheiro). Hoje o cristianismo está dividido em dezenas de milhares de denominações, muitas mais moldadas por cultura, tradição ou política do que pelas palavras do próprio Jesus. Em todo o mundo a perseguição volta a crescer, e a verdade bíblica é ignorada ou moldada aos desejos da sociedade.

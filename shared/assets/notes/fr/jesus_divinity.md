@@ -279,13 +279,13 @@ Exemples incluent :
 
 **Pour illustrer ces probabilités :**
 
-- Gagner une loterie nationale une fois correspond à environ 1 sur 300 millions. Que Jésus accomplisse 8 prophéties équivaut à gagner cette loterie **plus d’un demi-million de fois d’affilée**.
+- Gagner une loterie nationale une fois correspond à environ 1 sur 300 millions. Que Jésus accomplisse 8 prophéties équivaut à gagner cette loterie **deux fois d’affilée**.
 
 - La probabilité d’être frappé par la foudre au cours de sa vie est d’environ 1 sur 15 000. Les probabilités d’accomplissement prophétique sont des billions de fois plus rares.
 
 - Peter Stoner l’a illustré ainsi : recouvrez tout l’État du Texas de pièces d’argent sur une profondeur de soixante centimètres, marquez une pièce, bandez les yeux d’un homme et laissez-le marcher. La probabilité qu’il choisisse la pièce marquée du premier coup est égale à celle d’accomplir seulement 8 prophéties.
 
-- En allant plus loin, accomplir 48 prophéties serait comme compter **tous les grains de sable de toutes les plages de la terre**, en marquer un seul, puis le trouver les yeux bandés au premier essai.
+- Pour 48 prophéties, l'estimation de Stoner, **1 sur 10^157**, est bien inférieure à la probabilité de tirer un grain marqué parmi tout le sable de la Terre. Même cette immense quantité est loin de suffire à représenter les chances annoncées.
 
 - Accomplir plus de 300 prophéties ? Les probabilités grandissent de façon exponentielle au point que le langage humain et les mathématiques ne parviennent même pas à exprimer l’impossibilité, sinon par un dessein divin.
 

@@ -91,7 +91,7 @@ Los magos vieron «su estrella» (Mateo 2:2). Se han propuesto varios eventos as
 
 - **Triple conjunción Júpiter-Régulo** (3–2 a.C.): Júpiter (el «planeta rey») pasó junto a la estrella Régulo (del latín «pequeño rey») en la constelación de Leo (el león = Judá) tres veces debido al movimiento retrógrado
 - **Conjunción Júpiter-Venus** (17 de junio, 2 a.C.): Los dos planetas más brillantes se fusionaron en una sola «estrella» brillante visible desde Babilonia, en dirección a Judea
-- **«Detención» retrógrada de Júpiter** (25 de diciembre, 2 a.C.): Visto desde Jerusalén, Júpiter pareció detenerse en el cielo directamente sobre Belén hacia el sur, coincidiendo con Mateo 2:9: «la estrella... iba delante de ellos... y se detuvo sobre el lugar donde estaba el niño»
+- **«Detención» retrógrada de Júpiter** (25 de diciembre, 2 a.C.): Visto desde Jerusalén, Júpiter pareció detenerse en el cielo directamente sobre Belén hacia el sur, coincidiendo con Mateo 2:9: «Después de oír al rey, siguieron su camino. Sucedió que la estrella que habían visto levantarse iba delante de ellos hasta que se detuvo sobre el lugar donde estaba el niño.»
 
 Esto no es especulativo; está verificado por software astronómico moderno (por ejemplo, Stellarium). Ya sea que uno o una combinación de estos eventos fuera «la estrella,» la alineación con la profecía de Números 24:17 («saldrá una estrella de Jacob») es sorprendente.
 
@@ -180,7 +180,7 @@ Las lunas de sangre consecutivas en la misma festividad en años consecutivos no
 
 **Tormentas Solares Antes de la Luna de Sangre de Purim de 2026**
 
-El **1–5 de febrero de 2026**, la región activa AR4366, un grupo de manchas solares 14 veces más ancho que la Tierra, estalló con seis erupciones solares de clase X en cuatro días, incluyendo dos eventos de clase X8.1 entre los más fuertes del Ciclo Solar 25. Una eyección de masa coronal golpeó la Tierra el 5 de febrero, desencadenando tormentas geomagnéticas y auroras generalizadas. Esto ocurrió aproximadamente 25 días antes de la luna de sangre de Purim del 3 de marzo.
+El **1–5 de febrero de 2026**, la región activa AR4366, un grupo de manchas solares 14 veces más ancho que la Tierra, estalló con seis erupciones solares de clase X en cuatro días, incluida una erupción de clase X8.1, una de las más intensas del Ciclo Solar 25, y otra de clase X4.2. Una eyección de masa coronal golpeó la Tierra el 5 de febrero, desencadenando tormentas geomagnéticas y auroras generalizadas. Esto ocurrió aproximadamente 25 días antes de la luna de sangre de Purim del 3 de marzo.
 
 ### Nota
 

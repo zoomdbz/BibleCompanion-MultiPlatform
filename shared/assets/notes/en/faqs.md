@@ -14,7 +14,7 @@ The idea is not punishment; it's about infinite energy meeting finite being. Dir
 
 - **Exodus 19:16–18**: When God descended on Mount Sinai, "the mountain trembled violently," and the people stood afar off, unable to bear His presence.
 
-- **Isaiah 6:5**: When Isaiah saw the Lord's glory, he cried, "Woe is me! I am undone… for my eyes have seen the King, the LORD of hosts!"
+- **Isaiah 6:5**: When Isaiah saw the Lord's glory, he cried, «Then I said: “Woe is me, for I am ruined, because I am a man of unclean lips dwelling among a people of unclean lips; for my eyes have seen the King, the LORD of Hosts.”»
 
 - **Ezekiel 1:28**: Ezekiel falls on his face when he beholds "the appearance of the likeness of the glory of the LORD."  
   These verses show that divine presence overwhelms mortal senses; not from wrath, but from sheer intensity.
@@ -90,7 +90,7 @@ Through suffering, God demonstrates that He is not distant from pain; He bears i
 - **James 1:2–4**: "Count it all joy, my brothers, when you meet trials of various kinds, for you know that the testing of your faith produces steadfastness."  
   Pain is not meaningless; it produces maturity of soul.
 
-- **1 Peter 4:12–13**: "Do not be surprised at the fiery trial when it comes upon you to test you… but rejoice insofar as you share Christ's sufferings."  
+- **1 Peter 4:12–13**: "Beloved, do not be surprised at the fiery trial that has come upon you, as though something strange were happening to you. But rejoice that you share in the sufferings of Christ, so that you may be overjoyed at the revelation of His glory."\
   Suffering aligns believers with the heart of Christ, refining compassion and faith.
 
 - **2 Corinthians 4:17–18**: "This light momentary affliction is preparing for us an eternal weight of glory beyond all comparison."  
@@ -166,7 +166,7 @@ Scripture gives several truths that shape how we understand answers that are del
 
 **1) Alignment with God's will**
 
-- **1 John 5:14–15**: "If we ask anything according to His will, He hears us… we know that we have the requests that we have asked of Him."
+- **1 John 5:14–15**: "And this is the confidence that we have before Him: If we ask anything according to His will, He hears us. And if we know that He hears us in whatever we ask, we know that we already possess what we have asked of Him."
 
 - **Luke 22:42**: Even Jesus prayed, "Not My will, but Yours be done." Prayer is not about control; it is communion.
 
@@ -200,7 +200,7 @@ Paul did not receive the removal he asked for, but Christ did not leave him with
 
 **5) The Spirit's help in prayer**
 
-- **Romans 8:26–28**: "The Spirit helps us in our weakness… the Spirit Himself intercedes for us with groanings too deep for words… for those who love God all things work together for good."
+- **Romans 8:26–28**: "In the same way, the Spirit helps us in our weakness. For we do not know how we ought to pray, but the Spirit Himself intercedes for us with groans too deep for words. And He who searches our hearts knows the mind of the Spirit, because the Spirit intercedes for the saints according to the will of God. And we know that God works all things together for the good of those who love Him, who are called according to His purpose."
 
 - **James 5:16**: "The prayer of a righteous person has great power as it is working."
 
@@ -230,7 +230,7 @@ Human death entered through sin (**Romans 5:12**), and all creation groans under
 - **2 Samuel 12:22–23**: After the death of his infant son, David says, "I shall go to him, but he will not return to me."  
   David's confidence shows belief that the child is with God and that reunion awaits beyond death.
 
-- **Isaiah 57:1–2**: "The righteous man perishes, and no one lays it to heart… he enters into peace; they rest in their beds who walk in their uprightness."  
+- **Isaiah 57:1–2**: "The righteous perish, and no one takes it to heart; devout men are taken away, while no one considers that the righteous are taken away from the presence of evil. Those who walk uprightly enter into peace; they find rest, lying down in death."\
   Early death can be mercy that removes the innocent from coming evil.
 
 - **Matthew 19:14**: Jesus said, "Let the little children come to Me, and do not hinder them, for to such belongs the kingdom of heaven."  
@@ -308,7 +308,7 @@ Scripture frames those commands as **limited acts of judgment**, **protection ag
 
 - **Matthew 5:9; 5:38–44**: Jesus blesses peacemakers; He teaches love of enemies and rejects retaliatory violence at the personal level.
 
-- **Romans 12:19**: "Never avenge yourselves… 'Vengeance is Mine, I will repay,' says the Lord."  
+- **Romans 12:19**: «Do not avenge yourselves, beloved, but leave room for God’s wrath. For it is written: “Vengeance is Mine; I will repay, says the Lord.”»\
   Judgment belongs to God, not to personal hands.
 
 **Summary from Scripture:** Old Testament warfare commands are presented as time-bound judgments on entrenched evil, enacted under strict limits, with mercy available to any who turn. God judges Israel by the same standard, and the prophetic and New Testament witness points toward the end of war under God's rule and the call to peacemaking.
@@ -339,10 +339,10 @@ Those who accept this gift are forgiven and restored to life. Those who refuse i
 - **Romans 2:5–8**: Those who persist in hardness of heart "store up wrath for the day of wrath," while those who seek good receive eternal life.  
   Judgment follows willful persistence in evil.
 
-- **Matthew 25:41-46**: Jesus speaks of the final separation: "Depart from Me, you cursed, into the eternal fire prepared for the devil and his angels… and these will go away into eternal punishment, but the righteous into eternal life."  
+- **Matthew 25:41-46**: Jesus speaks of the final separation: «Then He will say to those on His left, ‘Depart from Me, you who are cursed, into the eternal fire prepared for the devil and his angels. For I was hungry and you gave Me nothing to eat, I was thirsty and you gave Me nothing to drink, I was a stranger and you did not take Me in, I was naked and you did not clothe Me, I was sick and in prison and you did not look after Me.’ And they too will reply, ‘Lord, when did we see You hungry or thirsty or a stranger or naked or sick or in prison, and did not minister to You?’ Then the King will answer, ‘Truly I tell you, whatever you did not do for one of the least of these, you did not do for Me.’ And they will go away into eternal punishment, but the righteous into eternal life.”»\
   The sentence is linked to rejection of mercy, not lack of opportunity.
 
-- **John 3:18–19**: "Whoever believes in Him is not condemned, but whoever does not believe is condemned already, because he has not believed in the name of the only Son of God… and people loved the darkness rather than the light."  
+- **John 3:18–19**: "Whoever believes in Him is not condemned, but whoever does not believe has already been condemned, because he has not believed in the name of God’s one and only Son. And this is the verdict: The Light has come into the world, but men loved the darkness rather than the Light because their deeds were evil."\
   Condemnation arises from preferring darkness to light.
 
 - **Romans 1:24–26**: "God gave them up" to their desires.  
@@ -388,7 +388,7 @@ Every act of faith is a response to what God has already revealed: through creat
 
 **Scripture support:**
 
-- **Romans 1:19–20**: "What can be known about God is plain to them, because God has shown it to them. For His invisible attributes, namely His eternal power and divine nature, have been clearly perceived… so they are without excuse."  
+- **Romans 1:19–20**: "For what may be known about God is plain to them, because God has made it plain to them. For since the creation of the world God’s invisible qualities, His eternal power and divine nature, have been clearly seen, being understood from His workmanship, so that men are without excuse."\
   Creation reveals God's reality; faith responds to that revelation.
 
 - **John 20:29**: Jesus said, "Blessed are those who have not seen and yet have believed."  
@@ -400,7 +400,7 @@ Every act of faith is a response to what God has already revealed: through creat
 - **Hebrews 11:6**: "Without faith it is impossible to please God, for whoever would draw near to God must believe that He exists and that He rewards those who seek Him."  
   Relationship depends on willing trust, not forced proof.
 
-- **Ephesians 2:8–9**: "By grace you have been saved through faith… it is the gift of God, not a result of works."  
+- **Ephesians 2:8–9**: "For it is by grace you have been saved through faith, and this not from yourselves; it is the gift of God, not by works, so that no one can boast."\
   Faith is the channel through which grace is received.
 
 **Why not certainty?**
@@ -430,10 +430,10 @@ That freedom makes love possible, but it also allows rebellion. God foreknew the
 
 **Scripture support:**
 
-- **Ezekiel 28:12–17**: Describing the king of Tyre in language that parallels the fall of a celestial being: "You were the signet of perfection, full of wisdom and perfect in beauty… You were blameless in your ways from the day you were created, till unrighteousness was found in you."  
+- **Ezekiel 28:12–17**: Describing the king of Tyre in language that parallels the fall of a celestial being: «“Son of man, take up a lament for the king of Tyre and tell him that this is what the Lord GOD says: ‘You were the seal of perfection, full of wisdom and perfect in beauty. You were in Eden, the garden of God. Every kind of precious stone adorned you: ruby, topaz, and diamond, beryl, onyx, and jasper, sapphire, turquoise, and emerald. Your mountings and settings were crafted in gold, prepared on the day of your creation. You were anointed as a guardian cherub, for I had ordained you. You were on the holy mountain of God; you walked among the fiery stones. From the day you were created you were blameless in your ways— until wickedness was found in you. By the vastness of your trade, you were filled with violence, and you sinned. So I drove you in disgrace from the mountain of God, and I banished you, O guardian cherub, from among the fiery stones. Your heart grew proud of your beauty; you corrupted your wisdom because of your splendor; so I cast you to the earth; I made you a spectacle before kings.»\
   Pride corrupted what was once perfect.
 
-- **Isaiah 14:12–15**: "How you are fallen from heaven, O Day Star, son of Dawn! … You said in your heart, 'I will ascend to heaven; I will raise my throne above the stars of God.'"  
+- **Isaiah 14:12–15**: «How you have fallen from heaven, O day star, son of the dawn! You have been cut down to the ground, O destroyer of nations. You said in your heart: “I will ascend to the heavens; I will raise my throne above the stars of God. I will sit on the mount of assembly, in the far reaches of the north. I will ascend above the tops of the clouds; I will make myself like the Most High.” But you will be brought down to Sheol, to the lowest depths of the Pit.»\
   The rebellion begins with self-exaltation and refusal of submission.
 
 - **1 Timothy 3:6**: Pride is called "the condemnation of the devil."  
@@ -455,7 +455,7 @@ God permits rebellion to demonstrate the real nature of goodness, to expose evil
 
 - **Job 1:6–12**: Even in testing, Satan remains subject to divine limits; his rebellion is permitted but not uncontrolled.
 
-- **Revelation 12:7–9**: "There was war in heaven… the great dragon was thrown down… who deceives the whole world."  
+- **Revelation 12:7–9**: "Then a war broke out in heaven: Michael and his angels fought against the dragon, and the dragon and his angels fought back. But the dragon was not strong enough, and no longer was any place found in heaven for him and his angels. And the great dragon was hurled down — that ancient serpent called the devil and Satan, the deceiver of the whole world. He was hurled to the earth, and his angels with him."\
   Evil is defeated, not co-equal with God.
 
 **The outcome:**
@@ -484,11 +484,11 @@ These influences masquerade as gods, demanding sacrifices, twisting morality, an
 
 **Scripture support:**
 
-- **Romans 1:19–23**: "What can be known about God is plain to them, because God has shown it to them… His invisible attributes, His eternal power and divine nature, have been clearly perceived… so they are without excuse."  
+- **Romans 1:19–23**: "For what may be known about God is plain to them, because God has made it plain to them. For since the creation of the world God’s invisible qualities, His eternal power and divine nature, have been clearly seen, being understood from His workmanship, so that men are without excuse. For although they knew God, they neither glorified Him as God nor gave thanks to Him, but they became futile in their thinking and darkened in their foolish hearts. Although they claimed to be wise, they became fools, and exchanged the glory of the immortal God for images of mortal man and birds and animals and reptiles."\
   Humanity knew God but "exchanged the glory of the immortal God for images resembling mortal man and birds and animals and creeping things."  
   Religion often begins as recognition of the divine, then drifts into idolatry.
 
-- **Deuteronomy 32:16–17**: "They stirred Him to jealousy with strange gods… They sacrificed to demons, not to God."  
+- **Deuteronomy 32:16–17**: "They provoked His jealousy with foreign gods; they enraged Him with abominations. They sacrificed to demons, not to God, to gods they had not known, to newly arrived gods, which your fathers did not fear."\
   Scripture explicitly identifies many pagan deities as demonic powers behind false worship.
 
 - **Psalm 106:37–38**: "They sacrificed their sons and their daughters to demons; they poured out innocent blood."  
@@ -503,7 +503,7 @@ These influences masquerade as gods, demanding sacrifices, twisting morality, an
 - **Ephesians 6:12**: "We do not wrestle against flesh and blood, but against the rulers, against the authorities, against the cosmic powers over this present darkness, against the spiritual forces of evil in the heavenly places."  
   Religious deception is part of a broader spiritual conflict.
 
-- **Acts 17:26–27**: "He made from one man every nation of mankind… that they should seek God, and perhaps feel their way toward Him and find Him; yet He is actually not far from each one of us."  
+- **Acts 17:26–27**: "From one man He made every nation of men, that they should inhabit the whole earth; and He determined their appointed times and the boundaries of their lands. God intended that they would seek Him and perhaps reach out for Him and find Him, though He is not far from each one of us."\
   Every culture contains echoes of truth that point back to the Creator.
 
 - **John 1:9**: Jesus is called "the true Light which gives light to everyone coming into the world."  
@@ -512,7 +512,7 @@ These influences masquerade as gods, demanding sacrifices, twisting morality, an
 - **John 14:6**: "I am the way, and the truth, and the life; no one comes to the Father except through Me."  
   The truth is singular, but God's mercy reaches universally.
 
-- **1 Timothy 2:3–4**: "God our Savior… desires all people to be saved and to come to the knowledge of the truth."  
+- **1 Timothy 2:3–4**: "This is good and pleasing in the sight of God our Savior, who wants everyone to be saved and to come to the knowledge of the truth."\
   The diversity of human belief reveals both humanity's longing for God and His patience toward our confusion.
 
 - **Romans 10:12–13**: "For there is no distinction between Jew and Greek; the same Lord is Lord of all, bestowing His riches on all who call on Him."  
@@ -539,13 +539,13 @@ Those who receive it are covered by His righteousness; those who refuse it remai
 
 **Scripture support:**
 
-- **Romans 3:23–26**: "All have sinned and fall short of the glory of God… and are justified by His grace as a gift, through the redemption that is in Christ Jesus… that He might be just and the justifier of the one who has faith in Jesus."  
+- **Romans 3:23–26**: "for all have sinned and fall short of the glory of God, and are justified freely by His grace through the redemption that is in Christ Jesus. God presented Him as an atoning sacrifice in His blood through faith, in order to demonstrate His righteousness, because in His forbearance He had passed over the sins committed beforehand. He did this to demonstrate His righteousness at the present time, so as to be just and to justify the one who has faith in Jesus."\
   God's forgiveness is grounded in His justice, not apart from it.
 
 - **Hebrews 9:22**: "Without the shedding of blood there is no forgiveness of sins."  
   A life must atone for life; this is fulfilled in Christ's sacrifice.
 
-- **Isaiah 53:5–6**: "He was pierced for our transgressions… the Lord has laid on Him the iniquity of us all."  
+- **Isaiah 53:5–6**: "But He was pierced for our transgressions, He was crushed for our iniquities; the punishment that brought us peace was upon Him, and by His stripes we are healed. We all like sheep have gone astray, each one has turned to his own way; and the LORD has laid upon Him the iniquity of us all."\
   The suffering servant bears the penalty humanity deserved.
 
 - **1 Peter 2:24**: "He Himself bore our sins in His body on the tree, that we might die to sin and live to righteousness."  
@@ -554,7 +554,7 @@ Those who receive it are covered by His righteousness; those who refuse it remai
 - **Ephesians 2:8–9**: "By grace you have been saved through faith; and this is not your own doing, it is the gift of God, not a result of works, so that no one may boast."  
   Grace is a gift, but it must be received.
 
-- **John 3:16–18**: "For God so loved the world, that He gave His only Son, that whoever believes in Him should not perish but have eternal life… whoever does not believe is condemned already."  
+- **John 3:16–18**: "For God so loved the world that He gave His one and only Son, that everyone who believes in Him shall not perish but have eternal life. For God did not send His Son into the world to condemn the world, but to save the world through Him. Whoever believes in Him is not condemned, but whoever does not believe has already been condemned, because he has not believed in the name of God’s one and only Son."\
   Rejection of grace leaves the debt unpaid.
 
 - **2 Corinthians 5:21**: "For our sake He made Him to be sin who knew no sin, so that in Him we might become the righteousness of God."  

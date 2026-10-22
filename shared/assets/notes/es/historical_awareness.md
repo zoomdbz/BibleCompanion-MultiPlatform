@@ -6,7 +6,8 @@ Una guía para entender cómo la Biblia que tenemos hoy fue formada por traducci
 
 ## 1. Cómo obtuvimos la Biblia
 
-**(Lucas 1:1–4)**: «Muchos han emprendido la tarea de elaborar un relato… yo mismo he investigado todo cuidadosamente… para que conozcas la certeza de las enseñanzas que has recibido.»  
+**(Lucas 1:1–4)**: «Muchos han intentado hacer un relato de las cosas que se han cumplido entre nosotros, tal y como nos las transmitieron los que desde el principio fueron testigos presenciales y servidores de la palabra. Por lo tanto, yo también, excelentísimo Teófilo, habiendo investigado todo esto con esmero desde su origen, he decidido escribírtelo ordenadamente, para que llegues a tener plena seguridad de lo que te enseñaron.»
+
 ➡ Lucas muestra que los primeros cristianos documentaron cuidadosamente lo que sucedió.
 
 **(2 Timoteo 3:16)**: «Toda la Escritura es inspirada por Dios y útil para enseñar, para reprender, para corregir y para instruir en la justicia.»  
@@ -46,7 +47,8 @@ Una guía para entender cómo la Biblia que tenemos hoy fue formada por traducci
 
 ## 3. Iglesia y política
 
-**(Mateo 23:27–28)**: «¡Ay de ustedes, maestros de la ley… son como sepulcros blanqueados!»  
+**(Mateo 23:27–28)**: «¡Ay de ustedes, maestros de la Ley y fariseos, hipócritas! Son como sepulcros blanqueados. Por fuera lucen hermosos, pero por dentro están llenos de huesos de muertos y de impurezas. Así también ustedes, por fuera dan la impresión de ser justos, pero por dentro están llenos de hipocresía y de maldad.»
+
 ➡ Jesús condenó a los líderes religiosos que parecían santos por fuera pero eran corruptos por dentro.
 
 **(Hechos 5:29)**: «Es necesario obedecer a Dios antes que a los hombres.»  
@@ -82,7 +84,8 @@ Una guía para entender cómo la Biblia que tenemos hoy fue formada por traducci
 
 ## 5. Textos perdidos y suprimidos
 
-**(Judas 1:14–15)**: «También profetizó acerca de ellos Enoc, el séptimo desde Adán...»  
+**(Judas 1:14–15)**: «También Enoc, el séptimo patriarca a partir de Adán, profetizó acerca de ellos: «Miren, el Señor viene con millares y millares de sus santos, para someter a juicio a todos y para reprender a cada uno de los pecadores impíos por todas las malas obras que han cometido, así como por las injurias que han proferido contra él».»
+
 ➡ Judas cita directamente el Libro de Enoc.
 
 **(Colosenses 4:16)**: «Lean también esta carta en la iglesia de Laodicea, y lean ustedes la carta que viene de Laodicea.»  
@@ -161,7 +164,7 @@ Enoc no es marginal; es central. **1 Enoc** aclara Génesis, profundiza en Apoca
 
 ## 6. Fiestas Tomadas (Sincretismo)
 
-**(Jeremías 10:2–4)**: «No aprendáis el camino de las naciones... Cortan un árbol del bosque, obra de manos de artífice con azuela. Lo adornan con plata y oro; lo afirman con clavos y martillo para que no se mueva.»
+**(Jeremías 10:2–4)**: «Así dice el [DN]Señor[/DN]: «No aprendan ustedes la conducta de las naciones ni se asusten ante las señales del cielo, aunque las naciones les tengan miedo. Las costumbres de los pueblos no tienen valor alguno. Cortan un tronco en el bosque y un artífice lo labra con un cincel. Lo adornan con plata y oro y lo afirman con clavos y martillo para que no se tambalee.»
 
 ➡ Una advertencia contra la adopción de costumbres paganas.
 
@@ -373,7 +376,8 @@ Los creyentes que buscan alinearse con la Biblia deben honrar los tiempos señal
 
 ## 8. Ecos modernos
 
-**(2 Timoteo 4:3–4)**: «No soportarán la sana doctrina. En cambio… se rodearán de maestros que les digan lo que sus oídos ansían escuchar.»  
+**(2 Timoteo 4:3–4)**: «Porque llegará el tiempo en que no van a tolerar la sana doctrina, sino que, llevados de sus propios deseos, se rodearán de maestros que les digan las fantasías que quieren oír. Dejarán de escuchar la verdad y se volverán a los mitos.»
+
 ➡ La Escritura advierte sobre la distorsión por comodidad y poder.
 
 **Historia:** Los debates actuales sobre traducciones, lenguaje inclusivo y sexualidad reflejan antiguas luchas por el control. El evangelio de la prosperidad enseña que la riqueza es la voluntad de Dios, parecido a cuando la iglesia medieval vendía indulgencias (básicamente «boletos al cielo» por dinero). El cristianismo hoy está dividido en decenas de miles de denominaciones, muchas más moldeadas por la cultura, la tradición o la política que por las palabras de Jesús mismo. En todo el mundo, la persecución vuelve a crecer, y la verdad bíblica es ignorada o adaptada a los deseos de la sociedad.

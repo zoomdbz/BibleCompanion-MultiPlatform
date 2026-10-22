@@ -15,7 +15,7 @@ A ideia não é punição; trata-se de energia infinita encontrando um ser finit
 
 - **Êxodo 19:16–18**: Quando Deus desceu sobre o Sinai, «todo o monte tremia grandemente»; o povo ficou de longe, incapaz de suportar Sua presença.
 
-- **Isaías 6:5**: Ao ver a glória do Senhor, Isaías clamou: «Ai de mim! Estou perdido… pois os meus olhos viram o Rei, o SENHOR dos Exércitos!»
+- **Isaías 6:5**: Ao ver a glória do Senhor, Isaías clamou: “Então eu disse: “Estou perdido! É o meu fim, pois sou um homem de lábios impuros e vivo no meio de pessoas de lábios impuros. Meus olhos, porém, viram o Rei, o Senhor dos Exércitos!”.”
 
 - **Ezequiel 1:28**: Ao contemplar «a aparência da semelhança da glória do SENHOR», Ezequiel prostrou-se com o rosto em terra.  
   Esses textos mostram que a presença divina sobrepuja os sentidos mortais; não por ira, mas por pura intensidade.
@@ -91,7 +91,7 @@ Nele, Deus mostra que não está distante da dor; Ele a carrega conosco e a tran
 - **Tiago 1:2–4**: «Tende por motivo de grande gozo o passardes por várias provações; sabendo que a prova da vossa fé produz perseverança.»  
   A dor não é sem sentido; produz maturidade da alma.
 
-- **1 Pedro 4:12–13**: «Não estranheis o fogo ardente… antes alegrai-vos por serdes participantes das aflições de Cristo.»  
+- **1 Pedro 4:12–13**: «Amados, não se surpreendam com as provações de fogo ardente pelas quais estão passando, como se algo estranho lhes estivesse acontecendo. Pelo contrário, alegrem-se muito, pois essas provações os tornam participantes dos sofrimentos de Cristo, a fim de que tenham a maravilhosa alegria de ver sua glória quando ela for revelada.»\
   O sofrimento alinha os crentes ao coração de Cristo, refinando compaixão e fé.
 
 - **2 Coríntios 4:17–18**: «Porque a nossa leve e momentânea tribulação produz para nós um peso eterno de glória mui excelente.»  
@@ -166,7 +166,7 @@ A Escritura apresenta várias verdades que moldam nossa compreensão de resposta
 
 **1) Alinhamento com a vontade de Deus**
 
-- **1 João 5:14–15**: «Se pedirmos alguma coisa segundo a Sua vontade, Ele nos ouve… sabemos que alcançamos os pedidos que Lhe fizemos.»
+- **1 João 5:14–15**: «Estamos certos de que ele nos ouve sempre que lhe pedimos algo conforme sua vontade. E, uma vez que sabemos que ele ouve nossos pedidos, também sabemos que ele nos dará o que pedimos.»
 
 - **Lucas 22:42**: Até Jesus orou: «Não se faça a Minha vontade, mas a Tua.» A oração não trata de controle; trata de comunhão.
 
@@ -200,7 +200,7 @@ Paulo não recebeu a remoção que pediu, mas Cristo não o deixou sem ajuda. Um
 
 **5) Ajuda do Espírito na oração**
 
-- **Romanos 8:26–28**: «O Espírito nos assiste em nossas fraquezas… o próprio Espírito intercede por nós com gemidos profundos demais para serem expressos em palavras… e todas as coisas cooperam para o bem dos que amam a Deus.»
+- **Romanos 8:26–28**: «E o Espírito nos ajuda em nossa fraqueza, pois não sabemos orar segundo a vontade de Deus, mas o próprio Espírito intercede por nós com gemidos que não podem ser expressos em palavras. E o Pai, que conhece cada coração, sabe quais são as intenções do Espírito, pois o Espírito intercede por nós, o povo santo, segundo a vontade de Deus. E sabemos que Deus faz todas as coisas cooperarem para o bem daqueles que o amam e que são chamados de acordo com seu propósito.»
 
 - **Tiago 5:16**: «A oração de um justo é poderosa e eficaz.»
 
@@ -230,7 +230,7 @@ A morte entrou por meio do pecado (**Romanos 5:12**), e toda a criação geme so
 - **2 Samuel 12:22–23**: Após a morte de seu filho ainda bebê, Davi diz: «Eu irei a ele, porém ele não voltará para mim.»  
   A confiança de Davi indica a crença de que a criança está com Deus e que a reunião aguarda além da morte.
 
-- **Isaías 57:1–2**: «Perece o justo, e ninguém se importa… entra em paz; descansam nos seus leitos os que andam na retidão.»  
+- **Isaías 57:1–2**: «O justo perece, e o fiel muitas vezes morre cedo, mas ninguém parece se importar nem se perguntar por quê. Ninguém parece entender que Deus os poupa do mal que virá. Pois quem anda por caminhos íntegros descansará em paz quando morrer.»\
   A morte precoce pode ser misericórdia que poupa do mal que viria.
 
 - **Mateus 19:14**: Jesus disse: «Deixai vir a Mim os pequeninos e não os impeçais, porque dos tais é o reino dos céus.»  
@@ -308,7 +308,7 @@ A Escritura apresenta tais comandos como **atos limitados de juízo**, **proteç
 
 - **Mateus 5:9; 5:38–44**: Jesus chama bem-aventurados os pacificadores; ensina amar os inimigos e rejeita a retaliação pessoal.
 
-- **Romanos 12:19**: «Não vos vingueis a vós mesmos… a mim pertence a vingança, Eu retribuirei, diz o Senhor.»  
+- **Romanos 12:19**: “Amados, nunca se vinguem; deixem que a ira de Deus se encarregue disso, pois assim dizem as Escrituras: “A vingança cabe a mim, eu lhes darei o troco, diz o Senhor”.”\
   O juízo pertence a Deus; não às mãos privadas.
 
 **Resumo bíblico:** As ordens de guerra no Antigo Testamento são apresentadas como juízos temporários sobre o mal arraigado, aplicados com limites estritos, com misericórdia disponível a quem se volta. Deus julga Israel pelo mesmo padrão, e o testemunho profético e neotestamentário aponta para o fim da guerra sob o governo de Deus e para o chamado ao fazer a paz.
@@ -339,10 +339,10 @@ Os que aceitam esse dom são perdoados e restaurados à vida. Os que o recusam e
 - **Romanos 2:5–8**: Os que persistem na dureza «entesouram ira para o dia da ira», enquanto quem busca o bem recebe vida eterna.  
   O juízo segue a persistência deliberada no mal.
 
-- **Mateus 25:41-46**: Jesus fala da separação final: «Apartai-vos de mim, malditos, para o fogo eterno, preparado para o diabo e seus anjos… e irão estes para o castigo eterno, porém os justos, para a vida eterna.»  
+- **Mateus 25:41-46**: Jesus fala da separação final: ““Em seguida, o Rei se voltará para os que estiverem à sua esquerda e dirá: ‘Fora daqui, malditos, para o fogo eterno preparado para o diabo e seus anjos. Pois tive fome, e vocês não me deram de comer. Tive sede, e não me deram de beber. Era estrangeiro, e não me convidaram para a sua casa. Estava nu, e não me vestiram. Estava doente e na prisão, e não me visitaram’. “Então eles dirão: ‘Senhor, quando o vimos faminto, sedento, como estrangeiro, nu, doente ou na prisão, e não o ajudamos?’. “Ele responderá: ‘Eu lhes digo a verdade: quando se recusaram a ajudar o menor destes meus irmãos e irmãs, foi a mim que se recusaram a ajudar’. “E estes irão para o castigo eterno, mas os justos irão para a vida eterna”.”\
   A sentença liga-se à rejeição da misericórdia; não à falta de oportunidade.
 
-- **João 3:18–19**: «Quem crê nEle não é condenado; mas quem não crê já está condenado, porque não creu no nome do Filho unigênito de Deus… e os homens amaram mais as trevas do que a luz.»  
+- **João 3:18–19**: ““Não há condenação alguma para quem crê nele. Mas quem não crê nele já está condenado por não crer no Filho único de Deus. E a condenação se baseia nisto: a luz de Deus veio ao mundo, mas as pessoas amaram mais a escuridão que a luz, porque seus atos eram maus.”\
   A condenação surge de preferir as trevas à luz.
 
 - **Romanos 1:24–26**: «Deus os entregou» a seus desejos.  
@@ -388,7 +388,7 @@ Todo ato de fé responde ao que Deus já revelou, por meio da criação, da cons
 
 **Base bíblica:**
 
-- **Romanos 1:19–20**: «O que de Deus se pode conhecer está manifesto entre eles, porque Deus lhes manifestou. Seus atributos invisíveis, o Seu eterno poder e a Sua natureza divina, claramente se reconhecem… de modo que eles são indesculpáveis.»  
+- **Romanos 1:19–20**: «Sabem a verdade a respeito de Deus, pois ele a tornou evidente. Por meio de tudo que ele fez desde a criação do mundo, podem perceber claramente seus atributos invisíveis: seu poder eterno e sua natureza divina. Portanto, não têm desculpa alguma.»\
   A criação revela a realidade de Deus; a fé responde a essa revelação.
 
 - **João 20:29**: Jesus disse: «Bem-aventurados os que não viram e creram.»  
@@ -400,7 +400,7 @@ Todo ato de fé responde ao que Deus já revelou, por meio da criação, da cons
 - **Hebreus 11:6**: «Sem fé é impossível agradar a Deus, pois quem se aproxima dEle precisa crer que Ele existe e que recompensa os que O buscam.»  
   Relacionamento depende de confiança voluntária; não de prova forçada.
 
-- **Efésios 2:8–9**: «Pela graça sois salvos, mediante a fé… isto não vem de vós; é dom de Deus; não vem das obras.»  
+- **Efésios 2:8–9**: «Vocês são salvos pela graça, por meio da fé. Isso não vem de vocês; é uma dádiva de Deus. Não é uma recompensa pela prática de boas obras, para que ninguém venha a se orgulhar.»\
   A fé é o canal pelo qual a graça é recebida.
 
 **Por que não certeza?**
@@ -430,10 +430,10 @@ Essa liberdade torna o amor possível; mas também permite a rebelião. Deus pre
 
 **Base bíblica:**
 
-- **Ezequiel 28:12–17**: Descrevendo o rei de Tiro em linguagem que estabelece um paralelo com a queda de um ser celestial: «Tu eras o sinete da perfeição, cheio de sabedoria e perfeito em beleza… perfeito eras nos teus caminhos, desde o dia em que foste criado, até que se achou iniquidade em ti.»  
+- **Ezequiel 28:12–17**: Descrevendo o rei de Tiro em linguagem que estabelece um paralelo com a queda de um ser celestial: ““Filho do homem, entoe este cântico fúnebre para o rei de Tiro. Transmita-lhe a seguinte mensagem do Senhor Soberano: “Você era o modelo de perfeição, cheio de sabedoria e beleza. Estava no Éden, o jardim de Deus. Suas roupas eram enfeitadas com todas as pedras preciosas: rubi, topázio, esmeralda, crisólito, ônix e jaspe, safira, berilo e turquesa, todas trabalhadas com cuidado para você sobre o ouro mais puro. Foram-lhe entregues no dia em que você foi criado. Eu o escolhi e o ungi, como querubim guardião. Você tinha acesso ao monte santo de Deus e andava entre as pedras cintilantes. “Era irrepreensível em tudo que fazia desde o dia em que foi criado, até que se achou maldade em você. Seu rico comércio o levou à violência, e você pecou. Por isso o bani em desonra do monte de Deus. Eu o expulsei, ó querubim guardião, de seu lugar entre as pedras cintilantes. Seu coração se encheu de orgulho por causa de sua beleza. Sua sabedoria se corrompeu por causa de seu esplendor. Por isso o atirei à terra e o expus ao olhar dos reis.”\
   O orgulho corrompeu o que era perfeito.
 
-- **Isaías 14:12–15**: «Como caíste do céu, ó estrela da manhã, filho da alva!… Tu dizias no teu coração: Subirei ao céu; exaltarei o meu trono acima das estrelas de Deus.»  
+- **Isaías 14:12–15**: ““Como você caiu dos céus, ó estrela brilhante, filho da alvorada! Foi lançado à terra, você que destruía as nações. Pois dizia consigo: ‘Subirei aos céus e colocarei meu trono acima das estrelas de Deus. Dominarei no monte dos deuses, nos lugares distantes do norte. Subirei aos mais altos céus e serei como o Altíssimo’. Em vez disso, será lançado ao lugar dos mortos, ao mais profundo abismo.”\
   A rebelião começa com autoexaltação e recusa de submissão.
 
 - **1 Timóteo 3:6**: O orgulho é chamado «a condenação do diabo.»  
@@ -455,7 +455,7 @@ Deus permite a rebelião para demonstrar a verdadeira natureza do bem, expor o m
 
 - **Jó 1:6–12**: Mesmo na prova, Satanás permanece sob limites divinos; sua rebelião é permitida, não descontrolada.
 
-- **Apocalipse 12:7–9**: «Houve batalha no céu… o grande dragão foi precipitado… aquele que engana o mundo inteiro.»  
+- **Apocalipse 12:7–9**: «Houve guerra no céu. Miguel e seus anjos lutaram contra o dragão e seus anjos. O dragão perdeu a batalha, e ele e seus anjos foram expulsos do céu. Esse enorme dragão, a antiga serpente chamada diabo ou Satanás, que engana o mundo todo, foi lançado na terra com seus anjos.»\
   O mal é derrotado; não coigual a Deus.
 
 **O desfecho:**
@@ -484,11 +484,11 @@ Tais influências se disfarçam de deuses, exigem sacrifícios, torcem a moralid
 
 **Base bíblica:**
 
-- **Romanos 1:19–23**: «O que de Deus se pode conhecer está manifesto entre eles, porque Deus lhes manifestou… Seus atributos invisíveis, o Seu eterno poder e a Sua natureza divina, claramente se reconhecem… de modo que eles são indesculpáveis.»  
+- **Romanos 1:19–23**: «Sabem a verdade a respeito de Deus, pois ele a tornou evidente. Por meio de tudo que ele fez desde a criação do mundo, podem perceber claramente seus atributos invisíveis: seu poder eterno e sua natureza divina. Portanto, não têm desculpa alguma. Sim, eles conheciam algo sobre Deus, mas não o adoraram nem lhe agradeceram. Em vez disso, começaram a inventar ideias tolas e, com isso, sua mente ficou obscurecida e confusa. Dizendo-se sábios, tornaram-se tolos. Trocaram a grandeza do Deus imortal por imagens de seres humanos mortais, bem como de aves, animais e répteis.»\
   A humanidade conheceu a Deus, mas «mudou a glória do Deus incorruptível em semelhança de imagem de homem corruptível, de aves, de animais e de répteis.»  
   Religião muitas vezes começa como reconhecimento do divino, depois deriva para a idolatria.
 
-- **Deuteronômio 32:16–17**: «Provocaram-No a ciúmes com deuses estranhos… Sacrificaram aos demônios, e não a Deus.»  
+- **Deuteronômio 32:16–17**: «Provocaram seu zelo, adorando deuses estrangeiros; despertaram sua fúria com ídolos detestáveis. Ofereceram sacrifícios a demônios que não são Deus, a deuses que não conheciam, deuses novos, sem história, deuses que seus antepassados jamais temeram.»\
   A Escritura identifica explicitamente muitos deuses pagãos como poderes demoníacos por trás do culto falso.
 
 - **Salmo 106:37–38**: «Sacrificaram seus filhos e suas filhas aos demônios; e derramaram sangue inocente.»  
@@ -503,7 +503,7 @@ Tais influências se disfarçam de deuses, exigem sacrifícios, torcem a moralid
 - **Efésios 6:12**: «Nossa luta não é contra carne e sangue, e sim contra os principados, contra as potestades, contra os dominadores destas trevas, contra as forças espirituais do mal nas regiões celestes.»  
   O engano religioso é parte de um conflito espiritual mais amplo.
 
-- **Atos 17:26–27**: «De um só homem fez todas as nações da humanidade… para buscarem a Deus e talvez, tateando, O encontrarem; embora Ele não esteja longe de cada um de nós.»  
+- **Atos 17:26–27**: “De um só homem ele criou todas as nações da terra, tendo decidido de antemão onde se estabeleceriam e por quanto tempo. “Seu propósito era que as nações buscassem a Deus e, tateando, talvez viessem a encontrá-lo, embora ele não esteja longe de nenhum de nós.”\
   Toda cultura contém ecos de verdade que apontam de volta ao Criador.
 
 - **João 1:9**: Jesus é «a verdadeira luz que, vinda ao mundo, ilumina a todo homem.»  
@@ -512,7 +512,7 @@ Tais influências se disfarçam de deuses, exigem sacrifícios, torcem a moralid
 - **João 14:6**: «Eu sou o caminho, e a verdade, e a vida; ninguém vem ao Pai senão por Mim.»  
   A verdade é singular; a misericórdia de Deus alcança universalmente.
 
-- **1 Timóteo 2:3–4**: «Deus, nosso Salvador… quer que todos os homens se salvem e venham ao conhecimento da verdade.»  
+- **1 Timóteo 2:3–4**: «Isso é bom e agrada a Deus, nosso Salvador, cujo desejo é que todos sejam salvos e conheçam a verdade.»\
   A diversidade de crenças humanas revela tanto o anseio da humanidade por Deus quanto a paciência dEle com a nossa confusão.
 
 - **Romanos 10:12–13**: «Não há distinção entre judeu e grego; o mesmo Senhor é Senhor de todos, rico para com todos os que O invocam.»  
@@ -539,13 +539,13 @@ Os que a recebem são cobertos por Sua justiça; os que a recusam permanecem sob
 
 **Base bíblica:**
 
-- **Romanos 3:23–26**: «Todos pecaram e carecem da glória de Deus; sendo justificados gratuitamente por Sua graça, por meio da redenção que há em Cristo Jesus… para que Ele seja justo e justificador daquele que tem fé em Jesus.»  
+- **Romanos 3:23–26**: «Pois todos pecaram e não alcançam o padrão da glória de Deus, mas ele, em sua graça, nos declara justos por meio de Cristo Jesus, que nos resgatou do castigo por nossos pecados. Deus apresentou Jesus como sacrifício pelo pecado, com o sangue que ele derramou, mostrando assim sua justiça em favor dos que creem. No passado ele se conteve e não castigou os pecados antes cometidos, pois planejava revelar sua justiça no tempo presente. Com isso, Deus se mostrou justo, condenando o pecado, e justificador, declarando justo o pecador que crê em Jesus.»\
   O perdão de Deus fundamenta-se em Sua justiça; não à parte dela.
 
 - **Hebreus 9:22**: «Sem derramamento de sangue não há remissão.»  
   Vida por vida; cumprido no sacrifício de Cristo.
 
-- **Isaías 53:5–6**: «Ele foi traspassado pelas nossas transgressões… o SENHOR fez cair sobre Ele a iniquidade de nós todos.»  
+- **Isaías 53:5–6**: «Mas ele foi ferido por causa de nossa rebeldia e esmagado por causa de nossos pecados. Sofreu o castigo para que fôssemos restaurados e recebeu açoites para que fôssemos curados. Todos nós nos desviamos como ovelhas; deixamos os caminhos de Deus para seguir os nossos caminhos. E, no entanto, o Senhor fez cair sobre ele os pecados de todos nós.»\
   O Servo sofredor leva a penalidade da humanidade.
 
 - **1 Pedro 2:24**: «Ele mesmo levou em Seu corpo os nossos pecados sobre o madeiro, para que nós, mortos para os pecados, vivamos para a justiça.»  
@@ -554,7 +554,7 @@ Os que a recebem são cobertos por Sua justiça; os que a recusam permanecem sob
 - **Efésios 2:8–9**: «Pela graça sois salvos, mediante a fé; e isto não vem de vós, é dom de Deus; não vem das obras, para que ninguém se glorie.»  
   Graça é dom; mas precisa ser recebida.
 
-- **João 3:16–18**: «Deus amou o mundo de tal maneira que deu o Seu Filho unigênito, para que todo o que nEle crê não pereça, mas tenha a vida eterna… quem não crê já está condenado.»  
+- **João 3:16–18**: ““Porque Deus amou tanto o mundo que deu seu Filho único, para que todo o que nele crer não pereça, mas tenha a vida eterna. Deus enviou seu Filho ao mundo não para condenar o mundo, mas para salvá-lo por meio dele. “Não há condenação alguma para quem crê nele. Mas quem não crê nele já está condenado por não crer no Filho único de Deus.”\
   Rejeitar a graça deixa a dívida impaga.
 
 - **2 Coríntios 5:21**: «Aquele que não conheceu pecado, Ele o fez pecado por nós; para que, nele, fôssemos feitos justiça de Deus.»  

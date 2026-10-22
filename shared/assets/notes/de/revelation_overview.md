@@ -39,7 +39,7 @@ Das Posaunenfest (Jom Teruah) ist das einzige Fest, das bei Neumond beginnt, dem
 ### Versöhnungstag → Endgültiges Gericht
 - Offenbarung 20,11–15: Das Gericht vor dem großen weißen Thron
 - Sacharja 12,10: „Sie werden auf mich blicken, den sie durchbohrt haben, und sie werden um ihn klagen“
-- Römer 11,26–27: „Ganz Israel wird gerettet werden... der Erretter wird aus Zion kommen“
+- Römer 11,26–27: „und so wird ganz Israel gerettet werden, wie geschrieben steht: »Aus Zion wird der Erlöser kommen und die Gottlosigkeiten von Jakob abwenden, und das ist mein Bund mit ihnen, wenn ich ihre Sünden wegnehmen werde«.“
 - 3. Mose 16: Der Hohepriester betritt einmal im Jahr das Allerheiligste, um Sühne zu erwirken. Jesus trat ein für alle Mal in das himmlische Allerheiligste ein (Hebräer 9,11–12). Die endgültige Anwendung steht noch aus.
 
 ### Laubhüttenfest → Gott wohnt bei den Menschen

@@ -6,7 +6,8 @@ A guide to help readers understand how the Bible we hold today was shaped by tra
 
 ## 1. How We Got the Bible
 
-**(Luke 1:1–4):** "Many have undertaken to draw up an account… I myself have carefully investigated everything… so that you may know the certainty of the things you have been taught."  
+**(Luke 1:1–4):** "Many have undertaken to compose an account of the things that have been fulfilled among us, just as they were handed down to us by the initial eyewitnesses and servants of the word. Therefore, having carefully investigated everything from the beginning, it seemed good also to me to write an orderly account for you, most excellent Theophilus, so that you may know the certainty of the things you have been taught."
+
 ➡ Luke shows that early Christians documented carefully what happened.
 
 **(2 Timothy 3:16):** "All Scripture is God-breathed and useful for teaching, rebuking, correcting and training in righteousness."  
@@ -46,7 +47,8 @@ A guide to help readers understand how the Bible we hold today was shaped by tra
 
 ## 3. Church and Politics
 
-**(Matthew 23:27–28):** "Woe to you, teachers of the law… you are like whitewashed tombs."  
+**(Matthew 23:27–28):** "Woe to you, scribes and Pharisees, you hypocrites! You are like whitewashed tombs, which look beautiful on the outside but on the inside are full of dead men’s bones and every kind of impurity. In the same way, on the outside you appear to be righteous, but on the inside you are full of hypocrisy and wickedness."
+
 ➡ Jesus condemned religious leaders who looked holy but were corrupt inside.
 
 **(Acts 5:29):** "We must obey God rather than men."  
@@ -82,7 +84,8 @@ A guide to help readers understand how the Bible we hold today was shaped by tra
 
 ## 5. Lost and Suppressed Texts
 
-**(Jude 1:14–15):** "Enoch, the seventh from Adam, prophesied…"  
+**(Jude 1:14–15):** "Enoch, the seventh from Adam, also prophesied about them: “Behold, the Lord is coming with myriads of His holy ones to execute judgment on everyone, and to convict all the ungodly of every ungodly act of wickedness and every harsh word spoken against Him by ungodly sinners.”"
+
 ➡ Jude quotes directly from the Book of Enoch.
 
 **(Colossians 4:16):** "See that it is also read in the church of the Laodiceans and that you in turn read the letter from Laodicea."  
@@ -161,7 +164,7 @@ Enoch is not fringe; it's central. **1 Enoch** clarifies Genesis, deepens Revela
 
 ## 6. Borrowed Holidays (Syncretism)
 
-**(Jeremiah 10:2–4):** "Do not learn the way of the nations... they cut a tree out of the forest, and a craftsman shapes it with his chisel. They adorn it with silver and gold; they fasten it with hammer and nails so it will not totter."
+**(Jeremiah 10:2–4):** "This is what the LORD says: “Do not learn the ways of the nations or be terrified by the signs in the heavens, though the nations themselves are terrified by them. For the customs of the peoples are worthless; they cut down a tree from the forest; it is shaped with a chisel by the hands of a craftsman. They adorn it with silver and gold and fasten it with hammer and nails, so that it will not totter."
 
 ➡ A warning against adopting pagan customs.
 
@@ -372,7 +375,8 @@ Believers seeking biblical alignment should honor the appointed times establishe
 
 ## 8. Modern Echoes
 
-**(2 Timothy 4:3–4):** "They will not put up with sound doctrine. Instead… they will gather around them teachers to say what their itching ears want to hear."  
+**(2 Timothy 4:3–4):** "For the time will come when men will not tolerate sound doctrine, but with itching ears they will gather around themselves teachers to suit their own desires. So they will turn their ears away from the truth and turn aside to myths."
+
 ➡ Scripture warns of distortion for comfort and power.
 
 **History:** Modern debates over translations, inclusive language, and sexuality mirror ancient struggles for control. The prosperity gospel teaches wealth as God's will, much like when the medieval church sold indulgences (essentially "tickets into heaven" for money). Christianity is now divided into tens of thousands of denominations, many shaped more by culture, tradition, or politics than by the words of Jesus Himself. Around the world, persecution is rising again, and biblical truth is either ignored or bent to fit society's desires.

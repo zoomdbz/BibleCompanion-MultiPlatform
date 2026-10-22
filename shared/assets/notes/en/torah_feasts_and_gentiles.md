@@ -24,7 +24,7 @@ Paul repeatedly rejects justification by works of the Law:
 
 Yet Ephesians does not end at verse 9:
 
-> "For we are God's workmanship, created in Christ Jesus to do good works..."
+> For we are God’s workmanship, created in Christ Jesus to do good works, which God prepared in advance as our way of life.
 >
 > **Ephesians 2:10**
 
@@ -258,7 +258,7 @@ Therefore the resident-alien laws of the Sinai covenant cannot simply be copied 
 
 Ephesians contains language that must be faced directly:
 
-> "...by abolishing in His flesh the law of commandments and decrees. He did this to create in Himself one new man out of the two, thus making peace."
+> by abolishing in His flesh the law of commandments and decrees. He did this to create in Himself one new man out of the two, thus making peace
 >
 > **Ephesians 2:15**
 
@@ -288,7 +288,7 @@ Paul writes:
 
 And:
 
-> "All food is clean..."
+> Do not destroy the work of God for the sake of food. All food is clean, but it is wrong for a man to let his eating be a stumbling block.
 >
 > **Romans 14:20**
 
@@ -327,7 +327,7 @@ Food laws are not essential to salvation, but it is too simple to say, "The New 
 
 The New Testament nowhere commands Gentile believers to keep Leviticus 11, and it nowhere names Leviticus 11 when it speaks of food liberty (**Romans 14:14, 20; 1 Corinthians 10:25-27; 1 Timothy 4:3-5**). Acts 15 names blood, strangled meat, and idol food. Peter explains his own vision as being about people (**Acts 10:28**), and the dispute in Mark 7 is about unwashed hands (**Mark 7:2-5**).
 
-Leviticus 11 is a command God gave and grounded in His holiness (**Leviticus 11:44-45; Deuteronomy 14:2-3**). Scripture does not permit using its observance as a basis for justification, boasting, or condemning another believer whom God has received (**Romans 14:3-4**). One can conlude based off of **Romans 14:2** it is based up to each person's faith. 
+Leviticus 11 is a command God gave and grounded in His holiness (**Leviticus 11:44-45; Deuteronomy 14:2-3**). Scripture does not permit using its observance as a basis for justification, boasting, or condemning another believer whom God has received (**Romans 14:3-4**). **Romans 14:2** describes believers with differing diets. Applying that principle to Leviticus 11 is an inference; these food rules should not be used to condemn another believer.
 
 ## The Sabbath: the Fourth Commandment and Gentile Believers
 
@@ -355,7 +355,7 @@ His wording presents the Sabbath as a gift made for humanity, while answering th
 
 The command is explicit:
 
-> "Remember the Sabbath day by keeping it holy. Six days you shall labor and do all your work, but the seventh day is a Sabbath to the LORD your God..."
+> Remember the Sabbath day by keeping it holy. Six days you shall labor and do all your work, but the seventh day is a Sabbath to the LORD your God, on which you must not do any work— neither you, nor your son or daughter, nor your manservant or maidservant or livestock, nor the foreigner within your gates.
 >
 > **Exodus 20:8-10**
 
@@ -367,7 +367,7 @@ The command is grounded in God's own creation rest:
 
 The Fourth Commandment also explicitly includes the non-Israelite living among God's people:
 
-> "...on which you must not do any work, neither you, nor your son or daughter, nor your manservant or maidservant or livestock, nor the foreigner within your gates."
+> but the seventh day is a Sabbath to the LORD your God, on which you must not do any work— neither you, nor your son or daughter, nor your manservant or maidservant or livestock, nor the foreigner within your gates.
 >
 > **Exodus 20:10**
 
@@ -511,7 +511,7 @@ Paul writes:
 >
 > **Romans 14:5**
 
-The chapter's own subject is eating and abstaining (**Romans 14:2-3, 6, 14-23**), and verse 6 ties the day to that same contrast: "He who observes a special day does so to the Lord; he who eats does so to the Lord... and he who abstains does so to the Lord." Paul never names the weekly Sabbath.
+The chapter's own subject is eating and abstaining (**Romans 14:2-3, 6, 14-23**), and verse 6 ties the day to that same contrast: "He who observes a special day does so to the Lord; he who eats does so to the Lord, for he gives thanks to God; and he who abstains does so to the Lord and gives thanks to God." Paul never names the weekly Sabbath.
 
 Because the Sabbath is not named, Romans 14 should not be treated as an explicit repeal of the Fourth Commandment.
 
@@ -615,7 +615,7 @@ The feast calendar remains visible after the resurrection:
 
 Paul writes to the largely Gentile Corinthian church:
 
-> "For Christ, our Passover lamb, has been sacrificed. Therefore let us keep the feast..."
+> Get rid of the old leaven, that you may be a new unleavened batch, as you really are. For Christ, our Passover lamb, has been sacrificed. Therefore let us keep the feast, not with the old bread, leavened with malice and wickedness, but with the unleavened bread of sincerity and of truth.
 >
 > **1 Corinthians 5:7-8**
 
@@ -699,13 +699,13 @@ This is one of the strongest reasons not to treat the feasts as temporary relics
 
 Zechariah describes the LORD becoming King over all the earth:
 
-> "On that day the LORD will become King over all the earth..."
+> On that day the LORD will become King over all the earth— the LORD alone, and His name alone.
 >
 > **Zechariah 14:9**
 
 Then survivors from the nations are commanded to go up to Jerusalem:
 
-> "...year after year to worship the King, the LORD of Hosts, and to celebrate the Feast of Tabernacles."
+> Then all the survivors from the nations that came against Jerusalem will go up year after year to worship the King, the LORD of Hosts, and to celebrate the Feast of Tabernacles.
 >
 > **Zechariah 14:16**
 
@@ -727,7 +727,7 @@ The vision uses God's appointed calendar in a future kingdom setting.
 
 Isaiah says:
 
-> "For just as the new heavens and the new earth, which I will make, will endure before Me..."
+> “For just as the new heavens and the new earth, which I will make, will endure before Me,” declares the LORD, “so your descendants and your name will endure.”
 >
 > **Isaiah 66:22**
 

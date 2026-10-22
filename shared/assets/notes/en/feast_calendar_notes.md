@@ -44,4 +44,6 @@ These fall outside the monthly grid but remain part of the full biblical calenda
 
 ## Genesis 1:14
 
-"And God said, 'Let there be lights in the expanse of the heavens to separate the day from the night. And let them be for **signs** and for **seasons** (*moadim*: appointed times), and for days and years.'" The heavenly bodies were created, in part, to mark God's feast calendar.
+> And God said, “Let there be lights in the expanse of the sky to distinguish between the day and the night, and let them be signs to mark the seasons and days and years.”
+
+The Hebrew word translated "seasons" is *moadim*, which can refer to appointed times, including the biblical feasts. The heavenly bodies mark those times.

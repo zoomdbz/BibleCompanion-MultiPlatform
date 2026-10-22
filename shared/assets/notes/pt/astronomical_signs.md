@@ -91,7 +91,7 @@ Os magos viram «a sua estrela» (Mateus 2:2). Vários eventos astronômicos por
 
 - **Tripla conjunção Júpiter-Régulo** (3–2 a.C.): Júpiter (o «planeta rei») passou pela estrela Régulo (do latim «pequeno rei») na constelação de Leão (o leão = Judá) três vezes devido ao movimento retrógrado
 - **Conjunção Júpiter-Vênus** (17 de junho, 2 a.C.): Os dois planetas mais brilhantes se fundiram em uma única «estrela» brilhante visível da Babilônia, na direção da Judeia
-- **«Parada» retrógrada de Júpiter** (25 de dezembro, 2 a.C.): Visto de Jerusalém, Júpiter pareceu parar no céu diretamente sobre Belém ao sul, correspondendo a Mateus 2:9: «a estrela... ia adiante deles... e parou sobre o lugar onde estava o menino»
+- **«Parada» retrógrada de Júpiter** (25 de dezembro, 2 a.C.): Visto de Jerusalém, Júpiter pareceu parar no céu diretamente sobre Belém ao sul, correspondendo a Mateus 2:9: «Após a conversa com o rei, os sábios seguiram seu caminho, guiados pela estrela que tinham visto no Oriente. Ela ia adiante deles, até que parou acima do lugar onde o menino estava.»
 
 Isto não é especulativo; está verificado por software astronômico moderno (por exemplo, Stellarium). Quer um desses eventos ou uma combinação deles tenha sido «a estrela», o alinhamento com a profecia de Números 24:17 («uma estrela procederá de Jacó») é impressionante.
 
@@ -181,7 +181,7 @@ Luas de sangue consecutivas no mesmo dia festivo em anos consecutivos não têm 
 
 **Tempestades Solares Antes da Lua de Sangue de Purim de 2026**
 
-Em **1–5 de fevereiro de 2026**, a região ativa AR4366, um grupo de manchas solares 14 vezes mais largo que a Terra, entrou em erupção com seis erupções solares de classe X em quatro dias, incluindo dois eventos de classe X8.1 entre os mais fortes do Ciclo Solar 25. Uma ejeção de massa coronal atingiu a Terra em 5 de fevereiro, desencadeando tempestades geomagnéticas e aurora generalizada. Isso ocorreu aproximadamente 25 dias antes da lua de sangue de Purim de 3 de março.
+Em **1–5 de fevereiro de 2026**, a região ativa AR4366, um grupo de manchas solares 14 vezes mais largo que a Terra, entrou em erupção com seis erupções solares de classe X em quatro dias, incluindo uma erupção de classe X8.1, uma das mais fortes do Ciclo Solar 25, e outra de classe X4.2. Uma ejeção de massa coronal atingiu a Terra em 5 de fevereiro, desencadeando tempestades geomagnéticas e aurora generalizada. Isso ocorreu aproximadamente 25 dias antes da lua de sangue de Purim de 3 de março.
 
 ### Nota
 

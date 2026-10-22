@@ -279,13 +279,13 @@ Beispiele beinhalten:
 
 **Um sich diese Wahrscheinlichkeiten vorzustellen:**
 
-- Ein nationaler Lottogewinn hat eine Wahrscheinlichkeit von etwa 1 zu 300 Millionen. Dass Jesus 8 Prophezeiungen erfüllt, ist wie dieses Lotto **über eine halbe Million Mal hintereinander** zu gewinnen.
+- Ein nationaler Lottogewinn hat eine Wahrscheinlichkeit von etwa 1 zu 300 Millionen. Dass Jesus 8 Prophezeiungen erfüllt, ist wie dieses Lotto **zweimal hintereinander** zu gewinnen.
 
 - Die Wahrscheinlichkeit, im Laufe des Lebens vom Blitz getroffen zu werden, liegt bei etwa 1 zu 15.000. Die Erfüllung von Prophezeiungen ist noch Billionen Mal seltener.
 
 - Peter Stoner veranschaulichte es so: Decke den gesamten Bundesstaat Texas zwei Fuß tief mit Silberdollars zu, markiere eine Münze, verbinde einem Mann die Augen und lasse ihn umherwandern. Die Wahrscheinlichkeit, dass er die markierte Münze beim ersten Versuch auswählt, entspricht der Wahrscheinlichkeit, nur 8 Prophezeiungen zu erfüllen.
 
-- Weiter ausgebaut wäre das Erfüllen von 48 Prophezeiungen wie das Zählen **aller Sandkörner an jedem Strand der Erde**, das Markieren eines einzigen und dann das Finden dieses einen mit verbundenen Augen beim ersten Versuch.
+- Für 48 Prophezeiungen liegt Stoners Schätzung von **1 zu 10^157** weit unter der Wahrscheinlichkeit, ein markiertes Korn aus dem gesamten Sand der Erde zu ziehen. Selbst diese riesige Menge ist bei Weitem zu klein, um die genannten Chancen zu veranschaulichen.
 
 - Mehr als 300 Prophezeiungen zu erfüllen? Die Wahrscheinlichkeiten wachsen so exponentiell, dass menschliche Sprache und Mathematik nicht ausreichen, um die Unmöglichkeit auszudrücken, außer durch göttliches Design.
 

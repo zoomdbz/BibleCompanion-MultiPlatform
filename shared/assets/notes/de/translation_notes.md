@@ -191,10 +191,10 @@ Englische Bibeln übersetzen *daimonizomai* oft mit dem englischen Ausdruck „d
 „Dämonisiert“ gibt den passiven Sinn besser wieder: Jemand steht in unterschiedlichem Maß unter dem Einfluss dämonischer Macht, statt dass eine dauerhafte Besessenheit nahegelegt wird.
 
 **Schrift:**
-- Matthäus 4:24: „…und sie brachten zu ihm alle Kranken… und die *daimonizomenous* (dämonisierten)…“
+- Matthäus 4:24: „Und sein Ruf verbreitete sich in ganz Syrien; und sie brachten alle Kranken zu ihm, die von mancherlei Krankheiten und Schmerzen geplagt waren, und Besessene und Mondsüchtige und Lahme; und er heilte sie.“ (Griechisch in diesem Vers: *daimonizomenous*)
 - Matthäus 8:28–33: die Gadarener *daimonizomenoi* zeigten extreme Kontrolle.
 - Lukas 13:11-16: eine Frau „gebunden durch einen Geist“ seit achtzehn Jahren wurde geheilt; Jesus nennt es Satans Knechtschaft.
-- Apostelgeschichte 10:38: „Gott salbte Jesus… und er heilte alle, die vom Teufel unterdrückt waren.“
+- Apostelgeschichte 10:38: „wie Gott Jesus von Nazareth mit Heiligem Geist und Kraft gesalbt hat, und wie dieser umherzog und Gutes tat und alle heilte, die vom Teufel überwältigt waren; denn Gott war mit ihm.“
 
 **Erklärung:**
 - Hebräisch: *shedim* (Plural) = feindliche Geister, denen Israel nicht opfern durfte (5. Mose 32:17; Psalm 106:37).
@@ -216,7 +216,7 @@ Im Hebräischen bedeutet *satan* „Gegner“ oder „Widersacher“. Manchmal e
 
 - Matthäus 4:1–11: Jesus wird vom Teufel (*diabolos*) versucht, genannt Satan.
 
-- Offenbarung 12:9: „der große Drache… die alte Schlange, genannt der Teufel und Satan, der die ganze Welt verführt.“
+- Offenbarung 12:9: „Und so wurde der große Drache niedergeworfen, die alte Schlange, genannt der Teufel und der Satan, der den ganzen Erdkreis verführt; er wurde auf die Erde hinabgeworfen, und seine Engel wurden mit ihm hinabgeworfen.“
 
 **Erklärung:**
 - „Satan“ = Gegner/Ankläger, später festgelegt als Feind Gottes.
@@ -238,7 +238,7 @@ Der Begriff betont kultische und moralische Unreinheit sowie den Einfluss böser
 
 - Markus 3:30: „Er hat einen unreinen Geist“ = dämonische Anschuldigung.
 
-- Lukas 11:24: „Wenn ein unreiner Geist von einem Menschen ausgeht…“
+- Lukas 11:24: „Wenn der unreine Geist von dem Menschen ausgefahren ist, so durchzieht er wasserlose Gegenden und sucht Ruhe. Und da er sie nicht findet, spricht er: Ich will zurückkehren in mein Haus, aus dem ich weggegangen bin.“
 
 **Erklärung:**
 - Hebräisch-prophetischer Hintergrund: falscher Gottesdienst und Unreinheit, die mit feindlichen Geistern verbunden sind.
@@ -265,7 +265,7 @@ Der Begriff betont kultische und moralische Unreinheit sowie den Einfluss böser
 
 - In (Jesaja 14:12) bedeutet das hebräische Wort *Helel* „Der Leuchtende“. Es ist nicht derselbe Begriff wie „Morgenstern“, der in der Offenbarung für Jesus verwendet wird.
 
-- Der unmittelbare Kontext richtet sich an den König von Babylon. Doch die Sprache übersteigt jeden menschlichen Herrscher: „Ich will auffahren über die hohen Wolken und gleich sein dem Allerhöchsten“ (Jesaja 14:14), weshalb die christliche Tradition seit langem eine doppelte Bezugnahme liest: den menschlichen König als Typus der geistlichen Rebellion hinter ihm. Dies entspricht Hesekiel 28, wo der König von Tyrus in Worten angesprochen wird, die jeden Sterblichen übersteigen („du warst der gesalbte, schirmende Cherub… du warst auf dem heiligen Berg Gottes“).
+- Der unmittelbare Kontext richtet sich an den König von Babylon. Doch die Sprache übersteigt jeden menschlichen Herrscher: „Ich will auffahren über die hohen Wolken und gleich sein dem Allerhöchsten“ (Jesaja 14:14), weshalb die christliche Tradition seit langem eine doppelte Bezugnahme liest: den menschlichen König als Typus der geistlichen Rebellion hinter ihm. Dies entspricht Hesekiel 28, wo der König von Tyrus in Worten angesprochen wird, die jeden Sterblichen übersteigen („Du warst ein gesalbter, schützender Cherub, ja, ich hatte dich dazu eingesetzt; du warst auf dem heiligen Berg Gottes, und du wandeltest mitten unter den feurigen Steinen.“).
 
 - Lukas 10:18 („Ich sah den Satan vom Himmel fallen wie einen Blitz“) spiegelt die Bildsprache von Jesaja 14 wider. Jesus zitierte es nicht als direkten Beweis, aber die Resonanz ist vorhanden und von den Kirchenvätern anerkannt.
 

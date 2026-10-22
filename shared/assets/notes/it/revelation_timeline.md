@@ -437,7 +437,7 @@ Babilonia cade. Re, mercanti e marinai fanno cordoglio perché il sistema econom
 
 Il popolo di Dio viene avvertito:
 
-> «Uscite da essa, popolo Mio...»
+> Poi udii un’altra voce dal cielo che diceva: «Uscite da essa, o popolo mio, affinché non siate complici dei suoi peccati e non siate coinvolti nei suoi castighi;»
 >
 > **Apocalisse 18:4**
 
@@ -551,7 +551,7 @@ Questa è la seconda morte.
 
 Solo dopo il Millennio, la liberazione di Satana, la ribellione finale e il Gran Trono Bianco Giovanni dice:
 
-> «Poi vidi un nuovo cielo e una nuova terra, perché il primo cielo e la prima terra erano passati...»
+> Poi vidi un nuovo cielo e una nuova terra, poiché il primo cielo e la prima terra erano scomparsi, e il mare non c’era più.
 >
 > **Apocalisse 21:1**
 
@@ -728,13 +728,13 @@ Il rapimento stesso è biblico. La sua collocazione rispetto ai giudizi dell'Apo
 
 Paolo scrive:
 
-> «Perché il Signore stesso scenderà dal cielo con un ordine, con voce d'arcangelo e con la tromba di Dio, e i morti in Cristo risusciteranno per primi. Poi noi, che saremo vivi e saremo rimasti, saremo rapiti insieme con loro sulle nuvole per incontrare il Signore nell'aria. E così saremo sempre con il Signore».
+> perché il Signore stesso, con un ordine, con voce d’arcangelo e con la tromba di Dio, scenderà dal cielo, e prima risusciteranno i morti in Cristo; poi noi viventi, che saremo rimasti, verremo rapiti insieme con loro, sulle nuvole, a incontrare il Signore nell’aria; e così saremo sempre con il Signore.
 >
 > **1 Tessalonicesi 4:16-17**
 
 Paolo dice anche:
 
-> «Non tutti dormiremo, ma tutti saremo trasformati, in un istante, in un batter d'occhio, al suono dell'ultima tromba. La tromba infatti suonerà, i morti risusciteranno incorruttibili e noi saremo trasformati».
+> Ecco, io vi dico un mistero: non tutti morremo, ma tutti saremo trasformati, in un momento, in un batter d’occhio, al suono dell’ultima tromba. Perché la tromba squillerà, e i morti risusciteranno incorruttibili, e noi saremo trasformati.
 >
 > **1 Corinzi 15:51-52**
 

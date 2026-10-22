@@ -437,7 +437,7 @@ Babylone tombe. Les rois, les marchands et les marins se lamentent parce que le 
 
 Le peuple de Dieu reçoit cet avertissement :
 
-> « Sortez du milieu d'elle, Mon peuple... »
+> J'entendis du ciel une autre voix qui disait : Sortez du milieu d'elle, mon peuple, afin que vous ne soyez pas associés à ses péchés et que vous ne receviez pas une part de ses fléaux.
 >
 > **Apocalypse 18:4**
 
@@ -551,7 +551,7 @@ C'est la seconde mort.
 
 Ce n'est qu'après le Millénium, la libération de Satan, la rébellion finale et le Grand Trône Blanc que Jean dit :
 
-> « Puis je vis un nouveau ciel et une nouvelle terre, car le premier ciel et la première terre avaient disparu... »
+> Alors je vis un ciel nouveau et une terre nouvelle ; car le premier ciel et la première terre avaient disparu, et la mer n'était plus.
 >
 > **Apocalypse 21:1**
 
@@ -730,13 +730,13 @@ L'enlèvement lui-même est biblique. Sa place dans le temps par rapport aux jug
 
 Paul écrit :
 
-> « Car le Seigneur Lui-même descendra du ciel avec un cri de commandement, avec la voix d'un archange et avec la trompette de Dieu, et les morts en Christ ressusciteront d'abord. Ensuite, nous qui serons vivants et resterons, nous serons enlevés avec eux sur des nuées, à la rencontre du Seigneur dans les airs. Et ainsi nous serons toujours avec le Seigneur. »
+> Car le Seigneur lui-même, avec un cri de commandement, avec la voix d'un archange, avec le son de la trompette de Dieu, descendra du ciel, et ceux qui sont morts dans le Christ se relèveront d'abord. Ensuite, nous, les vivants qui restons, nous serons enlevés ensemble avec eux, dans les nuées, à la rencontre du Seigneur, dans les airs ; et ainsi nous serons toujours avec le Seigneur.
 >
 > **1 Thessaloniciens 4:16-17**
 
 Paul dit aussi :
 
-> « Nous ne dormirons pas tous, mais tous nous serons changés, en un instant, en un clin d'œil, à la dernière trompette. Car la trompette sonnera, les morts ressusciteront incorruptibles, et nous serons changés. »
+> Je vais vous dire un mystère : nous ne nous endormirons pas tous ; mais tous, nous serons changés, en un instant, en un clin d'œil, à la dernière trompette. Car elle sonnera, et les morts se réveilleront impérissables, et nous, nous serons changés.
 >
 > **1 Corinthiens 15:51-52**
 

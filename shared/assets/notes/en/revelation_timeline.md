@@ -437,7 +437,7 @@ Babylon falls. Kings, merchants, and sailors mourn because the economic and poli
 
 God's people are warned:
 
-> "Come out of her, My people..."
+> Then I heard another voice from heaven say: “Come out of her, My people, so that you will not share in her sins or contract any of her plagues.”
 >
 > **Revelation 18:4**
 
@@ -551,7 +551,7 @@ This is the second death.
 
 Only after the Millennium, Satan's release, final rebellion, and Great White Throne does John say:
 
-> "Then I saw a new heaven and a new earth, for the first heaven and earth had passed away..."
+> Then I saw a new heaven and a new earth, for the first heaven and earth had passed away, and the sea was no more.
 >
 > **Revelation 21:1**
 
@@ -728,13 +728,13 @@ The rapture itself is biblical. Its timing relative to Revelation's judgments is
 
 Paul writes:
 
-> "For the Lord Himself will descend from heaven with a loud command, with the voice of an archangel, and with the trumpet of God, and the dead in Christ will be the first to rise. After that, we who are alive and remain will be caught up together with them in the clouds to meet the Lord in the air. And so we will always be with the Lord."
+> For the Lord Himself will descend from heaven with a loud command, with the voice of an archangel, and with the trumpet of God, and the dead in Christ will be the first to rise. After that, we who are alive and remain will be caught up together with them in the clouds to meet the Lord in the air. And so we will always be with the Lord.
 >
 > **1 Thessalonians 4:16-17**
 
 Paul also says:
 
-> "We will not all sleep, but we will all be changed, in an instant, in the twinkling of an eye, at the last trumpet. For the trumpet will sound, the dead will be raised imperishable, and we will be changed."
+> Listen, I tell you a mystery: We will not all sleep, but we will all be changed — in an instant, in the twinkling of an eye, at the last trumpet. For the trumpet will sound, the dead will be raised imperishable, and we will be changed.
 >
 > **1 Corinthians 15:51-52**
 

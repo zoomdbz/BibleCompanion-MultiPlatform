@@ -89,7 +89,7 @@ Les mages virent « son étoile » (Matthieu 2:2). Plusieurs événements astr
 
 - **Triple conjonction Jupiter-Régulus** (3–2 av. J.-C.) : Jupiter (la « planète roi ») est passée devant l'étoile Régulus (du latin « petit roi ») dans la constellation du Lion (le lion = Juda) trois fois en raison du mouvement rétrograde
 - **Conjonction Jupiter-Vénus** (17 juin, 2 av. J.-C.) : Les deux planètes les plus brillantes ont fusionné en une seule « étoile » éclatante visible depuis Babylone, en direction de la Judée
-- **« Arrêt » rétrograde de Jupiter** (25 décembre, 2 av. J.-C.) : Vu depuis Jérusalem, Jupiter a semblé s'arrêter dans le ciel directement au-dessus de Bethléem vers le sud, correspondant à Matthieu 2:9 : « l'étoile... allait devant eux... et vint s'arrêter au-dessus du lieu où était l'enfant »
+- **« Arrêt » rétrograde de Jupiter** (25 décembre, 2 av. J.-C.) : Vu depuis Jérusalem, Jupiter a semblé s'arrêter dans le ciel directement au-dessus de Bethléem vers le sud, correspondant à Matthieu 2:9 : « Après avoir entendu le roi, ils partirent. Or l'étoile qu'ils avaient vue en Orient les précédait ; arrivée au-dessus du lieu où était l'enfant, elle s'arrêta. »
 
 Ceci n'est pas spéculatif; c'est vérifié par les logiciels astronomiques modernes (par ex. Stellarium). Qu'un seul ou une combinaison de ces événements ait été « l'étoile, » l'alignement avec la prophétie de Nombres 24:17 (« un astre sort de Jacob ») est frappant.
 
@@ -178,7 +178,7 @@ Des lunes de sang consécutives le même jour de fête pendant des années cons�
 
 **Tempêtes solaires avant la lune de sang de Pourim 2026**
 
-Du **1er au 5 février 2026**, la région active AR4366, un groupe de taches solaires 14 fois plus large que la Terre, a éclaté avec six éruptions solaires de classe X en quatre jours, dont deux événements de classe X8.1 parmi les plus puissants du Cycle solaire 25. Une éjection de masse coronale a frappé la Terre le 5 février, déclenchant des tempêtes géomagnétiques et une aurore répandue. Cela s'est produit environ 25 jours avant la lune de sang de Pourim du 3 mars.
+Du **1er au 5 février 2026**, la région active AR4366, un groupe de taches solaires 14 fois plus large que la Terre, a éclaté avec six éruptions solaires de classe X en quatre jours, dont une éruption de classe X8.1, parmi les plus puissantes du cycle solaire 25, et une de classe X4.2. Une éjection de masse coronale a frappé la Terre le 5 février, déclenchant des tempêtes géomagnétiques et une aurore répandue. Cela s'est produit environ 25 jours avant la lune de sang de Pourim du 3 mars.
 
 ### Remarque
 

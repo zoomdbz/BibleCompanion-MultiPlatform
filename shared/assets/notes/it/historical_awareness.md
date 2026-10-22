@@ -6,7 +6,8 @@ Una guida per comprendere come la Bibbia che abbiamo oggi sia stata plasmata da 
 
 ## 1. Come abbiamo ottenuto la Bibbia
 
-**(Luca 1:1–4)**: « Poiché molti hanno intrapreso a comporre un racconto… anch’io ho investigato ogni cosa accuratamente dall’inizio… affinché tu riconosca la certezza degli insegnamenti. »  
+**(Luca 1:1–4)**: « Poiché molti hanno intrapreso a ordinare una narrazione dei fatti che hanno avuto compimento in mezzo a noi, come ce li hanno tramandati quelli che da principio ne furono testimoni oculari e che divennero ministri della Parola, è parso bene anche a me, dopo essermi accuratamente informato di ogni cosa dall’origine, di scrivertene per ordine, eccellentissimo Teofilo, perché tu riconosca la certezza delle cose che ti sono state insegnate. »
+
 ➡ Luca mostra che i primi cristiani documentarono con cura ciò che accadde.
 
 **(2 Timoteo 3:16)**: « Tutta la Scrittura è ispirata da Dio ed è utile a insegnare, a riprendere, a correggere e a educare nella giustizia. »  
@@ -46,7 +47,8 @@ Una guida per comprendere come la Bibbia che abbiamo oggi sia stata plasmata da 
 
 ## 3. Chiesa e politica
 
-**(Matteo 23:27–28)**: « Guai a voi, scribi e farisei… siete simili a sepolcri imbiancati. »  
+**(Matteo 23:27–28)**: « Guai a voi, scribi e farisei ipocriti, perché siete simili a sepolcri imbiancati, che appaiono belli di fuori, ma dentro sono pieni d’ossa di morti e d’ogni immondizia. Così anche voi, di fuori sembrate giusti alla gente, ma dentro siete pieni d’ipocrisia e d’iniquità. »
+
 ➡ Gesù condannò i leader religiosi che apparivano santi all’esterno ma erano corrotti all’interno.
 
 **(Atti 5:29)**: « Bisogna ubbidire a Dio anziché agli uomini. »  
@@ -82,7 +84,8 @@ Una guida per comprendere come la Bibbia che abbiamo oggi sia stata plasmata da 
 
 ## 5. Testi perduti e soppressi
 
-**(Giuda 1:14–15)**: «Enoch, il settimo da Adamo, profetizzò...»  
+**(Giuda 1:14–15)**: «Anche per costoro profetizzò Enoc, settimo dopo Adamo, dicendo: «Ecco, il Signore è venuto con le sue sante miriadi per giudicare tutti; per convincere tutti gli empi in mezzo a loro di tutte le loro opere di empietà che hanno empiamente commesse e di tutti gli insulti che gli empi peccatori hanno pronunciati contro di lui».»
+
 ➡ Giuda cita direttamente il Libro di Enoch.
 
 **(Colossesi 4:16)**: «Leggete questa lettera anche nella chiesa dei Laodicesi, e leggete quella che arriva da Laodicea.»  
@@ -161,7 +164,7 @@ Enoch non è marginale; è centrale. **1 Enoch** chiarisce la Genesi, approfondi
 
 ## 6. Feste prese in prestito (Sincretismo)
 
-**(Geremia 10:2–4)**: «Non imparate la via delle nazioni... Tagliano un albero dal bosco, opera delle mani dell’artigiano con la scure. Lo adornano con argento e oro; lo fissano con chiodi e martello perché non vacilli.»
+**(Geremia 10:2–4)**: «Così parla il Signore: «Non imparate a camminare nella via delle nazioni e non abbiate paura dei segni del cielo, perché sono le nazioni quelle che ne hanno paura. Infatti i costumi dei popoli sono vanità; poiché si taglia un albero nella foresta e le mani dell’operaio lo lavorano con l’ascia, lo si adorna d’argento e d’oro, lo si fissa con chiodi e martelli perché non si muova.»
 
 ➡ Un avvertimento contro l’adozione delle usanze pagane.
 
@@ -372,7 +375,8 @@ I credenti che desiderano camminare in conformità con la Bibbia devono onorare 
 
 ## 8. Echi moderni
 
-**(2 Timoteo 4:3–4)**: «Non sopporteranno la sana dottrina. Invece… si circonderanno di maestri che dicano ciò che le loro orecchie desiderano sentirsi dire.»  
+**(2 Timoteo 4:3–4)**: «Infatti verrà il tempo che non sopporteranno più la sana dottrina, ma, per prurito di udire, si cercheranno maestri in gran numero secondo le proprie voglie, e distoglieranno le orecchie dalla verità e si volgeranno alle favole.»
+
 ➡ La Scrittura avverte della distorsione per comodità e potere.
 
 **Storia:** I dibattiti moderni su traduzioni, linguaggio inclusivo e sessualità riflettono antiche lotte per il controllo. Il vangelo della prosperità insegna che la ricchezza è volontà di Dio, simile a quando la chiesa medievale vendeva indulgenze (in pratica «biglietti per il cielo» in cambio di denaro). Il cristianesimo oggi è diviso in decine di migliaia di denominazioni, spesso più plasmate da cultura, tradizione o politica che dalle parole di Gesù stesso. In tutto il mondo, la persecuzione cresce di nuovo e la verità biblica viene ignorata o piegata ai desideri della società.

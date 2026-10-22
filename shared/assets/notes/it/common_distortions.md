@@ -208,7 +208,7 @@ Rimanete saldi nella fede trasmessa una volta per tutte ai santi (Giuda 3).
 
 - (Geremia 29:10): «Così dice il Signore: Quando a Babilonia saranno compiuti settant’anni, io vi visiterò e manderò ad effetto su di voi la mia buona parola, facendovi tornare in questo luogo.»
 
-- (Geremia 23:16–17): «Così dice il Signore degli eserciti: Non ascoltate le parole dei profeti che vi profetizzano: vi fanno vaneggiare; annunziano le visioni del proprio cuore, non ciò che proviene dalla bocca del Signore… Dicono a quelli che mi disprezzano: “Il Signore ha detto: Avrete pace”; e a chi cammina seguendo la caparbietà del suo cuore dicono: “Non vi sopraggiungerà alcun male.”»
+- (Geremia 23:16–17): «Così parla il Signore degli eserciti: «Non ascoltate le parole dei profeti che vi profetizzano; essi vi nutrono di cose vane, vi espongono le visioni del proprio cuore, e non ciò che proviene dalla bocca del Signore. Dicono a quelli che mi disprezzano: “Il Signore ha detto: ‘Avrete pace’; e a tutti quelli che camminano seguendo la caparbietà del proprio cuore: ‘Nessun male vi colpirà’”.»
 
 - (Romani 8:18): «Io ritengo infatti che le sofferenze del tempo presente non siano paragonabili alla gloria che deve essere manifestata in noi.»
 
@@ -266,7 +266,7 @@ Rimanete saldi nella fede trasmessa una volta per tutte ai santi (Giuda 3).
 
 - La verità: La Scrittura avverte ripetutamente contro lo stravolgere la grazia in libertinaggio.
 
-- (Galati 1:6–9): «Mi meraviglio che così in fretta passiate da colui che vi ha chiamati mediante la grazia di Cristo, a un altro vangelo, che poi non è un altro; ma ci sono alcuni che vi turbano e vogliono sovvertire il vangelo di Cristo. Ma anche se noi stessi o un angelo dal cielo vi annunciasse un vangelo diverso da quello che vi abbiamo annunciato, sia anatema… Come abbiamo già detto, ora lo ripeto: se qualcuno vi annuncia un vangelo diverso da quello che avete ricevuto, sia anatema.»
+- (Galati 1:6–9): «Mi meraviglio che così presto voi passiate da colui che vi ha chiamati mediante la grazia {di Cristo} a un altro vangelo; ché poi non c’è un altro vangelo, però ci sono alcuni che vi turbano e vogliono sovvertire il vangelo di Cristo. Ma anche se noi o un angelo dal cielo {vi} annunciasse un vangelo diverso da quello che vi abbiamo annunciato, sia anatema. Come abbiamo già detto, lo ripeto di nuovo anche adesso: se qualcuno vi annuncia un vangelo diverso da quello che avete ricevuto, sia anatema.»
 
 - (Giuda 1:4): «Si sono infiltrati infatti certi uomini empi, già da tempo segnati per questa condanna, che convertono la grazia del nostro Dio in dissolutezza e negano il nostro unico Padrone e Signore, Gesù Cristo.»
 
@@ -286,7 +286,7 @@ Rimanete saldi nella fede trasmessa una volta per tutte ai santi (Giuda 3).
 
 **Passaggi di supporto:**
 
-- (Matteo 5:14–16) «Voi siete la luce del mondo… una città posta sopra un monte non può essere nascosta.»
+- (Matteo 5:14–16) «Voi siete la luce del mondo. Una città posta sopra un monte non può essere nascosta, e non si accende una lampada per metterla sotto un recipiente; anzi la si mette sul candeliere ed essa fa luce a tutti quelli che sono in casa. Così risplenda la vostra luce davanti agli uomini, affinché vedano le vostre buone opere e glorifichino il Padre vostro che è nei cieli.»
 
 - (Giovanni 3:16) «Dio ha tanto amato il mondo che ha dato il suo Figlio unigenito, affinché chiunque crede in lui non perisca, ma abbia vita eterna.»
 

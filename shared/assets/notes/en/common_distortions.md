@@ -285,7 +285,7 @@ Hold fast to the faith once for all delivered to the saints (Jude 3).
 
 **Supporting passages:**
 
-- (Matthew 5:14–16) "You are the light of the world… a city set on a hill cannot be hidden."
+- (Matthew 5:14–16) "You are the light of the world. A city on a hill cannot be hidden. Neither do people light a lamp and put it under a basket. Instead, they set it on a stand, and it gives light to everyone in the house. In the same way, let your light shine before men, that they may see your good deeds and glorify your Father in heaven."
 
 - (John 3:16) "For God so loved the world that he gave his only Son, that whoever believes in him should not perish but have eternal life."
 

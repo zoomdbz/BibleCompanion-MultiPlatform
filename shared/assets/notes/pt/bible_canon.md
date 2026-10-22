@@ -44,7 +44,7 @@ Os concílios foram convocados para resolver **identidade e doutrina**, não par
 
 ## Principais concílios e o que eles realmente fizeram
 
-### Concílio de Niceia (AD 325)
+### Concílio de Niceia (325 d.C.)
 
 **Pergunta abordada:**  
 Jesus é eternamente Deus, ou um ser criado?
@@ -71,7 +71,7 @@ Jesus é eternamente Deus, da mesma essência divina que o Pai.
 
 ---
 
-### Concílio de Constantinopla (AD 381)
+### Concílio de Constantinopla (381 d.C.)
 
 **Pergunta abordada:**  
 O Espírito Santo é plenamente Deus?
@@ -96,13 +96,13 @@ O Espírito Santo é plenamente Deus, igual ao Pai e ao Filho.
 
 ## Os concílios regionais do cânon
 
-### Concílio de Hipona (AD 393)
+### Concílio de Hipona (393 d.C.)
 
 - Listou livros do Novo Testamento já em uso
 
 - Não reivindicou nova autoridade
 
-### Concílios de Cartago (AD 397, 419)
+### Concílios de Cartago (397 e 419 d.C.)
 
 - Reafirmaram o mesmo Novo Testamento de 27 livros
 
@@ -112,7 +112,7 @@ Esses concílios **ratificaram**, não inventaram, o cânon.
 
 ---
 
-### Concílio de Éfeso (AD 431)
+### Concílio de Éfeso (431 d.C.)
 
 **Pergunta abordada:**  
 Jesus é uma pessoa ou duas pessoas?
@@ -135,7 +135,7 @@ Jesus é uma pessoa unificada, plenamente Deus e plenamente humano.
 
 ---
 
-### Concílio de Calcedônia (AD 451)
+### Concílio de Calcedônia (451 d.C.)
 
 **Pergunta abordada:**  
 Como as naturezas divina e humana de Jesus coexistem?
@@ -158,7 +158,7 @@ Jesus existe em duas naturezas completas, divina e humana, unidas em uma pessoa.
 
 ---
 
-### Concílio de Constantinopla II (AD 553)
+### Concílio de Constantinopla II (553 d.C.)
 
 **Pergunta abordada:**  
 Calcedônia permitiu acidentalmente uma visão dividida de Cristo?
@@ -177,7 +177,7 @@ A unidade de Cristo foi reafirmada sem enfraquecer nenhuma das duas naturezas.
 
 ---
 
-### Concílio de Constantinopla III (AD 680–681)
+### Concílio de Constantinopla III (680–681 d.C.)
 
 **Pergunta abordada:**  
 Jesus tem uma vontade ou duas?
@@ -204,10 +204,10 @@ Jesus é plenamente Deus
 Constantinopla (381)  
 Espírito Santo é plenamente Deus
 
-Concílio de Hipona (AD 393)
+Concílio de Hipona (393 d.C.)
 Listou livros do Novo Testamento já em uso
 
-Concílios de Cartago (AD 397, 419)
+Concílios de Cartago (397 e 419 d.C.)
 Reafirmaram o mesmo Novo Testamento de 27 livros
 
 Éfeso (431)  
@@ -361,7 +361,7 @@ Instituições amam o simples.
 Enoque não é simples.
 
 **Mas por que é importante:**
-A carta da Epístola de Judas cita Enoque diretamente como profecia.
+A Epístola de Judas cita Enoque diretamente como profecia.
 
 Não «como uma ilustração.»
 Não «como uma história.»

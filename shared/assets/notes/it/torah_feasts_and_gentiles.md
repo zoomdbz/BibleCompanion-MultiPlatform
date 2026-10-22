@@ -24,7 +24,7 @@ Paolo respinge ripetutamente la giustificazione per le opere della Legge:
 
 Tuttavia, Efesini non termina al versetto 9:
 
-> «Noi infatti siamo opera di Dio, creati in Cristo Gesù per compiere opere buone...»
+> infatti siamo opera sua, essendo stati creati in Cristo Gesù per fare le opere buone, che Dio ha precedentemente preparate affinché le pratichiamo.
 >
 > **Efesini 2:10**
 
@@ -258,7 +258,7 @@ Pertanto, le leggi del patto del Sinai riguardanti gli stranieri residenti non p
 
 Efesini contiene un linguaggio che deve essere affrontato direttamente:
 
-> «...abolendo nella Sua carne la legge dei comandamenti e dei decreti. Egli fece questo per creare in Se stesso, dei due, un solo uomo nuovo, stabilendo così la pace».
+> la legge fatta di comandamenti in forma di precetti, per creare in se stesso, dei due, un solo uomo nuovo facendo la pace;
 >
 > **Efesini 2:15**
 
@@ -288,7 +288,7 @@ Paolo scrive:
 
 E:
 
-> «Ogni alimento è puro...»
+> Non distruggere, per un cibo, l’opera di Dio. Certo, tutte le cose sono pure; ma è male quando uno mangia dando occasione di peccato.
 >
 > **Romani 14:20**
 
@@ -327,7 +327,7 @@ Le leggi alimentari non sono essenziali alla salvezza, ma è troppo semplice dir
 
 Il Nuovo Testamento non comanda in alcun punto ai credenti gentili di osservare Levitico 11 e non menziona mai Levitico 11 quando parla di libertà alimentare (**Romani 14:14, 20; 1 Corinzi 10:25-27; 1 Timoteo 4:3-5**). Atti 15 nomina il sangue, la carne di animali strangolati e il cibo offerto agli idoli. Pietro spiega che la propria visione riguardava le persone (**Atti 10:28**), e la disputa di Marco 7 riguarda le mani non lavate (**Marco 7:2-5**).
 
-Levitico 11 è un comandamento che Dio diede e fondò sulla Sua santità (**Levitico 11:44-45; Deuteronomio 14:2-3**). La Scrittura non permette di usare la sua osservanza come fondamento della giustificazione, del vanto o della condanna di un altro credente che Dio ha accolto (**Romani 14:3-4**). Sulla base di **Romani 14:2**, si può concludere che dipende dalla fede di ciascuno.
+Levitico 11 è un comandamento che Dio diede e fondò sulla Sua santità (**Levitico 11:44-45; Deuteronomio 14:2-3**). La Scrittura non permette di usare la sua osservanza come fondamento della giustificazione, del vanto o della condanna di un altro credente che Dio ha accolto (**Romani 14:3-4**). **Romani 14:2** descrive credenti con abitudini alimentari diverse. Applicare quel principio a Levitico 11 è un'inferenza; queste norme alimentari non devono essere usate per condannare un altro credente.
 
 ## Il sabato: il Quarto Comandamento e i credenti gentili
 
@@ -355,7 +355,7 @@ Le Sue parole presentano il sabato come un dono fatto all'umanità, rispondendo 
 
 Il comandamento è esplicito:
 
-> «Ricordati del giorno del sabato per santificarlo. Lavorerai sei giorni e farai ogni tuo lavoro, ma il settimo giorno è sabato per YHWH, il tuo Dio...»
+> Ricòrdati del giorno del riposo per santificarlo. Lavora sei giorni e fa’ tutto il tuo lavoro, ma il settimo è giorno di riposo, consacrato al Signore Dio tuo; non fare in esso nessun lavoro ordinario, né tu, né tuo figlio, né tua figlia, né il tuo servo, né la tua serva, né il tuo bestiame, né lo straniero che abita nella tua città;
 >
 > **Esodo 20:8-10**
 
@@ -367,7 +367,7 @@ Il comandamento è fondato sul riposo di Dio dopo la creazione:
 
 Il Quarto Comandamento include inoltre esplicitamente il non Israelita che vive fra il popolo di Dio:
 
-> «...nel quale non farai alcun lavoro, né tu, né tuo figlio o tua figlia, né il tuo servo o la tua serva o il tuo bestiame, né lo straniero che si trova entro le tue porte».
+> ma il settimo è giorno di riposo, consacrato al Signore Dio tuo; non fare in esso nessun lavoro ordinario, né tu, né tuo figlio, né tua figlia, né il tuo servo, né la tua serva, né il tuo bestiame, né lo straniero che abita nella tua città;
 >
 > **Esodo 20:10**
 
@@ -511,7 +511,7 @@ Paolo scrive:
 >
 > **Romani 14:5**
 
-L'argomento proprio del capitolo è il mangiare e l'astenersi (**Romani 14:2-3, 6, 14-23**), e il versetto 6 collega il giorno a quel medesimo contrasto: «Chi osserva un giorno particolare lo fa per il Signore; chi mangia lo fa per il Signore... e chi si astiene lo fa per il Signore». Paolo non menziona mai il sabato settimanale.
+L'argomento proprio del capitolo è il mangiare e l'astenersi (**Romani 14:2-3, 6, 14-23**), e il versetto 6 collega il giorno a quel medesimo contrasto: «Chi ha riguardo al giorno, lo fa per il Signore; e chi mangia di tutto, lo fa per il Signore, poiché ringrazia Dio; e chi non mangia di tutto fa così per il Signore, e ringrazia Dio.». Paolo non menziona mai il sabato settimanale.
 
 Poiché il sabato non viene menzionato, Romani 14 non deve essere trattato come un'abrogazione esplicita del Quarto Comandamento.
 
@@ -615,7 +615,7 @@ Il calendario delle feste rimane visibile dopo la risurrezione:
 
 Paolo scrive alla chiesa di Corinto, in gran parte gentile:
 
-> «Cristo infatti, il nostro agnello pasquale, è stato sacrificato. Celebriamo dunque la festa...»
+> Purificatevi del vecchio lievito per essere una nuova pasta, come già siete senza lievito. Poiché anche la nostra Pasqua, cioè Cristo, è stata immolata. Celebriamo dunque la festa non con vecchio lievito, né con lievito di malizia e di malvagità, ma con gli azzimi della sincerità e della verità.
 >
 > **1 Corinzi 5:7-8**
 
@@ -699,13 +699,13 @@ Questa è una delle ragioni più forti per non trattare le feste come reliquie t
 
 Zaccaria descrive YHWH che diventa Re su tutta la terra:
 
-> «In quel giorno YHWH diventerà Re su tutta la terra...»
+> Il Signore sarà re di tutta la terra; in quel giorno il Signore sarà l’unico, e unico sarà il suo nome.
 >
 > **Zaccaria 14:9**
 
 Poi ai superstiti delle nazioni viene comandato di salire a Gerusalemme:
 
-> «...anno dopo anno per adorare il Re, YHWH degli eserciti, e celebrare la Festa dei Tabernacoli».
+> Tutti quelli che saranno rimasti di tutte le nazioni venute contro Gerusalemme saliranno di anno in anno a prostrarsi davanti al Re, al Signore degli eserciti, e a celebrare la festa delle Capanne.
 >
 > **Zaccaria 14:16**
 
@@ -727,7 +727,7 @@ La visione usa il calendario stabilito di Dio in un contesto di regno futuro.
 
 Isaia dice:
 
-> «Come i nuovi cieli e la nuova terra che Io farò rimarranno davanti a Me...»
+> «Infatti, come i nuovi cieli e la nuova terra che io sto per creare rimarranno stabili davanti a me», dice il Signore, «così dureranno la vostra discendenza e il vostro nome.»
 >
 > **Isaia 66:22**
 
