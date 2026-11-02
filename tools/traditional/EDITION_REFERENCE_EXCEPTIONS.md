@@ -22,7 +22,6 @@ Versification Traditions with Methodology for Standardisation):
 - Commit: `b99716b0cddb648ddb95cc786a197180f2f97d48`
 - Raw file: <https://raw.githubusercontent.com/STEPBible/STEPBible-Data/b99716b0cddb648ddb95cc786a197180f2f97d48/Versification/TVTMS%20-%20Translators%20Versification%20Traditions%20with%20Methodology%20for%20Standardisation%20for%20Eng%2BHeb%2BLat%2BGrk%2BOthers%20-%20STEPBible.org%20CC%20BY.txt>
 - SHA-256: `63058e0f20201af4bdaa7d830da5be8f493455d947c5f147d84840b33db9ddf8`
-- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - Attribution: Data created by STEPBible.org based on work at Tyndale House
   Cambridge.
 
@@ -34,7 +33,6 @@ versification tables at commit
   SHA-256 `5a07e22efdf46bc1dfa4a1ff644cc6d11d5b7799d5cd9617196f38388251e1c3`
 - [Synodal.properties](https://raw.githubusercontent.com/crosswire/jsword/a2c51f3c3a55416f3c991a67ef3d635c7ee55330/src/main/resources/org/crosswire/jsword/versification/Synodal.properties),
   SHA-256 `76385bbd47834482c651e509e898d704cf27b5d4037ecff26ec7baf45f1edba6`
-- License: [LGPL 2.1 or later](https://github.com/crosswire/jsword/blob/a2c51f3c3a55416f3c991a67ef3d635c7ee55330/LICENSE)
 
 ## German: SCH2000 to Luther 1912, Isaiah
 
@@ -61,7 +59,6 @@ Target source:
 - Archive SHA-256: `650a8192134a8f0057286c469754edcfaee4fbb18800621aee4563f3055bb39b`
 - Book: `24-ISAdeu1912.usfm`, SHA-256
   `daca8923266d6b8c4a62576e4396fdde1ced00fb10fa8045d96f26ff6d88f6c1`
-- License: Public Domain
 
 ## Italian: NR06 to Diodati 1885, Job
 
@@ -89,7 +86,6 @@ Target source:
 - Archive SHA-256: `459884735df5d5ae7f3381980bc5ea846f0034cea305fa77b5d72e09727e051c`
 - Book: `19-JOBita1885.usfm`, SHA-256
   `3b0a9d08a8758c9bc69b720ee22eca8ae4a790468acf7cb5ce8d44ff5648886d`
-- License: Public Domain
 
 ## Russian: NRT/NRP to Synodal 1876, Romans
 
@@ -110,7 +106,6 @@ Target source:
 - Archive SHA-256: `acd5d80c0d28ca72d17cb12a2bb9f561d957439b03bddfaa433beb51cf7b0363`
 - Book: `75-ROMrussyn.usfm`, SHA-256
   `fea367b62c049a0ef784f1e708d3f2e3c8463c09f34b52bc21c7d24a14855872`
-- License: Public Domain
 
 ## Traditional Chinese: RCUV to CUV, John
 
@@ -134,7 +129,6 @@ Target source:
 - Archive SHA-256: `01e919ec0f2ea9e22adaa5097340fc4ad18a7976a32f850b2e6434d7884f3e81`
 - Book: `73-JHNcmn-cu89t.usfm`, SHA-256
   `d692d0509087472f18a46d4e3ce7d1000eb85aa2ca1978edf947cffecba8057b`
-- License: Public Domain
 
 ## Verification
 

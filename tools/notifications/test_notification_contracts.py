@@ -10,7 +10,7 @@ import xml.etree.ElementTree as ET
 ROOT = Path(__file__).resolve().parents[2]
 ASSETS = ROOT / "shared/assets"
 COMMON = ROOT / "shared/src/commonMain/kotlin/com/dividesbyzer0/biblecompanion"
-LANGUAGES = ("en", "de", "es", "fr", "it", "pt", "ru", "ja", "ko", "zh-Hans", "zh-Hant", "ar", "hi")
+LANGUAGES = ("en", "de", "es", "fr", "it", "pt", "ru", "ja", "ko", "zh-Hans", "zh-Hant", "ar", "hi", "sw")
 KEYS = ("title", "toggle", "desc", "time", "save", "ios_window", "permission_denied", "system_settings",
         "clock_12", "clock_24", "am", "pm", "time_with_period")
 ANCHOR = re.compile(r"\(\s*(\d+)\s*:\s*(\d+)(?:\s*[-\u2013]\s*(\d+))?\s*\)\s*\.?\s*$")
@@ -40,9 +40,9 @@ class NotificationContracts(unittest.TestCase):
 
     def test_notification_section_sits_between_search_and_accessibility_with_dividers(self):
         app = (COMMON / "AppRoot.kt").read_text(encoding="utf-8")
-        search = app.index("SectionHeader(stringResource(Res.string.search_section))")
-        notification = app.index("SectionHeader(stringResource(Res.string.daily_notification_title))")
-        accessibility = app.index("SectionHeader(stringResource(Res.string.accessibility_section))")
+        search = app.index("SectionHeader(stringResource(Res.string.search_section), sectionOffsets)")
+        notification = app.index("SectionHeader(stringResource(Res.string.daily_notification_title), sectionOffsets)")
+        accessibility = app.index("SectionHeader(stringResource(Res.string.accessibility_section), sectionOffsets)")
         self.assertLess(search, notification)
         self.assertLess(notification, accessibility)
         self.assertIn("HorizontalDivider", app[search:notification])
@@ -79,6 +79,9 @@ class NotificationContracts(unittest.TestCase):
         books = {}
         for collection in ("old_testament", "new_testament", "deuterocanonical"):
             for book_id, title in read_json(ASSETS / "books" / collection / "en/_index.json"):
+                books[title.lower()] = (collection, book_id)
+        for collection in ("old_testament", "new_testament"):
+            for book_id, title in read_json(ASSETS / "books" / collection / "sw/_index.json"):
                 books[title.lower()] = (collection, book_id)
         for lang in LANGUAGES:
             daily = read_json(ASSETS / "daily_verses" / lang / "daily.json")["verses"]

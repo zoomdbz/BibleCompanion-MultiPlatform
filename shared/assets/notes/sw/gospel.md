@@ -1,0 +1,15 @@
+# Kiwango, Deni na Zawadi
+
+Injili ni neno la kale linalomaanisha habari njema. Anza na habari mbaya, kwa sababu habari njema hazieleweki bila hiyo.
+
+Mungu ana kiwango kimoja, nacho ni ukamilifu. Si "ulifanya kadiri ulivyoweza." Si "siku zako njema zilikuwa nyingi kuliko mbaya." Ukamilifu. Yakobo aliliweka jambo hilo wazi kabisa: "Kwa maana mtu yeyote anayeishika sheria yote lakini akajikwaa katika kipengele kimoja tu, ana hatia ya kuivunja sheria yote" (Yakobo 2:10). Lisome tena. Kosa moja linakuweka katika hali ileile ya hatia na mtu aliyevunja kila amri. Ni kufaulu au kufeli; alama ya kufaulu ni asilimia mia moja, na hakuna kuongezewa alama. Kuwa mwema vya kutosha hakujawahi kuwa kipimo; hata hivyo hakuna anayekifikia, si wewe, si mimi, wala yule anayeonekana mtakatifu anayeketi viti viwili mbele kanisani.
+
+Sasa deni. Paulo anataja malipo: "Kwa maana mshahara wa dhambi ni mauti" (Warumi 6:23). Mshahara ni kitu unachokipata kwa kazi yako; hayo ndiyo malipo yanayoletwa na dhambi. Deni hilo hufika wakati wake, wala halikosi kulipwa. Sote tumesimama ndani ya shimo hilo, na hatuwezi kujitoa wenyewe; mikono iliyolichimba haiwezi kulifukia.
+
+Kisha mambo yanageuka. Sehemu iliyobaki ya mstari huufungua mlango: "bali karama ya Mungu ni uzima wa milele katika Kristo Yesu Bwana wetu" (Warumi 6:23). Angalia maneno hayo mawili yaliyowekwa pamoja: mshahara na karama. Wa kwanza unaupata kwa matendo; ya pili usingeweza kuipata hivyo. Huwezi kujilipia njia ya kutoka shimoni kwa kuhudhuria kanisani au kwa kuwa mkarimu kuliko jirani yako. Paulo anafunga mlango huo pia: "Kwa maana mmeokolewa kwa neema, kwa njia ya imani, wala si kwa matendo yenu mema. Hii ni zawadi kutoka kwa Mungu, si kwa matendo, ili mtu yeyote asije akajisifu" (Waefeso 2:8-9). Neema ni zawadi ambayo hukuistahili na ambayo usingeweza kuinunua. Imani ni kumtumaini anayekukabidhi zawadi hiyo. Yesu tayari amelipa deni lililotajwa hapo juu, lote; hakuna cha kujisifia wala deni lililobaki kulipa.
+
+Hapo ndipo watu hujaribu kutafuta mwanya. Ikiwa zawadi ni bure, huenda mtu akafikiri ni busara kuendelea kutenda dhambi huku neema ikiendelea kugharamia deni. Paulo aliliona hilo likija: "Tuseme nini basi? Je, tuendelee kutenda dhambi ili neema ipate kuongezeka? La hasha! Sisi tulioifia dhambi, tutawezaje kuendelea kuishi tena katika dhambi?" (Warumi 6:1-2). Zawadi hiyo si kibali cha kutenda dhambi. Umetoka katika nyumba ile; hurudi kuishi humo na kuiita nyumbani. Neema hubadili wewe ni nani, si rekodi yako tu.
+
+Kisha sehemu yako inafika, nayo inahitaji hatua moja ya kweli. "Kwa sababu kama ukikiri kwa kinywa chako kwamba 'Yesu ni Bwana,' na kuamini moyoni mwako kwamba Mungu alimfufua kutoka kwa wafu, utaokoka" (Warumi 10:9). Bwana ni Yule anayeyaongoza maisha yako sasa, mikono yake ikiwa kwenye usukani. Kuamini ni kuweka tumaini lako lote katika ukweli kwamba kaburi lilibaki tupu. Kutubu ni kugeuka, kuelekea upande mwingine, na kumaanisha hivyo kweli.
+
+Kiwango usichoweza kufikia. Deni usiloweza kulipa. Zawadi usiyoweza kuipata kwa juhudi. Maisha usiyoweza kujifanya unaishi. Mlango unaoweza kuupitia. Hiyo ndiyo habari yote, na imekuwa fupi kiasi hiki tangu mwanzo.

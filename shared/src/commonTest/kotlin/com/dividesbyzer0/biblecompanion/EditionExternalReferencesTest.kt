@@ -151,6 +151,8 @@ class EditionExternalReferencesTest {
     assertNull(providerNumberingEdition("zh-Hant", "biblegateway", "RCU17TS", "john"))
     assertNull(providerNumberingEdition("it", "biblecom", "DB1885", "job"))
     assertNull(providerNumberingEdition("ru", "biblecom", "SYNO", "romans"))
+    assertEquals(BibleEditions.SUV_1952,
+      providerNumberingEdition("sw", "biblecom", "SUV", "john"))
   }
 
   @Test

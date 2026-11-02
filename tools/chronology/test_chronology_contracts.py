@@ -11,7 +11,7 @@ import json
 ROOT = Path(__file__).resolve().parents[2]
 COMMON = ROOT / "shared/src/commonMain/kotlin/com/dividesbyzer0/biblecompanion"
 SOURCE = (COMMON / "BibleChronology.kt").read_text(encoding="utf-8-sig")
-LANGUAGES = ("en", "de", "es", "fr", "it", "pt", "ru", "ja", "ko", "zh-Hans", "zh-Hant", "ar", "hi")
+LANGUAGES = ("en", "de", "es", "fr", "it", "pt", "ru", "ja", "ko", "zh-Hans", "zh-Hant", "ar", "hi", "sw")
 
 
 def balanced_call(text, start):
@@ -194,7 +194,7 @@ class ChronologyContracts(unittest.TestCase):
     def test_guidance_exists_in_all_languages_and_keeps_its_scripture_anchors(self):
         keys = ("chronology_intro", "chronology_job_note", "chronology_judges_note", "chronology_solomon_note")
         paths = sorted((ROOT / "shared/src/commonMain/composeResources").glob("values*/strings.xml"))
-        self.assertEqual(13, len(paths))
+        self.assertEqual(14, len(paths))
         english_document = ET.parse(ROOT / "shared/src/commonMain/composeResources/values/strings.xml")
         english = {key: english_document.find(f"./string[@name='{key}']").text for key in keys}
         for path in paths:

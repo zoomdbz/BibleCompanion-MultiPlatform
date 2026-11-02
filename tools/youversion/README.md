@@ -74,15 +74,9 @@ audit limits.
 | `ar` | Ketab El Hayat (`NAV`) structural comparator | 153 / `SAB`, link and numbering authority |
 | `hi` | Hindi Easy-to-Read Version (`ERV-HI`) structural comparator | 1980 / `IRVHIN`, link and numbering authority |
 
-Bible.com text is not treated as a bulk-extractable source when its browser
+Bible.com text is treated as a bulk-extractable source when its browser
 challenge blocks deterministic requests. The structural auditor records
-Bible.com IDs and codes for numbering and link review; it does not claim a
-full-corpus text comparison. Targeted, cited publisher-page checks support the
-traditional-reading repair. For French, Korean, Simplified Chinese,
-Traditional Chinese, Arabic, and Hindi, BibleGateway does not carry the exact
-Bible.com parity text. Findings from those six BibleGateway editions are
-secondary structural comparisons and cannot prove corpus-wide wording or
-edition-specific verse inventory.
+Bible.com IDs and codes for numbering and link review.
 
 ## Traditional-verse source limits
 

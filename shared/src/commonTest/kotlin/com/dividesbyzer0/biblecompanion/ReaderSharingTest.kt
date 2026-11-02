@@ -278,6 +278,20 @@ class ReaderSharingTest {
   }
 
   @Test
+  fun swahiliShareUsesTheSelectedDivineNameAndKeepsOrdinaryTitles() {
+    val passage = story("exodus-3", "Exodus 3:1-22", listOf(
+      "[DN]BWANA[/DN] akasema kwa Bwana wa nyumba. (3:15)."
+    ))
+    val prefs = PrefsState(appLanguage = "sw", divineName = "yahweh")
+    val content = buildReaderShareText("old_testament",
+      Book("exodus", "Kutoka", listOf(passage)), setOf(passage.id to 0),
+      prefs, BibleEditions.SUV_1952, linksForReference = { emptyList() },
+      localizeReference = { it })
+    assertTrue("Yahwe akasema kwa Bwana wa nyumba." in content.text)
+    assertFalse("[DN]" in content.text)
+  }
+
+  @Test
   fun auditedSingleChapterAssetUsesItsExactSelectedVerseAndPublicLink() {
     val story = story("susanna-1", "Susanna 1-64", listOf(
       "In Babylon wohnte ein Mann mit Namen Jojakim. (1)."

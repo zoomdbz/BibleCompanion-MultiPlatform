@@ -264,6 +264,13 @@ fun AppRoot(
   val initialPrefs = remember { repo.initialSnapshot() }
   val prefs by repo.flow.collectAsState(initialPrefs)
 
+  LaunchedEffect(prefs.appLanguage, prefs.readerMode) {
+    if (LocaleUtils.effectiveAssetTag(prefs.appLanguage) == "sw" &&
+      prefs.readerMode == "biblegateway") {
+      repo.setReaderMode("internal")
+    }
+  }
+
   val notificationRefresh by DailyVerseNotificationBridge.refresh.collectAsState()
   LaunchedEffect(notificationRefresh, prefs.dailyVerseNotifications,
     prefs.dailyVerseNotificationMinuteOfDay, prefs.appLanguage,
@@ -679,7 +686,7 @@ fun AppRoot(
           SettingsScreen(prefs = prefs, repo = repo) { navBack() }
         }
         composable(Dest.About.route) {
-          AboutScreen { navBack() }
+          AboutScreen(prefs.appLanguage) { navBack() }
         }
         composable(Dest.SavedItems.route) {
           SavedItemsScreen(
@@ -961,7 +968,7 @@ fun AppRoot(
               }
             },
             onChooseBook = { nav.navigate(Dest.Books.route(col)) { launchSingleTop = true } },
-            onNavigateToBook = { nextCol, nextBookId, startTts ->
+            onNavigateToBook = { nextCol, nextBookId, startTts, openLastChapter ->
               val nextLoadedBook = ContentRepo.loadBookWithEdition(
                 context = ctx,
                 collection = nextCol,
@@ -971,7 +978,9 @@ fun AppRoot(
               )
               nav.navigate(Dest.BookView.route(
                 nextCol, nextBookId,
-                storyId = nextLoadedBook?.book?.let(::firstReaderChapterId),
+                storyId = nextLoadedBook?.book?.let {
+                  if (openLastChapter) lastReaderChapterId(it) else firstReaderChapterId(it)
+                },
                 autoStartTts = startTts,
                 sourceLang = LocaleUtils.effectiveAssetTag(readerPrefs.appLanguage),
                 sourceEdition = nextLoadedBook?.effectiveEdition ?: readerPrefs.internalBibleVersion,
@@ -1147,7 +1156,9 @@ fun HomeScreen(
   }
 
   var query by remember { mutableStateOf("") }
-  var results by remember { mutableStateOf<List<SearchHit>>(emptyList()) }
+  var results by remember(prefs.appLanguage, prefs.internalBibleVersion) {
+    mutableStateOf<List<SearchHit>>(emptyList())
+  }
   var showSheet by remember { mutableStateOf(false) }
   var searchJob by remember { mutableStateOf<Job?>(null) }
   var searchInFlight by remember { mutableStateOf(false) }
@@ -1167,10 +1178,11 @@ fun HomeScreen(
   // the 2-3 second freeze observed when the ONNX session initializes mid-typing.
   // If the user never focuses search, we never load.
   var searchPrewarmed by remember { mutableStateOf(false) }
+  var prewarmJob by remember { mutableStateOf<Job?>(null) }
   fun prewarmSearch() {
     if (searchPrewarmed) return
     searchPrewarmed = true
-    scope.launch(Dispatchers.Default) {
+    prewarmJob = scope.launch(Dispatchers.Default) {
       runCatching { StorySearch.ensureBuilt(ctx, prefs.appLanguage, prefs.internalBibleVersion) }
       if (prefs.aiSearch) {
         runCatching { platformOnnxInit(ctx) }
@@ -1178,10 +1190,132 @@ fun HomeScreen(
       }
     }
   }
-  // If the language preference changes, allow re-prewarm so the new locale's
-  // index loads next time the user touches the search field.
+
+  fun launchSearch(q: String) {
+    searchJob?.cancel()
+    if (q.length >= 2) {
+      searchInFlight = true
+      val gen = ++searchGen
+      searchJob = scope.launch {
+        // Per-query timing breakdown for logcat makes slow stages visible.
+        val tStart = currentTimeMillis()
+        var kwMs = 0L
+        var onnxMs = 0L
+        var encodeMs = 0L
+        var mergeMs = 0L
+        var cacheHit = false
+        var hadSemantic = false
+        var isRefFlag = false
+        try {
+          // Show keyword results quickly after a short debounce, then
+          // hold longer before doing the expensive semantic encode.
+          // ONNX firing mid-typing caused blocking-GC stalls;
+          // running semantic search idle-only
+          // keeps the keyword path snappy and the semantic merge
+          // only kicks in when the user pauses.
+          delay(220.milliseconds)
+          if (!StorySearch.isReady(prefs.appLanguage, prefs.internalBibleVersion)) {
+            indexReady = false
+            withContext(Dispatchers.Default) {
+              runCatching {
+                StorySearch.ensureBuilt(ctx, prefs.appLanguage, prefs.internalBibleVersion)
+              }
+            }
+            indexReady = StorySearch.isReady(prefs.appLanguage, prefs.internalBibleVersion)
+          }
+          val tKw0 = currentTimeMillis()
+          val kwHits = withContext(Dispatchers.Default) {
+            StorySearch.search(q)
+          }
+          kwMs = currentTimeMillis() - tKw0
+          if (gen == searchGen) results = kwHits
+
+          // Gate semantic search: requires AI enabled, idle pause,
+          // and a substantive query. Skip when:
+          //   - query is < 3 chars (too few semantic signals)
+          //   - query parses as an explicit Bible reference (e.g.,
+          //     "John 3:16", "1 Cor 13") — the keyword path already
+          //     produces the canonical hit; semantic adds no signal.
+          // Strong keyword hits without an explicit reference still
+          // get the semantic merge so related-passage discovery works.
+          val tooShort = q.trim().length < 3
+          isRefFlag = runCatching { StorySearch.isExplicitReference(q) }.getOrDefault(false)
+          // Packaged semantic indexes were built for each language's
+          // default corpus. Alternate editions use their freshly rebuilt
+          // lexical index; merging default-edition vectors would return
+          // mismatched snippets and rankings.
+          val alternateEditionSelected = BibleEditions.isAlternate(
+            prefs.appLanguage, prefs.internalBibleVersion
+          )
+          val skipSemantic = !prefs.aiSearch || tooShort || isRefFlag || alternateEditionSelected
+          if (!skipSemantic) {
+            hadSemantic = true
+            // Idle gate: wait additional time after keyword shows.
+            // If user types again, gen advances and we exit early.
+            delay(450.milliseconds)
+            if (gen != searchGen) return@launch
+            if (!platformOnnxIsReady()) {
+              val tOnnx0 = currentTimeMillis()
+              withContext(Dispatchers.Default) { runCatching { platformOnnxInit(ctx) } }
+              onnxMs = currentTimeMillis() - tOnnx0
+            }
+            if (gen != searchGen) return@launch
+            if (!EmbeddingSearch.isReady(embLang)) {
+              withContext(Dispatchers.Default) { runCatching { EmbeddingSearch.ensureBuilt(ctx, embLang) } }
+            }
+            if (gen == searchGen && EmbeddingSearch.isReady(embLang)) {
+              val semQuery = if (embLang == "en") StorySearch.correctQuery(q) else q
+              val cached = SemanticCache.get(embLang, semQuery)
+              val semHits = if (cached != null) {
+                cacheHit = true
+                cached
+              } else {
+                val tEnc0 = currentTimeMillis()
+                val r = withContext(Dispatchers.Default) {
+                  runCatching { EmbeddingSearch.encodeAndSearch(semQuery, embLang) }.getOrNull()
+                }
+                encodeMs = currentTimeMillis() - tEnc0
+                if (r != null) SemanticCache.put(embLang, semQuery, r)
+                r
+              }
+              if (gen == searchGen) {
+                val tMerge0 = currentTimeMillis()
+                results = EmbeddingSearch.merge(kwHits, semHits)
+                mergeMs = currentTimeMillis() - tMerge0
+              }
+            }
+          }
+        } finally {
+          if (gen == searchGen) {
+            searchInFlight = false
+            val totalMs = currentTimeMillis() - tStart
+            val qSafe = q.take(60).replace('"', '\'')
+            println(
+              "SEARCH q=\"$qSafe\" lang=$embLang ai=${prefs.aiSearch} " +
+              "ref=$isRefFlag sem=$hadSemantic kw_ms=$kwMs " +
+              "onnx_ms=$onnxMs enc_ms=$encodeMs merge_ms=$mergeMs " +
+              "total_ms=$totalMs cache=${if (cacheHit) "hit" else "miss"} " +
+              "results=${results.size}"
+            )
+          }
+        }
+      }
+    } else {
+      searchInFlight = false
+      searchGen++
+      results = emptyList()
+    }
+  }
+
+  // A saved language or edition change can leave HomeScreen alive on iOS.
+  // Invalidate the old request and rebuild the current query in the new scope.
   LaunchedEffect(prefs.appLanguage, prefs.internalBibleVersion) {
+    prewarmJob?.cancel()
+    prewarmJob = null
     searchPrewarmed = false
+    results = emptyList()
+    showSheet = query.length >= 2
+    launchSearch(query)
   }
 
   Box(Modifier.fillMaxSize()) {
@@ -1260,119 +1394,7 @@ fun HomeScreen(
           onValueChange = { q ->
             query = q
             showSheet = q.length >= 2
-            searchJob?.cancel()
-            if (q.length >= 2) {
-              searchInFlight = true
-              val gen = ++searchGen
-              searchJob = scope.launch {
-                // Per-query timing breakdown for logcat makes slow stages visible.
-                val tStart = currentTimeMillis()
-                var kwMs = 0L
-                var onnxMs = 0L
-                var encodeMs = 0L
-                var mergeMs = 0L
-                var cacheHit = false
-                var hadSemantic = false
-                var isRefFlag = false
-                try {
-                  // Show keyword results quickly after a short debounce, then
-                  // hold longer before doing the expensive semantic encode.
-                  // ONNX firing mid-typing caused blocking-GC stalls;
-                  // running semantic search idle-only
-                  // keeps the keyword path snappy and the semantic merge
-                  // only kicks in when the user pauses.
-                  delay(220.milliseconds)
-                  if (!StorySearch.isReady(prefs.appLanguage, prefs.internalBibleVersion)) {
-                    indexReady = false
-                    withContext(Dispatchers.Default) {
-                      runCatching {
-                        StorySearch.ensureBuilt(ctx, prefs.appLanguage, prefs.internalBibleVersion)
-                      }
-                    }
-                    indexReady = StorySearch.isReady(prefs.appLanguage, prefs.internalBibleVersion)
-                  }
-                  val tKw0 = currentTimeMillis()
-                  val kwHits = withContext(Dispatchers.Default) {
-                    StorySearch.search(q)
-                  }
-                  kwMs = currentTimeMillis() - tKw0
-                  if (gen == searchGen) results = kwHits
-
-                  // Gate semantic search: requires AI enabled, idle pause,
-                  // and a substantive query. Skip when:
-                  //   - query is < 3 chars (too few semantic signals)
-                  //   - query parses as an explicit Bible reference (e.g.,
-                  //     "John 3:16", "1 Cor 13") — the keyword path already
-                  //     produces the canonical hit; semantic adds no signal.
-                  // Strong keyword hits without an explicit reference still
-                  // get the semantic merge so related-passage discovery works.
-                  val tooShort = q.trim().length < 3
-                  isRefFlag = runCatching { StorySearch.isExplicitReference(q) }.getOrDefault(false)
-                  // Packaged semantic indexes were built for each language's
-                  // default corpus. Alternate editions use their freshly rebuilt
-                  // lexical index; merging default-edition vectors would return
-                  // mismatched snippets and rankings.
-                  val alternateEditionSelected = BibleEditions.isAlternate(
-                    prefs.appLanguage, prefs.internalBibleVersion
-                  )
-                  val skipSemantic = !prefs.aiSearch || tooShort || isRefFlag || alternateEditionSelected
-                  if (!skipSemantic) {
-                    hadSemantic = true
-                    // Idle gate: wait additional time after keyword shows.
-                    // If user types again, gen advances and we exit early.
-                    delay(450.milliseconds)
-                    if (gen != searchGen) return@launch
-                    if (!platformOnnxIsReady()) {
-                      val tOnnx0 = currentTimeMillis()
-                      withContext(Dispatchers.Default) { runCatching { platformOnnxInit(ctx) } }
-                      onnxMs = currentTimeMillis() - tOnnx0
-                    }
-                    if (gen != searchGen) return@launch
-                    if (!EmbeddingSearch.isReady(embLang)) {
-                      withContext(Dispatchers.Default) { runCatching { EmbeddingSearch.ensureBuilt(ctx, embLang) } }
-                    }
-                    if (gen == searchGen && EmbeddingSearch.isReady(embLang)) {
-                      val semQuery = if (embLang == "en") StorySearch.correctQuery(q) else q
-                      val cached = SemanticCache.get(embLang, semQuery)
-                      val semHits = if (cached != null) {
-                        cacheHit = true
-                        cached
-                      } else {
-                        val tEnc0 = currentTimeMillis()
-                        val r = withContext(Dispatchers.Default) {
-                          runCatching { EmbeddingSearch.encodeAndSearch(semQuery, embLang) }.getOrNull()
-                        }
-                        encodeMs = currentTimeMillis() - tEnc0
-                        if (r != null) SemanticCache.put(embLang, semQuery, r)
-                        r
-                      }
-                      if (gen == searchGen) {
-                        val tMerge0 = currentTimeMillis()
-                        results = EmbeddingSearch.merge(kwHits, semHits)
-                        mergeMs = currentTimeMillis() - tMerge0
-                      }
-                    }
-                  }
-                } finally {
-                  if (gen == searchGen) {
-                    searchInFlight = false
-                    val totalMs = currentTimeMillis() - tStart
-                    val qSafe = q.take(60).replace('"', '\'')
-                    println(
-                      "SEARCH q=\"$qSafe\" lang=$embLang ai=${prefs.aiSearch} " +
-                      "ref=$isRefFlag sem=$hadSemantic kw_ms=$kwMs " +
-                      "onnx_ms=$onnxMs enc_ms=$encodeMs merge_ms=$mergeMs " +
-                      "total_ms=$totalMs cache=${if (cacheHit) "hit" else "miss"} " +
-                      "results=${results.size}"
-                    )
-                  }
-                }
-              }
-            } else {
-              searchInFlight = false
-              searchGen++
-              results = emptyList()
-            }
+            launchSearch(q)
           },
           modifier = Modifier
             .fillMaxWidth()
@@ -1392,11 +1414,9 @@ fun HomeScreen(
           trailingIcon = {
             if (query.isNotEmpty()) {
               IconButton(onClick = {
-                searchJob?.cancel()
-                searchInFlight = false
                 query = ""
-                results = emptyList()
                 showSheet = false
+                launchSearch("")
               }) {
                 Icon(Icons.Filled.Close, contentDescription = stringResource(Res.string.cd_clear_search), tint = MaterialTheme.colorScheme.onSurfaceVariant)
               }
@@ -1541,7 +1561,10 @@ fun HomeScreen(
                       ttsPlaying = false
                     } else {
                       val lang = LocaleUtils.effectiveAssetTag(prefs.appLanguage)
-                      platformTtsSpeak(ctx, "${stripScriptureInlineTags(votd.text)} $votdLocalRef", lang)
+                      val spokenVerse = applyDivineName(
+                        votd.text, prefs.divineName, lang, colorActive = false, collection = votdCollection
+                      )
+                      platformTtsSpeak(ctx, "${stripScriptureInlineTags(spokenVerse)} $votdLocalRef", lang)
                       ttsPlaying = true
                     }
                   },
@@ -1588,12 +1611,7 @@ fun HomeScreen(
             if (votd.editionId != null &&
               votd.editionId != BibleEditions.effective(prefs.appLanguage, prefs.internalBibleVersion)) {
               Text(
-                text = when (votd.editionId) {
-                  BibleEditions.BSB -> stringResource(Res.string.version_bsb)
-                  BibleEditions.KJV_1769 -> stringResource(Res.string.version_kjv)
-                  BibleEditions.defaultForLanguage(prefs.appLanguage) -> stringResource(Res.string.version_local_modern)
-                  else -> stringResource(Res.string.version_local_traditional)
-                },
+                text = bibleEditionLabel(prefs.appLanguage, votd.editionId),
                 style = MaterialTheme.typography.labelSmall,
                 color = votdOnContainer.copy(alpha = 0.7f)
               )
@@ -2173,7 +2191,7 @@ fun BookScreen(
   autoStartTts: Boolean = false,
   onChooseBook: () -> Unit = {},
   onChangeBibleVersion: (String, String?, Int?, Int?) -> Unit,
-  onNavigateToBook: ((col: String, bookId: String, autoStartTts: Boolean) -> Unit)? = null,
+  onNavigateToBook: ((col: String, bookId: String, autoStartTts: Boolean, openLastChapter: Boolean) -> Unit)? = null,
   onReaderScroll: (Int, Int) -> Unit = { _, _ -> },
   initialScrollRestore: Pair<Int, Int>? = null,
   onBack: () -> Unit
@@ -2194,6 +2212,7 @@ fun BookScreen(
   }
   val book = loadedBook?.book
   val effectiveLanguage = LocaleUtils.effectiveAssetTag(prefs.appLanguage)
+  val swahiliDcStudyTranslation = col == "deuterocanonical" && effectiveLanguage == "sw"
   val loadedEditionId = loadedBook?.effectiveEdition
   val activeEditionId = loadedEditionId
     ?: BibleEditions.effective(prefs.appLanguage, prefs.internalBibleVersion)
@@ -2392,15 +2411,15 @@ fun BookScreen(
     )
   ) { mutableStateMapOf<String, Boolean>() }
 
-  val nextBook = remember(col, bookId, prefs.appLanguage) {
+  val (previousBook, nextBook) = remember(col, bookId, prefs.appLanguage) {
     val books = ContentRepo.listBooksLocalized(ctx, col, prefs.appLanguage)
-    val idx = books.indexOfFirst { it.first == bookId }
-    if (idx >= 0 && idx + 1 < books.size) {
-      Triple(col, books[idx + 1].first, books[idx + 1].second)
-    } else if (col == "old_testament") {
-      val nt = ContentRepo.listBooksLocalized(ctx, "new_testament", prefs.appLanguage)
-      if (nt.isNotEmpty()) Triple("new_testament", nt[0].first, nt[0].second) else null
-    } else null
+    val otherTestament = when (col) {
+      "old_testament" -> ContentRepo.listBooksLocalized(ctx, "new_testament", prefs.appLanguage)
+      "new_testament" -> ContentRepo.listBooksLocalized(ctx, "old_testament", prefs.appLanguage)
+      else -> emptyList()
+    }
+    readerBookNeighbor(col, bookId, books, otherTestament, forward = false) to
+      readerBookNeighbor(col, bookId, books, otherTestament, forward = true)
   }
 
   // Verse selection state: Set of (storyId, bulletIndex)
@@ -2535,7 +2554,7 @@ fun BookScreen(
           chapterTtsPlaying = false
           chapterTtsStoryId = null
           chapterTtsPaused = false
-          onNavigateToBook(nextBook.first, nextBook.second, true)
+          onNavigateToBook(nextBook.collection, nextBook.bookId, true, false)
         } else {
           chapterTtsPlaying = false
           chapterTtsStoryId = null
@@ -2580,7 +2599,10 @@ fun BookScreen(
     platformTtsStop(ctx)
     delay(150.milliseconds)
     if (sectionTtsKey != key) return@LaunchedEffect
-    platformTtsSpeak(ctx, text, lang)
+    val spokenSection = stripScriptureInlineTags(applyDivineName(
+      text, prefs.divineName, lang, colorActive = false, collection = col
+    ))
+    platformTtsSpeak(ctx, spokenSection, lang)
 
     val started = (0 until 40).any {
       delay(250.milliseconds)
@@ -2916,11 +2938,18 @@ fun BookScreen(
         Surface(color = MaterialTheme.colorScheme.surfaceContainer, tonalElevation = 2.dp) {
           Row(Modifier.fillMaxWidth().padding(horizontal = 8.dp, vertical = 4.dp),
             verticalAlignment = Alignment.CenterVertically) {
-            IconButton(enabled = visibleStoryIndex > 0, onClick = {
-              book.stories.getOrNull(visibleStoryIndex - 1)?.let { openReaderStory(it.id) }
+            IconButton(enabled = visibleStoryIndex > 0 || (previousBook != null && onNavigateToBook != null), onClick = {
+              if (visibleStoryIndex > 0) {
+                book.stories.getOrNull(visibleStoryIndex - 1)?.let { openReaderStory(it.id) }
+              } else {
+                previousBook?.let { onNavigateToBook?.invoke(it.collection, it.bookId, false, true) }
+              }
             }) {
               Icon(Icons.AutoMirrored.Filled.ArrowBack,
-                contentDescription = stringResource(Res.string.ui_previous_chapter))
+                contentDescription = stringResource(
+                  if (visibleStoryIndex > 0) Res.string.ui_previous_chapter
+                  else Res.string.ui_previous_book
+                ))
             }
             TextButton(onClick = { showChapters = true }, modifier = Modifier.weight(1f)) {
               Column(horizontalAlignment = Alignment.CenterHorizontally) {
@@ -2931,11 +2960,18 @@ fun BookScreen(
                   style = MaterialTheme.typography.labelSmall)
               }
             }
-            IconButton(enabled = visibleStoryIndex < book.stories.lastIndex, onClick = {
-              book.stories.getOrNull((visibleStoryIndex + 1).coerceAtLeast(0))?.let { openReaderStory(it.id) }
+            IconButton(enabled = visibleStoryIndex < book.stories.lastIndex || (nextBook != null && onNavigateToBook != null), onClick = {
+              if (visibleStoryIndex < book.stories.lastIndex) {
+                book.stories.getOrNull((visibleStoryIndex + 1).coerceAtLeast(0))?.let { openReaderStory(it.id) }
+              } else {
+                nextBook?.let { onNavigateToBook?.invoke(it.collection, it.bookId, false, false) }
+              }
             }) {
               Icon(Icons.AutoMirrored.Filled.ArrowForward,
-                contentDescription = stringResource(Res.string.ui_next_chapter))
+                contentDescription = stringResource(
+                  if (visibleStoryIndex < book.stories.lastIndex) Res.string.ui_next_chapter
+                  else Res.string.ui_next_book
+                ))
             }
           }
         }
@@ -2993,7 +3029,9 @@ fun BookScreen(
                 if (loadedBook != null && col in setOf("old_testament", "new_testament", "deuterocanonical")) {
                   // A source-reference link can deliberately open a different
                   // edition from the saved preference. Identify the actual text.
-                  val editionLabel = bibleEditionLabel(effectiveLanguage, activeEditionId)
+                  val editionLabel = if (swahiliDcStudyTranslation)
+                    stringResource(Res.string.swahili_dc_study_translation)
+                  else bibleEditionLabel(effectiveLanguage, activeEditionId)
                   Text(
                     editionLabel,
                     style = MaterialTheme.typography.labelSmall,
@@ -3102,7 +3140,10 @@ fun BookScreen(
                 modifier = Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 8.dp)
               ) {
                 Text(
-                  text = stringResource(Res.string.edition_fallback),
+                  text = stringResource(
+                    if (swahiliDcStudyTranslation && loadedBook.coverage == EditionCoverage.FALLBACK)
+                      Res.string.swahili_dc_edition_fallback else Res.string.edition_fallback
+                  ),
                   style = MaterialTheme.typography.bodySmall,
                   color = MaterialTheme.colorScheme.onSurfaceVariant,
                   modifier = Modifier.padding(horizontal = 12.dp, vertical = 10.dp)
@@ -3378,10 +3419,10 @@ fun BookScreen(
               if (nextBook != null && onNavigateToBook != null) {
                 item(key = "next_book") {
                   FilledTonalButton(
-                    onClick = { onNavigateToBook(nextBook.first, nextBook.second, false) },
+                    onClick = { onNavigateToBook(nextBook.collection, nextBook.bookId, false, false) },
                     modifier = Modifier.fillMaxWidth().padding(top = 8.dp)
                   ) {
-                    Text(stringResource(Res.string.continue_to_book, nextBook.third))
+                    Text(stringResource(Res.string.continue_to_book, nextBook.title))
                   }
                 }
               }
@@ -3896,7 +3937,7 @@ internal fun StoryCard(
         IconButton(onClick = {
           shareScope.launch {
             val sharePlain = withContext(Dispatchers.Default) {
-              val md = buildStoryMarkdown(story, ktLabel, crLabel)
+              val md = buildStoryMarkdown(story, ktLabel, crLabel, prefs, col)
               val plain = markdownToPlainText(md)
               val sourceEdition = BibleEditions.effective(prefs.appLanguage, prefs.internalBibleVersion)
               val links = canonicalShareRef?.let { ref ->
@@ -5169,7 +5210,14 @@ fun SavedItemsScreen(
 }
 
 /** Markdown that NotesMarkdown can flatten to clean text for sharing. */
-private fun buildStoryMarkdown(story: Story, keyTakeawayLabel: String, crossRefsLabel: String): String = buildString {
+private fun buildStoryMarkdown(
+  story: Story, keyTakeawayLabel: String, crossRefsLabel: String,
+  prefs: PrefsState, collection: String
+): String = buildString {
+  fun visible(source: String): String = stripScriptureInlineTags(applyDivineName(
+    source, prefs.divineName, LocaleUtils.effectiveAssetTag(prefs.appLanguage),
+    colorActive = false, collection = collection
+  ))
   appendLine("# ${story.title}")
   if (story.refs.isNotEmpty()) {
     appendLine()
@@ -5177,16 +5225,16 @@ private fun buildStoryMarkdown(story: Story, keyTakeawayLabel: String, crossRefs
   }
   if (story.summaryBullets.isNotEmpty()) {
     appendLine()
-    story.summaryBullets.forEach { appendLine("- ${stripScriptureInlineTags(it)}") }
+    story.summaryBullets.forEach { appendLine("- ${visible(it)}") }
   }
   if (story.keyTakeaway.isNotBlank()) {
     appendLine()
-    appendLine("**$keyTakeawayLabel:** ${story.keyTakeaway}")
+    appendLine("**$keyTakeawayLabel:** ${visible(story.keyTakeaway)}")
   }
   if (story.crossRefs.isNotEmpty()) {
     appendLine()
     appendLine("**$crossRefsLabel**")
-    story.crossRefs.forEach { appendLine("- $it") }
+    story.crossRefs.forEach { appendLine("- ${visible(it)}") }
   }
 }.trimEnd()
 
@@ -5455,7 +5503,8 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
     "hi" to listOf(
       "HERV","HSS","IRVHIN","HSB","HINCLBSI","HINOVBSI","HHBD"
     ),
-    "ar" to listOf(
+        "sw" to listOf("SUV"),
+        "ar" to listOf(
       "SAB","QNAV","AVDDV","FAOV","GOV","GNADC25"
     )
   )
@@ -5891,7 +5940,8 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
         "de" to "Deutsch",
         "ko" to "\uD55C\uAD6D\uC5B4",
         "hi" to "\u0939\u093F\u0928\u094D\u0926\u0940",
-        "ar" to "\u0627\u0644\u0639\u0631\u0628\u064A\u0629"
+        "ar" to "\u0627\u0644\u0639\u0631\u0628\u064A\u0629",
+        "sw" to "Kiswahili"
       )
       val currentLangLabel = languageOptions.firstOrNull { it.first == prefs.appLanguage }?.second
         ?: stringResource(Res.string.language_system)
@@ -5910,7 +5960,11 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
                 val prevLang = prefs.appLanguage
                 scope.launch {
                   repo.setAppLanguage(code)
-                  externalVersionDefaultOrNull(LocaleUtils.effectiveAssetTag(code), prefs.readerMode)
+                  val nextReaderMode = if (code == "sw" && prefs.readerMode == "biblegateway") {
+                    repo.setReaderMode("internal")
+                    "internal"
+                  } else prefs.readerMode
+                  externalVersionDefaultOrNull(LocaleUtils.effectiveAssetTag(code), nextReaderMode)
                     ?.let { repo.setVersion(it) }
 
                   // AppCompat recreates Android activities when the locale
@@ -5988,12 +6042,15 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
 
       Text(stringResource(Res.string.preferred_reader), style = MaterialTheme.typography.titleSmall)
       Text(stringResource(Res.string.preferred_reader_subtitle), style = MaterialTheme.typography.bodySmall)
-      val readerModes = listOf("internal", "biblecom", "biblegateway")
-      val readerLabels = listOf(
-        stringResource(Res.string.reader_internal),
-        stringResource(Res.string.reader_biblecom),
-        stringResource(Res.string.reader_biblegateway)
-      )
+      val readerModes = if (languageKey == "sw") listOf("internal", "biblecom")
+        else listOf("internal", "biblecom", "biblegateway")
+      val readerLabels = readerModes.map { mode ->
+        when (mode) {
+          "internal" -> stringResource(Res.string.reader_internal)
+          "biblecom" -> stringResource(Res.string.reader_biblecom)
+          else -> stringResource(Res.string.reader_biblegateway)
+        }
+      }
       SingleChoiceSegmentedButtonRow(Modifier.fillMaxWidth().height(IntrinsicSize.Max)) {
         readerModes.forEachIndexed { idx, mode ->
           SegmentedButton(
@@ -6008,7 +6065,7 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
                 }
               }
             },
-            shape = SegmentedButtonDefaults.itemShape(index = idx, count = 3)
+            shape = SegmentedButtonDefaults.itemShape(index = idx, count = readerModes.size)
           ) { Text(readerLabels[idx], maxLines = 2, style = MaterialTheme.typography.labelSmall) }
         }
       }
@@ -6075,8 +6132,10 @@ fun SettingsScreen(prefs: PrefsState, repo: PrefsRepo, onBack: () -> Unit) {
             style = MaterialTheme.typography.bodySmall,
             color = MaterialTheme.colorScheme.onSurfaceVariant
           )
-          val shareProviders = listOf("biblecom" to "Bible.com", "biblegateway" to "Bible Gateway")
-          val selectedShareProvider = normalizeVerseShareProvider(prefs.verseShareProvider)
+          val shareProviders = if (languageKey == "sw") listOf("biblecom" to "Bible.com")
+            else listOf("biblecom" to "Bible.com", "biblegateway" to "Bible Gateway")
+          val selectedShareProvider = if (languageKey == "sw") "biblecom"
+            else normalizeVerseShareProvider(prefs.verseShareProvider)
           SingleChoiceSegmentedButtonRow(Modifier.fillMaxWidth().height(IntrinsicSize.Max)) {
             shareProviders.forEachIndexed { index, (provider, label) ->
               SegmentedButton(
@@ -6367,7 +6426,7 @@ private fun ThemeSwatchChip(
 // -------------------- ABOUT Screen ------------------
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
-fun AboutScreen(onBack: () -> Unit) {
+fun AboutScreen(appLanguage: String, onBack: () -> Unit) {
   val ctx = LocalPlatformContext.current
   Scaffold(
     topBar = {
@@ -6436,6 +6495,11 @@ fun AboutScreen(onBack: () -> Unit) {
             stringResource(Res.string.about_mission_text),
             style = MaterialTheme.typography.bodyLarge
           )
+          if (LocaleUtils.effectiveAssetTag(appLanguage) == "sw") {
+            Text(stringResource(Res.string.swahili_sources_title), style = MaterialTheme.typography.titleMedium)
+            Text(stringResource(Res.string.swahili_onen_attribution), style = MaterialTheme.typography.bodyMedium)
+            Text(stringResource(Res.string.swahili_suv_attribution), style = MaterialTheme.typography.bodyMedium)
+          }
           Text(
             stringResource(Res.string.about_free_text),
             style = MaterialTheme.typography.titleSmall,

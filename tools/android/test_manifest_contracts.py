@@ -43,7 +43,7 @@ class ManifestContracts(unittest.TestCase):
 
     def test_widget_loading_label_exists_in_every_native_locale(self):
         resources = list((ANDROID / "res").glob("values*/strings.xml"))
-        self.assertEqual(13, len(resources))
+        self.assertEqual(14, len(resources))
         for path in resources:
             with self.subTest(locale=path.parent.name):
                 root = ET.parse(path)

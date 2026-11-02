@@ -86,7 +86,7 @@ Thumbs.db
 google-services.json
 GoogleService-Info.plist
 
-# Licensed YouVersion comparison responses and reports
+# YouVersion comparison responses and reports
 .kjv-biblecom-cache/
 
 # Sanitized localized Scripture structure reports; raw source HTML is never cached

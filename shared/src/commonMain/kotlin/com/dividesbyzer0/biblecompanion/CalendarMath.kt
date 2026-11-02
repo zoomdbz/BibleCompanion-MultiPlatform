@@ -533,6 +533,7 @@ object CalendarUtils {
     "pt" -> listOf("Dom", "Seg", "Ter", "Qua", "Qui", "Sex", "S\u00e1b")
     "it" -> listOf("Dom", "Lun", "Mar", "Mer", "Gio", "Ven", "Sab")
     "hi" -> listOf("\u0930\u0935\u093f", "\u0938\u094b\u092e", "\u092e\u0902", "\u092c\u0941\u0927", "\u0917\u0941\u0930\u0941", "\u0936\u0941\u0915\u094d\u0930", "\u0936\u0928\u093f")
+    "sw" -> listOf("Jpl", "Jtt", "Jne", "Jno", "Alh", "Iju", "Jms")
     else -> listOf("Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat")
   }
 
@@ -597,6 +598,7 @@ object CalendarUtils {
       "zh-hans", "zh-hant" -> listOf("", "1\u6708", "2\u6708", "3\u6708", "4\u6708", "5\u6708", "6\u6708", "7\u6708", "8\u6708", "9\u6708", "10\u6708", "11\u6708", "12\u6708")
       "ar" -> listOf("", "\u064a\u0646\u0627\u064a\u0631", "\u0641\u0628\u0631\u0627\u064a\u0631", "\u0645\u0627\u0631\u0633", "\u0623\u0628\u0631\u064a\u0644", "\u0645\u0627\u064a\u0648", "\u064a\u0648\u0646\u064a\u0648", "\u064a\u0648\u0644\u064a\u0648", "\u0623\u063a\u0633\u0637\u0633", "\u0633\u0628\u062a\u0645\u0628\u0631", "\u0623\u0643\u062a\u0648\u0628\u0631", "\u0646\u0648\u0641\u0645\u0628\u0631", "\u062f\u064a\u0633\u0645\u0628\u0631")
       "hi" -> listOf("", "\u091c\u0928\u0935\u0930\u0940", "\u092b\u093c\u0930\u0935\u0930\u0940", "\u092e\u093e\u0930\u094d\u091a", "\u0905\u092a\u094d\u0930\u0948\u0932", "\u092e\u0908", "\u091c\u0942\u0928", "\u091c\u0941\u0932\u093e\u0908", "\u0905\u0917\u0938\u094d\u0924", "\u0938\u093f\u0924\u0902\u092c\u0930", "\u0905\u0915\u094d\u0924\u0942\u092c\u0930", "\u0928\u0935\u0902\u092c\u0930", "\u0926\u093f\u0938\u0902\u092c\u0930")
+      "sw" -> listOf("", "Januari", "Februari", "Machi", "Aprili", "Mei", "Juni", "Julai", "Agosti", "Septemba", "Oktoba", "Novemba", "Desemba")
       else -> GREGORIAN_MONTH_NAMES
     }
     return names.getOrElse(month) { GREGORIAN_MONTH_NAMES.getOrElse(month) { "" } }

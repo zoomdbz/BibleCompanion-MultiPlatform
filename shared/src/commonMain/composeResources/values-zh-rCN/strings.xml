@@ -408,6 +408,8 @@
     <string name="ui_choose_book">选择书卷</string>
     <string name="ui_choose_bible_version">选择圣经版本</string>
     <string name="ui_previous_chapter">上一章</string>
+    <string name="ui_previous_book">上一卷</string>
+    <string name="ui_next_book">下一卷</string>
     <string name="ui_next_chapter">下一章</string>
     <string name="ui_chapter_position">%1$d / %2$d</string>
     <string name="ui_foundations">信仰根基</string>

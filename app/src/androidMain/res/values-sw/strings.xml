@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bible Companion</string>
+    <string name="widget_loading">Inapakia</string>
+    <string name="widget_description">Huonyesha tarehe zijazo za sikukuu za Biblia</string>
+    <string name="widget_calendar_description">Kalenda ya sikukuu za Biblia yenye tarehe za Kiebrania na Waesene</string>
+    <string name="shortcut_search">Tafuta</string>
+    <string name="shortcut_bookmarks">Alamisho</string>
+    <string name="shortcut_continue">Endelea kusoma</string>
+    <string name="shortcut_feast_calendar">Kalenda ya sikukuu</string>
+</resources>

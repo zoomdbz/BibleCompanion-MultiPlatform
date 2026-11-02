@@ -1,0 +1,550 @@
+{
+  "schemaVersion": 2,
+  "editionId": "suv1952",
+  "displayName": "Swahili Union Version 1952",
+  "language": "sw",
+  "source": {
+    "title": "Swahili SUV (Maandiko Matakatifu ya Mungu Yaitwayo Biblia)",
+    "file": "SwahiliSUV1952Bible.xml",
+    "format": "xml",
+    "fileSha256": "a506e7eee5a1198e159f2d202f52783a86b8be7e247eb5a05cd03633b9e12b20",
+    "sourceNotice": "Swahili Union Version (SUV): Bible Society of Tanzania and Bible Society of Kenya, 1952.",
+    "redistributionPermission": "Not established by the pinned XML. An earlier inspection of this pathname showed a rights-reserved notice; the current pinned file does not contain a license."
+  },
+  "totals": {
+    "books": 66,
+    "chapters": 1189,
+    "onenVerseUnits": 31103,
+    "suvVerseUnits": 31102
+  },
+  "books": [
+    {
+      "collection": "old_testament",
+      "bookId": "genesis",
+      "sourceBookCode": "GEN",
+      "coverage": "full",
+      "chapters": 50,
+      "verseUnits": 1533
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "exodus",
+      "sourceBookCode": "EXO",
+      "coverage": "full",
+      "chapters": 40,
+      "verseUnits": 1213
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "leviticus",
+      "sourceBookCode": "LEV",
+      "coverage": "full",
+      "chapters": 27,
+      "verseUnits": 859
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "numbers",
+      "sourceBookCode": "NUM",
+      "coverage": "full",
+      "chapters": 36,
+      "verseUnits": 1288
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "deuteronomy",
+      "sourceBookCode": "DEU",
+      "coverage": "full",
+      "chapters": 34,
+      "verseUnits": 959
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "joshua",
+      "sourceBookCode": "JOS",
+      "coverage": "full",
+      "chapters": 24,
+      "verseUnits": 658
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "judges",
+      "sourceBookCode": "JDG",
+      "coverage": "full",
+      "chapters": 21,
+      "verseUnits": 618
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "ruth",
+      "sourceBookCode": "RUT",
+      "coverage": "full",
+      "chapters": 4,
+      "verseUnits": 85
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "1_samuel",
+      "sourceBookCode": "1SA",
+      "coverage": "full",
+      "chapters": 31,
+      "verseUnits": 810
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "2_samuel",
+      "sourceBookCode": "2SA",
+      "coverage": "full",
+      "chapters": 24,
+      "verseUnits": 695
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "1_kings",
+      "sourceBookCode": "1KI",
+      "coverage": "full",
+      "chapters": 22,
+      "verseUnits": 816
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "2_kings",
+      "sourceBookCode": "2KI",
+      "coverage": "full",
+      "chapters": 25,
+      "verseUnits": 719
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "1_chronicles",
+      "sourceBookCode": "1CH",
+      "coverage": "full",
+      "chapters": 29,
+      "verseUnits": 942
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "2_chronicles",
+      "sourceBookCode": "2CH",
+      "coverage": "full",
+      "chapters": 36,
+      "verseUnits": 822
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "ezra",
+      "sourceBookCode": "EZR",
+      "coverage": "full",
+      "chapters": 10,
+      "verseUnits": 280
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "nehemiah",
+      "sourceBookCode": "NEH",
+      "coverage": "full",
+      "chapters": 13,
+      "verseUnits": 406
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "esther",
+      "sourceBookCode": "EST",
+      "coverage": "full",
+      "chapters": 10,
+      "verseUnits": 167
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "job",
+      "sourceBookCode": "JOB",
+      "coverage": "full",
+      "chapters": 42,
+      "verseUnits": 1070
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "psalms",
+      "sourceBookCode": "PSA",
+      "coverage": "full",
+      "chapters": 150,
+      "verseUnits": 2461
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "proverbs",
+      "sourceBookCode": "PRO",
+      "coverage": "full",
+      "chapters": 31,
+      "verseUnits": 915
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "ecclesiastes",
+      "sourceBookCode": "ECC",
+      "coverage": "full",
+      "chapters": 12,
+      "verseUnits": 222
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "song_of_songs",
+      "sourceBookCode": "SNG",
+      "coverage": "full",
+      "chapters": 8,
+      "verseUnits": 117
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "isaiah",
+      "sourceBookCode": "ISA",
+      "coverage": "full",
+      "chapters": 66,
+      "verseUnits": 1292
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "jeremiah",
+      "sourceBookCode": "JER",
+      "coverage": "full",
+      "chapters": 52,
+      "verseUnits": 1364
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "lamentations",
+      "sourceBookCode": "LAM",
+      "coverage": "full",
+      "chapters": 5,
+      "verseUnits": 154
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "ezekiel",
+      "sourceBookCode": "EZK",
+      "coverage": "full",
+      "chapters": 48,
+      "verseUnits": 1273
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "daniel",
+      "sourceBookCode": "DAN",
+      "coverage": "full",
+      "chapters": 12,
+      "verseUnits": 357
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "hosea",
+      "sourceBookCode": "HOS",
+      "coverage": "full",
+      "chapters": 14,
+      "verseUnits": 197
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "joel",
+      "sourceBookCode": "JOL",
+      "coverage": "full",
+      "chapters": 3,
+      "verseUnits": 73
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "amos",
+      "sourceBookCode": "AMO",
+      "coverage": "full",
+      "chapters": 9,
+      "verseUnits": 146
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "obadiah",
+      "sourceBookCode": "OBA",
+      "coverage": "full",
+      "chapters": 1,
+      "verseUnits": 21
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "jonah",
+      "sourceBookCode": "JON",
+      "coverage": "full",
+      "chapters": 4,
+      "verseUnits": 48
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "micah",
+      "sourceBookCode": "MIC",
+      "coverage": "full",
+      "chapters": 7,
+      "verseUnits": 105
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "nahum",
+      "sourceBookCode": "NAM",
+      "coverage": "full",
+      "chapters": 3,
+      "verseUnits": 47
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "habakkuk",
+      "sourceBookCode": "HAB",
+      "coverage": "full",
+      "chapters": 3,
+      "verseUnits": 56
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "zephaniah",
+      "sourceBookCode": "ZEP",
+      "coverage": "full",
+      "chapters": 3,
+      "verseUnits": 53
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "haggai",
+      "sourceBookCode": "HAG",
+      "coverage": "full",
+      "chapters": 2,
+      "verseUnits": 38
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "zechariah",
+      "sourceBookCode": "ZEC",
+      "coverage": "full",
+      "chapters": 14,
+      "verseUnits": 211
+    },
+    {
+      "collection": "old_testament",
+      "bookId": "malachi",
+      "sourceBookCode": "MAL",
+      "coverage": "full",
+      "chapters": 4,
+      "verseUnits": 55
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "matthew",
+      "sourceBookCode": "MAT",
+      "coverage": "full",
+      "chapters": 28,
+      "verseUnits": 1071
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "mark",
+      "sourceBookCode": "MRK",
+      "coverage": "full",
+      "chapters": 16,
+      "verseUnits": 678
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "luke",
+      "sourceBookCode": "LUK",
+      "coverage": "full",
+      "chapters": 24,
+      "verseUnits": 1151
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "john",
+      "sourceBookCode": "JHN",
+      "coverage": "full",
+      "chapters": 21,
+      "verseUnits": 878
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "acts",
+      "sourceBookCode": "ACT",
+      "coverage": "full",
+      "chapters": 28,
+      "verseUnits": 1007
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "romans",
+      "sourceBookCode": "ROM",
+      "coverage": "full",
+      "chapters": 16,
+      "verseUnits": 433
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "1_corinthians",
+      "sourceBookCode": "1CO",
+      "coverage": "full",
+      "chapters": 16,
+      "verseUnits": 437
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "2_corinthians",
+      "sourceBookCode": "2CO",
+      "coverage": "full",
+      "chapters": 13,
+      "verseUnits": 257
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "galatians",
+      "sourceBookCode": "GAL",
+      "coverage": "full",
+      "chapters": 6,
+      "verseUnits": 149
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "ephesians",
+      "sourceBookCode": "EPH",
+      "coverage": "full",
+      "chapters": 6,
+      "verseUnits": 155
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "philippians",
+      "sourceBookCode": "PHP",
+      "coverage": "full",
+      "chapters": 4,
+      "verseUnits": 104
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "colossians",
+      "sourceBookCode": "COL",
+      "coverage": "full",
+      "chapters": 4,
+      "verseUnits": 95
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "1_thessalonians",
+      "sourceBookCode": "1TH",
+      "coverage": "full",
+      "chapters": 5,
+      "verseUnits": 89
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "2_thessalonians",
+      "sourceBookCode": "2TH",
+      "coverage": "full",
+      "chapters": 3,
+      "verseUnits": 47
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "1_timothy",
+      "sourceBookCode": "1TI",
+      "coverage": "full",
+      "chapters": 6,
+      "verseUnits": 113
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "2_timothy",
+      "sourceBookCode": "2TI",
+      "coverage": "full",
+      "chapters": 4,
+      "verseUnits": 83
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "titus",
+      "sourceBookCode": "TIT",
+      "coverage": "full",
+      "chapters": 3,
+      "verseUnits": 46
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "philemon",
+      "sourceBookCode": "PHM",
+      "coverage": "full",
+      "chapters": 1,
+      "verseUnits": 25
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "hebrews",
+      "sourceBookCode": "HEB",
+      "coverage": "full",
+      "chapters": 13,
+      "verseUnits": 303
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "james",
+      "sourceBookCode": "JAS",
+      "coverage": "full",
+      "chapters": 5,
+      "verseUnits": 108
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "1_peter",
+      "sourceBookCode": "1PE",
+      "coverage": "full",
+      "chapters": 5,
+      "verseUnits": 105
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "2_peter",
+      "sourceBookCode": "2PE",
+      "coverage": "full",
+      "chapters": 3,
+      "verseUnits": 61
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "1_john",
+      "sourceBookCode": "1JN",
+      "coverage": "full",
+      "chapters": 5,
+      "verseUnits": 105
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "2_john",
+      "sourceBookCode": "2JN",
+      "coverage": "full",
+      "chapters": 1,
+      "verseUnits": 13
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "3_john",
+      "sourceBookCode": "3JN",
+      "coverage": "full",
+      "chapters": 1,
+      "verseUnits": 15
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "jude",
+      "sourceBookCode": "JUD",
+      "coverage": "full",
+      "chapters": 1,
+      "verseUnits": 25
+    },
+    {
+      "collection": "new_testament",
+      "bookId": "revelation",
+      "sourceBookCode": "REV",
+      "coverage": "full",
+      "chapters": 22,
+      "verseUnits": 404
+    }
+  ]
+}

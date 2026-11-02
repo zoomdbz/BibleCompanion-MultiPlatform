@@ -1,0 +1,1438 @@
+[
+  {
+    "canon": "Mwanzo",
+    "aliases": [
+      "Mwanzo",
+      "Genesis",
+      "Gen",
+      "Ge",
+      "Gn"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Kutoka",
+    "aliases": [
+      "Kutoka",
+      "Exodus",
+      "Exod",
+      "Exo",
+      "Ex"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Mambo Ya Walawi",
+    "aliases": [
+      "Mambo Ya Walawi",
+      "Walawi",
+      "Leviticus",
+      "Lev",
+      "Le"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Hesabu",
+    "aliases": [
+      "Hesabu",
+      "Numbers",
+      "Num",
+      "Nu",
+      "Nm",
+      "Nb"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Kumbukumbu La Torati",
+    "aliases": [
+      "Kumbukumbu La Torati",
+      "Deuteronomy",
+      "Deut",
+      "Deu",
+      "Dt",
+      "De",
+      "Deuteron.",
+      "Deut.",
+      "Deuterony"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Yoshua",
+    "aliases": [
+      "Yoshua",
+      "Joshua",
+      "Josh",
+      "Jos"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Waamuzi",
+    "aliases": [
+      "Waamuzi",
+      "Judges",
+      "Judg",
+      "Jdg",
+      "Jdgs"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Ruthu",
+    "aliases": [
+      "Ruthu",
+      "Ruth",
+      "Ru"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "1 Samweli",
+    "aliases": [
+      "1 Samweli",
+      "1 Samueli",
+      "1 Samuel",
+      "1Sam",
+      "1 Sa",
+      "1 S",
+      "I Samuel",
+      "1Sm",
+      "1Samuel"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "2 Samweli",
+    "aliases": [
+      "2 Samweli",
+      "2 Samueli",
+      "2 Samuel",
+      "2Sam",
+      "2 Sa",
+      "2 S",
+      "II Samuel",
+      "2Sm",
+      "2Samuel"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "1 Wafalme",
+    "aliases": [
+      "1 Wafalme",
+      "1 Kings",
+      "1Kgs",
+      "1 Ki",
+      "I Kings",
+      "1 Kgs",
+      "1Kings"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "2 Wafalme",
+    "aliases": [
+      "2 Wafalme",
+      "2 Kings",
+      "2Kgs",
+      "2 Ki",
+      "II Kings",
+      "2 Kgs",
+      "2Kings"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "1 Mambo Ya Nyakati",
+    "aliases": [
+      "1 Mambo Ya Nyakati",
+      "1 Chronicles",
+      "1Chr",
+      "1 Ch",
+      "I Chronicles",
+      "1 Chron",
+      "1Chronicles"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "2 Mambo Ya Nyakati",
+    "aliases": [
+      "2 Mambo Ya Nyakati",
+      "2 Chronicles",
+      "2Chr",
+      "2 Ch",
+      "II Chronicles",
+      "2 Chron",
+      "2Chronicles"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Ezra",
+    "aliases": [
+      "Ezra",
+      "Ezr"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Nehemia",
+    "aliases": [
+      "Nehemia",
+      "Nehemiah",
+      "Neh"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Esta",
+    "aliases": [
+      "Esta",
+      "Esther",
+      "Esth",
+      "Est"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Ayubu",
+    "aliases": [
+      "Ayubu",
+      "Job"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Zaburi",
+    "aliases": [
+      "Zaburi",
+      "Psalms",
+      "PSALM",
+      "PSALMS",
+      "Psalm",
+      "Ps",
+      "Psa",
+      "Pss"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Mithali",
+    "aliases": [
+      "Mithali",
+      "Proverbs",
+      "Prov",
+      "Pr",
+      "Prv"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Mhubiri",
+    "aliases": [
+      "Mhubiri",
+      "Ecclesiastes",
+      "Eccl",
+      "Ecc",
+      "Qoheleth",
+      "Qoh"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Wimbo Ulio Bora",
+    "aliases": [
+      "Wimbo Ulio Bora",
+      "Song of Songs",
+      "Song of Solomon",
+      "Song",
+      "SoS",
+      "Canticles",
+      "Cant"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Isaya",
+    "aliases": [
+      "Isaya",
+      "Isaiah",
+      "Isa",
+      "Is"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Yeremia",
+    "aliases": [
+      "Yeremia",
+      "Jeremiah",
+      "Jer",
+      "Jr"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Maombolezo",
+    "aliases": [
+      "Maombolezo",
+      "Lamentations",
+      "Lam"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Ezekieli",
+    "aliases": [
+      "Ezekieli",
+      "Ezekiel",
+      "Ezek",
+      "Eze",
+      "Ezk"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Danieli",
+    "aliases": [
+      "Danieli",
+      "Daniel",
+      "Dan",
+      "Da",
+      "Dn"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Hosea",
+    "aliases": [
+      "Hosea",
+      "Hos",
+      "Ho"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Yoeli",
+    "aliases": [
+      "Yoeli",
+      "Joel",
+      "Joe",
+      "Jl"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Amosi",
+    "aliases": [
+      "Amosi",
+      "Amos",
+      "Am"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Obadia",
+    "aliases": [
+      "Obadia",
+      "Obadiah",
+      "Obad",
+      "Oba",
+      "Ob"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Yona",
+    "aliases": [
+      "Yona",
+      "Jonah",
+      "Jon",
+      "Jnh"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Mika",
+    "aliases": [
+      "Mika",
+      "Micah",
+      "Mic",
+      "Mi"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Nahumu",
+    "aliases": [
+      "Nahumu",
+      "Nahum",
+      "Nah"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Habakuki",
+    "aliases": [
+      "Habakuki",
+      "Habakkuk",
+      "Hab",
+      "Hb",
+      "Hbk"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Sefania",
+    "aliases": [
+      "Sefania",
+      "Zephaniah",
+      "Zeph",
+      "Zep",
+      "Zp"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Hagai",
+    "aliases": [
+      "Hagai",
+      "Haggai",
+      "Hag",
+      "Hg"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Zekaria",
+    "aliases": [
+      "Zekaria",
+      "Zakaria",
+      "Zechariah",
+      "Zech",
+      "Zec",
+      "Zc"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Malaki",
+    "aliases": [
+      "Malaki",
+      "Malachi",
+      "Mal",
+      "Ml"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Mathayo",
+    "aliases": [
+      "Mathayo",
+      "Matthew",
+      "Matt",
+      "Mt"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Marko",
+    "aliases": [
+      "Marko",
+      "Mark",
+      "Mk",
+      "Mr",
+      "Mrk"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Luka",
+    "aliases": [
+      "Luka",
+      "Luke",
+      "Lk"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Yohana",
+    "aliases": [
+      "Yohana",
+      "John",
+      "Jn",
+      "Jhn"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Matendo Ya Mitume",
+    "aliases": [
+      "Matendo Ya Mitume",
+      "Matendo",
+      "Mitume",
+      "Acts",
+      "Ac",
+      "Act",
+      "Acts of the Apostles"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Warumi",
+    "aliases": [
+      "Warumi",
+      "Waroma",
+      "Romans",
+      "Rom",
+      "Ro",
+      "Rm"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "1 Wakorintho",
+    "aliases": [
+      "1 Wakorintho",
+      "1 Corinthians",
+      "1 Cor",
+      "1Co",
+      "First Corinthians",
+      "1 Cor."
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "2 Wakorintho",
+    "aliases": [
+      "2 Wakorintho",
+      "2 Corinthians",
+      "2 Cor",
+      "2Co",
+      "Second Corinthians",
+      "2 Cor."
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Wagalatia",
+    "aliases": [
+      "Wagalatia",
+      "Galatians",
+      "Gal",
+      "Ga"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Waefeso",
+    "aliases": [
+      "Waefeso",
+      "Ephesians",
+      "Eph",
+      "Ep"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Wafilipi",
+    "aliases": [
+      "Wafilipi",
+      "Philippians",
+      "Phil",
+      "Php",
+      "Phl"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Wakolosai",
+    "aliases": [
+      "Wakolosai",
+      "Colossians",
+      "Col",
+      "Co"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "1 Wathesalonike",
+    "aliases": [
+      "1 Wathesalonike",
+      "1 Thessalonians",
+      "1 Thess",
+      "1Th",
+      "1 Thes",
+      "1Ts"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "2 Wathesalonike",
+    "aliases": [
+      "2 Wathesalonike",
+      "2 Thessalonians",
+      "2 Thess",
+      "2Th",
+      "2 Thes",
+      "2Ts"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "1 Timotheo",
+    "aliases": [
+      "1 Timotheo",
+      "1 Timothy",
+      "1 Tim",
+      "1Ti",
+      "First Timothy"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "2 Timotheo",
+    "aliases": [
+      "2 Timotheo",
+      "2 Timothy",
+      "2 Tim",
+      "2Ti",
+      "Second Timothy"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Tito",
+    "aliases": [
+      "Tito",
+      "Titus",
+      "Tit",
+      "Ti"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Filemoni",
+    "aliases": [
+      "Filemoni",
+      "Philemon",
+      "Phlm",
+      "Phm"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Waebrania",
+    "aliases": [
+      "Waebrania",
+      "Hebrews",
+      "Heb",
+      "Hb"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Yakobo",
+    "aliases": [
+      "Yakobo",
+      "James",
+      "Jas",
+      "Jm"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "1 Petro",
+    "aliases": [
+      "1 Petro",
+      "1 Peter",
+      "1 Pet",
+      "1Pe",
+      "1 Pt",
+      "First Peter"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "2 Petro",
+    "aliases": [
+      "2 Petro",
+      "2 Peter",
+      "2 Pet",
+      "2Pe",
+      "2 Pt",
+      "Second Peter"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "1 Yohana",
+    "aliases": [
+      "1 Yohana",
+      "1 John",
+      "1 Jn",
+      "1Jo",
+      "First John"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "2 Yohana",
+    "aliases": [
+      "2 Yohana",
+      "2 John",
+      "2 Jn",
+      "2Jo",
+      "Second John"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "3 Yohana",
+    "aliases": [
+      "3 Yohana",
+      "3 John",
+      "3 Jn",
+      "3Jo",
+      "Third John"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Yuda",
+    "aliases": [
+      "Yuda",
+      "Jude",
+      "Jud",
+      "Jd"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Ufunuo",
+    "aliases": [
+      "Ufunuo",
+      "Revelation",
+      "Rev",
+      "Re",
+      "Apocalypse"
+    ],
+    "group": "canon"
+  },
+  {
+    "canon": "Tobiti",
+    "aliases": [
+      "Tobiti",
+      "Tobit",
+      "Tob",
+      "Tb"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Yudithi",
+    "aliases": [
+      "Yudithi",
+      "Judith",
+      "Jdt",
+      "Jth"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Nyongeza za Esta",
+    "aliases": [
+      "Nyongeza za Esta",
+      "Esta ya Kigiriki",
+      "Additions to Esther",
+      "Greek Esther",
+      "Add Esth",
+      "Esther (Greek)"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Hekima ya Sulemani",
+    "aliases": [
+      "Hekima ya Sulemani",
+      "Hekima",
+      "Wisdom",
+      "Wisdom of Solomon",
+      "Wis",
+      "Wisd"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Siraki",
+    "aliases": [
+      "Siraki",
+      "Hekima ya Sira",
+      "Sirach",
+      "Ecclesiasticus",
+      "Sir",
+      "Ecclus",
+      "Sirach (Ecclesiasticus)"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Baruku",
+    "aliases": [
+      "Baruku",
+      "Baruch",
+      "Bar"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Barua ya Yeremia",
+    "aliases": [
+      "Barua ya Yeremia",
+      "Waraka wa Yeremia",
+      "Letter of Jeremiah",
+      "Epistle of Jeremiah",
+      "LetJer",
+      "Baruch 6"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Sala ya Azaria",
+    "aliases": [
+      "Sala ya Azaria",
+      "Wimbo wa Vijana Watatu",
+      "Prayer of Azariah",
+      "Song of the Three Holy Children",
+      "Song of the Three",
+      "Song of Three",
+      "PrAzar",
+      "Azariah",
+      "The Prayer of Azariah and the Song of the Three"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Susana",
+    "aliases": [
+      "Susana",
+      "Susanna",
+      "Sus"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Beli na Joka",
+    "aliases": [
+      "Beli na Joka",
+      "Bel and the Dragon",
+      "Bel"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Zaburi ya 151",
+    "aliases": [
+      "Zaburi ya 151",
+      "Zaburi 151",
+      "Psalm 151",
+      "Ps 151",
+      "Psa 151",
+      "Psalm CLI"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "1 Wamakabayo",
+    "aliases": [
+      "1 Wamakabayo",
+      "1 Maccabees",
+      "1 Macc",
+      "1Mac",
+      "I Maccabees"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "2 Wamakabayo",
+    "aliases": [
+      "2 Wamakabayo",
+      "2 Maccabees",
+      "2 Macc",
+      "2Mac",
+      "II Maccabees"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "3 Wamakabayo",
+    "aliases": [
+      "3 Wamakabayo",
+      "3 Maccabees",
+      "3 Macc",
+      "3Mac",
+      "III Maccabees"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "4 Wamakabayo",
+    "aliases": [
+      "4 Wamakabayo",
+      "4 Maccabees",
+      "4 Macc",
+      "4Mac",
+      "IV Maccabees"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "1 Esdrasi",
+    "aliases": [
+      "1 Esdrasi",
+      "1 Esdras",
+      "3 Ezra",
+      "1 Esd",
+      "3 Esdras"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "2 Esdrasi",
+    "aliases": [
+      "2 Esdrasi",
+      "2 Esdras",
+      "4 Ezra",
+      "2 Esd",
+      "4 Esdras",
+      "2 Esdras (4 Ezra)"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Sala ya Manase",
+    "aliases": [
+      "Sala ya Manase",
+      "Prayer of Manasseh",
+      "Pr Man",
+      "Manasseh"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Nyimbo za Sifa",
+    "aliases": [
+      "Nyimbo za Sifa",
+      "Odes",
+      "Odes (LXX)"
+    ],
+    "group": "deuterocanon"
+  },
+  {
+    "canon": "Didake",
+    "aliases": [
+      "Didake",
+      "Mafundisho ya Mitume Kumi na Wawili",
+      "Didache",
+      "Teaching of the Twelve Apostles"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Mchungaji wa Herma",
+    "aliases": [
+      "Mchungaji wa Herma",
+      "Shepherd of Hermas",
+      "Hermas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Waraka wa Barnaba",
+    "aliases": [
+      "Waraka wa Barnaba",
+      "Epistle of Barnabas",
+      "Barnabas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "1 Klementi",
+    "aliases": [
+      "1 Klementi",
+      "1 Clement",
+      "First Clement",
+      "1 Clem"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "2 Klementi",
+    "aliases": [
+      "2 Klementi",
+      "2 Clement",
+      "Second Clement",
+      "2 Clem"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Injili ya Tomaso",
+    "aliases": [
+      "Injili ya Tomaso",
+      "Gospel of Thomas",
+      "Thomas (Gospel)"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Injili ya Petro",
+    "aliases": [
+      "Injili ya Petro",
+      "Gospel of Peter",
+      "Peter (Gospel)"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Injili ya Maria",
+    "aliases": [
+      "Injili ya Maria",
+      "Injili ya Maria Magdalena",
+      "Gospel of Mary",
+      "Mary (Gospel)",
+      "Gospel of Mary Magdalene"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Injili ya Yuda",
+    "aliases": [
+      "Injili ya Yuda",
+      "Gospel of Judas",
+      "Judas (Gospel)"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Injili ya Filipo",
+    "aliases": [
+      "Injili ya Filipo",
+      "Gospel of Philip",
+      "Philip (Gospel)"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Injili ya Utoto ya Tomaso",
+    "aliases": [
+      "Injili ya Utoto ya Tomaso",
+      "Infancy Gospel of Thomas",
+      "Childhood Gospel of Thomas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Injili ya Awali ya Yakobo",
+    "aliases": [
+      "Injili ya Awali ya Yakobo",
+      "Injili ya Utoto ya Yakobo",
+      "Protevangelium of James",
+      "Infancy Gospel of James",
+      "Gospel of James"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Matendo ya Petro",
+    "aliases": [
+      "Matendo ya Petro",
+      "Acts of Peter"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Matendo ya Paulo",
+    "aliases": [
+      "Matendo ya Paulo",
+      "Acts of Paul"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Matendo ya Yohana",
+    "aliases": [
+      "Matendo ya Yohana",
+      "Acts of John"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Matendo ya Andrea",
+    "aliases": [
+      "Matendo ya Andrea",
+      "Acts of Andrew"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Matendo ya Tomaso",
+    "aliases": [
+      "Matendo ya Tomaso",
+      "Acts of Thomas"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Ufunuo wa Petro",
+    "aliases": [
+      "Ufunuo wa Petro",
+      "Apocalypse of Peter",
+      "Revelation of Peter"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Ufunuo wa Paulo",
+    "aliases": [
+      "Ufunuo wa Paulo",
+      "Apocalypse of Paul",
+      "Revelation of Paul",
+      "Visio Pauli"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Waraka kwa Walaodikia",
+    "aliases": [
+      "Waraka kwa Walaodikia",
+      "Epistle to the Laodiceans",
+      "Laodiceans"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Barua ya Mitume",
+    "aliases": [
+      "Barua ya Mitume",
+      "Letter of the Apostles",
+      "Epistula Apostolorum"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Injili ya Waebrania",
+    "aliases": [
+      "Injili ya Waebrania",
+      "Gospel of the Hebrews"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Injili ya Wamisri",
+    "aliases": [
+      "Injili ya Wamisri",
+      "Gospel of the Egyptians"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "1 Henoko",
+    "aliases": [
+      "1 Henoko",
+      "Henoko",
+      "1 Enoch",
+      "First Enoch",
+      "Ethiopic Enoch",
+      "Enoch",
+      "1 Enoch (Book of Enoch)"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "2 Henoko",
+    "aliases": [
+      "2 Henoko",
+      "2 Enoch",
+      "Second Enoch",
+      "Slavonic Enoch",
+      "2 Enoch (Secrets of Enoch)"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "3 Henoko",
+    "aliases": [
+      "3 Henoko",
+      "3 Enoch",
+      "Third Enoch",
+      "Hebrew Enoch",
+      "3 Enoch (The Book of the Palaces)"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Yubile",
+    "aliases": [
+      "Yubile",
+      "Yubilei",
+      "Kitabu cha Yubile",
+      "Jubilees",
+      "Lesser Genesis"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Maagano ya Mababa Kumi na Wawili",
+    "aliases": [
+      "Maagano ya Mababa Kumi na Wawili",
+      "Testament of the Twelve Patriarchs",
+      "Twelve Patriarchs",
+      "Testaments of the Twelve Patriarchs"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Agano la Reubeni",
+    "aliases": [
+      "Agano la Reubeni",
+      "Testament of Reuben"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Agano la Simeoni",
+    "aliases": [
+      "Agano la Simeoni",
+      "Testament of Simeon"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Agano la Lawi",
+    "aliases": [
+      "Agano la Lawi",
+      "Testament of Levi"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Agano la Yuda",
+    "aliases": [
+      "Agano la Yuda",
+      "Testament of Judah"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Agano la Isakari",
+    "aliases": [
+      "Agano la Isakari",
+      "Testament of Issachar"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Agano la Zabuloni",
+    "aliases": [
+      "Agano la Zabuloni",
+      "Testament of Zebulun"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Agano la Dani",
+    "aliases": [
+      "Agano la Dani",
+      "Testament of Dan"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Agano la Naftali",
+    "aliases": [
+      "Agano la Naftali",
+      "Testament of Naphtali"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Agano la Gadi",
+    "aliases": [
+      "Agano la Gadi",
+      "Testament of Gad"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Agano la Asheri",
+    "aliases": [
+      "Agano la Asheri",
+      "Testament of Asher"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Agano la Yusufu",
+    "aliases": [
+      "Agano la Yusufu",
+      "Testament of Joseph"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Agano la Benyamini",
+    "aliases": [
+      "Agano la Benyamini",
+      "Testament of Benjamin"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Agano la Ayubu",
+    "aliases": [
+      "Agano la Ayubu",
+      "Testament of Job"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Maisha ya Adamu na Hawa",
+    "aliases": [
+      "Maisha ya Adamu na Hawa",
+      "Life of Adam and Eve",
+      "Apocalypse of Moses"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Ufunuo wa Ibrahimu",
+    "aliases": [
+      "Ufunuo wa Ibrahimu",
+      "Apocalypse of Abraham"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Ufunuo wa Sefania",
+    "aliases": [
+      "Ufunuo wa Sefania",
+      "Apocalypse of Zephaniah"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "2 Baruku",
+    "aliases": [
+      "2 Baruku",
+      "2 Baruch",
+      "Second Baruch",
+      "Syriac Apocalypse of Baruch"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "3 Baruku",
+    "aliases": [
+      "3 Baruku",
+      "3 Baruch",
+      "Third Baruch",
+      "Greek Apocalypse of Baruch"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "4 Baruku",
+    "aliases": [
+      "4 Baruku",
+      "4 Baruch",
+      "Paralipomena of Jeremiah"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Zaburi za Sulemani",
+    "aliases": [
+      "Zaburi za Sulemani",
+      "Psalms of Solomon"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Nyimbo za Sulemani",
+    "aliases": [
+      "Nyimbo za Sulemani",
+      "Odes of Solomon"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Yusufu na Asenathi",
+    "aliases": [
+      "Yusufu na Asenathi",
+      "Joseph and Aseneth"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Barua ya Aristeasi",
+    "aliases": [
+      "Barua ya Aristeasi",
+      "Letter of Aristeas"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Kupaa kwa Isaya",
+    "aliases": [
+      "Kupaa kwa Isaya",
+      "Ascension of Isaiah",
+      "Martyrdom and Ascension of Isaiah"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Ufunuo wa Eliya",
+    "aliases": [
+      "Ufunuo wa Eliya",
+      "Apocalypse of Elijah"
+    ],
+    "group": "pseudepigrapha"
+  },
+  {
+    "canon": "Injili ya Nikodemo (Matendo ya Pilato)",
+    "aliases": [
+      "Injili ya Nikodemo (Matendo ya Pilato)",
+      "Injili ya Nikodemo",
+      "Matendo ya Pilato",
+      "Gospel of Nicodemus (Acts of Pilate)",
+      "Gospel of Nicodemus",
+      "Acts of Pilate"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Injili ya Bartholomayo",
+    "aliases": [
+      "Injili ya Bartholomayo",
+      "Gospel of Bartholomew",
+      "Bartholomew"
+    ],
+    "group": "apocrypha"
+  },
+  {
+    "canon": "Kuchukuliwa kwa Musa",
+    "aliases": [
+      "Kuchukuliwa kwa Musa",
+      "Agano la Musa",
+      "Assumption of Moses",
+      "Testament of Moses",
+      "As Mos"
+    ],
+    "group": "pseudepigrapha"
+  }
+]

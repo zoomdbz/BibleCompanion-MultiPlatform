@@ -1,0 +1,610 @@
+{
+  "schemaVersion": 1,
+  "onenSourceSha256": "9ad97f89077ba8a07c94b907c70f2b1980a00a1f43f411752bb57d106c9fc0c6",
+  "suvSourceSha256": "a506e7eee5a1198e159f2d202f52783a86b8be7e247eb5a05cd03633b9e12b20",
+  "policy": "Editorial divine-name marking only where an explicit New Testament quotation maps to a native ONEN Old Testament nd span. Ambiguous allusions are excluded.",
+  "entries": [
+    {
+      "onenRef": "MAT 3:3",
+      "suvRef": "MAT 3:3",
+      "sourceOtRef": "ISA 40:3",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "MAT 4:7",
+      "suvRef": "MAT 4:7",
+      "sourceOtRef": "DEU 6:16",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "MAT 4:10",
+      "suvRef": "MAT 4:10",
+      "sourceOtRef": "DEU 6:13",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "MAT 21:9",
+      "suvRef": "MAT 21:9",
+      "sourceOtRef": "PSA 118:26",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "MAT 21:42",
+      "suvRef": "MAT 21:42",
+      "sourceOtRef": "PSA 118:23",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "MAT 22:37",
+      "suvRef": "MAT 22:37",
+      "sourceOtRef": "DEU 6:5",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "MAT 23:39",
+      "suvRef": "MAT 23:39",
+      "sourceOtRef": "PSA 118:26",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "MRK 1:3",
+      "suvRef": "MRK 1:3",
+      "sourceOtRef": "ISA 40:3",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "MRK 11:9",
+      "suvRef": "MRK 11:9",
+      "sourceOtRef": "PSA 118:26",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "MRK 12:11",
+      "suvRef": "MRK 12:11",
+      "sourceOtRef": "PSA 118:23",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "MRK 12:29",
+      "suvRef": "MRK 12:29",
+      "sourceOtRef": "DEU 6:4",
+      "onenBwanaCount": 2,
+      "onenSelect": [
+        1,
+        2
+      ],
+      "suvBwanaCount": 2,
+      "suvSelect": [
+        1,
+        2
+      ]
+    },
+    {
+      "onenRef": "MRK 12:30",
+      "suvRef": "MRK 12:30",
+      "sourceOtRef": "DEU 6:5",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "LUK 3:4",
+      "suvRef": "LUK 3:4",
+      "sourceOtRef": "ISA 40:3",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "LUK 4:8",
+      "suvRef": "LUK 4:8",
+      "sourceOtRef": "DEU 6:13",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "LUK 4:12",
+      "suvRef": "LUK 4:12",
+      "sourceOtRef": "DEU 6:16",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "LUK 4:18",
+      "suvRef": "LUK 4:18",
+      "sourceOtRef": "ISA 61:1",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "LUK 4:19",
+      "suvRef": "LUK 4:19",
+      "sourceOtRef": "ISA 61:2",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "LUK 10:27",
+      "suvRef": "LUK 10:27",
+      "sourceOtRef": "DEU 6:5",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "LUK 13:35",
+      "suvRef": "LUK 13:35",
+      "sourceOtRef": "PSA 118:26",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "LUK 19:38",
+      "suvRef": "LUK 19:38",
+      "sourceOtRef": "PSA 118:26",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "LUK 20:42",
+      "suvRef": "LUK 20:42",
+      "sourceOtRef": "PSA 110:1",
+      "onenBwanaCount": 2,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 2,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "JHN 1:23",
+      "suvRef": "JHN 1:23",
+      "sourceOtRef": "ISA 40:3",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "JHN 12:13",
+      "suvRef": "JHN 12:13",
+      "sourceOtRef": "PSA 118:26",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "JHN 12:38",
+      "suvRef": "JHN 12:38",
+      "sourceOtRef": "ISA 53:1",
+      "onenBwanaCount": 2,
+      "onenSelect": [
+        2
+      ],
+      "suvBwanaCount": 2,
+      "suvSelect": [
+        2
+      ]
+    },
+    {
+      "onenRef": "ACT 2:20",
+      "suvRef": "ACT 2:20",
+      "sourceOtRef": "JOL 2:31",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "ACT 2:21",
+      "suvRef": "ACT 2:21",
+      "sourceOtRef": "JOL 2:32",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "ACT 2:25",
+      "suvRef": "ACT 2:25",
+      "sourceOtRef": "PSA 16:8",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "ACT 3:22",
+      "suvRef": "ACT 3:22",
+      "sourceOtRef": "DEU 18:15",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "ACT 4:26",
+      "suvRef": "ACT 4:26",
+      "sourceOtRef": "PSA 2:2",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "ACT 15:17",
+      "suvRef": "ACT 15:18",
+      "sourceOtRef": "AMO 9:12",
+      "onenBwanaCount": 2,
+      "onenSelect": [
+        2
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "ROM 4:8",
+      "suvRef": "ROM 4:8",
+      "sourceOtRef": "PSA 32:2",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "ROM 9:29",
+      "suvRef": "ROM 9:29",
+      "sourceOtRef": "ISA 1:9",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "ROM 10:13",
+      "suvRef": "ROM 10:13",
+      "sourceOtRef": "JOL 2:32",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "ROM 11:34",
+      "suvRef": "ROM 11:34",
+      "sourceOtRef": "ISA 40:13",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "ROM 15:11",
+      "suvRef": "ROM 15:11",
+      "sourceOtRef": "PSA 117:1",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "1CO 3:20",
+      "suvRef": "1CO 3:20",
+      "sourceOtRef": "PSA 94:11",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "1CO 10:26",
+      "suvRef": "1CO 10:26",
+      "sourceOtRef": "PSA 24:1",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "HEB 8:8",
+      "suvRef": "HEB 8:8",
+      "sourceOtRef": "JER 31:31",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "HEB 8:9",
+      "suvRef": "HEB 8:9",
+      "sourceOtRef": "JER 31:32",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "HEB 8:10",
+      "suvRef": "HEB 8:10",
+      "sourceOtRef": "JER 31:33",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "HEB 8:11",
+      "suvRef": "HEB 8:11",
+      "sourceOtRef": "JER 31:34",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "HEB 10:16",
+      "suvRef": "HEB 10:16",
+      "sourceOtRef": "JER 31:33",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "HEB 10:30",
+      "suvRef": "HEB 10:30",
+      "sourceOtRef": "DEU 32:36",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "HEB 12:5",
+      "suvRef": "HEB 12:5",
+      "sourceOtRef": "PRO 3:11",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "HEB 13:6",
+      "suvRef": "HEB 13:6",
+      "sourceOtRef": "PSA 118:6",
+      "onenBwanaCount": 1,
+      "onenSelect": [
+        1
+      ],
+      "suvBwanaCount": 1,
+      "suvSelect": [
+        1
+      ]
+    },
+    {
+      "onenRef": "1PE 3:12",
+      "suvRef": "1PE 3:12",
+      "sourceOtRef": "PSA 34:15-16",
+      "onenBwanaCount": 2,
+      "onenSelect": [
+        1,
+        2
+      ],
+      "suvBwanaCount": 2,
+      "suvSelect": [
+        1,
+        2
+      ]
+    }
+  ]
+}

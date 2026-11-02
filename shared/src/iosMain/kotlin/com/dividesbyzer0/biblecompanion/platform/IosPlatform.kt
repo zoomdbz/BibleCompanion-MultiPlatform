@@ -438,6 +438,7 @@ private val synthesizer: AVSpeechSynthesizer by lazy {
 private fun ttsLanguageTag(assetTag: String): String = when (assetTag) {
     "zh-Hans" -> "zh-CN"
     "zh-Hant" -> "zh-TW"
+    "sw" -> "sw-TZ"
     else -> assetTag
 }
 

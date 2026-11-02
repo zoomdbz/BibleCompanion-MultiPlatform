@@ -271,6 +271,7 @@ private fun localizedDivineName(mode: String, lang: String): String = when (mode
     "fr" -> "Yahvé"
     "de" -> "Jahwe"
     "it" -> "Yahweh"
+    "sw" -> "Yahwe"
     "ru" -> "Яхве"
     "ar" -> "يهوه"
     "hi" -> "याहवे"
@@ -295,6 +296,7 @@ private fun traditionalDivineName(lang: String): String = when (lang) {
   "ja" -> "主"
   "zh-Hans" -> "耶和华"
   "zh-Hant" -> "耶和華"
+  "sw" -> "Bwana"
   else -> "the LORD"
 }
 
@@ -541,6 +543,11 @@ private fun normalizeMarkedDivineNameContent(source: String, lang: String): Stri
     "ja" -> Regex("ヤハウェ|ヱホバ|エホバ|主").replace(source, DIVINE_NAME_TOKEN)
     "zh-Hans" -> Regex("耶和华|雅威|上主").replace(source, DIVINE_NAME_TOKEN)
     "zh-Hant" -> Regex("耶和華|雅威|上主").replace(source, DIVINE_NAME_TOKEN)
+    "sw" -> Regex(
+      "(?<![\\p{L}\\p{Mn}])(?:Bwana|Yahwe|MUNGU|YEHOVA)(?![\\p{L}\\p{Mn}])",
+      RegexOption.IGNORE_CASE
+    )
+      .replace(source, DIVINE_NAME_TOKEN)
     else -> source
   }
 }
@@ -559,25 +566,23 @@ private fun normalizeMarkedDivineNamesForReplacement(
     }
   }
 
-/**
- * NVI Exodus 3:14 marks God's self-identification as a divine-name span, but
- * "Yo soy" is publisher wording rather than a replacement form for YHWH.
- * Protect it before source-marked normalization removes all [DN] wrappers.
- */
-private fun protectNviSelfIdentification(text: String, lang: String, isOt: Boolean): String {
-  if (lang != "es" || !isOt) return text
+/** Keep source-marked self-identification wording instead of replacing it with a name. */
+private fun protectMarkedSelfIdentification(text: String, lang: String, isOt: Boolean): String {
+  if (lang !in setOf("es", "sw") || !isOt) return text
   return existingDnSpan.replace(text) { match ->
-    when (match.groupValues[1]) {
-      "Yo soy el que soy" -> NVI_SELF_IDENTIFICATION_LONG_TOKEN
-      "Yo soy" -> NVI_SELF_IDENTIFICATION_SHORT_TOKEN
+    when (lang to match.groupValues[1]) {
+      "es" to "Yo soy el que soy", "sw" to "Mimi niko ambaye niko" -> NVI_SELF_IDENTIFICATION_LONG_TOKEN
+      "es" to "Yo soy", "sw" to "Mimi niko" -> NVI_SELF_IDENTIFICATION_SHORT_TOKEN
       else -> match.value
     }
   }
 }
 
-private fun restoreNviSelfIdentification(text: String, colorActive: Boolean): String {
-  val longForm = if (colorActive) "[DN]Yo soy el que soy[/DN]" else "Yo soy el que soy"
-  val shortForm = if (colorActive) "[DN]Yo soy[/DN]" else "Yo soy"
+private fun restoreMarkedSelfIdentification(text: String, lang: String, colorActive: Boolean): String {
+  val longWording = if (lang == "sw") "Mimi niko ambaye niko" else "Yo soy el que soy"
+  val shortWording = if (lang == "sw") "Mimi niko" else "Yo soy"
+  val longForm = if (colorActive) "[DN]$longWording[/DN]" else longWording
+  val shortForm = if (colorActive) "[DN]$shortWording[/DN]" else shortWording
   return text
     .replace(NVI_SELF_IDENTIFICATION_LONG_TOKEN, longForm)
     .replace(NVI_SELF_IDENTIFICATION_SHORT_TOKEN, shortForm)
@@ -718,7 +723,7 @@ internal fun applyDivineName(
 
   val localizedName = localizedDivineName(mode, lk)
   val renderedName = if (colorActive) "[DN]$localizedName[/DN]" else localizedName
-  val protectedPublisherText = protectNviSelfIdentification(text, lk, isOt)
+  val protectedPublisherText = protectMarkedSelfIdentification(text, lk, isOt)
   val sourceMarked = normalizeMarkedDivineNamesForReplacement(protectedPublisherText, lk, localizedName)
   val resolved = replaceNameModeSegment(sourceMarked, lk, isOt)
   // Resolve source wrappers first, then remove only a grammatical article
@@ -729,7 +734,7 @@ internal fun applyDivineName(
   val replaced = withoutArticles
     .replace(DIVINE_NAME_TOKEN, renderedName)
     .replace(CURRENT_DIVINE_NAME_TOKEN, renderedName)
-  return restoreNviSelfIdentification(replaced, colorActive)
+  return restoreMarkedSelfIdentification(replaced, lk, colorActive)
 }
 
 private val aliasJson = Json { ignoreUnknownKeys = true }

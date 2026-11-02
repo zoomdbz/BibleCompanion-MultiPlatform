@@ -10,7 +10,7 @@ navigation, not Scripture wording, numbering, headings, or notes.
 | German SCH2000 to Luther 1912 | 2 Corinthians 13:12 contains both greetings, which Luther splits into 12 and 13; the blessing moves from 13 to 14. 3 John 14-15 maps to 14. Revelation 12:18 is part of 13:1. |
 | Spanish NVI to RV1909 | 2 Corinthians 13:12-13 maps to 12 and the blessing at 14 maps to 13. 3 John 14-15 maps to 14. Acts 19:40-41 maps to 40. |
 
-The public-domain target archives and exact SHA-256 pins appear in the JSON
+The target archives and exact SHA-256 pins appear in the JSON
 and edition manifests. Direct comparison of the checked-in source verses and
 those pinned target texts establishes the clause boundaries. The supplied BSB
 USFM and [Bible.com BSB 3 John](https://www.bible.com/bible/3034/3JN.1.BSB)

@@ -15,7 +15,7 @@ The canonical Old and New Testament audit is complete.
 - The English KJV overlay matches the pinned eBible KJV-with-Apocrypha source across all 80 source-backed books. Four deuterocanonical books remain explicit base-edition fallbacks.
 - Twelve traditional editions have source-backed canonical Old and New Testaments. Hindi remains modern-only because no complete redistributable traditional Hindi source passed source and rights review.
 - The deuterocanon remains a documented hybrid outside the source-backed KJV and Russian Synodal books. It is complete in the app, but it is not one publisher edition in every language.
-- English 1 Enoch, 2 Enoch, and Jubilees derive from old public-domain translations that were mechanically modernized. Their foreign-language files are custom translations of the app text, not named modern publisher editions.
+- English 1 Enoch, 2 Enoch, and Jubilees derive from old translations that were mechanically modernized. Their foreign-language files are custom translations of the app text, not named modern publisher editions.
 
 ## Canonical Old and New Testament source matrix
 
@@ -73,7 +73,7 @@ Independent reference checks:
 
 - English BSB versus the supplied USFM: 31,086 app units and 31,086 source units; 31,022 are strict raw matches. All 64 raw differences are adjudicated: 59 literal broken footnote-export tokens, three stray `vvv` tokens, and two live Bible.com/source-export differences. There are zero missing units, zero unresolved text differences, and zero red-letter differences on exact text. Native 3 John and Revelation ranges are handled without splitting verses.
 - Hindi IRVHin follow-up on 2026-09-26: 31,104 verse units on both sides, 28,448 strict exact, 2,656 reviewed presentation-only differences, no missing units, and zero unresolved wording differences. One lexical correction at Revelation 12:18 now matches official USFM, eBible HTML, and Bible.com. The review pins exact evidence for 2,502 cross-reference-apparatus units, 137 source-export-whitespace units, and 17 units containing both. Repairs corrected 229 reviewed presentation speech-boundary mismatches; all 31,104 units now pass. Psalm 119 acrostic labels occupy their source heading positions. See the [complete evidence review](../reports/hindi_irv/SOURCE_DIFFERENCE_REVIEW.md).
-- The base-heading integrity audit now parses 1,352 JSON files, 1,287 books, 65 indexes, 21,333 stories, 525,587 bullets, 521,793 native units, and 32,067 headings. Every heading is nonblank, sorted, unique within its chapter, and anchored to a native verse-unit start; no native units overlap. A separate JCB ledger pins 17 native-unit repairs and 10 heading moves across 12 chapter records to the app's Bible.com 83/JCB authority. Mark 11:26-28 was already a combined unit and is recorded only as a heading move. This is structural evidence, not a claim of complete licensed JCB wording parity.
+- The base-heading integrity audit now parses 1,352 JSON files, 1,287 books, 65 indexes, 21,333 stories, 525,587 bullets, 521,793 native units, and 32,067 headings. Every heading is nonblank, sorted, unique within its chapter, and anchored to a native verse-unit start; no native units overlap. A separate JCB ledger pins 17 native-unit repairs and 10 heading moves across 12 chapter records to the app's Bible.com 83/JCB authority. Mark 11:26-28 was already a combined unit and is recorded only as a heading move. This is structural evidence, not a claim of complete JCB wording parity.
 - The same audit exposed 47 older trailing-reference metadata defects. Forty-five translated Jubilees bullets retained their wording but had lost only the final address suffix; each restored coordinate matches the unchanged English control at the same one-verse bullet. Korean 2 Esdras 7:28-29 already contained their correct markers inside `[J]`; those markers now sit after `[/J]` so address parsing and Jesus-word coloring do not consume metadata. An independent before/after comparison found exactly 47 changed string leaves, no non-string changes, and unchanged `[J]`, `[DN]`, and `[ADD]` token inventories.
 - Portuguese NVT: 214 strict verse-range mismatches in 93 chapters.
 - Italian NR2006: 1,652 strict verse-range mismatches in 718 chapters.
@@ -131,7 +131,7 @@ The English KJV overlay has a cleaner provenance than the localized base corpora
 - Every overlay file matches a fresh importer run. Validation found zero missing chapters or verses, 2,038 balanced Jesus-word spans, 21,539 balanced translator-addition spans, 116 superscriptions, and all 16 traditional New Testament readings.
 - The current source corrected two 1 Maccabees lines relative to the prior pin: `many spoils` at 10:87 and the final period at 15:31. Bible.com KJVAAE confirms both.
 - Four books are explicit fallbacks to the existing app text, not KJV: Greek Esther, Psalm 151, 3 Maccabees, and 4 Maccabees.
-- The Bible.com comparison tool passes its self-test, but a full Bible.com text comparison was not run because YouVersion's supported API requires an app key and content licenses.
+- The Bible.com comparison tool passes its self-test, but a full Bible.com text comparison was not run.
 
 ## Deuterocanon lineage
 

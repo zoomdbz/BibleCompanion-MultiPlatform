@@ -19,6 +19,7 @@ CRY_TITLES = {
     "ko": "예수님의 버림받으심의 외침",
     "pt": "O Grito de Abandono de Jesus",
     "ru": "Крик оставленности Иисуса",
+    "sw": "Kilio cha Yesu cha kuachwa",
     "zh-Hans": "耶稣被离弃的呼喊",
     "zh-Hant": "耶穌被離棄的呼喊",
 }

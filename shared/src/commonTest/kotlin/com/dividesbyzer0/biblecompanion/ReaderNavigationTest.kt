@@ -38,6 +38,32 @@ class ReaderNavigationTest {
   }
 
   @Test
+  fun greekEstherChaptersUsePrintedChapterNumbersWithoutChangingStoryIds() {
+    val legacyIdNumbers = listOf(1, 2, 3, 4, 5, 6, 11, 8, 9, 10, 12, 13, 14, 7, 15, 16, 17, 18, 19, 20, 21)
+    val stories = legacyIdNumbers.mapIndexed { index, idNumber ->
+      val chapter = index + 1
+      Story(
+        id = "esther_greek-$idNumber",
+        title = "Esther $chapter",
+        refs = emptyList(),
+        summaryBullets = listOf("Text. ($chapter:1).")
+      )
+    }
+    val book = Book("esther_greek", "Esther (Greek)", stories)
+    val chapterIndex = ChapterLocator.build(book)
+
+    assertEquals((1..21).toList(), chapterIndex.byChapter.keys.sorted())
+    for (chapter in 1..21) {
+      val expectedStory = stories[chapter - 1]
+      assertEquals(expectedStory.id, chapterIndex.byChapter[chapter])
+      assertEquals(
+        listOf(1),
+        versePickerNumbers(expectedStory.summaryBullets, chapter, expectedStory.id, book.id)
+      )
+    }
+  }
+
+  @Test
   fun readingResumeUsesTheTargetLanguagesNativeChapterAndCount() {
     val germanMalachi = Book(
       id = "malachi",

@@ -1,0 +1,576 @@
+{
+  "schemaVersion": 2,
+  "editionId": "suv1952",
+  "language": "sw",
+  "collection": "new_testament",
+  "bookId": "1_peter",
+  "sourceBookCode": "1PE",
+  "coverage": "full",
+  "chapters": [
+    {
+      "number": 1,
+      "lastVerse": 25,
+      "verseUnitCount": 25,
+      "verses": [
+        {
+          "chapter": 1,
+          "verse": 1,
+          "text": "Petro, mtume wa Yesu Kristo, kwa wateule wa Utawanyiko, wakaao hali ya ugeni katika Ponto, na Galatia, na Kapadokia, na Asia, na Bithinia;"
+        },
+        {
+          "chapter": 1,
+          "verse": 2,
+          "text": "kama vile Mungu Baba alivyotangulia kuwajua katika kutakaswa na Roho, hata mkapata kutii na kununyiziwa damu ya Yesu Kristo. Neema na amani na ziongezwe kwenu."
+        },
+        {
+          "chapter": 1,
+          "verse": 3,
+          "text": "Ahimidiwe Mungu, Baba wa Bwana wetu Yesu Kristo, ambaye kwa rehema zake nyingi alituzaa mara ya pili ili tupate tumaini lenye uzima kwa kufufuka kwake Yesu Kristo katika wafu;"
+        },
+        {
+          "chapter": 1,
+          "verse": 4,
+          "text": "tupate na urithi usioharibika, usio na uchafu, usionyauka, uliotunzwa mbinguni kwa ajili yenu."
+        },
+        {
+          "chapter": 1,
+          "verse": 5,
+          "text": "Nanyi mnalindwa na nguvu za Mungu kwa njia ya imani hata mpate wokovu ulio tayari kufunuliwa wakati wa mwisho."
+        },
+        {
+          "chapter": 1,
+          "verse": 6,
+          "text": "Mnafurahi sana wakati huo, ijapokuwa sasa kwa kitambo kidogo, ikiwa ni lazima, mmehuzunishwa kwa majaribu ya namna mbalimbali;"
+        },
+        {
+          "chapter": 1,
+          "verse": 7,
+          "text": "ili kwamba kujaribiwa kwa imani yenu, ambayo ina thamani kuu kuliko dhahabu ipoteayo, ijapokuwa hiyo hujaribiwa kwa moto, kuonekane kuwa kwenye sifa na utukufu na heshima, katika kufunuliwa kwake Yesu Kristo."
+        },
+        {
+          "chapter": 1,
+          "verse": 8,
+          "text": "Naye mwampenda, ijapokuwa hamkumwona; ambaye ijapokuwa hamwoni sasa, mnamwamini; na kufurahi sana, kwa furaha isiyoneneka, yenye utukufu,"
+        },
+        {
+          "chapter": 1,
+          "verse": 9,
+          "text": "katika kuupokea mwisho wa imani yenu, yaani, wokovu wa roho zenu."
+        },
+        {
+          "chapter": 1,
+          "verse": 10,
+          "text": "Katika habari ya wokovu huo manabii walitafuta-tafuta na kuchunguza-chunguza, ambao walitabiri habari za neema itakayowafikia ninyi."
+        },
+        {
+          "chapter": 1,
+          "verse": 11,
+          "text": "Wakatafuta ni wakati upi, na wakati wa namna gani ulioonywa na Roho wa Kristo aliyekuwa ndani yao, ambaye alitangulia kuyashuhudia mateso yatakayompata Kristo, na utukufu utakaokuwako baada ya hayo."
+        },
+        {
+          "chapter": 1,
+          "verse": 12,
+          "text": "Wakafunuliwa ya kuwa si kwa ajili yao wenyewe, bali kwa ajili yenu walihudumu katika mambo hayo, ambayo sasa yamehubiriwa kwenu na wale waliowahubiri ninyi Injili kwa Roho Mtakatifu aliyetumwa kutoka mbinguni. Mambo hayo malaika wanatamani kuyachungulia."
+        },
+        {
+          "chapter": 1,
+          "verse": 13,
+          "text": "Kwa hiyo vifungeni viuno vya nia zenu, na kuwa na kiasi; mkiitumainia kwa utimilifu ile neema mtakayoletewa katika ufunuo wake Yesu Kristo."
+        },
+        {
+          "chapter": 1,
+          "verse": 14,
+          "text": "Kama watoto wa kutii msijifananishe na tamaa zenu za kwanza za ujinga wenu;"
+        },
+        {
+          "chapter": 1,
+          "verse": 15,
+          "text": "bali kama yeye aliyewaita alivyo mtakatifu, ninyi nanyi iweni watakatifu katika mwenendo wenu wote;"
+        },
+        {
+          "chapter": 1,
+          "verse": 16,
+          "text": "kwa maana imeandikwa, Mtakuwa watakatifu kwa kuwa mimi ni mtakatifu."
+        },
+        {
+          "chapter": 1,
+          "verse": 17,
+          "text": "Na ikiwa mnamwita Baba, yeye ahukumuye kila mtu pasipo upendeleo, kwa kadiri ya kazi yake, enendeni kwa hofu katika wakati wenu wa kukaa hapa kama wageni."
+        },
+        {
+          "chapter": 1,
+          "verse": 18,
+          "text": "Nanyi mfahamu kwamba mlikombolewa si kwa vitu viharibikavyo, kwa fedha au dhahabu; mpate kutoka katika mwenendo wenu usiofaa mlioupokea kwa baba zenu;"
+        },
+        {
+          "chapter": 1,
+          "verse": 19,
+          "text": "bali kwa damu ya thamani, kama ya mwana-kondoo asiye na ila, asiye na waa, yaani, ya Kristo."
+        },
+        {
+          "chapter": 1,
+          "verse": 20,
+          "text": "Naye amejulikana kweli tangu zamani, kabla haijawekwa misingi ya dunia; lakini alifunuliwa mwisho wa zamani kwa ajili yenu;"
+        },
+        {
+          "chapter": 1,
+          "verse": 21,
+          "text": "ambao kwa yeye mmekuwa wenye kumwamini Mungu, aliyemfufua katika wafu akampa utukufu; hata imani yenu na tumaini lenu liwe kwa Mungu."
+        },
+        {
+          "chapter": 1,
+          "verse": 22,
+          "text": "Mkiisha kujitakasa roho zenu kwa kuitii kweli, hata kuufikilia upendano wa ndugu usio na unafiki, basi jitahidini kupendana kwa moyo."
+        },
+        {
+          "chapter": 1,
+          "verse": 23,
+          "text": "Kwa kuwa mmezaliwa mara ya pili; si kwa mbegu iharibikayo, bali kwa ile isiyoharibika; kwa neno la Mungu lenye uzima, lidumulo hata milele."
+        },
+        {
+          "chapter": 1,
+          "verse": 24,
+          "text": "Maana, Mwili wote ni kama majani, Na fahari yake yote ni kama ua la majani. Majani hukauka na ua lake huanguka;"
+        },
+        {
+          "chapter": 1,
+          "verse": 25,
+          "text": "Bali Neno la Bwana hudumu hata milele. Na neno hilo ni neno lile jema lililohubiriwa kwenu."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 2,
+      "lastVerse": 25,
+      "verseUnitCount": 25,
+      "verses": [
+        {
+          "chapter": 2,
+          "verse": 1,
+          "text": "Basi, wekeni mbali uovu wote na hila yote, na unafiki na husuda na masingizio yote."
+        },
+        {
+          "chapter": 2,
+          "verse": 2,
+          "text": "Kama watoto wachanga waliozaliwa sasa yatamanini maziwa ya akili yasiyoghoshiwa, ili kwa hayo mpate kuukulia wokovu;"
+        },
+        {
+          "chapter": 2,
+          "verse": 3,
+          "text": "ikiwa mmeonja ya kwamba Bwana ni mwenye fadhili."
+        },
+        {
+          "chapter": 2,
+          "verse": 4,
+          "text": "Mmwendee yeye, jiwe lililo hai, lililokataliwa na wanadamu, bali kwa Mungu ni teule, lenye heshima."
+        },
+        {
+          "chapter": 2,
+          "verse": 5,
+          "text": "Ninyi nanyi, kama mawe yaliyo hai, mmejengwa mwe nyumba ya Roho, ukuhani mtakatifu, mtoe dhabihu za roho, zinazokubaliwa na Mungu, kwa njia ya Yesu Kristo."
+        },
+        {
+          "chapter": 2,
+          "verse": 6,
+          "text": "Kwa kuwa imeandikwa katika maandiko Tazama, naweka katika Sayuni jiwe kuu la pembeni, teule, lenye heshima, Na kila amwaminiye hatatahayarika."
+        },
+        {
+          "chapter": 2,
+          "verse": 7,
+          "text": "Basi, heshima hii ni kwenu ninyi mnaoamini. Bali kwao wasioamini, Jiwe walilolikataa waashi, Limekuwa jiwe kuu la pembeni."
+        },
+        {
+          "chapter": 2,
+          "verse": 8,
+          "text": "Tena, Jiwe la kujikwaza mguu, na mwamba wa kuangusha. Kwa maana hujikwaza kwa neno lile, wasiliamini, nao waliwekwa kusudi wapate hayo."
+        },
+        {
+          "chapter": 2,
+          "verse": 9,
+          "text": "Bali ninyi ni mzao mteule, ukuhani wa kifalme, taifa takatifu, watu wa milki ya Mungu, mpate kuzitangaza fadhili zake yeye aliyewaita mtoke gizani mkaingie katika nuru yake ya ajabu;"
+        },
+        {
+          "chapter": 2,
+          "verse": 10,
+          "text": "ninyi mliokuwa kwanza si taifa, bali sasa ni taifa la Mungu; mliokuwa hamkupata rehema, bali sasa mmepata rehema."
+        },
+        {
+          "chapter": 2,
+          "verse": 11,
+          "text": "Wapenzi, nawasihi kama wapitaji na wasafiri, ziepukeni tamaa za mwili zipiganazo na roho."
+        },
+        {
+          "chapter": 2,
+          "verse": 12,
+          "text": "Mwe na mwenendo mzuri kati ya Mataifa, ili, iwapo huwasingizia kuwa watenda mabaya, wayatazamapo matendo yenu mazuri, wamtukuze Mungu siku ya kujiliwa."
+        },
+        {
+          "chapter": 2,
+          "verse": 13,
+          "text": "Tiini kila kiamriwacho na watu, kwa ajili ya Bwana; ikiwa ni mfalme, kama mwenye cheo kikubwa;"
+        },
+        {
+          "chapter": 2,
+          "verse": 14,
+          "text": "ikiwa ni wakubwa, kama wanaotumwa naye ili kuwalipiza kisasi watenda mabaya na kuwasifu watenda mema."
+        },
+        {
+          "chapter": 2,
+          "verse": 15,
+          "text": "Kwa sababu ndiyo mapenzi ya Mungu, kwamba kwa kutenda mema mzibe vinywa vya ujinga vya watu wapumbavu;"
+        },
+        {
+          "chapter": 2,
+          "verse": 16,
+          "text": "kama walio huru, ila wasioutumia uhuru huo kwa kusitiri ubaya, bali kama watumwa wa Mungu."
+        },
+        {
+          "chapter": 2,
+          "verse": 17,
+          "text": "Waheshimuni watu wote. Wapendeni ndugu. Mcheni Mungu. Mpeni heshima mfalme."
+        },
+        {
+          "chapter": 2,
+          "verse": 18,
+          "text": "Enyi watumishi, watiini bwana zenu kwa hofu nyingi, sio wao walio wema na wenye upole tu, bali nao walio wakali."
+        },
+        {
+          "chapter": 2,
+          "verse": 19,
+          "text": "Maana huu ndio wema hasa, mtu akivumilia huzuni kwa kumkumbuka Mungu, pale ateswapo isivyo haki."
+        },
+        {
+          "chapter": 2,
+          "verse": 20,
+          "text": "Kwa maana ni sifa gani kustahimili, mtendapo dhambi na kupigwa makofi? Lakini kustahimili, mtendapo mema na kupata mateso, huu ndio wema hasa mbele za Mungu."
+        },
+        {
+          "chapter": 2,
+          "verse": 21,
+          "text": "Kwa sababu ndio mlioitiwa; maana Kristo naye aliteswa kwa ajili yenu, akawaachia kielelezo, mfuate nyayo zake."
+        },
+        {
+          "chapter": 2,
+          "verse": 22,
+          "text": "Yeye hakutenda dhambi, wala hila haikuonekana kinywani mwake."
+        },
+        {
+          "chapter": 2,
+          "verse": 23,
+          "text": "Yeye alipotukanwa, hakurudisha matukano; alipoteswa, hakuogofya; bali alijikabidhi kwake yeye ahukumuye kwa haki."
+        },
+        {
+          "chapter": 2,
+          "verse": 24,
+          "text": "Yeye mwenyewe alizichukua dhambi zetu katika mwili wake juu ya mti, tukiwa wafu kwa mambo ya dhambi, tuwe hai kwa mambo ya haki; na kwa kupigwa kwake mliponywa."
+        },
+        {
+          "chapter": 2,
+          "verse": 25,
+          "text": "Kwa maana mlikuwa mnapotea kama kondoo; lakini sasa mmemrudia Mchungaji na Mwangalizi wa roho zenu."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 3,
+      "lastVerse": 22,
+      "verseUnitCount": 22,
+      "verses": [
+        {
+          "chapter": 3,
+          "verse": 1,
+          "text": "Kadhalika ninyi wake, watiini waume zenu; kusudi, ikiwa wako wasioliamini Neno, wavutwe kwa mwenendo wa wake zao, pasipo lile Neno;"
+        },
+        {
+          "chapter": 3,
+          "verse": 2,
+          "text": "wakiutazama mwenendo wenu safi, na wa hofu."
+        },
+        {
+          "chapter": 3,
+          "verse": 3,
+          "text": "Kujipamba kwenu, kusiwe kujipamba kwa nje, yaani, kusuka nywele; na kujitia dhahabu, na kuvalia mavazi;"
+        },
+        {
+          "chapter": 3,
+          "verse": 4,
+          "text": "bali kuwe utu wa moyoni usioonekana, katika mapambo yasiyoharibika; yaani, roho ya upole na utulivu, iliyo ya thamani kuu mbele za Mungu."
+        },
+        {
+          "chapter": 3,
+          "verse": 5,
+          "text": "Maana hivyo ndivyo walivyojipamba wanawake watakatifu wa zamani, waliomtumaini Mungu, na kuwatii waume zao."
+        },
+        {
+          "chapter": 3,
+          "verse": 6,
+          "text": "Kama vile Sara alivyomtii Ibrahimu, akamwita Bwana; nanyi ni watoto wake, mfanyapo mema, wala hamkutishwa kwa hofu yo yote."
+        },
+        {
+          "chapter": 3,
+          "verse": 7,
+          "text": "Kadhalika ninyi waume, kaeni na wake zenu kwa akili; na kumpa mke heshima, kama chombo kisicho na nguvu; na kama warithi pamoja wa neema ya uzima, kusudi kuomba kwenu kusizuiliwe."
+        },
+        {
+          "chapter": 3,
+          "verse": 8,
+          "text": "Neno la mwisho ni hili; mwe na nia moja, wenye kuhurumiana, wenye kupendana kama ndugu, wasikitikivu, wanyenyekevu;"
+        },
+        {
+          "chapter": 3,
+          "verse": 9,
+          "text": "watu wasiolipa baya kwa baya, au laumu kwa laumu; bali wenye kubariki; kwa sababu hayo ndiyo mliyoitiwa ili mrithi baraka."
+        },
+        {
+          "chapter": 3,
+          "verse": 10,
+          "text": "Kwa maana, Atakaye kupenda maisha, Na kuona siku njema, Auzuie ulimi wake usinene mabaya, Na midomo yake isiseme hila."
+        },
+        {
+          "chapter": 3,
+          "verse": 11,
+          "text": "Na aache mabaya, atende mema; Atafute amani, aifuate sana."
+        },
+        {
+          "chapter": 3,
+          "verse": 12,
+          "text": "Kwa kuwa macho ya [DN]Bwana[/DN] huwaelekea wenye haki, Na masikio yake husikiliza maombi yao; Bali uso wa [DN]Bwana[/DN] ni juu ya watenda mabaya."
+        },
+        {
+          "chapter": 3,
+          "verse": 13,
+          "text": "Naye ni nani atakayewadhuru, mkiwa wenye juhudi katika mema?"
+        },
+        {
+          "chapter": 3,
+          "verse": 14,
+          "text": "Lakini mjapoteswa kwa sababu ya haki mna heri. Msiogope kutisha kwao, wala msifadhaike; bali mtakaseni Kristo Bwana mioyoni mwenu."
+        },
+        {
+          "chapter": 3,
+          "verse": 15,
+          "text": "Mwe tayari siku zote kumjibu kila mtu awaulizaye habari za tumaini lililo ndani yenu; lakini kwa upole na kwa hofu."
+        },
+        {
+          "chapter": 3,
+          "verse": 16,
+          "text": "Nanyi mwe na dhamiri njema, ili katika neno lile mnalosingiziwa, watahayarishwe wale wautukanao mwenendo wenu mwema katika Kristo."
+        },
+        {
+          "chapter": 3,
+          "verse": 17,
+          "text": "Maana ni afadhali kuteswa kwa kutenda mema, ikiwa ndiyo mapenzi ya Mungu, kuliko kwa kutenda mabaya."
+        },
+        {
+          "chapter": 3,
+          "verse": 18,
+          "text": "Kwa maana Kristo naye aliteswa mara moja kwa ajili ya dhambi, mwenye haki kwa ajili yao wasio haki, ili atulete kwa Mungu; mwili wake akauawa, bali roho yake akahuishwa,"
+        },
+        {
+          "chapter": 3,
+          "verse": 19,
+          "text": "ambayo kwa hiyo aliwaendea roho waliokaa kifungoni, akawahubiri;"
+        },
+        {
+          "chapter": 3,
+          "verse": 20,
+          "text": "watu wasiotii hapo zamani, uvumilivu wa Mungu ulipokuwa ukingoja, siku za Nuhu, safina ilipokuwa ikitengenezwa; ambamo ndani yake wachache, yaani, watu wanane, waliokoka kwa maji."
+        },
+        {
+          "chapter": 3,
+          "verse": 21,
+          "text": "Mfano wa mambo hayo ni ubatizo, unaowaokoa ninyi pia siku hizi; (siyo kuwekea mbali uchafu wa mwili, bali jibu la dhamiri safi mbele za Mungu), kwa kufufuka kwake Yesu Kristo."
+        },
+        {
+          "chapter": 3,
+          "verse": 22,
+          "text": "Naye yupo mkono wa kuume wa Mungu, amekwenda zake mbinguni, malaika na enzi na nguvu zikiisha kutiishwa chini yake."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 4,
+      "lastVerse": 19,
+      "verseUnitCount": 19,
+      "verses": [
+        {
+          "chapter": 4,
+          "verse": 1,
+          "text": "Basi kwa kuwa Kristo aliteswa katika mwili wake, ninyi nanyi jivikeni silaha ya nia ile ile; kwa maana yeye aliyeteswa katika mwili ameachana na dhambi."
+        },
+        {
+          "chapter": 4,
+          "verse": 2,
+          "text": "Tangu sasa msiendelee kuishi katika tamaa za wanadamu, bali katika mapenzi ya Mungu, wakati wenu uliobaki wa kukaa hapa duniani."
+        },
+        {
+          "chapter": 4,
+          "verse": 3,
+          "text": "Maana wakati wa maisha yetu uliopita watosha kwa kutenda mapenzi ya Mataifa; kuenenda katika ufisadi, na tamaa, na ulevi, na karamu za ulafi, na vileo, na ibada ya sanamu isiyo halali;"
+        },
+        {
+          "chapter": 4,
+          "verse": 4,
+          "text": "mambo ambayo wao huona kuwa ni ajabu ya ninyi kutokwenda mbio pamoja nao katika ufisadi ule ule usio na kiasi, wakiwatukana."
+        },
+        {
+          "chapter": 4,
+          "verse": 5,
+          "text": "Nao watatoa hesabu kwake yeye aliye tayari kuwahukumu walio hai na waliokufa."
+        },
+        {
+          "chapter": 4,
+          "verse": 6,
+          "text": "Maana kwa ajili hiyo hata hao waliokufa walihubiriwa Injili, ili kwamba wahukumiwe katika mwili kama wahukumiwavyo wanadamu; bali wawe hai katika roho kama Mungu alivyo hai."
+        },
+        {
+          "chapter": 4,
+          "verse": 7,
+          "text": "Lakini mwisho wa mambo yote umekaribia; basi, iweni na akili, mkeshe katika sala."
+        },
+        {
+          "chapter": 4,
+          "verse": 8,
+          "text": "Zaidi ya yote iweni na juhudi nyingi katika kupendana; kwa sababu upendano husitiri wingi wa dhambi."
+        },
+        {
+          "chapter": 4,
+          "verse": 9,
+          "text": "Mkaribishane ninyi kwa ninyi, pasipo kunung’unika;"
+        },
+        {
+          "chapter": 4,
+          "verse": 10,
+          "text": "kila mmoja kwa kadiri alivyoipokea karama, itumieni kwa kuhudumiana; kama mawakili wema wa neema mbalimbali za Mungu."
+        },
+        {
+          "chapter": 4,
+          "verse": 11,
+          "text": "Mtu akisema, na aseme kama mausia ya Mungu; mtu akihudumu, na ahudumu kwa nguvu anazojaliwa na Mungu; ili Mungu atukuzwe katika mambo yote kwa Yesu Kristo. Utukufu na uweza una yeye hata milele na milele. Amina."
+        },
+        {
+          "chapter": 4,
+          "verse": 12,
+          "text": "Wapenzi, msione kuwa ni ajabu ule msiba ulio kati yenu, unaowapata kama moto ili kuwajaribu, kana kwamba ni kitu kigeni kiwapatacho."
+        },
+        {
+          "chapter": 4,
+          "verse": 13,
+          "text": "Lakini kama mnavyoyashiriki mateso ya Kristo, furahini; ili na katika ufunuo wa utukufu wake mfurahi kwa shangwe."
+        },
+        {
+          "chapter": 4,
+          "verse": 14,
+          "text": "Mkilaumiwa kwa ajili ya jina la Kristo ni heri yenu; kwa kuwa Roho wa utukufu na wa Mungu anawakalia."
+        },
+        {
+          "chapter": 4,
+          "verse": 15,
+          "text": "Maana mtu wa kwenu asiteswe kama mwuaji, au mwivi, au mtenda mabaya, au kama mtu ajishughulishaye na mambo ya watu wengine."
+        },
+        {
+          "chapter": 4,
+          "verse": 16,
+          "text": "Lakini ikiwa kwa sababu ni Mkristo asione haya, bali amtukuze Mungu katika jina hilo."
+        },
+        {
+          "chapter": 4,
+          "verse": 17,
+          "text": "Kwa maana wakati umefika wa hukumu kuanza katika nyumba ya Mungu; na ikianza kwetu sisi, mwisho wao wasioitii injili ya Mungu utakuwaje?"
+        },
+        {
+          "chapter": 4,
+          "verse": 18,
+          "text": "Na mwenye haki akiokoka kwa shida, yule asiyemcha Mungu na mwenye dhambi ataonekana wapi?"
+        },
+        {
+          "chapter": 4,
+          "verse": 19,
+          "text": "Basi wao wateswao kwa mapenzi ya Mungu na wamwekee amana roho zao, katika kutenda mema, kama kwa Muumba mwaminifu."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 5,
+      "lastVerse": 14,
+      "verseUnitCount": 14,
+      "verses": [
+        {
+          "chapter": 5,
+          "verse": 1,
+          "text": "Nawasihi wazee walio kwenu, mimi niliye mzee, mwenzi wao, na shahidi wa mateso ya Kristo, na mshirika wa utukufu utakaofunuliwa baadaye;"
+        },
+        {
+          "chapter": 5,
+          "verse": 2,
+          "text": "lichungeni kundi la Mungu lililo kwenu, na kulisimamia, si kwa kulazimishwa, bali kwa hiari kama Mungu atakavyo; si kwa kutaka fedha ya aibu, bali kwa moyo."
+        },
+        {
+          "chapter": 5,
+          "verse": 3,
+          "text": "Wala si kama wajifanyao mabwana juu ya mitaa yao, bali kwa kujifanya vielelezo kwa lile kundi."
+        },
+        {
+          "chapter": 5,
+          "verse": 4,
+          "text": "Na Mchungaji mkuu atakapodhihirishwa, mtaipokea taji ya utukufu, ile isiyokauka."
+        },
+        {
+          "chapter": 5,
+          "verse": 5,
+          "text": "Vivyo hivyo ninyi vijana, watiini wazee. Naam, ninyi nyote jifungeni unyenyekevu, mpate kuhudumiana; kwa sababu Mungu huwapinga wenye kiburi, lakini huwapa wanyenyekevu neema."
+        },
+        {
+          "chapter": 5,
+          "verse": 6,
+          "text": "Basi nyenyekeeni chini ya mkono wa Mungu ulio hodari, ili awakweze kwa wakati wake;"
+        },
+        {
+          "chapter": 5,
+          "verse": 7,
+          "text": "huku mkimtwika yeye fadhaa zenu zote, kwa maana yeye hujishughulisha sana kwa mambo yenu."
+        },
+        {
+          "chapter": 5,
+          "verse": 8,
+          "text": "Mwe na kiasi na kukesha; kwa kuwa mshitaki wenu Ibilisi, kama simba angurumaye, huzunguka-zunguka, akitafuta mtu ammeze."
+        },
+        {
+          "chapter": 5,
+          "verse": 9,
+          "text": "Nanyi mpingeni huyo, mkiwa thabiti katika imani, mkijua ya kuwa mateso yale yale yanatimizwa kwa ndugu zenu walioko duniani."
+        },
+        {
+          "chapter": 5,
+          "verse": 10,
+          "text": "Na Mungu wa neema yote, aliyewaita kuingia katika utukufu wake wa milele katika Kristo, mkiisha kuteswa kwa muda kidogo, yeye mwenyewe atawatengeneza, na kuwathibitisha, na kuwatia nguvu."
+        },
+        {
+          "chapter": 5,
+          "verse": 11,
+          "text": "Uweza una yeye hata milele na milele. Amina."
+        },
+        {
+          "chapter": 5,
+          "verse": 12,
+          "text": "Kwa mkono wa Silwano, ndugu mwaminifu kama nionavyo, nimewaandikia kwa maneno machache, kuonya na kushuhudia ya kuwa hii ndiyo neema ya kweli ya Mungu. Simameni imara katika hiyo."
+        },
+        {
+          "chapter": 5,
+          "verse": 13,
+          "text": "Mwenzenu mteule hapa Babeli awasalimu, na Marko mwanangu."
+        },
+        {
+          "chapter": 5,
+          "verse": 14,
+          "text": "Salimianeni kwa busu la upendo. Amani na iwe kwenu nyote, mlio katika Kristo. Amina."
+        }
+      ],
+      "headings": []
+    }
+  ]
+}

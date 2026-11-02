@@ -614,8 +614,6 @@ def markdown_report(review: dict[str, object]) -> str:
         "",
         f"- Source: <{review['sourceUrl']}>",
         f"- SHA-256: `{review['sourceArchiveSha256']}`",
-        f"- License: [{review['sourceLicense']}]({review['sourceLicenseUrl']})",
-        f"- Rights: <{review['sourceRightsUrl']}>",
         f"- Verse units: {summary['appVerseUnits']:,} app and {summary['sourceVerseUnits']:,} source",
         f"- Strict exact matches: {summary['strictExact']:,}",
         f"- Strict differences reviewed: {summary['strictDifferences']:,}",

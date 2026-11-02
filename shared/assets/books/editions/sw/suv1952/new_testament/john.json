@@ -1,0 +1,4569 @@
+{
+  "schemaVersion": 2,
+  "editionId": "suv1952",
+  "language": "sw",
+  "collection": "new_testament",
+  "bookId": "john",
+  "sourceBookCode": "JHN",
+  "coverage": "full",
+  "chapters": [
+    {
+      "number": 1,
+      "lastVerse": 51,
+      "verseUnitCount": 51,
+      "verses": [
+        {
+          "chapter": 1,
+          "verse": 1,
+          "text": "Hapo mwanzo kulikuwako Neno, naye Neno alikuwako kwa Mungu, naye Neno alikuwa Mungu."
+        },
+        {
+          "chapter": 1,
+          "verse": 2,
+          "text": "Huyo mwanzo alikuwako kwa Mungu."
+        },
+        {
+          "chapter": 1,
+          "verse": 3,
+          "text": "Vyote vilifanyika kwa huyo; wala pasipo yeye hakikufanyika cho chote kilichofanyika."
+        },
+        {
+          "chapter": 1,
+          "verse": 4,
+          "text": "Ndani yake ndimo ulimokuwa uzima, nao ule uzima ulikuwa nuru ya watu."
+        },
+        {
+          "chapter": 1,
+          "verse": 5,
+          "text": "Nayo nuru yang’aa gizani, wala giza halikuiweza."
+        },
+        {
+          "chapter": 1,
+          "verse": 6,
+          "text": "Palitokea mtu, ametumwa kutoka kwa Mungu, jina lake Yohana."
+        },
+        {
+          "chapter": 1,
+          "verse": 7,
+          "text": "Huyo alikuja kwa ushuhuda, ili aishuhudie ile nuru, wote wapate kuamini kwa yeye."
+        },
+        {
+          "chapter": 1,
+          "verse": 8,
+          "text": "Huyo hakuwa ile nuru, bali alikuja ili aishuhudie ile nuru."
+        },
+        {
+          "chapter": 1,
+          "verse": 9,
+          "text": "Kulikuwako Nuru halisi, amtiaye nuru kila mtu, akija katika ulimwengu."
+        },
+        {
+          "chapter": 1,
+          "verse": 10,
+          "text": "Alikuwako ulimwenguni, hata kwa yeye ulimwengu ulipata kuwako, wala ulimwengu haukumtambua."
+        },
+        {
+          "chapter": 1,
+          "verse": 11,
+          "text": "Alikuja kwake, wala walio wake hawakumpokea."
+        },
+        {
+          "chapter": 1,
+          "verse": 12,
+          "text": "Bali wote waliompokea aliwapa uwezo wa kufanyika watoto wa Mungu, ndio wale waliaminio jina lake;"
+        },
+        {
+          "chapter": 1,
+          "verse": 13,
+          "text": "waliozaliwa, si kwa damu, wala si kwa mapenzi ya mwili, wala si kwa mapenzi ya mtu, bali kwa Mungu."
+        },
+        {
+          "chapter": 1,
+          "verse": 14,
+          "text": "Naye Neno alifanyika mwili, akakaa kwetu; nasi tukauona utukufu wake, utukufu kama wa Mwana pekee atokaye kwa Baba; amejaa neema na kweli."
+        },
+        {
+          "chapter": 1,
+          "verse": 15,
+          "text": "Yohana alimshuhudia, akapaza sauti yake akasema, Huyu ndiye niliyenena habari zake ya kwamba, Ajaye nyuma yangu amekuwa mbele yangu; kwa maana alikuwa kabla yangu."
+        },
+        {
+          "chapter": 1,
+          "verse": 16,
+          "text": "Kwa kuwa katika utimilifu wake sisi sote tulipokea, na neema juu ya neema."
+        },
+        {
+          "chapter": 1,
+          "verse": 17,
+          "text": "Kwa kuwa torati ilitolewa kwa mkono wa Musa; neema na kweli zilikuja kwa mkono wa Yesu Kristo."
+        },
+        {
+          "chapter": 1,
+          "verse": 18,
+          "text": "Hakuna mtu aliyemwona Mungu wakati wo wote; Mungu Mwana pekee aliye katika kifua cha Baba, huyu ndiye aliyemfunua."
+        },
+        {
+          "chapter": 1,
+          "verse": 19,
+          "text": "Na huu ndio ushuhuda wake Yohana, Wayahudi walipotuma kwake makuhani na Walawi kutoka Yerusalemu ili wamwulize, Wewe u nani?"
+        },
+        {
+          "chapter": 1,
+          "verse": 20,
+          "text": "Naye alikiri, wala hakukana; alikiri kwamba, Mimi siye Kristo."
+        },
+        {
+          "chapter": 1,
+          "verse": 21,
+          "text": "Wakamwuliza, Ni nini basi? U Eliya wewe? Akasema, Mimi siye. Wewe u nabii yule? Akajibu, La."
+        },
+        {
+          "chapter": 1,
+          "verse": 22,
+          "text": "Basi wakamwambia, U nani? Tuwape majibu wale waliotupeleka. Wanenaje juu ya nafsi yako?"
+        },
+        {
+          "chapter": 1,
+          "verse": 23,
+          "text": "Akasema, Mimi ni sauti ya mtu aliaye nyikani, Inyosheni njia ya [DN]Bwana[/DN]! Kama vile alivyonena nabii Isaya."
+        },
+        {
+          "chapter": 1,
+          "verse": 24,
+          "text": "Nao wale waliotumwa walikuwa wametoka kwa Mafarisayo."
+        },
+        {
+          "chapter": 1,
+          "verse": 25,
+          "text": "Wakamwuliza, wakamwambia, Mbona basi wabatiza, ikiwa wewe si Kristo, wala Eliya, wala nabii yule?"
+        },
+        {
+          "chapter": 1,
+          "verse": 26,
+          "text": "Yohana akawajibu akisema, Mimi nabatiza kwa maji. Katikati yenu amesimama yeye msiyemjua ninyi."
+        },
+        {
+          "chapter": 1,
+          "verse": 27,
+          "text": "Ndiye yule ajaye nyuma yangu, ambaye mimi sistahili kuilegeza gidamu ya kiatu chake."
+        },
+        {
+          "chapter": 1,
+          "verse": 28,
+          "text": "Hayo yalifanyika huko Bethania ng’ambo ya Yordani, alikokuwako Yohana akibatiza."
+        },
+        {
+          "chapter": 1,
+          "verse": 29,
+          "text": "Siku ya pili yake amwona Yesu anakuja kwake, akasema, Tazama, Mwana-kondoo wa Mungu, aichukuaye dhambi ya ulimwengu!"
+        },
+        {
+          "chapter": 1,
+          "verse": 30,
+          "text": "Huyu ndiye niliyenena habari zake ya kwamba, Yuaja mtu nyuma yangu, ambaye amekuwa mbele yangu; kwa maana alikuwa kabla yangu."
+        },
+        {
+          "chapter": 1,
+          "verse": 31,
+          "text": "Wala mimi sikumjua; lakini kusudi adhihirishwe kwa Israeli ndiyo maana mimi nalikuja nikibatiza kwa maji."
+        },
+        {
+          "chapter": 1,
+          "verse": 32,
+          "text": "Tena Yohana akashuhudia akisema, Nimemwona Roho akishuka kama hua kutoka mbinguni; naye akakaa juu yake."
+        },
+        {
+          "chapter": 1,
+          "verse": 33,
+          "text": "Wala mimi sikumjua; lakini yeye aliyenipeleka kubatiza kwa maji, huyo aliniambia, Yeye ambaye utamwona Roho akishuka na kukaa juu yake, huyo ndiye abatizaye kwa Roho Mtakatifu."
+        },
+        {
+          "chapter": 1,
+          "verse": 34,
+          "text": "Nami nimeona, tena nimeshuhudia ya kuwa huyu ni Mwana wa Mungu."
+        },
+        {
+          "chapter": 1,
+          "verse": 35,
+          "text": "Tena siku ya pili yake Yohana alikuwa amesimama pamoja na wawili katika wanafunzi wake."
+        },
+        {
+          "chapter": 1,
+          "verse": 36,
+          "text": "Akamtazama Yesu akitembea, akasema, Tazama, Mwana-kondoo wa Mungu!"
+        },
+        {
+          "chapter": 1,
+          "verse": 37,
+          "text": "Wale wanafunzi wawili wakamsikia akinena, wakamfuata Yesu."
+        },
+        {
+          "chapter": 1,
+          "verse": 38,
+          "text": "Yesu aligeuka, akawaona wakimfuata, akawaambia, [J]Mnatafuta nini?[/J] Wakamwambia, Rabi, (maana yake, Mwalimu), unakaa wapi?"
+        },
+        {
+          "chapter": 1,
+          "verse": 39,
+          "text": "Akawaambia, [J]Njoni, nanyi mtaona.[/J] Wakaenda, wakaona akaapo, wakakaa kwake siku ile. Nayo ilikuwa yapata saa kumi."
+        },
+        {
+          "chapter": 1,
+          "verse": 40,
+          "text": "Andrea, nduguye Simoni Petro, alikuwa mmoja wa wale wawili waliomsikia Yohana na kumfuata Yesu."
+        },
+        {
+          "chapter": 1,
+          "verse": 41,
+          "text": "Huyo akamwona kwanza Simoni, ndugu yake mwenyewe, akamwambia, Tumemwona Masihi (maana yake, Kristo)."
+        },
+        {
+          "chapter": 1,
+          "verse": 42,
+          "text": "Akampeleka kwa Yesu. Naye Yesu akamtazama, akasema, [J]Wewe u Simoni, mwana wa Yohana; nawe utaitwa Kefa[/J] (tafsiri yake Petro, au Jiwe)."
+        },
+        {
+          "chapter": 1,
+          "verse": 43,
+          "text": "Siku ya pili yake alitaka kuondoka kwenda Galilaya, naye akamwona Filipo. Yesu akamwambia, [J]Nifuate.[/J]"
+        },
+        {
+          "chapter": 1,
+          "verse": 44,
+          "text": "Naye Filipo alikuwa mtu wa Bethsaida, mwenyeji wa mji wa Andrea na Petro."
+        },
+        {
+          "chapter": 1,
+          "verse": 45,
+          "text": "Filipo akamwona Nathanaeli, akamwambia, Tumemwona yeye aliyeandikiwa na Musa katika torati, na manabii, Yesu, mwana wa Yusufu, mtu wa Nazareti."
+        },
+        {
+          "chapter": 1,
+          "verse": 46,
+          "text": "Nathanaeli akamwambia, Laweza neno jema kutoka Nazareti? Filipo akamwambia, Njoo uone."
+        },
+        {
+          "chapter": 1,
+          "verse": 47,
+          "text": "Basi Yesu akamwona Nathanaeli anakuja kwake, akanena habari zake, [J]Tazama, Mwisraeli kweli kweli, hamna hila ndani yake.[/J]"
+        },
+        {
+          "chapter": 1,
+          "verse": 48,
+          "text": "Nathanaeli akamwambia, Umepataje kunitambua? Yesu akajibu, akamwambia, [J]Kabla Filipo hajakuita, ulipokuwapo chini ya mtini nilikuona.[/J]"
+        },
+        {
+          "chapter": 1,
+          "verse": 49,
+          "text": "Nathanaeli akamjibu, Rabi, wewe u Mwana wa Mungu, ndiwe Mfalme wa Israeli."
+        },
+        {
+          "chapter": 1,
+          "verse": 50,
+          "text": "Yesu akajibu, akamwambia, [J]Kwa sababu nilikuambia, Nilikuona chini ya mtini, waamini? Utaona mambo makubwa kuliko haya.[/J]"
+        },
+        {
+          "chapter": 1,
+          "verse": 51,
+          "text": "Akamwambia, [J]Amin, amin, nawaambia, Mtaziona mbingu zimefunguka na malaika wa Mungu wakikwea na kushuka juu ya Mwana wa Adamu.[/J]"
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 2,
+      "lastVerse": 25,
+      "verseUnitCount": 25,
+      "verses": [
+        {
+          "chapter": 2,
+          "verse": 1,
+          "text": "Na siku ya tatu palikuwa na arusi huko Kana, mji wa Galilaya; naye mama yake Yesu alikuwapo."
+        },
+        {
+          "chapter": 2,
+          "verse": 2,
+          "text": "Yesu naye alikuwa amealikwa arusini pamoja na wanafunzi wake."
+        },
+        {
+          "chapter": 2,
+          "verse": 3,
+          "text": "Hata divai ilipowatindikia, mamaye Yesu akamwambia, Hawana divai."
+        },
+        {
+          "chapter": 2,
+          "verse": 4,
+          "text": "Yesu akamwambia, [J]Mama, tuna nini mimi nawe? Saa yangu haijawadia.[/J]"
+        },
+        {
+          "chapter": 2,
+          "verse": 5,
+          "text": "Mamaye akawaambia watumishi, Lo lote atakalowaambia, fanyeni."
+        },
+        {
+          "chapter": 2,
+          "verse": 6,
+          "text": "Basi kulikuwako huko mabalasi sita ya mawe, nayo yamewekwa huko kwa desturi ya Wayahudi ya kutawadha, kila moja lapata kadiri ya nzio mbili tatu."
+        },
+        {
+          "chapter": 2,
+          "verse": 7,
+          "text": "Yesu akawaambia, [J]Jalizeni mabalasi maji.[/J] Nao wakayajaliza hata juu."
+        },
+        {
+          "chapter": 2,
+          "verse": 8,
+          "text": "Akawaambia, [J]Sasa tekeni, mkampelekee mkuu wa meza.[/J] Wakapeleka."
+        },
+        {
+          "chapter": 2,
+          "verse": 9,
+          "text": "Naye mkuu wa meza alipoyaonja yale maji yaliyopata kuwa divai, (wala asijue ilikotoka, lakini watumishi walijua, wale walioyateka yale maji), yule mkuu wa meza alimwita bwana arusi,"
+        },
+        {
+          "chapter": 2,
+          "verse": 10,
+          "text": "akamwambia, Kila mtu kwanza huandaa divai iliyo njema; hata watu wakiisha kunywa sana ndipo huleta iliyo dhaifu; wewe umeiweka divai iliyo njema hata sasa."
+        },
+        {
+          "chapter": 2,
+          "verse": 11,
+          "text": "Mwanzo huo wa ishara Yesu aliufanya huko Kana ya Galilaya, akaudhihirisha utukufu wake, nao wanafunzi wake wakamwamini."
+        },
+        {
+          "chapter": 2,
+          "verse": 12,
+          "text": "Baada ya hayo akashuka mpaka Kapernaumu, yeye na mama yake na ndugu zake na wanafunzi wake; wakakaa huko siku si nyingi."
+        },
+        {
+          "chapter": 2,
+          "verse": 13,
+          "text": "Na Pasaka ya Wayahudi ilikuwa karibu; naye Yesu akakwea mpaka Yerusalemu."
+        },
+        {
+          "chapter": 2,
+          "verse": 14,
+          "text": "Akaona pale hekaluni watu waliokuwa wakiuza ng’ombe na kondoo na njiwa, na wenye kuvunja fedha wameketi."
+        },
+        {
+          "chapter": 2,
+          "verse": 15,
+          "text": "Akafanya kikoto cha kambaa, akawatoa wote katika hekalu, na kondoo na ng’ombe; akamwaga fedha za wenye kuvunja fedha, akazipindua meza zao;"
+        },
+        {
+          "chapter": 2,
+          "verse": 16,
+          "text": "akawaambia wale waliokuwa wakiuza njiwa, [J]Yaondoeni haya; msiifanye nyumba ya Baba yangu kuwa nyumba ya biashara.[/J]"
+        },
+        {
+          "chapter": 2,
+          "verse": 17,
+          "text": "Wanafunzi wake wakakumbuka ya kuwa imeandikwa, Wivu wa nyumba yako utanila."
+        },
+        {
+          "chapter": 2,
+          "verse": 18,
+          "text": "Basi Wayahudi wakajibu, wakamwambia, Ni ishara gani utuonyeshayo, kwamba unafanya haya?"
+        },
+        {
+          "chapter": 2,
+          "verse": 19,
+          "text": "Yesu akajibu, akawaambia, [J]Livunjeni hekalu hili, nami katika siku tatu nitalisimamisha.[/J]"
+        },
+        {
+          "chapter": 2,
+          "verse": 20,
+          "text": "Basi Wayahudi wakasema, Hekalu hili lilijengwa katika muda wa miaka arobaini na sita, nawe utalisimamisha katika siku tatu?"
+        },
+        {
+          "chapter": 2,
+          "verse": 21,
+          "text": "Lakini yeye alinena habari za hekalu la mwili wake."
+        },
+        {
+          "chapter": 2,
+          "verse": 22,
+          "text": "Basi alipofufuka katika wafu, wanafunzi wake wakakumbuka ya kuwa alisema hivi, wakaliamini lile andiko na lile neno alilolinena Yesu."
+        },
+        {
+          "chapter": 2,
+          "verse": 23,
+          "text": "Hata alipokuwapo Yerusalemu kwenye sikukuu wakati wa Pasaka, watu wengi waliamini jina lake, walipoziona ishara zake alizozifanya."
+        },
+        {
+          "chapter": 2,
+          "verse": 24,
+          "text": "Lakini Yesu hakujiaminisha kwao; kwa kuwa yeye aliwajua wote;"
+        },
+        {
+          "chapter": 2,
+          "verse": 25,
+          "text": "na kwa sababu hakuwa na haja ya mtu kushuhudia habari za mwanadamu; kwa maana yeye mwenyewe alijua yaliyomo ndani ya mwanadamu."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 3,
+      "lastVerse": 36,
+      "verseUnitCount": 36,
+      "verses": [
+        {
+          "chapter": 3,
+          "verse": 1,
+          "text": "Basi palikuwa na mtu mmoja wa Mafarisayo, jina lake Nikodemo, mkuu wa Wayahudi."
+        },
+        {
+          "chapter": 3,
+          "verse": 2,
+          "text": "Huyo alimjia usiku, akamwambia, Rabi, twajua ya kuwa u mwalimu, umetoka kwa Mungu; kwa maana hakuna mtu awezaye kuzifanya ishara hizi uzifanyazo wewe, isipokuwa Mungu yu pamoja naye."
+        },
+        {
+          "chapter": 3,
+          "verse": 3,
+          "text": "Yesu akajibu, akamwambia, [J]Amin, amin, nakuambia, Mtu asipozaliwa mara ya pili, hawezi kuuona ufalme wa Mungu.[/J]"
+        },
+        {
+          "chapter": 3,
+          "verse": 4,
+          "text": "Nikodemo akamwambia, Awezaje mtu kuzaliwa, akiwa mzee? Aweza kuingia tumboni mwa mamaye mara ya pili akazaliwa?"
+        },
+        {
+          "chapter": 3,
+          "verse": 5,
+          "text": "Yesu akajibu, [J]Amin, amin, nakuambia, Mtu asipozaliwa kwa maji na kwa Roho, hawezi kuuingia ufalme wa Mungu.[/J]"
+        },
+        {
+          "chapter": 3,
+          "verse": 6,
+          "text": "[J]Kilichozaliwa kwa mwili ni mwili; na kilichozaliwa kwa Roho ni roho.[/J]"
+        },
+        {
+          "chapter": 3,
+          "verse": 7,
+          "text": "[J]Usistaajabu kwa kuwa nilikuambia, Hamna budi kuzaliwa mara ya pili.[/J]"
+        },
+        {
+          "chapter": 3,
+          "verse": 8,
+          "text": "[J]Upepo huvuma upendako, na sauti yake waisikia, lakini hujui unakotoka wala unakokwenda; kadhalika na hali yake kila mtu aliyezaliwa kwa Roho.[/J]"
+        },
+        {
+          "chapter": 3,
+          "verse": 9,
+          "text": "Nikodemo akajibu, akamwambia, Yawezaje kuwa mambo haya?"
+        },
+        {
+          "chapter": 3,
+          "verse": 10,
+          "text": "Yesu akajibu, akamwambia, [J]Je! Wewe u mwalimu wa Israeli, na mambo haya huyafahamu?[/J]"
+        },
+        {
+          "chapter": 3,
+          "verse": 11,
+          "text": "[J]Amin, amin, nakuambia kwamba, Lile tulijualo twalinena, na lile tuliloliona twalishuhudia; wala ushuhuda wetu hamwukubali.[/J]"
+        },
+        {
+          "chapter": 3,
+          "verse": 12,
+          "text": "[J]Ikiwa nimewaambia mambo ya duniani, wala hamsadiki, mtasadiki wapi niwaambiapo mambo ya mbinguni?[/J]"
+        },
+        {
+          "chapter": 3,
+          "verse": 13,
+          "text": "[J]Wala hakuna mtu aliyepaa mbinguni, ila yeye aliyeshuka kutoka mbinguni, yaani, Mwana wa Adamu.[/J]"
+        },
+        {
+          "chapter": 3,
+          "verse": 14,
+          "text": "[J]Na kama vile Musa alivyomwinua yule nyoka jangwani, vivyo hivyo Mwana wa Adamu hana budi kuinuliwa;[/J]"
+        },
+        {
+          "chapter": 3,
+          "verse": 15,
+          "text": "[J]ili kila mtu aaminiye awe na uzima wa milele katika yeye.[/J]"
+        },
+        {
+          "chapter": 3,
+          "verse": 16,
+          "text": "[J]Kwa maana jinsi hii Mungu aliupenda ulimwengu, hata akamtoa Mwanawe pekee, ili kila mtu amwaminiye asipotee, bali awe na uzima wa milele.[/J]"
+        },
+        {
+          "chapter": 3,
+          "verse": 17,
+          "text": "[J]Maana Mungu hakumtuma Mwana ulimwenguni ili auhukumu ulimwengu, bali ulimwengu uokolewe katika yeye.[/J]"
+        },
+        {
+          "chapter": 3,
+          "verse": 18,
+          "text": "[J]Amwaminiye yeye hahukumiwi; asiyeamini amekwisha kuhukumiwa; kwa sababu hakuliamini jina la Mwana pekee wa Mungu.[/J]"
+        },
+        {
+          "chapter": 3,
+          "verse": 19,
+          "text": "[J]Na hii ndiyo hukumu; ya kuwa nuru imekuja ulimwenguni, na watu wakapenda giza kuliko nuru; kwa maana matendo yao yalikuwa maovu.[/J]"
+        },
+        {
+          "chapter": 3,
+          "verse": 20,
+          "text": "[J]Maana kila mtu atendaye mabaya huichukia nuru, wala haji kwenye nuru, matendo yake yasije yakakemewa.[/J]"
+        },
+        {
+          "chapter": 3,
+          "verse": 21,
+          "text": "[J]Bali yeye aitendaye kweli huja kwenye nuru, ili matendo yake yaonekane wazi ya kuwa yametendwa katika Mungu.[/J]"
+        },
+        {
+          "chapter": 3,
+          "verse": 22,
+          "text": "Baada ya hayo Yesu na wanafunzi wake walikwenda mpaka nchi ya Uyahudi; akashinda huko pamoja nao, akabatiza."
+        },
+        {
+          "chapter": 3,
+          "verse": 23,
+          "text": "Yohana naye alikuwa akibatiza huko Ainoni, karibu na Salimu, kwa sababu huko kulikuwa na maji tele; na watu wakamwendea, wakabatizwa."
+        },
+        {
+          "chapter": 3,
+          "verse": 24,
+          "text": "Maana Yohana alikuwa hajatiwa gerezani."
+        },
+        {
+          "chapter": 3,
+          "verse": 25,
+          "text": "Basi palitokea mashindano ya wanafunzi wa Yohana na Myahudi mmoja juu ya utakaso."
+        },
+        {
+          "chapter": 3,
+          "verse": 26,
+          "text": "Wakamwendea Yohana, wakamwambia, Rabi, yeye aliyekuwa pamoja nawe ng’ambo ya Yordani, yeye uliyemshuhudia, tazama, huyo anabatiza na watu wote wanamwendea."
+        },
+        {
+          "chapter": 3,
+          "verse": 27,
+          "text": "Yohana akajibu, akasema, Hawezi mtu kupokea neno lo lote isipokuwa amepewa kutoka mbinguni."
+        },
+        {
+          "chapter": 3,
+          "verse": 28,
+          "text": "Ninyi wenyewe mwanishuhudia ya kwamba nalisema, Mimi siye Kristo, bali nimetumwa mbele yake."
+        },
+        {
+          "chapter": 3,
+          "verse": 29,
+          "text": "Aliye naye bibi arusi ndiye bwana arusi; lakini rafiki yake bwana arusi, yeye anayesimama na kumsikia, aifurahia sana sauti yake bwana arusi."
+        },
+        {
+          "chapter": 3,
+          "verse": 30,
+          "text": "Basi hii furaha yangu imetimia. Yeye hana budi kuzidi, bali mimi kupungua."
+        },
+        {
+          "chapter": 3,
+          "verse": 31,
+          "text": "Yeye ajaye kutoka juu, huyo yu juu ya yote. Yeye aliye wa dunia, asili yake ni ya dunia, naye anena mambo ya duniani. Yeye ajaye kutoka mbinguni yu juu ya yote."
+        },
+        {
+          "chapter": 3,
+          "verse": 32,
+          "text": "Yale aliyoyaona na kuyasikia ndiyo anayoyashuhudia, wala hakuna anayeukubali ushuhuda wake."
+        },
+        {
+          "chapter": 3,
+          "verse": 33,
+          "text": "Yeye aliyeukubali ushuhuda wake ametia muhuri ya kwamba Mungu ni kweli."
+        },
+        {
+          "chapter": 3,
+          "verse": 34,
+          "text": "Kwa kuwa yeye aliyetumwa na Mungu huyanena maneno ya Mungu; kwa sababu hamtoi Roho kwa kipimo."
+        },
+        {
+          "chapter": 3,
+          "verse": 35,
+          "text": "Baba ampenda Mwana, naye amempa vyote mkononi mwake."
+        },
+        {
+          "chapter": 3,
+          "verse": 36,
+          "text": "Amwaminiye Mwana yuna uzima wa milele; asiyemwamini Mwana hataona uzima, bali ghadhabu ya Mungu inamkalia."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 4,
+      "lastVerse": 54,
+      "verseUnitCount": 54,
+      "verses": [
+        {
+          "chapter": 4,
+          "verse": 1,
+          "text": "Kwa hiyo Bwana, alipofahamu ya kuwa Mafarisayo wamesikia ya kwamba, Yesu anafanya wanafunzi wengi kuliko Yohana, na kuwabatiza,"
+        },
+        {
+          "chapter": 4,
+          "verse": 2,
+          "text": "(lakini Yesu mwenyewe hakubatiza, bali wanafunzi wake,)"
+        },
+        {
+          "chapter": 4,
+          "verse": 3,
+          "text": "aliacha Uyahudi, akaenda zake tena mpaka Galilaya."
+        },
+        {
+          "chapter": 4,
+          "verse": 4,
+          "text": "Naye alikuwa hana budi kupita katikati ya Samaria."
+        },
+        {
+          "chapter": 4,
+          "verse": 5,
+          "text": "Basi akafika kunako mji wa Samaria, uitwao Sikari, karibu na lile shamba ambalo Yakobo alimpa Yusufu mwanawe."
+        },
+        {
+          "chapter": 4,
+          "verse": 6,
+          "text": "Na hapo palikuwa na kisima cha Yakobo. Basi Yesu, kwa sababu amechoka kwa safari yake, akaketi vivi hivi kisimani. Nayo ilikuwa yapata saa sita."
+        },
+        {
+          "chapter": 4,
+          "verse": 7,
+          "text": "Akaja mwanamke Msamaria kuteka maji. Yesu akamwambia, [J]Nipe maji ninywe.[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 8,
+          "text": "Kwa maana wanafunzi wake wamekwenda mjini kununua chakula."
+        },
+        {
+          "chapter": 4,
+          "verse": 9,
+          "text": "Basi yule mwanamke Msamaria akamwambia, Imekuwaje wewe Myahudi kutaka maji kwangu, nami ni mwanamke Msamaria? (Maana Wayahudi hawachangamani na Wasamaria.)"
+        },
+        {
+          "chapter": 4,
+          "verse": 10,
+          "text": "Yesu akajibu, akamwambia, [J]Kama ungaliijua karama ya Mungu, naye ni nani akuambiaye, Nipe maji ninywe, ungalimwomba yeye, naye angalikupa maji yaliyo hai.[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 11,
+          "text": "Yule mwanamke akamwambia, Bwana, huna kitu cha kutekea, na kisima ni kirefu; basi umeyapata wapi hayo maji yaliyo hai?"
+        },
+        {
+          "chapter": 4,
+          "verse": 12,
+          "text": "Je! Wewe u mkubwa kuliko baba yetu, Yakobo, aliyetupa kisima hiki, naye mwenyewe akanywa maji yake, na wanawe pia, na wanyama wake?"
+        },
+        {
+          "chapter": 4,
+          "verse": 13,
+          "text": "Yesu akajibu, akamwambia, [J]Kila anywaye maji haya ataona kiu tena;[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 14,
+          "text": "[J]walakini ye yote atakayekunywa maji yale nitakayompa mimi hataona kiu milele; bali yale maji nitakayompa yatakuwa ndani yake chemchemi ya maji, yakibubujikia uzima wa milele.[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 15,
+          "text": "Yule mwanamke akamwambia, Bwana, unipe maji hayo, nisione kiu, wala nisije hapa kuteka."
+        },
+        {
+          "chapter": 4,
+          "verse": 16,
+          "text": "Yesu akamwambia, [J]Nenda kamwite mumeo, uje naye hapa.[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 17,
+          "text": "Yule mwanamke akajibu, akasema, Sina mume. Yesu akamwambia, [J]Umesema vema, Sina mume;[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 18,
+          "text": "[J]kwa maana umekuwa na waume watano, naye uliye naye sasa siye mume wako; hapo umesema kweli.[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 19,
+          "text": "Yule mwanamke akamwambia, Bwana, naona ya kuwa u nabii!"
+        },
+        {
+          "chapter": 4,
+          "verse": 20,
+          "text": "Baba zetu waliabudu katika mlima huu, nanyi husema ya kwamba huko Yerusalemu ni mahali patupasapo kuabudia."
+        },
+        {
+          "chapter": 4,
+          "verse": 21,
+          "text": "Yesu akamwambia, [J]Mama, unisadiki, saa inakuja ambayo hamtamwabudu Baba katika mlima huu, wala kule Yerusalemu.[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 22,
+          "text": "[J]Ninyi mnaabudu msichokijua; sisi tunaabudu tukijuacho; kwa kuwa wokovu watoka kwa Wayahudi.[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 23,
+          "text": "[J]Lakini saa inakuja, nayo sasa ipo, ambayo waabuduo halisi watamwabudu Baba katika roho na kweli. Kwa maana Baba awatafuta watu kama hao wamwabudu.[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 24,
+          "text": "[J]Mungu ni Roho, nao wamwabuduo yeye imewapasa kumwabudu katika roho na kweli.[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 25,
+          "text": "Yule mwanamke akamwambia, Najua ya kuwa yuaja Masihi, (aitwaye Kristo); naye atakapokuja, yeye atatufunulia mambo yote."
+        },
+        {
+          "chapter": 4,
+          "verse": 26,
+          "text": "Yesu akamwambia, [J]Mimi ninayesema nawe, ndiye.[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 27,
+          "text": "Mara hiyo wakaja wanafunzi wake, wakastaajabu kwa sababu alikuwa akisema na mwanamke; lakini hakuna aliyesema, Unatafuta nini? Au, Mbona unasema naye?"
+        },
+        {
+          "chapter": 4,
+          "verse": 28,
+          "text": "Basi yule mwanamke akauacha mtungi wake, akaenda zake mjini, akawaambia watu,"
+        },
+        {
+          "chapter": 4,
+          "verse": 29,
+          "text": "Njoni, mtazame mtu aliyeniambia mambo yote niliyoyatenda. Je! Haimkini huyu kuwa ndiye Kristo?"
+        },
+        {
+          "chapter": 4,
+          "verse": 30,
+          "text": "Basi wakatoka mjini, wakamwendea."
+        },
+        {
+          "chapter": 4,
+          "verse": 31,
+          "text": "Huko nyuma wanafunzi wakamsihi wakisema, Rabi, ule."
+        },
+        {
+          "chapter": 4,
+          "verse": 32,
+          "text": "Akawaambia, [J]Mimi ninacho chakula msichokijua ninyi.[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 33,
+          "text": "Basi wanafunzi wake wakasemezana, Je! Mtu amemletea chakula?"
+        },
+        {
+          "chapter": 4,
+          "verse": 34,
+          "text": "Yesu akawaambia, [J]Chakula changu ndicho hiki, niyatende mapenzi yake aliyenipeleka, nikaimalize kazi yake.[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 35,
+          "text": "[J]Hamsemi ninyi, Bado miezi minne, ndipo yaja mavuno? Tazama, mimi nawaambieni, Inueni macho yenu myatazame mashamba, ya kuwa yamekwisha kuwa meupe, tayari kwa mavuno.[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 36,
+          "text": "[J]Naye avunaye hupokea mshahara, na kukusanya matunda kwa uzima wa milele, ili yeye apandaye na yeye avunaye wapate kufurahi pamoja.[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 37,
+          "text": "[J]Kwa maana hapo neno hilo huwa kweli, Mmoja hupanda akavuna mwingine.[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 38,
+          "text": "[J]Mimi naliwatuma myavune yale msiyoyataabikia; wengine walitaabika, nanyi mmeingia katika taabu yao.[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 39,
+          "text": "Na katika mji ule Wasamaria wengi walimwamini kwa sababu ya neno la yule mwanamke, aliyeshuhudia kwamba, Aliniambia mambo yote niliyoyatenda."
+        },
+        {
+          "chapter": 4,
+          "verse": 40,
+          "text": "Basi wale Wasamaria walipomwendea, walimsihi akae kwao; naye akakaa huko siku mbili."
+        },
+        {
+          "chapter": 4,
+          "verse": 41,
+          "text": "Watu wengi zaidi wakaamini kwa sababu ya neno lake."
+        },
+        {
+          "chapter": 4,
+          "verse": 42,
+          "text": "Wakamwambia yule mwanamke, Sasa tunaamini, wala si kwa sababu ya maneno yako tu; maana sisi tumesikia wenyewe, tena twajua ya kuwa hakika huyu ndiye Mwokozi wa ulimwengu."
+        },
+        {
+          "chapter": 4,
+          "verse": 43,
+          "text": "Na baada ya siku mbili hizo akaondoka huko, akaenda Galilaya."
+        },
+        {
+          "chapter": 4,
+          "verse": 44,
+          "text": "Kwa maana Yesu mwenyewe alishuhudia ya kwamba nabii hapati heshima katika nchi yake mwenyewe."
+        },
+        {
+          "chapter": 4,
+          "verse": 45,
+          "text": "Basi alipotoka Galilaya, Wagalilaya walimpokea; kwa kuwa wameyaona mambo yote aliyoyatenda huko Yerusalemu wakati wa sikukuu; maana hao nao waliiendea sikukuu."
+        },
+        {
+          "chapter": 4,
+          "verse": 46,
+          "text": "Basi alifika tena Kana ya Galilaya, hapo alipoyafanya yale maji kuwa divai. Na palikuwa na diwani mmoja ambaye mwanawe hawezi huko Kapernaumu."
+        },
+        {
+          "chapter": 4,
+          "verse": 47,
+          "text": "Huyo aliposikia ya kwamba Yesu amekuja kutoka Uyahudi mpaka Galilaya, alimwendea, akamsihi ashuke na kumponya mwanawe; kwa maana alikuwa kufani."
+        },
+        {
+          "chapter": 4,
+          "verse": 48,
+          "text": "Basi Yesu akamwambia, [J]Msipoona ishara na maajabu hamtaamini kabisa?[/J]"
+        },
+        {
+          "chapter": 4,
+          "verse": 49,
+          "text": "Yule diwani akamwambia, Bwana, ushuke asijakufa mtoto wangu."
+        },
+        {
+          "chapter": 4,
+          "verse": 50,
+          "text": "Yesu akamwambia, [J]Enenda; mwanao yu hai.[/J] Mtu yule akalisadiki lile neno aliloambiwa na Yesu, naye akashika njia."
+        },
+        {
+          "chapter": 4,
+          "verse": 51,
+          "text": "Hata alipokuwa akishuka, watumwa wake walimlaki, wakisema ya kwamba mtoto wake yu hai."
+        },
+        {
+          "chapter": 4,
+          "verse": 52,
+          "text": "Basi akawauliza habari ya saa alipoanza kuwa hajambo; nao wakamwambia, Jana, saa saba, homa ilimwacha."
+        },
+        {
+          "chapter": 4,
+          "verse": 53,
+          "text": "Basi babaye akafahamu ya kuwa ni saa ile ile aliyoambiwa na Yesu, [J]Mwanao yu hai.[/J] Akaamini yeye na wote wa nyumbani mwake."
+        },
+        {
+          "chapter": 4,
+          "verse": 54,
+          "text": "Hiyo ni ishara ya pili aliyoifanya Yesu, alipokuwa ametoka Uyahudi kufika Galilaya."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 5,
+      "lastVerse": 47,
+      "verseUnitCount": 47,
+      "verses": [
+        {
+          "chapter": 5,
+          "verse": 1,
+          "text": "Baada ya hayo palikuwa na sikukuu ya Wayahudi; naye Yesu akakwea kwenda Yerusalemu."
+        },
+        {
+          "chapter": 5,
+          "verse": 2,
+          "text": "Na huko Yerusalemu penye mlango wa kondoo pana birika, iitwayo kwa Kiebrania Bethzatha, nayo ina matao matano."
+        },
+        {
+          "chapter": 5,
+          "verse": 3,
+          "text": "Ndani ya hayo jamii kubwa ya wagonjwa walikuwa wamelala, vipofu, viwete, nao waliopooza, [wakingoja maji yachemke."
+        },
+        {
+          "chapter": 5,
+          "verse": 4,
+          "text": "Kwa maana kuna wakati ambapo malaika hushuka, akaingia katika ile birika, akayatibua maji. Basi yeye aliyeingia wa kwanza baada ya maji kutibuliwa, akapona ugonjwa wote uliokuwa umempata.]"
+        },
+        {
+          "chapter": 5,
+          "verse": 5,
+          "text": "Na hapa palikuwa na mtu, ambaye amekuwa hawezi muda wa miaka thelathini na minane."
+        },
+        {
+          "chapter": 5,
+          "verse": 6,
+          "text": "Yesu alipomwona huyu amelala, naye akijua ya kuwa amekuwa hali hiyo siku nyingi, alimwambia, [J]Wataka kuwa mzima?[/J]"
+        },
+        {
+          "chapter": 5,
+          "verse": 7,
+          "text": "Yule mgonjwa akamjibu, Bwana, mimi sina mtu wa kunitia birikani, maji yanapotibuliwa; ila wakati ninapokuja mimi, mtu mwingine hushuka mbele yangu."
+        },
+        {
+          "chapter": 5,
+          "verse": 8,
+          "text": "Yesu akamwambia, [J]Simama, jitwike godoro lako, uende.[/J]"
+        },
+        {
+          "chapter": 5,
+          "verse": 9,
+          "text": "Mara yule mtu akawa mzima, akajitwika godoro lake, akaenda. Nayo ilikuwa ni sabato siku hiyo."
+        },
+        {
+          "chapter": 5,
+          "verse": 10,
+          "text": "Kwa sababu hiyo Wayahudi wakamwambia yule aliyeponywa, Leo ni sabato, wala si halali kwako kujitwika godoro."
+        },
+        {
+          "chapter": 5,
+          "verse": 11,
+          "text": "Akawajibu, Yeye aliyenifanya kuwa mzima ndiye aliyeniambia, [J]Jitwike godoro lako, uende.[/J]"
+        },
+        {
+          "chapter": 5,
+          "verse": 12,
+          "text": "Basi wakamwuliza, Yule aliyekuambia, Jitwike, uende, ni nani?"
+        },
+        {
+          "chapter": 5,
+          "verse": 13,
+          "text": "Lakini yule mtu aliyeponywa hakumjua ni nani; maana Yesu alikuwa amejitenga, kwa sababu palikuwa na watu wengi mahali pale."
+        },
+        {
+          "chapter": 5,
+          "verse": 14,
+          "text": "Baada ya hayo Yesu akamkuta ndani ya hekalu, akamwambia, [J]Angalia, umekuwa mzima; usitende dhambi tena, lisije likakupata jambo lililo baya zaidi.[/J]"
+        },
+        {
+          "chapter": 5,
+          "verse": 15,
+          "text": "Yule mtu akaenda zake, akawapasha habari Wayahudi ya kwamba ni Yesu aliyemfanya kuwa mzima."
+        },
+        {
+          "chapter": 5,
+          "verse": 16,
+          "text": "Kwa sababu hiyo Wayahudi wakamwudhi Yesu, kwa kuwa alitenda hayo siku ya sabato."
+        },
+        {
+          "chapter": 5,
+          "verse": 17,
+          "text": "Akawajibu, [J]Baba yangu anatenda kazi hata sasa, nami ninatenda kazi.[/J]"
+        },
+        {
+          "chapter": 5,
+          "verse": 18,
+          "text": "Basi kwa sababu hiyo Wayahudi walizidi kutaka kumwua, kwa kuwa hakuivunja sabato tu, bali pamoja na hayo alimwita Mungu Baba yake, akijifanya sawa na Mungu. Basi Yesu akajibu, akawaambia, Amin, amin, nawaambia,"
+        },
+        {
+          "chapter": 5,
+          "verse": 19,
+          "text": "[J]Mwana hawezi kutenda neno mwenyewe ila lile ambalo amwona Baba analitenda; kwa maana yote ayatendayo yeye, ndiyo ayatendayo Mwana vile vile.[/J]"
+        },
+        {
+          "chapter": 5,
+          "verse": 20,
+          "text": "[J]Kwa kuwa Baba ampenda Mwana, naye humwonyesha yote ayatendayo mwenyewe; hata na kazi kubwa zaidi kuliko hizo atamwonyesha, ili ninyi mpate kustaajabu.[/J]"
+        },
+        {
+          "chapter": 5,
+          "verse": 21,
+          "text": "[J]Maana kama Baba awafufuavyo wafu na kuwahuisha, vivyo hivyo na Mwana awahuisha wale awatakao.[/J]"
+        },
+        {
+          "chapter": 5,
+          "verse": 22,
+          "text": "[J]Tena Baba hamhukumu mtu ye yote, bali amempa Mwana hukumu yote;[/J]"
+        },
+        {
+          "chapter": 5,
+          "verse": 23,
+          "text": "[J]ili watu wote wamheshimu Mwana kama vile wanavyomheshimu Baba. Asiyemheshimu Mwana hamheshimu Baba aliyempeleka.[/J]"
+        },
+        {
+          "chapter": 5,
+          "verse": 24,
+          "text": "[J]Amin, amin, nawaambia, Yeye alisikiaye neno langu na kumwamini yeye aliyenipeleka yuna uzima wa milele; wala haingii hukumuni, bali amepita kutoka mautini kuingia uzimani.[/J]"
+        },
+        {
+          "chapter": 5,
+          "verse": 25,
+          "text": "[J]Amin, amin, nawaambia, Saa inakuja, na sasa ipo, wafu watakapoisikia sauti ya Mwana wa Mungu, na wale waisikiao watakuwa hai.[/J]"
+        },
+        {
+          "chapter": 5,
+          "verse": 26,
+          "text": "[J]Maana kama vile Baba alivyo na uzima nafsini mwake, vivyo hivyo alimpa na Mwana kuwa na uzima nafsini mwake.[/J]"
+        },
+        {
+          "chapter": 5,
+          "verse": 27,
+          "text": "[J]Naye akampa amri ya kufanya hukumu kwa sababu ni Mwana wa Adamu.[/J]"
+        },
+        {
+          "chapter": 5,
+          "verse": 28,
+          "text": "[J]Msistaajabie maneno hayo; kwa maana saa yaja, ambayo watu wote waliomo makaburini wataisikia sauti yake.[/J]"
+        },
+        {
+          "chapter": 5,
+          "verse": 29,
+          "text": "[J]Nao watatoka; wale waliofanya mema kwa ufufuo wa uzima, na wale waliotenda mabaya kwa ufufuo wa hukumu.[/J]"
+        },
+        {
+          "chapter": 5,
+          "verse": 30,
+          "text": "[J]Mimi siwezi kufanya neno mwenyewe; kama nisikiavyo ndivyo nihukumuvyo; na hukumu yangu ni ya haki, kwa sababu siyatafuti mapenzi yangu mimi, bali mapenzi yake aliyenipeleka.[/J]"
+        },
+        {
+          "chapter": 5,
+          "verse": 31,
+          "text": "[J]Mimi nikijishuhudia mwenyewe, ushuhuda wangu si kweli.[/J]"
+        },
+        {
+          "chapter": 5,
+          "verse": 32,
+          "text": "[J]Yuko mwingine anayenishuhudia; nami najua ya kuwa ushuhuda wake anaonishuhudia ni kweli.[/J]"
+        },
+        {
+          "chapter": 5,
+          "verse": 33,
+          "text": "[J]Ninyi mlituma watu kwa Yohana, naye akaishuhudia kweli.[/J]"
+        },
+        {
+          "chapter": 5,
+          "verse": 34,
+          "text": "[J]Lakini mimi siupokei ushuhuda kwa wanadamu; walakini ninasema haya ili ninyi mpate kuokoka.[/J]"
+        },
+        {
+          "chapter": 5,
+          "verse": 35,
+          "text": "[J]Yeye alikuwa taa iwakayo na kung’aa, nanyi mlipenda kuishangilia nuru yake kwa muda.[/J]"
+        },
+        {
+          "chapter": 5,
+          "verse": 36,
+          "text": "[J]Lakini ushuhuda nilio nao mimi ni mkubwa kuliko ule wa Yohana; kwa kuwa zile kazi alizonipa Baba ili nizimalize, kazi hizo zenyewe ninazozitenda, zanishuhudia ya kwamba Baba amenituma.[/J]"
+        },
+        {
+          "chapter": 5,
+          "verse": 37,
+          "text": "[J]Naye Baba aliyenipeleka amenishuhudia. Sauti yake hamkuisikia wakati wo wote, wala sura yake hamkuiona.[/J]"
+        },
+        {
+          "chapter": 5,
+          "verse": 38,
+          "text": "[J]Wala neno lake hamnalo likikaa ndani yenu, kwa kuwa ninyi hammwamini yule aliyetumwa na yeye.[/J]"
+        },
+        {
+          "chapter": 5,
+          "verse": 39,
+          "text": "[J]Mwayachunguza maandiko, kwa sababu mnadhani kwamba ninyi mna uzima wa milele ndani yake; na hayo ndiyo yanayonishuhudia.[/J]"
+        },
+        {
+          "chapter": 5,
+          "verse": 40,
+          "text": "[J]Wala hamtaki kuja kwangu mpate kuwa na uzima.[/J]"
+        },
+        {
+          "chapter": 5,
+          "verse": 41,
+          "text": "[J]Mimi siupokei utukufu kwa wanadamu.[/J]"
+        },
+        {
+          "chapter": 5,
+          "verse": 42,
+          "text": "[J]Walakini nimewajua ninyi ya kuwa hamna upendo wa Mungu ndani yenu.[/J]"
+        },
+        {
+          "chapter": 5,
+          "verse": 43,
+          "text": "[J]Mimi nimekuja kwa jina la Baba yangu, wala ninyi hamnipokei; mwingine akija kwa jina lake mwenyewe, mtampokea huyo.[/J]"
+        },
+        {
+          "chapter": 5,
+          "verse": 44,
+          "text": "[J]Mwawezaje kuamini ninyi mnaopokeana utukufu ninyi kwa ninyi, na utukufu ule utokao kwa Mungu aliye wa pekee hamwutafuti?[/J]"
+        },
+        {
+          "chapter": 5,
+          "verse": 45,
+          "text": "[J]Msidhani kwamba mimi nitawashitaki kwa Baba; yuko anayewashitaki, ndiye Musa, mnayemtumaini ninyi.[/J]"
+        },
+        {
+          "chapter": 5,
+          "verse": 46,
+          "text": "[J]Kwa maana kama mngalimwamini Musa, mngeniamini mimi; kwa sababu yeye aliandika habari zangu.[/J]"
+        },
+        {
+          "chapter": 5,
+          "verse": 47,
+          "text": "[J]Lakini msipoyaamini maandiko yake, mtayaamini wapi maneno yangu?[/J]"
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 6,
+      "lastVerse": 71,
+      "verseUnitCount": 71,
+      "verses": [
+        {
+          "chapter": 6,
+          "verse": 1,
+          "text": "Baada ya hayo Yesu alikwenda zake ng’ambo ya Bahari ya Galilaya, nayo ndiyo ya Tiberia."
+        },
+        {
+          "chapter": 6,
+          "verse": 2,
+          "text": "Na mkutano mkuu wakamfuata, kwa sababu waliziona ishara alizowafanyia wagonjwa."
+        },
+        {
+          "chapter": 6,
+          "verse": 3,
+          "text": "Naye Yesu akakwea mlimani, akaketi huko pamoja na wanafunzi wake."
+        },
+        {
+          "chapter": 6,
+          "verse": 4,
+          "text": "Na Pasaka, sikukuu ya Wayahudi, ilikuwa karibu."
+        },
+        {
+          "chapter": 6,
+          "verse": 5,
+          "text": "Basi Yesu alipoinua macho yake akaona mkutano mkuu wanakuja kwake, alimwambia Filipo, [J]Tununue wapi mikate, ili hawa wapate kula?[/J]"
+        },
+        {
+          "chapter": 6,
+          "verse": 6,
+          "text": "Na hilo alilinena ili kumjaribu; kwa maana alijua mwenyewe atakalotenda."
+        },
+        {
+          "chapter": 6,
+          "verse": 7,
+          "text": "Filipo akamjibu, Mikate ya dinari mia mbili haiwatoshi, kila mmoja apate kidogo tu."
+        },
+        {
+          "chapter": 6,
+          "verse": 8,
+          "text": "Wanafunzi wake mmojawapo, Andrea, nduguye Simoni Petro, akamwambia,"
+        },
+        {
+          "chapter": 6,
+          "verse": 9,
+          "text": "Yupo hapa mtoto, yuna mikate mitano ya shayiri na samaki wawili, lakini hivi ni nini kwa watu wengi kama hawa?"
+        },
+        {
+          "chapter": 6,
+          "verse": 10,
+          "text": "Yesu akasema, [J]Waketisheni watu.[/J] Na mahali pale palikuwa na majani tele. Basi watu waume wakaketi, wapata elfu tano jumla yao."
+        },
+        {
+          "chapter": 6,
+          "verse": 11,
+          "text": "Basi Yesu akaitwaa ile mikate, akashukuru, akawagawia walioketi; na kadhalika katika wale samaki kwa kadiri walivyotaka."
+        },
+        {
+          "chapter": 6,
+          "verse": 12,
+          "text": "Nao waliposhiba, aliwaambia wanafunzi wake, [J]Kusanyeni vipande vilivyobaki, kisipotee cho chote.[/J]"
+        },
+        {
+          "chapter": 6,
+          "verse": 13,
+          "text": "Basi wakavikusanya, wakajaza vikapu kumi na viwili, vipande vya mikate mitano ya shayiri vilivyowabakia wale waliokula."
+        },
+        {
+          "chapter": 6,
+          "verse": 14,
+          "text": "Basi watu wale, walipoiona ishara aliyoifanya, walisema, Hakika huyu ni nabii yule ajaye ulimwenguni."
+        },
+        {
+          "chapter": 6,
+          "verse": 15,
+          "text": "Kisha Yesu, hali akitambua ya kuwa walitaka kuja kumshika ili wamfanye mfalme, akajitenga, akaenda tena mlimani yeye peke yake."
+        },
+        {
+          "chapter": 6,
+          "verse": 16,
+          "text": "Hata ilipokuwa jioni wanafunzi wake wakatelemka baharini"
+        },
+        {
+          "chapter": 6,
+          "verse": 17,
+          "text": "wakapanda chomboni, wakaanza kuivuka bahari kwenda Kapernaumu. Nako kumekwisha kuwa giza, wala Yesu hajawafikia."
+        },
+        {
+          "chapter": 6,
+          "verse": 18,
+          "text": "Na bahari ikaanza kuchafuka kwa kuvuma upepo mkuu."
+        },
+        {
+          "chapter": 6,
+          "verse": 19,
+          "text": "Basi wakavuta makasia kadiri ya maili tatu nne, wakamwona Yesu anakwenda juu ya bahari na kukikaribia chombo; wakaogopa."
+        },
+        {
+          "chapter": 6,
+          "verse": 20,
+          "text": "Naye akawaambia, [J]Ni mimi, msiogope.[/J]"
+        },
+        {
+          "chapter": 6,
+          "verse": 21,
+          "text": "Basi wakataka kumpokea chomboni; na mara hiyo chombo kikaifikilia nchi waliyokuwa wakiiendea."
+        },
+        {
+          "chapter": 6,
+          "verse": 22,
+          "text": "Siku ya pili yake mkutano waliosimama ng’ambo ya bahari waliona ya kuwa hakuna mashua nyingine huko ila moja, tena ya kuwa Yesu hakuingia katika mashua ile pamoja na wanafunzi wake, bali wanafunzi wake walikwenda peke yao."
+        },
+        {
+          "chapter": 6,
+          "verse": 23,
+          "text": "(Walakini zikaja mashua nyingine kutoka Tiberia mpaka karibu na mahali pale walipokula mikate, wakati Bwana aliposhukuru.)"
+        },
+        {
+          "chapter": 6,
+          "verse": 24,
+          "text": "Basi mkutano, walipoona ya kuwa Yesu hayuko huko wala wanafunzi wake, waliingia mashuani wenyewe, wakaenda Kapernaumu wakimtafuta Yesu."
+        },
+        {
+          "chapter": 6,
+          "verse": 25,
+          "text": "Hata walipomwona ng’ambo ya bahari, walimwambia, Rabi, wewe umekuja lini hapa?"
+        },
+        {
+          "chapter": 6,
+          "verse": 26,
+          "text": "Yesu akawajibu, akasema, [J]Amin, amin, nawaambieni, Ninyi mnanitafuta, si kwa sababu mliona ishara, bali kwa sababu mlikula ile mikate mkashiba.[/J]"
+        },
+        {
+          "chapter": 6,
+          "verse": 27,
+          "text": "[J]Msikitendee kazi chakula chenye kuharibika, bali chakula kidumucho hata uzima wa milele; ambacho Mwana wa Adamu atawapa, kwa sababu huyo ndiye aliyetiwa muhuri na Baba, yaani, Mungu.[/J]"
+        },
+        {
+          "chapter": 6,
+          "verse": 28,
+          "text": "Basi wakamwambia, Tufanyeje ili tupate kuzitenda kazi za Mungu?"
+        },
+        {
+          "chapter": 6,
+          "verse": 29,
+          "text": "Yesu akajibu, akawaambia, [J]Hii ndiyo kazi ya Mungu, mmwamini yeye aliyetumwa na yeye.[/J]"
+        },
+        {
+          "chapter": 6,
+          "verse": 30,
+          "text": "Wakamwambia, Unafanya ishara gani basi, ili tuione tukakuamini? Unatenda kazi gani?"
+        },
+        {
+          "chapter": 6,
+          "verse": 31,
+          "text": "Baba zetu waliila mana jangwani kama vile ilivyoandikwa, Aliwapa chakula cha mbinguni ili wale."
+        },
+        {
+          "chapter": 6,
+          "verse": 32,
+          "text": "Yesu akawaambia, [J]Amin, amin, nawaambieni, Siye Musa aliyewapa chakula kile cha mbinguni, bali Baba yangu anawapa ninyi chakula cha kweli kitokacho mbinguni.[/J]"
+        },
+        {
+          "chapter": 6,
+          "verse": 33,
+          "text": "[J]Kwa maana chakula cha Mungu ni kile kishukacho kutoka mbinguni na kuupa ulimwengu uzima.[/J]"
+        },
+        {
+          "chapter": 6,
+          "verse": 34,
+          "text": "Basi wakamwambia, Bwana, sikuzote utupe chakula hiki."
+        },
+        {
+          "chapter": 6,
+          "verse": 35,
+          "text": "Yesu akawaambia, [J]Mimi ndimi chakula cha uzima; yeye ajaye kwangu hataona njaa kabisa, naye aniaminiye hataona kiu kamwe.[/J]"
+        },
+        {
+          "chapter": 6,
+          "verse": 36,
+          "text": "[J]Lakini naliwaambia ya kwamba mmeniona wala hamwamini.[/J]"
+        },
+        {
+          "chapter": 6,
+          "verse": 37,
+          "text": "[J]Wote anipao Baba watakuja kwangu; wala ye yote ajaye kwangu sitamtupa nje kamwe.[/J]"
+        },
+        {
+          "chapter": 6,
+          "verse": 38,
+          "text": "[J]Kwa kuwa mimi sikushuka kutoka mbinguni ili niyafanye mapenzi yangu, bali mapenzi yake aliyenipeleka.[/J]"
+        },
+        {
+          "chapter": 6,
+          "verse": 39,
+          "text": "[J]Na mapenzi yake aliyenipeleka ni haya, ya kwamba katika wote alionipa nisimpoteze hata mmoja, bali nimfufue siku ya mwisho.[/J]"
+        },
+        {
+          "chapter": 6,
+          "verse": 40,
+          "text": "[J]Kwa kuwa mapenzi yake Baba yangu ni haya, ya kwamba kila amtazamaye Mwana na kumwamini yeye, awe na uzima wa milele; nami nitamfufua siku ya mwisho.[/J]"
+        },
+        {
+          "chapter": 6,
+          "verse": 41,
+          "text": "Basi Wayahudi wakamnung’unikia, kwa sababu alisema, [J]Mimi ni chakula kilichoshuka kutoka mbinguni.[/J]"
+        },
+        {
+          "chapter": 6,
+          "verse": 42,
+          "text": "Wakasema, Je! Huyu siye Yesu, mwana wa Yusufu, ambaye twamjua babaye na mamaye? Sasa asemaje huyu, [J]Nimeshuka kutoka mbinguni[/J]?"
+        },
+        {
+          "chapter": 6,
+          "verse": 43,
+          "text": "Basi Yesu akajibu, akawaambia, [J]Msinung’unike ninyi kwa ninyi.[/J]"
+        },
+        {
+          "chapter": 6,
+          "verse": 44,
+          "text": "[J]Hakuna mtu awezaye kuja kwangu, asipovutwa na Baba aliyenipeleka; nami nitamfufua siku ya mwisho.[/J]"
+        },
+        {
+          "chapter": 6,
+          "verse": 45,
+          "text": "[J]Imeandikwa katika manabii, Na wote watakuwa wamefundishwa na Mungu. Basi kila aliyesikia na kujifunza kwa Baba huja kwangu.[/J]"
+        },
+        {
+          "chapter": 6,
+          "verse": 46,
+          "text": "[J]Si kwamba mtu amemwona Baba, ila yeye atokaye kwa Mungu; huyo ndiye aliyemwona Baba.[/J]"
+        },
+        {
+          "chapter": 6,
+          "verse": 47,
+          "text": "[J]Amin, amin, nawaambia, Yeye aaminiye yuna uzima wa milele.[/J]"
+        },
+        {
+          "chapter": 6,
+          "verse": 48,
+          "text": "[J]Mimi ndimi chakula cha uzima.[/J]"
+        },
+        {
+          "chapter": 6,
+          "verse": 49,
+          "text": "[J]Baba zenu waliila mana jangwani; wakafa.[/J]"
+        },
+        {
+          "chapter": 6,
+          "verse": 50,
+          "text": "[J]Hiki ni chakula kishukacho kutoka mbinguni, kwamba mtu akile wala asife.[/J]"
+        },
+        {
+          "chapter": 6,
+          "verse": 51,
+          "text": "[J]Mimi ndimi chakula chenye uzima kilichoshuka kutoka mbinguni; mtu akila chakula hiki, ataishi milele. Na chakula nitakachotoa mimi ni mwili wangu, kwa ajili ya uzima wa ulimwengu.[/J]"
+        },
+        {
+          "chapter": 6,
+          "verse": 52,
+          "text": "Basi Wayahudi walishindana wao kwa wao wakisema, Awezaje mtu huyu kutupa sisi mwili wake ili tuule?"
+        },
+        {
+          "chapter": 6,
+          "verse": 53,
+          "text": "Basi Yesu akawaambia, [J]Amin, amin, nawaambieni, Msipoula mwili wake Mwana wa Adamu na kuinywa damu yake, hamna uzima ndani yenu.[/J]"
+        },
+        {
+          "chapter": 6,
+          "verse": 54,
+          "text": "[J]Aulaye mwili wangu na kuinywa damu yangu anao uzima wa milele; nami nitamfufua siku ya mwisho.[/J]"
+        },
+        {
+          "chapter": 6,
+          "verse": 55,
+          "text": "[J]Kwa maana mwili wangu ni chakula cha kweli, na damu yangu ni kinywaji cha kweli.[/J]"
+        },
+        {
+          "chapter": 6,
+          "verse": 56,
+          "text": "[J]Aulaye mwili wangu na kuinywa damu yangu hukaa ndani yangu, nami hukaa ndani yake.[/J]"
+        },
+        {
+          "chapter": 6,
+          "verse": 57,
+          "text": "[J]Kama vile Baba aliye hai alivyonituma mimi, nami ni hai kwa Baba; kadhalika naye mwenye kunila atakuwa hai kwa mimi.[/J]"
+        },
+        {
+          "chapter": 6,
+          "verse": 58,
+          "text": "[J]Hiki ndicho chakula kishukacho kutoka mbinguni; si kama mababa walivyokula, wakafa; bali akilaye chakula hicho ataishi milele.[/J]"
+        },
+        {
+          "chapter": 6,
+          "verse": 59,
+          "text": "Maneno hayo aliyasema katika sinagogi, alipokuwa akifundisha, huko Kapernaumu."
+        },
+        {
+          "chapter": 6,
+          "verse": 60,
+          "text": "Basi watu wengi miongoni mwa wanafunzi wake waliposikia, walisema, Neno hili ni gumu, ni nani awezaye kulisikia?"
+        },
+        {
+          "chapter": 6,
+          "verse": 61,
+          "text": "Naye Yesu akafahamu nafsini mwake ya kuwa wanafunzi wake wanalinung’unikia neno hilo, akawaambia, [J]Je! Neno hili linawakwaza?[/J]"
+        },
+        {
+          "chapter": 6,
+          "verse": 62,
+          "text": "[J]Itakuwaje basi, mmwonapo Mwana wa Adamu akipaa huko alikokuwako kwanza?[/J]"
+        },
+        {
+          "chapter": 6,
+          "verse": 63,
+          "text": "[J]Roho ndiyo itiayo uzima, mwili haufai kitu; maneno hayo niliyowaambia ni roho, tena ni uzima.[/J]"
+        },
+        {
+          "chapter": 6,
+          "verse": 64,
+          "text": "[J]Lakini kuna wengine miongoni mwenu wasioamini.[/J] Kwa maana Yesu alijua tangu mwanzo ni nani wasioamini, naye ni nani atakayemsaliti."
+        },
+        {
+          "chapter": 6,
+          "verse": 65,
+          "text": "Akasema, [J]Kwa sababu hiyo nimewaambia ya kwamba hakuna mtu awezaye kuja kwangu isipokuwa amejaliwa na Baba yangu.[/J]"
+        },
+        {
+          "chapter": 6,
+          "verse": 66,
+          "text": "Kwa ajili ya hayo wengi miongoni mwa wanafunzi wake wakarejea nyuma, wasiandamane naye tena."
+        },
+        {
+          "chapter": 6,
+          "verse": 67,
+          "text": "Basi Yesu akawaambia wale Thenashara, [J]Je! Ninyi nanyi mwataka kuondoka?[/J]"
+        },
+        {
+          "chapter": 6,
+          "verse": 68,
+          "text": "Basi Simoni Petro akamjibu, Bwana! Twende kwa nani? Wewe unayo maneno ya uzima wa milele."
+        },
+        {
+          "chapter": 6,
+          "verse": 69,
+          "text": "Nasi tumesadiki, tena tumejua, ya kuwa wewe ndiwe Mtakatifu wa Mungu."
+        },
+        {
+          "chapter": 6,
+          "verse": 70,
+          "text": "Yesu akawajibu, [J]Je! Mimi sikuwachagua ninyi Thenashara, na mmoja wenu ni shetani?[/J]"
+        },
+        {
+          "chapter": 6,
+          "verse": 71,
+          "text": "Alimnena Yuda, mwana wa Simoni Iskariote; maana huyo ndiye atakayemsaliti; naye ni mmojawapo wa wale Thenashara."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 7,
+      "lastVerse": 52,
+      "verseUnitCount": 52,
+      "verses": [
+        {
+          "chapter": 7,
+          "verse": 1,
+          "text": "Na baada ya hayo Yesu alikuwa akitembea katika Galilaya; maana hakutaka kutembea katika Uyahudi, kwa sababu Wayahudi walikuwa wakitafuta kumwua."
+        },
+        {
+          "chapter": 7,
+          "verse": 2,
+          "text": "Na sikukuu ya Wayahudi, Sikukuu ya Vibanda, ilikuwa karibu."
+        },
+        {
+          "chapter": 7,
+          "verse": 3,
+          "text": "Basi ndugu zake wakamwambia, Ondoka hapa, uende Uyahudi, wanafunzi wako nao wapate kuzitazama kazi zako unazozifanya."
+        },
+        {
+          "chapter": 7,
+          "verse": 4,
+          "text": "Kwa maana hakuna mtu afanyaye neno kwa siri, naye mwenyewe ataka kujulikana. Ukifanya mambo haya, basi jidhihirishe kwa ulimwengu."
+        },
+        {
+          "chapter": 7,
+          "verse": 5,
+          "text": "Maana hata nduguze hawakumwamini."
+        },
+        {
+          "chapter": 7,
+          "verse": 6,
+          "text": "Basi Yesu akawaambia, [J]Haujafika bado wakati wangu; ila wakati wenu sikuzote upo.[/J]"
+        },
+        {
+          "chapter": 7,
+          "verse": 7,
+          "text": "[J]Ulimwengu hauwezi kuwachukia ninyi; bali hunichukia mimi, kwa sababu mimi naushuhudia ya kuwa kazi zake ni mbovu.[/J]"
+        },
+        {
+          "chapter": 7,
+          "verse": 8,
+          "text": "[J]Kweeni ninyi kwenda kula sikukuu; mimi sikwei bado kwenda kula sikukuu hii, kwa kuwa haujatimia wakati wangu.[/J]"
+        },
+        {
+          "chapter": 7,
+          "verse": 9,
+          "text": "Naye alipokwisha kuwaambia hayo, alikaa vivi hivi huko Galilaya."
+        },
+        {
+          "chapter": 7,
+          "verse": 10,
+          "text": "Hata ndugu zake walipokwisha kukwea kuiendea sikukuu, ndipo yeye naye alipokwea, si kwa wazi bali kana kwamba kwa siri."
+        },
+        {
+          "chapter": 7,
+          "verse": 11,
+          "text": "Basi Wayahudi wakamtafuta kwenye sikukuu, wakasema, Yuko wapi yule?"
+        },
+        {
+          "chapter": 7,
+          "verse": 12,
+          "text": "Kukawa na manung’uniko mengi katika makutano juu yake. Wengine wakasema, Ni mtu mwema. Na wengine wakasema, Sivyo; bali anawadanganya makutano."
+        },
+        {
+          "chapter": 7,
+          "verse": 13,
+          "text": "Walakini hakuna mtu aliyemtaja waziwazi, kwa sababu ya kuwaogopa Wayahudi."
+        },
+        {
+          "chapter": 7,
+          "verse": 14,
+          "text": "Hata ikawa katikati ya sikukuu Yesu alikwea kuingia hekaluni, akafundisha."
+        },
+        {
+          "chapter": 7,
+          "verse": 15,
+          "text": "Wayahudi wakastaajabu wakisema, Amepataje huyu kujua elimu, ambaye hakusoma?"
+        },
+        {
+          "chapter": 7,
+          "verse": 16,
+          "text": "Basi Yesu akawajibu, akasema, [J]Mafunzo yangu si yangu mimi, ila ni yake yeye aliyenipeleka.[/J]"
+        },
+        {
+          "chapter": 7,
+          "verse": 17,
+          "text": "[J]Mtu akipenda kuyatenda mapenzi yake, atajua habari ya yale mafunzo, kwamba yatoka kwa Mungu, au kwamba mimi nanena kwa nafsi yangu tu.[/J]"
+        },
+        {
+          "chapter": 7,
+          "verse": 18,
+          "text": "[J]Yeye anenaye kwa nafsi yake tu hutafuta utukufu wake mwenyewe; bali yeye anayetafuta utukufu wake aliyempeleka, huyo ni wa kweli, wala ndani yake hamna udhalimu.[/J]"
+        },
+        {
+          "chapter": 7,
+          "verse": 19,
+          "text": "[J]Je! Musa hakuwapa torati? Wala hakuna mmoja wenu aitendaye torati. Mbona mnatafuta kuniua?[/J]"
+        },
+        {
+          "chapter": 7,
+          "verse": 20,
+          "text": "Mkutano wakajibu, Ama! Una pepo! Ni nani anayetafuta kukuua?"
+        },
+        {
+          "chapter": 7,
+          "verse": 21,
+          "text": "Yesu akajibu, akawaambia, [J]Mimi nalitenda kazi moja, nanyi nyote mnaistaajabia.[/J]"
+        },
+        {
+          "chapter": 7,
+          "verse": 22,
+          "text": "[J]Musa aliwapa tohara; lakini si kwamba yatoka kwa Musa, bali kwa mababa; nanyi siku ya sabato humtahiri mtu.[/J]"
+        },
+        {
+          "chapter": 7,
+          "verse": 23,
+          "text": "[J]Basi ikiwa mtu hupashwa tohara siku ya sabato, ili torati ya Musa isije ikavunjika, mbona mnanikasirikia mimi kwa sababu nalimfanya mtu kuwa mzima kabisa siku ya sabato?[/J]"
+        },
+        {
+          "chapter": 7,
+          "verse": 24,
+          "text": "[J]Basi msihukumu hukumu ya macho tu, bali ifanyeni hukumu iliyo ya haki.[/J]"
+        },
+        {
+          "chapter": 7,
+          "verse": 25,
+          "text": "Basi baadhi ya watu wa Yerusalemu wakasema, Je! Huyu siye wanayemtafuta ili wamwue?"
+        },
+        {
+          "chapter": 7,
+          "verse": 26,
+          "text": "Na kumbe! Anena waziwazi, wala hawamwambii neno! Yamkini hao wakuu wanajua hakika ya kuwa huyu ndiye Kristo?"
+        },
+        {
+          "chapter": 7,
+          "verse": 27,
+          "text": "Lakini huyu twamjua atokako; bali Kristo atakapokuja hakuna ajuaye atokako."
+        },
+        {
+          "chapter": 7,
+          "verse": 28,
+          "text": "Basi Yesu akapaza sauti yake hekaluni, akifundisha na kusema, [J]Mimi mnanijua, na huko nitokako mnakujua; wala sikuja kwa nafsi yangu; ila yeye aliyenipeleka ni wa kweli, msiyemjua ninyi.[/J]"
+        },
+        {
+          "chapter": 7,
+          "verse": 29,
+          "text": "[J]Mimi namjua, kwa kuwa nimetoka kwake, naye ndiye aliyenituma.[/J]"
+        },
+        {
+          "chapter": 7,
+          "verse": 30,
+          "text": "Basi wakatafuta kumkamata; lakini hakuna mtu aliyeunyosha mkono wake ili kumshika, kwa sababu saa yake ilikuwa haijaja bado."
+        },
+        {
+          "chapter": 7,
+          "verse": 31,
+          "text": "Na watu wengi katika mkutano wakamwamini; wakasema, Atakapokuja Kristo, je! Atafanya ishara nyingi zaidi kuliko hizi alizozifanya huyu?"
+        },
+        {
+          "chapter": 7,
+          "verse": 32,
+          "text": "Mafarisayo wakawasikia mkutano wakinung’unika hivi juu yake; basi wakuu wa makuhani na Mafarisayo wakatuma watumishi ili wamkamate."
+        },
+        {
+          "chapter": 7,
+          "verse": 33,
+          "text": "Basi Yesu akasema, [J]Bado kitambo kidogo nipo pamoja nanyi; kisha naenda zangu kwake yeye aliyenipeleka.[/J]"
+        },
+        {
+          "chapter": 7,
+          "verse": 34,
+          "text": "[J]Mtanitafuta wala hamtaniona; nami nilipo ninyi hamwezi kuja.[/J]"
+        },
+        {
+          "chapter": 7,
+          "verse": 35,
+          "text": "Basi Wayahudi wakasemezana, Huyu atakwenda wapi hata sisi tusimwone? Ati! Atakwenda kwa Utawanyiko wa Wayunani, na kuwafundisha Wayunani?"
+        },
+        {
+          "chapter": 7,
+          "verse": 36,
+          "text": "Ni neno gani hilo alilolisema, [J]Mtanitafuta wala hamtaniona;[/J] [J]nami nilipo ninyi hamwezi kuja[/J]?"
+        },
+        {
+          "chapter": 7,
+          "verse": 37,
+          "text": "Hata siku ya mwisho, siku ile kubwa ya sikukuu, Yesu akasimama, akapaza sauti yake akisema, [J]Mtu akiona kiu, na aje kwangu anywe.[/J]"
+        },
+        {
+          "chapter": 7,
+          "verse": 38,
+          "text": "[J]Aniaminiye mimi, kama vile maandiko yalivyonena, mito ya maji yaliyo hai itatoka ndani yake.[/J]"
+        },
+        {
+          "chapter": 7,
+          "verse": 39,
+          "text": "Na neno hilo alilisema katika habari ya Roho, ambaye wale wamwaminio watampokea baadaye; kwa maana Roho alikuwa hajaja, kwa sababu Yesu alikuwa hajatukuzwa."
+        },
+        {
+          "chapter": 7,
+          "verse": 40,
+          "text": "Basi wengine katika mkutano walipoyasikia maneno hayo, walisema, Hakika huyu ndiye nabii yule."
+        },
+        {
+          "chapter": 7,
+          "verse": 41,
+          "text": "Wengine walisema, Huyu ndiye Kristo. Wengine wakasema, Je! Kristo atoka Galilaya?"
+        },
+        {
+          "chapter": 7,
+          "verse": 42,
+          "text": "Andiko halikusema ya kwamba Kristo atoka katika uzao wa Daudi, na kutoka Bethlehemu, mji ule alioukaa Daudi?"
+        },
+        {
+          "chapter": 7,
+          "verse": 43,
+          "text": "Basi kukaingia matengano katika mkutano kwa ajili yake."
+        },
+        {
+          "chapter": 7,
+          "verse": 44,
+          "text": "Baadhi yao wakataka kumkamata, lakini hakuna mtu aliyenyosha mikono yake ili kumshika."
+        },
+        {
+          "chapter": 7,
+          "verse": 45,
+          "text": "Basi wale watumishi wakawaendea wakuu wa makuhani na Mafarisayo. Nao wakawaambia, Mbona hamkumleta?"
+        },
+        {
+          "chapter": 7,
+          "verse": 46,
+          "text": "Wale watumishi wakajibu. Hajanena kamwe mtu ye yote kama huyu anavyonena."
+        },
+        {
+          "chapter": 7,
+          "verse": 47,
+          "text": "Basi Mafarisayo wakawajibu, Je! Ninyi nanyi mmedanganyika?"
+        },
+        {
+          "chapter": 7,
+          "verse": 48,
+          "text": "Ni nani katika wakuu amwaminiye, au katika Mafarisayo?"
+        },
+        {
+          "chapter": 7,
+          "verse": 49,
+          "text": "Lakini makutano hawa wasioifahamu torati wamelaaniwa."
+        },
+        {
+          "chapter": 7,
+          "verse": 50,
+          "text": "Akawaambia Nikodemo, (naye ni yule aliyemwendea zamani, maana ni mmoja wao),"
+        },
+        {
+          "chapter": 7,
+          "verse": 51,
+          "text": "Je! Torati yetu humhukumu mtu kabla ya kumsikia kwanza, na kujua atendavyo?"
+        },
+        {
+          "chapter": 7,
+          "verse": 52,
+          "text": "Wakajibu, wakamwambia, Je! Wewe nawe umetoka Galilaya! Tafuta, ukaone ya kuwa kutoka Galilaya hakutokea nabii."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 8,
+      "lastVerse": 59,
+      "verseUnitCount": 59,
+      "verses": [
+        {
+          "chapter": 8,
+          "verse": 1,
+          "text": "[Walikwenda kila mtu nyumbani kwake; naye Yesu akaenda mpaka mlima wa Mizeituni."
+        },
+        {
+          "chapter": 8,
+          "verse": 2,
+          "text": "Hata asubuhi kulipokucha akaingia tena hekaluni, na watu wote wakamwendea; naye akaketi, akawa akiwafundisha."
+        },
+        {
+          "chapter": 8,
+          "verse": 3,
+          "text": "Waandishi na Mafarisayo wakamletea mwanamke aliyefumaniwa katika uzinzi, wakamweka katikati."
+        },
+        {
+          "chapter": 8,
+          "verse": 4,
+          "text": "Wakamwambia, Mwalimu, mwanamke huyu amefumaniwa alipokuwa akizini."
+        },
+        {
+          "chapter": 8,
+          "verse": 5,
+          "text": "Basi katika torati, Musa alituamuru kuwapiga kwa mawe wanawake namna hii; nawe wasemaje?"
+        },
+        {
+          "chapter": 8,
+          "verse": 6,
+          "text": "Nao wakasema neno hilo wakimjaribu, ili wapate sababu ya kumshitaki. Lakini Yesu akainama, akaandika kwa kidole chake katika nchi."
+        },
+        {
+          "chapter": 8,
+          "verse": 7,
+          "text": "Nao walipozidi kumhoji, alijiinua, akawaambia, [J]Yeye asiye na dhambi miongoni mwenu na awe wa kwanza wa kumtupia jiwe.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 8,
+          "text": "Akainama tena, akaandika kwa kidole chake katika nchi."
+        },
+        {
+          "chapter": 8,
+          "verse": 9,
+          "text": "Nao waliposikia, wakashitakiwa na dhamiri zao, wakatoka mmoja mmoja, wakianzia tangu wazee hata wa mwisho wao; akabaki Yesu peke yake, na yule mwanamke amesimama katikati."
+        },
+        {
+          "chapter": 8,
+          "verse": 10,
+          "text": "Yesu akajiinua asimwone mtu ila yule mwanamke, akamwambia, [J]Mwanamke, wako wapi wale washitaki wako? Je! Hakuna aliyekuhukumu kuwa na hatia?[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 11,
+          "text": "Akamwambia, Hakuna, Bwana. Yesu akamwambia, [J]Wala mimi sikuhukumu. Enenda zako; wala usitende dhambi tena.[/J]]"
+        },
+        {
+          "chapter": 8,
+          "verse": 12,
+          "text": "Basi Yesu akawaambia tena akasema, [J]Mimi ndimi nuru ya ulimwengu, yeye anifuataye hatakwenda gizani kamwe, bali atakuwa na nuru ya uzima.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 13,
+          "text": "Basi Mafarisayo wakamwambia, Wewe unajishuhudia mwenyewe; ushuhuda wako si kweli."
+        },
+        {
+          "chapter": 8,
+          "verse": 14,
+          "text": "Yesu akajibu, akawaambia, [J]Mimi ningawa ninajishuhudia mwenyewe, ushuhuda wangu ndio kweli; kwa sababu najua nilikotoka na niendako; lakini ninyi hamjui nilikotoka wala niendako.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 15,
+          "text": "[J]Ninyi mwahukumu kwa kufuata mambo ya mwili; mimi simhukumu mtu.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 16,
+          "text": "[J]Nami nijapohukumu, hukumu yangu ni kweli; kwa kuwa mimi si peke yangu, bali ni mimi na yeye aliyenipeleka.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 17,
+          "text": "[J]Tena katika torati yenu imeandikwa kwamba, Ushuhuda wa watu wawili ni kweli.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 18,
+          "text": "[J]Mimi ndimi ninayejishuhudia mwenyewe, naye Baba aliyenipeleka ananishuhudia.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 19,
+          "text": "Basi wakamwambia, Yuko wapi Baba yako? Yesu akajibu, [J]Mimi hamnijui, wala Baba yangu hammjui; kama mngalinijua mimi, mngalimjua na Baba yangu.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 20,
+          "text": "Maneno hayo aliyasema alipokuwa akifundisha hekaluni, katika chumba cha hazina; wala hakuna mtu aliyemkamata, kwa sababu saa yake ilikuwa haijaja bado."
+        },
+        {
+          "chapter": 8,
+          "verse": 21,
+          "text": "Basi akawaambia tena, [J]Mimi naondoka, nanyi mtanitafuta; nanyi mtakufa katika dhambi yenu; mimi niendako ninyi hamwezi kuja.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 22,
+          "text": "Basi Wayahudi wakasema, Je! Atajiua! Kwa kuwa asema, [J]Mimi niendako ninyi hamwezi kuja[/J]?"
+        },
+        {
+          "chapter": 8,
+          "verse": 23,
+          "text": "Akawaambia, [J]Ninyi ni wa chini, mimi ni wa juu; ninyi ni wa ulimwengu huu, mimi si wa ulimwengu huu.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 24,
+          "text": "[J]Kwa hiyo naliwaambieni ya kwamba mtakufa katika dhambi zenu; kwa sababu msiposadiki ya kuwa mimi ndiye, mtakufa katika dhambi zenu.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 25,
+          "text": "Basi wakamwambia, U nani wewe? Yesu akawaambia, [J]Hasa neno lilo hilo ninalowaambia.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 26,
+          "text": "[J]Ninayo mengi ya kusema na kuhukumu juu yenu; lakini yeye aliyenipeleka ni kweli, nami niliyoyasikia kwake, ndiyo ninenayo katika ulimwengu.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 27,
+          "text": "Wala hawakutambua ya kuwa anawatajia Baba."
+        },
+        {
+          "chapter": 8,
+          "verse": 28,
+          "text": "Basi Yesu akawaambia, [J]Mtakapokuwa mmekwisha kumwinua Mwana wa Adamu, ndipo mtakapofahamu ya kuwa mimi ndiye; na ya kuwa sifanyi neno kwa nafsi yangu, ila kama Baba alivyonifundisha ndivyo ninenavyo.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 29,
+          "text": "[J]Naye aliyenipeleka yu pamoja nami, hakuniacha peke yangu; kwa sababu nafanya sikuzote yale yampendezayo.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 30,
+          "text": "Naye alipokuwa akisema hayo, wengi walimwamini."
+        },
+        {
+          "chapter": 8,
+          "verse": 31,
+          "text": "Basi Yesu akawaambia wale Wayahudi waliomwamini, [J]Ninyi mkikaa katika neno langu, mmekuwa wanafunzi wangu kweli kweli;[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 32,
+          "text": "[J]tena mtaifahamu kweli, nayo hiyo kweli itawaweka huru.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 33,
+          "text": "Wakamjibu, Sisi tu uzao wake Ibrahimu, wala hatujawa watumwa wa mtu wakati wo wote; nawe wasemaje, Mtawekwa huru?"
+        },
+        {
+          "chapter": 8,
+          "verse": 34,
+          "text": "Yesu akawajibu, [J]Amin, amin, nawaambia, Kila atendaye dhambi ni mtumwa wa dhambi.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 35,
+          "text": "[J]Wala mtumwa hakai nyumbani sikuzote; mwana hukaa sikuzote.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 36,
+          "text": "[J]Basi Mwana akiwaweka huru, mtakuwa huru kweli kweli.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 37,
+          "text": "[J]Najua ya kuwa ninyi ni uzao wa Ibrahimu lakini mnatafuta kuniua kwa sababu neno langu halimo ndani yenu.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 38,
+          "text": "[J]Niliyoyaona kwa Baba ndiyo niyanenayo; nanyi vivyo hivyo mliyoyasikia kwa baba yenu ndiyo myatendayo.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 39,
+          "text": "Wakajibu, wakamwambia, Baba yetu ndiye Ibrahimu! Yesu akawaambia, [J]Kama mngekuwa watoto wa Ibrahimu, mngezitenda kazi zake Ibrahimu.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 40,
+          "text": "[J]Lakini sasa mnatafuta kuniua mimi, mtu ambaye nimewaambia iliyo kweli, niliyoisikia kwa Mungu. Ibrahimu hakufanya hivyo.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 41,
+          "text": "[J]Ninyi mnazitenda kazi za baba yenu.[/J] Ndipo walipomwambia, Sisi hatukuzaliwa kwa zinaa; sisi tunaye Baba mmoja, yaani, Mungu."
+        },
+        {
+          "chapter": 8,
+          "verse": 42,
+          "text": "Yesu akawaambia, [J]Kama Mungu angekuwa baba yenu, mngenipenda mimi; kwa maana nalitoka kwa Mungu, nami nimekuja; wala sikuja kwa nafsi yangu, bali yeye ndiye aliyenituma.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 43,
+          "text": "[J]Mbona hamyafahamu hayo niyasemayo? Ni kwa sababu ninyi hamwezi kulisikia neno langu.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 44,
+          "text": "[J]Ninyi ni wa baba yenu, Ibilisi, na tamaa za baba yenu ndizo mpendazo kuzitenda. Yeye alikuwa mwuaji tangu mwanzo; wala hakusimama katika kweli, kwa kuwa hamna hiyo kweli ndani yake. Asemapo uongo, husema yaliyo yake mwenyewe; kwa sababu yeye ni mwongo, na baba wa huo.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 45,
+          "text": "[J]Nami, kwa sababu nasema iliyo kweli, hamnisadiki.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 46,
+          "text": "[J]Ni nani miongoni mwenu anishuhudiaye ya kuwa nina dhambi? Nami nikisema kweli, mbona ninyi hamnisadiki?[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 47,
+          "text": "[J]Yeye aliye wa Mungu huyasikia maneno ya Mungu; hivyo ninyi hamsikii kwa sababu ninyi si wa Mungu.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 48,
+          "text": "Wayahudi wakajibu, wakamwambia, Je! Sisi hatusemi vema ya kwamba wewe u Msamaria, nawe una pepo?"
+        },
+        {
+          "chapter": 8,
+          "verse": 49,
+          "text": "Yesu akajibu, [J]Mimi sina pepo; lakini mimi namheshimu Baba yangu, na ninyi mwanivunjia heshima yangu.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 50,
+          "text": "[J]Wala mimi siutafuti utukufu wangu; yuko mwenye kutafuta na kuhukumu.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 51,
+          "text": "[J]Amin, amin, nawaambia, Mtu akilishika neno langu, hataona mauti milele.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 52,
+          "text": "Basi Wayahudi wakamwambia, Sasa tumeng’amua ya kuwa una pepo. Ibrahimu amekufa, na manabii wamekufa; nawe wasema, Mtu akilishika neno langu, hataonja mauti milele."
+        },
+        {
+          "chapter": 8,
+          "verse": 53,
+          "text": "Wewe u mkuu kuliko baba yetu Ibrahimu, ambaye amekufa? Nao manabii wamekufa. Wajifanya u nani?"
+        },
+        {
+          "chapter": 8,
+          "verse": 54,
+          "text": "Yesu akajibu, [J]Nikijitukuza mwenyewe, utukufu wangu si kitu; anitukuzaye ni Baba yangu, ambaye ninyi mwanena kuwa ni Mungu wenu.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 55,
+          "text": "[J]Wala ninyi hamkumjua; lakini mimi namjua. Nikisema ya kwamba simjui, nitakuwa mwongo kama ninyi; lakini namjua, na neno lake nalishika.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 56,
+          "text": "[J]Ibrahimu, baba yenu, alishangilia kwa vile atakavyoiona siku yangu; naye akaiona, akafurahi.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 57,
+          "text": "Basi Wayahudi wakamwambia, Wewe hujapata bado miaka hamsini, nawe umemwona Ibrahimu?"
+        },
+        {
+          "chapter": 8,
+          "verse": 58,
+          "text": "Yesu akawaambia, [J]Amin, amin, nawaambia, Yeye Ibrahimu asijakuwako, mimi niko.[/J]"
+        },
+        {
+          "chapter": 8,
+          "verse": 59,
+          "text": "Basi wakaokota mawe ili wamtupie; lakini Yesu akajificha, akatoka hekaluni."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 9,
+      "lastVerse": 41,
+      "verseUnitCount": 41,
+      "verses": [
+        {
+          "chapter": 9,
+          "verse": 1,
+          "text": "Hata alipokuwa akipita alimwona mtu, kipofu tangu kuzaliwa."
+        },
+        {
+          "chapter": 9,
+          "verse": 2,
+          "text": "Wanafunzi wake wakamwuliza wakisema, Rabi, ni yupi aliyetenda dhambi, mtu huyu au wazazi wake, hata azaliwe kipofu?"
+        },
+        {
+          "chapter": 9,
+          "verse": 3,
+          "text": "Yesu akajibu, [J]Huyu hakutenda dhambi, wala wazazi wake; bali kazi za Mungu zidhihirishwe ndani yake.[/J]"
+        },
+        {
+          "chapter": 9,
+          "verse": 4,
+          "text": "[J]Imetupasa kuzifanya kazi zake yeye aliyenipeleka maadamu ni mchana, usiku waja asipoweza mtu kufanya kazi.[/J]"
+        },
+        {
+          "chapter": 9,
+          "verse": 5,
+          "text": "[J]Muda nilipo ulimwenguni, mimi ni nuru ya ulimwengu.[/J]"
+        },
+        {
+          "chapter": 9,
+          "verse": 6,
+          "text": "Alipokwisha kusema hayo, alitema mate chini, akafanya tope kwa yale mate. Akampaka kipofu tope za macho,"
+        },
+        {
+          "chapter": 9,
+          "verse": 7,
+          "text": "akamwambia, [J]Nenda kanawe katika birika ya Siloamu[/J], (maana yake, Aliyetumwa). Basi akaenda na kunawa; akarudi anaona."
+        },
+        {
+          "chapter": 9,
+          "verse": 8,
+          "text": "Basi jirani zake, na wale waliomwona zamani kuwa ni mwombaji, wakasema, Je! Huyu siye yule aliyekuwa akiketi na kuomba?"
+        },
+        {
+          "chapter": 9,
+          "verse": 9,
+          "text": "Wengine wakasema, Ndiye. Wengine wakasema, La, lakini amefanana naye. Yeye mwenyewe alisema, Mimi ndiye."
+        },
+        {
+          "chapter": 9,
+          "verse": 10,
+          "text": "Basi wakamwambia, Macho yako yalifumbuliwaje?"
+        },
+        {
+          "chapter": 9,
+          "verse": 11,
+          "text": "Yeye akajibu, Mtu yule aitwaye Yesu alifanya tope, akanipaka macho akaniambia, Nenda Siloamu ukanawe; basi nikaenda na kunawa, nikapata kuona."
+        },
+        {
+          "chapter": 9,
+          "verse": 12,
+          "text": "Wakamwambia, Yuko wapi huyo? Akasema, Mimi sijui."
+        },
+        {
+          "chapter": 9,
+          "verse": 13,
+          "text": "Basi wakampeleka kwa Mafarisayo yule aliyekuwa kipofu zamani."
+        },
+        {
+          "chapter": 9,
+          "verse": 14,
+          "text": "Nayo ilikuwa sabato, hapo Yesu alipofanya zile tope na kumfumbua macho."
+        },
+        {
+          "chapter": 9,
+          "verse": 15,
+          "text": "Basi Mafarisayo nao wakamwuliza tena jinsi gani alivyopata kuona. Akawaambia, Alinitia tope juu ya macho, nami nikanawa, na sasa naona."
+        },
+        {
+          "chapter": 9,
+          "verse": 16,
+          "text": "Basi baadhi ya Mafarisayo wakasema, Mtu huyo hakutoka kwa Mungu, kwa sababu haishiki sabato. Wengine wakasema, Awezaje mtu mwenye dhambi kufanya ishara kama hizo? Kukawa matengano kati yao."
+        },
+        {
+          "chapter": 9,
+          "verse": 17,
+          "text": "Basi wakamwambia yule kipofu mara ya pili, Wewe wasemaje katika habari zake kwa vile alivyokufumbua macho? Akasema, Ni nabii."
+        },
+        {
+          "chapter": 9,
+          "verse": 18,
+          "text": "Basi Wayahudi hawakusadiki habari zake, ya kuwa alikuwa kipofu, kisha akapata kuona; hata walipowaita wazazi wake yule aliyepata kuona."
+        },
+        {
+          "chapter": 9,
+          "verse": 19,
+          "text": "Wakawauliza wakisema, Huyu ndiye mwana wenu, ambaye mnasema kwamba alizaliwa kipofu? Amepataje, basi, kuona sasa?"
+        },
+        {
+          "chapter": 9,
+          "verse": 20,
+          "text": "Wazazi wake wakawajibu, wakasema, Tunajua ya kuwa huyu ndiye mwana wetu, tena ya kuwa alizaliwa kipofu;"
+        },
+        {
+          "chapter": 9,
+          "verse": 21,
+          "text": "lakini jinsi aonavyo sasa hatujui; wala hatujui ni nani aliyemfumbua macho. Mwulizeni yeye mwenyewe; yeye ni mtu mzima; atajisemea mwenyewe."
+        },
+        {
+          "chapter": 9,
+          "verse": 22,
+          "text": "Wazazi wake waliyasema hayo kwa sababu waliwaogopa Wayahudi; kwa maana Wayahudi walikuwa wamekwisha kuafikiana kwamba mtu akimkiri kuwa ni Kristo, atatengwa na sinagogi."
+        },
+        {
+          "chapter": 9,
+          "verse": 23,
+          "text": "Ndiyo sababu wale wazazi wake walisema, Ni mtu mzima, mwulizeni yeye."
+        },
+        {
+          "chapter": 9,
+          "verse": 24,
+          "text": "Basi mara ya pili wakamwita yule mtu aliyekuwa kipofu, wakamwambia, Mpe Mungu utukufu. Sisi tunajua ya kuwa mtu huyo ni mwenye dhambi."
+        },
+        {
+          "chapter": 9,
+          "verse": 25,
+          "text": "Basi yule mtu akajibu, Kwamba yeye ni mwenye dhambi sijui. Najua neno moja, kuwa mimi nalikuwa kipofu na sasa naona."
+        },
+        {
+          "chapter": 9,
+          "verse": 26,
+          "text": "Basi wakamwambia, Alikutendea nini? Alikufumbua macho jinsi gani?"
+        },
+        {
+          "chapter": 9,
+          "verse": 27,
+          "text": "Akawajibu, Nimekwisha kuwaambia, wala hamkusikia; mbona mnataka kusikia tena? Ninyi nanyi mnataka kuwa wanafunzi wake?"
+        },
+        {
+          "chapter": 9,
+          "verse": 28,
+          "text": "Basi wakamshutumu, wakasema, Wewe u mwanafunzi wake yule; sisi tu wanafunzi wa Musa."
+        },
+        {
+          "chapter": 9,
+          "verse": 29,
+          "text": "Sisi tunajua ya kuwa Mungu alisema na Musa; bali yule hatujui atokako."
+        },
+        {
+          "chapter": 9,
+          "verse": 30,
+          "text": "Yule mtu akajibu, akawaambia, Hii ni ajabu! Kwamba ninyi hamjui atokako, naye alinifumbua macho!"
+        },
+        {
+          "chapter": 9,
+          "verse": 31,
+          "text": "Twajua ya kuwa Mungu hawasikii wenye dhambi; bali mtu akiwa ni mcha Mungu, na kuyafanya mapenzi yake, humsikia huyo."
+        },
+        {
+          "chapter": 9,
+          "verse": 32,
+          "text": "Tokea hapo haijasikiwa ya kuwa mtu ameyafumbua macho ya kipofu, ambaye alizaliwa hali hiyo."
+        },
+        {
+          "chapter": 9,
+          "verse": 33,
+          "text": "Kama huyo asingalitoka kwa Mungu, asingeweza kutenda neno lo lote."
+        },
+        {
+          "chapter": 9,
+          "verse": 34,
+          "text": "Wakajibu, wakamwambia, Ama! Wewe ulizaliwa katika dhambi tupu, nawe unatufundisha sisi? Wakamtoa nje."
+        },
+        {
+          "chapter": 9,
+          "verse": 35,
+          "text": "Yesu akasikia kwamba wamemtoa nje; naye alipomwona alisema, [J]Wewe wamwamini Mwana wa Mungu?[/J]"
+        },
+        {
+          "chapter": 9,
+          "verse": 36,
+          "text": "Naye akajibu akasema, Ni nani, Bwana, nipate kumwamini?"
+        },
+        {
+          "chapter": 9,
+          "verse": 37,
+          "text": "Yesu akamwambia, [J]Umemwona, naye anayesema nawe ndiye.[/J]"
+        },
+        {
+          "chapter": 9,
+          "verse": 38,
+          "text": "Akasema, Naamini, Bwana. Akamsujudia."
+        },
+        {
+          "chapter": 9,
+          "verse": 39,
+          "text": "Yesu akasema, [J]Mimi nimekuja ulimwenguni humu kwa hukumu, ili wao wasioona waone, nao wanaoona wawe vipofu.[/J]"
+        },
+        {
+          "chapter": 9,
+          "verse": 40,
+          "text": "Baadhi ya Mafarisayo waliokuwapo pamoja naye wakasikia hayo, wakamwambia, Je! Sisi nasi tu vipofu?"
+        },
+        {
+          "chapter": 9,
+          "verse": 41,
+          "text": "Yesu akawaambia, [J]Kama mngekuwa vipofu, msingekuwa na dhambi; lakini sasa mwasema, Twaona; basi dhambi yenu inakaa.[/J]"
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 10,
+      "lastVerse": 42,
+      "verseUnitCount": 42,
+      "verses": [
+        {
+          "chapter": 10,
+          "verse": 1,
+          "text": "Yesu aliwaambia, [J]Amin, amin, nawaambieni, Yeye asiyeingia mlangoni katika zizi la kondoo, lakini akwea penginepo, huyo ni mwivi naye ni mnyang’anyi.[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 2,
+          "text": "[J]Aingiaye mlangoni ni mchungaji wa kondoo.[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 3,
+          "text": "[J]Bawabu humfungulia huyo, na kondoo humsikia sauti yake; naye huwaita kondoo wake kwa majina yao, na kuwapeleka nje.[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 4,
+          "text": "[J]Naye awatoapo nje kondoo wake wote, huwatangulia; na wale kondoo humfuata, kwa maana waijua sauti yake.[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 5,
+          "text": "[J]Mgeni hawatamfuata kabisa, bali watamkimbia; kwa maana hawazijui sauti za wageni.[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 6,
+          "text": "Mithali hiyo Yesu aliwaambia, lakini wao hawakuelewa na mambo hayo aliyowaambia."
+        },
+        {
+          "chapter": 10,
+          "verse": 7,
+          "text": "Basi Yesu aliwaambia tena, [J]Amin, amin, nawaambieni, Mimi ndimi mlango wa kondoo.[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 8,
+          "text": "[J]Wote walionitangulia ni wevi na wanyang’anyi; lakini kondoo hawakuwasikia.[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 9,
+          "text": "[J]Mimi ndimi mlango; mtu akiingia kwa mimi, ataokoka; ataingia na kutoka, naye atapata malisho.[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 10,
+          "text": "[J]Mwivi haji ila aibe na kuchinja na kuharibu; mimi nalikuja ili wawe na uzima, kisha wawe nao tele.[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 11,
+          "text": "[J]Mimi ndimi mchungaji mwema. Mchungaji mwema huutoa uhai wake kwa ajili ya kondoo.[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 12,
+          "text": "[J]Mtu wa mshahara, wala si mchungaji, ambaye kondoo si mali yake, humwona mbwa-mwitu anakuja, akawaacha kondoo na kukimbia; na mbwa-mwitu huwakamata na kuwatawanya.[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 13,
+          "text": "[J]Yule hukimbia kwa kuwa ni mtu wa mshahara; wala mambo ya kondoo si kitu kwake.[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 14,
+          "text": "[J]Mimi ndimi mchungaji mwema; nao walio wangu nawajua; nao walio wangu wanijua mimi;[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 15,
+          "text": "[J]kama vile Baba anijuavyo, nami nimjuavyo Baba. Nami nautoa uhai wangu kwa ajili ya kondoo.[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 16,
+          "text": "[J]Na kondoo wengine ninao, ambao si wa zizi hili; na hao nao imenipasa kuwaleta; na sauti yangu wataisikia; kisha kutakuwako kundi moja na mchungaji mmoja.[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 17,
+          "text": "[J]Ndiposa Baba anipenda, kwa sababu nautoa uhai wangu ili niutwae tena.[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 18,
+          "text": "[J]Hakuna mtu aniondoleaye, bali mimi nautoa mwenyewe. Nami ninao uweza wa kuutoa, ninao na uweza wa kuutwaa tena. Agizo hilo nalilipokea kwa Baba yangu.[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 19,
+          "text": "Kukaingia tena matengano kati ya Wayahudi, kwa ajili ya maneno hayo."
+        },
+        {
+          "chapter": 10,
+          "verse": 20,
+          "text": "Wengi wao wakasema, Ana pepo huyu, tena ana wazimu; mbona mnamsikiliza?"
+        },
+        {
+          "chapter": 10,
+          "verse": 21,
+          "text": "Wengine wakasema, Maneno hayo siyo ya mtu mwenye pepo. Je! Pepo aweza kuwafumbua macho vipofu?"
+        },
+        {
+          "chapter": 10,
+          "verse": 22,
+          "text": "Basi huko Yerusalemu ilikuwa Sikukuu ya Kutabaruku; ni wakati wa baridi."
+        },
+        {
+          "chapter": 10,
+          "verse": 23,
+          "text": "Naye Yesu alikuwa akitembea hekaluni, katika ukumbi wa Sulemani."
+        },
+        {
+          "chapter": 10,
+          "verse": 24,
+          "text": "Basi Wayahudi walimzunguka, wakamwambia, Hata lini utatuhangaisha nafsi zetu? Kama wewe ndiwe Kristo, utuambie waziwazi."
+        },
+        {
+          "chapter": 10,
+          "verse": 25,
+          "text": "Yesu akawajibu, [J]Naliwaambia, lakini ninyi hamsadiki. Kazi hizi ninazozifanya kwa jina la Baba yangu ndizo zinazonishuhudia.[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 26,
+          "text": "[J]Lakini ninyi hamsadiki, kwa sababu hammo miongoni mwa kondoo wangu.[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 27,
+          "text": "[J]Kondoo wangu waisikia sauti yangu; nami nawajua, nao wanifuata.[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 28,
+          "text": "[J]Nami nawapa uzima wa milele; wala hawatapotea kamwe; wala hakuna mtu atakayewapokonya katika mkono wangu.[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 29,
+          "text": "[J]Baba yangu aliyenipa hao ni mkuu kuliko wote; wala hakuna mtu awezaye kuwapokonya katika mkono wa Baba yangu.[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 30,
+          "text": "[J]Mimi na Baba tu umoja.[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 31,
+          "text": "Basi Wayahudi wakaokota mawe tena ili wampige."
+        },
+        {
+          "chapter": 10,
+          "verse": 32,
+          "text": "Yesu akawajibu, [J]Kazi njema nyingi nimewaonyesha, zitokazo kwa Baba; kwa ajili ya kazi ipi katika hizo mnanipiga kwa mawe?[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 33,
+          "text": "Wayahudi wakamjibu, Kwa ajili ya kazi njema hatukupigi kwa mawe; bali kwa kukufuru, na kwa sababu wewe uliye mwanadamu wajifanya mwenyewe u Mungu."
+        },
+        {
+          "chapter": 10,
+          "verse": 34,
+          "text": "Yesu akawajibu, [J]Je! Haikuandikwa katika torati yenu ya kwamba, Mimi nimesema, Ndinyi miungu?[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 35,
+          "text": "[J]Ikiwa aliwaita miungu wale waliojiliwa na neno la Mungu; (na maandiko hayawezi kutanguka);[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 36,
+          "text": "[J]je! Yeye ambaye Baba alimtakasa, akamtuma ulimwenguni, ninyi mnamwambia, Unakufuru; kwa sababu nalisema, Mimi ni Mwana wa Mungu?[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 37,
+          "text": "[J]Kama sizitendi kazi za Baba yangu, msiniamini;[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 38,
+          "text": "[J]lakini nikizitenda, ijapokuwa hamniamini mimi, ziaminini zile kazi; mpate kujua na kufahamu ya kuwa Baba yu ndani yangu, nami ni ndani ya Baba.[/J]"
+        },
+        {
+          "chapter": 10,
+          "verse": 39,
+          "text": "Wakatafuta tena kumkamata; lakini akatoka mikononi mwao."
+        },
+        {
+          "chapter": 10,
+          "verse": 40,
+          "text": "Akaenda zake tena ng’ambo ya Yordani, mpaka mahali pale alipokuwapo Yohana akibatiza hapo kwanza, akakaa huko."
+        },
+        {
+          "chapter": 10,
+          "verse": 41,
+          "text": "Na watu wengi wakamwendea, wakasema, Yohana kweli hakufanya ishara yo yote, lakini yote aliyoyasema Yohana katika habari zake huyu yalikuwa kweli."
+        },
+        {
+          "chapter": 10,
+          "verse": 42,
+          "text": "Nao wengi wakamwamini huko."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 11,
+      "lastVerse": 57,
+      "verseUnitCount": 57,
+      "verses": [
+        {
+          "chapter": 11,
+          "verse": 1,
+          "text": "Basi mtu mmoja alikuwa hawezi, Lazaro wa Bethania, mwenyeji wa mji wa Mariamu na Martha, dada yake."
+        },
+        {
+          "chapter": 11,
+          "verse": 2,
+          "text": "Ndiye Mariamu yule aliyempaka Bwana marhamu, akamfuta miguu kwa nywele zake, ambaye Lazaro nduguye alikuwa hawezi."
+        },
+        {
+          "chapter": 11,
+          "verse": 3,
+          "text": "Basi wale maumbu wakatuma ujumbe kwake wakisema, Bwana, yeye umpendaye hawezi."
+        },
+        {
+          "chapter": 11,
+          "verse": 4,
+          "text": "Naye Yesu aliposikia, alisema, [J]Ugonjwa huu si wa mauti, bali ni kwa ajili ya utukufu wa Mungu, ili Mwana wa Mungu atukuzwe kwa huo.[/J]"
+        },
+        {
+          "chapter": 11,
+          "verse": 5,
+          "text": "Naye Yesu alimpenda Martha na umbu lake na Lazaro."
+        },
+        {
+          "chapter": 11,
+          "verse": 6,
+          "text": "Basi aliposikia ya kwamba hawezi, alikaa bado siku mbili pale pale alipokuwapo."
+        },
+        {
+          "chapter": 11,
+          "verse": 7,
+          "text": "Kisha, baada ya hayo, akawaambia wanafunzi wake, [J]Twendeni Uyahudi tena.[/J]"
+        },
+        {
+          "chapter": 11,
+          "verse": 8,
+          "text": "Wale wanafunzi wakamwambia, Rabi, juzijuzi tu Wayahudi walikuwa wakitafuta kukupiga kwa mawe, nawe unakwenda huko tena?"
+        },
+        {
+          "chapter": 11,
+          "verse": 9,
+          "text": "Yesu akajibu, [J]Je! Saa za mchana si kumi na mbili? Mtu akienda mchana hajikwai; kwa sababu aiona nuru ya ulimwengu huu.[/J]"
+        },
+        {
+          "chapter": 11,
+          "verse": 10,
+          "text": "[J]Bali akienda usiku hujikwaa; kwa sababu nuru haimo ndani yake.[/J]"
+        },
+        {
+          "chapter": 11,
+          "verse": 11,
+          "text": "Aliyasema hayo; kisha, baada ya hayo, akawaambia, [J]Rafiki yetu, Lazaro, amelala; lakini ninakwenda nipate kumwamsha.[/J]"
+        },
+        {
+          "chapter": 11,
+          "verse": 12,
+          "text": "Basi wale wanafunzi wakamwambia, Bwana, ikiwa amelala, atapona."
+        },
+        {
+          "chapter": 11,
+          "verse": 13,
+          "text": "Lakini Yesu alikuwa amenena habari ya mauti yake; nao walidhania ya kuwa ananena habari ya kulala usingizi."
+        },
+        {
+          "chapter": 11,
+          "verse": 14,
+          "text": "Basi hapo Yesu akawaambia waziwazi, [J]Lazaro amekufa.[/J]"
+        },
+        {
+          "chapter": 11,
+          "verse": 15,
+          "text": "[J]Nami nafurahi kwa ajili yenu kwamba sikuwako huko, ili mpate kuamini; lakini na twendeni kwake.[/J]"
+        },
+        {
+          "chapter": 11,
+          "verse": 16,
+          "text": "Basi Tomaso, aitwaye Pacha, akawaambia wanafunzi wenziwe, Twendeni na sisi, ili tufe pamoja naye."
+        },
+        {
+          "chapter": 11,
+          "verse": 17,
+          "text": "Basi Yesu alipofika, alimkuta amekwisha kuwamo kaburini yapata siku nne."
+        },
+        {
+          "chapter": 11,
+          "verse": 18,
+          "text": "Na Bethania ilikuwa karibu na Yerusalemu, kadiri ya maili mbili hivi;"
+        },
+        {
+          "chapter": 11,
+          "verse": 19,
+          "text": "na watu wengi katika Wayahudi walikuwa wamekuja kwa Martha na Mariamu, ili kuwafariji kwa habari ya ndugu yao."
+        },
+        {
+          "chapter": 11,
+          "verse": 20,
+          "text": "Basi Martha aliposikia kwamba Yesu anakuja, alikwenda kumlaki; na Mariamu alikuwa akikaa nyumbani."
+        },
+        {
+          "chapter": 11,
+          "verse": 21,
+          "text": "Basi Martha akamwambia Yesu, Bwana, kama ungalikuwapo hapa, ndugu yangu hangalikufa."
+        },
+        {
+          "chapter": 11,
+          "verse": 22,
+          "text": "Lakini hata sasa najua ya kuwa yo yote utakayomwomba Mungu, Mungu atakupa."
+        },
+        {
+          "chapter": 11,
+          "verse": 23,
+          "text": "Yesu akamwambia, [J]Ndugu yako atafufuka.[/J]"
+        },
+        {
+          "chapter": 11,
+          "verse": 24,
+          "text": "Martha akamwambia, Najua ya kuwa atafufuka katika ufufuo siku ya mwisho."
+        },
+        {
+          "chapter": 11,
+          "verse": 25,
+          "text": "Yesu akamwambia, [J]Mimi ndimi huo ufufuo, na uzima. Yeye aniaminiye mimi, ajapokufa, atakuwa anaishi;[/J]"
+        },
+        {
+          "chapter": 11,
+          "verse": 26,
+          "text": "[J]naye kila aishiye na kuniamini hatakufa kabisa hata milele. Je! Unayasadiki hayo?[/J]"
+        },
+        {
+          "chapter": 11,
+          "verse": 27,
+          "text": "Akamwambia, Naam, Bwana, mimi nimesadiki ya kwamba wewe ndiwe Kristo, Mwana wa Mungu, yule ajaye ulimwenguni."
+        },
+        {
+          "chapter": 11,
+          "verse": 28,
+          "text": "Naye alipokwisha kusema hayo, alikwenda zake; akamwita umbu lake Mariamu faraghani, akisema, Mwalimu yupo anakuita."
+        },
+        {
+          "chapter": 11,
+          "verse": 29,
+          "text": "Naye aliposikia, aliondoka upesi, akamwendea."
+        },
+        {
+          "chapter": 11,
+          "verse": 30,
+          "text": "Na Yesu alikuwa hajafika ndani ya kijiji; lakini alikuwa akalipo pale pale alipomlaki Martha."
+        },
+        {
+          "chapter": 11,
+          "verse": 31,
+          "text": "Basi wale Wayahudi waliokuwapo na Mariamu nyumbani, wakimfariji, walipomwona jinsi alivyoondoka upesi na kutoka, walimfuata; huku wakidhania ya kuwa anakwenda kaburini ili alie huko."
+        },
+        {
+          "chapter": 11,
+          "verse": 32,
+          "text": "Basi Mariamu alipofika pale alipokuwapo Yesu, na kumwona, alianguka miguuni pake, akamwambia, Bwana, kama ungalikuwapo hapa, ndugu yangu hangalikufa."
+        },
+        {
+          "chapter": 11,
+          "verse": 33,
+          "text": "Basi Yesu alipomwona analia, na wale Wayahudi waliofuatana naye wanalia, aliugua rohoni, akafadhaika roho yake,"
+        },
+        {
+          "chapter": 11,
+          "verse": 34,
+          "text": "akasema, [J]Mmemweka wapi?[/J] Wakamwambia, Bwana, njoo utazame."
+        },
+        {
+          "chapter": 11,
+          "verse": 35,
+          "text": "Yesu akalia machozi."
+        },
+        {
+          "chapter": 11,
+          "verse": 36,
+          "text": "Basi Wayahudi wakasema, Angalieni jinsi alivyompenda."
+        },
+        {
+          "chapter": 11,
+          "verse": 37,
+          "text": "Bali wengine wao wakasema, Je! Huyu aliyemfumbua macho yule kipofu, hakuweza kumfanya na huyu asife?"
+        },
+        {
+          "chapter": 11,
+          "verse": 38,
+          "text": "Basi Yesu, hali akiugua tena nafsini mwake, akafika kwenye kaburi. Nalo lilikuwa ni pango, na jiwe limewekwa juu yake."
+        },
+        {
+          "chapter": 11,
+          "verse": 39,
+          "text": "Yesu akasema, [J]Liondoeni jiwe.[/J] Martha, dada yake yule aliyefariki, akamwambia, Bwana, ananuka sasa; maana amekuwa maiti siku nne."
+        },
+        {
+          "chapter": 11,
+          "verse": 40,
+          "text": "Yesu akamwambia, [J]Mimi sikukuambia ya kwamba ukiamini utauona utukufu wa Mungu?[/J]"
+        },
+        {
+          "chapter": 11,
+          "verse": 41,
+          "text": "Basi wakaliondoa lile jiwe. Yesu akainua macho yake juu, akasema, [J]Baba, nakushukuru kwa kuwa umenisikia.[/J]"
+        },
+        {
+          "chapter": 11,
+          "verse": 42,
+          "text": "[J]Nami nalijua ya kuwa wewe wanisikia sikuzote; lakini kwa ajili ya mkutano huu wanaohudhuria nalisema haya, ili wapate kusadiki kwamba ndiwe uliyenituma.[/J]"
+        },
+        {
+          "chapter": 11,
+          "verse": 43,
+          "text": "Naye akiisha kusema hayo, akalia kwa sauti kuu, [J]Lazaro, njoo huku nje.[/J]"
+        },
+        {
+          "chapter": 11,
+          "verse": 44,
+          "text": "Akatoka nje yule aliyekufa, amefungwa sanda miguuni na mikononi, na uso wake amefungwa leso. Naye Yesu akawaambia, [J]Mfungueni, mkamwache aende zake.[/J]"
+        },
+        {
+          "chapter": 11,
+          "verse": 45,
+          "text": "Basi wengi katika Wayahudi waliokuja kwa Mariamu, na kuyaona yale aliyoyafanya, wakamwamini."
+        },
+        {
+          "chapter": 11,
+          "verse": 46,
+          "text": "Lakini wengine wakaenda zao kwa Mafarisayo, wakawaambia aliyoyafanya Yesu."
+        },
+        {
+          "chapter": 11,
+          "verse": 47,
+          "text": "Basi wakuu wa makuhani na Mafarisayo wakakusanya baraza, wakasema, Tunafanya nini? Maana mtu huyu afanya ishara nyingi."
+        },
+        {
+          "chapter": 11,
+          "verse": 48,
+          "text": "Tukimwacha hivi, watu wote watamwamini; na Warumi watakuja, watatuondolea mahali petu na taifa letu."
+        },
+        {
+          "chapter": 11,
+          "verse": 49,
+          "text": "Mtu mmoja miongoni mwao, Kayafa, aliyekuwa Kuhani Mkuu mwaka ule, akawaambia, Ninyi hamjui neno lo lote;"
+        },
+        {
+          "chapter": 11,
+          "verse": 50,
+          "text": "wala hamfikiri ya kwamba yafaa mtu mmoja afe kwa ajili ya watu, wala lisiangamie taifa zima."
+        },
+        {
+          "chapter": 11,
+          "verse": 51,
+          "text": "Na neno hilo yeye hakulisema kwa nafsi yake; bali kwa kuwa alikuwa Kuhani Mkuu mwaka ule, alitabiri ya kwamba Yesu atakufa kwa ajili ya taifa hilo."
+        },
+        {
+          "chapter": 11,
+          "verse": 52,
+          "text": "Wala si kwa ajili ya taifa hilo tu; lakini pamoja na hayo awakusanye watoto wa Mungu waliotawanyika, ili wawe wamoja."
+        },
+        {
+          "chapter": 11,
+          "verse": 53,
+          "text": "Basi tangu siku ile walifanya shauri la kumwua."
+        },
+        {
+          "chapter": 11,
+          "verse": 54,
+          "text": "Kwa hiyo Yesu hakutembea tena kwa wazi katikati ya Wayahudi; bali alitoka huko, akaenda mahali karibu na jangwa, mpaka mji uitwao Efraimu; akakaa huko pamoja na wanafunzi wake."
+        },
+        {
+          "chapter": 11,
+          "verse": 55,
+          "text": "Na Pasaka ya Wayahudi ilikuwa karibu; na wengi wakakwea toka mashambani kwenda Yerusalemu kabla ya Pasaka, ili wajitakase."
+        },
+        {
+          "chapter": 11,
+          "verse": 56,
+          "text": "Basi wao wakamtafuta Yesu, wakasemezana hali wamesimama hekaluni, Mwaonaje? Haji kabisa sikukuu hii?"
+        },
+        {
+          "chapter": 11,
+          "verse": 57,
+          "text": "Na wakuu wa makuhani na Mafarisayo walikuwa wametoa amri ya kwamba mtu akimjua alipo, alete habari, ili wapate kumkamata."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 12,
+      "lastVerse": 50,
+      "verseUnitCount": 50,
+      "verses": [
+        {
+          "chapter": 12,
+          "verse": 1,
+          "text": "Basi, siku sita kabla ya Pasaka, Yesu alifika Bethania, alipokuwapo Lazaro, yeye ambaye Yesu alimfufua katika wafu."
+        },
+        {
+          "chapter": 12,
+          "verse": 2,
+          "text": "Basi wakamwandalia karamu huko; naye Martha akatumikia; na Lazaro alikuwa mmojawapo wa wale walioketi chakulani pamoja naye."
+        },
+        {
+          "chapter": 12,
+          "verse": 3,
+          "text": "Basi Mariamu akatwaa ratli ya marhamu ya nardo safi yenye thamani nyingi, akampaka Yesu miguu, akamfuta miguu kwa nywele zake. Nayo nyumba pia ikajaa harufu ya marhamu."
+        },
+        {
+          "chapter": 12,
+          "verse": 4,
+          "text": "Basi Yuda Iskariote, mmojawapo wa wanafunzi wake, ambaye ndiye atakaye kumsaliti, akasema,"
+        },
+        {
+          "chapter": 12,
+          "verse": 5,
+          "text": "Mbona marhamu hii haikuuzwa kwa dinari mia tatu, wakapewa maskini?"
+        },
+        {
+          "chapter": 12,
+          "verse": 6,
+          "text": "Naye aliyasema hayo, si kwa kuwahurumia maskini; bali kwa kuwa ni mwivi, naye ndiye aliyeshika mfuko, akavichukua vilivyotiwa humo."
+        },
+        {
+          "chapter": 12,
+          "verse": 7,
+          "text": "Basi Yesu alisema, [J]Mwache aiweke kwa siku ya maziko yangu.[/J]"
+        },
+        {
+          "chapter": 12,
+          "verse": 8,
+          "text": "[J]Kwa maana maskini mnao sikuzote pamoja nanyi; bali mimi hamnami sikuzote.[/J]"
+        },
+        {
+          "chapter": 12,
+          "verse": 9,
+          "text": "Basi watu wengi katika Wayahudi walipata kujua ya kuwa yeye yuko huko, nao wakaja, si kwa ajili yake Yesu tu, ila wamwone na Lazaro, ambaye Yesu alimfufua katika wafu."
+        },
+        {
+          "chapter": 12,
+          "verse": 10,
+          "text": "Nao wakuu wa makuhani wakafanya shauri la kumwua Lazaro naye;"
+        },
+        {
+          "chapter": 12,
+          "verse": 11,
+          "text": "maana kwa ajili yake wengi katika Wayahudi walijitenga, wakamwamini Yesu."
+        },
+        {
+          "chapter": 12,
+          "verse": 12,
+          "text": "Nayo siku ya pili yake watu wengi walioijia sikukuu walisikia ya kwamba Yesu anakuja Yerusalemu;"
+        },
+        {
+          "chapter": 12,
+          "verse": 13,
+          "text": "wakatwaa matawi ya mitende, wakatoka nje kwenda kumlaki, wakapiga makelele, Hosana! Ndiye mbarikiwa ajaye kwa jina la [DN]Bwana[/DN], Mfalme wa Israeli!"
+        },
+        {
+          "chapter": 12,
+          "verse": 14,
+          "text": "Naye Yesu alikuwa amepata mwana-punda, akampanda, kama vile iliyoandikwa,"
+        },
+        {
+          "chapter": 12,
+          "verse": 15,
+          "text": "Usiogope, binti Sayuni; tazama, Mfalme wako anakuja, amepanda mwana-punda."
+        },
+        {
+          "chapter": 12,
+          "verse": 16,
+          "text": "Mambo hayo wanafunzi wake hawakuyafahamu hapo kwanza; lakini Yesu alipotukuzwa, ndipo walipokumbuka ya kwamba ameandikiwa hayo, na ya kwamba walimtendea hayo."
+        },
+        {
+          "chapter": 12,
+          "verse": 17,
+          "text": "Basi wakamshuhudia wale mkutano waliokuwapo pamoja naye alipomwita Lazaro kutoka kaburini, akamfufua."
+        },
+        {
+          "chapter": 12,
+          "verse": 18,
+          "text": "Na kwa sababu hiyo mkutano walikwenda kumlaki, kwa kuwa wamesikia ya kwamba ameifanya ishara hiyo."
+        },
+        {
+          "chapter": 12,
+          "verse": 19,
+          "text": "Basi Mafarisayo wakasemezana wao kwa wao, Mwaona kwamba hamfai neno lo lote; tazameni, ulimwengu umekwenda nyuma yake."
+        },
+        {
+          "chapter": 12,
+          "verse": 20,
+          "text": "Palikuwa na Wayunani kadha wa kadha miongoni mwa watu waliokwea kwenda kuabudu kwenye sikukuu."
+        },
+        {
+          "chapter": 12,
+          "verse": 21,
+          "text": "Basi hao walimwendea Filipo, mtu wa Bethsaida ya Galilaya, wakamwomba, wakisema, Bwana, sisi tunataka kumwona Yesu."
+        },
+        {
+          "chapter": 12,
+          "verse": 22,
+          "text": "Filipo akaenda, akamwambia Andrea; kisha Andrea na Filipo wakamwambia Yesu."
+        },
+        {
+          "chapter": 12,
+          "verse": 23,
+          "text": "Naye Yesu akawajibu, akasema, [J]Saa imefika atukuzwe Mwana wa Adamu.[/J]"
+        },
+        {
+          "chapter": 12,
+          "verse": 24,
+          "text": "[J]Amin, amin, nawaambia, Chembe ya ngano isipoanguka katika nchi, ikafa, hukaa hali iyo hiyo peke yake; bali ikifa, hutoa mazao mengi.[/J]"
+        },
+        {
+          "chapter": 12,
+          "verse": 25,
+          "text": "[J]Yeye aipendaye nafsi yake ataiangamiza; naye aichukiaye nafsi yake katika ulimwengu huu ataisalimisha hata uzima wa milele.[/J]"
+        },
+        {
+          "chapter": 12,
+          "verse": 26,
+          "text": "[J]Mtu akinitumikia, na anifuate; nami nilipo, ndipo na mtumishi wangu atakapokuwapo. Tena mtu akinitumikia, Baba atamheshimu.[/J]"
+        },
+        {
+          "chapter": 12,
+          "verse": 27,
+          "text": "[J]Sasa roho yangu imefadhaika; nami nisemeje? Baba, uniokoe katika saa hii? Lakini ni kwa ajili ya hayo nilivyoifikia saa hii.[/J]"
+        },
+        {
+          "chapter": 12,
+          "verse": 28,
+          "text": "[J]Baba, ulitukuze jina lako.[/J] Basi ikaja sauti kutoka mbinguni, Nimelitukuza, nami nitalitukuza tena."
+        },
+        {
+          "chapter": 12,
+          "verse": 29,
+          "text": "Basi mkutano uliosimama karibu wakasikia, walisema ya kwamba kumekuwa ngurumo; wengine walisema, Malaika amesema naye."
+        },
+        {
+          "chapter": 12,
+          "verse": 30,
+          "text": "Yesu akajibu, akasema, [J]Sauti hiyo haikuwako kwa ajili yangu, bali kwa ajili yenu.[/J]"
+        },
+        {
+          "chapter": 12,
+          "verse": 31,
+          "text": "[J]Sasa hukumu ya ulimwengu huu ipo; sasa mkuu wa ulimwengu huu atatupwa nje.[/J]"
+        },
+        {
+          "chapter": 12,
+          "verse": 32,
+          "text": "[J]Nami nikiinuliwa juu ya nchi, nitawavuta wote kwangu.[/J]"
+        },
+        {
+          "chapter": 12,
+          "verse": 33,
+          "text": "Aliyanena hayo akionyesha ni mauti gani atakayokufa."
+        },
+        {
+          "chapter": 12,
+          "verse": 34,
+          "text": "Basi mkutano wakamjibu, Sisi tumesikia katika torati ya kwamba Kristo adumu hata milele; nawe wasemaje ya kwamba [J]imempasa Mwana wa Adamu kuinuliwa[/J]? Huyu Mwana wa Adamu ni nani?"
+        },
+        {
+          "chapter": 12,
+          "verse": 35,
+          "text": "Basi Yesu akawaambia, [J]Nuru ingaliko pamoja nanyi muda kidogo. Enendeni maadamu mnayo nuru hiyo, giza lisije likawaweza; maana aendaye gizani hajui aendako.[/J]"
+        },
+        {
+          "chapter": 12,
+          "verse": 36,
+          "text": "[J]Maadamu mnayo nuru, iaminini nuru hiyo, ili mpate kuwa wana wa nuru.[/J] Hayo aliyasema Yesu, akaenda zake, akajificha wasimwone."
+        },
+        {
+          "chapter": 12,
+          "verse": 37,
+          "text": "Walakini ajapokuwa amefanya ishara nyingi namna hiyo mbele yao, hawakumwamini;"
+        },
+        {
+          "chapter": 12,
+          "verse": 38,
+          "text": "ili litimie lile neno la nabii Isaya alilolisema, Bwana, ni nani aliyezisadiki habari zetu; Na mkono wa [DN]Bwana[/DN] amefunuliwa nani?"
+        },
+        {
+          "chapter": 12,
+          "verse": 39,
+          "text": "Ndiyo sababu wao hawakuweza kusadiki; kwa maana Isaya alisema tena,"
+        },
+        {
+          "chapter": 12,
+          "verse": 40,
+          "text": "Amewapofusha macho, Ameifanya mizito mioyo yao; Wasije wakaona kwa macho yao, Wakafahamu kwa mioyo yao, Wakaongoka, nikawaponya."
+        },
+        {
+          "chapter": 12,
+          "verse": 41,
+          "text": "Maneno hayo aliyasema Isaya, kwa kuwa aliuona utukufu wake, akataja habari zake."
+        },
+        {
+          "chapter": 12,
+          "verse": 42,
+          "text": "Walakini hata katika wakuu walikuwamo wengi waliomwamini; lakini kwa sababu ya Mafarisayo hawakumkiri, wasije wakatengwa na sinagogi."
+        },
+        {
+          "chapter": 12,
+          "verse": 43,
+          "text": "Kwa maana walipenda utukufu wa wanadamu kuliko utukufu wa Mungu."
+        },
+        {
+          "chapter": 12,
+          "verse": 44,
+          "text": "Naye Yesu akapaza sauti, akasema, [J]Yeye aniaminiye mimi, haniamini mimi bali yeye aliyenipeleka.[/J]"
+        },
+        {
+          "chapter": 12,
+          "verse": 45,
+          "text": "[J]Naye anitazamaye mimi amtazama yeye aliyenipeleka.[/J]"
+        },
+        {
+          "chapter": 12,
+          "verse": 46,
+          "text": "[J]Mimi nimekuja ili niwe nuru ya ulimwengu, ili kila mtu aniaminiye mimi asikae gizani.[/J]"
+        },
+        {
+          "chapter": 12,
+          "verse": 47,
+          "text": "[J]Na mtu akiyasikia maneno yangu, asiyashike, mimi simhukumu; maana sikuja ili niuhukumu ulimwengu, ila niuokoe ulimwengu.[/J]"
+        },
+        {
+          "chapter": 12,
+          "verse": 48,
+          "text": "[J]Yeye anikataaye mimi, asiyeyakubali maneno yangu, anaye amhukumuye; neno hilo nililolinena ndilo litakalomhukumu siku ya mwisho.[/J]"
+        },
+        {
+          "chapter": 12,
+          "verse": 49,
+          "text": "[J]Kwa sababu mimi sikunena kwa nafsi yangu tu; bali Baba aliyenipeleka, yeye mwenyewe ameniagiza nitakayonena na nitakayosema.[/J]"
+        },
+        {
+          "chapter": 12,
+          "verse": 50,
+          "text": "[J]Nami najua ya kuwa agizo lake ni uzima wa milele; basi hayo ninenayo mimi, kama Baba alivyoniambia, ndivyo ninenavyo.[/J]"
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 13,
+      "lastVerse": 38,
+      "verseUnitCount": 38,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": 1,
+          "text": "Basi, kabla ya sikukuu ya Pasaka, Yesu, hali akijua ya kuwa saa yake imefika, atakayotoka katika ulimwengu kwenda kwa Baba, naye ali amewapenda watu wake katika ulimwengu, aliwapenda upeo."
+        },
+        {
+          "chapter": 13,
+          "verse": 2,
+          "text": "Hata wakati wa chakula cha jioni; naye Ibilisi amekwisha kumtia Yuda, mwana wa Simoni Iskariote, moyo wa kumsaliti;"
+        },
+        {
+          "chapter": 13,
+          "verse": 3,
+          "text": "Yesu, hali akijua ya kuwa Baba amempa vyote mikononi mwake, na ya kuwa alitoka kwa Mungu naye anakwenda kwa Mungu,"
+        },
+        {
+          "chapter": 13,
+          "verse": 4,
+          "text": "aliondoka chakulani; akaweka kando mavazi yake, akatwaa kitambaa, akajifunga kiunoni."
+        },
+        {
+          "chapter": 13,
+          "verse": 5,
+          "text": "Kisha akatia maji katika bakuli, akaanza kuwatawadha wanafunzi miguu, na kuifuta kwa kile kitambaa alichojifunga."
+        },
+        {
+          "chapter": 13,
+          "verse": 6,
+          "text": "Hivyo yuaja kwa Simoni Petro. Huyo akamwambia, Bwana! Wewe wanitawadha miguu mimi?"
+        },
+        {
+          "chapter": 13,
+          "verse": 7,
+          "text": "Yesu akajibu, akamwambia, [J]Nifanyalo wewe hujui sasa; lakini utalifahamu baadaye.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 8,
+          "text": "Petro akamwambia, Wewe hutanitawadha miguu kamwe. Yesu akamwambia, [J]Kama nisipokutawadha, huna shirika nami.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 9,
+          "text": "Simoni Petro akamwambia, Bwana, si miguu yangu tu, hata na mikono yangu na kichwa changu pia."
+        },
+        {
+          "chapter": 13,
+          "verse": 10,
+          "text": "Yesu akamwambia, [J]Yeye aliyekwisha kuoga hana haja ila ya kutawadha miguu, bali yu safi mwili wote; nanyi mmekuwa safi, lakini si nyote.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 11,
+          "text": "Kwa maana alimjua yeye atakayemsaliti; ndiyo maana alisema, Si nyote mlio safi."
+        },
+        {
+          "chapter": 13,
+          "verse": 12,
+          "text": "Basi alipokwisha kuwatawadha miguu, na kuyatwaa mavazi yake, na kuketi tena, akawaambia, [J]Je! Mmeelewa na hayo niliyowatendea?[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 13,
+          "text": "[J]Ninyi mwaniita, Mwalimu, na, Bwana; nanyi mwanena vema, maana ndivyo nilivyo.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 14,
+          "text": "[J]Basi ikiwa mimi, niliye Bwana na Mwalimu, nimewatawadha miguu, imewapasa vivyo kutawadhana miguu ninyi kwa ninyi.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 15,
+          "text": "[J]Kwa kuwa nimewapa kielelezo; ili kama mimi nilivyowatendea, nanyi mtende vivyo.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 16,
+          "text": "[J]Amin, amin, nawaambia ninyi, Mtumwa si mkuu kuliko bwana wake; wala mtume si mkuu kuliko yeye aliyempeleka.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 17,
+          "text": "[J]Mkiyajua hayo, heri ninyi mkiyatenda.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 18,
+          "text": "[J]Sisemi habari za ninyi nyote; nawajua wale niliowachagua; lakini andiko lipate kutimizwa, Aliyekula chakula changu Ameniinulia kisigino chake.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 19,
+          "text": "[J]Tangu sasa nawaambia kabla hayajatukia, ili yatakapotukia mpate kuamini ya kuwa mimi ndiye.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 20,
+          "text": "[J]Amin, amin, nawaambieni, Yeye ampokeaye mtu ye yote nimpelekaye, anipokea mimi; naye anipokeaye mimi; ampokea yeye aliyenipeleka.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 21,
+          "text": "Naye alipokwisha kusema hayo, Yesu alifadhaika rohoni, akashuhudia akisema, [J]Amin, amin, nawaambieni, Mmoja wenu atanisaliti.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 22,
+          "text": "Wanafunzi wakatazamana, huku wakiona shaka ni nani amtajaye."
+        },
+        {
+          "chapter": 13,
+          "verse": 23,
+          "text": "Na palikuwapo mmoja wa wanafunzi wake, ameegama kifuani pa Yesu, ambaye Yesu alimpenda."
+        },
+        {
+          "chapter": 13,
+          "verse": 24,
+          "text": "Basi Simoni Petro akampungia mkono, akamwambia, Uliza, ni nani amtajaye?"
+        },
+        {
+          "chapter": 13,
+          "verse": 25,
+          "text": "Basi yeye, hali akimwelekea Yesu kifua chake, akamwambia, Bwana, ni nani?"
+        },
+        {
+          "chapter": 13,
+          "verse": 26,
+          "text": "Basi Yesu akajibu, [J]Ndiye mtu yule nitakayemtowelea tonge na kumpa.[/J] Akatowelea tonge, akalitwaa akampa Yuda, mwana wa Simoni Iskariote."
+        },
+        {
+          "chapter": 13,
+          "verse": 27,
+          "text": "Na baada ya hilo tonge Shetani alimwingia. Basi Yesu akamwambia, [J]Uyatendayo yatende upesi.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 28,
+          "text": "Wala hakuna mtu katika wale walioketi chakulani aliyeijua sababu ya kumwambia hivyo."
+        },
+        {
+          "chapter": 13,
+          "verse": 29,
+          "text": "Kwa maana wengine walidhania, kwa kuwa Yuda huchukua mfuko, ya kwamba Yesu alimwambia kama, Nunua mnavyovihitaji kwa sikukuu; au kwamba awape maskini kitu."
+        },
+        {
+          "chapter": 13,
+          "verse": 30,
+          "text": "Basi huyo, akiisha kulipokea lile tonge, akatoka mara hiyo. Nako kulikuwa ni usiku."
+        },
+        {
+          "chapter": 13,
+          "verse": 31,
+          "text": "Basi huyo alipokwisha kutoka, Yesu alisema, [J]Sasa ametukuzwa Mwana wa Adamu, naye Mungu ametukuzwa ndani yake.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 32,
+          "text": "[J]Mungu naye atamtukuza ndani ya nafsi yake; naye atamtukuza mara.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 33,
+          "text": "[J]Enyi watoto wadogo, bado kitambo kidogo nipo pamoja nanyi; mtanitafuta; na kama vile nilivyowaambia Wayahudi ya kwamba, Mimi niendako ninyi hamwezi kuja; kadhalika sasa nawaambia ninyi.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 34,
+          "text": "[J]Amri mpya nawapa, Mpendane. Kama vile nilivyowapenda ninyi, nanyi mpendane vivyo hivyo.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 35,
+          "text": "[J]Hivyo watu wote watatambua ya kuwa ninyi mmekuwa wanafunzi wangu, mkiwa na upendo ninyi kwa ninyi.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 36,
+          "text": "Simoni Petro akamwambia, Bwana, unakwendapi? Yesu akamjibu, [J]Niendako huwezi kunifuata sasa; lakini utanifuata baadaye.[/J]"
+        },
+        {
+          "chapter": 13,
+          "verse": 37,
+          "text": "Petro akamwambia, Bwana, kwa nini mimi nisiweze kukufuata sasa? Mimi nitautoa uhai wangu kwa ajili yako."
+        },
+        {
+          "chapter": 13,
+          "verse": 38,
+          "text": "Yesu akamjibu, [J]Je! Wewe utautoa uhai wako kwa ajili yangu? Amin, amin, nakuambia, Jimbi hatawika hata wewe utakapokuwa umenikana mara tatu.[/J]"
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 14,
+      "lastVerse": 31,
+      "verseUnitCount": 31,
+      "verses": [
+        {
+          "chapter": 14,
+          "verse": 1,
+          "text": "[J]Msifadhaike mioyoni mwenu; mnamwamini Mungu, niaminini na mimi.[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 2,
+          "text": "[J]Nyumbani mwa Baba yangu mna makao mengi; kama sivyo, ningaliwaambia; maana naenda kuwaandalia mahali.[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 3,
+          "text": "[J]Basi mimi nikienda na kuwaandalia mahali, nitakuja tena niwakaribishe kwangu; ili nilipo mimi, nanyi mwepo.[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 4,
+          "text": "[J]Nami niendako mwaijua njia.[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 5,
+          "text": "Tomaso akamwambia, Bwana, sisi hatujui uendako; nasi twaijuaje njia?"
+        },
+        {
+          "chapter": 14,
+          "verse": 6,
+          "text": "Yesu akamwambia, [J]Mimi ndimi njia, na kweli, na uzima; mtu haji kwa Baba, ila kwa njia ya mimi.[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 7,
+          "text": "[J]Kama mngalinijua mimi, mngalimjua na Baba; tangu sasa mnamjua, tena mmemwona.[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 8,
+          "text": "Filipo akamwambia, Bwana, utuonyeshe Baba, yatutosha."
+        },
+        {
+          "chapter": 14,
+          "verse": 9,
+          "text": "Yesu akamwambia, [J]Mimi nimekuwapo pamoja nanyi siku hizi zote, wewe usinijue, Filipo? Aliyeniona mimi amemwona Baba; basi wewe wasemaje, Utuonyeshe Baba?[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 10,
+          "text": "[J]Husadiki ya kwamba mimi ni ndani ya Baba, na Baba yu ndani yangu? Hayo maneno niwaambiayo mimi siyasemi kwa shauri langu; lakini Baba akaaye ndani yangu huzifanya kazi zake.[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 11,
+          "text": "[J]Mnisadiki ya kwamba mimi ni ndani ya Baba, na Baba yu ndani yangu; la! Hamsadiki hivyo, sadikini kwa sababu ya kazi zenyewe.[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 12,
+          "text": "[J]Amin, amin, nawaambieni, Yeye aniaminiye mimi, kazi nizifanyazo mimi, yeye naye atazifanya; naam, na kubwa kuliko hizo atafanya, kwa kuwa mimi naenda kwa Baba.[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 13,
+          "text": "[J]Nanyi mkiomba lo lote kwa jina langu, hilo nitalifanya, ili Baba atukuzwe ndani ya Mwana.[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 14,
+          "text": "[J]Mkiniomba neno lo lote kwa jina langu, nitalifanya.[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 15,
+          "text": "[J]Mkinipenda, mtazishika amri zangu.[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 16,
+          "text": "[J]Nami nitamwomba Baba, naye atawapa Msaidizi mwingine, ili akae nanyi hata milele;[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 17,
+          "text": "[J]ndiye Roho wa kweli; ambaye ulimwengu hauwezi kumpokea, kwa kuwa haumwoni wala haumtambui; bali ninyi mnamtambua, maana anakaa kwenu, naye atakuwa ndani yenu.[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 18,
+          "text": "[J]Sitawaacha ninyi yatima; naja kwenu.[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 19,
+          "text": "[J]Bado kitambo kidogo na ulimwengu haunioni tena; bali ninyi mnaniona. Na kwa sababu mimi ni hai, ninyi nanyi mtakuwa hai.[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 20,
+          "text": "[J]Siku ile ninyi mtatambua ya kuwa mimi ni ndani ya Baba yangu, nanyi ndani yangu, nami ndani yenu.[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 21,
+          "text": "[J]Yeye aliye na amri zangu, na kuzishika, yeye ndiye anipendaye; naye anipendaye atapendwa na Baba yangu; nami nitampenda na kujidhihirisha kwake.[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 22,
+          "text": "Yuda (siye Iskariote), akamwambia, Bwana, imekuwaje ya kwamba wataka kujidhihirisha kwetu, wala si kwa ulimwengu?"
+        },
+        {
+          "chapter": 14,
+          "verse": 23,
+          "text": "Yesu akajibu, akamwambia, [J]Mtu akinipenda, atalishika neno langu; na Baba yangu atampenda; nasi tutakuja kwake, na kufanya makao kwake.[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 24,
+          "text": "[J]Mtu asiyenipenda, yeye hayashiki maneno yangu; nalo neno mnalolisikia silo langu, ila ni lake Baba aliyenipeleka.[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 25,
+          "text": "[J]Hayo ndiyo niliyowaambia wakati nilipokuwa nikikaa kwenu.[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 26,
+          "text": "[J]Lakini huyo Msaidizi, huyo Roho Mtakatifu, ambaye Baba atampeleka kwa jina langu, atawafundisha yote, na kuwakumbusha yote niliyowaambia.[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 27,
+          "text": "[J]Amani nawaachieni; amani yangu nawapa; niwapavyo mimi sivyo kama ulimwengu utoavyo. Msifadhaike mioyoni mwenu, wala msiwe na woga.[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 28,
+          "text": "[J]Mlisikia ya kwamba mimi naliwaambia, Naenda zangu, tena naja kwenu. Kama mngalinipenda, mngalifurahi kwa sababu naenda kwa Baba, kwa maana Baba ni mkuu kuliko mimi.[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 29,
+          "text": "[J]Na sasa nimewaambia kabla halijatokea, kusudi litakapotokea mpate kuamini.[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 30,
+          "text": "[J]Mimi sitasema nanyi maneno mengi tena, kwa maana yuaja mkuu wa ulimwengu huu, wala hana kitu kwangu.[/J]"
+        },
+        {
+          "chapter": 14,
+          "verse": 31,
+          "text": "[J]Lakini ulimwengu ujue ya kuwa nampenda Baba; na kama vile Baba alivyoniamuru; ndivyo nifanyavyo.[/J] [J]Ondokeni, twendeni zetu.[/J]"
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 15,
+      "lastVerse": 27,
+      "verseUnitCount": 27,
+      "verses": [
+        {
+          "chapter": 15,
+          "verse": 1,
+          "text": "[J]Mimi ndimi mzabibu wa kweli, na Baba yangu ndiye mkulima.[/J]"
+        },
+        {
+          "chapter": 15,
+          "verse": 2,
+          "text": "[J]Kila tawi ndani yangu lisilozaa huliondoa; na kila tawi lizaalo hulisafisha, ili lizidi kuzaa.[/J]"
+        },
+        {
+          "chapter": 15,
+          "verse": 3,
+          "text": "[J]Ninyi mmekwisha kuwa safi kwa sababu ya lile neno nililowaambia.[/J]"
+        },
+        {
+          "chapter": 15,
+          "verse": 4,
+          "text": "[J]Kaeni ndani yangu, nami ndani yenu. Kama vile tawi lisivyoweza kuzaa peke yake, lisipokaa ndani ya mzabibu; kadhalika nanyi, msipokaa ndani yangu.[/J]"
+        },
+        {
+          "chapter": 15,
+          "verse": 5,
+          "text": "[J]Mimi ni mzabibu; ninyi ni matawi, akaaye ndani yangu nami ndani yake, huyo huzaa sana; maana pasipo mimi ninyi hamwezi kufanya neno lo lote.[/J]"
+        },
+        {
+          "chapter": 15,
+          "verse": 6,
+          "text": "[J]Mtu asipokaa ndani yangu, hutupwa nje kama tawi na kunyauka; watu huyakusanya na kuyatupa motoni yakateketea.[/J]"
+        },
+        {
+          "chapter": 15,
+          "verse": 7,
+          "text": "[J]Ninyi mkikaa ndani yangu, na maneno yangu yakikaa ndani yenu, ombeni mtakalo lote nanyi mtatendewa.[/J]"
+        },
+        {
+          "chapter": 15,
+          "verse": 8,
+          "text": "[J]Hivyo hutukuzwa Baba yangu, kwa vile mzaavyo sana; nanyi mtakuwa wanafunzi wangu.[/J]"
+        },
+        {
+          "chapter": 15,
+          "verse": 9,
+          "text": "[J]Kama vile Baba alivyonipenda mimi, nami nilivyowapenda ninyi, kaeni katika pendo langu.[/J]"
+        },
+        {
+          "chapter": 15,
+          "verse": 10,
+          "text": "[J]Mkizishika amri zangu, mtakaa katika pendo langu; kama vile mimi nilivyozishika amri za Baba yangu na kukaa katika pendo lake.[/J]"
+        },
+        {
+          "chapter": 15,
+          "verse": 11,
+          "text": "[J]Hayo nimewaambia, ili furaha yangu iwe ndani yenu, na furaha yenu itimizwe.[/J]"
+        },
+        {
+          "chapter": 15,
+          "verse": 12,
+          "text": "[J]Amri yangu ndiyo hii, Mpendane, kama nilivyowapenda ninyi.[/J]"
+        },
+        {
+          "chapter": 15,
+          "verse": 13,
+          "text": "[J]Hakuna aliye na upendo mwingi kuliko huu, wa mtu kuutoa uhai wake kwa ajili ya rafiki zake.[/J]"
+        },
+        {
+          "chapter": 15,
+          "verse": 14,
+          "text": "[J]Ninyi mmekuwa rafiki zangu, mkitenda niwaamuruyo.[/J]"
+        },
+        {
+          "chapter": 15,
+          "verse": 15,
+          "text": "[J]Siwaiti tena watumwa; kwa maana mtumwa hajui atendalo bwana wake; lakini ninyi nimewaita rafiki; kwa kuwa yote niliyoyasikia kwa Baba yangu nimewaarifu.[/J]"
+        },
+        {
+          "chapter": 15,
+          "verse": 16,
+          "text": "[J]Si ninyi mlionichagua mimi, bali ni mimi niliyewachagua ninyi; nami nikawaweka mwende mkazae matunda; na matunda yenu yapate kukaa; ili kwamba lo lote mmwombalo Baba kwa jina langu awapeni.[/J]"
+        },
+        {
+          "chapter": 15,
+          "verse": 17,
+          "text": "[J]Haya nawaamuru ninyi, mpate kupendana.[/J]"
+        },
+        {
+          "chapter": 15,
+          "verse": 18,
+          "text": "[J]Iwapo ulimwengu ukiwachukia, mwajua ya kuwa umenichukia mimi kabla ya kuwachukia ninyi.[/J]"
+        },
+        {
+          "chapter": 15,
+          "verse": 19,
+          "text": "[J]Kama mngekuwa wa ulimwengu, ulimwengu ungewapenda walio wake; lakini kwa kuwa ninyi si wa ulimwengu, bali mimi naliwachagua katika ulimwengu, kwa sababu hiyo ulimwengu huwachukia.[/J]"
+        },
+        {
+          "chapter": 15,
+          "verse": 20,
+          "text": "[J]Likumbukeni lile neno nililowaambia, Mtumwa si mkubwa kuliko bwana wake. Ikiwa waliniudhi mimi, watawaudhi ninyi; ikiwa walilishika neno langu watalishika na lenu.[/J]"
+        },
+        {
+          "chapter": 15,
+          "verse": 21,
+          "text": "[J]Lakini haya yote watawatenda kwa ajili ya jina langu, kwa kuwa hawamjui yeye aliyenipeleka.[/J]"
+        },
+        {
+          "chapter": 15,
+          "verse": 22,
+          "text": "[J]Kama nisingalikuja na kusema nao, wasingalikuwa na dhambi; lakini sasa hawana udhuru kwa dhambi yao.[/J]"
+        },
+        {
+          "chapter": 15,
+          "verse": 23,
+          "text": "[J]Yeye anichukiaye mimi humchukia na Baba yangu.[/J]"
+        },
+        {
+          "chapter": 15,
+          "verse": 24,
+          "text": "[J]Kama nisingalitenda kwao kazi asizozitenda mtu mwingine, wasingalikuwa na dhambi; lakini sasa wametuona mimi na Baba yangu, na kutuchukia.[/J]"
+        },
+        {
+          "chapter": 15,
+          "verse": 25,
+          "text": "[J]Lakini litimie lile neno lililoandikwa katika torati yao, Walinichukia bure.[/J]"
+        },
+        {
+          "chapter": 15,
+          "verse": 26,
+          "text": "[J]Lakini ajapo huyo Msaidizi, nitakayewapelekea kutoka kwa Baba, huyo Roho wa kweli atokaye kwa Baba, yeye atanishuhudia.[/J]"
+        },
+        {
+          "chapter": 15,
+          "verse": 27,
+          "text": "[J]Nanyi pia mnashuhudia, kwa kuwa tangu mwanzo mmekuwapo pamoja nami.[/J]"
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 16,
+      "lastVerse": 33,
+      "verseUnitCount": 33,
+      "verses": [
+        {
+          "chapter": 16,
+          "verse": 1,
+          "text": "[J]Maneno hayo nimewaambia, msije mkachukizwa.[/J]"
+        },
+        {
+          "chapter": 16,
+          "verse": 2,
+          "text": "[J]Watawatenga na masinagogi; naam, saa yaja atakapodhania kila mtu awauaye ya kuwa anamtolea Mungu ibada.[/J]"
+        },
+        {
+          "chapter": 16,
+          "verse": 3,
+          "text": "[J]Na hayo watawatenda kwa sababu hawakumjua Baba wala mimi.[/J]"
+        },
+        {
+          "chapter": 16,
+          "verse": 4,
+          "text": "[J]Lakini nimewaambia hayo, ili makusudi saa ile itakapokuja myakumbuke ya kuwa mimi naliwaambia. Sikuwaambia hayo tangu mwanzo, kwa sababu nalikuwapo pamoja nanyi.[/J]"
+        },
+        {
+          "chapter": 16,
+          "verse": 5,
+          "text": "[J]Lakini sasa mimi naenda zangu kwake yeye aliyenipeleka, wala hakuna mmoja wenu aniulizaye, Unakwendapi?[/J]"
+        },
+        {
+          "chapter": 16,
+          "verse": 6,
+          "text": "[J]Ila kwa sababu nimewaambia hayo huzuni imejaa mioyoni mwenu.[/J]"
+        },
+        {
+          "chapter": 16,
+          "verse": 7,
+          "text": "[J]Lakini mimi nawaambia iliyo kweli; yawafaa ninyi mimi niondoke, kwa maana mimi nisipoondoka, huyo Msaidizi hatakuja kwenu; bali mimi nikienda zangu, nitampeleka kwenu.[/J]"
+        },
+        {
+          "chapter": 16,
+          "verse": 8,
+          "text": "[J]Naye akiisha kuja, huyo atauhakikisha ulimwengu kwa habari ya dhambi, na haki, na hukumu.[/J]"
+        },
+        {
+          "chapter": 16,
+          "verse": 9,
+          "text": "[J]Kwa habari ya dhambi, kwa sababu hawaniamini mimi;[/J]"
+        },
+        {
+          "chapter": 16,
+          "verse": 10,
+          "text": "[J]kwa habari ya haki, kwa sababu mimi naenda zangu kwa Baba, wala hamnioni tena;[/J]"
+        },
+        {
+          "chapter": 16,
+          "verse": 11,
+          "text": "[J]kwa habari ya hukumu, kwa sababu yule mkuu wa ulimwengu huu amekwisha kuhukumiwa.[/J]"
+        },
+        {
+          "chapter": 16,
+          "verse": 12,
+          "text": "[J]Hata bado nikali ninayo mengi ya kuwaambia, lakini hamwezi kuyastahimili hivi sasa.[/J]"
+        },
+        {
+          "chapter": 16,
+          "verse": 13,
+          "text": "[J]Lakini yeye atakapokuja, huyo Roho wa kweli, atawaongoza awatie kwenye kweli yote; kwa maana hatanena kwa shauri lake mwenyewe, lakini yote atakayoyasikia atayanena, na mambo yajayo atawapasha habari yake.[/J]"
+        },
+        {
+          "chapter": 16,
+          "verse": 14,
+          "text": "[J]Yeye atanitukuza mimi, kwa kuwa atatwaa katika yaliyo yangu na kuwapasha habari.[/J]"
+        },
+        {
+          "chapter": 16,
+          "verse": 15,
+          "text": "[J]Na yote aliyo nayo Baba ni yangu; kwa hiyo nalisema ya kwamba atatwaa katika yaliyo yangu, na kuwapasheni habari.[/J]"
+        },
+        {
+          "chapter": 16,
+          "verse": 16,
+          "text": "[J]Bado kitambo kidogo nanyi hamnioni; na tena bado kitambo kidogo nanyi mtaniona.[/J]"
+        },
+        {
+          "chapter": 16,
+          "verse": 17,
+          "text": "Basi baadhi ya wanafunzi wake wakasemezana, Neno gani hilo asemalo, [J]Bado kitambo kidogo nanyi hamnioni, na tena bado kitambo kidogo nanyi mtaniona[/J]? Na hilo, [J]Kwa sababu naenda zangu kwa Baba[/J]?"
+        },
+        {
+          "chapter": 16,
+          "verse": 18,
+          "text": "Basi walisema, Neno gani hilo asemalo; hilo, [J]Bado kitambo kidogo[/J]? Hatujui asemalo."
+        },
+        {
+          "chapter": 16,
+          "verse": 19,
+          "text": "Yesu alifahamu ya kwamba wanataka kumwuliza, akawaambia, [J]Ndilo hilo mnaloulizana, ya kuwa nalisema, Bado kitambo kidogo nanyi hamnioni, na tena bado kitambo kidogo nanyi mtaniona?[/J]"
+        },
+        {
+          "chapter": 16,
+          "verse": 20,
+          "text": "[J]Amin, amin, nawaambia, Ninyi mtalia na kuomboleza, bali ulimwengu utafurahi; ninyi mtahuzunishwa, lakini huzuni yenu itageuka kuwa furaha.[/J]"
+        },
+        {
+          "chapter": 16,
+          "verse": 21,
+          "text": "[J]Mwanamke azaapo, yuna huzuni kwa kuwa saa yake imefika; lakini akiisha kuzaa mwana, haikumbuki tena ile dhiki, kwa sababu ya furaha ya kuzaliwa mtu ulimwenguni.[/J]"
+        },
+        {
+          "chapter": 16,
+          "verse": 22,
+          "text": "[J]Basi ninyi hivi sasa mna huzuni; lakini mimi nitawaona tena; na mioyo yenu itafurahi, na furaha yenu hakuna awaondoleaye.[/J]"
+        },
+        {
+          "chapter": 16,
+          "verse": 23,
+          "text": "[J]Tena siku ile hamtaniuliza neno lo lote. Amin, amin, nawaambia, Mkimwomba Baba neno lo lote atawapa kwa jina langu.[/J]"
+        },
+        {
+          "chapter": 16,
+          "verse": 24,
+          "text": "[J]Hata sasa hamkuomba neno kwa jina langu; ombeni, nanyi mtapata; furaha yenu iwe timilifu.[/J]"
+        },
+        {
+          "chapter": 16,
+          "verse": 25,
+          "text": "[J]Hayo nimesema nanyi kwa mithali; saa yaja ambapo sitasema nanyi tena kwa mithali, lakini nitawapa waziwazi habari ya Baba.[/J]"
+        },
+        {
+          "chapter": 16,
+          "verse": 26,
+          "text": "[J]Na siku ile mtaomba kwa jina langu, wala siwaambii ya kwamba mimi nitawaombea kwa Baba;[/J]"
+        },
+        {
+          "chapter": 16,
+          "verse": 27,
+          "text": "[J]kwa maana Baba mwenyewe awapenda kwa kuwa ninyi mmenipenda mimi, na kusadiki ya kwamba mimi nalitoka kwa Baba.[/J]"
+        },
+        {
+          "chapter": 16,
+          "verse": 28,
+          "text": "[J]Nalitoka kwa Baba, nami nimekuja hapa ulimwenguni; tena nauacha ulimwengu; na kwenda kwa Baba.[/J]"
+        },
+        {
+          "chapter": 16,
+          "verse": 29,
+          "text": "Basi wanafunzi wake wakasema, Tazama, sasa wasema waziwazi, wala huneni mithali yo yote."
+        },
+        {
+          "chapter": 16,
+          "verse": 30,
+          "text": "Sasa tumejua ya kuwa wewe wafahamu mambo yote, wala huna haja ya mtu akuulize; kwa hiyo twasadiki ya kwamba ulitoka kwa Mungu."
+        },
+        {
+          "chapter": 16,
+          "verse": 31,
+          "text": "Yesu akawajibu, [J]Je! Mnasadiki sasa?[/J]"
+        },
+        {
+          "chapter": 16,
+          "verse": 32,
+          "text": "[J]Tazama, saa yaja, naam, imekwisha kuja, ambapo mtatawanyika kila mmoja kwao kwao, na kuniacha mimi peke yangu; walakini mimi si peke yangu, kwa kuwa Baba yupo pamoja nami.[/J]"
+        },
+        {
+          "chapter": 16,
+          "verse": 33,
+          "text": "[J]Hayo nimewaambieni mpate kuwa na amani ndani yangu. Ulimwenguni mnayo dhiki; lakini jipeni moyo; mimi nimeushinda ulimwengu.[/J]"
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 17,
+      "lastVerse": 26,
+      "verseUnitCount": 26,
+      "verses": [
+        {
+          "chapter": 17,
+          "verse": 1,
+          "text": "Maneno hayo aliyasema Yesu; akainua macho yake kuelekea mbinguni, akasema, [J]Baba, saa imekwisha kufika. Mtukuze Mwanao, ili Mwana wako naye akutukuze wewe;[/J]"
+        },
+        {
+          "chapter": 17,
+          "verse": 2,
+          "text": "[J]kama vile ulivyompa mamlaka juu ya wote wenye mwili, ili kwamba wote uliompa awape uzima wa milele.[/J]"
+        },
+        {
+          "chapter": 17,
+          "verse": 3,
+          "text": "[J]Na uzima wa milele ndio huu, Wakujue wewe, Mungu wa pekee wa kweli, na Yesu Kristo uliyemtuma.[/J]"
+        },
+        {
+          "chapter": 17,
+          "verse": 4,
+          "text": "[J]Mimi nimekutukuza duniani, hali nimeimaliza kazi ile uliyonipa niifanye.[/J]"
+        },
+        {
+          "chapter": 17,
+          "verse": 5,
+          "text": "[J]Na sasa, Baba, unitukuze mimi pamoja nawe, kwa utukufu ule niliokuwa nao pamoja nawe kabla ya ulimwengu kuwako.[/J]"
+        },
+        {
+          "chapter": 17,
+          "verse": 6,
+          "text": "[J]Jina lako nimewadhihirishia watu wale ulionipa katika ulimwengu; walikuwa wako, ukanipa mimi, na neno lako wamelishika.[/J]"
+        },
+        {
+          "chapter": 17,
+          "verse": 7,
+          "text": "[J]Sasa wamejua ya kuwa yote uliyonipa yatoka kwako.[/J]"
+        },
+        {
+          "chapter": 17,
+          "verse": 8,
+          "text": "[J]Kwa kuwa maneno uliyonipa nimewapa wao; nao wakayapokea, wakajua hakika ya kuwa nalitoka kwako, wakasadiki ya kwamba wewe ndiwe uliyenituma.[/J]"
+        },
+        {
+          "chapter": 17,
+          "verse": 9,
+          "text": "[J]Mimi nawaombea hao; siuombei ulimwengu; bali hao ulionipa, kwa kuwa hao ni wako;[/J]"
+        },
+        {
+          "chapter": 17,
+          "verse": 10,
+          "text": "[J]na wote walio wangu ni wako, na walio wako ni wangu; nami nimetukuzwa ndani yao.[/J]"
+        },
+        {
+          "chapter": 17,
+          "verse": 11,
+          "text": "[J]Wala mimi simo tena ulimwenguni, lakini hawa wamo ulimwenguni, nami naja kwako. Baba mtakatifu, kwa jina lako ulilonipa uwalinde hawa, ili wawe na umoja kama sisi tulivyo.[/J]"
+        },
+        {
+          "chapter": 17,
+          "verse": 12,
+          "text": "[J]Nilipokuwapo pamoja nao, mimi naliwalinda kwa jina lako ulilonipa, nikawatunza; wala hapana mmojawapo wao aliyepotea, ila yule mwana wa upotevu, ili andiko litimie.[/J]"
+        },
+        {
+          "chapter": 17,
+          "verse": 13,
+          "text": "[J]Na sasa naja kwako; na maneno haya nayasema ulimwenguni, ili wawe na furaha yangu imetimizwa ndani yao.[/J]"
+        },
+        {
+          "chapter": 17,
+          "verse": 14,
+          "text": "[J]Mimi nimewapa neno lako; na ulimwengu umewachukia; kwa kuwa wao si wa ulimwengu, kama mimi nisivyo wa ulimwengu.[/J]"
+        },
+        {
+          "chapter": 17,
+          "verse": 15,
+          "text": "[J]Mimi siombi kwamba uwatoe katika ulimwengu; bali uwalinde na yule mwovu.[/J]"
+        },
+        {
+          "chapter": 17,
+          "verse": 16,
+          "text": "[J]Wao si wa ulimwengu, kama mimi nisivyo wa ulimwengu.[/J]"
+        },
+        {
+          "chapter": 17,
+          "verse": 17,
+          "text": "[J]Uwatakase kwa ile kweli; neno lako ndiyo kweli.[/J]"
+        },
+        {
+          "chapter": 17,
+          "verse": 18,
+          "text": "[J]Kama vile ulivyonituma mimi ulimwenguni, nami vivyo hivyo naliwatuma hao ulimwenguni.[/J]"
+        },
+        {
+          "chapter": 17,
+          "verse": 19,
+          "text": "[J]Na kwa ajili yao najiweka wakfu mwenyewe, ili na hao watakaswe katika kweli.[/J]"
+        },
+        {
+          "chapter": 17,
+          "verse": 20,
+          "text": "[J]Wala si hao tu ninaowaombea; lakini na wale watakaoniamini kwa sababu ya neno lao.[/J]"
+        },
+        {
+          "chapter": 17,
+          "verse": 21,
+          "text": "[J]Wote wawe na umoja; kama wewe, Baba, ulivyo ndani yangu, nami ndani yako; hao nao wawe ndani yetu; ili ulimwengu upate kusadiki ya kwamba wewe ndiwe uliyenituma.[/J]"
+        },
+        {
+          "chapter": 17,
+          "verse": 22,
+          "text": "[J]Nami utukufu ule ulionipa nimewapa wao; ili wawe na umoja kama sisi tulivyo umoja.[/J]"
+        },
+        {
+          "chapter": 17,
+          "verse": 23,
+          "text": "[J]Mimi ndani yao, nawe ndani yangu, ili wawe wamekamilika katika umoja; ili ulimwengu ujue ya kuwa ndiwe uliyenituma, ukawapenda wao kama ulivyonipenda mimi.[/J]"
+        },
+        {
+          "chapter": 17,
+          "verse": 24,
+          "text": "[J]Baba, hao ulionipa nataka wawe pamoja nami po pote nilipo, wapate na kuutazama utukufu wangu ulionipa; kwa maana ulinipenda kabla ya kuwekwa msingi ulimwengu.[/J]"
+        },
+        {
+          "chapter": 17,
+          "verse": 25,
+          "text": "[J]Baba mwenye haki, ulimwengu haukukujua; lakini mimi nalikujua, na hao wamejua ya kuwa ndiwe uliyenituma.[/J]"
+        },
+        {
+          "chapter": 17,
+          "verse": 26,
+          "text": "[J]Nami naliwajulisha jina lako, tena nitawajulisha hilo; ili pendo lile ulilonipenda mimi liwe ndani yao, nami niwe ndani yao.[/J]"
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 18,
+      "lastVerse": 40,
+      "verseUnitCount": 40,
+      "verses": [
+        {
+          "chapter": 18,
+          "verse": 1,
+          "text": "Alipokwisha kusema hayo, Yesu alitoka pamoja na wanafunzi wake kwenda ng’ambo ya kijito Kedroni, palipokuwapo bustani; akaingia yeye na wanafunzi wake."
+        },
+        {
+          "chapter": 18,
+          "verse": 2,
+          "text": "Naye Yuda, yule aliyetaka kumsaliti, alipajua mahali pale; kwa sababu Yesu alikuwa akienda huko mara nyingi pamoja na wanafunzi wake."
+        },
+        {
+          "chapter": 18,
+          "verse": 3,
+          "text": "Basi Yuda, akiisha kupokea kikosi cha askari na watumishi waliotoka kwa wakuu wa makuhani na Mafarisayo, akaenda huko na taa na mienge na silaha."
+        },
+        {
+          "chapter": 18,
+          "verse": 4,
+          "text": "Basi Yesu, hali akijua yote yatakayompata, akatokea, akawaambia, [J]Ni nani mnayemtafuta?[/J]"
+        },
+        {
+          "chapter": 18,
+          "verse": 5,
+          "text": "Wao wakamjibu, Ni Yesu Mnazareti. Yesu akawaambia, [J]Ni mimi.[/J] Yuda naye aliyemsaliti alikuwa amesimama pamoja nao."
+        },
+        {
+          "chapter": 18,
+          "verse": 6,
+          "text": "Basi alipowaambia, [J]Ni mimi,[/J] walirudi nyuma, wakaanguka chini."
+        },
+        {
+          "chapter": 18,
+          "verse": 7,
+          "text": "Basi akawauliza tena, [J]Mnamtafuta nani?[/J] Wakasema, Yesu Mnazareti."
+        },
+        {
+          "chapter": 18,
+          "verse": 8,
+          "text": "Yesu akajibu, [J]Nimekwisha kuwaambieni ya kwamba ni mimi; basi ikiwa mnanitafuta mimi, waacheni hawa waende zao.[/J]"
+        },
+        {
+          "chapter": 18,
+          "verse": 9,
+          "text": "Ili litimizwe lile neno alilolisema, [J]Wale ulionipa sikumpoteza hata mmoja wao.[/J]"
+        },
+        {
+          "chapter": 18,
+          "verse": 10,
+          "text": "Basi Simoni Petro alikuwa na upanga, akaufuta, akampiga mtumwa wa Kuhani Mkuu, akamkata sikio la kuume. Na yule mtumwa jina lake ni Malko."
+        },
+        {
+          "chapter": 18,
+          "verse": 11,
+          "text": "Basi Yesu akamwambia Petro, [J]Rudisha upanga alani mwake; je! Kikombe alichonipa Baba, mimi nisikinywee?[/J]"
+        },
+        {
+          "chapter": 18,
+          "verse": 12,
+          "text": "Basi wale askari na yule jemadari na wale watumishi wa Wayahudi walimkamata Yesu, wakamfunga."
+        },
+        {
+          "chapter": 18,
+          "verse": 13,
+          "text": "Wakamchukua kwa Anasi kwanza; maana alikuwa mkwewe Kayafa, yule aliyekuwa Kuhani Mkuu mwaka ule."
+        },
+        {
+          "chapter": 18,
+          "verse": 14,
+          "text": "Naye Kayafa ndiye yule aliyewapa Wayahudi lile shauri ya kwamba yafaa mtu mmoja afe kwa ajili ya watu."
+        },
+        {
+          "chapter": 18,
+          "verse": 15,
+          "text": "Wakamfuata Yesu, Petro na mwanafunzi mwingine. Na mwanafunzi huyo alikuwa amejulikana na Kuhani Mkuu, akaingia pamoja na Yesu katika behewa ya Kuhani Mkuu."
+        },
+        {
+          "chapter": 18,
+          "verse": 16,
+          "text": "Lakini Petro akasimama nje mlangoni. Basi yule mwanafunzi mwingine aliyejulikana na Kuhani Mkuu akatoka, akasema na mngoja mlango, akamleta Petro ndani."
+        },
+        {
+          "chapter": 18,
+          "verse": 17,
+          "text": "Basi yule kijakazi, aliyekuwa mngoja mlango, akamwambia Petro, Wewe nawe, je! Hu mwanafunzi mmojawapo wa mtu huyu? Naye akasema, Si mimi."
+        },
+        {
+          "chapter": 18,
+          "verse": 18,
+          "text": "Na wale watumwa na watumishi walikuwa wakisimama, wamefanya moto wa makaa; maana ilikuwa baridi; wakawa wakikota moto. Petro naye alikuwapo pamoja nao, anakota moto."
+        },
+        {
+          "chapter": 18,
+          "verse": 19,
+          "text": "Basi Kuhani Mkuu akamwuliza Yesu habari za wanafunzi wake, na habari za mafundisho yake."
+        },
+        {
+          "chapter": 18,
+          "verse": 20,
+          "text": "Yesu akamjibu, [J]Mimi nimesema na ulimwengu waziwazi; sikuzote nalifundisha katika sinagogi na katika hekalu, wakusanyikapo Wayahudi wote; wala kwa siri mimi sikusema neno lo lote.[/J]"
+        },
+        {
+          "chapter": 18,
+          "verse": 21,
+          "text": "[J]Ya nini kuniuliza mimi? Waulize wale waliosikia ni nini niliyowaambia; wao wanajua niliyoyanena.[/J]"
+        },
+        {
+          "chapter": 18,
+          "verse": 22,
+          "text": "Basi aliposema hayo, mtumishi mmojawapo aliyesimama karibu alimpiga Yesu kofi akisema, Wamjibu hivi Kuhani Mkuu?"
+        },
+        {
+          "chapter": 18,
+          "verse": 23,
+          "text": "Yesu akamjibu, [J]Kama nimesema vibaya, ushuhudie ule ubaya; bali kama nimesema vema, wanipigia nini?[/J]"
+        },
+        {
+          "chapter": 18,
+          "verse": 24,
+          "text": "Basi Anasi akampeleka hali amefungwa kwa Kayafa, Kuhani Mkuu."
+        },
+        {
+          "chapter": 18,
+          "verse": 25,
+          "text": "Na Simoni Petro alikuwa akisimama huko, anakota moto. Basi wakamwambia, Wewe nawe, je! Hu mwanafunzi wake mmojawapo? Naye akakana, akasema, Si mimi."
+        },
+        {
+          "chapter": 18,
+          "verse": 26,
+          "text": "Mtumwa mmojawapo wa Kuhani Mkuu, naye ni jamaa yake yule aliyekatwa sikio na Petro, akasema, Je! Mimi sikukuona wewe bustanini pamoja naye?"
+        },
+        {
+          "chapter": 18,
+          "verse": 27,
+          "text": "Basi Petro akakana tena, na mara akawika jimbi."
+        },
+        {
+          "chapter": 18,
+          "verse": 28,
+          "text": "Kisha wakamchukua Yesu kutoka kwa Kayafa mpaka Praitorio, nayo ikawa alfajiri; lakini wao wenyewe hawakuingia ndani ya ile Praitorio, wasije wakanajisika, bali wapate kuila Pasaka."
+        },
+        {
+          "chapter": 18,
+          "verse": 29,
+          "text": "Basi Pilato akawatokea nje, akasema, Ni mashitaka gani mnayoleta juu ya mtu huyu?"
+        },
+        {
+          "chapter": 18,
+          "verse": 30,
+          "text": "Wakajibu, wakamwambia, Kama huyu asingekuwa mtenda mabaya, tusingemleta kwako."
+        },
+        {
+          "chapter": 18,
+          "verse": 31,
+          "text": "Basi Pilato akawaambia, Haya! Mtwaeni ninyi, mkamhukumu kwa ile torati yenu! Wayahudi wakamwambia, Sisi hatuna ruhusa ya kuua mtu."
+        },
+        {
+          "chapter": 18,
+          "verse": 32,
+          "text": "Ili litimie lile neno lake Yesu alilolisema, akionyesha ni mauti gani atakayokufa."
+        },
+        {
+          "chapter": 18,
+          "verse": 33,
+          "text": "Basi Pilato akaingia tena ndani ya Praitorio, akamwita Yesu, akamwambia, Je! Wewe ni Mfalme wa Wayahudi?"
+        },
+        {
+          "chapter": 18,
+          "verse": 34,
+          "text": "Yesu akamjibu, [J]Wewe wasema hivi kwa nafsi yako, au watu wengine walikuambia habari zangu?[/J]"
+        },
+        {
+          "chapter": 18,
+          "verse": 35,
+          "text": "Pilato akajibu, Ama! Ni Myahudi mimi! Taifa lako na wakuu wa makuhani ndio waliokuleta kwangu. Umefanya nini?"
+        },
+        {
+          "chapter": 18,
+          "verse": 36,
+          "text": "Yesu akajibu, [J]Ufalme wangu sio wa ulimwengu huu. Kama ufalme wangu ungekuwa wa ulimwengu huu, watumishi wangu wangenipigania, nisije nikatiwa mikononi mwa Wayahudi. Lakini ufalme wangu sio wa hapa.[/J]"
+        },
+        {
+          "chapter": 18,
+          "verse": 37,
+          "text": "Basi Pilato akamwambia, Wewe u mfalme basi? Yesu akajibu, [J]Wewe wasema, kwa kuwa mimi ni mfalme. Mimi nimezaliwa kwa ajili ya haya, na kwa ajili ya haya mimi nalikuja ulimwenguni, ili niishuhudie kweli. Kila aliye wa hiyo kweli hunisikia sauti yangu.[/J]"
+        },
+        {
+          "chapter": 18,
+          "verse": 38,
+          "text": "Pilato akamwambia, Kweli ni nini? Naye akiisha kusema neno hilo akawatokea Wayahudi tena, akawaambia, Mimi sioni hatia yo yote kwake."
+        },
+        {
+          "chapter": 18,
+          "verse": 39,
+          "text": "Lakini kwenu kuna desturi ya mimi kuwafungulia mtu mmoja wakati wa Pasaka; basi, mwapenda niwafungulie Mfalme wa Wayahudi?"
+        },
+        {
+          "chapter": 18,
+          "verse": 40,
+          "text": "Basi wakapiga kelele tena kusema, Si huyu, bali Baraba. Naye yule Baraba alikuwa mnyang’anyi. i."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 19,
+      "lastVerse": 42,
+      "verseUnitCount": 42,
+      "verses": [
+        {
+          "chapter": 19,
+          "verse": 1,
+          "text": "Basi ndipo Pilato alipomtwaa Yesu, akampiga mijeledi."
+        },
+        {
+          "chapter": 19,
+          "verse": 2,
+          "text": "Nao askari wakasokota taji ya miiba, wakamtia kichwani, wakamvika vazi la zambarau."
+        },
+        {
+          "chapter": 19,
+          "verse": 3,
+          "text": "Wakawa wakimwendea, wakisema, Salamu! Mfalme wa Wayahudi! Wakampiga makofi."
+        },
+        {
+          "chapter": 19,
+          "verse": 4,
+          "text": "Kisha Pilato akatokea tena nje, akawaambia, Mtu huyu namleta nje kwenu, mpate kufahamu ya kuwa mimi sioni hatia yo yote kwake."
+        },
+        {
+          "chapter": 19,
+          "verse": 5,
+          "text": "Ndipo Yesu alipotoka nje, naye amevaa ile taji ya miiba, na lile vazi la zambarau. Pilato akawaambia, Tazama, mtu huyu!"
+        },
+        {
+          "chapter": 19,
+          "verse": 6,
+          "text": "Basi wale wakuu wa makuhani na watumishi wao walipomwona, walipiga kelele wakisema, Msulibishe! Msulibishe! Pilato akawaambia, Mtwaeni ninyi basi, mkamsulibishe; kwa maana mimi sioni hatia kwake."
+        },
+        {
+          "chapter": 19,
+          "verse": 7,
+          "text": "Wayahudi wakamjibu, Sisi tunayo sheria, na kwa sheria hiyo amestahili kufa, kwa sababu alijifanya kuwa Mwana wa Mungu."
+        },
+        {
+          "chapter": 19,
+          "verse": 8,
+          "text": "Basi Pilato aliposikia neno hilo, akazidi kuogopa."
+        },
+        {
+          "chapter": 19,
+          "verse": 9,
+          "text": "Akaingia tena ndani ya ile Praitorio, akamwambia Yesu, Wewe umetokapi? Lakini Yesu hakumpa jibu lo lote."
+        },
+        {
+          "chapter": 19,
+          "verse": 10,
+          "text": "Basi Pilato akamwambia, Husemi nami? Hujui ya kuwa mimi nina mamlaka ya kukufungua, nami nina mamlaka ya kukusulibisha?"
+        },
+        {
+          "chapter": 19,
+          "verse": 11,
+          "text": "Yesu akamjibu, [J]Wewe hungekuwa na mamlaka yo yote juu yangu, kama usingepewa kutoka juu; kwa hiyo yeye aliyenitia mikononi mwako yuna dhambi iliyo kubwa zaidi.[/J]"
+        },
+        {
+          "chapter": 19,
+          "verse": 12,
+          "text": "Na tangu hapo Pilato akatafuta kumfungua; lakini Wayahudi wakapiga makelele wakisema, Ukimfungua huyu, wewe si rafiki yake Kaisari; kila mtu ajifanyaye kuwa mfalme humfitini Kaisari."
+        },
+        {
+          "chapter": 19,
+          "verse": 13,
+          "text": "Basi Pilato, aliposikia maneno hayo, akamleta Yesu nje, akaketi juu ya kiti cha hukumu, mahali paitwapo Sakafu ya Mawe, au kwa Kiebrania, Gabatha."
+        },
+        {
+          "chapter": 19,
+          "verse": 14,
+          "text": "Nayo ilikuwa Maandalio ya pasaka, yapata saa sita. Akawaambia Wayahudi, Tazama, Mfalme wenu!"
+        },
+        {
+          "chapter": 19,
+          "verse": 15,
+          "text": "Basi wale wakapiga kelele, Mwondoshe! Mwondoshe! Msulibishe! Pilato akawaambia, Je! Nimsulibishe mfalme wenu! Wakuu wa makuhani wakamjibu, Sisi hatuna mfalme ila Kaisari."
+        },
+        {
+          "chapter": 19,
+          "verse": 16,
+          "text": "Basi ndipo alipomtia mikononi mwao ili asulibiwe; nao wakampokea Yesu."
+        },
+        {
+          "chapter": 19,
+          "verse": 17,
+          "text": "Akatoka, hali akijichukulia msalaba wake, mpaka mahali paitwapo Fuvu la Kichwa, au kwa Kiebrania, Golgotha."
+        },
+        {
+          "chapter": 19,
+          "verse": 18,
+          "text": "Wakamsulibisha huko, na wengine wawili pamoja naye, mmoja huku na mmoja huku, na Yesu katikati."
+        },
+        {
+          "chapter": 19,
+          "verse": 19,
+          "text": "Naye Pilato akaandika anwani, akaiweka juu ya msalaba, imeandikwa, YESU MNAZARETI, MFALME WA WAYAHUDI."
+        },
+        {
+          "chapter": 19,
+          "verse": 20,
+          "text": "Basi anwani hiyo waliisoma wengi katika Wayahudi; maana mahali pale aliposulibiwa Yesu palikuwa karibu na mji; nayo iliandikwa kwa Kiebrania, na Kirumi, na Kiyunani."
+        },
+        {
+          "chapter": 19,
+          "verse": 21,
+          "text": "Basi wakuu wa makuhani na Wayahudi wakamwambia Pilato, Usiandike, Mfalme wa Wayahudi; bali ya kwamba yule alisema, Mimi ni mfalme wa Wayahudi."
+        },
+        {
+          "chapter": 19,
+          "verse": 22,
+          "text": "Pilato akajibu, Niliyoandika nimeyaandika."
+        },
+        {
+          "chapter": 19,
+          "verse": 23,
+          "text": "Nao askari walipomsulibisha Yesu, waliyatwaa mavazi yake, wakafanya mafungu manne, kwa kila askari fungu lake; na kanzu nayo. Basi kanzu ile haikushonwa, ilikuwa imefumwa yote pia tangu juu."
+        },
+        {
+          "chapter": 19,
+          "verse": 24,
+          "text": "Basi wakaambiana, Tusiipasue, lakini tuipigie kura, iwe ya nani. Ili litimie andiko lile linenalo, Waligawanya nguo zangu, Na vazi langu wakalipigia kura. Basi ndivyo walivyofanya wale askari."
+        },
+        {
+          "chapter": 19,
+          "verse": 25,
+          "text": "Na penye msalaba wake Yesu walikuwa wamesimama mamaye, na umbu la mamaye, Mariamu wa Klopa, na Mariamu Magdalene."
+        },
+        {
+          "chapter": 19,
+          "verse": 26,
+          "text": "Basi Yesu alipomwona mama yake, na yule mwanafunzi aliyempenda amesimama karibu, alimwambia mama yake, [J]Mama, tazama, mwanao.[/J]"
+        },
+        {
+          "chapter": 19,
+          "verse": 27,
+          "text": "Kisha akamwambia yule mwanafunzi, [J]Tazama, mama yako.[/J] Na tangu saa ile mwanafunzi yule akamchukua nyumbani kwake."
+        },
+        {
+          "chapter": 19,
+          "verse": 28,
+          "text": "Baada ya hayo Yesu, hali akijua ya kuwa yote yamekwisha kumalizika ili andiko litimizwe, akasema, [J]Naona kiu.[/J]"
+        },
+        {
+          "chapter": 19,
+          "verse": 29,
+          "text": "Kulikuwako huko chombo kimejaa siki; basi wakatia sifongo iliyojaa siki juu ya ufito wa hisopo, wakampelekea kinywani."
+        },
+        {
+          "chapter": 19,
+          "verse": 30,
+          "text": "Basi Yesu alipokwisha kuipokea ile siki, alisema, [J]Imekwisha.[/J] Akainama kichwa, akaisalimu roho yake."
+        },
+        {
+          "chapter": 19,
+          "verse": 31,
+          "text": "Basi Wayahudi, kwa sababu ni Maandalio, miili isikae juu ya misalaba siku ya sabato, (maana sabato ile ilikuwa siku kubwa), walimwomba Pilato miguu yao ivunjwe, wakaondolewe."
+        },
+        {
+          "chapter": 19,
+          "verse": 32,
+          "text": "Basi askari wakaenda, wakamvunja miguu wa kwanza, na wa pili, aliyesulibiwa pamoja naye."
+        },
+        {
+          "chapter": 19,
+          "verse": 33,
+          "text": "Lakini walipomjia Yesu na kuona ya kuwa amekwisha kufa, hawakumvunja miguu;"
+        },
+        {
+          "chapter": 19,
+          "verse": 34,
+          "text": "lakini askari mmojawapo alimchoma ubavu kwa mkuki; na mara ikatoka damu na maji."
+        },
+        {
+          "chapter": 19,
+          "verse": 35,
+          "text": "Naye aliyeona ameshuhudia, na ushuhuda wake ni kweli; naye anajua ya kuwa anasema kweli ili ninyi nanyi mpate kusadiki."
+        },
+        {
+          "chapter": 19,
+          "verse": 36,
+          "text": "Kwa maana hayo yalitukia ili andiko litimie, Hapana mfupa wake utakaovunjwa."
+        },
+        {
+          "chapter": 19,
+          "verse": 37,
+          "text": "Na tena andiko lingine lanena, Watamtazama yeye waliyemchoma."
+        },
+        {
+          "chapter": 19,
+          "verse": 38,
+          "text": "Hata baada ya hayo Yusufu wa Arimathaya, naye ni mwanafunzi wa Yesu, (lakini kwa siri, kwa hofu ya Wayahudi), alimwomba Pilato ruhusa ili auondoe mwili wake Yesu. Na Pilato akampa ruhusa. Basi akaenda, akauondoa mwili wake."
+        },
+        {
+          "chapter": 19,
+          "verse": 39,
+          "text": "Akaenda Nikodemo naye, (yule aliyemwendea usiku hapo kwanza), akaleta machanganyiko ya manemane na uudi, yapata ratli mia."
+        },
+        {
+          "chapter": 19,
+          "verse": 40,
+          "text": "Basi wakautwaa mwili wake Yesu, wakaufunga sanda ya kitani pamoja na yale manukato, kama ilivyo desturi ya Wayahudi katika kuzika."
+        },
+        {
+          "chapter": 19,
+          "verse": 41,
+          "text": "Na pale pale aliposulibiwa palikuwa na bustani; na ndani ya bustani mna kaburi jipya, ambalo hajatiwa bado mtu ye yote ndani yake."
+        },
+        {
+          "chapter": 19,
+          "verse": 42,
+          "text": "Humo basi, kwa sababu ya Maandalio ya Wayahudi, wakamweka Yesu; maana lile kaburi lilikuwa karib"
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 20,
+      "lastVerse": 31,
+      "verseUnitCount": 31,
+      "verses": [
+        {
+          "chapter": 20,
+          "verse": 1,
+          "text": "Hata siku ya kwanza ya juma Mariamu Magdalene alikwenda kaburini alfajiri, kungali giza bado; akaliona lile jiwe limeondolewa kaburini."
+        },
+        {
+          "chapter": 20,
+          "verse": 2,
+          "text": "Basi akaenda mbio, akafika kwa Simoni Petro na kwa yule mwanafunzi mwingine ambaye Yesu alimpenda, akawaambia, Wamemwondoa Bwana kaburini, wala hatujui walikomweka."
+        },
+        {
+          "chapter": 20,
+          "verse": 3,
+          "text": "Basi Petro akatoka, na yule mwanafunzi mwingine, wakashika njia kwenda kaburini."
+        },
+        {
+          "chapter": 20,
+          "verse": 4,
+          "text": "Wakaenda mbio wote wawili; na yule mwanafunzi mwingine akaenda mbio upesi kuliko Petro, akawa wa kwanza kufika kaburini."
+        },
+        {
+          "chapter": 20,
+          "verse": 5,
+          "text": "Akainama na kuchungulia, akaona vitambaa vya sanda vimelala; lakini hakuingia."
+        },
+        {
+          "chapter": 20,
+          "verse": 6,
+          "text": "Basi akaja na Simoni Petro, akaingia ndani ya kaburi; akavitazama vitambaa vilivyolala,"
+        },
+        {
+          "chapter": 20,
+          "verse": 7,
+          "text": "na ile leso iliyokuwako kichwani pake; haikulala pamoja na vitambaa, bali imezongwa-zongwa mbali mahali pa peke yake."
+        },
+        {
+          "chapter": 20,
+          "verse": 8,
+          "text": "Basi ndipo alipoingia naye yule mwanafunzi mwingine aliyekuwa wa kwanza wa kufika kaburini, akaona na kuamini."
+        },
+        {
+          "chapter": 20,
+          "verse": 9,
+          "text": "Kwa maana hawajalifahamu bado andiko, ya kwamba imempasa kufufuka."
+        },
+        {
+          "chapter": 20,
+          "verse": 10,
+          "text": "Basi wale wanafunzi wakaenda zao tena nyumbani kwao."
+        },
+        {
+          "chapter": 20,
+          "verse": 11,
+          "text": "Lakini Mariamu alikuwa akisimama karibu na kaburi, nje yake, analia. Basi akilia hivi, aliinama na kuchungulia ndani ya kaburi."
+        },
+        {
+          "chapter": 20,
+          "verse": 12,
+          "text": "Akaona malaika wawili, wenye mavazi meupe, wameketi, mmoja kichwani na mmoja miguuni, hapo ulipolazwa mwili wake Yesu."
+        },
+        {
+          "chapter": 20,
+          "verse": 13,
+          "text": "Nao wakamwambia, Mama, unalilia nini? Akawaambia, Kwa sababu wamemwondoa Bwana wangu, wala mimi sijui walikomweka."
+        },
+        {
+          "chapter": 20,
+          "verse": 14,
+          "text": "Naye akiisha kusema hayo, akageuka nyuma, akamwona Yesu amesimama, asijue ya kuwa ni Yesu."
+        },
+        {
+          "chapter": 20,
+          "verse": 15,
+          "text": "Yesu akamwambia, [J]Mama, unalilia nini? Unamtafuta nani?[/J] Naye, huku akidhania ya kuwa ni mtunza bustani, akamwambia, Bwana, ikiwa umemchukua wewe, uniambie ulipomweka, nami nitamwondoa."
+        },
+        {
+          "chapter": 20,
+          "verse": 16,
+          "text": "Yesu akamwambia, [J]Mariamu.[/J] Yeye akageuka, akamwambia kwa Kiebrania, Raboni! (Yaani, Mwalimu wangu)."
+        },
+        {
+          "chapter": 20,
+          "verse": 17,
+          "text": "Yesu akamwambia. [J]Usinishike; kwa maana sijapaa kwenda kwa Baba. Lakini enenda kwa ndugu zangu ukawaambie, Ninapaa kwenda kwa Baba yangu naye ni Baba yenu, kwa Mungu wangu naye ni Mungu wenu.[/J]"
+        },
+        {
+          "chapter": 20,
+          "verse": 18,
+          "text": "Mariamu Magdalene akaenda, akawapasha wanafunzi habari ya kwamba, Nimemwona Bwana, na ya kwamba amemwambia hayo."
+        },
+        {
+          "chapter": 20,
+          "verse": 19,
+          "text": "Ikawa jioni, siku ile ya kwanza ya juma, pale walipokuwapo wanafunzi, milango imefungwa kwa hofu ya Wayahudi; akaja Yesu, akasimama katikati, akawaambia, [J]Amani iwe kwenu.[/J]"
+        },
+        {
+          "chapter": 20,
+          "verse": 20,
+          "text": "Naye akiisha kusema hayo, akawaonyesha mikono yake na ubavu wake. Basi wale wanafunzi wakafurahi walipomwona Bwana."
+        },
+        {
+          "chapter": 20,
+          "verse": 21,
+          "text": "Basi Yesu akawaambia tena, [J]Amani iwe kwenu; kama Baba alivyonituma mimi, mimi nami nawapeleka ninyi.[/J]"
+        },
+        {
+          "chapter": 20,
+          "verse": 22,
+          "text": "Naye akiisha kusema hayo, akawavuvia, akawaambia, [J]Pokeeni Roho Mtakatifu.[/J]"
+        },
+        {
+          "chapter": 20,
+          "verse": 23,
+          "text": "[J]Wo wote mtakaowaondolea dhambi, wameondolewa; na wo wote mtakaowafungia dhambi, wamefungiwa.[/J]"
+        },
+        {
+          "chapter": 20,
+          "verse": 24,
+          "text": "Walakini mmoja wa wale Thenashara, Tomaso, aitwaye Pacha, hakuwako pamoja nao alipokuja Yesu."
+        },
+        {
+          "chapter": 20,
+          "verse": 25,
+          "text": "Basi wanafunzi wengine wakamwambia, Tumemwona Bwana. Akawaambia, Mimi nisipoziona mikononi mwake kovu za misumari, na kutia kidole changu katika mahali pa misumari, na kutia mkono wangu katika ubavu wake, mimi sisadiki hata kidogo."
+        },
+        {
+          "chapter": 20,
+          "verse": 26,
+          "text": "Basi, baada ya siku nane, wanafunzi wake walikuwamo ndani tena, na Tomaso pamoja nao. Akaja Yesu, na milango imefungwa, akasimama katikati, akasema, [J]Amani iwe kwenu.[/J]"
+        },
+        {
+          "chapter": 20,
+          "verse": 27,
+          "text": "Kisha akamwambia Tomaso, [J]Lete hapa kidole chako; uitazame mikono yangu; ulete na mkono wako uutie ubavuni mwangu, wala usiwe asiyeamini, bali aaminiye.[/J]"
+        },
+        {
+          "chapter": 20,
+          "verse": 28,
+          "text": "Tomaso akajibu, akamwambia, Bwana wangu na Mungu wangu!"
+        },
+        {
+          "chapter": 20,
+          "verse": 29,
+          "text": "Yesu akamwambia, [J]Wewe, kwa kuwa umeniona, umesadiki; wa heri wale wasioona, wakasadiki.[/J]"
+        },
+        {
+          "chapter": 20,
+          "verse": 30,
+          "text": "Basi kuna ishara nyingine nyingi alizozifanya Yesu mbele ya wanafunzi wake, zisizoandikwa katika kitabu hiki."
+        },
+        {
+          "chapter": 20,
+          "verse": 31,
+          "text": "Lakini hizi zimeandikwa ili mpate kuamini ya kwamba Yesu ndiye Kristo, Mwana wa Mungu; na kwa kuamini mwe na uzima kwa jina lake."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 21,
+      "lastVerse": 25,
+      "verseUnitCount": 25,
+      "verses": [
+        {
+          "chapter": 21,
+          "verse": 1,
+          "text": "Baada ya hayo Yesu alijidhihirisha tena kwa wanafunzi wake, penye bahari ya Tiberia, naye alijidhihirisha hivi."
+        },
+        {
+          "chapter": 21,
+          "verse": 2,
+          "text": "Simoni Petro, na Tomaso aitwaye Pacha, na Nathanaeli wa Kana ya Galilaya, na wana wa Zebedayo, na wengine wawili wa wanafunzi wake, walikuwapo pamoja."
+        },
+        {
+          "chapter": 21,
+          "verse": 3,
+          "text": "Simoni Petro aliwaambia, Naenda kuvua samaki. Nao wakamwambia, Sisi nasi tutakwenda nawe. Basi wakaondoka, wakapanda chomboni; ila usiku ule hawakupata kitu."
+        },
+        {
+          "chapter": 21,
+          "verse": 4,
+          "text": "Hata asubuhi kulipokucha, Yesu alisimama ufuoni; walakini wanafunzi hawakujua ya kuwa ni Yesu."
+        },
+        {
+          "chapter": 21,
+          "verse": 5,
+          "text": "Basi Yesu akawaambia, [J]Wanangu, mna kitoweo?[/J] Wakamjibu, La."
+        },
+        {
+          "chapter": 21,
+          "verse": 6,
+          "text": "Akawaambia, [J]Litupeni jarife upande wa kuume wa chombo, nanyi mtapata.[/J] Basi wakatupa; wala sasa hawakuweza kulivuta tena kwa sababu ya wingi wa samaki."
+        },
+        {
+          "chapter": 21,
+          "verse": 7,
+          "text": "Basi yule mwanafunzi ambaye Yesu alimpenda akamwambia Petro, Ndiye Bwana. Naye Simoni Petro, aliposikia ya kwamba ni Bwana, akajifunga vazi lake, (maana alikuwa uchi), akajitupa baharini."
+        },
+        {
+          "chapter": 21,
+          "verse": 8,
+          "text": "Na hao wanafunzi wengine wakaja katika mashua; maana hawakuwa mbali na nchi kavu; ila yapata dhiraa mia mbili; huku wakilikokota lile jarife lenye samaki."
+        },
+        {
+          "chapter": 21,
+          "verse": 9,
+          "text": "Basi waliposhuka pwani, wakaona huko moto wa makaa, na juu yake pametiwa samaki, na mkate."
+        },
+        {
+          "chapter": 21,
+          "verse": 10,
+          "text": "Yesu akawaambia, [J]Leteni hapa baadhi ya samaki mliowavua sasa hivi.[/J]"
+        },
+        {
+          "chapter": 21,
+          "verse": 11,
+          "text": "Basi Simoni Petro akapanda chomboni, akalivuta jarife pwani, limejaa samaki wakubwa, mia hamsini na watatu; na ijapokuwa ni wengi namna hiyo, jarife halikupasuka."
+        },
+        {
+          "chapter": 21,
+          "verse": 12,
+          "text": "Yesu akawaambia, [J]Njoni mfungue kinywa.[/J] Wala hakuna mtu katika wale wanafunzi aliyethubutu kumwuliza, U nani wewe? Wakijua ya kuwa ni Bwana."
+        },
+        {
+          "chapter": 21,
+          "verse": 13,
+          "text": "Yesu akaenda akautwaa mkate, akawapa, na samaki vivyo hivyo."
+        },
+        {
+          "chapter": 21,
+          "verse": 14,
+          "text": "Hiyo ndiyo mara ya tatu ya Yesu kuonekana na wanafunzi wake baada ya kufufuka katika wafu."
+        },
+        {
+          "chapter": 21,
+          "verse": 15,
+          "text": "Basi walipokwisha kula, Yesu akamwambia Simoni Petro, [J]Je! Simoni wa Yohana, wewe wanipenda kuliko hawa?[/J] Akamwambia, Naam, Bwana, wewe wajua kuwa nakupenda. Akamwambia, [J]Lisha wana-kondoo wangu.[/J]"
+        },
+        {
+          "chapter": 21,
+          "verse": 16,
+          "text": "Akamwambia tena mara ya pili, [J]Simoni wa Yohana, wanipenda?[/J] Akamwambia, Ndiyo, Bwana, wewe wajua kuwa nakupenda. Akamwambia, [J]Chunga kondoo zangu.[/J]"
+        },
+        {
+          "chapter": 21,
+          "verse": 17,
+          "text": "Akamwambia mara ya tatu, [J]Simoni wa Yohana, wanipenda?[/J] Petro alihuzunika kwa vile alivyomwambia mara ya tatu, [J]Wanipenda?[/J] Akamwambia, Bwana, wewe wajua yote; wewe umetambua ya kuwa nakupenda. Yesu akamwambia, [J]Lisha kondoo zangu.[/J]"
+        },
+        {
+          "chapter": 21,
+          "verse": 18,
+          "text": "Akasema, [J]Amin, amin, nakuambia, Wakati ulipokuwa kijana, ulikuwa ukijifunga mwenyewe na kwenda utakako; lakini utakapokuwa mzee, utainyosha mikono yako, na mwingine atakufunga na kukuchukua usikotaka.[/J]"
+        },
+        {
+          "chapter": 21,
+          "verse": 19,
+          "text": "Akasema neno hilo kwa kuonyesha ni kwa mauti gani atakayomtukuza Mungu. Naye akiisha kusema hayo akamwambia, [J]Nifuate.[/J]"
+        },
+        {
+          "chapter": 21,
+          "verse": 20,
+          "text": "Petro akageuka akamwona yule mwanafunzi aliyependwa na Yesu anafuata; (ndiye huyo aliyeegama kifuani pake wakati wa kula chakula cha jioni, akasema, Bwana, ni nani akusalitiye?)"
+        },
+        {
+          "chapter": 21,
+          "verse": 21,
+          "text": "Basi Petro akamwona huyo, akamwambia Yesu, Bwana, na huyu je?"
+        },
+        {
+          "chapter": 21,
+          "verse": 22,
+          "text": "Yesu akamwambia, [J]Ikiwa nataka huyu akae hata nijapo, imekupasaje wewe? Wewe unifuate mimi.[/J]"
+        },
+        {
+          "chapter": 21,
+          "verse": 23,
+          "text": "Basi neno hilo lilienea katikati ya ndugu ya kwamba mwanafunzi yule hafi. Walakini Yesu hakumwambia ya kwamba hafi; bali, [J]Ikiwa nataka huyu akae hata nijapo, imekupasaje wewe?[/J]"
+        },
+        {
+          "chapter": 21,
+          "verse": 24,
+          "text": "Huyu ndiye yule mwanafunzi ayashuhudiaye haya, na aliyeyaandika haya: nasi twajua ya kuwa ushuhuda wake ni kweli."
+        },
+        {
+          "chapter": 21,
+          "verse": 25,
+          "text": "Kuna na mambo mengi aliyoyafanya Yesu; ambayo yakiandikwa moja moja, nadhani hata ulimwengu usingetosha kwa vile vitabu vitakavyoandikwa."
+        }
+      ],
+      "headings": []
+    }
+  ]
+}

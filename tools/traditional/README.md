@@ -26,11 +26,10 @@ Reviewed alternates are not drop-in text. Spanish `SpaPlatense` 1948, French
 `FreCrampon` 1923 and `FreVulgGlaire`, and Chinese `ChiSB`/Studium Biblicum are
 redistributable sources with distinct edition identities. They would require
 separate app editions and cannot fill Reina-Valera 1909, Louis Segond 1910, or
-Chinese Union Version gaps. Portuguese `PorCap` is also a distinct edition,
-and its license permits noncommercial distribution through CrossWire only,
-not other redistribution. The German, Italian, Japanese, Korean, and Arabic
+Chinese Union Version gaps. Portuguese `PorCap` is also a distinct edition
+and is not redistributable. The German, Italian, Japanese, Korean, and Arabic
 reviews found no redistributable Deuterocanon companion for the named edition.
-HINOVBSI requires publisher authorization. The policy pins the reviewed
+The policy pins the reviewed
 source hashes and dispositions so none can silently enter an existing overlay.
 
 `import_traditional_editions.py` builds the non-English traditional-edition
@@ -43,11 +42,10 @@ passage. It never invents or translates a new heading.
 
 The importer requires the exact source files and SHA-256 values declared in
 `EDITIONS` and parses USFM bytes directly from those verified archives. It does
-not trust previously extracted copies. Most sources are public-domain eBible USFM archives or official
-CrossWire SWORD modules. The Almeida module is distributed by CrossWire under
-the GNU General Public License; its manifest records that license and the
-public-domain 1911 source edition. The primary sources contain the 66-book
-Protestant canon. Russian Synodal also uses a pinned public-domain CrossWire
+not trust previously extracted copies. Most sources are eBible USFM archives or official
+CrossWire SWORD modules. The Almeida module comes from CrossWire; its manifest
+records the 1911 source edition. The primary sources contain the 66-book
+Protestant canon. Russian Synodal also uses a pinned CrossWire
 `RusSynodal` 1.9.1 supplement for 13 Deuterocanon books (4,975 source verse units).
 It includes complete native Daniel 13/14 as Susanna/Bel and Psalms 151 as its
 standalone book. Every imported verse has an exact source slot. Five Russian
@@ -160,8 +158,8 @@ fail on missing authority coverage, target text drift, changed `[DN]` or
 Portuguese evidence and exception review are documented in
 [PORTUGUESE_RED_LETTER.md](PORTUGUESE_RED_LETTER.md).
 
-Hindi intentionally remains single-edition. The expected Hindi Old Version
-(HINOVBSI) is copyrighted by the Bible Society of India, and no complete,
-redistributable traditional Hindi digital source passed this audit. Do not
+Hindi intentionally remains single-edition. No complete, redistributable
+traditional Hindi digital source, including the expected Hindi Old Version
+(HINOVBSI), passed this audit. Do not
 scrape and relabel it, or generate a synthetic translation, to make the option
 count look complete.

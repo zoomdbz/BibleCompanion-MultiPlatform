@@ -1,0 +1,5697 @@
+{
+  "schemaVersion": 2,
+  "editionId": "suv1952",
+  "language": "sw",
+  "collection": "old_testament",
+  "bookId": "job",
+  "sourceBookCode": "JOB",
+  "coverage": "full",
+  "chapters": [
+    {
+      "number": 1,
+      "lastVerse": 22,
+      "verseUnitCount": 22,
+      "verses": [
+        {
+          "chapter": 1,
+          "verse": 1,
+          "text": "Palikuwa na mtu katika nchi ya Usi, jina lake alikuwa akiitwa Ayubu; mtu huyo alikuwa mkamilifu na mwelekevu, ni mmoja aliyemcha Mungu, na kuepukana na uovu."
+        },
+        {
+          "chapter": 1,
+          "verse": 2,
+          "text": "Kisha walizaliwa kwake wana saba, na binti watatu."
+        },
+        {
+          "chapter": 1,
+          "verse": 3,
+          "text": "Mali yake nayo yalikuwa ni kondoo elfu saba, na ngamia elfu tatu, na jozi za ng’ombe mia tano, na punda wake mia tano, na watu wa nyumbani wengi sana; basi hivi mtu huyo alikuwa ni mkuu sana kuliko watu wote wa upande wa mashariki."
+        },
+        {
+          "chapter": 1,
+          "verse": 4,
+          "text": "Nao wanawe huenda na kufanya karamu katika nyumba ya kila mmoja wao kwa siku yake; nao wakatuma na kuwaita maumbu yao watatu ili waje kula na kunywa pamoja nao."
+        },
+        {
+          "chapter": 1,
+          "verse": 5,
+          "text": "Basi ilikuwa, hapo hizo siku za karamu zao zilipokuwa zimetimia, Ayubu hutuma kwao akawatakasa, kisha akaamka asubuhi na mapema, na kusongeza sadaka za kuteketezwa kama hesabu yao wote ilivyokuwa; kwani Ayubu alisema, Yumkini kwamba hawa wanangu wamefanya dhambi, na kumkufuru Mungu mioyoni mwao. Ndivyo alivyofanya Ayubu sikuzote."
+        },
+        {
+          "chapter": 1,
+          "verse": 6,
+          "text": "Ilikuwa, siku moja ambayo hao wana wa Mungu walikwenda kujihudhurisha mbele za [DN]BWANA[/DN], Shetani naye akaenda kati yao."
+        },
+        {
+          "chapter": 1,
+          "verse": 7,
+          "text": "[DN]BWANA[/DN] akamwuliza Shetani, Umetoka wapi wewe? Ndipo Shetani akamjibu [DN]BWANA[/DN], na kusema, Natoka katika kuzunguka-zunguka duniani, na katika kutembea huku na huku humo."
+        },
+        {
+          "chapter": 1,
+          "verse": 8,
+          "text": "Kisha [DN]BWANA[/DN] akamwuliza Shetani, Je! Umemwangalia huyo mtumishi wangu Ayubu? Kwa kuwa hapana mmoja aliye kama yeye duniani, mtu mkamilifu na mwelekevu, mwenye kumcha Mungu na kuepukana na uovu."
+        },
+        {
+          "chapter": 1,
+          "verse": 9,
+          "text": "Ndipo Shetani akamjibu [DN]BWANA[/DN], na kusema, Je! Huyo Ayubu yuamcha [DN]BWANA[/DN] bure?"
+        },
+        {
+          "chapter": 1,
+          "verse": 10,
+          "text": "Wewe hukumzingira kwa ukigo pande zote, pamoja na nyumba yake, na vitu vyote alivyo navyo? Kazi za mikono yake umezibarikia, nayo mali yake imeongezeka katika nchi."
+        },
+        {
+          "chapter": 1,
+          "verse": 11,
+          "text": "Lakini nyosha mkono wako sasa, uyaguse hayo yote aliyo nayo, naye atakukufuru mbele za uso wako."
+        },
+        {
+          "chapter": 1,
+          "verse": 12,
+          "text": "[DN]BWANA[/DN] akamwambia Shetani, Tazama, yote aliyo nayo yamo katika uwezo wako; lakini usinyoshe mkono wako juu yake yeye mwenyewe. Basi Shetani akatoka mbele za uso wa [DN]BWANA[/DN]."
+        },
+        {
+          "chapter": 1,
+          "verse": 13,
+          "text": "Ilitukia siku moja hao wanawe na binti zake walipokuwa wakila na kunywa divai katika nyumba ya ndugu yao mkubwa,"
+        },
+        {
+          "chapter": 1,
+          "verse": 14,
+          "text": "mjumbe akamfikilia Ayubu na kumwambia, Hao ng’ombe walikuwa wakilima, na punda walikuwa wakilisha karibu nao;"
+        },
+        {
+          "chapter": 1,
+          "verse": 15,
+          "text": "mara Waseba wakawashambulia, wakawachukua wakaenda nao; naam, wamewaua hao watumishi kwa makali ya upanga, mimi peke yangu nimepona, mimi tu, kukuletea habari."
+        },
+        {
+          "chapter": 1,
+          "verse": 16,
+          "text": "Huyo alipokuwa akali akinena, akatokea na mwingine, na kusema, Moto wa Mungu umeanguka kutoka mbinguni na kuwateketeza kondoo, na wale watumishi, na kuwaangamiza; mimi peke yangu nimepona, mimi tu, kukuletea habari."
+        },
+        {
+          "chapter": 1,
+          "verse": 17,
+          "text": "Huyo alipokuwa akali akinena, akatokea na mwingine, na kusema, Wakaldayo walifanya vikosi vitatu, wakawaangukia ngamia, wakaenda nao, naam, wamewaua wale watumishi kwa makali ya upanga; mimi peke yangu nimepona, mimi tu, kukuletea habari."
+        },
+        {
+          "chapter": 1,
+          "verse": 18,
+          "text": "Huyo alipokuwa akali akinena, akatokea na mwingine, na kusema, Wanao na binti zako walikuwa wakila na kunywa divai katika nyumba ya ndugu yao mkubwa;"
+        },
+        {
+          "chapter": 1,
+          "verse": 19,
+          "text": "mara, tazama, upepo wenye nguvu ukatoka pande za jangwani, ukaipiga hiyo nyumba pembe zake nne, nayo ikawaangukia hao vijana, nao wamekufa; na mimi peke yangu nimepona, mimi tu, kukuletea habari."
+        },
+        {
+          "chapter": 1,
+          "verse": 20,
+          "text": "Ndipo Ayubu akainuka, akalirarua joho lake, kisha akanyoa kichwa chake, na kuanguka chini, na kusujudia;"
+        },
+        {
+          "chapter": 1,
+          "verse": 21,
+          "text": "akasema, Mimi nilitoka tumboni mwa mama yangu nili uchi, nami nitarudi tena huko uchi vilevile; [DN]BWANA[/DN] alitoa, na [DN]BWANA[/DN] ametwaa; jina la [DN]BWANA[/DN] na libarikiwe."
+        },
+        {
+          "chapter": 1,
+          "verse": 22,
+          "text": "Katika mambo hayo yote Ayubu hakufanya dhambi, wala hakumwazia Mungu kwa upumbavu."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 2,
+      "lastVerse": 13,
+      "verseUnitCount": 13,
+      "verses": [
+        {
+          "chapter": 2,
+          "verse": 1,
+          "text": "Tena kulikuwa na siku hao wana wa Mungu walipokwenda kujihudhurisha mbele za [DN]BWANA[/DN], Shetani naye akaenda kati yao, ili kujihudhurisha mbele za [DN]BWANA[/DN]."
+        },
+        {
+          "chapter": 2,
+          "verse": 2,
+          "text": "[DN]BWANA[/DN] akamwuliza Shetani, Umetoka wapi? Shetani akamjibu [DN]BWANA[/DN], na kusema, Natoka katika kuzunguka-zunguka duniani, na katika kutembea huku na huku humo."
+        },
+        {
+          "chapter": 2,
+          "verse": 3,
+          "text": "[DN]BWANA[/DN] akamwuliza Shetani, Je! Umemwangalia huyo mtumishi wangu Ayubu? Kwa kuwa hapana mmoja aliye kama yeye duniani, mtu mkamilifu na mwelekevu, mwenye kumcha Mungu na kuepukana na uovu; naye hata sasa anashikamana na utimilifu wake, ujapokuwa ulinichochea juu yake, ili nimwangamize pasipokuwa na sababu."
+        },
+        {
+          "chapter": 2,
+          "verse": 4,
+          "text": "Shetani akamjibu [DN]BWANA[/DN], na kusema, Ngozi kwa ngozi, naam, yote aliyo nayo mtu atayatoa kwa ajili ya uhai wake."
+        },
+        {
+          "chapter": 2,
+          "verse": 5,
+          "text": "Lakini sasa nyosha mkono wako, uuguse mfupa wake na nyama yake, naye atakukufuru mbele za uso wako."
+        },
+        {
+          "chapter": 2,
+          "verse": 6,
+          "text": "[DN]BWANA[/DN] akamwambia Shetani, Tazama, yeye yumo mkononi mwako; lakini tunza tu uhai wake."
+        },
+        {
+          "chapter": 2,
+          "verse": 7,
+          "text": "Basi Shetani akatoka mbele za uso wa [DN]BWANA[/DN], akampiga Ayubu na majipu mabaya tangu wayo wa mguu hata utosi wa kichwa."
+        },
+        {
+          "chapter": 2,
+          "verse": 8,
+          "text": "Naye akashika kigae cha kujikunia; akaketi majivuni."
+        },
+        {
+          "chapter": 2,
+          "verse": 9,
+          "text": "Ndipo mkewe akamwambia, Je! Wewe hata sasa washikamana na utimilifu wako? Umkufuru Mungu, ukafe."
+        },
+        {
+          "chapter": 2,
+          "verse": 10,
+          "text": "Lakini yeye akamwambia, Wewe wanena kama mmoja wa hao wanawake wapumbavu anenavyo. Je! Tupate mema mkononi mwa Mungu, nasi tusipate na mabaya? Katika mambo hayo yote Ayubu hakufanya dhambi kwa midomo yake."
+        },
+        {
+          "chapter": 2,
+          "verse": 11,
+          "text": "Basi ikawa hao rafikize Ayubu watatu walipopata habari ya mabaya hayo yote yaliyomfikilia, wakaja kila mtu kutoka mahali pake; nao ni Elifazi Mtemani, na Bildadi Mshuhi, na Sofari Mnaamathi; wakapatana pamoja ili waende kumlilia Ayubu na kumtuliza moyo."
+        },
+        {
+          "chapter": 2,
+          "verse": 12,
+          "text": "Basi walipovua macho yao, nao wakali mbali, wasimtambue, wakainua sauti zao na kulia; kila mmoja akararua joho yake, wakarusha mavumbi juu ya vichwa vyao kuelekea mbinguni."
+        },
+        {
+          "chapter": 2,
+          "verse": 13,
+          "text": "Kisha wakaketi nchi pamoja naye muda wa siku saba, mchana na usiku, wala hapana mmoja aliyenena naye neno lo lote; kwa maana waliona ya kuwa mashaka yake aliyo nayo ni makuu mno."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 3,
+      "lastVerse": 26,
+      "verseUnitCount": 26,
+      "verses": [
+        {
+          "chapter": 3,
+          "verse": 1,
+          "text": "Baada ya hayo Ayubu akafunua kinywa chake, na kuilaani siku yake."
+        },
+        {
+          "chapter": 3,
+          "verse": 2,
+          "text": "Ayubu akajibu, na kusema;"
+        },
+        {
+          "chapter": 3,
+          "verse": 3,
+          "text": "Na ipotelee mbali ile siku niliyozaliwa mimi, Na ule usiku uliosema, Mtoto mume ametungishwa mimba."
+        },
+        {
+          "chapter": 3,
+          "verse": 4,
+          "text": "Siku hiyo na iwe giza; Mungu asiiangalie toka juu, Wala mwanga usiiangazie."
+        },
+        {
+          "chapter": 3,
+          "verse": 5,
+          "text": "Ishikwe na giza, giza tupu, kuwa yake; Wingu na likae juu yake; Chote kiifanyacho siku kuwa giza na kiitishe."
+        },
+        {
+          "chapter": 3,
+          "verse": 6,
+          "text": "Tena usiku huo, na ushikwe na giza kuu; Usihesabiwe katika siku za mwaka; Wala kutiwa katika hesabu ya miezi."
+        },
+        {
+          "chapter": 3,
+          "verse": 7,
+          "text": "Tazama, usiku huo na uwe tasa; Wala isiwe ndani yake sauti ya shangwe."
+        },
+        {
+          "chapter": 3,
+          "verse": 8,
+          "text": "Na waulaani hao waulaanio mchana, Hao walio tayari kumwamsha huyo lewiathani."
+        },
+        {
+          "chapter": 3,
+          "verse": 9,
+          "text": "Nyota za mapambazuko yake na ziwe giza; Na utafute mwanga lakini usiupate; Wala usiyaone makope ya asubuhi;"
+        },
+        {
+          "chapter": 3,
+          "verse": 10,
+          "text": "Kwa sababu haukuifunga milango ya tumbo la mamangu. Wala kunifichia taabu machoni."
+        },
+        {
+          "chapter": 3,
+          "verse": 11,
+          "text": "Mbona si kufa mimi tokea mimbani? Mbona nisitoe roho hapo nilipotoka tumboni?"
+        },
+        {
+          "chapter": 3,
+          "verse": 12,
+          "text": "Mbona hayo magoti kunipokea? Au hayo maziwa, hata nikanyonya?"
+        },
+        {
+          "chapter": 3,
+          "verse": 13,
+          "text": "Maana hapo ningelala na kutulia; Ningelala usingizi; na kupata kupumzika;"
+        },
+        {
+          "chapter": 3,
+          "verse": 14,
+          "text": "Pamoja na wafalme na washauri wa dunia, Hao waliojijengea maganjoni;"
+        },
+        {
+          "chapter": 3,
+          "verse": 15,
+          "text": "Au pamoja na wakuu wenye dhahabu, Waliozijaza fedha nyumba zao;"
+        },
+        {
+          "chapter": 3,
+          "verse": 16,
+          "text": "Au, kama kuzikwa mimba iliyoharibika, nisingekuwako; Kama wachanga wasiouona mwanga kabisa."
+        },
+        {
+          "chapter": 3,
+          "verse": 17,
+          "text": "Huko waovu huacha kusumbua; Huko nako hao waliochoka wapumzika"
+        },
+        {
+          "chapter": 3,
+          "verse": 18,
+          "text": "Huko wafungwa waona raha pamoja; Hawaisikii sauti yake msimamizi."
+        },
+        {
+          "chapter": 3,
+          "verse": 19,
+          "text": "Wakuu na wadogo wako huko; Mtumishi yu huru kwa bwana wake."
+        },
+        {
+          "chapter": 3,
+          "verse": 20,
+          "text": "Mbona yeye aliye mashakani kupewa mwanga, Na hao wenye uchungu rohoni kupewa uhai;"
+        },
+        {
+          "chapter": 3,
+          "verse": 21,
+          "text": "Ambao wangojea mauti, lakini hawayapati; Na kuyachimbulia zaidi ya kutafuta hazina iliyostirika;"
+        },
+        {
+          "chapter": 3,
+          "verse": 22,
+          "text": "Ambao wafurahi mno, Na kushangilia watakapoliona kaburi?"
+        },
+        {
+          "chapter": 3,
+          "verse": 23,
+          "text": "Kwa nini mtu aliyezibiwa njia kupewa mwanga, Ambaye Mungu amemzingira kwa ukingo?"
+        },
+        {
+          "chapter": 3,
+          "verse": 24,
+          "text": "Kwani kuugua kwangu kwaja kana kwamba ni chakula, Na kunguruma kwangu kumemiminika kama maji."
+        },
+        {
+          "chapter": 3,
+          "verse": 25,
+          "text": "Maana jambo hilo nichalo hunipata, Nalo linitialo hofu hunijilia."
+        },
+        {
+          "chapter": 3,
+          "verse": 26,
+          "text": "Mimi sioni raha, wala situlii, wala kupumzika; Lakini huja taabu."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 4,
+      "lastVerse": 21,
+      "verseUnitCount": 21,
+      "verses": [
+        {
+          "chapter": 4,
+          "verse": 1,
+          "text": "Ndipo huyo Elifazi, Mtemani, akajibu na kusema,"
+        },
+        {
+          "chapter": 4,
+          "verse": 2,
+          "text": "Mtu akijaribu kuzungumza nawe, je! Utaona ni vibaya? Lakini ni nani awezaye kujizuia asinene?"
+        },
+        {
+          "chapter": 4,
+          "verse": 3,
+          "text": "Tazama, wewe umewafunza watu wengi, Nawe umeitia nguvu mikono iliyokuwa minyonge."
+        },
+        {
+          "chapter": 4,
+          "verse": 4,
+          "text": "Maneno yako yamemtegemeza huyo aliyekuwa anaanguka, Nawe umeyaimarisha magoti manyonge."
+        },
+        {
+          "chapter": 4,
+          "verse": 5,
+          "text": "Lakini sasa haya yamekufikilia wewe, nawe wafa moyo; Yamekugusa, nawe wafadhaika."
+        },
+        {
+          "chapter": 4,
+          "verse": 6,
+          "text": "Je! Dini yako siyo mataraja yako, Na matumaini yako si huo uelekevu wa njia zako?"
+        },
+        {
+          "chapter": 4,
+          "verse": 7,
+          "text": "Kumbuka, tafadhali, ni nani aliyeangamia akiwa hana hatia? Au hao waelekevu, walikatiliwa mbali wapi?"
+        },
+        {
+          "chapter": 4,
+          "verse": 8,
+          "text": "Kama mimi nilivyoona, hao walimao maovu, Na kupanda madhara, huvuna yayo hayo."
+        },
+        {
+          "chapter": 4,
+          "verse": 9,
+          "text": "Kwa pumzi za Mungu huangamia. Na kwa kuvuma kwa hasira zake humalizika."
+        },
+        {
+          "chapter": 4,
+          "verse": 10,
+          "text": "Kunguruma kwake simba, na sauti ya simba mkali, Na meno ya simba wachanga, yamevunjika."
+        },
+        {
+          "chapter": 4,
+          "verse": 11,
+          "text": "Simba mzee huangamia kwa kukosa mawindo, Nao watoto wa simba mke wametawanyika mbalimbali."
+        },
+        {
+          "chapter": 4,
+          "verse": 12,
+          "text": "Basi, nililetewa neno kwa siri, Sikio langu likasikia manong’ono yake."
+        },
+        {
+          "chapter": 4,
+          "verse": 13,
+          "text": "Katika mawazo yaliyotoka katika maono ya usiku, Hapo usingizi mzito uwaangukiapo wanadamu."
+        },
+        {
+          "chapter": 4,
+          "verse": 14,
+          "text": "Hofu iliniangukia na kutetema, Iliyoitetemesha mifupa yangu yote."
+        },
+        {
+          "chapter": 4,
+          "verse": 15,
+          "text": "Ndipo pepo ilipita mbele ya uso wangu; Na nywele za mwili wangu zilisimama."
+        },
+        {
+          "chapter": 4,
+          "verse": 16,
+          "text": "Hiyo pepo ilisimama kimya, nisiweze kutambua sura zake, Mfano ulikuwa mbele ya macho yangu; Kulikuwa kimya, nami nilisikia sauti, ikinena,"
+        },
+        {
+          "chapter": 4,
+          "verse": 17,
+          "text": "Je! Binadamu atakuwa na haki kuliko Mungu? Je! Mtu atakuwa safi kuliko Muumba wake?"
+        },
+        {
+          "chapter": 4,
+          "verse": 18,
+          "text": "Tazama, yeye hawategemei watumishi wake; Na malaika zake huwahesabia upuzi;"
+        },
+        {
+          "chapter": 4,
+          "verse": 19,
+          "text": "Je! Si zaidi sana hao wakaao katika nyumba za udongo, Ambazo misingi yao i katika mchanga, Hao waliosetwa mbele ya nondo!"
+        },
+        {
+          "chapter": 4,
+          "verse": 20,
+          "text": "Kati ya asubuhi na jioni huvunjwa-vunjwa; Waangamia milele wala hapana atiaye moyoni."
+        },
+        {
+          "chapter": 4,
+          "verse": 21,
+          "text": "Je! Kamba ya hema yao haikung’olewa ndani yao? Wafa, kisha hali hawana akili."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 5,
+      "lastVerse": 27,
+      "verseUnitCount": 27,
+      "verses": [
+        {
+          "chapter": 5,
+          "verse": 1,
+          "text": "Haya, ita sasa; je! Yuko atakayekujibu? Nawe utamwelekea yupi katika hao watakatifu?"
+        },
+        {
+          "chapter": 5,
+          "verse": 2,
+          "text": "Kwani hasira humwua mtu mpumbavu, Nao wivu humwua mjinga."
+        },
+        {
+          "chapter": 5,
+          "verse": 3,
+          "text": "Nimewaona wapumbavu wakishusha mizizi; Lakini mara niliyalaani maskani yake."
+        },
+        {
+          "chapter": 5,
+          "verse": 4,
+          "text": "Watoto wake wako mbali na wokovu, Nao wamesongwa langoni, Wala hapana atakayewaponya."
+        },
+        {
+          "chapter": 5,
+          "verse": 5,
+          "text": "Mavuno yake wale wenye njaa huyala, Na kuyatwaa hata kuyatoa miibani, Nao wenye kiu huzitwetea mali zao."
+        },
+        {
+          "chapter": 5,
+          "verse": 6,
+          "text": "Kwani taabu haitoki mchangani, Wala mashaka hayachipuki katika nchi;"
+        },
+        {
+          "chapter": 5,
+          "verse": 7,
+          "text": "Lakini mwanadamu huzaliwa ili apate mashaka, Kama cheche za moto zirukavyo juu."
+        },
+        {
+          "chapter": 5,
+          "verse": 8,
+          "text": "Lakini mimi ningemtafuta Mungu, Ningemwekea Mungu daawa yangu;"
+        },
+        {
+          "chapter": 5,
+          "verse": 9,
+          "text": "Yeye afanyaye mambo makuu, yasiyotambulikana; Mambo ya ajabu yasiyo na hesabu;"
+        },
+        {
+          "chapter": 5,
+          "verse": 10,
+          "text": "Yeye atoaye mvua inyeshe juu ya nchi, Na kuyapeleka maji mashambani;"
+        },
+        {
+          "chapter": 5,
+          "verse": 11,
+          "text": "Awainuaye juu hao walio chini; Na hao waombolezao hukuzwa wawe salama."
+        },
+        {
+          "chapter": 5,
+          "verse": 12,
+          "text": "Yeye huyatangua mashauri ya wadanganyifu, Mikono yao isipate kuyatimiza makusudi yao."
+        },
+        {
+          "chapter": 5,
+          "verse": 13,
+          "text": "Yeye huwanasa wenye hekima katika hila yao wenyewe; Na mashauri ya washupavu yaharibika kwa haraka."
+        },
+        {
+          "chapter": 5,
+          "verse": 14,
+          "text": "Wao hupatwa na giza wakati wa mchana, Hupapasa mchana vilevile kama usiku."
+        },
+        {
+          "chapter": 5,
+          "verse": 15,
+          "text": "Lakini yeye huokoa na upanga wa kinywa chao, Hata kumwokoa mhitaji na mkono wake aliye hodari."
+        },
+        {
+          "chapter": 5,
+          "verse": 16,
+          "text": "Basi hivi huyo maskini ana matumaini, Na uovu hufumba kinywa chake."
+        },
+        {
+          "chapter": 5,
+          "verse": 17,
+          "text": "Tazama, yu heri mtu yule Mungu amwadhibuye; Kwa hiyo usidharau kurudiwa na huyo Mwenyezi."
+        },
+        {
+          "chapter": 5,
+          "verse": 18,
+          "text": "Kwani yeye huumiza, lakini tena huuguza; Yeye hutia jeraha, na mikono yake huponya."
+        },
+        {
+          "chapter": 5,
+          "verse": 19,
+          "text": "Yeye atakuokoa na mateso sita; Naam, hata katika saba hapana uovu utakaokugusa."
+        },
+        {
+          "chapter": 5,
+          "verse": 20,
+          "text": "Wakati wa njaa atakukomboa na mauti; Na vitani atakukomboa na nguvu za upanga."
+        },
+        {
+          "chapter": 5,
+          "verse": 21,
+          "text": "Utafichwa na mapigo ya ulimi; Wala usiogope maangamizo yatakapokuja."
+        },
+        {
+          "chapter": 5,
+          "verse": 22,
+          "text": "Wewe utayacheka maangamizo na njaa; Wala hutawaogopa wanyama wakali wa nchi."
+        },
+        {
+          "chapter": 5,
+          "verse": 23,
+          "text": "Kwani utakuwa na mapatano na mawe ya bara; Nao wanyama wa bara watakuwa na amani kwako."
+        },
+        {
+          "chapter": 5,
+          "verse": 24,
+          "text": "Nawe utajua ya kwamba hema yako ina salama; Na zizi lako utaliaua, wala usikose kitu."
+        },
+        {
+          "chapter": 5,
+          "verse": 25,
+          "text": "Tena utajua ya kwamba uzao wako utakuwa mwingi, Na vizazi vyako watakuwa kama nyasi za nchi."
+        },
+        {
+          "chapter": 5,
+          "verse": 26,
+          "text": "Utafika kaburini mwenye umri mtimilifu, Kama mganda wa ngano ulivyo wakati wake."
+        },
+        {
+          "chapter": 5,
+          "verse": 27,
+          "text": "Tazama, haya tumeyapeleleza, ndivyo yalivyo; Yasikie, uyajue, ili upate mema."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 6,
+      "lastVerse": 30,
+      "verseUnitCount": 30,
+      "verses": [
+        {
+          "chapter": 6,
+          "verse": 1,
+          "text": "Ndipo Ayubu akajibu na kusema,"
+        },
+        {
+          "chapter": 6,
+          "verse": 2,
+          "text": "Laiti uchungu wangu ungepimwa, Na msiba wangu kutiwa katika mizani pamoja!"
+        },
+        {
+          "chapter": 6,
+          "verse": 3,
+          "text": "Kwa kuwa sasa ungekuwa mzito kuliko mchanga wa bahari; Kwa hiyo maneno yangu yamekuwa ya haraka."
+        },
+        {
+          "chapter": 6,
+          "verse": 4,
+          "text": "Kwa kuwa mishale ya huyo Mwenyezi i ndani yangu, Na roho yangu inainywa sumu yake; Vitisho vya Mungu vimejipanga juu yangu."
+        },
+        {
+          "chapter": 6,
+          "verse": 5,
+          "text": "Je! Huyo punda-mwitu hulia akiwa na majani? Au, ng’ombe hulia malishoni?"
+        },
+        {
+          "chapter": 6,
+          "verse": 6,
+          "text": "Je! Kitu kisicho na ladha yumkini kulika pasipo chumvi? Au je, uto wa yai una tamu iwayo yote?"
+        },
+        {
+          "chapter": 6,
+          "verse": 7,
+          "text": "Roho yangu inakataa hata kuvigusa; Kwangu mimi ni kama chakula kichukizacho."
+        },
+        {
+          "chapter": 6,
+          "verse": 8,
+          "text": "Laiti ningepewa haja yangu, Naye Mungu angenipa neno hilo ninalolitamani sana!"
+        },
+        {
+          "chapter": 6,
+          "verse": 9,
+          "text": "Kwamba Mungu angekuwa radhi kuniseta; Kwamba angeulegeza mkono wake na kunikatilia mbali!"
+        },
+        {
+          "chapter": 6,
+          "verse": 10,
+          "text": "Hapo ndipo ningefarijika hata sasa; Naam, ningejikuza katika maumivu yasiyoniacha; Kwa kuwa sikuyakana maneno yake Mtakatifu."
+        },
+        {
+          "chapter": 6,
+          "verse": 11,
+          "text": "Nguvu zangu ni zipi, hata ningoje? Na mwisho wangu ni nini, hata nisubiri?"
+        },
+        {
+          "chapter": 6,
+          "verse": 12,
+          "text": "Je! Nguvu zangu ni nguvu za mawe? Au mwili wangu, je! Ni shaba?"
+        },
+        {
+          "chapter": 6,
+          "verse": 13,
+          "text": "Je! Si kwamba sina msaada ndani yangu. Tena kwamba kufanikiwa kumeondolewa mbali nami?"
+        },
+        {
+          "chapter": 6,
+          "verse": 14,
+          "text": "Kwake huyo atakaye kuzima roho inapasa atendewe mema na rafiki; Hata kwake huyo aachaye kumcha Mwenyezi."
+        },
+        {
+          "chapter": 6,
+          "verse": 15,
+          "text": "Ndugu zangu wametenda udanganyifu kama kijito cha maji. Mfano wa fumbi la vijito vipitavyo."
+        },
+        {
+          "chapter": 6,
+          "verse": 16,
+          "text": "Vilivyokuwa vyeusi kwa sababu ya barafu, Ambamo theluji hujificha."
+        },
+        {
+          "chapter": 6,
+          "verse": 17,
+          "text": "Wakati vipatapo moto hutoweka; Kukiwako hari, hukoma mahali pao."
+        },
+        {
+          "chapter": 6,
+          "verse": 18,
+          "text": "Misafara isafiriyo kwa njia yao hugeuka; Hukwea kwenda barani, na kupotea."
+        },
+        {
+          "chapter": 6,
+          "verse": 19,
+          "text": "Misafara ya Tema huvitazama, Majeshi ya Sheba huvingojea."
+        },
+        {
+          "chapter": 6,
+          "verse": 20,
+          "text": "Wametahayari kwa sababu walitumaini; Wakaja huku, nao walifadhaika."
+        },
+        {
+          "chapter": 6,
+          "verse": 21,
+          "text": "Kwani sasa ninyi mmekuwa vivyo; Mwaona jambo la kutisha, mkaogopa."
+        },
+        {
+          "chapter": 6,
+          "verse": 22,
+          "text": "Je! Nilisema, Nipeni? Au, Nitoleeni toleo katika mali yenu?"
+        },
+        {
+          "chapter": 6,
+          "verse": 23,
+          "text": "Au, Niokoeni na mkono wa adui? Au, Nikomboeni na mikono ya hao waoneao?"
+        },
+        {
+          "chapter": 6,
+          "verse": 24,
+          "text": "Nifunzeni, nami nitanyamaa kimya; Mkanijulishe ni jambo gani nililokosa."
+        },
+        {
+          "chapter": 6,
+          "verse": 25,
+          "text": "Jinsi yafaavyo maneno ya uelekevu! Lakini kuhoji kwenu, je! Kumeonya nini?"
+        },
+        {
+          "chapter": 6,
+          "verse": 26,
+          "text": "Je! Mwafikiri kuyakemea maneno? Maana maneno ya huyo aliyekata tamaa ni kama upepo."
+        },
+        {
+          "chapter": 6,
+          "verse": 27,
+          "text": "Naam, mwapenda kuwapigia kura hao mayatima, Na kufanya biashara ya rafiki yenu."
+        },
+        {
+          "chapter": 6,
+          "verse": 28,
+          "text": "Sasa basi iweni radhi kuniangalia; Kwani hakika sitanena uongo usoni penu."
+        },
+        {
+          "chapter": 6,
+          "verse": 29,
+          "text": "Rudini, nawasihi, lisiwe neno la udhalimu; Naam, rudini tena, neno langu ni la haki."
+        },
+        {
+          "chapter": 6,
+          "verse": 30,
+          "text": "Je! Mna udhalimu ulimini mwangu? Je! Makaakaa yangu hayatambui mambo ya madhara?"
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 7,
+      "lastVerse": 21,
+      "verseUnitCount": 21,
+      "verses": [
+        {
+          "chapter": 7,
+          "verse": 1,
+          "text": "Je! Mtu hana wakati wake wa vita juu ya nchi? Na siku zake, je! Si kama siku za mwajiriwa?"
+        },
+        {
+          "chapter": 7,
+          "verse": 2,
+          "text": "Kama mtumishi atamaniye sana kile kivuli, Kama mwajiriwa anayetazamia mshahara wake;"
+        },
+        {
+          "chapter": 7,
+          "verse": 3,
+          "text": "Ni vivyo nami nimepewa miezi ya ubatili iwe fungu langu, Nami nimeandikiwa masiku yenye kuchokesha."
+        },
+        {
+          "chapter": 7,
+          "verse": 4,
+          "text": "Hapo nilalapo chini, nasema, Nitaondoka lini? Lakini usiku huwa mrefu; Nami nimejawa na kujitupa huku na huku hata kupambazuke."
+        },
+        {
+          "chapter": 7,
+          "verse": 5,
+          "text": "Mwili wangu unavikwa mabuu na madongoa ya udongo; Ngozi yangu hufumba, kisha ikatumbuka tena."
+        },
+        {
+          "chapter": 7,
+          "verse": 6,
+          "text": "Siku zangu hupita upesi kuliko chombo cha kufumia, Nazo zapita pasipokuwa na matumaini."
+        },
+        {
+          "chapter": 7,
+          "verse": 7,
+          "text": "Kumbuka ya kwamba maisha yangu ni upepo; Jicho langu halitaona mema tena."
+        },
+        {
+          "chapter": 7,
+          "verse": 8,
+          "text": "Jicho lake huyo anionaye halitaniangalia tena; Macho yako yatanielekea, lakini sitakuwapo."
+        },
+        {
+          "chapter": 7,
+          "verse": 9,
+          "text": "Kama vile wingu likomavyo na kutoweka, Ni vivyo huyo ashukaye kuzimuni hatazuka tena kabisa."
+        },
+        {
+          "chapter": 7,
+          "verse": 10,
+          "text": "Hatarudi tena nyumbani kwake, Wala mahali pake hapatamjua tena."
+        },
+        {
+          "chapter": 7,
+          "verse": 11,
+          "text": "Kwa hiyo sitakizuia kinywa changu; Nitanena kwa mateso ya roho yangu; Nitalia kwa uchungu wa nafsi yangu."
+        },
+        {
+          "chapter": 7,
+          "verse": 12,
+          "text": "Je! Mimi ni bahari, au je! Ni nyangumi? Hata ukawaweka walinzi juu yangu?"
+        },
+        {
+          "chapter": 7,
+          "verse": 13,
+          "text": "Hapo nisemapo, kitanda changu kitanituza moyo, Malazi yangu yatanipunguzia kuugua kwangu;"
+        },
+        {
+          "chapter": 7,
+          "verse": 14,
+          "text": "Ndipo unitishapo kwa ndoto, Na kunitia hofu kwa maono;"
+        },
+        {
+          "chapter": 7,
+          "verse": 15,
+          "text": "Hata nafsi yangu huchagua kunyongwa, Na kuchagua kifo kuliko maumivu yangu haya."
+        },
+        {
+          "chapter": 7,
+          "verse": 16,
+          "text": "Ninadhoofika; sitaishi sikuzote; Usinisumbue, kwani siku zangu ni uvuvio."
+        },
+        {
+          "chapter": 7,
+          "verse": 17,
+          "text": "Je! Mtu ni kitu gani, hata ukamtukuza, Na kumtia moyoni mwako,"
+        },
+        {
+          "chapter": 7,
+          "verse": 18,
+          "text": "Na kumwangalia kila asubuhi, Na kumjaribu kila dakika?"
+        },
+        {
+          "chapter": 7,
+          "verse": 19,
+          "text": "Je! Hata lini hukomi kuniangalia; Wala kunisumbua hata nimeze mate?"
+        },
+        {
+          "chapter": 7,
+          "verse": 20,
+          "text": "Kwamba nimefanya dhambi, nikufanyieje Ee mlinda wanadamu? Mbona umeniweka niwe shabaha yako, Hata nimekuwa mzigo kwa nafsi yangu?"
+        },
+        {
+          "chapter": 7,
+          "verse": 21,
+          "text": "Nawe, je! Mbona hunisamehe makosa yangu, Na kuniondolea maovu yangu? Kwa kuwa sasa nitalala mavumbini; Nawe utanitafuta kwa bidii, lakini sitakuwapo."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 8,
+      "lastVerse": 22,
+      "verseUnitCount": 22,
+      "verses": [
+        {
+          "chapter": 8,
+          "verse": 1,
+          "text": "Ndipo Bildadi huyo Mshuhi akajibu, na kusema,"
+        },
+        {
+          "chapter": 8,
+          "verse": 2,
+          "text": "Wewe utanena maneno haya hata lini? Maneno ya kinywa chako yatakuwa kama upepo mkuu hata lini?"
+        },
+        {
+          "chapter": 8,
+          "verse": 3,
+          "text": "Je! Mungu hupotosha hukumu? Au, huyo Mwenyezi hupotosha yaliyo ya haki?"
+        },
+        {
+          "chapter": 8,
+          "verse": 4,
+          "text": "Kwamba watoto wako wamemfanyia dhambi, Naye amewatia mkononi mwa kosa lao;"
+        },
+        {
+          "chapter": 8,
+          "verse": 5,
+          "text": "Wewe ukimtafuta Mungu kwa bidii, Na kumsihi huyo Mwenyezi;"
+        },
+        {
+          "chapter": 8,
+          "verse": 6,
+          "text": "Ukiwa wewe u safi na mwelekevu; Hakika yeye sasa angeamka kwa ajili yako, Na kuyafanya makazi ya haki yako kufanikiwa."
+        },
+        {
+          "chapter": 8,
+          "verse": 7,
+          "text": "Tena ujapokuwa huo mwanzo wako ulikuwa ni mdogo, Lakini mwisho wako ungeongezeka sana."
+        },
+        {
+          "chapter": 8,
+          "verse": 8,
+          "text": "Basi, uwaulize, tafadhali, vizazi vya zamani, Ujitie kuyaangalia yale baba zao waliyoyatafuta;"
+        },
+        {
+          "chapter": 8,
+          "verse": 9,
+          "text": "(Kwani sisi tu wa jana tu, wala hatujui neno, Kwa kuwa siku zetu duniani ni kivuli tu;)"
+        },
+        {
+          "chapter": 8,
+          "verse": 10,
+          "text": "Je! Hawatakufunza wao, na kukueleza, Na kutamka maneno yatokayo mioyoni mwao?"
+        },
+        {
+          "chapter": 8,
+          "verse": 11,
+          "text": "Je! Hayo mafunjo yamea pasipo matope Na makangaga kumea pasipo maji?"
+        },
+        {
+          "chapter": 8,
+          "verse": 12,
+          "text": "Yakiwa yakali mabichi bado, wala hayakukatwa, Hunyauka mbele ya majani mengine."
+        },
+        {
+          "chapter": 8,
+          "verse": 13,
+          "text": "Ndivyo ulivyo mwisho wa hao wamsahauo Mungu; Na matumaini yake huyo mbaya huangamia;"
+        },
+        {
+          "chapter": 8,
+          "verse": 14,
+          "text": "Uthabiti wake utavunjika, Na matumaini yake huwa ni nyuzi za buibui."
+        },
+        {
+          "chapter": 8,
+          "verse": 15,
+          "text": "Ataitegemea nyumba yake, isisimame; Atashikamana nayo, isidumu."
+        },
+        {
+          "chapter": 8,
+          "verse": 16,
+          "text": "Yeye huwa mti mbichi mbele ya jua, Nayo machipukizi yake huenea katika bustani yake."
+        },
+        {
+          "chapter": 8,
+          "verse": 17,
+          "text": "Mizizi yake huzonga-zonga chuguu, Huangalia mahali penye mawe."
+        },
+        {
+          "chapter": 8,
+          "verse": 18,
+          "text": "Lakini, aking’olewa mahali pake, Ndipo patamkana, na kusema, Mimi sikukuona."
+        },
+        {
+          "chapter": 8,
+          "verse": 19,
+          "text": "Tazama, furaha ya njia yake ni hii, Na wengine watachipuka kutoka katika nchi."
+        },
+        {
+          "chapter": 8,
+          "verse": 20,
+          "text": "Tazama, Mungu hatamtupa mtu mkamilifu, Wala hatawathibitisha watendao uovu."
+        },
+        {
+          "chapter": 8,
+          "verse": 21,
+          "text": "Bado atakijaza kinywa chako kicheko, Na midomo yako ataijaza shangwe."
+        },
+        {
+          "chapter": 8,
+          "verse": 22,
+          "text": "Hao wakuchukiao watavikwa aibu; Nayo hema yake mwovu haitakuwako tena."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 9,
+      "lastVerse": 35,
+      "verseUnitCount": 35,
+      "verses": [
+        {
+          "chapter": 9,
+          "verse": 1,
+          "text": "Ndipo Ayubu akajibu, na kusema,"
+        },
+        {
+          "chapter": 9,
+          "verse": 2,
+          "text": "Kweli najua kuwa ndivyo hivyo; Lakini mtu huwaje mwenye haki mbele za Mungu?"
+        },
+        {
+          "chapter": 9,
+          "verse": 3,
+          "text": "Kama akipenda kushindana naye, Hawezi kumjibu neno moja katika elfu."
+        },
+        {
+          "chapter": 9,
+          "verse": 4,
+          "text": "Yeye ni mwenye hekima moyoni, na mwenye uwezo katika nguvu; Ni nani aliyejifanya kuwa mgumu juu yake, naye akafanikiwa?"
+        },
+        {
+          "chapter": 9,
+          "verse": 5,
+          "text": "Aiondoaye milima, nayo haina habari, Akiipindua katika hasira zake."
+        },
+        {
+          "chapter": 9,
+          "verse": 6,
+          "text": "Aitikisaye dunia itoke mahali pake, Na nguzo zake hutetema."
+        },
+        {
+          "chapter": 9,
+          "verse": 7,
+          "text": "Aliamuruye jua, nalo halichomozi; Nazo nyota huzipiga muhuri."
+        },
+        {
+          "chapter": 9,
+          "verse": 8,
+          "text": "Ambaye peke yake ni mwenye kuzitandika mbingu, Na kuyakanyaga mawimbi ya bahari."
+        },
+        {
+          "chapter": 9,
+          "verse": 9,
+          "text": "Yeye afanyaye hizo nyota za Dubu, na Orioni, na hicho Kilimia, Na makundi ya nyota ya kusini."
+        },
+        {
+          "chapter": 9,
+          "verse": 10,
+          "text": "Atendaye mambo makuu yasiyotafutikana; Naam, mambo ya ajabu yasiyohesabika."
+        },
+        {
+          "chapter": 9,
+          "verse": 11,
+          "text": "Tazama, yuaenenda karibu nami, nisimwone; Tena yuapita kwenda mbele, nisimtambue."
+        },
+        {
+          "chapter": 9,
+          "verse": 12,
+          "text": "Tazama, yuakamata, ni nani awezaye kumzuia? Ni nani awezaye kumwuliza, Wafanya nini?"
+        },
+        {
+          "chapter": 9,
+          "verse": 13,
+          "text": "Mungu haondoi hasira zake; Hao wamsaidiao Rahabu huinama chini yake."
+        },
+        {
+          "chapter": 9,
+          "verse": 14,
+          "text": "Je! Mimi nitamjibuje, Na kuyachagua maneno yangu kuhojiana naye?"
+        },
+        {
+          "chapter": 9,
+          "verse": 15,
+          "text": "Ambaye, nijapokuwa mimi ni mwenye haki, nisingemjibu; Ningemsihi-sihi mtesi wangu."
+        },
+        {
+          "chapter": 9,
+          "verse": 16,
+          "text": "Kama ningemwita, naye akaniitikia; Hata hivyo singeamini kuwa amesikiza sauti yangu."
+        },
+        {
+          "chapter": 9,
+          "verse": 17,
+          "text": "Yeye anipondaye kwa dhoruba, Na kuziongeza jeraha zangu pasipokuwa na sababu."
+        },
+        {
+          "chapter": 9,
+          "verse": 18,
+          "text": "Haniachi nipate kuvuta pumzi, Lakini hunijaza uchungu."
+        },
+        {
+          "chapter": 9,
+          "verse": 19,
+          "text": "Kama tukitaja nguvu za mashujaa, tazama yupo hapo! Kama tukitaja hukumu, ni nani atakayeniwekea muhula?"
+        },
+        {
+          "chapter": 9,
+          "verse": 20,
+          "text": "Ingawa ni mwenye haki, kinywa changu mwenyewe kitanihukumu; Ingawa ni mkamilifu, kitanishuhudia kuwa ni mpotovu."
+        },
+        {
+          "chapter": 9,
+          "verse": 21,
+          "text": "Mimi ni mkamilifu; siangalii nafsi yangu; Naudharau uhai wangu."
+        },
+        {
+          "chapter": 9,
+          "verse": 22,
+          "text": "Hayo yote ni mamoja; kwa hiyo nasema, Yeye huangamiza wakamilifu na waovu pia."
+        },
+        {
+          "chapter": 9,
+          "verse": 23,
+          "text": "Kama hilo pigo likiua ghafula, Atayadhihaki majaribu yake asiye na kosa."
+        },
+        {
+          "chapter": 9,
+          "verse": 24,
+          "text": "Dunia imetiwa mkononi mwa waovu; Yeye hufunika nyuso za waamuzi wake; Kama si yeye, ni nani basi?"
+        },
+        {
+          "chapter": 9,
+          "verse": 25,
+          "text": "Basi siku zangu zina mbio kuliko tarishi; Zakimbia, wala hazioni mema."
+        },
+        {
+          "chapter": 9,
+          "verse": 26,
+          "text": "Zimepita kama merikebu ziendazo mbio; Mfano wa tai ayashukiaye mawindo."
+        },
+        {
+          "chapter": 9,
+          "verse": 27,
+          "text": "Nikisema, Mimi nitasahau kuugua kwangu, Nitaacha kununa uso nikachangamke moyo;"
+        },
+        {
+          "chapter": 9,
+          "verse": 28,
+          "text": "Mimi huziogopa huzuni zangu zote, Najua kuwa hutanihesabu kuwa sina hatia."
+        },
+        {
+          "chapter": 9,
+          "verse": 29,
+          "text": "Nitahukumiwa kuwa ni mkosa; Ya nini basi nitaabike bure?"
+        },
+        {
+          "chapter": 9,
+          "verse": 30,
+          "text": "Ingawaje najiosha kwa maji ya theluji, Na kuitakasa mikono yangu kwa sabuni;"
+        },
+        {
+          "chapter": 9,
+          "verse": 31,
+          "text": "Lakini utanitupa shimoni, Nami hata nguo zangu zitanichukia."
+        },
+        {
+          "chapter": 9,
+          "verse": 32,
+          "text": "Kwani yeye si mtu, kama mimi, hata nimjibu, Hata tukaribiane katika hukumu."
+        },
+        {
+          "chapter": 9,
+          "verse": 33,
+          "text": "Hapana mwenye kuamua katikati yetu, Awezaye kutuwekea mkono sote wawili."
+        },
+        {
+          "chapter": 9,
+          "verse": 34,
+          "text": "Na aniondolee fimbo yake, Na utisho wake usinitie hofu;"
+        },
+        {
+          "chapter": 9,
+          "verse": 35,
+          "text": "Ndipo hapo ningesema, nisimwogope; Kwani sivyo nilivyo nafsini mwangu."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 10,
+      "lastVerse": 22,
+      "verseUnitCount": 22,
+      "verses": [
+        {
+          "chapter": 10,
+          "verse": 1,
+          "text": "Nafsi yangu inachoka na maisha yangu; Sitajizuia na kuugua kwangu; Nitanena kwa uchungu wa roho yangu."
+        },
+        {
+          "chapter": 10,
+          "verse": 2,
+          "text": "Nitamwambia Mungu, Usinihukumie makosa; Nionyeshe sababu ya wewe kushindana nami."
+        },
+        {
+          "chapter": 10,
+          "verse": 3,
+          "text": "Je! Ni vema kwako wewe kuonea, Na kuidharau kazi ya mikono yako, Na kuyaangazia mashauri ya waovu?"
+        },
+        {
+          "chapter": 10,
+          "verse": 4,
+          "text": "Je! Wewe una macho ya kimwili, Au je! Waona kama aonavyo binadamu?"
+        },
+        {
+          "chapter": 10,
+          "verse": 5,
+          "text": "Je! Siku zako ni kama siku za mtu, Au je! Miaka yako ni kama siku za mtu,"
+        },
+        {
+          "chapter": 10,
+          "verse": 6,
+          "text": "Hata ukauliza-uliza habari za uovu wangu, Na kuitafuta dhambi yangu,"
+        },
+        {
+          "chapter": 10,
+          "verse": 7,
+          "text": "Ujapojua ya kuwa mimi si mwovu; Wala hapana awezaye kuokoa na mkono wako?"
+        },
+        {
+          "chapter": 10,
+          "verse": 8,
+          "text": "Mikono yako imeniumba na kunifinyanga; Nawe utageuka na kuniangamiza?"
+        },
+        {
+          "chapter": 10,
+          "verse": 9,
+          "text": "Kumbuka, nakusihi ulivyonifinyanga kama vile udongo; Nawe, je! Utanirudisha uvumbini tena?"
+        },
+        {
+          "chapter": 10,
+          "verse": 10,
+          "text": "Je! Wewe hukunimimina kama maziwa, Na kunigandisha mfano wa jibini?"
+        },
+        {
+          "chapter": 10,
+          "verse": 11,
+          "text": "Umenivika ngozi na nyama, Na kuniunga pamoja kwa mifupa na mishipa."
+        },
+        {
+          "chapter": 10,
+          "verse": 12,
+          "text": "Umenijazi uhai na upendeleo, Na maangalizi yako yameilinda roho yangu."
+        },
+        {
+          "chapter": 10,
+          "verse": 13,
+          "text": "Lakini mambo haya uliyaficha moyoni mwako; Najua kuwa haya yamo nafsini mwako;"
+        },
+        {
+          "chapter": 10,
+          "verse": 14,
+          "text": "Nikifanya dhambi, ndipo waniangalia, Wala hutaniachilia na uovu wangu."
+        },
+        {
+          "chapter": 10,
+          "verse": 15,
+          "text": "Mimi nikiwa mbaya, ole wangu! Nami nikiwa mwenye haki, walakini sitainua kichwa changu; Mimi nimejaa aibu Na kuyaangalia mateso yangu."
+        },
+        {
+          "chapter": 10,
+          "verse": 16,
+          "text": "Kichwa changu kikijiinua, waniwinda kama simba; Tena wajionyesha kwangu kuwa wa ajabu."
+        },
+        {
+          "chapter": 10,
+          "verse": 17,
+          "text": "Wewe warejeza upya hao mashahidi yako juu yangu, Na kasirani yako waiongeza juu yangu; Jeshi kwa jeshi juu yangu."
+        },
+        {
+          "chapter": 10,
+          "verse": 18,
+          "text": "Kwa nini basi kunitoa tumboni? Ningekata roho, lisinione jicho lo lote."
+        },
+        {
+          "chapter": 10,
+          "verse": 19,
+          "text": "Ningalikuwa kama mtu asiyekuwapo; Ningalichukuliwa kaburini kutoka tumboni."
+        },
+        {
+          "chapter": 10,
+          "verse": 20,
+          "text": "Je! Siku zangu si chache? Acha basi, Usinisumbue, nipate ngaa kutuzwa moyo kidogo."
+        },
+        {
+          "chapter": 10,
+          "verse": 21,
+          "text": "Kabla sijaenda huko ambako sitarudi kutoka huko tena, Ni hiyo nchi ya giza, giza tupu;"
+        },
+        {
+          "chapter": 10,
+          "verse": 22,
+          "text": "Ni nchi ya giza kuu, kama giza lenyewe lilivyo; Ni nchi ya giza tupu, isiyo na matengezo ya mambo yo yote, Nchi ambayo nuru yake ni kama giza."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 11,
+      "lastVerse": 20,
+      "verseUnitCount": 20,
+      "verses": [
+        {
+          "chapter": 11,
+          "verse": 1,
+          "text": "Ndipo Sofari Mnaamathi akajibu, na kusema,"
+        },
+        {
+          "chapter": 11,
+          "verse": 2,
+          "text": "Je! Huu wingi wa maneno usijibiwe? Na mtu aliyejaa maneno, je! Ahesabiwe kuwa na haki?"
+        },
+        {
+          "chapter": 11,
+          "verse": 3,
+          "text": "Je! Majivuno yako yawanyamazishe watu wawe kimya? Nawe hapo ufanyapo dhihaka, je! Hapana mtu atakayekutahayarisha?"
+        },
+        {
+          "chapter": 11,
+          "verse": 4,
+          "text": "Kwa kuwa wewe wasema, Mafunzo yangu ni safi, Nami ni safi machoni pako."
+        },
+        {
+          "chapter": 11,
+          "verse": 5,
+          "text": "Lakini, laiti Mungu angenena, Na kuifunua midomo yake juu yako;"
+        },
+        {
+          "chapter": 11,
+          "verse": 6,
+          "text": "Tena akuonyeshe hizo siri za hekima, Ya kuwa hufanikiwa katika kuyatimiza makusudi yake! Ujue basi ya kuwa Mungu akuachilia katika uovu wako."
+        },
+        {
+          "chapter": 11,
+          "verse": 7,
+          "text": "Je! Wewe waweza kuuvumbua ukuu wa Mungu? Waweza kuufikilia upeo wa huyo Mwenyezi?"
+        },
+        {
+          "chapter": 11,
+          "verse": 8,
+          "text": "Ni juu mno kama mbingu; waweza kufanya nini wewe? Ni wenye kina kuliko kuzimuni; waweza kujua nini wewe?"
+        },
+        {
+          "chapter": 11,
+          "verse": 9,
+          "text": "Cheo chake ni kirefu kuliko dunia, Ni kipana zaidi ya bahari."
+        },
+        {
+          "chapter": 11,
+          "verse": 10,
+          "text": "Yeye akipita, na kufunga watu, Na kuwaita hukumuni, ni nani basi awezaye kumzuia?"
+        },
+        {
+          "chapter": 11,
+          "verse": 11,
+          "text": "Kwani yeye awajua watu baradhuli; Huona na uovu pia, hata asipoufikiri."
+        },
+        {
+          "chapter": 11,
+          "verse": 12,
+          "text": "Lakini mpumbavu aweza kupata ufahamu, Ingawa mwanadamu huzaliwa kama mtoto wa punda-mwitu."
+        },
+        {
+          "chapter": 11,
+          "verse": 13,
+          "text": "Wewe ukiuweka moyo wako kwa uelekevu, Na kumnyoshea mikono yako;"
+        },
+        {
+          "chapter": 11,
+          "verse": 14,
+          "text": "Ikiwa una uovu mkononi mwako, uweke mbali nawe, Wala usikubali upuzi kukaa hemani mwako;"
+        },
+        {
+          "chapter": 11,
+          "verse": 15,
+          "text": "Hakika ndipo utakapopata kuinua uso pasipo ila; Naam, utathibitika, wala hutakuwa na hofu;"
+        },
+        {
+          "chapter": 11,
+          "verse": 16,
+          "text": "Kwa kuwa utasahau mashaka yako; Utayakumbuka kama maji yaliyokwisha pita;"
+        },
+        {
+          "chapter": 11,
+          "verse": 17,
+          "text": "Na maisha yako yatakuwa meupe kuliko adhuhuri; Lijapokuwa ni giza, litakuwa kama alfajiri."
+        },
+        {
+          "chapter": 11,
+          "verse": 18,
+          "text": "Nawe utakuwa salama, kwa sababu kuna matumaini; Naam, utatafuta-tafuta kando yako, na kupumzika katika salama."
+        },
+        {
+          "chapter": 11,
+          "verse": 19,
+          "text": "Tena utalala, wala hapana atakayekutia hofu; Naam, wengi watakutafuta uso wako."
+        },
+        {
+          "chapter": 11,
+          "verse": 20,
+          "text": "Lakini macho ya waovu yataingia kiwi, Nao hawatakuwa na njia ya kukimbilia, Na matumaini yao yatakuwa ni kutoa roho."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 12,
+      "lastVerse": 25,
+      "verseUnitCount": 25,
+      "verses": [
+        {
+          "chapter": 12,
+          "verse": 1,
+          "text": "Ndipo Ayubu akajibu, na kusema,"
+        },
+        {
+          "chapter": 12,
+          "verse": 2,
+          "text": "Hapana shaka ninyi ndinyi watu halisi, Nanyi mtakapokufa, ndipo na hekima itakoma."
+        },
+        {
+          "chapter": 12,
+          "verse": 3,
+          "text": "Lakini mimi pia, nina fahamu kama ninyi; Mimi si duni yenu ninyi; Naam, ni nani asiyejua mambo kama hayo?"
+        },
+        {
+          "chapter": 12,
+          "verse": 4,
+          "text": "Mimi ni mtu wa kuchekwa na jirani yake, Ni mtu niliyemwita Mungu, naye akanijibu; Huyo mwenye haki, aliye mtimilifu, amekuwa ni kicheko."
+        },
+        {
+          "chapter": 12,
+          "verse": 5,
+          "text": "Katika mawazo yake huyo aliye na raha mna kudharau mashaka; Tayari kwa ajili ya wenye kuteleza miguu."
+        },
+        {
+          "chapter": 12,
+          "verse": 6,
+          "text": "Hema za wapokonyi hufanikiwa, Na hao wamkasirishao Mungu hukaa salama; Mikononi mwao Mungu huleta vitu vingi."
+        },
+        {
+          "chapter": 12,
+          "verse": 7,
+          "text": "Lakini sasa waulize hao wanyama, nao watakufundisha; Na nyuni wa angani, nao watakuambia;"
+        },
+        {
+          "chapter": 12,
+          "verse": 8,
+          "text": "Au nena na nchi, nayo itakufundisha; Nao samaki wa baharini watakutangazia."
+        },
+        {
+          "chapter": 12,
+          "verse": 9,
+          "text": "Katika hawa wote ni yupi asiyejua, Kwamba ni mkono wa [DN]BWANA[/DN] uliofanya haya?"
+        },
+        {
+          "chapter": 12,
+          "verse": 10,
+          "text": "Ambaye nafsi ya kila kilicho hai i mkononi mwake, Na pumzi zao wanadamu wote."
+        },
+        {
+          "chapter": 12,
+          "verse": 11,
+          "text": "Je! Sikio silo lijaribulo maneno, Kama vile kaakaa lionjavyo chakula?"
+        },
+        {
+          "chapter": 12,
+          "verse": 12,
+          "text": "Wazee ndio walio na hekima, Na katika kuishi siku nyingi iko fahamu."
+        },
+        {
+          "chapter": 12,
+          "verse": 13,
+          "text": "Hekima na amri zina yeye [Mungu]; Yeye anayo mashauri na fahamu."
+        },
+        {
+          "chapter": 12,
+          "verse": 14,
+          "text": "Tazama, yuavunja, wala haiwezekani kujenga tena; Humfunga mtu, wala haiwezekani kumfungua."
+        },
+        {
+          "chapter": 12,
+          "verse": 15,
+          "text": "Tazama, yuayazuia maji, nayo yakatika; Tena, huyapeleka, nayo yaipindua dunia."
+        },
+        {
+          "chapter": 12,
+          "verse": 16,
+          "text": "Kwake yeye ziko nguvu, na makusudi kufanikiwa; Huyo adanganywaye, na mdanganyi pia ni wake."
+        },
+        {
+          "chapter": 12,
+          "verse": 17,
+          "text": "Yeye huwaondoa washauri hali wametekwa nyara, Naye huwafanya waamuzi kuwa ni wapumbavu."
+        },
+        {
+          "chapter": 12,
+          "verse": 18,
+          "text": "Yeye hulegeza kifungo cha wafalme, Na kuwafunga viuno vyao kwa mshipi."
+        },
+        {
+          "chapter": 12,
+          "verse": 19,
+          "text": "Yeye huwaondoa makuhani hali wametekwa nyara. Na kuwapindua mashujaa."
+        },
+        {
+          "chapter": 12,
+          "verse": 20,
+          "text": "Huondoa matamko ya hao walioaminiwa, Na kuondoa fahamu za wazee."
+        },
+        {
+          "chapter": 12,
+          "verse": 21,
+          "text": "Humwaga aibu juu ya hao wakuu, Na kulegeza mshipi wa wenye nguvu."
+        },
+        {
+          "chapter": 12,
+          "verse": 22,
+          "text": "Huvumbua mambo ya siri tokea gizani, Na hicho kilicho giza tupu huleta mwangani."
+        },
+        {
+          "chapter": 12,
+          "verse": 23,
+          "text": "Huyaongeza mataifa, na kuyaangamiza; Huyaeneza mataifa mbali, na kuyaacha."
+        },
+        {
+          "chapter": 12,
+          "verse": 24,
+          "text": "Huwaondolea moyo wakuu wa watu wa nchi, Na kuwapoteza nyikani pasipokuwa na njia."
+        },
+        {
+          "chapter": 12,
+          "verse": 25,
+          "text": "Wao hupapasa gizani pasipokuwa na mwanga, Naye huwafanya kupepesuka kama vile mlevi."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 13,
+      "lastVerse": 28,
+      "verseUnitCount": 28,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": 1,
+          "text": "Tazama, jicho langu limeyaona hayo yote, Sikio langu limeyasikia na kuelewa nayo."
+        },
+        {
+          "chapter": 13,
+          "verse": 2,
+          "text": "Hayo myajuayo ninyi, na mimi pia nayajua; Mimi si duni kuliko ninyi."
+        },
+        {
+          "chapter": 13,
+          "verse": 3,
+          "text": "Hakika ningenena naye huyo Mwenyezi, Nami nataka kuhojiana na Mungu."
+        },
+        {
+          "chapter": 13,
+          "verse": 4,
+          "text": "Lakini ninyi hubuni maneno ya uongo, Ninyi nyote ni matabibu wasiofaa."
+        },
+        {
+          "chapter": 13,
+          "verse": 5,
+          "text": "Laiti mngenyamaza kabisa! Hilo lingekuwa hekima kwenu."
+        },
+        {
+          "chapter": 13,
+          "verse": 6,
+          "text": "Sikieni sasa basi hoja zangu, Mkayasikie mashindano ya midomo yangu."
+        },
+        {
+          "chapter": 13,
+          "verse": 7,
+          "text": "Je! Mtanena yasiyo ya haki kwa ajili ya Mungu, Na kusema kwa udanganyifu kwa ajili yake?"
+        },
+        {
+          "chapter": 13,
+          "verse": 8,
+          "text": "Je! Mtamwonyesha yeye upendeleo? Mtamtetea Mungu?"
+        },
+        {
+          "chapter": 13,
+          "verse": 9,
+          "text": "Je! Itafaa yeye kuwatafuta ninyi? Au, kama kumdanganya mtu, je! Mtamdanganya yeye?"
+        },
+        {
+          "chapter": 13,
+          "verse": 10,
+          "text": "Hakika atawakemea ninyi, Mkiwapendelea watu kwa siri."
+        },
+        {
+          "chapter": 13,
+          "verse": 11,
+          "text": "Je! Huo ukuu wake hautawatia hofu, Na utisho wake hautawaangukia?"
+        },
+        {
+          "chapter": 13,
+          "verse": 12,
+          "text": "Matamko yenu ya hekima ni mithali ya majivu, Ngome zenu ni ngome za udongo."
+        },
+        {
+          "chapter": 13,
+          "verse": 13,
+          "text": "Nyamazeni, niacheni, ili nipate kunena, Na hayo yatakayonijilia na yaje."
+        },
+        {
+          "chapter": 13,
+          "verse": 14,
+          "text": "Nitaitwaa nyama ya mwili wangu katika meno yangu, Na kuutwaa uhai wangu mkononi mwangu!"
+        },
+        {
+          "chapter": 13,
+          "verse": 15,
+          "text": "Tazama, ataniua; sina tumaini; Ila hata hivyo nitaithibitisha njia yangu mbele yake."
+        },
+        {
+          "chapter": 13,
+          "verse": 16,
+          "text": "Hili nalo litakuwa ni wokovu wangu; Kwani asiyemcha Mungu hatakaribia mbele yake."
+        },
+        {
+          "chapter": 13,
+          "verse": 17,
+          "text": "Sikieni sana maneno yangu, Maelezo yangu na yaingie masikioni mwenu."
+        },
+        {
+          "chapter": 13,
+          "verse": 18,
+          "text": "Angalieni sasa, nimekwisha kulitengeneza neno langu, Najua ya kuwa ni mwenye haki mimi."
+        },
+        {
+          "chapter": 13,
+          "verse": 19,
+          "text": "Yuko nani atakayeshindana nami? Maana sasa nitanyamaa kimya na kutoa roho."
+        },
+        {
+          "chapter": 13,
+          "verse": 20,
+          "text": "Lakini msinifanyie mambo mawili, hayo tu, Ndipo nami sitajificha usoni pako;"
+        },
+        {
+          "chapter": 13,
+          "verse": 21,
+          "text": "Uondoe mkono wako usinilemee; Na utisho wako usinitie hofu."
+        },
+        {
+          "chapter": 13,
+          "verse": 22,
+          "text": "Basi uite wakati huo, nami nitaitika; Au, niache ninene mimi, nawe unijibu."
+        },
+        {
+          "chapter": 13,
+          "verse": 23,
+          "text": "Maovu yangu na dhambi zangu ni ngapi? Nijulishe kosa langu na dhambi yangu."
+        },
+        {
+          "chapter": 13,
+          "verse": 24,
+          "text": "Mbona umeuficha uso wako, Na kunihesabu kuwa ni adui yako?"
+        },
+        {
+          "chapter": 13,
+          "verse": 25,
+          "text": "Je! Utalitaabisha jani lipeperushwalo? Au, je! Utayafuatia hayo mabua makavu?"
+        },
+        {
+          "chapter": 13,
+          "verse": 26,
+          "text": "Kwani umeandika maneno ya uchungu juu yangu, Na kunirithisha maovu ya ujana wangu;"
+        },
+        {
+          "chapter": 13,
+          "verse": 27,
+          "text": "Waitia miguu yangu katika mkatale, na kuyaaua mapito yangu yote; Wajiandikia alama kuzizunguka nyayo za miguu yangu;"
+        },
+        {
+          "chapter": 13,
+          "verse": 28,
+          "text": "Nijapokuwa ni kama kitu kilichooza, kinachosinyaa, Mfano wa nguo iliyoliwa na nondo."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 14,
+      "lastVerse": 22,
+      "verseUnitCount": 22,
+      "verses": [
+        {
+          "chapter": 14,
+          "verse": 1,
+          "text": "Mwanadamu aliyezaliwa na mwanamke Siku zake za kuishi si nyingi, naye hujaa taabu."
+        },
+        {
+          "chapter": 14,
+          "verse": 2,
+          "text": "Yeye huchanua kama vile ua, kisha hukatwa; Hukimbia kama kivuli, wala hakai kamwe."
+        },
+        {
+          "chapter": 14,
+          "verse": 3,
+          "text": "Nawe, je! Wafumbua macho yako kumwangalia mtu kama yeye, Na kunitia katika hukumu pamoja nawe?"
+        },
+        {
+          "chapter": 14,
+          "verse": 4,
+          "text": "Ni nani awezaye kutoa kitu kilicho safi kitoke katika kitu kichafu? Hapana awezaye."
+        },
+        {
+          "chapter": 14,
+          "verse": 5,
+          "text": "Kwa kuwa siku zake zimeamriwa, hesabu ya miezi yake unayo wewe, Nawe umemwekea mipaka yake asiyoweza kuipita;"
+        },
+        {
+          "chapter": 14,
+          "verse": 6,
+          "text": "Acha kumwangalia yeye, apate kupumzika, Hata atakapoitimiza siku yake, kama aliyeajiriwa."
+        },
+        {
+          "chapter": 14,
+          "verse": 7,
+          "text": "Kwani yako matumaini ya mti, ya kuwa ukikatwa utachipuka tena, Wala machipukizi yake hayatakoma."
+        },
+        {
+          "chapter": 14,
+          "verse": 8,
+          "text": "Ijapokuwa mizizi yake huchakaa mchangani, Na shina lake kufa katika udongo;"
+        },
+        {
+          "chapter": 14,
+          "verse": 9,
+          "text": "Lakini kwa harufu ya maji utachipuka, Na kutoa matawi kama mche."
+        },
+        {
+          "chapter": 14,
+          "verse": 10,
+          "text": "Lakini mwanadamu hufa, huifariki dunia; Naam, mwanadamu hutoa roho, naye yupo wapi?"
+        },
+        {
+          "chapter": 14,
+          "verse": 11,
+          "text": "Kama vile maji kupwa katika bahari, Na mto kupunguka na kukatika;"
+        },
+        {
+          "chapter": 14,
+          "verse": 12,
+          "text": "Ni vivyo mwanadamu hulala chini, asiinuke; Hata wakati wa mbingu kutokuwako tena, hawataamka, Wala kuamshwa usingizini."
+        },
+        {
+          "chapter": 14,
+          "verse": 13,
+          "text": "Laiti ungenificha kuzimuni, Ukanilinda kwa siri, hata ghadhabu zako zitakapopita, Na kuniandikia muda ulioamriwa, na kunikumbuka!"
+        },
+        {
+          "chapter": 14,
+          "verse": 14,
+          "text": "Mtu akifa, je! Atakuwa hai tena? Mimi ningengoja siku zote za vita vyangu, Hata kufunguliwa kwangu kunifikilie."
+        },
+        {
+          "chapter": 14,
+          "verse": 15,
+          "text": "Wewe ungeita, nami ningekujibu; Ungekuwa na tamaa ya kazi ya mikono yako."
+        },
+        {
+          "chapter": 14,
+          "verse": 16,
+          "text": "Lakini sasa wazihesabu hatua zangu; Je! Huchungulii dhambi yangu?"
+        },
+        {
+          "chapter": 14,
+          "verse": 17,
+          "text": "Kosa langu limetiwa muhuri mfukoni, Nawe waufunga uovu wangu."
+        },
+        {
+          "chapter": 14,
+          "verse": 18,
+          "text": "Lakini, tazama, mlima ukianguka hutoweka, Nalo jabali huondolewa mahali pake;"
+        },
+        {
+          "chapter": 14,
+          "verse": 19,
+          "text": "Maji mengi huyapunguza mawe; Mafuriko yake huuchukua mchanga wa nchi; Nawe matumaini ya wanadamu wayaangamiza."
+        },
+        {
+          "chapter": 14,
+          "verse": 20,
+          "text": "Wewe wamshinda nguvu sikuzote, naye hupita aende zake Wabadili sura zake, na kumpeleka aondoke."
+        },
+        {
+          "chapter": 14,
+          "verse": 21,
+          "text": "Wanawe hufikilia heshima, wala yeye hajui; Kisha wao huaibishwa, lakini yeye hana habari zao."
+        },
+        {
+          "chapter": 14,
+          "verse": 22,
+          "text": "Lakini mwili ulio juu yake una maumivu, Na nafsi yake ndani huomboleza."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 15,
+      "lastVerse": 35,
+      "verseUnitCount": 35,
+      "verses": [
+        {
+          "chapter": 15,
+          "verse": 1,
+          "text": "Ndipo Elifazi, Mtemani, akajibu, na kusema,"
+        },
+        {
+          "chapter": 15,
+          "verse": 2,
+          "text": "Je! Yapasa mtu mwenye hekima kujibu kwa ujuzi wa uvuvio, Na kujaza tumbo lake na upepo wa mashariki?"
+        },
+        {
+          "chapter": 15,
+          "verse": 3,
+          "text": "Je! Ahoji na mazungumzo yasiyo faida, Au kwa maneno ambayo hawezi kufanya mema kwayo?"
+        },
+        {
+          "chapter": 15,
+          "verse": 4,
+          "text": "Naam, wewe waondoa kicho, Nawe wazuia ibada mbele za Mungu."
+        },
+        {
+          "chapter": 15,
+          "verse": 5,
+          "text": "Kwani uovu wako unakufundisha kinywa chako, Nawe wachagua ulimi wake mwenye hila."
+        },
+        {
+          "chapter": 15,
+          "verse": 6,
+          "text": "Kinywa chako mwenyewe chakuhukumia makosa, wala si mimi; Naam, midomo yako mwenyewe hushuhudia juu yako."
+        },
+        {
+          "chapter": 15,
+          "verse": 7,
+          "text": "Je! Wewe u mtu wa kwanza aliyezaliwa? Au, ulizawa wewe kabla ya milima?"
+        },
+        {
+          "chapter": 15,
+          "verse": 8,
+          "text": "Je! Umesikia mashauri ya siri ya Mungu? Nawe je! Wazuia hekima iwe yako tu?"
+        },
+        {
+          "chapter": 15,
+          "verse": 9,
+          "text": "Je! Wewe wajua neno lipi, ambalo sisi hatulijui? Nawe wafahamu nini, ambalo halimo ndani yetu?"
+        },
+        {
+          "chapter": 15,
+          "verse": 10,
+          "text": "Wenye mvi, na walio wazee sana, wote wapo pamoja nasi, Ambao ni wazee kuliko baba yako."
+        },
+        {
+          "chapter": 15,
+          "verse": 11,
+          "text": "Je! Utulizi wa Mungu ni mdogo sana kwako, Na hilo neno la upole si kitu kwako?"
+        },
+        {
+          "chapter": 15,
+          "verse": 12,
+          "text": "Mbona moyo wako unakutaharakisha! Na macho yako, je! Kwani kung’ariza?"
+        },
+        {
+          "chapter": 15,
+          "verse": 13,
+          "text": "Hata ukageuza roho yako iwe kinyume cha Mungu, Na kuyatoa maneno kama hayo kinywani mwako."
+        },
+        {
+          "chapter": 15,
+          "verse": 14,
+          "text": "Je! Mwanadamu ni kitu gani, hata akawa safi? Huyo aliyezaliwa na mwanamke, hata awe na haki?"
+        },
+        {
+          "chapter": 15,
+          "verse": 15,
+          "text": "Yeye hawategemei watakatifu wake; Naam, mbingu nazo si safi machoni pake."
+        },
+        {
+          "chapter": 15,
+          "verse": 16,
+          "text": "Sembuse mtu ambaye ni mwenye kuchukiza na uchafu, Mwanadamu anywaye uovu kama anywavyo maji!"
+        },
+        {
+          "chapter": 15,
+          "verse": 17,
+          "text": "Mimi nitakuonyesha, unisikilize; Na hayo yote niliyoyaona nitayanena;"
+        },
+        {
+          "chapter": 15,
+          "verse": 18,
+          "text": "(Ambayo watu wenye hekima wameyatangaza Tokea baba zao, wala hawakuyaficha;"
+        },
+        {
+          "chapter": 15,
+          "verse": 19,
+          "text": "Waliopewa hiyo nchi peke yao, Wala mgeni hakupita kati yao);"
+        },
+        {
+          "chapter": 15,
+          "verse": 20,
+          "text": "Mtu mwovu huwa na uchungu siku zake zote, Hata hesabu ya miaka aliyowekewa mwenye kuonea."
+        },
+        {
+          "chapter": 15,
+          "verse": 21,
+          "text": "Sauti za utisho zi masikioni mwake; Katika kufanikiwa kwake mtekaji nyara atamjia juu yake;"
+        },
+        {
+          "chapter": 15,
+          "verse": 22,
+          "text": "Yeye hasadiki kwamba atarudi kutoka gizani, Naye hungojewa na upanga;"
+        },
+        {
+          "chapter": 15,
+          "verse": 23,
+          "text": "Hutanga-tanga ili apate chakula, akisema, Ki wapi? Ajua kwamba siku ya giza i tayari karibu yake;"
+        },
+        {
+          "chapter": 15,
+          "verse": 24,
+          "text": "Mateso na dhiki humtia hofu; Humshinda kama vile mfalme aliye tayari kwa vita;"
+        },
+        {
+          "chapter": 15,
+          "verse": 25,
+          "text": "Kwa kuwa amenyosha mkono wake juu ya Mungu, Na kuendelea kwa kiburi kinyume cha Mwenyezi;"
+        },
+        {
+          "chapter": 15,
+          "verse": 26,
+          "text": "Humshambulia na shingo ngumu, Kwa mafundo makubwa ya ngao zake;"
+        },
+        {
+          "chapter": 15,
+          "verse": 27,
+          "text": "Kwa kuwa amefunika uso wake na kunona kwake, Na kuwandisha mafuta kiunoni mwake; Naye amekaa katika miji iliyo ukiwa,"
+        },
+        {
+          "chapter": 15,
+          "verse": 28,
+          "text": "Katika nyumba ambazo hapana mtu azikaaye, Zilizokuwa tayari kuwa magofu."
+        },
+        {
+          "chapter": 15,
+          "verse": 29,
+          "text": "Hatakuwa tajiri, wala mali zake hazitadumu, Wala maongeo yao hayatainama nchi."
+        },
+        {
+          "chapter": 15,
+          "verse": 30,
+          "text": "Hataondoka gizani; Ndimi za moto zitayakausha matawi yake, Naye ataondoka kwa pumzi za kinywa chake."
+        },
+        {
+          "chapter": 15,
+          "verse": 31,
+          "text": "Asiutumainie ubatili, na kujidanganya; Kwa kuwa huo ubatili ndio utakaokuwa ujira wake."
+        },
+        {
+          "chapter": 15,
+          "verse": 32,
+          "text": "Jambo hili litatendeka kabla ya wakati wake, Na tawi lake halitasitawi."
+        },
+        {
+          "chapter": 15,
+          "verse": 33,
+          "text": "Atayapukutisha mapooza yake kama mzabibu, Na kuyatupa maua yake kama mzeituni."
+        },
+        {
+          "chapter": 15,
+          "verse": 34,
+          "text": "Kwa kuwa jamii ya hao wasiomcha Mungu watakuwa tasa, Na moto utateketeza mahema yenye rushwa."
+        },
+        {
+          "chapter": 15,
+          "verse": 35,
+          "text": "Wao hutunga mimba ya madhara, na kuzaa uovu, Nalo tumbo lao hutengeza udanganyifu."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 16,
+      "lastVerse": 22,
+      "verseUnitCount": 22,
+      "verses": [
+        {
+          "chapter": 16,
+          "verse": 1,
+          "text": "Ndipo Ayubu akajibu, na kusema,"
+        },
+        {
+          "chapter": 16,
+          "verse": 2,
+          "text": "Nimesikia maneno mengi mfano wa hayo; Ninyi nyote ni wafariji wenye kutaabisha."
+        },
+        {
+          "chapter": 16,
+          "verse": 3,
+          "text": "Je! Maneno yasiyo faida yatakuwa na mwisho? Au, kuna nini kinachokukasirisha, hata ukajibu?"
+        },
+        {
+          "chapter": 16,
+          "verse": 4,
+          "text": "Mimi nami ningeweza kunena kama ninyi; Kama roho zenu zingekuwa mahali pa roho yangu, Ningeweza kutunga maneno juu yenu, Na kuwatikisia ninyi kichwa changu."
+        },
+        {
+          "chapter": 16,
+          "verse": 5,
+          "text": "Lakini ningewatia nguvu kwa kinywa changu, Na utuzo wa midomo yangu ungetuliza."
+        },
+        {
+          "chapter": 16,
+          "verse": 6,
+          "text": "Nijapokuwa nanena, huzuni yangu haitulizwi; Nijapokuwa najizuia, nimepunguziwa kitu gani?"
+        },
+        {
+          "chapter": 16,
+          "verse": 7,
+          "text": "Lakini sasa amenichokesha; Jamii yangu yote umeifanya ukiwa."
+        },
+        {
+          "chapter": 16,
+          "verse": 8,
+          "text": "Umenishika sana, ni ushahidi juu yangu; Na kukonda kwangu kwaniinukia, kwanishuhudia usoni pangu."
+        },
+        {
+          "chapter": 16,
+          "verse": 9,
+          "text": "Amenirarua katika ghadhabu zake, na kunionea; Amesaga-saga meno juu yangu; Mtesi wangu hunikazia macho makali."
+        },
+        {
+          "chapter": 16,
+          "verse": 10,
+          "text": "Wamenifumbulia vinywa vyao; Wamenipiga shavuni kwa kunitukana; Hujikutanisha pamoja juu yangu."
+        },
+        {
+          "chapter": 16,
+          "verse": 11,
+          "text": "Mungu amenitia kwa hao wapotovu, Na kunitupa mikononi mwao waovu."
+        },
+        {
+          "chapter": 16,
+          "verse": 12,
+          "text": "Nilikuwa katika raha, naye akanivunja-vunja; Naam, amenishika shingo, na kuniponda; Tena amenisimamisha niwe shabaha yake."
+        },
+        {
+          "chapter": 16,
+          "verse": 13,
+          "text": "Wapigaji wake wa mishale hunizingira kotekote, Hunipasua viuno vyangu, asinihurumie; Nyonga zangu amezimwaga juu ya nchi."
+        },
+        {
+          "chapter": 16,
+          "verse": 14,
+          "text": "Hunivunja kwa uvunjifu juu ya uvunjifu; Hunishambulia mfano wa jitu shujaa."
+        },
+        {
+          "chapter": 16,
+          "verse": 15,
+          "text": "Nimeshona nguo ya magunia juu ya mwili wangu, Na pembe yangu nimeidhili uvumbini."
+        },
+        {
+          "chapter": 16,
+          "verse": 16,
+          "text": "Uso wangu umeharibika kwa kutoa machozi, Na giza tupu li katika kope zangu;"
+        },
+        {
+          "chapter": 16,
+          "verse": 17,
+          "text": "Ijapokuwa hapana jeuri mikononi mwangu, Na kuomba kwangu ni safi."
+        },
+        {
+          "chapter": 16,
+          "verse": 18,
+          "text": "Ee nchi, usiifunike damu yangu, Na kilio changu kisipate mahali pa kupumzika."
+        },
+        {
+          "chapter": 16,
+          "verse": 19,
+          "text": "Hata sasa, tazama, shahidi wangu yuko mbinguni. Na huyo atakayenidhamini yuko juu."
+        },
+        {
+          "chapter": 16,
+          "verse": 20,
+          "text": "Rafiki zangu hunidharau; Lakini jicho langu humwagia Mungu machozi;"
+        },
+        {
+          "chapter": 16,
+          "verse": 21,
+          "text": "Laiti angemtolea mtu hoja mbele ya Mungu, Amtetee na mwanadamu mbele ya jirani yake."
+        },
+        {
+          "chapter": 16,
+          "verse": 22,
+          "text": "Kwani ikiisha pita miaka michache, Nitakwenda njia hiyo ambayo sitarudi tena."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 17,
+      "lastVerse": 16,
+      "verseUnitCount": 16,
+      "verses": [
+        {
+          "chapter": 17,
+          "verse": 1,
+          "text": "Roho yangu imezimika, siku zangu zimekoma, Kaburi i tayari kunipokea."
+        },
+        {
+          "chapter": 17,
+          "verse": 2,
+          "text": "Ni kweli wako kwangu wenye kufanya dhihaka, Jicho langu hukaa katika kunifanyia uchungu kwao."
+        },
+        {
+          "chapter": 17,
+          "verse": 3,
+          "text": "Nipe rehani basi, uwe dhamana kwa ajili yangu kwako wewe mwenyewe; Kuna nani atakayeniwekea dhamana?"
+        },
+        {
+          "chapter": 17,
+          "verse": 4,
+          "text": "Kwani mioyo yao imeificha ufahamu; Kwa hiyo hutawakuza."
+        },
+        {
+          "chapter": 17,
+          "verse": 5,
+          "text": "Awafitiniye rafiki zake wawe mawindo, Hata macho ya watoto wake yataingia kiwi."
+        },
+        {
+          "chapter": 17,
+          "verse": 6,
+          "text": "Amenifanya niwe simo kwa watu; Nimekuwa mwenye kuchukiwa kwa wazi."
+        },
+        {
+          "chapter": 17,
+          "verse": 7,
+          "text": "Jicho langu nalo limekuwa giza kwa sababu ya majonzi, Na via vyangu vyote vimekuwa kama kivuli."
+        },
+        {
+          "chapter": 17,
+          "verse": 8,
+          "text": "Walekevu watayastaajabia hayo, Na asiye na hatia atajiamsha juu ya mpotovu."
+        },
+        {
+          "chapter": 17,
+          "verse": 9,
+          "text": "Lakini mwenye haki ataishika njia yake, Naye mwenye mikono safi atazidi kupata nguvu."
+        },
+        {
+          "chapter": 17,
+          "verse": 10,
+          "text": "Lakini rudini; ninyi nyote, njoni sasa; Wala sitampata mtu mwenye hekima kati yenu."
+        },
+        {
+          "chapter": 17,
+          "verse": 11,
+          "text": "Siku zangu zimepita, makusudi yangu yamevunjika, Hata hayo niliyo nayo moyoni mwangu."
+        },
+        {
+          "chapter": 17,
+          "verse": 12,
+          "text": "Wabadili usiku kuwa mchana; Wasema, Mwanga u karibu kwa sababu ya giza."
+        },
+        {
+          "chapter": 17,
+          "verse": 13,
+          "text": "Nikitazamia kuzimu kuwa nyumba yangu; Nikitandika malazi yangu gizani;"
+        },
+        {
+          "chapter": 17,
+          "verse": 14,
+          "text": "Ikiwa nimeuita uharibifu, Wewe u baba yangu; Na kuliambia buu, Wewe u mama yangu, na umbu langu;"
+        },
+        {
+          "chapter": 17,
+          "verse": 15,
+          "text": "Basi, tumaini langu li wapi? Na tumaini langu, ni nani atakayeliona?"
+        },
+        {
+          "chapter": 17,
+          "verse": 16,
+          "text": "Litashuka kwenye makomeo ya kuzimu, Itakapokuwapo raha mavumbini."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 18,
+      "lastVerse": 21,
+      "verseUnitCount": 21,
+      "verses": [
+        {
+          "chapter": 18,
+          "verse": 1,
+          "text": "Ndipo Bildadi, Mshuhi, akajibu, na kusema,"
+        },
+        {
+          "chapter": 18,
+          "verse": 2,
+          "text": "Je! Hata lini utayategea maneno mitambo? Fikiri, kisha baadaye tutanena."
+        },
+        {
+          "chapter": 18,
+          "verse": 3,
+          "text": "Twahesabiwa kuwa wanyama kwa sababu gani, Tena kuwa wanajisi machoni pako?"
+        },
+        {
+          "chapter": 18,
+          "verse": 4,
+          "text": "Wewe ujiraruaye mwenyewe katika hasira yako, Je! Dunia itaachwa kwa ajili yako wewe? Au jabali litaondolewa mahali pake?"
+        },
+        {
+          "chapter": 18,
+          "verse": 5,
+          "text": "Naam, mwanga wa waovu utazimika, Wala mwali wa moto wake hautang’aa."
+        },
+        {
+          "chapter": 18,
+          "verse": 6,
+          "text": "Mwanga hemani mwake utakuwa giza, Nayo taa iliyo juu yake itazimishwa."
+        },
+        {
+          "chapter": 18,
+          "verse": 7,
+          "text": "Hatua zake za nguvu zitasongwa, Na shauri lake mwenyewe litamwangusha chini."
+        },
+        {
+          "chapter": 18,
+          "verse": 8,
+          "text": "Kwani ametupwa katika wavu na miguu yake mwenyewe, Naye huenda juu ya matanzi."
+        },
+        {
+          "chapter": 18,
+          "verse": 9,
+          "text": "Tanzi litamshika kisigino chake, Na mtambo utamgwia."
+        },
+        {
+          "chapter": 18,
+          "verse": 10,
+          "text": "Amefichiwa tanzi chini, Na mtego amewekewa njiani."
+        },
+        {
+          "chapter": 18,
+          "verse": 11,
+          "text": "Matisho yatamtia hofu pande zote, Na kumfukuza karibu na visigino vyake."
+        },
+        {
+          "chapter": 18,
+          "verse": 12,
+          "text": "Nguvu zake zitaliwa na njaa, Na msiba utakuwa tayari kwa kusita kwake."
+        },
+        {
+          "chapter": 18,
+          "verse": 13,
+          "text": "Utakula via vya mwili wake, Naam, mzaliwa wa kwanza wa mauti atavila via vyake."
+        },
+        {
+          "chapter": 18,
+          "verse": 14,
+          "text": "Atang’olewa katika hema yake aliyokuwa akiitumaini; Naye atapelekwa kwake mfalme wa utisho."
+        },
+        {
+          "chapter": 18,
+          "verse": 15,
+          "text": "Ambacho si chake kitakaa katika hema yake; Kiberiti kitamwagwa juu ya makazi yake."
+        },
+        {
+          "chapter": 18,
+          "verse": 16,
+          "text": "Chini, mizizi yake itakaushwa; Na juu, tawi lake litasinyaa."
+        },
+        {
+          "chapter": 18,
+          "verse": 17,
+          "text": "Kumbukumbu lake litakoma katika nchi, Wala hatakuwa na jina mashambani."
+        },
+        {
+          "chapter": 18,
+          "verse": 18,
+          "text": "Atakimbizwa kutoka mwangani hata gizani, Na kufukuzwa atoke duniani."
+        },
+        {
+          "chapter": 18,
+          "verse": 19,
+          "text": "Hatakuwa na mwana wala mjukuu kati ya watu wake, Wala hatasalia mtu hapo alipokaa."
+        },
+        {
+          "chapter": 18,
+          "verse": 20,
+          "text": "Hao wanaokaa magharibi watastaajabia siku yake, Kama vile wanaokaa mashariki walivyotiwa hofu."
+        },
+        {
+          "chapter": 18,
+          "verse": 21,
+          "text": "Hakika ndivyo yalivyo makazi ya wapotovu, Na hapa ni mahali pake asiyemjua Mungu."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 19,
+      "lastVerse": 29,
+      "verseUnitCount": 29,
+      "verses": [
+        {
+          "chapter": 19,
+          "verse": 1,
+          "text": "Ndipo Ayubu akajibu, na kusema,"
+        },
+        {
+          "chapter": 19,
+          "verse": 2,
+          "text": "Je! Mtanichukiza nafsi yangu hata lini, Na kunivunja-vunja kwa maneno?"
+        },
+        {
+          "chapter": 19,
+          "verse": 3,
+          "text": "Mara kumi hizi mmenishutumu; Hamwoni haya kunifanyia mambo magumu."
+        },
+        {
+          "chapter": 19,
+          "verse": 4,
+          "text": "Ingawaje nimekosa, Kosa langu hukaa kwangu mwenyewe."
+        },
+        {
+          "chapter": 19,
+          "verse": 5,
+          "text": "Kwamba mtajitukuza juu yangu, Na kunena juu yangu shutumu langu;"
+        },
+        {
+          "chapter": 19,
+          "verse": 6,
+          "text": "Jueni basi kuwa Mungu amenipotosha, Na kunizingira kwa wavu wake."
+        },
+        {
+          "chapter": 19,
+          "verse": 7,
+          "text": "Tazama, nalia, Udhalimu, lakini sisikiwi; Naulilia msaada, wala hapana hukumu."
+        },
+        {
+          "chapter": 19,
+          "verse": 8,
+          "text": "Yeye ameiziba njia yangu nisipate kupita, Na kutia giza katika mapito yangu."
+        },
+        {
+          "chapter": 19,
+          "verse": 9,
+          "text": "Amenivua utukufu wangu, Na kuiondoa taji kichwani mwangu."
+        },
+        {
+          "chapter": 19,
+          "verse": 10,
+          "text": "Amenibomoa pande zote, nami nimetoweka; Na tumaini langu ameling’oa kama mti."
+        },
+        {
+          "chapter": 19,
+          "verse": 11,
+          "text": "Tena ameziwasha ghadhabu zake juu yangu, Akanihesabia kuwa mmoja katika watesi wake."
+        },
+        {
+          "chapter": 19,
+          "verse": 12,
+          "text": "Majeshi yake husongea pamoja, na kunipandishia njia yao, Na kupiga marago kuizunguka hema yangu."
+        },
+        {
+          "chapter": 19,
+          "verse": 13,
+          "text": "Amewaweka ndugu zangu mbali nami, Na wanijuao wametengwa nami kabisa."
+        },
+        {
+          "chapter": 19,
+          "verse": 14,
+          "text": "Watu wa mbari yangu wamekoma, Na rafiki zangu niwapendao wamenisahau."
+        },
+        {
+          "chapter": 19,
+          "verse": 15,
+          "text": "Wakaao nyumbani mwangu, na vijakazi vyangu, wanihesabu kuwa mgeni; Mimi ni mgeni machoni pao."
+        },
+        {
+          "chapter": 19,
+          "verse": 16,
+          "text": "Namwita mtumishi wangu, wala haniitikii, Ingawa namsihi kwa kinywa changu."
+        },
+        {
+          "chapter": 19,
+          "verse": 17,
+          "text": "Pumzi zangu ni kama za mgeni kwa mke wangu, Nami ni machukizo kwa ndugu zangu."
+        },
+        {
+          "chapter": 19,
+          "verse": 18,
+          "text": "Hata watoto wadogo hunidharau; Nikiondoka, huninena."
+        },
+        {
+          "chapter": 19,
+          "verse": 19,
+          "text": "Wasiri wangu wote wanichukia; Na hao niliowapenda wamenigeukia."
+        },
+        {
+          "chapter": 19,
+          "verse": 20,
+          "text": "Mfupa wangu unagandamana na ngozi yangu na nyama yangu, Nami nimeokoka na ngozi ya meno yangu tu."
+        },
+        {
+          "chapter": 19,
+          "verse": 21,
+          "text": "Nihurumieni, nihurumieni, enyi rafiki zangu, Kwa maana mkono wa Mungu umenigusa."
+        },
+        {
+          "chapter": 19,
+          "verse": 22,
+          "text": "Mbona ninyi mnaniudhi kama Mungu, Wala hamkutosheka na nyama yangu?"
+        },
+        {
+          "chapter": 19,
+          "verse": 23,
+          "text": "Laiti maneno yangu yangeandikwa sasa! Laiti yangeandikwa kitabuni!"
+        },
+        {
+          "chapter": 19,
+          "verse": 24,
+          "text": "Yakachorwa katika mwamba milele, Kwa kalamu ya chuma na risasi."
+        },
+        {
+          "chapter": 19,
+          "verse": 25,
+          "text": "Lakini mimi najua ya kuwa Mteteaji wangu yu hai, Na ya kuwa hatimaye atasimama juu ya nchi."
+        },
+        {
+          "chapter": 19,
+          "verse": 26,
+          "text": "Na baada ya ngozi yangu kuharibiwa hivi, Lakini, pasipokuwa na mwili wangu nitamwona Mungu;"
+        },
+        {
+          "chapter": 19,
+          "verse": 27,
+          "text": "Nami nitamwona mimi nafsi yangu, Na macho yangu yatamtazama, wala si mwingine. Mtima wangu unazimia ndani yangu!"
+        },
+        {
+          "chapter": 19,
+          "verse": 28,
+          "text": "Kama mkisema, Jinsi tutakavyomwudhi! Kwa kuwa shina la jambo hili limeonekana kwake;"
+        },
+        {
+          "chapter": 19,
+          "verse": 29,
+          "text": "Uogopeni upanga; Kwa maana adhabu za upanga zina ghadhabu, Mpate kujua ya kwamba hukumu iko."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 20,
+      "lastVerse": 29,
+      "verseUnitCount": 29,
+      "verses": [
+        {
+          "chapter": 20,
+          "verse": 1,
+          "text": "Ndipo Sofari, Mnaamathi, akajibu, na kusema,"
+        },
+        {
+          "chapter": 20,
+          "verse": 2,
+          "text": "Kwa hiyo mawazo yangu hunipa jawabu, Kwa ajili ya haraka niliyo nayo ndani yangu."
+        },
+        {
+          "chapter": 20,
+          "verse": 3,
+          "text": "Nimesikia maonyo yanayonitahayarisha, Nayo roho ya ufahamu wangu hunijibu."
+        },
+        {
+          "chapter": 20,
+          "verse": 4,
+          "text": "Je! Hujui neno hili tangu zamani za kale, Tangu wanadamu kuwekwa juu ya nchi,"
+        },
+        {
+          "chapter": 20,
+          "verse": 5,
+          "text": "Ya kuwa shangwe ya waovu ni kwa muda kidogo, Na furaha ya wapotovu ni ya dakika moja tu?"
+        },
+        {
+          "chapter": 20,
+          "verse": 6,
+          "text": "Ujapopanda ukuu wake mpaka mbinguni, Na kichwa chake kufikilia mawinguni;"
+        },
+        {
+          "chapter": 20,
+          "verse": 7,
+          "text": "Hata hivyo ataangamia milele kama mavi yake mwenyewe; Hao waliomwona watasema, Yuko wapi?"
+        },
+        {
+          "chapter": 20,
+          "verse": 8,
+          "text": "Ataruka mfano wa ndoto, asionekane; Naam, atafukuzwa kama maono ya usiku,"
+        },
+        {
+          "chapter": 20,
+          "verse": 9,
+          "text": "Jicho lililomwona halitamwona tena; Wala mahali pake hapatamtazama tena."
+        },
+        {
+          "chapter": 20,
+          "verse": 10,
+          "text": "Watoto wake watataka fadhili kwa maskini, Na mikono yake itarudisha mali yake."
+        },
+        {
+          "chapter": 20,
+          "verse": 11,
+          "text": "Mifupa yake imejaa ujana wake, Lakini utalala nchi naye mavumbini."
+        },
+        {
+          "chapter": 20,
+          "verse": 12,
+          "text": "Ingawa uovu una tamu kinywani mwake, Ingawa auficha chini ya ulimi wake;"
+        },
+        {
+          "chapter": 20,
+          "verse": 13,
+          "text": "Ingawa auhurumia, asikubali kuuacha uende zake. Lakini akaushika vivyo kinywani mwake;"
+        },
+        {
+          "chapter": 20,
+          "verse": 14,
+          "text": "Hata hivyo chakula chake matumboni mwake kinabadilika, Kimekuwa ni nyongo za majoka ndani yake."
+        },
+        {
+          "chapter": 20,
+          "verse": 15,
+          "text": "Amemeza mali, naye atayatapika tena; Mungu atayatoa tumboni mwake."
+        },
+        {
+          "chapter": 20,
+          "verse": 16,
+          "text": "Ataamwa sumu ya majoka; Na ulimi wa fira utamwua."
+        },
+        {
+          "chapter": 20,
+          "verse": 17,
+          "text": "Hataiangalia hiyo mito ya maji, Vile vijito vilivyojaa asali na siagi."
+        },
+        {
+          "chapter": 20,
+          "verse": 18,
+          "text": "Aliyoyataabikia kazi atayarudisha, asiyameze; Kwa mali aliyoyapata, hatafurahi."
+        },
+        {
+          "chapter": 20,
+          "verse": 19,
+          "text": "Kwa maana amewaonea na kuwaacha maskini; Amenyang’anya nyumba kwa jeuri, wala hataijenga."
+        },
+        {
+          "chapter": 20,
+          "verse": 20,
+          "text": "Kwa sababu hakujua utulivu ndani yake, Hataponya cho chote katika hicho alichokifurahia."
+        },
+        {
+          "chapter": 20,
+          "verse": 21,
+          "text": "Hakikusalia kitu asichokula; Kwa hiyo kufanikiwa kwake hakutadumu."
+        },
+        {
+          "chapter": 20,
+          "verse": 22,
+          "text": "Katika kujaa kwa wingi wake atakuwa katika dhiki; Mkono wa kila anayesumbuliwa utamjia."
+        },
+        {
+          "chapter": 20,
+          "verse": 23,
+          "text": "Hapo atakapo kulijaza tumbo lake, Mungu atamtupia ukali wa ghadhabu zake, Na kuunyesha juu yake akiwa anakula."
+        },
+        {
+          "chapter": 20,
+          "verse": 24,
+          "text": "Ataikimbia silaha ya chuma, Na uta wa shaba utamchoma kwa pili."
+        },
+        {
+          "chapter": 20,
+          "verse": 25,
+          "text": "Yeye autoa, nao watoka mwilini mwake; Naam, ncha ing’aayo yatoka katika nyongo yake; Vitisho viko juu yake."
+        },
+        {
+          "chapter": 20,
+          "verse": 26,
+          "text": "Giza lote linawekwa kwa ajili ya hazina zake; Moto ambao haukuvuviwa na mtu utamla; Utayateketeza yaliyosalia hemani mwake."
+        },
+        {
+          "chapter": 20,
+          "verse": 27,
+          "text": "Mbingu zitafunua wazi uovu wake, Nayo nchi itainuka kinyume chake."
+        },
+        {
+          "chapter": 20,
+          "verse": 28,
+          "text": "Maongeo ya nyumba yake yataondoka, Yatamwagika mbali katika siku ya ghadhabu zake."
+        },
+        {
+          "chapter": 20,
+          "verse": 29,
+          "text": "Hii ndiyo sehemu ya mtu mwovu itokayo kwa Mungu, Na urithi aliowekewa na Mungu."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 21,
+      "lastVerse": 34,
+      "verseUnitCount": 34,
+      "verses": [
+        {
+          "chapter": 21,
+          "verse": 1,
+          "text": "Ndipo Ayubu akajibu, na kusema,"
+        },
+        {
+          "chapter": 21,
+          "verse": 2,
+          "text": "Yasikizeni sana maneno yangu; Jambo hili na liwe faraja yenu."
+        },
+        {
+          "chapter": 21,
+          "verse": 3,
+          "text": "Niacheni, nami pia nitanena; Tena nikiisha nena, zidini kudhihaki."
+        },
+        {
+          "chapter": 21,
+          "verse": 4,
+          "text": "Mimi, je! Mashitaka yangu yamhusu mwanadamu? Nami kwa nini nisikose kusubiri?"
+        },
+        {
+          "chapter": 21,
+          "verse": 5,
+          "text": "Niangalieni, mkastaajabu, Mkaweke mkono kinywani."
+        },
+        {
+          "chapter": 21,
+          "verse": 6,
+          "text": "Hata nikumbukapo nahuzunika, Na utisho wanishika mwilini mwangu."
+        },
+        {
+          "chapter": 21,
+          "verse": 7,
+          "text": "Mbona waovu wanaishi, Na kuwa wazee, naam, na kuongezeka kuwa na nguvu?"
+        },
+        {
+          "chapter": 21,
+          "verse": 8,
+          "text": "Kizazi chao kinathibitika nao machoni pao, Na wazao wao mbele ya macho yao."
+        },
+        {
+          "chapter": 21,
+          "verse": 9,
+          "text": "Nyumba zao zi salama pasina hofu, Wala fimbo ya Mungu haiwapigi."
+        },
+        {
+          "chapter": 21,
+          "verse": 10,
+          "text": "Fahali wao huvyaza wala hapungukiwi na nguvu; Ng’ombe wao mke huzaa, asiharibu mimba."
+        },
+        {
+          "chapter": 21,
+          "verse": 11,
+          "text": "Huwatoa kama kundi watoto wao. Na watoto wao hucheza."
+        },
+        {
+          "chapter": 21,
+          "verse": 12,
+          "text": "Huimba kwa matari na kwa kinubi, Na kuifurahia sauti ya filimbi."
+        },
+        {
+          "chapter": 21,
+          "verse": 13,
+          "text": "Siku zao hutumia katika kufanikiwa, Kisha hushuka kuzimuni ghafula."
+        },
+        {
+          "chapter": 21,
+          "verse": 14,
+          "text": "Walakini walimwambia Mungu. Tuondokee; Kwani hatutaki kuzijua njia zako."
+        },
+        {
+          "chapter": 21,
+          "verse": 15,
+          "text": "Huyo Mwenyezi ni nani, hata tumtumikie? Nasi tutafaidiwa nini tukimwomba?"
+        },
+        {
+          "chapter": 21,
+          "verse": 16,
+          "text": "Tazama, kufanikiwa kwao hakumo mkononi mwao; Mashauri ya waovu na yawe mbali nami."
+        },
+        {
+          "chapter": 21,
+          "verse": 17,
+          "text": "Je! Ni mara ngapi taa yao waovu huzimishwa? Na msiba wao kuwajilia? Na Mungu kuwagawanyia uchungu kwa hasira yake?"
+        },
+        {
+          "chapter": 21,
+          "verse": 18,
+          "text": "Ili wawe kama mabua makavu mbele ya upepo, Kama makapi yaliyochukuliwa na dhoruba?"
+        },
+        {
+          "chapter": 21,
+          "verse": 19,
+          "text": "Mwasema, Mungu huwawekea watoto wa mtu huo uovu wake. Na amlipe mwenyewe, ili apate kuujua."
+        },
+        {
+          "chapter": 21,
+          "verse": 20,
+          "text": "Macho yake mwenyewe na yaone uharibifu wake, Akanywe ghadhabu zake Mwenyezi."
+        },
+        {
+          "chapter": 21,
+          "verse": 21,
+          "text": "Kwani ana furaha gani katika mbari yake baada yake, Hesabu ya miezi yake itakapokwisha katwa katikati?"
+        },
+        {
+          "chapter": 21,
+          "verse": 22,
+          "text": "Je! Mtu awaye yote atamfundisha Mungu maarifa? Naye ndiye awahukumuye walioko juu."
+        },
+        {
+          "chapter": 21,
+          "verse": 23,
+          "text": "Mmoja hufa katika nguvu zake kamili, Mwenye kukaa salama na kustarehe;"
+        },
+        {
+          "chapter": 21,
+          "verse": 24,
+          "text": "Vyombo vyake vimejaa maziwa, Na mafuta ya mifupani mwake ni laini."
+        },
+        {
+          "chapter": 21,
+          "verse": 25,
+          "text": "Mwingine hufa katika uchungu wa roho, Asionje mema kamwe."
+        },
+        {
+          "chapter": 21,
+          "verse": 26,
+          "text": "Wao hulala mavumbini sawasawa, Mabuu huwafunika."
+        },
+        {
+          "chapter": 21,
+          "verse": 27,
+          "text": "Tazama, nayajua mawazo yenu, Na mashauri mnayoazimia kwa uovu juu yangu."
+        },
+        {
+          "chapter": 21,
+          "verse": 28,
+          "text": "Kwa kuwa mwasema, Nyumba ya huyo mkuu i wapi? Na hema waliyoikaa hao waovu i wapi?"
+        },
+        {
+          "chapter": 21,
+          "verse": 29,
+          "text": "Je! Hamkuwauliza wapitao njiani? Na maonyo yao hamyajui?"
+        },
+        {
+          "chapter": 21,
+          "verse": 30,
+          "text": "Kwamba mwovu huachiliwa katika siku ya msiba? Na kuongozwa nje katika siku ya ghadhabu?"
+        },
+        {
+          "chapter": 21,
+          "verse": 31,
+          "text": "Ni nani atakayetangaza njia yake usoni pake? Tena ni nani atakayemlipa kwa hayo aliyofanya?"
+        },
+        {
+          "chapter": 21,
+          "verse": 32,
+          "text": "Pamoja na hayo atachukuliwa kaburini, Nao watalinda zamu juu ya ziara lake."
+        },
+        {
+          "chapter": 21,
+          "verse": 33,
+          "text": "Udongo wa bondeni utakuwa tamu kwake, Na watu wote watafuata nyuma yake, Kama vile walivyomtangulia watu wasiohesabika."
+        },
+        {
+          "chapter": 21,
+          "verse": 34,
+          "text": "Basi imekuwaje ninyi kunituza moyo bure, Kwa kuwa katika jawabu zenu unasalia uongo tu."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 22,
+      "lastVerse": 30,
+      "verseUnitCount": 30,
+      "verses": [
+        {
+          "chapter": 22,
+          "verse": 1,
+          "text": "Ndipo huyo Elifazi Mtemani akajibu, na kusema,"
+        },
+        {
+          "chapter": 22,
+          "verse": 2,
+          "text": "Je! Yumkini mtu awaye yote kumfaa Mungu? Hakika yeye aliye na hekima hujifaa mwenyewe."
+        },
+        {
+          "chapter": 22,
+          "verse": 3,
+          "text": "Je! Mwenyezi hupata furaha katika wewe kuwa mwenye haki? Au je, ni faida kwake, kwamba wafanya njia zako kuwa timilifu?"
+        },
+        {
+          "chapter": 22,
+          "verse": 4,
+          "text": "Je! Ni kwa wewe kumcha yeye anakukemea? Na kuingia hukumuni nawe?"
+        },
+        {
+          "chapter": 22,
+          "verse": 5,
+          "text": "Je! Uovu wako si mkuu? Wala maovu yako hayana mwisho."
+        },
+        {
+          "chapter": 22,
+          "verse": 6,
+          "text": "Kwa kuwa umetwaa dhamana kwa nduguyo bure, Na kuwavua nguo zao walio uchi."
+        },
+        {
+          "chapter": 22,
+          "verse": 7,
+          "text": "Hukumpa maji ya kunywa huyo aliyechoka, Nawe umemnyima chakula huyo mwenye njaa."
+        },
+        {
+          "chapter": 22,
+          "verse": 8,
+          "text": "Lakini huyo shujaa, nchi ilikuwa yake; Na huyo mwenye kusifiwa, yeye aliikaa."
+        },
+        {
+          "chapter": 22,
+          "verse": 9,
+          "text": "Umewafukuza wanawake wajane hali ya utupu, Na mikono ya mayatima imevunjwa."
+        },
+        {
+          "chapter": 22,
+          "verse": 10,
+          "text": "Kwa hiyo umezungukwa na mitego, Na hofu ya ghafula yakutaabisha,"
+        },
+        {
+          "chapter": 22,
+          "verse": 11,
+          "text": "Au je! Huoni giza, Na maji mengi yanayokufunika?"
+        },
+        {
+          "chapter": 22,
+          "verse": 12,
+          "text": "Je! Mungu hayuko mbinguni juu? Tena tazama umbali wa nyota, jinsi zilivyo juu!"
+        },
+        {
+          "chapter": 22,
+          "verse": 13,
+          "text": "Nawe wasema, Mungu anajua nini? Je! Aweza kuamua kati ya giza kuu?"
+        },
+        {
+          "chapter": 22,
+          "verse": 14,
+          "text": "Mawingu mazito ni kifuniko chake, hata asione; Naye yuatembea juu ya kuba ya mbingu."
+        },
+        {
+          "chapter": 22,
+          "verse": 15,
+          "text": "Je! Utaiandama njia ya zamani Waliyoikanyaga watu waovu?"
+        },
+        {
+          "chapter": 22,
+          "verse": 16,
+          "text": "Ambao walinyakuliwa kabla ya wakati wao, Msingi wao ulimwagika kama kijito cha maji;"
+        },
+        {
+          "chapter": 22,
+          "verse": 17,
+          "text": "Waliomwambia Mungu, Tuondokee; Tena, Huyo Mwenyezi aweza kutufanyia nini?"
+        },
+        {
+          "chapter": 22,
+          "verse": 18,
+          "text": "Naye ndiye aliyezijaza nyumba zao vitu vyema; Lakini mashauri ya waovu na yawe mbali nami."
+        },
+        {
+          "chapter": 22,
+          "verse": 19,
+          "text": "Wenye haki huyaona hayo wakafurahi; Nao wasio na hatia huwacheka;"
+        },
+        {
+          "chapter": 22,
+          "verse": 20,
+          "text": "Wasema, Hakika hao waliotuinukia wamekatiliwa mbali, Na mabaki yao moto umeyateketeza."
+        },
+        {
+          "chapter": 22,
+          "verse": 21,
+          "text": "Mjue sana Mungu, ili uwe na amani; Ndivyo mema yatakavyokujia."
+        },
+        {
+          "chapter": 22,
+          "verse": 22,
+          "text": "Uyapokee, tafadhali, mafunzo yatokayo kinywani mwake, Na maneno yake yaweke moyoni mwako."
+        },
+        {
+          "chapter": 22,
+          "verse": 23,
+          "text": "Ukimrudia Mwenyezi, utajengwa; Ukiuondoa udhalimu mbali na hema yako."
+        },
+        {
+          "chapter": 22,
+          "verse": 24,
+          "text": "Nawe hazina zako ziweke mchangani, Na dhahabu ya Ofiri iweke kati ya mawe ya vijito;"
+        },
+        {
+          "chapter": 22,
+          "verse": 25,
+          "text": "Naye Mwenyezi atakuwa hazina yako, Atakuwa ni fedha ya thamani kwako."
+        },
+        {
+          "chapter": 22,
+          "verse": 26,
+          "text": "Kwani ndipo utakapojifurahisha katika Mwenyezi, Na kuinua uso wako kumwelekea Mungu."
+        },
+        {
+          "chapter": 22,
+          "verse": 27,
+          "text": "Utamwomba yeye naye atakusikia; Nawe utazitimiliza nadhiri zako."
+        },
+        {
+          "chapter": 22,
+          "verse": 28,
+          "text": "Nawe utakusudia neno, nalo litathibitika kwako; Na mwanga utaziangazia njia zako."
+        },
+        {
+          "chapter": 22,
+          "verse": 29,
+          "text": "Hapo watakapokuangusha, utasema, Kuna kuinuka tena; Naye mnyenyekevu Mungu atamwokoa."
+        },
+        {
+          "chapter": 22,
+          "verse": 30,
+          "text": "Atamwokoa na huyo asiye na hatia; Naam, utaokolewa kwa sababu ya usafi wa mikono yako."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 23,
+      "lastVerse": 17,
+      "verseUnitCount": 17,
+      "verses": [
+        {
+          "chapter": 23,
+          "verse": 1,
+          "text": "Ndipo Ayubu akajibu, na kusema,"
+        },
+        {
+          "chapter": 23,
+          "verse": 2,
+          "text": "Hata leo mashitaka yangu yana uchungu; Pigo langu ni zito zaidi ya kuugua kwangu."
+        },
+        {
+          "chapter": 23,
+          "verse": 3,
+          "text": "Laiti ningejua mahali niwezapo kumwona, Nifike hata hapo anapokaa!"
+        },
+        {
+          "chapter": 23,
+          "verse": 4,
+          "text": "Ningeiweka daawa yangu mbele yake, Na kukijaza kinywa changu hoja."
+        },
+        {
+          "chapter": 23,
+          "verse": 5,
+          "text": "Ningeyajua maneno atakayonijibu, Na kuelewa na hayo atakayoniambia."
+        },
+        {
+          "chapter": 23,
+          "verse": 6,
+          "text": "Je! Angeshindana nami kwa ukuu wa uwezo wake? La, lakini angenisikiliza."
+        },
+        {
+          "chapter": 23,
+          "verse": 7,
+          "text": "Hapo walekevu wangepata kuhojiana naye; Basi hivyo ningeachiliwa na mwamuzi wangu milele."
+        },
+        {
+          "chapter": 23,
+          "verse": 8,
+          "text": "Tazama, naenda mbele, wala hayuko; Narudi nyuma, lakini siwezi kumwona;"
+        },
+        {
+          "chapter": 23,
+          "verse": 9,
+          "text": "Na mkono wa kushoto, afanyapo kazi, lakini siwezi kumwona; Hujificha upande wa kuume, hata nisimwone."
+        },
+        {
+          "chapter": 23,
+          "verse": 10,
+          "text": "Lakini yeye aijua njia niendeayo; Akisha kunijaribu, nitatoka kama dhahabu."
+        },
+        {
+          "chapter": 23,
+          "verse": 11,
+          "text": "Mguu wangu umeshikamana sana na hatua zake; Njia yake nimeishika, wala sikukengeuka."
+        },
+        {
+          "chapter": 23,
+          "verse": 12,
+          "text": "Sikurudi nyuma kuiacha amri ya midomo yake; Nimeyatunza maneno ya kinywa chake zaidi ya riziki yangu,"
+        },
+        {
+          "chapter": 23,
+          "verse": 13,
+          "text": "Lakini yeye ni mmoja, ni nani awezaye kumgeuza? Tena nafsi yake ilitakalo, ndilo afanyalo."
+        },
+        {
+          "chapter": 23,
+          "verse": 14,
+          "text": "Kwani yeye hulitimiliza hilo nililoamuriwa; Tena mambo mengi kama hayo ya pamoja naye."
+        },
+        {
+          "chapter": 23,
+          "verse": 15,
+          "text": "Kwa hiyo naona taabu mbele ya uso wake; Nitakapofikiri, namwogopa."
+        },
+        {
+          "chapter": 23,
+          "verse": 16,
+          "text": "Kwani Mungu ameufanya moyo wangu kuzimia, Naye Mwenyezi amenitaabisha;"
+        },
+        {
+          "chapter": 23,
+          "verse": 17,
+          "text": "Maana sikufadhaishwa kwa sababu ya giza, Wala kwa sababu giza kuu limenifunika uso."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 24,
+      "lastVerse": 25,
+      "verseUnitCount": 25,
+      "verses": [
+        {
+          "chapter": 24,
+          "verse": 1,
+          "text": "Mbona nyakati zisiwekwe na Mwenyezi? Na hao wamjuao mbona hawazioni siku zake?"
+        },
+        {
+          "chapter": 24,
+          "verse": 2,
+          "text": "Wako waziondoao alama za mipaka; Huyachukua makundi kwa jeuri na kuyalisha."
+        },
+        {
+          "chapter": 24,
+          "verse": 3,
+          "text": "Humfukuza punda wake asiye baba, Humtwaa rehani ng’ombe wake mwanamke mjane."
+        },
+        {
+          "chapter": 24,
+          "verse": 4,
+          "text": "Humgeuza mhitaji aiache njia; Maskini wa nchi hujificha pamoja."
+        },
+        {
+          "chapter": 24,
+          "verse": 5,
+          "text": "Tazama, kama punda-mwitu jangwani Wao hutoka kwenda kazini mwao, wakitafuta chakula kwa bidii; Jangwa huwapa chakula cha watoto wao."
+        },
+        {
+          "chapter": 24,
+          "verse": 6,
+          "text": "Hukata nafaka zao mashambani; Na kuokota zabibu za waovu."
+        },
+        {
+          "chapter": 24,
+          "verse": 7,
+          "text": "Hujilaza usiku kucha uchi pasipo nguo, Wala hawana cha kujifunika baridi."
+        },
+        {
+          "chapter": 24,
+          "verse": 8,
+          "text": "Hutota kwa manyunyo ya milimani, Na kuambatana na jabali kwa kukosa sitara,"
+        },
+        {
+          "chapter": 24,
+          "verse": 9,
+          "text": "Wako wamwondoao matitini kwa nguvu huyo asiye na baba, Na kutwaa rehani kwa maskini;"
+        },
+        {
+          "chapter": 24,
+          "verse": 10,
+          "text": "Hata wazunguke uchi pasipo mavazi, Nao wakiwa na njaa huchukua miganda;"
+        },
+        {
+          "chapter": 24,
+          "verse": 11,
+          "text": "Hushindika mafuta ndani ya makuta ya watu hao; Wakanyaga mashinikizo, nao wana kiu."
+        },
+        {
+          "chapter": 24,
+          "verse": 12,
+          "text": "Watu huugua toka mji ulio na watu wengi, Na roho yake aliyejeruhiwa hupiga ukelele; Wala Mungu hauangalii upumbavu."
+        },
+        {
+          "chapter": 24,
+          "verse": 13,
+          "text": "Hawa ni katika hao waliouasi mwanga; Hawazijui njia zake, Wala hawakai katika mapito yake."
+        },
+        {
+          "chapter": 24,
+          "verse": 14,
+          "text": "Mwuaji huamka asubuhi kukipambauka, huwaua maskini na wahitaji; Tena wakati wa usiku yu kama mwivi."
+        },
+        {
+          "chapter": 24,
+          "verse": 15,
+          "text": "Tena jicho lake mzinifu hungojea wakati wa giza-giza, Akisema, Hapana jicho litakaloniona; Naye huuficha uso wake."
+        },
+        {
+          "chapter": 24,
+          "verse": 16,
+          "text": "Wao hutoboa nyumba gizani; Hujifungia ndani wakati wa mchana; Hawaujui mwanga."
+        },
+        {
+          "chapter": 24,
+          "verse": 17,
+          "text": "Kwani asubuhi kwao wote ni kama giza tupu; Kwani wao wavijua vitisho vya hiyo giza tupu."
+        },
+        {
+          "chapter": 24,
+          "verse": 18,
+          "text": "Mwasema, Yeye ni mwepesi juu ya uso wa gharika; Sehemu yao inalaaniwa duniani; Hageuki kwenda njia ya mizabibuni."
+        },
+        {
+          "chapter": 24,
+          "verse": 19,
+          "text": "Chaka na hari hukausha maji ya theluji; Kuzimu nako hao ambao wamefanya dhambi."
+        },
+        {
+          "chapter": 24,
+          "verse": 20,
+          "text": "Tumbo lililomzaa litamsahau; buu litamla na kuona tamu; Hatakumbukwa tena; Na udhalimu utavunjwa kama mti."
+        },
+        {
+          "chapter": 24,
+          "verse": 21,
+          "text": "Naam, yeye huwala walio tasa wasiozaa; Wala hamtendei mema mwanamke mjane."
+        },
+        {
+          "chapter": 24,
+          "verse": 22,
+          "text": "Lakini Mungu huwadumisha wenye uwezo kwa nguvu zake; Huinuka, wasiokuwa na tumaini la kuishi."
+        },
+        {
+          "chapter": 24,
+          "verse": 23,
+          "text": "Huwapa kuwa na salama, nao wapumzika kwayo; Na macho yake ya juu ya njia zao."
+        },
+        {
+          "chapter": 24,
+          "verse": 24,
+          "text": "Wao wametukuzwa; lakini kitambo kidogo hutoweka; Naam, hushushwa, na kuondolewa njiani kama wengine wote, Nao hukatwa kama vile masuke ya ngano."
+        },
+        {
+          "chapter": 24,
+          "verse": 25,
+          "text": "Na kama sivyo sasa, ni nani atakayenihukumu kuwa ni mwongo, Na kuyafanya maneno yangu kuwa si kitu?"
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 25,
+      "lastVerse": 6,
+      "verseUnitCount": 6,
+      "verses": [
+        {
+          "chapter": 25,
+          "verse": 1,
+          "text": "Ndipo Bildadi, Mshuhi, akajibu, na kusema,"
+        },
+        {
+          "chapter": 25,
+          "verse": 2,
+          "text": "Enzi na hofu zi pamoja naye; Hufanya amani katika mahali pake palipoinuka."
+        },
+        {
+          "chapter": 25,
+          "verse": 3,
+          "text": "Je! Majeshi yake yahesabika? Ni nani asiyetokewa na mwanga wake?"
+        },
+        {
+          "chapter": 25,
+          "verse": 4,
+          "text": "Basi mtu awezaje kuwa na haki mbele ya Mungu? Au awezaje kuwa safi aliyezaliwa na mwanamke?"
+        },
+        {
+          "chapter": 25,
+          "verse": 5,
+          "text": "Tazama, hata mwezi hauangazi, Wala nyota si safi machoni pake;"
+        },
+        {
+          "chapter": 25,
+          "verse": 6,
+          "text": "Siuze mtu, aliye mdudu! Na mwanadamu, ambaye ni buu!"
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 26,
+      "lastVerse": 14,
+      "verseUnitCount": 14,
+      "verses": [
+        {
+          "chapter": 26,
+          "verse": 1,
+          "text": "Ndipo Ayubu akajibu, na kusema,"
+        },
+        {
+          "chapter": 26,
+          "verse": 2,
+          "text": "Jinsi ulivyomsaidia huyo asiye na uwezo! Jinsi ulivyouokoa mkono usio na nguvu!"
+        },
+        {
+          "chapter": 26,
+          "verse": 3,
+          "text": "Jinsi ulivyomshauri huyo asiye na hekima! Na kutangaza ujuzi wa kweli kwa wingi!"
+        },
+        {
+          "chapter": 26,
+          "verse": 4,
+          "text": "Je! Umetamka maneno kwa nani? Kisha ni roho ya nani iliyotoka kwako?"
+        },
+        {
+          "chapter": 26,
+          "verse": 5,
+          "text": "Hao waliokufa watetema Chini ya maji na hao wayakaao."
+        },
+        {
+          "chapter": 26,
+          "verse": 6,
+          "text": "Kaburi li wazi mbele yake, Uharibifu nao hauna kifuniko."
+        },
+        {
+          "chapter": 26,
+          "verse": 7,
+          "text": "Yeye hutandaza kaskazi juu ya nafasi isiyo na kitu, Na kuutundika ulimwengu pasipo kitu."
+        },
+        {
+          "chapter": 26,
+          "verse": 8,
+          "text": "Huyafunga maji ndani ya mawingu yake mazito; Na hilo wingu halipasuki chini yake."
+        },
+        {
+          "chapter": 26,
+          "verse": 9,
+          "text": "Husitiri uso wa kiti chake cha enzi, Na kulitandaza wingu lake juu yake."
+        },
+        {
+          "chapter": 26,
+          "verse": 10,
+          "text": "Amepiga duara kuwa ni mpaka juu ya uso wa maji, Hata hapo mwanga na giza vinapopakana."
+        },
+        {
+          "chapter": 26,
+          "verse": 11,
+          "text": "Nguzo za mbingu zatetemeka, Na kustaajabu kwa kukemea kwake."
+        },
+        {
+          "chapter": 26,
+          "verse": 12,
+          "text": "Huichafua bahari kwa uwezo wake, Na kumtema Rahabu kwa akili zake."
+        },
+        {
+          "chapter": 26,
+          "verse": 13,
+          "text": "Hizo mbingu hupambwa kwa roho yake; Mkono wake umemchoma nyoka aendaye mbio."
+        },
+        {
+          "chapter": 26,
+          "verse": 14,
+          "text": "Tazama, hivi ni viunga tu vya njia zake; Na jinsi yalivyo madogo manong’ono tusikiayo katika habari zake! Lakini ngurumo za uweza wake ni nani awezaye kuelewa nazo?"
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 27,
+      "lastVerse": 23,
+      "verseUnitCount": 23,
+      "verses": [
+        {
+          "chapter": 27,
+          "verse": 1,
+          "text": "Kisha Ayubu akaendelea na mithali yake, na kusema,"
+        },
+        {
+          "chapter": 27,
+          "verse": 2,
+          "text": "Kama aishivyo Mungu, aliyeniondolea haki yangu; Huyo Mwenyezi aliyeitesa nafsi yangu;"
+        },
+        {
+          "chapter": 27,
+          "verse": 3,
+          "text": "(Kwa kuwa uhai wangu ukali mzima ndani yangu, Na roho ya Mungu i katika pua yangu;)"
+        },
+        {
+          "chapter": 27,
+          "verse": 4,
+          "text": "Hakika midomo yangu haitanena yasiyo haki, Wala ulimi wangu hautatamka udanganyifu."
+        },
+        {
+          "chapter": 27,
+          "verse": 5,
+          "text": "Hasha! Nisiwahesabie ninyi kuwa na haki; Hata nitakapokufa sitajiondolea uelekevu wangu."
+        },
+        {
+          "chapter": 27,
+          "verse": 6,
+          "text": "Haki yangu naishika sana, wala sitaiacha; Moyo wangu hautanisuta wakati nikiwapo hai."
+        },
+        {
+          "chapter": 27,
+          "verse": 7,
+          "text": "Adui yangu na awe kama huyo mwovu, Na mwenye kuondoka kinyume changu na awe kama asiye haki."
+        },
+        {
+          "chapter": 27,
+          "verse": 8,
+          "text": "Kwani tumaini la mpotovu ni nini, ingawa ajipatia faida, Hapo Mungu amwondoleapo roho yake?"
+        },
+        {
+          "chapter": 27,
+          "verse": 9,
+          "text": "Je! Mungu atakisikia kilio chake, Taabu zitakapomfikilia?"
+        },
+        {
+          "chapter": 27,
+          "verse": 10,
+          "text": "Je! Atajifurahisha katika Mwenyezi, Na kumlingana Mungu nyakati zote?"
+        },
+        {
+          "chapter": 27,
+          "verse": 11,
+          "text": "Nitawafundisha ninyi mambo ya mkono wa Mungu; Hayo yaliyo kwa Mwenyezi sitayaficha."
+        },
+        {
+          "chapter": 27,
+          "verse": 12,
+          "text": "Tazama, ninyi nyote mmeyaona wenyewe; Mbona basi mmebatilika kabisa?"
+        },
+        {
+          "chapter": 27,
+          "verse": 13,
+          "text": "Hii ndiyo sehemu ya mtu mwovu kwa Mungu, Na urithi wa hao waoneao, waupokeao kwa Mwenyezi."
+        },
+        {
+          "chapter": 27,
+          "verse": 14,
+          "text": "Watoto wake wakiongezeka ni kwa upanga; Na wazao wake hawatashiba chakula."
+        },
+        {
+          "chapter": 27,
+          "verse": 15,
+          "text": "Hao watakaosalia kwake watazikwa katika kufa, Wala wajane wake waliofiwa na waume hawataomboleza."
+        },
+        {
+          "chapter": 27,
+          "verse": 16,
+          "text": "Ajapokusanya fedha kama mavumbi, Na kujifanyia mavazi kama udongo kwa wingi;"
+        },
+        {
+          "chapter": 27,
+          "verse": 17,
+          "text": "Yumkini kuyatengeza, lakini wenye haki watayavaa, Nao wasio na hatia watazigawanya hizo fedha."
+        },
+        {
+          "chapter": 27,
+          "verse": 18,
+          "text": "Yeye hujenga nyumba yake kama mdudu, Na kama kibanda afanyacho mlinzi."
+        },
+        {
+          "chapter": 27,
+          "verse": 19,
+          "text": "Yeye hujilaza hali ni tajiri, lakini ndio mwisho; Hufunua macho yake, naye hayuko."
+        },
+        {
+          "chapter": 27,
+          "verse": 20,
+          "text": "Vitisho vyampata kama maji mengi; Dhoruba humwiba usiku."
+        },
+        {
+          "chapter": 27,
+          "verse": 21,
+          "text": "Upepo wa mashariki humchukua, naye huondoka; Na kumkumba atoke mahali pake."
+        },
+        {
+          "chapter": 27,
+          "verse": 22,
+          "text": "Kwani Mungu atamtupia asimhurumie; Angependa kuukimbia mkono wake."
+        },
+        {
+          "chapter": 27,
+          "verse": 23,
+          "text": "Watu watampigia makofi, Na kumzomea atoke mahali pake."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 28,
+      "lastVerse": 28,
+      "verseUnitCount": 28,
+      "verses": [
+        {
+          "chapter": 28,
+          "verse": 1,
+          "text": "Hakika kuna shimo wachimbako fedha, Na mahali wapatapo dhahabu waisafishayo."
+        },
+        {
+          "chapter": 28,
+          "verse": 2,
+          "text": "Chuma hufukuliwa katika ardhi, Na shaba huyeyushwa katika mawe."
+        },
+        {
+          "chapter": 28,
+          "verse": 3,
+          "text": "Binadamu hukomesha giza; Huyatafuta-tafuta hata mpaka ulio mbali, Mawe ya giza kuu, giza tupu."
+        },
+        {
+          "chapter": 28,
+          "verse": 4,
+          "text": "Hufukua shimo mbali na makao ya watu; Husahauliwa na nyayo zipitazo; Huning’inia mbali na watu, huyumba-yumba huko na huko."
+        },
+        {
+          "chapter": 28,
+          "verse": 5,
+          "text": "Katika ardhi ndimo kitokeamo chakula; Na chini yake hupinduliwa kama kwa moto."
+        },
+        {
+          "chapter": 28,
+          "verse": 6,
+          "text": "Mawe yake ni mahali zipatikanapo yakuti; Nayo ina mchanga wa dhahabu."
+        },
+        {
+          "chapter": 28,
+          "verse": 7,
+          "text": "Njia ile hapana ndege mkali aijuaye, Wala jicho la tai halijaiona;"
+        },
+        {
+          "chapter": 28,
+          "verse": 8,
+          "text": "Wanyama wakali wajivunao hawajaikanyaga, Wala simba mkali hajaipita."
+        },
+        {
+          "chapter": 28,
+          "verse": 9,
+          "text": "Huunyoshea mwamba wa gumegume mkono wake; Huipindua milima hata misingi yake."
+        },
+        {
+          "chapter": 28,
+          "verse": 10,
+          "text": "Hukata mifereji kati ya majabali; Na jicho lake huona kila kito cha thamani"
+        },
+        {
+          "chapter": 28,
+          "verse": 11,
+          "text": "Hufunga vijito visichuruzike; Na kitu kilichostirika hukifunua."
+        },
+        {
+          "chapter": 28,
+          "verse": 12,
+          "text": "Bali hekima itapatikana wapi? Na mahali pa ufahamu ni wapi?"
+        },
+        {
+          "chapter": 28,
+          "verse": 13,
+          "text": "Mwanadamu hajui thamani yake, Wala haionekani katika nchi ya walio hai."
+        },
+        {
+          "chapter": 28,
+          "verse": 14,
+          "text": "Vilindi vyasema, Haimo ndani yangu; Na bahari yasema, Haiko kwangu."
+        },
+        {
+          "chapter": 28,
+          "verse": 15,
+          "text": "Haipatikani kwa dhahabu, Wala fedha haitapimwa iwe thamani yake."
+        },
+        {
+          "chapter": 28,
+          "verse": 16,
+          "text": "Haiwezi kutiwa thamani kwa dhahabu ya Ofiri, Wala kwa shohamu ya thamani nyingi, wala kwa yakuti ya samawi."
+        },
+        {
+          "chapter": 28,
+          "verse": 17,
+          "text": "Dhahabu na vioo haviwezi kulinganishwa nayo; Wala kubadili kwake hakutakuwa kwa vyombo vya dhahabu safi."
+        },
+        {
+          "chapter": 28,
+          "verse": 18,
+          "text": "Havitatajwa fedhaluka wala bilauri; Naam, kima cha hekima chapita marijani."
+        },
+        {
+          "chapter": 28,
+          "verse": 19,
+          "text": "Yakuti ya rangi ya manjano ya Kushi haitasawazishwa nayo, Wala haitatiwa kima kwa dhahabu safi."
+        },
+        {
+          "chapter": 28,
+          "verse": 20,
+          "text": "Basi hekima yatoka wapi? Na mahali pa ufahamu ni wapi?"
+        },
+        {
+          "chapter": 28,
+          "verse": 21,
+          "text": "Kwa kuwa imefichwa mbali na macho ya wote walio hai, Na kusitirika na ndege wa angani."
+        },
+        {
+          "chapter": 28,
+          "verse": 22,
+          "text": "Uharibifu na Mauti husema, Tumesikia habari zake kwa masikio yetu."
+        },
+        {
+          "chapter": 28,
+          "verse": 23,
+          "text": "Mungu ndiye aijuaye njia yake, Naye anajua mahali pake."
+        },
+        {
+          "chapter": 28,
+          "verse": 24,
+          "text": "Maana anatazama hata miisho ya nchi, Na kuona chini ya mbingu nzima."
+        },
+        {
+          "chapter": 28,
+          "verse": 25,
+          "text": "Apate kuufanyia upepo uzito wake; Naam, anayapima maji kwa kipimo."
+        },
+        {
+          "chapter": 28,
+          "verse": 26,
+          "text": "Hapo alipoiwekea mvua amri, Na njia kwa umeme wa radi."
+        },
+        {
+          "chapter": 28,
+          "verse": 27,
+          "text": "Ndipo alipoiona na kuitangaza; Aliithibitisha, naam, na kuichunguza."
+        },
+        {
+          "chapter": 28,
+          "verse": 28,
+          "text": "Kisha akamwambia mwanadamu, Tazama, kumcha Bwana ndiyo hekima, Na kujitenga na uovu ndio ufahamu."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 29,
+      "lastVerse": 25,
+      "verseUnitCount": 25,
+      "verses": [
+        {
+          "chapter": 29,
+          "verse": 1,
+          "text": "Kisha Ayubu akaendelea na mithali yake, na kusema,"
+        },
+        {
+          "chapter": 29,
+          "verse": 2,
+          "text": "Laiti ningekuwa kama nilivyokuwa katika miezi ya kale, Kama katika siku hizo Mungu aliponilinda;"
+        },
+        {
+          "chapter": 29,
+          "verse": 3,
+          "text": "Hapo taa yake ilipomulika juu yangu kichwani, Nami nilitembea gizani kwa njia ya mwanga wake;"
+        },
+        {
+          "chapter": 29,
+          "verse": 4,
+          "text": "Kama nilivyokuwa katika siku zangu za kukomaa, Hapo siri ya Mungu ilipokuwa hemani mwangu;"
+        },
+        {
+          "chapter": 29,
+          "verse": 5,
+          "text": "Wakati Mwenyezi alipokuwa akali pamoja nami, Nao watoto wangu walipokuwa wakinizunguka;"
+        },
+        {
+          "chapter": 29,
+          "verse": 6,
+          "text": "Wakati hatua zangu zilipokuwa zikioshwa kwa siagi, Nalo jabali liliponimiminia mito ya mafuta!"
+        },
+        {
+          "chapter": 29,
+          "verse": 7,
+          "text": "Wakati nilipotoka kwenda mjini, hata langoni, Nilipokitengeza kiti changu katika njia kuu,"
+        },
+        {
+          "chapter": 29,
+          "verse": 8,
+          "text": "Hao vijana waliniona wakajificha, Nao wazee wakaniondokea na kusimama;"
+        },
+        {
+          "chapter": 29,
+          "verse": 9,
+          "text": "Wakuu wakanyamaa wasinene, Na kuweka mikono yao vinywani mwao;"
+        },
+        {
+          "chapter": 29,
+          "verse": 10,
+          "text": "Sauti yao masheki ilinyamaa, Na ndimi zao zilishikamana na makaakaa yao."
+        },
+        {
+          "chapter": 29,
+          "verse": 11,
+          "text": "Maana sikio liliponisikia, ndipo likanibarikia; Na jicho liliponiona, likanishuhudia."
+        },
+        {
+          "chapter": 29,
+          "verse": 12,
+          "text": "Kwa sababu nalimwokoa maskini aliyenililia; Yatima naye, na yule asiyekuwa na mtu wa kumsaidia."
+        },
+        {
+          "chapter": 29,
+          "verse": 13,
+          "text": "Baraka yake yeye aliyekuwa karibu na kupotea ilinijia; Nikaufanya moyo wa mjane kuimba kwa furaha."
+        },
+        {
+          "chapter": 29,
+          "verse": 14,
+          "text": "Nalijivika haki, ikanifunika, Adili yangu ilikuwa kama joho na kilemba."
+        },
+        {
+          "chapter": 29,
+          "verse": 15,
+          "text": "Nalikuwa macho kwa kipofu, Nalikuwa miguu kwa aliyechechemea."
+        },
+        {
+          "chapter": 29,
+          "verse": 16,
+          "text": "Nalikuwa baba kwa mhitaji, Na daawa ya mtu nisiyemjua naliichunguza."
+        },
+        {
+          "chapter": 29,
+          "verse": 17,
+          "text": "Nami nilizivunja taya za wasio haki, Na kumpokonya mawindo katika meno yake."
+        },
+        {
+          "chapter": 29,
+          "verse": 18,
+          "text": "Ndipo niliposema, Nitakufa ndani ya kioto changu, Nami nitaziongeza siku zangu kama mchanga;"
+        },
+        {
+          "chapter": 29,
+          "verse": 19,
+          "text": "Shina langu limeenea hata kufika majini, Na umande hukaa usiku kucha katika matawi yangu;"
+        },
+        {
+          "chapter": 29,
+          "verse": 20,
+          "text": "Utukufu wangu utakuwa mpya kwangu, Na uta wangu hurejezwa upya mkononi mwangu."
+        },
+        {
+          "chapter": 29,
+          "verse": 21,
+          "text": "Watu walitega masikio kunisikiliza, na kungoja, Wakanyamaa kimya wapate sikia mashauri yangu."
+        },
+        {
+          "chapter": 29,
+          "verse": 22,
+          "text": "Hawakunena tena baada ya kusikia maneno yangu; Matamko yangu yakadondoka juu yao."
+        },
+        {
+          "chapter": 29,
+          "verse": 23,
+          "text": "Walikuwa wakiningojea kama kungojea mvua; Wakafunua vinywa vyao sana kama mvua ya masika."
+        },
+        {
+          "chapter": 29,
+          "verse": 24,
+          "text": "Walipokata tamaa nikacheka nao; Na mwanga wa uso wangu hawakuuangusha."
+        },
+        {
+          "chapter": 29,
+          "verse": 25,
+          "text": "Niliwachagulia njia, nikakaa kama mkuu wao. Nikakaa kama mfalme katika jeshi la askari, Mfano wa awafarijiye hao waombolezao."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 30,
+      "lastVerse": 31,
+      "verseUnitCount": 31,
+      "verses": [
+        {
+          "chapter": 30,
+          "verse": 1,
+          "text": "Lakini sasa hao walio wadogo wangu hunifanyia mzaha, Ambao baba zao niliwadharau hata kuwaweka na mbwa wa kundi langu."
+        },
+        {
+          "chapter": 30,
+          "verse": 2,
+          "text": "Naam, uwezo wa mikono yao utanifaa nini? Watu ambao nguvu zao zimekoma."
+        },
+        {
+          "chapter": 30,
+          "verse": 3,
+          "text": "Wamekonda kwa uhitaji na njaa; Huguguna nchi kavu, penye giza la ukiwa na uharibifu."
+        },
+        {
+          "chapter": 30,
+          "verse": 4,
+          "text": "Hung’oa mboga ya chumvi kwenye kichaka; Na mizizi ya mretemu ni chakula chao."
+        },
+        {
+          "chapter": 30,
+          "verse": 5,
+          "text": "Hufukuzwa watoke kati ya watu; Huwapigia kelele kama kumpigia mwivi."
+        },
+        {
+          "chapter": 30,
+          "verse": 6,
+          "text": "Lazima hukaa katika mianya ya mabonde, Katika mashimo ya nchi na ya majabali."
+        },
+        {
+          "chapter": 30,
+          "verse": 7,
+          "text": "Hulia kama punda vichakani; Hukusanyika chini ya upupu."
+        },
+        {
+          "chapter": 30,
+          "verse": 8,
+          "text": "Wao ni wana wa wapumbavu, naam, watoto wa wahuni; Walifukuzwa kwa mijeledi watoke katika nchi."
+        },
+        {
+          "chapter": 30,
+          "verse": 9,
+          "text": "Na sasa mimi nimekuwa wimbo wao, Naam, nimekuwa simo kwao."
+        },
+        {
+          "chapter": 30,
+          "verse": 10,
+          "text": "Wao hunichukia, na kujitenga nami, Hawaachi kunitemea mate usoni."
+        },
+        {
+          "chapter": 30,
+          "verse": 11,
+          "text": "Kwani ameilegeza kamba yake, na kunitesa, Wala hawajizuii tena mbele yangu."
+        },
+        {
+          "chapter": 30,
+          "verse": 12,
+          "text": "Kwa mkono wangu wa kuume huinuka kundi; Huisukuma miguu yangu kando, Na kunipandishia njia zao za uharibifu."
+        },
+        {
+          "chapter": 30,
+          "verse": 13,
+          "text": "Waiharibu njia yangu, Wauzidisha msiba wangu, Watu wasio na msaidizi."
+        },
+        {
+          "chapter": 30,
+          "verse": 14,
+          "text": "Wanijilia kama wapitao katika ufa mpana; Katikati ya magofu wanishambulia."
+        },
+        {
+          "chapter": 30,
+          "verse": 15,
+          "text": "Vitisho vimenigeukia; Huifukuza heshima yangu kama upepo; Na kufanikiwa kwangu kumepita kama wingu."
+        },
+        {
+          "chapter": 30,
+          "verse": 16,
+          "text": "Sasa nafsi yangu inamwagika ndani yangu; Siku za mateso zimenishika."
+        },
+        {
+          "chapter": 30,
+          "verse": 17,
+          "text": "Wakati wa usiku mifupa yangu huchomeka ndani yangu, Na maumivu yanayonitafuna hayapumziki."
+        },
+        {
+          "chapter": 30,
+          "verse": 18,
+          "text": "Kwa ugonjwa wangu kuwa na nguvu nyingi Mavazi yangu yameharibika; Hunikaza kama shingo ya kanzu yangu."
+        },
+        {
+          "chapter": 30,
+          "verse": 19,
+          "text": "Yeye amenibwaga topeni, Nami nimekuwa kama mavumbi na majivu."
+        },
+        {
+          "chapter": 30,
+          "verse": 20,
+          "text": "Nakulilia wewe, wala huniitikii; Nasimama, nawe wanitazama tu."
+        },
+        {
+          "chapter": 30,
+          "verse": 21,
+          "text": "Wewe umegeuka kuwa mkali kwangu; Nawe waniudhi kwa uweza wa mkono wako."
+        },
+        {
+          "chapter": 30,
+          "verse": 22,
+          "text": "Waniinua juu hata upeponi, na kunipandisha juu yake; Nawe waniyeyusha katika dhoruba."
+        },
+        {
+          "chapter": 30,
+          "verse": 23,
+          "text": "Kwani najua kuwa utanileta hata kifoni, Niifikilie nyumba waliyoandikiwa wenye uhai wote."
+        },
+        {
+          "chapter": 30,
+          "verse": 24,
+          "text": "Je! Mtu katika kuanguka kwake hanyoshi mkono? Na kulilia msaada katika msiba wake?"
+        },
+        {
+          "chapter": 30,
+          "verse": 25,
+          "text": "Je! Mimi sikulia kwa ajili ya huyo aliyekuwa katika taabu? Nafsi yangu, je! Haikusononeka kwa ajili ya wahitaji?"
+        },
+        {
+          "chapter": 30,
+          "verse": 26,
+          "text": "Hapo nilipotazamia mema, ndipo yakaja mabaya; Nami nilipongojea mwanga, likaja giza."
+        },
+        {
+          "chapter": 30,
+          "verse": 27,
+          "text": "Matumbo yangu yatokota, wala hayaachi; Siku za taabu zimenijilia."
+        },
+        {
+          "chapter": 30,
+          "verse": 28,
+          "text": "Naenda nikiomboleza pasipo jua; Nasimama katika mkutano, na kuulilia msaada."
+        },
+        {
+          "chapter": 30,
+          "verse": 29,
+          "text": "Mimi ni ndugu yao mbwa-mwitu, Ni mwenzao mbuni."
+        },
+        {
+          "chapter": 30,
+          "verse": 30,
+          "text": "Ngozi yangu ni nyeusi, nayo yanitoka, Na mifupa yangu imeteketea kwa hari."
+        },
+        {
+          "chapter": 30,
+          "verse": 31,
+          "text": "Kwa hiyo kinanda changu kimegeuzwa kuwa maombolezo, Na filimbi yangu kuwa sauti yao waliao."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 31,
+      "lastVerse": 40,
+      "verseUnitCount": 40,
+      "verses": [
+        {
+          "chapter": 31,
+          "verse": 1,
+          "text": "Nilifanya agano na macho yangu; Basi nawezaje kumwangalia msichana?"
+        },
+        {
+          "chapter": 31,
+          "verse": 2,
+          "text": "Kwani sehemu ya Mungu itokayo juu ingekuwa nini, Na urithi wa Mwenyezi utokao juu?"
+        },
+        {
+          "chapter": 31,
+          "verse": 3,
+          "text": "Je! Siyo msiba kwa wasio haki, Na hasara kwao watendao uovu?"
+        },
+        {
+          "chapter": 31,
+          "verse": 4,
+          "text": "Je! Yeye hazioni njia zangu, Na kuzihesabu hatua zangu zote?"
+        },
+        {
+          "chapter": 31,
+          "verse": 5,
+          "text": "Kwamba nimetembea katika ubatili, Na mguu wangu umeukimbilia udanganyifu;"
+        },
+        {
+          "chapter": 31,
+          "verse": 6,
+          "text": "(Na nipimwe katika mizani iliyo sawasawa, Ili Mungu aujue uelekevu wangu);"
+        },
+        {
+          "chapter": 31,
+          "verse": 7,
+          "text": "Kwamba hatua yangu imekengeuka na kuiacha njia, Na moyo wangu kuyaandama macho yangu, Tena kwamba kipaku cho chote kimeshikamana na mikono yangu;"
+        },
+        {
+          "chapter": 31,
+          "verse": 8,
+          "text": "Basi na nipande, mwingine ale; Naam, mazao ya shamba langu na yang’olewe."
+        },
+        {
+          "chapter": 31,
+          "verse": 9,
+          "text": "Kama moyo wangu ulishawishwa kwa mwanamke, Nami nimeotea mlangoni pa jirani yangu;"
+        },
+        {
+          "chapter": 31,
+          "verse": 10,
+          "text": "Ndipo hapo mke wangu na asage kwa mwingine, Na wengine na wainame juu yake."
+        },
+        {
+          "chapter": 31,
+          "verse": 11,
+          "text": "Kwani hilo lingekuwa kosa kuu; Naam, lingekuwa ni uovu wa kuadhibiwa na waamuzi;"
+        },
+        {
+          "chapter": 31,
+          "verse": 12,
+          "text": "Kwa kuwa ni moto uteketezao hata Uharibifu, Nao ungeyang’oa maongeo yangu yote."
+        },
+        {
+          "chapter": 31,
+          "verse": 13,
+          "text": "Kama nimeidharau daawa ya mtumishi wangu, au ya kijakazi changu, Waliposhindana nami;"
+        },
+        {
+          "chapter": 31,
+          "verse": 14,
+          "text": "Basi Mungu atakapoinuka nitafanya nini? Naye atakapozuru, nitamjibuje?"
+        },
+        {
+          "chapter": 31,
+          "verse": 15,
+          "text": "Je! Huyo aliyenifanya mimi ndani ya tumbo, siye aliyemfanya na yeye? Si yeye mmoja aliyetufinyanga tumboni?"
+        },
+        {
+          "chapter": 31,
+          "verse": 16,
+          "text": "Ikiwa nimewanyima maskini haja zao, Au kama nimeyatia kiwi macho ya mwanamke mjane;"
+        },
+        {
+          "chapter": 31,
+          "verse": 17,
+          "text": "Au kama nimekula tonge langu peke yangu, Mayatima wasipate kulila;"
+        },
+        {
+          "chapter": 31,
+          "verse": 18,
+          "text": "(La, tangu ujana wangu alikua pamoja nami kama kwa baba; Nami nimekuwa ni kiongozi cha mjane tangu tumbo la mamangu);"
+        },
+        {
+          "chapter": 31,
+          "verse": 19,
+          "text": "Ikiwa nimemwona mtu kuangamia kwa kukosa nguo, Au wahitaji kukosa mavazi;"
+        },
+        {
+          "chapter": 31,
+          "verse": 20,
+          "text": "Ikiwa viuno vyake havikunibarikia, Au kama hakupata moto kwa manyoya ya kondoo zangu;"
+        },
+        {
+          "chapter": 31,
+          "verse": 21,
+          "text": "Ikiwa nimewainulia mayatima mkono, Nilipoona msaada wangu langoni;"
+        },
+        {
+          "chapter": 31,
+          "verse": 22,
+          "text": "Basi bega langu na lianguke kutoka mahali pake, Na mkono wangu uvunjike mfupani mwake."
+        },
+        {
+          "chapter": 31,
+          "verse": 23,
+          "text": "Kwani msiba utokao kwa Mungu ulikuwa na kitisho kwangu, Na kwa sababu ya ukuu wake sikuweza kufanya neno."
+        },
+        {
+          "chapter": 31,
+          "verse": 24,
+          "text": "Ikiwa nimeifanya dhahabu kuwa tumaini langu, Na kuiambia dhahabu safi, Wewe u tegemeo langu;"
+        },
+        {
+          "chapter": 31,
+          "verse": 25,
+          "text": "Kama nilifurahi kwa kuwa mali yangu yalikuwa mengi, Na kwa sababu mkono wangu umepata vitu vingi;"
+        },
+        {
+          "chapter": 31,
+          "verse": 26,
+          "text": "Kama nililitazama jua lilipoangaza, Au mwezi ukiendelea katika kung’aa;"
+        },
+        {
+          "chapter": 31,
+          "verse": 27,
+          "text": "Na moyo wangu umeshawishwa kwa siri, Na midomo yangu imeubusu mkono wangu;"
+        },
+        {
+          "chapter": 31,
+          "verse": 28,
+          "text": "Hilo nalo lingekuwa uovu wa kuadhibiwa na waamuzi; Kwani ningemwambia uongo Mungu aliye juu."
+        },
+        {
+          "chapter": 31,
+          "verse": 29,
+          "text": "Kama nilifurahi kwa kuangamia kwake huyo aliyenichukia, Au kujitukuza alipopatikana na maovu;"
+        },
+        {
+          "chapter": 31,
+          "verse": 30,
+          "text": "(Naam, sikukiacha kinywa changu kufanya dhambi Kwa kuutaka uhai wake kwa kuapiza);"
+        },
+        {
+          "chapter": 31,
+          "verse": 31,
+          "text": "Kama watu wa hemani mwangu hawakunena, Ni nani awezaye kumpata mtu asiyeshibishwa na yeye kwa nyama?"
+        },
+        {
+          "chapter": 31,
+          "verse": 32,
+          "text": "Mgeni hakulala njiani; Lakini nilimfungulia msafiri milango yangu;"
+        },
+        {
+          "chapter": 31,
+          "verse": 33,
+          "text": "Ikiwa kama mwanadamu nimeyafunika makosa yangu, Kwa kuuficha uovu wangu kifuani mwangu;"
+        },
+        {
+          "chapter": 31,
+          "verse": 34,
+          "text": "Kwa sababu niliwaogopa mkutano mkubwa, Na dharau la jamaa lilinitia hofu, Hata nilinyamaa kimya, nisitoke mlangoni-"
+        },
+        {
+          "chapter": 31,
+          "verse": 35,
+          "text": "Laiti ningekuwa na mtu wa kunisikia! (Tazama, sahihi yangu ni hii, Mwenyezi na anijibu); Laiti ningekuwa na hayo mashitaka yaliyoandikwa na adui yangu!"
+        },
+        {
+          "chapter": 31,
+          "verse": 36,
+          "text": "Hakika ningeyachukua mabegani; Ningejifungia mfano wa kilemba."
+        },
+        {
+          "chapter": 31,
+          "verse": 37,
+          "text": "Ningemwambia hesabu ya hatua zangu Ningemkaribia kama vile mkuu."
+        },
+        {
+          "chapter": 31,
+          "verse": 38,
+          "text": "Kama nchi yangu yalia juu yangu, Na matuta yake hulia pamoja;"
+        },
+        {
+          "chapter": 31,
+          "verse": 39,
+          "text": "Kama nimeyala matunda yake pasipo kulipa, Au kama nimewafanya wenyewe kupotewa na uhai;"
+        },
+        {
+          "chapter": 31,
+          "verse": 40,
+          "text": "Miiba na imee badala ya ngano, Na magugu badala ya shayiri. Maneno ya Ayubu yamekoma hapa."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 32,
+      "lastVerse": 22,
+      "verseUnitCount": 22,
+      "verses": [
+        {
+          "chapter": 32,
+          "verse": 1,
+          "text": "Basi hao watu watatu wakaacha kumjibu Ayubu, kwa sababu alikuwa mwenye haki machoni pake mwenyewe."
+        },
+        {
+          "chapter": 32,
+          "verse": 2,
+          "text": "Ndipo zikawaka hasira za huyo Elihu mwana wa Barakeli, Mbuzi, katika jamaa ya Ramu, juu ya Ayubu, kwa sababu alikuwa amejipa haki mwenyewe zaidi ya Mungu."
+        },
+        {
+          "chapter": 32,
+          "verse": 3,
+          "text": "Tena hasira zake ziliwaka juu ya hao rafiki zake watatu kwa sababu hawakupata jawabu, lakini wamemhukumia Ayubu makosa."
+        },
+        {
+          "chapter": 32,
+          "verse": 4,
+          "text": "Basi huyo Elihu alikuwa anangoja ili anene na Ayubu, kwa sababu hao wengine walikuwa wazee kuliko yeye."
+        },
+        {
+          "chapter": 32,
+          "verse": 5,
+          "text": "Hata Elihu alipoona kuwa hapana jawabu katika vinywa vya watu hao watatu, hasira zake ziliwaka."
+        },
+        {
+          "chapter": 32,
+          "verse": 6,
+          "text": "Basi Elihu mwana wa Barakeli, Mbuzi, akajibu, na kusema, Mimi ni kijana, na ninyi ni wazee sana; Kwa hiyo nilijizuia, nisithubutu kuwaonyesha nionavyo."
+        },
+        {
+          "chapter": 32,
+          "verse": 7,
+          "text": "Nilisema, Yafaa siku ziseme, Na wingi wa miaka ufundishe hekima."
+        },
+        {
+          "chapter": 32,
+          "verse": 8,
+          "text": "Lakini imo roho ndani ya mwanadamu, Na pumzi za Mwenyezi huwapa akili."
+        },
+        {
+          "chapter": 32,
+          "verse": 9,
+          "text": "Sio wakuu walio wenye akili, Wala sio wazee watambuao hukumu."
+        },
+        {
+          "chapter": 32,
+          "verse": 10,
+          "text": "Basi nilisema, Nisikilizeni mimi; Mimi nami nitawaonyesha nionavyo."
+        },
+        {
+          "chapter": 32,
+          "verse": 11,
+          "text": "Tazama, niliyangojea maneno yenu, Nilizisikiliza nisikie hoja zenu, Hapo mlipokitafuta mtakalonena."
+        },
+        {
+          "chapter": 32,
+          "verse": 12,
+          "text": "Naam, niliwasikiza ninyi, Na tazama, hapana mmoja aliyemshinda Ayubu, Wala kumjibu maneno yake, kati yenu."
+        },
+        {
+          "chapter": 32,
+          "verse": 13,
+          "text": "Jitunzeni msiseme, Sisi tumepata hekima; Mungu yumkini akamshinda, si mtu;"
+        },
+        {
+          "chapter": 32,
+          "verse": 14,
+          "text": "Kwa kuwa yeye hajayaelekeza maneno yake kwangu; Wala sitamjibu mimi kwa maneno yenu."
+        },
+        {
+          "chapter": 32,
+          "verse": 15,
+          "text": "Wameshangaa, hawajibu tena; Hawana neno la kusema."
+        },
+        {
+          "chapter": 32,
+          "verse": 16,
+          "text": "Na mimi, je! Ningoje, kwa sababu hawaneni, Kwa sababu wasimama kimya, wala wasijibu tena;"
+        },
+        {
+          "chapter": 32,
+          "verse": 17,
+          "text": "Mimi nami nitajibu sehemu yangu, Mimi nami nitaonyesha nionavyo."
+        },
+        {
+          "chapter": 32,
+          "verse": 18,
+          "text": "Kwa kuwa nimejaa maneno; Roho iliyo ndani yangu hunihimiza."
+        },
+        {
+          "chapter": 32,
+          "verse": 19,
+          "text": "Tazama, tumbo langu ni kama divai iliyozibwa; Kama viriba vipya li karibu na kupasuka."
+        },
+        {
+          "chapter": 32,
+          "verse": 20,
+          "text": "Nitanena, ili nipate kutulia; Nitafunua midomo yangu na kujibu."
+        },
+        {
+          "chapter": 32,
+          "verse": 21,
+          "text": "Tafadhali, nisiupendelee uso wa mtu; Wala sitajipendekeza kwa mtu ye yote."
+        },
+        {
+          "chapter": 32,
+          "verse": 22,
+          "text": "Kwani mimi sijui kujipendekeza; Au Muumba wangu angeniondoa kwa upesi."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 33,
+      "lastVerse": 33,
+      "verseUnitCount": 33,
+      "verses": [
+        {
+          "chapter": 33,
+          "verse": 1,
+          "text": "Walakini, Ayubu, nakuomba usikilize matamko yangu, Ukayasikilize maneno yangu yote."
+        },
+        {
+          "chapter": 33,
+          "verse": 2,
+          "text": "Tazama basi, nimefunua kinywa changu, Ulimi wangu umenena kinywani mwangu."
+        },
+        {
+          "chapter": 33,
+          "verse": 3,
+          "text": "Maneno yangu yatatamka uelekevu wa moyo wangu; Na hayo niyajuayo midomo yangu itayanena kwa unyofu."
+        },
+        {
+          "chapter": 33,
+          "verse": 4,
+          "text": "Roho ya Mungu imeniumba, Na pumzi za Mwenyezi hunipa uhai."
+        },
+        {
+          "chapter": 33,
+          "verse": 5,
+          "text": "Kwamba waweza, nijibu; Yapange maneno yako sawasawa mbele yangu, usimame."
+        },
+        {
+          "chapter": 33,
+          "verse": 6,
+          "text": "Tazama, mimi ni mbele ya Mungu kama ulivyo wewe; Mimi nami nilifinyangwa katika udongo."
+        },
+        {
+          "chapter": 33,
+          "verse": 7,
+          "text": "Tazama, utisho wangu hautakutia hofu wewe, Wala sitakulemea kwa uzito."
+        },
+        {
+          "chapter": 33,
+          "verse": 8,
+          "text": "Hakika umenena masikioni mwangu, Nami nimesikia sauti ya maneno yako, ukisema,"
+        },
+        {
+          "chapter": 33,
+          "verse": 9,
+          "text": "Mimi ni safi, sina makosa; Sina hatia, wala hapana uovu ndani yangu;"
+        },
+        {
+          "chapter": 33,
+          "verse": 10,
+          "text": "Tazama, yuaona sababu za kufarakana nami, Hunihesabu kuwa ni adui yake;"
+        },
+        {
+          "chapter": 33,
+          "verse": 11,
+          "text": "Hunitia miguu yangu katika mkatale, Na mapito yangu yote huyapeleleza."
+        },
+        {
+          "chapter": 33,
+          "verse": 12,
+          "text": "Tazama, nitakujibu, katika neno hili huna haki; Kwa maana Mungu ni mkuu kuliko mwanadamu."
+        },
+        {
+          "chapter": 33,
+          "verse": 13,
+          "text": "Nawe kwani kumnung’unikia, Kwa vile asivyotoa hesabu ya mambo yake yote?"
+        },
+        {
+          "chapter": 33,
+          "verse": 14,
+          "text": "Kwa kuwa Mungu hunena mara moja, Naam, hata mara ya pili, ajapokuwa mtu hajali."
+        },
+        {
+          "chapter": 33,
+          "verse": 15,
+          "text": "Katika ndoto, katika maono ya usiku, Usingizi mzito uwajiliapo watu, Katika usingizi kitandani;"
+        },
+        {
+          "chapter": 33,
+          "verse": 16,
+          "text": "Ndipo huyafunua masikio ya watu, Na kuyatia muhuri mafundisho yao,"
+        },
+        {
+          "chapter": 33,
+          "verse": 17,
+          "text": "Ili amwondoe mtu katika makusudio yake, Na kumfichia mtu kiburi;"
+        },
+        {
+          "chapter": 33,
+          "verse": 18,
+          "text": "Yeye huizuia nafsi yake isiende shimoni, Na uhai wake usiangamie kwa upanga."
+        },
+        {
+          "chapter": 33,
+          "verse": 19,
+          "text": "Yeye hutiwa adabu kwa maumivu kitandani mwake, Na kwa mashindano yaendeleayo daima mifupani mwake;"
+        },
+        {
+          "chapter": 33,
+          "verse": 20,
+          "text": "Hata roho yake huchukia chakula, Na nafsi yake huchukia nyama nzuri."
+        },
+        {
+          "chapter": 33,
+          "verse": 21,
+          "text": "Nyama ya mwili wake huliwa, isionekane; Na mifupa yake isiyoonekana yatokea nje."
+        },
+        {
+          "chapter": 33,
+          "verse": 22,
+          "text": "Naam, nafsi yake inakaribia shimoni, Na uhai wake unakaribia waangamizi."
+        },
+        {
+          "chapter": 33,
+          "verse": 23,
+          "text": "Kwamba akiwapo malaika pamoja naye, Mkalimani, mmoja katika elfu, Ili kumwonyesha binadamu hayo yampasayo;"
+        },
+        {
+          "chapter": 33,
+          "verse": 24,
+          "text": "Ndipo amwoneapo rehema, na kusema, Mwokoe asishuke shimoni; Mimi nimeuona ukombozi."
+        },
+        {
+          "chapter": 33,
+          "verse": 25,
+          "text": "Nyama ya mwili wake itakuwa laini kuliko ya mtoto; Huzirudia siku za ujana wake;"
+        },
+        {
+          "chapter": 33,
+          "verse": 26,
+          "text": "Yeye humwomba Mungu, naye akamtakabalia; Hata auone uso wake kwa furaha; Naye humrejezea mtu haki yake."
+        },
+        {
+          "chapter": 33,
+          "verse": 27,
+          "text": "Yeye huimba mbele ya watu, na kusema, Mimi nimefanya dhambi, na kuyapotosha hayo yaliyoelekea, Wala sikulipizwa jambo hilo;"
+        },
+        {
+          "chapter": 33,
+          "verse": 28,
+          "text": "Yeye ameikomboa nafsi yangu isiende shimoni, Na uhai wangu utautazama mwanga."
+        },
+        {
+          "chapter": 33,
+          "verse": 29,
+          "text": "Tazama, hayo yote ni Mungu anayeyafanya, Mara mbili, naam, hata mara tatu, kwa mtu,"
+        },
+        {
+          "chapter": 33,
+          "verse": 30,
+          "text": "Ili kurudisha roho yake itoke shimoni, Ili atiwe mwanga kwa mwanga wa walio hai."
+        },
+        {
+          "chapter": 33,
+          "verse": 31,
+          "text": "Angalia sana, Ee Ayubu, unisikilize; Nyamaza, mimi nitasema."
+        },
+        {
+          "chapter": 33,
+          "verse": 32,
+          "text": "Kama una neno la kusema, nijibu; Nena, kwani nataka kukuhesabia kuwa na haki."
+        },
+        {
+          "chapter": 33,
+          "verse": 33,
+          "text": "Kama sivyo, unisikilize mimi; Nyamaza, nami nitakufunza hekima."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 34,
+      "lastVerse": 37,
+      "verseUnitCount": 37,
+      "verses": [
+        {
+          "chapter": 34,
+          "verse": 1,
+          "text": "Tena Elihu akajibu na kusema,"
+        },
+        {
+          "chapter": 34,
+          "verse": 2,
+          "text": "Sikilizeni maneno yangu, enyi wenye hekima; Tegeni masikio kwangu, ninyi mlio na maarifa."
+        },
+        {
+          "chapter": 34,
+          "verse": 3,
+          "text": "Kwa kuwa sikio huyajaribu maneno, Kama vile kaakaa lionjavyo chakula."
+        },
+        {
+          "chapter": 34,
+          "verse": 4,
+          "text": "Na tujichagulie yaliyo ya uelekevu; Na tujue wenyewe yaliyo mema."
+        },
+        {
+          "chapter": 34,
+          "verse": 5,
+          "text": "Kwani Ayubu amesema, Mimi ni mwenye haki, Naye Mungu ameniondolea haki yangu;"
+        },
+        {
+          "chapter": 34,
+          "verse": 6,
+          "text": "Nijapokuwa mwenye haki, nimehesabiwa kuwa mwongo; Jeraha yangu haiponyeki, nijapokuwa sina makosa."
+        },
+        {
+          "chapter": 34,
+          "verse": 7,
+          "text": "Je! Ni mtu gani mfano wa Ayubu, Anywaye mzaha kama maji?"
+        },
+        {
+          "chapter": 34,
+          "verse": 8,
+          "text": "Atembeaye na hao watendao uovu, Na kwenda pamoja na watu wabaya."
+        },
+        {
+          "chapter": 34,
+          "verse": 9,
+          "text": "Kwa kuwa amenena, Haimfai mtu lo lote Kujifurahisha na Mungu."
+        },
+        {
+          "chapter": 34,
+          "verse": 10,
+          "text": "Kwa hiyo nisikilizeni, enyi wenye fahamu; Mungu asidhaniwe kutenda udhalimu; Wala Mwenyezi kufanya uovu."
+        },
+        {
+          "chapter": 34,
+          "verse": 11,
+          "text": "Kwani atamlipa binadamu kwa kazi yake, Naye atamfanya kila mtu kuona sawasawa na njia zake"
+        },
+        {
+          "chapter": 34,
+          "verse": 12,
+          "text": "Naam, hakika, Mungu hatatenda mabaya, Wala Mwenyezi hatapotosha hukumu."
+        },
+        {
+          "chapter": 34,
+          "verse": 13,
+          "text": "Ni nani aliyemwagiza kuiangalia dunia? Au ni nani aliyemwekea ulimwengu huu wote?"
+        },
+        {
+          "chapter": 34,
+          "verse": 14,
+          "text": "Kama akimwekea mtu moyo wake, Akijikusanyia roho yake na pumzi zake;"
+        },
+        {
+          "chapter": 34,
+          "verse": 15,
+          "text": "Wenye mwili wote wataangamia pamoja, Nao wanadamu watarejea tena kuwa mavumbi."
+        },
+        {
+          "chapter": 34,
+          "verse": 16,
+          "text": "Ikiwa una ufahamu, sikia neno hili; Isikilize sauti ya maneno yangu."
+        },
+        {
+          "chapter": 34,
+          "verse": 17,
+          "text": "Je! Atatawala mtu aichukiaye haki hata mmoja? Nawe, je! Utamhukumia mkosa aliye na haki na mwenye nguvu?"
+        },
+        {
+          "chapter": 34,
+          "verse": 18,
+          "text": "Je! Inafaa kumwambia mfalme, Wewe u mwovu? Au kuwaambia wakuu, Ninyi ni wabaya?"
+        },
+        {
+          "chapter": 34,
+          "verse": 19,
+          "text": "Sembuse huyo asiyependelea nyuso za wakuu, Wala hawajali matajiri kuliko maskini? Kwani wote ni kazi ya mikono yake,"
+        },
+        {
+          "chapter": 34,
+          "verse": 20,
+          "text": "Hufa ghafula, hata usiku wa manane; Watu hutikisika na kwenda zao, Nao mashujaa huondolewa pasipo mkono wa mtu."
+        },
+        {
+          "chapter": 34,
+          "verse": 21,
+          "text": "Kwani macho yake ya juu ya njia za mtu, Naye huiona miendo yake yote."
+        },
+        {
+          "chapter": 34,
+          "verse": 22,
+          "text": "Hapana weusi, wala hilo giza tupu, Wawezapo kujificha watendao udhalimu."
+        },
+        {
+          "chapter": 34,
+          "verse": 23,
+          "text": "Kwani yeye hana haja ya kumfikiria mtu zaidi, ili aende mbele za Mungu ahukumiwe."
+        },
+        {
+          "chapter": 34,
+          "verse": 24,
+          "text": "Yeye huwavunja-vunja mashujaa pasina kuwachunguza, Na kuwaweka wengine mahali pao."
+        },
+        {
+          "chapter": 34,
+          "verse": 25,
+          "text": "Kwa sababu hiyo yeye huyatafiti matendo yao; Naye huwapindia usiku, wakaangamia."
+        },
+        {
+          "chapter": 34,
+          "verse": 26,
+          "text": "Yeye huwapiga kama watu wabaya Waziwazi mbele ya macho ya wengine;"
+        },
+        {
+          "chapter": 34,
+          "verse": 27,
+          "text": "Kwa sababu walikengeuka, wasimwandame yeye, Wasikubali kuzishika njia zake hata moja;"
+        },
+        {
+          "chapter": 34,
+          "verse": 28,
+          "text": "Hata wakafanya kilio cha maskini kumfikilia, Naye akasikia kilio cha hao wateswao."
+        },
+        {
+          "chapter": 34,
+          "verse": 29,
+          "text": "Akitoa utulivu yeye, ni nani awezaye kuhukumia makosa? Akificha uso wake, ni nani awezaye kumtazama? Kama hufanyiwa taifa, au mtu mmoja, ni sawasawa;"
+        },
+        {
+          "chapter": 34,
+          "verse": 30,
+          "text": "Kwamba huyo mpotovu asitawale, Pasiwe na wa kuwatega watu."
+        },
+        {
+          "chapter": 34,
+          "verse": 31,
+          "text": "Kwani kuna mtu aliyemwambia Mungu, Mimi nimevumilia kurudiwa, ingawa sikukosa;"
+        },
+        {
+          "chapter": 34,
+          "verse": 32,
+          "text": "Nisiyoyaona nifundishe wewe; Kama nimefanya uovu sitafanya tena?"
+        },
+        {
+          "chapter": 34,
+          "verse": 33,
+          "text": "Je! Malipo yake yatakuwa kama upendavyo wewe, hata ukayakataa? Kwani yakupasa wewe kuchagua, si mimi; Kwa sababu hiyo sema uyajuayo."
+        },
+        {
+          "chapter": 34,
+          "verse": 34,
+          "text": "Watu walio na akili wataniambia, Naam, kila mtu mwenye hekima anisikiaye;"
+        },
+        {
+          "chapter": 34,
+          "verse": 35,
+          "text": "Huyo Ayubu amesema pasipo maarifa, Na maneno yake hayana hekima."
+        },
+        {
+          "chapter": 34,
+          "verse": 36,
+          "text": "Laiti Ayubu angejaribiwa hata mwisho, Kwa kuwa amejibu kama watu waovu."
+        },
+        {
+          "chapter": 34,
+          "verse": 37,
+          "text": "Kwani huongeza uasi juu ya dhambi zake, Apiga makofi kati yetu, Na kuongeza maneno yake kinyume cha Mungu."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 35,
+      "lastVerse": 16,
+      "verseUnitCount": 16,
+      "verses": [
+        {
+          "chapter": 35,
+          "verse": 1,
+          "text": "Tena Elihu akajibu na kusema,"
+        },
+        {
+          "chapter": 35,
+          "verse": 2,
+          "text": "Je! Wewe wadhani kwamba haya ni haki yako, Au je! Wasema, Haki yangu ni zaidi kuliko ya Mungu,"
+        },
+        {
+          "chapter": 35,
+          "verse": 3,
+          "text": "Maana wasema, Kutakuwa na faida gani kwako wewe? Tena, Nitapata faida gani, kuliko nikifanya dhambi?"
+        },
+        {
+          "chapter": 35,
+          "verse": 4,
+          "text": "Mimi nitakujibu, Na hawa wenzio pamoja nawe."
+        },
+        {
+          "chapter": 35,
+          "verse": 5,
+          "text": "Ziangalie mbingu ukaone; Na mawingu yaangalie, yaliyo juu kuliko wewe."
+        },
+        {
+          "chapter": 35,
+          "verse": 6,
+          "text": "Ikiwa umefanya dhambi, umefanya nini juu yake? Yakiwa makosa yako yameongezeka, wamfanyia nini yeye?"
+        },
+        {
+          "chapter": 35,
+          "verse": 7,
+          "text": "Ikiwa u mwenye haki, wampa kitu gani? Au yeye hupokea nini mkononi mwako?"
+        },
+        {
+          "chapter": 35,
+          "verse": 8,
+          "text": "Uovu wako waweza kumwumiza mtu kama wewe; Na haki yako yaweza kumfaa mwanadamu."
+        },
+        {
+          "chapter": 35,
+          "verse": 9,
+          "text": "Kwa sababu ya wingi wa jeuri wao hulia; Walilia msaada kwa sababu ya mkono wa wakuu."
+        },
+        {
+          "chapter": 35,
+          "verse": 10,
+          "text": "Wala hapana asemaye, Yuko wapi Mungu Muumba wangu, Awapaye nyimbo wakati wa usiku;"
+        },
+        {
+          "chapter": 35,
+          "verse": 11,
+          "text": "Atufundishaye zaidi ya hayawani wa nchi, Na kutufanya wenye hekima kuliko ndege za angani?"
+        },
+        {
+          "chapter": 35,
+          "verse": 12,
+          "text": "Hulia huko, lakini hapana ajibuye, Kwa sababu ya kiburi cha watu waovu."
+        },
+        {
+          "chapter": 35,
+          "verse": 13,
+          "text": "Hakika Mungu hatasikia ubatili, Wala Mwenyezi hatauangalia."
+        },
+        {
+          "chapter": 35,
+          "verse": 14,
+          "text": "Sembuse usemapo wewe ya kuwa humwangalii, Hiyo daawa i mbele yake, nawe wamngojea!"
+        },
+        {
+          "chapter": 35,
+          "verse": 15,
+          "text": "Lakini sasa, kwa sababu yeye hakukujilia katika hasira zake, Wala hauangalii sana unyeti;"
+        },
+        {
+          "chapter": 35,
+          "verse": 16,
+          "text": "Ndiposa Ayubu hufunua kinywa chake kwa ubatili; Huongeza maneno pasipo maarifa."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 36,
+      "lastVerse": 33,
+      "verseUnitCount": 33,
+      "verses": [
+        {
+          "chapter": 36,
+          "verse": 1,
+          "text": "Tena Elihu akaendelea na kusema,"
+        },
+        {
+          "chapter": 36,
+          "verse": 2,
+          "text": "Ningojee kidogo nami nitakueleza; Kwa kuwa nikali na maneno kwa ajili ya Mungu."
+        },
+        {
+          "chapter": 36,
+          "verse": 3,
+          "text": "Nitayaleta maarifa yangu kutoka mbali, Nami nitampa haki Muumba wangu."
+        },
+        {
+          "chapter": 36,
+          "verse": 4,
+          "text": "Kwani yakini maneno yangu si ya uongo; Aliyekamilika katika maarifa yu pamoja nawe."
+        },
+        {
+          "chapter": 36,
+          "verse": 5,
+          "text": "Tazama, Mungu ni hodari, wala hamdharau mtu ye yote; Ana uweza katika nguvu za fahamu."
+        },
+        {
+          "chapter": 36,
+          "verse": 6,
+          "text": "Hauhifadhi uhai wa waovu; Lakini huwapa wateswao haki yao."
+        },
+        {
+          "chapter": 36,
+          "verse": 7,
+          "text": "Yeye hawaondolei macho yake wenye haki; Lakini pamoja na wafalme huwaweka Katika viti vya enzi milele, nao hutukuzwa."
+        },
+        {
+          "chapter": 36,
+          "verse": 8,
+          "text": "Nao wakifungwa kwa pingu, Wakitwaliwa kwa kamba za mateso;"
+        },
+        {
+          "chapter": 36,
+          "verse": 9,
+          "text": "Ndipo huwaonyesha matendo yao, Na makosa yao, ya kuwa wametenda kwa kujivuna."
+        },
+        {
+          "chapter": 36,
+          "verse": 10,
+          "text": "Yeye huyafunua masikio yao, wasikie maonyo, Na kuwaagiza warudi kuuacha uovu."
+        },
+        {
+          "chapter": 36,
+          "verse": 11,
+          "text": "Kama wakisikia na kumtumikia, Watapisha siku zao katika kufanikiwa, Na miaka yao katika furaha."
+        },
+        {
+          "chapter": 36,
+          "verse": 12,
+          "text": "Lakini wasiposikia, wataangamia kwa upanga, Nao watakufa pasipo maarifa."
+        },
+        {
+          "chapter": 36,
+          "verse": 13,
+          "text": "Lakini hao wasiomcha Mungu mioyoni hujiwekea hasira Hawalilii msaada hapo awafungapo."
+        },
+        {
+          "chapter": 36,
+          "verse": 14,
+          "text": "Wao hufa wakali vijana, Na uhai wao huangamia katikati ya wachafu."
+        },
+        {
+          "chapter": 36,
+          "verse": 15,
+          "text": "Yeye humponya aliyetaabika kwa njia ya taabu yake, Na kuyafunua masikio yao kwa maonevu."
+        },
+        {
+          "chapter": 36,
+          "verse": 16,
+          "text": "Naam, yeye angekuongoza utoke katika msiba Hata mahali penye nafasi, ambapo hapana msonge; Na kilichowekwa mezani pako kingejaa mafuta."
+        },
+        {
+          "chapter": 36,
+          "verse": 17,
+          "text": "Lakini umejaa hukumu ya waovu; Hukumu na haki hukushika."
+        },
+        {
+          "chapter": 36,
+          "verse": 18,
+          "text": "Basi ujitunze, isije hasira ikakuvuta hata ukafanya mzaha; Wala usikubali ukuu wa ukombozi ukugeuze."
+        },
+        {
+          "chapter": 36,
+          "verse": 19,
+          "text": "Je! Mali yako yatatosha, hata usiwe katika taabu, Au uwezo wote wa nguvu zako?"
+        },
+        {
+          "chapter": 36,
+          "verse": 20,
+          "text": "Usiutamani usiku, Wakati watu wakatwapo katika mahali pao."
+        },
+        {
+          "chapter": 36,
+          "verse": 21,
+          "text": "Jitunze, usiutazame uovu; Kwani umeuchagua huo zaidi ya taabu."
+        },
+        {
+          "chapter": 36,
+          "verse": 22,
+          "text": "Tazama, Mungu hutenda makuu kwa uweza wake; Ni nani afundishaye kama yeye?"
+        },
+        {
+          "chapter": 36,
+          "verse": 23,
+          "text": "Ni nani aliyemwagiza njia yake? Au ni nani awezaye kusema, Wewe umetenda yasiyo haki?"
+        },
+        {
+          "chapter": 36,
+          "verse": 24,
+          "text": "Kumbuka kuitukuza kazi yake, Watu waliyoiimbia."
+        },
+        {
+          "chapter": 36,
+          "verse": 25,
+          "text": "Wanadamu wote wameitazama; Watu huiangalia kwa mbali"
+        },
+        {
+          "chapter": 36,
+          "verse": 26,
+          "text": "Tazama, Mungu ni mkuu, nasi hatumjui; Hesabu ya miaka yake haitafutiki."
+        },
+        {
+          "chapter": 36,
+          "verse": 27,
+          "text": "Kwani yeye huvuta juu matone ya maji, Yamwagikayo katika mvua kutoka kungeni mwake;"
+        },
+        {
+          "chapter": 36,
+          "verse": 28,
+          "text": "Ambayo mawingu yainyesha Na kudondoza juu ya wanadamu kwa wingi."
+        },
+        {
+          "chapter": 36,
+          "verse": 29,
+          "text": "Naam, mtu aweza kuelewa na matandazo ya mawingu, Ngurumo za makao yake?"
+        },
+        {
+          "chapter": 36,
+          "verse": 30,
+          "text": "Tazama, yeye huutandaza mwanga wake, umzunguke; Naye hufunika vilindi vya bahari."
+        },
+        {
+          "chapter": 36,
+          "verse": 31,
+          "text": "Kwani huwahukumu kabila za watu kwa njia hizi; Hutoa chakula kwa ukarimu."
+        },
+        {
+          "chapter": 36,
+          "verse": 32,
+          "text": "Yeye huifunika mikono yake kwa umeme; Na kuuagiza shabaha utakayopiga."
+        },
+        {
+          "chapter": 36,
+          "verse": 33,
+          "text": "Mshindo wake hutoa habari zake, Anayewaka hasira juu ya uovu."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 37,
+      "lastVerse": 24,
+      "verseUnitCount": 24,
+      "verses": [
+        {
+          "chapter": 37,
+          "verse": 1,
+          "text": "Moyo wangu hunitetema kwayo pia, Nao hutoka mahali pake."
+        },
+        {
+          "chapter": 37,
+          "verse": 2,
+          "text": "Zisikizeni hizo kelele za sauti yake, Na uvumi utokao kinywani mwake."
+        },
+        {
+          "chapter": 37,
+          "verse": 3,
+          "text": "Yeye huituma iende chini ya mbingu zote, Na radi yake hata miisho ya nchi."
+        },
+        {
+          "chapter": 37,
+          "verse": 4,
+          "text": "Baadaye sauti hunguruma; Yeye hunguruma kwa sauti ya ukuu wake; Hazizuii hapo sauti yake isikiwapo."
+        },
+        {
+          "chapter": 37,
+          "verse": 5,
+          "text": "Mungu hunguruma kwa kustaajabisha kwa sauti yake; Hufanya mambo makuu, ambayo hatuwezi kuelewa nayo."
+        },
+        {
+          "chapter": 37,
+          "verse": 6,
+          "text": "Kwani huiambia theluji, Anguka juu ya nchi; Na vivyo manyonyota ya mvua, Na hayo maji ya mvua yake kubwa."
+        },
+        {
+          "chapter": 37,
+          "verse": 7,
+          "text": "Huufunga mkono wa kila binadamu; Ili watu wote aliowaumba wajue."
+        },
+        {
+          "chapter": 37,
+          "verse": 8,
+          "text": "Hapo wanyama huingia mafichoni, Na kukaa katika mapango yao."
+        },
+        {
+          "chapter": 37,
+          "verse": 9,
+          "text": "Dhoruba hutoka katika vyumba vyake; Na baridi ghalani mwake."
+        },
+        {
+          "chapter": 37,
+          "verse": 10,
+          "text": "Barafu huletwa kwa pumzi za Mungu; Na upana wa maji huganda."
+        },
+        {
+          "chapter": 37,
+          "verse": 11,
+          "text": "Naam, huyatweka mawingu mazito mzigo wa maji; Hulitandika wingu la umeme wake;"
+        },
+        {
+          "chapter": 37,
+          "verse": 12,
+          "text": "Nalo hugeuzwa huku na huku kwa uongozi wake, Ili yafanye yote atakayoyaagiza Juu ya uso wa dunia hii ikaayo watu;"
+        },
+        {
+          "chapter": 37,
+          "verse": 13,
+          "text": "Kama ni kwa kuonya, au kama ni kwa nchi yake, Au kama ni kwa rehema, ndiye aletaye."
+        },
+        {
+          "chapter": 37,
+          "verse": 14,
+          "text": "Sikiliza neno hili, Ee Ayubu; Simama kimya, uzifikiri kazi za Mungu za ajabu."
+        },
+        {
+          "chapter": 37,
+          "verse": 15,
+          "text": "Je! Wajua wewe jinsi Mungu anavyoziagiza, Na kuumulikisha umeme wa wingu lake?"
+        },
+        {
+          "chapter": 37,
+          "verse": 16,
+          "text": "Je! Wajua jinsi mawingu yalivyowekwa sawasawa, Hizo kazi za ajabu za huyo mkamilifu wa maarifa?"
+        },
+        {
+          "chapter": 37,
+          "verse": 17,
+          "text": "Jinsi nguo zako zilivyo na moto, Hapo nchi ituliapo kwa sababu ya upepo wa kusini?"
+        },
+        {
+          "chapter": 37,
+          "verse": 18,
+          "text": "Je! Waweza kuzitandaza mbingu pamoja naye, Ambazo zina nguvu kama kioo cha kuyeyushwa?"
+        },
+        {
+          "chapter": 37,
+          "verse": 19,
+          "text": "Utufundishe ni maneno gani tutakayomwambia; Kwa maana hamwezi kuyatengeza kwa sababu ya giza."
+        },
+        {
+          "chapter": 37,
+          "verse": 20,
+          "text": "Je! Aambiwe kwamba nataka kunena? Au mtu angetamani kumezwa?"
+        },
+        {
+          "chapter": 37,
+          "verse": 21,
+          "text": "Na sasa watu hawawezi kuutazama mwanga ung’aao mbinguni; Lakini upepo ukipita huzitakasa."
+        },
+        {
+          "chapter": 37,
+          "verse": 22,
+          "text": "Kaskazini hutokea umemetufu wa dhahabu; Mungu huvikwa ukuu utishao."
+        },
+        {
+          "chapter": 37,
+          "verse": 23,
+          "text": "yeye Mwenyezi hamwezi kumwona; Yeye ni mkuu mwenye uweza; Tena mwenye hukumu, na mwingi wa haki, hataonea."
+        },
+        {
+          "chapter": 37,
+          "verse": 24,
+          "text": "Kwa hiyo watu humwogopa; Yeye hawaangalii walio na hekima mioyoni."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 38,
+      "lastVerse": 41,
+      "verseUnitCount": 41,
+      "verses": [
+        {
+          "chapter": 38,
+          "verse": 1,
+          "text": "Ndipo [DN]BWANA[/DN] akamjibu Ayubu katika upepo wa kisulisuli, na kusema,"
+        },
+        {
+          "chapter": 38,
+          "verse": 2,
+          "text": "Ni nani huyu atiaye mashauri giza Kwa maneno yasiyo na maarifa?"
+        },
+        {
+          "chapter": 38,
+          "verse": 3,
+          "text": "Basi jifunge viuno kama mwanamume, Maana nitakuuliza neno, nawe niambie."
+        },
+        {
+          "chapter": 38,
+          "verse": 4,
+          "text": "Ulikuwa wapi nilipoiweka misingi ya nchi? Haya! Sema, kama ukiwa na ufahamu."
+        },
+        {
+          "chapter": 38,
+          "verse": 5,
+          "text": "Ni nani aliyeamrisha vipimo vyake, kama ukijua? Au ni nani aliyenyosha kamba juu yake?"
+        },
+        {
+          "chapter": 38,
+          "verse": 6,
+          "text": "Misingi yake ilikazwa juu ya kitu gani? Au ni nani aliyeliweka jiwe lake la pembeni,"
+        },
+        {
+          "chapter": 38,
+          "verse": 7,
+          "text": "Hapo nyota za asubuhi zilipoimba pamoja, Na wana wote wa Mungu walipopiga kelele kwa furaha?"
+        },
+        {
+          "chapter": 38,
+          "verse": 8,
+          "text": "Au ni nani aliyeifunga bahari kwa milango, Hapo ilipofurika kana kwamba imetoka tumboni."
+        },
+        {
+          "chapter": 38,
+          "verse": 9,
+          "text": "Nilipolifanya wingu kuwa vazi lake, Na giza zito kuwa nguo ya kuifungia,"
+        },
+        {
+          "chapter": 38,
+          "verse": 10,
+          "text": "Nikaiagiza amri yangu; Nikaiwekea makomeo na milango,"
+        },
+        {
+          "chapter": 38,
+          "verse": 11,
+          "text": "Nikasema, Utafika mpaka hapa, lakini hutapita, Na hapa mawimbi yako yanyetayo yatazuiliwa?"
+        },
+        {
+          "chapter": 38,
+          "verse": 12,
+          "text": "Je! Umeiamuru asubuhi tangu siku zako zilipoanza? Umeyajulisha mapambazuko mahali pake?"
+        },
+        {
+          "chapter": 38,
+          "verse": 13,
+          "text": "Yapate kuishika miisho ya nchi, Waovu wakung’utwe wakawe mbali nayo?"
+        },
+        {
+          "chapter": 38,
+          "verse": 14,
+          "text": "Hubadilika mfano wa udongo chini ya muhuri, Vitu vyote vinatokea kama mavazi."
+        },
+        {
+          "chapter": 38,
+          "verse": 15,
+          "text": "Na waovu nuru yao huzuiliwa isiwafikie, Na mkono ulioinuka huvunjika."
+        },
+        {
+          "chapter": 38,
+          "verse": 16,
+          "text": "Je! Umeziingia chemchemi za bahari, Au umetembea mahali pa siri pa vilindi?"
+        },
+        {
+          "chapter": 38,
+          "verse": 17,
+          "text": "Je! Umefunuliwa malango ya mauti, Au umeyaona malango ya kuzimu?"
+        },
+        {
+          "chapter": 38,
+          "verse": 18,
+          "text": "Umeyafahamu mapana ya dunia? Haya! Sema, ikiwa unayajua hayo yote."
+        },
+        {
+          "chapter": 38,
+          "verse": 19,
+          "text": "Iko wapi njia ya kuyafikia makao ya nuru? Na giza pia, mahali pake ni wapi?"
+        },
+        {
+          "chapter": 38,
+          "verse": 20,
+          "text": "Upate kuipeleka hata mpaka wake, Upate kuelewa na mapito ya kuiendea nyumba yake?"
+        },
+        {
+          "chapter": 38,
+          "verse": 21,
+          "text": "Hukosi unajua, maana ulizaliwa wakati huo, Na hesabu ya siku zako ni kubwa!"
+        },
+        {
+          "chapter": 38,
+          "verse": 22,
+          "text": "Je! Umeziingia ghala za theluji, Au umeziona ghala za mvua ya mawe,"
+        },
+        {
+          "chapter": 38,
+          "verse": 23,
+          "text": "Nilizoziweka akiba kwa wakati wa misiba, Kwa siku ya mapigano na vita?"
+        },
+        {
+          "chapter": 38,
+          "verse": 24,
+          "text": "Je! Nuru hutengwa kwa njia gani, Au upepo wa mashariki hutawanywaje juu ya nchi?"
+        },
+        {
+          "chapter": 38,
+          "verse": 25,
+          "text": "Ni nani aliyepasua mfereji kwa maji ya gharika, Au njia kwa umeme wa radi;"
+        },
+        {
+          "chapter": 38,
+          "verse": 26,
+          "text": "Kunyesha mvua juu ya nchi isiyo na watu; Juu ya jangwa asiyokaa mwanadamu;"
+        },
+        {
+          "chapter": 38,
+          "verse": 27,
+          "text": "Kuishibisha nchi iliyo kame na ukiwa, Na kuyameza majani yaliyo mororo?"
+        },
+        {
+          "chapter": 38,
+          "verse": 28,
+          "text": "Je! Mvua ina baba? Au ni nani aliyeyazaa matone ya umande?"
+        },
+        {
+          "chapter": 38,
+          "verse": 29,
+          "text": "Barafu ilitoka katika tumbo la nani? Na sakitu ya mbinguni ni nani aliyeizaa?"
+        },
+        {
+          "chapter": 38,
+          "verse": 30,
+          "text": "Maji hugandamana kama jiwe, Na uso wa vilindi huganda kwa baridi."
+        },
+        {
+          "chapter": 38,
+          "verse": 31,
+          "text": "Je! Waweza kuufunga mnyororo wa Kilimia, Au kuvilegeza vifungo vya Orioni?"
+        },
+        {
+          "chapter": 38,
+          "verse": 32,
+          "text": "Je! Waweza kuziongoza Sayari kwa wakati wake? Au waweza kuongoza Dubu na watoto wake?"
+        },
+        {
+          "chapter": 38,
+          "verse": 33,
+          "text": "Je! Unazijua amri zilizoamuriwa mbingu? Waweza kuyathibitisha mamlaka yake juu ya dunia?"
+        },
+        {
+          "chapter": 38,
+          "verse": 34,
+          "text": "Waweza kuiinua sauti yako mpaka mawinguni, ili wingi wa maji ukufunikize?"
+        },
+        {
+          "chapter": 38,
+          "verse": 35,
+          "text": "Waweza kuutuma umeme, nao ukaenda, Ukakuambia, Sisi tupo hapa?"
+        },
+        {
+          "chapter": 38,
+          "verse": 36,
+          "text": "Je! Ni nani aliyetia hekima moyoni? Au ni nani aliyetia ufahamu rohoni?"
+        },
+        {
+          "chapter": 38,
+          "verse": 37,
+          "text": "Ni nani awezaye kuyahesabu mawingu kwa hekima? Au ni nani awezaye kuzimimina chupa za mbinguni?"
+        },
+        {
+          "chapter": 38,
+          "verse": 38,
+          "text": "Wakati mavumbi yagandamanapo, Na madongoa kushikamana pamoja?"
+        },
+        {
+          "chapter": 38,
+          "verse": 39,
+          "text": "Je! Utamwindia simba mke mawindo? Au utashibisha njaa ya simba wachanga,"
+        },
+        {
+          "chapter": 38,
+          "verse": 40,
+          "text": "Waoteapo mapangoni mwao, Wakaapo mafichoni wapate kuvizia?"
+        },
+        {
+          "chapter": 38,
+          "verse": 41,
+          "text": "Ni nani anayempatia kunguru chakula, Makinda yake wanapomlilia Mungu, Na kutanga-tanga kwa kutindikiwa na chakula?"
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 39,
+      "lastVerse": 30,
+      "verseUnitCount": 30,
+      "verses": [
+        {
+          "chapter": 39,
+          "verse": 1,
+          "text": "Je! Wajua majira ya kuzaa kwao mbuzi-mwitu walio majabalini? Au waweza kusema majira ya kuzaa kulungu?"
+        },
+        {
+          "chapter": 39,
+          "verse": 2,
+          "text": "Je! Waweza kuhesabu miezi yao watakayoitimiza? Au je! Wajua majira ya kuzaa kwao?"
+        },
+        {
+          "chapter": 39,
+          "verse": 3,
+          "text": "Wao hujiinamisha, kuzaa watoto wao, Watupa taabu zao."
+        },
+        {
+          "chapter": 39,
+          "verse": 4,
+          "text": "Watoto wao wa katika hali nzuri, hukua katika bara wazi; Huenda zao, wala hawarudi tena."
+        },
+        {
+          "chapter": 39,
+          "verse": 5,
+          "text": "Ni nani aliyempeleka punda-milia aende huru? Au je! Ni nani aliyemfungulia vifungo punda-mwitu?"
+        },
+        {
+          "chapter": 39,
+          "verse": 6,
+          "text": "Ambaye nimeifanya nyika kuwa nyumba yake, Na nchi ya chumvi kuwa makao yake."
+        },
+        {
+          "chapter": 39,
+          "verse": 7,
+          "text": "Yeye hudharau mshindo wa mji, Wala hasikii kelele zake msimamizi."
+        },
+        {
+          "chapter": 39,
+          "verse": 8,
+          "text": "Upana wa milima ni malisho yake, Hutafuta-tafuta kila kitu kilicho kibichi."
+        },
+        {
+          "chapter": 39,
+          "verse": 9,
+          "text": "Je! Nyati atakubali kukutumikia? Au atakaa katika zizi lako?"
+        },
+        {
+          "chapter": 39,
+          "verse": 10,
+          "text": "Je! Waweza kumfunga nyati kwa kamba matutani? Au, yeye atayalima mabonde nyuma yako?"
+        },
+        {
+          "chapter": 39,
+          "verse": 11,
+          "text": "Je! Utamtumaini kwa sababu ana nguvu nyingi? Au, utamwachia yeye kazi yako?"
+        },
+        {
+          "chapter": 39,
+          "verse": 12,
+          "text": "Je! Utamtumaini kwamba ataileta mbegu yako nyumbani. Na kukusanya nafaka ya kiwanja chako cha kupuria?"
+        },
+        {
+          "chapter": 39,
+          "verse": 13,
+          "text": "Bawa la mbuni hufurahi; Lakini mabawa yake na manyoya yake, je! Yana huruma?"
+        },
+        {
+          "chapter": 39,
+          "verse": 14,
+          "text": "Kwani yeye huyaacha mayai yake juu ya nchi, Na kuyatia moto mchangani,"
+        },
+        {
+          "chapter": 39,
+          "verse": 15,
+          "text": "Na kusahau kwamba yumkini mguu kuyavunja, Au mnyama wa mwitu kuyakanyaga."
+        },
+        {
+          "chapter": 39,
+          "verse": 16,
+          "text": "yeye huyafanyia ukali makinda yake, kana kwamba si yake; Ijapokuwa taabu yake ni ya bure, hana hofu;"
+        },
+        {
+          "chapter": 39,
+          "verse": 17,
+          "text": "Kwa sababu Mungu amemnyima akili, Wala hakumpa fahamu."
+        },
+        {
+          "chapter": 39,
+          "verse": 18,
+          "text": "Wakati anapojiinua juu aende, Humdharau farasi na mwenye kumpanda."
+        },
+        {
+          "chapter": 39,
+          "verse": 19,
+          "text": "Je! Wewe ulimpa farasi uwezo wake? Au, ni wewe uliyemvika shingo yake manyoya yatetemayo?"
+        },
+        {
+          "chapter": 39,
+          "verse": 20,
+          "text": "Ndiwe uliyemfanya aruke kama nzige? Fahari ya mlio wake hutisha."
+        },
+        {
+          "chapter": 39,
+          "verse": 21,
+          "text": "Hupara-para bondeni, na kuzifurahia nguvu zake; Hutoka kwenda kukutana na wenye silaha."
+        },
+        {
+          "chapter": 39,
+          "verse": 22,
+          "text": "Yeye hufanyia kicho dhihaka, wala hashangai; Wala hageuki kurudi nyuma mbele ya upanga."
+        },
+        {
+          "chapter": 39,
+          "verse": 23,
+          "text": "Podo humpigia makelele, Mkuki ung’aao na fumo."
+        },
+        {
+          "chapter": 39,
+          "verse": 24,
+          "text": "Huimeza nchi kwa ukali wake na ghadhabu; Wala hasimami kwa sauti ya baragumu."
+        },
+        {
+          "chapter": 39,
+          "verse": 25,
+          "text": "Kila ipigwapo baragumu yeye husema, Aha! Naye husikia harufu ya vita toka mbali, Mshindo wa maakida, na makelele."
+        },
+        {
+          "chapter": 39,
+          "verse": 26,
+          "text": "Je! Mwewe huruka juu kwa akili zako, Na kuyanyosha mabawa yake kwenda kusini?"
+        },
+        {
+          "chapter": 39,
+          "verse": 27,
+          "text": "Je! Tai hupaa juu kwa amri yako, Na kufanya kioto chake mahali pa juu?"
+        },
+        {
+          "chapter": 39,
+          "verse": 28,
+          "text": "Hukaa jabalini, ndiko kwenye malazi yake, Juu ya genge la jabali, na ngomeni."
+        },
+        {
+          "chapter": 39,
+          "verse": 29,
+          "text": "Toka huko yeye huchungulia mawindo; Macho yake huyaangalia toka mbali."
+        },
+        {
+          "chapter": 39,
+          "verse": 30,
+          "text": "Makinda yake nayo hufyonza damu; Na kwenye maiti ndiko aliko."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 40,
+      "lastVerse": 24,
+      "verseUnitCount": 24,
+      "verses": [
+        {
+          "chapter": 40,
+          "verse": 1,
+          "text": "[DN]BWANA[/DN] akafuliza kumjibu Ayubu, na kusema,"
+        },
+        {
+          "chapter": 40,
+          "verse": 2,
+          "text": "Je! Mwenye hoja atashindana na Mwenyezi? Mwenye kujadiliana na Mungu, na ajibu yeye."
+        },
+        {
+          "chapter": 40,
+          "verse": 3,
+          "text": "Ndipo Ayubu akamjibu Mungu, na kusema,"
+        },
+        {
+          "chapter": 40,
+          "verse": 4,
+          "text": "Tazama, mimi si kitu kabisa, nikujibu nini? Naweka mkono wangu kinywani pangu."
+        },
+        {
+          "chapter": 40,
+          "verse": 5,
+          "text": "Nimenena mara moja, nami sitajibu; Naam, nimenena mara mbili, lakini sitaendelea zaidi."
+        },
+        {
+          "chapter": 40,
+          "verse": 6,
+          "text": "Ndipo [DN]BWANA[/DN] akamjibu Ayubu katika upepo wa kisulisuli, na kusema,"
+        },
+        {
+          "chapter": 40,
+          "verse": 7,
+          "text": "Jifunge viuno kama mwanamume, Mimi nitakuuliza neno, nawe niambie."
+        },
+        {
+          "chapter": 40,
+          "verse": 8,
+          "text": "Je! Hata hukumu yangu utaibatilisha? Utanitia mimi hatiani, upate kuhesabiwa haki?"
+        },
+        {
+          "chapter": 40,
+          "verse": 9,
+          "text": "Au je! Wewe una mkono kama Mungu? Waweza kutoa ngurumo kwa sauti kama yeye?"
+        },
+        {
+          "chapter": 40,
+          "verse": 10,
+          "text": "Haya! Jivike sasa fahari na ukuu; Jipambe heshima na enzi."
+        },
+        {
+          "chapter": 40,
+          "verse": 11,
+          "text": "Mwaga mafuriko ya hasira zako, Ukamtazame kila mtu mwenye kiburi, ukamdhili."
+        },
+        {
+          "chapter": 40,
+          "verse": 12,
+          "text": "Mtazame kila mtu mwenye kiburi ukamshushe, Ukawakanyage waovu hapo wasimamapo."
+        },
+        {
+          "chapter": 40,
+          "verse": 13,
+          "text": "Wafiche mavumbini pamoja, Wafunge nyuso zao mahali palipositirika."
+        },
+        {
+          "chapter": 40,
+          "verse": 14,
+          "text": "Ndipo mimi nami nitazikiri habari zako, Ya kuwa mkono wako wa kuume waweza kukuokoa."
+        },
+        {
+          "chapter": 40,
+          "verse": 15,
+          "text": "Mwangalie huyo kiboko, niliyemwumba pamoja nawe; Yeye hula nyasi kama vile ng’ombe,"
+        },
+        {
+          "chapter": 40,
+          "verse": 16,
+          "text": "Tazama basi, nguvu zake ni katika viuno vyake, Na uwezo wake u katika mishipa ya tumbo lake."
+        },
+        {
+          "chapter": 40,
+          "verse": 17,
+          "text": "Yeye hutikisa mkia wake mfano wa mwerezi; Mishipa ya mapaja yake yanaungamana pamoja."
+        },
+        {
+          "chapter": 40,
+          "verse": 18,
+          "text": "Mifupa yake ni kama mirija ya shaba; Mbavu zake ni kama vipande vya chuma."
+        },
+        {
+          "chapter": 40,
+          "verse": 19,
+          "text": "Yeye ni mkuu wa njia za Mungu; Yeye aliyemfanya alimpa upanga wake."
+        },
+        {
+          "chapter": 40,
+          "verse": 20,
+          "text": "Hakika milima humtolea chakula; Hapo wachezapo wanyama wote wa barani."
+        },
+        {
+          "chapter": 40,
+          "verse": 21,
+          "text": "Hulala chini ya miti yenye vivuli, Mafichoni penye mianzi, na matopeni."
+        },
+        {
+          "chapter": 40,
+          "verse": 22,
+          "text": "Hiyo miti yenye vivuli humfunika kwa vivuli vyao; Mierebi ya vijito humzunguka."
+        },
+        {
+          "chapter": 40,
+          "verse": 23,
+          "text": "Tazama, mto ukifurika, yeye hatetemeki; Hujiona yu salama, ijapokuwa Yordani hufurika hata kinywani pake."
+        },
+        {
+          "chapter": 40,
+          "verse": 24,
+          "text": "Je! Mtu ye yote atamnasa akiwa yu macho, Au, kumtoboa pua yake kwa mtego?"
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 41,
+      "lastVerse": 34,
+      "verseUnitCount": 34,
+      "verses": [
+        {
+          "chapter": 41,
+          "verse": 1,
+          "text": "Je! Waweza wewe kumvua mamba kwa ndoana? Au, kuufunga ulimi wake kwa kamba?"
+        },
+        {
+          "chapter": 41,
+          "verse": 2,
+          "text": "Je! Waweza kutia kamba puani mwake? Au kutoboa taya yake kwa kulabu?"
+        },
+        {
+          "chapter": 41,
+          "verse": 3,
+          "text": "Je! Atakusihi sana? Au, atakuambia maneno ya upole?"
+        },
+        {
+          "chapter": 41,
+          "verse": 4,
+          "text": "Je! Atafanya agano pamoja nawe, Umtwae kuwa mtumishi wako milele?"
+        },
+        {
+          "chapter": 41,
+          "verse": 5,
+          "text": "Je! Utamchezea kama ndege? Au, kumfunga kwa ajili ya wasichana wako?"
+        },
+        {
+          "chapter": 41,
+          "verse": 6,
+          "text": "Je! Vikosi vya wavuvi watamfanyia biashara? Watamgawanya kati ya wafanyao biashara?"
+        },
+        {
+          "chapter": 41,
+          "verse": 7,
+          "text": "Je! Waweza kuijaza ngozi yake na vyuma vyenye ncha, Au kichwa chake kwa vyusa?"
+        },
+        {
+          "chapter": 41,
+          "verse": 8,
+          "text": "Mwekee mkono wako; Vikumbuke vile vita, wala usifanye tena."
+        },
+        {
+          "chapter": 41,
+          "verse": 9,
+          "text": "Tazama, kumtamani ni bure; Je! Hatambwaga chini huyo atakayemtazama?"
+        },
+        {
+          "chapter": 41,
+          "verse": 10,
+          "text": "Hapana aliye mkali hata akathubutu kumwamsha; Bali ni nani awezaye kusimama mbele yangu mimi?"
+        },
+        {
+          "chapter": 41,
+          "verse": 11,
+          "text": "Ni nani aliyetangulia kunipa hata nimlipe? Kila kilicho chini ya mbingu nzima ni changu."
+        },
+        {
+          "chapter": 41,
+          "verse": 12,
+          "text": "Sitanyamaa kusema habari za via vyake, Wala nguvu zake kuu, wala umbo lake zuri."
+        },
+        {
+          "chapter": 41,
+          "verse": 13,
+          "text": "Ni nani awezaye kumbambua magamba yake? Ni nani atakayepenya dirii yake maradufu?"
+        },
+        {
+          "chapter": 41,
+          "verse": 14,
+          "text": "Ni nani awezaye kuifungua milango ya uso wake? Meno yake yatisha kandokando yake."
+        },
+        {
+          "chapter": 41,
+          "verse": 15,
+          "text": "Magamba yake yenye nguvu ndiyo fahari yake, Yamefungamana pamoja kama kwa kufungwa kwa muhuri."
+        },
+        {
+          "chapter": 41,
+          "verse": 16,
+          "text": "Jinsi yalivyoshikamana Hata upepo hauwezi kupita kati."
+        },
+        {
+          "chapter": 41,
+          "verse": 17,
+          "text": "Yamefungamana pamoja; Yameshikamana, hata hayawezekani kutengwa."
+        },
+        {
+          "chapter": 41,
+          "verse": 18,
+          "text": "Kwa kuchemua kwake mwanga humemetuka, Na macho yake yanafanana na makope ya alfajiri."
+        },
+        {
+          "chapter": 41,
+          "verse": 19,
+          "text": "Mienge iwakayo hutoka kinywani mwake, Na macheche ya moto huruka nje."
+        },
+        {
+          "chapter": 41,
+          "verse": 20,
+          "text": "Moshi hutoka katika mianzi ya pua yake, Kama nyungu ikitokota, na manyasi yawakayo."
+        },
+        {
+          "chapter": 41,
+          "verse": 21,
+          "text": "Pumzi zake huwasha makaa, Na miali ya moto hutoka kinywani mwake."
+        },
+        {
+          "chapter": 41,
+          "verse": 22,
+          "text": "Katika shingo yake hukaa nguvu, Na utisho hucheza mbele yake."
+        },
+        {
+          "chapter": 41,
+          "verse": 23,
+          "text": "Manofu ya nyama yake hushikamana; Yanakazana juu yake; hayawezi kuondolewa."
+        },
+        {
+          "chapter": 41,
+          "verse": 24,
+          "text": "Moyo wake una imara kama jiwe; Naam, imara kama jiwe la chini la kusagia."
+        },
+        {
+          "chapter": 41,
+          "verse": 25,
+          "text": "Anapojiinua, mashujaa huogopa; Kwa sababu ya woga wao huvunjwa moyo."
+        },
+        {
+          "chapter": 41,
+          "verse": 26,
+          "text": "Mtu akimpiga kwa upanga, haumwingii; Wala fumo, wala mshale, wala mkuki wenye ncha."
+        },
+        {
+          "chapter": 41,
+          "verse": 27,
+          "text": "Yeye huona chuma kuwa kama nyasi, Na shaba kama mti uliooza."
+        },
+        {
+          "chapter": 41,
+          "verse": 28,
+          "text": "Mshale hauwezi kumkimbiza; Na mawe ya teo kwake hugeuka kuwa kama makapi."
+        },
+        {
+          "chapter": 41,
+          "verse": 29,
+          "text": "Marungu huhesabiwa kama mabua; Naye hucheka mshindo wa mkuki ukitupwa."
+        },
+        {
+          "chapter": 41,
+          "verse": 30,
+          "text": "Pande zake za chini ni kama vigae vikali; Hutandika malazi kama kuweka chombo cha kupuria nafaka juu ya matope."
+        },
+        {
+          "chapter": 41,
+          "verse": 31,
+          "text": "Yeye huchemsha kilindi mfano wa nyungu; Hufanya bahari kuwa kama mafuta."
+        },
+        {
+          "chapter": 41,
+          "verse": 32,
+          "text": "Hufanya mapito yake kung’aa nyuma yake Hata mtu angedhani kilindi kina mvi."
+        },
+        {
+          "chapter": 41,
+          "verse": 33,
+          "text": "Juu ya nchi hapana aliyefanana naye, Aliyeumbwa pasipo oga."
+        },
+        {
+          "chapter": 41,
+          "verse": 34,
+          "text": "Yeye hutazama kila kitu kilicho juu; Ni mfalme juu ya wote wenye kiburi."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 42,
+      "lastVerse": 17,
+      "verseUnitCount": 17,
+      "verses": [
+        {
+          "chapter": 42,
+          "verse": 1,
+          "text": "Ndipo Ayubu akamjibu [DN]BWANA[/DN], na kusema."
+        },
+        {
+          "chapter": 42,
+          "verse": 2,
+          "text": "Najua ya kuwa waweza kufanya mambo yote, Na ya kuwa makusudi yako hayawezi kuzuilika."
+        },
+        {
+          "chapter": 42,
+          "verse": 3,
+          "text": "Ni nani huyu afichaye mashauri bila maarifa? Kwa maana, nimesema maneno nisiyoyafahamu, Mambo ya ajabu ya kunishinda mimi, nisiyoyajua."
+        },
+        {
+          "chapter": 42,
+          "verse": 4,
+          "text": "Sikiliza, nakusihi, nami nitanena; Nitakuuliza neno, nawe niambie."
+        },
+        {
+          "chapter": 42,
+          "verse": 5,
+          "text": "Nilikuwa nimesikia habari zako, kwa kusikia kwa masikio; Bali sasa jicho langu linakuona."
+        },
+        {
+          "chapter": 42,
+          "verse": 6,
+          "text": "Kwa sababu hiyo najichukia nafsi yangu, na kutubu Katika mavumbi na majivu."
+        },
+        {
+          "chapter": 42,
+          "verse": 7,
+          "text": "Basi ikawa, baada ya [DN]BWANA[/DN] kumwambia Ayubu maneno hayo, [DN]BWANA[/DN] akamwambia huyo Elifazi Mtemani, Hasira zangu zinawaka juu yako, na juu ya hao rafiki zako wawili; kwa kuwa ninyi hamkunena yaliyo sawa katika habari zangu, kama alivyonena mtumishi wangu Ayubu."
+        },
+        {
+          "chapter": 42,
+          "verse": 8,
+          "text": "Basi sasa, jitwalieni ng’ombe waume saba, na kondoo waume saba, mkamwendee mtumishi wangu Ayubu, mjisongezee sadaka ya kuteketezwa; na huyo mtumishi wangu Ayubu atawaombea ninyi; kwa kuwa nitamridhia yeye, nisiwatende sawasawa na upumbavu wenu; kwani ninyi hamkunena maneno yaliyonyoka katika habari zangu, kama alivyonena mtumishi wangu Ayubu."
+        },
+        {
+          "chapter": 42,
+          "verse": 9,
+          "text": "Basi Elifazi, Mtemani, na Bildadi, Mshuhi, na Sofari, Mnaamathi, wakaenda, wakafanya kama vile [DN]BWANA[/DN] alivyowaamuru; naye [DN]BWANA[/DN] akamridhia Ayubu."
+        },
+        {
+          "chapter": 42,
+          "verse": 10,
+          "text": "Kisha [DN]BWANA[/DN] akaugeuza uteka wa Ayubu, hapo alipowaombea rafiki zake; [DN]BWANA[/DN] naye akampa Ayubu mara mbili kuliko hayo aliyokuwa nayo kwanza."
+        },
+        {
+          "chapter": 42,
+          "verse": 11,
+          "text": "Ndipo wakamwendea nduguze wote, waume kwa wake, nao wote waliojuana naye hapo zamani, wakala chakula pamoja naye katika nyumba yake; nao wakamlilia na kumtuza moyo katika habari za huo uovu wote [DN]BWANA[/DN] aliouleta juu yake; kila mtu akampa kipande cha fedha, na pete ya dhahabu kila mmoja."
+        },
+        {
+          "chapter": 42,
+          "verse": 12,
+          "text": "Basi hivyo [DN]BWANA[/DN] akaubarikia huo mwisho wa Ayubu zaidi ya mwanzo wake; naye alikuwa na kondoo kumi na nne elfu, na ngamia elfu sita, na jozi za ng’ombe elfu, na punda wake elfu."
+        },
+        {
+          "chapter": 42,
+          "verse": 13,
+          "text": "Tena alikuwa na wana waume saba, na binti watatu."
+        },
+        {
+          "chapter": 42,
+          "verse": 14,
+          "text": "Akamwita huyo wa kwanza jina lake Yemima; na wa pili akamwita jina lake Kesia; na wa tatu akamwita jina lake Keren-hapuhu."
+        },
+        {
+          "chapter": 42,
+          "verse": 15,
+          "text": "Katika nchi hiyo yote hawakuwapo wanawake waliokuwa wazuri kama hao wana wa Ayubu; na baba yao akawapa urithi kati ya ndugu zao wana waume."
+        },
+        {
+          "chapter": 42,
+          "verse": 16,
+          "text": "Kisha baada ya mambo hayo Ayubu akaishi miaka mia na arobaini, naye akawaona wanawe, na wana wa wanawe, hata vizazi vinne."
+        },
+        {
+          "chapter": 42,
+          "verse": 17,
+          "text": "Basi Ayubu akafa, mzee sana mwenye kujawa na siku."
+        }
+      ],
+      "headings": []
+    }
+  ]
+}

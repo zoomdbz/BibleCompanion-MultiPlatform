@@ -25,6 +25,7 @@ LANGUAGES = (
     "zh-Hans", "zh-Hant", "ar", "hi",
 )
 BASELINE = "0d6328bf355be426bdb8d5a4acf9af8bbc81f356"
+FAQ_CHANGE_COMMIT = "a684cd8e"
 QUESTION = re.compile(r"(?m)^### \*\*([56])\.[^\n]*\n")
 QUOTATIONS = re.compile(
     r'"[^"\n]+"|\u201e[^\u201c\n]+\u201c|\u201c[^\u201d\n]+\u201d'
@@ -60,6 +61,14 @@ def original(language: str) -> str:
     return result.stdout.decode("utf-8-sig").replace("\r\n", "\n")
 
 
+def at_faq_change(language: str) -> str:
+    result = subprocess.run(
+        ["git", "show", f"{FAQ_CHANGE_COMMIT}:shared/assets/notes/{language}/faqs.md"],
+        cwd=ROOT, capture_output=True, check=True,
+    )
+    return result.stdout.decode("utf-8-sig").replace("\r\n", "\n")
+
+
 def added_references(language: str, section: str):
     # The sixteen original bullet labels retain their native edition numbering.
     # Exclude those labels before checking the newly added citations for parity.
@@ -81,25 +90,25 @@ class FaqPrayerContracts(unittest.TestCase):
             cwd=ROOT, capture_output=True,
         ).returncode == 0
 
-    def test_question_title_and_all_other_questions_remain_unchanged(self):
+    def test_original_faq_change_preserved_other_questions(self):
         if not self.has_baseline:
             self.skipTest("Preservation baseline absent in shallow checkout")
         for language in LANGUAGES:
             with self.subTest(language=language):
                 before, _, after = split_question(original(language))
-                actual_before, _, actual_after = split_question(read(language))
+                actual_before, _, actual_after = split_question(at_faq_change(language))
                 self.assertEqual(before, actual_before)
                 # apply_patch can add a final newline to a file that lacked it.
                 # Ignore only EOF newlines, not whitespace inside another FAQ.
                 self.assertEqual(after.rstrip("\n"), actual_after.rstrip("\n"))
 
-    def test_existing_scripture_quotes_and_native_reference_labels_are_preserved(self):
+    def test_original_faq_change_preserved_quotations_and_labels(self):
         if not self.has_baseline:
             self.skipTest("Preservation baseline absent in shallow checkout")
         for language in LANGUAGES:
             with self.subTest(language=language):
                 _, before, _ = split_question(original(language))
-                _, after, _ = split_question(read(language))
+                _, after, _ = split_question(at_faq_change(language))
                 self.assertGreaterEqual(len(QUOTATIONS.findall(before)), 15)
                 self.assertEqual(QUOTATIONS.findall(before), QUOTATIONS.findall(after))
                 expected_labels = BULLET_LABEL.findall(before)

@@ -30,7 +30,8 @@ internal fun buildVotdShareText(context: PlatformContext, verse: DailyVerse, pre
   val reference = votdShareReference(verse.ref)
   val book = reference?.let { ref ->
     listOf("old_testament", "new_testament", "deuterocanonical").firstNotNullOfOrNull { collection ->
-      ContentRepo.listBooksLocalized(context, collection, "en")
+      (ContentRepo.listBooksLocalized(context, collection, language) +
+        ContentRepo.listBooksLocalized(context, collection, "en"))
         .firstOrNull { (_, title) -> title.equals(ref.bookName, ignoreCase = true) }
         ?.let { (id, title) ->
           val displayTitle = ContentRepo.listBooksLocalized(context, collection, language)

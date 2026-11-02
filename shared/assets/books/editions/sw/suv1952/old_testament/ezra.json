@@ -1,0 +1,1491 @@
+{
+  "schemaVersion": 2,
+  "editionId": "suv1952",
+  "language": "sw",
+  "collection": "old_testament",
+  "bookId": "ezra",
+  "sourceBookCode": "EZR",
+  "coverage": "full",
+  "chapters": [
+    {
+      "number": 1,
+      "lastVerse": 11,
+      "verseUnitCount": 11,
+      "verses": [
+        {
+          "chapter": 1,
+          "verse": 1,
+          "text": "Ikawa katika mwaka wa kwanza wa Koreshi, mfalme wa Uajemi, ili kwamba neno la [DN]BWANA[/DN] alilolisema kwa kinywa cha Yeremia lipate kutimizwa, [DN]BWANA[/DN] akamwamsha roho yake Koreshi, mfalme wa Uajemi, hata akapiga mbiu katika ufalme wake wote, akaiandika pia, akisema,"
+        },
+        {
+          "chapter": 1,
+          "verse": 2,
+          "text": "Koreshi, mfalme wa Uajemi asema hivi; [DN]BWANA[/DN], Mungu wa mbinguni, amenipa falme zote za dunia; naye ameniagiza nimjengee nyumba katika Yerusalemu, ulioko Yuda."
+        },
+        {
+          "chapter": 1,
+          "verse": 3,
+          "text": "Basi kila mtu katika ninyi nyote mlio watu wake, [DN]BWANA[/DN], Mungu wake, na awe pamoja naye, na akwee mpaka Yerusalemu, ulioko Yuda, akaijenge nyumba ya [DN]BWANA[/DN], Mungu wa Israeli, (yeye ndiye Mungu), iliyoko Yerusalemu."
+        },
+        {
+          "chapter": 1,
+          "verse": 4,
+          "text": "Na mtu awaye yote aliyesalia mahali po pote akaapo hali ya ugeni, na asaidiwe na watu wa mahali pake, kwa fedha, na dhahabu, na mali, na wanyama, zaidi ya vitu vitolewavyo kwa hiari ya mtu, kwa ajili ya nyumba ya Mungu, iliyoko Yerusalemu."
+        },
+        {
+          "chapter": 1,
+          "verse": 5,
+          "text": "Ndipo wakaondoka wakuu wa mbari za mababa, wa Yuda na Benyamini, na makuhani, na Walawi, naam, watu wote ambao Mungu amewaamsha roho zao kukwea, ili kuijenga nyumba ya [DN]BWANA[/DN], iliyoko Yerusalemu."
+        },
+        {
+          "chapter": 1,
+          "verse": 6,
+          "text": "Na watu wote waliokaa karibu nao pande zote wakawatia nguvu mikono yao, kwa vyombo vya fedha, kwa dhahabu, kwa mali, na kwa wanyama, na vitu vya thamani, zaidi ya vile vilivyotolewa kwa hiari ya mtu."
+        },
+        {
+          "chapter": 1,
+          "verse": 7,
+          "text": "Tena Koreshi, mfalme, alivitoa vyombo vya nyumba ya [DN]BWANA[/DN], alivyokuwa amevileta Nebukadreza toka Yerusalemu, na kuvitia katika nyumba ya miungu yake."
+        },
+        {
+          "chapter": 1,
+          "verse": 8,
+          "text": "Naam, vyombo vile ndivyo alivyovitoa Koreshi, mfalme wa Uajemi, kwa mkono wa Mithredathi, mtunza hazina; naye akavihesabu mbele ya Sheshbaza, mkuu wa Yuda."
+        },
+        {
+          "chapter": 1,
+          "verse": 9,
+          "text": "Na hii ndiyo hesabu yake; sinia za dhahabu thelathini, sinia za fedha elfu, visu ishirini na kenda;"
+        },
+        {
+          "chapter": 1,
+          "verse": 10,
+          "text": "mabakuli ya dhahabu thelathini, mabakuli ya fedha ya namna ya pili mia nne na kumi, na vyombo vingine elfu."
+        },
+        {
+          "chapter": 1,
+          "verse": 11,
+          "text": "Vyombo vyote vya dhahabu na vya fedha vilikuwa jumla yake elfu tano na mia nne. Hivyo vyote Sheshbaza akakwea navyo, hapo walipokwea wale wa uhamisho kutoka Babeli mpaka Yerusalemu."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 2,
+      "lastVerse": 70,
+      "verseUnitCount": 70,
+      "verses": [
+        {
+          "chapter": 2,
+          "verse": 1,
+          "text": "Basi hawa ndio wana wa wilaya, waliokwea kutoka katika ule uhamisho wa hao waliokuwa wamechukuliwa, ambao Nebukadneza, mfalme wa Babeli, aliwachukua mateka mpaka Babeli, nao wakarudi Yerusalemu na Yuda, kila mtu mjini kwake;"
+        },
+        {
+          "chapter": 2,
+          "verse": 2,
+          "text": "ndio hawa waliokuja pamoja na Zerubabeli, Yoshua, Nehemia, Seraya, Reelaya, Mordekai, Bilshani, Mispari, Bigwai, Rehumu, na Baana. Hii ndiyo hesabu ya wanaume wa watu wa Israeli;"
+        },
+        {
+          "chapter": 2,
+          "verse": 3,
+          "text": "wana wa Paroshi, elfu mbili mia moja sabini na wawili."
+        },
+        {
+          "chapter": 2,
+          "verse": 4,
+          "text": "Wana wa Shefatia, mia tatu sabini na wawili."
+        },
+        {
+          "chapter": 2,
+          "verse": 5,
+          "text": "Wana wa Ara, mia saba sabini na watano."
+        },
+        {
+          "chapter": 2,
+          "verse": 6,
+          "text": "Wana wa Pahath-Moabu, wa wana wa Yeshua na Yoabu, elfu mbili mia nane na kumi na wawili."
+        },
+        {
+          "chapter": 2,
+          "verse": 7,
+          "text": "Wana wa Elamu, elfu moja mia mbili hamsini na wanne."
+        },
+        {
+          "chapter": 2,
+          "verse": 8,
+          "text": "Wana wa Zatu, mia kenda arobaini na watano."
+        },
+        {
+          "chapter": 2,
+          "verse": 9,
+          "text": "Wana wa Zakai, mia saba na sitini."
+        },
+        {
+          "chapter": 2,
+          "verse": 10,
+          "text": "Wana wa Binui, mia sita arobaini na wawili."
+        },
+        {
+          "chapter": 2,
+          "verse": 11,
+          "text": "Wana wa Bebai, mia sita ishirini na watatu."
+        },
+        {
+          "chapter": 2,
+          "verse": 12,
+          "text": "Wana wa Azgadi, elfu moja mia mbili ishirini na wawili."
+        },
+        {
+          "chapter": 2,
+          "verse": 13,
+          "text": "Wana wa Adonikamu, mia sita sitini na sita."
+        },
+        {
+          "chapter": 2,
+          "verse": 14,
+          "text": "Wana wa Bigwai, elfu mbili hamsini na sita."
+        },
+        {
+          "chapter": 2,
+          "verse": 15,
+          "text": "Wana wa Adini, mia nne hamsini na wanne."
+        },
+        {
+          "chapter": 2,
+          "verse": 16,
+          "text": "Wana wa Ateri, wa wana wa Hezekia, tisini na wanane."
+        },
+        {
+          "chapter": 2,
+          "verse": 17,
+          "text": "Wana wa Besai, mia tatu ishirini na watatu."
+        },
+        {
+          "chapter": 2,
+          "verse": 18,
+          "text": "Wana wa Harifu, mia moja na kumi na wawili."
+        },
+        {
+          "chapter": 2,
+          "verse": 19,
+          "text": "Wana wa Hashumu, mia mbili ishirini na watatu."
+        },
+        {
+          "chapter": 2,
+          "verse": 20,
+          "text": "Watu wa Gibeoni, tisini na watano."
+        },
+        {
+          "chapter": 2,
+          "verse": 21,
+          "text": "Watu wa Bethlehemu, mia ishirini na watatu."
+        },
+        {
+          "chapter": 2,
+          "verse": 22,
+          "text": "Watu wa Netofa, hamsini na sita."
+        },
+        {
+          "chapter": 2,
+          "verse": 23,
+          "text": "Watu wa Anathothi, mia ishirini na wanane."
+        },
+        {
+          "chapter": 2,
+          "verse": 24,
+          "text": "Watu wa Beth-Azmawethi, arobaini na wawili."
+        },
+        {
+          "chapter": 2,
+          "verse": 25,
+          "text": "Watu wa Kiriath-yearimu, na Kefira, na Beerothi, mia saba arobaini na watatu."
+        },
+        {
+          "chapter": 2,
+          "verse": 26,
+          "text": "Watu wa Rama na Geba, mia sita ishirini na mmoja."
+        },
+        {
+          "chapter": 2,
+          "verse": 27,
+          "text": "Watu wa Mikmashi, mia moja ishirini na wawili."
+        },
+        {
+          "chapter": 2,
+          "verse": 28,
+          "text": "Watu wa Betheli, na Ai, mia mbili ishirini na watatu."
+        },
+        {
+          "chapter": 2,
+          "verse": 29,
+          "text": "Watu wa Nebo, hamsini na wawili."
+        },
+        {
+          "chapter": 2,
+          "verse": 30,
+          "text": "Watu wa Magbishi, mia moja hamsini na sita."
+        },
+        {
+          "chapter": 2,
+          "verse": 31,
+          "text": "Watu wa Elamu wa pili, elfu moja mia mbili hamsini na wanne."
+        },
+        {
+          "chapter": 2,
+          "verse": 32,
+          "text": "Watu wa Harimu, mia tatu na ishirini."
+        },
+        {
+          "chapter": 2,
+          "verse": 33,
+          "text": "Watu wa Lodi, na Hadidi, na Ono, mia saba ishirini na watano."
+        },
+        {
+          "chapter": 2,
+          "verse": 34,
+          "text": "Watu wa Yeriko, mia tatu arobaini na watano."
+        },
+        {
+          "chapter": 2,
+          "verse": 35,
+          "text": "Watu wa Senaa, elfu tatu mia sita na thelathini."
+        },
+        {
+          "chapter": 2,
+          "verse": 36,
+          "text": "Makuhani; wana wa Yedaya, wa mbari ya Yeshua, mia kenda sabini na watatu."
+        },
+        {
+          "chapter": 2,
+          "verse": 37,
+          "text": "Wana wa Imeri, elfu moja hamsini na wawili."
+        },
+        {
+          "chapter": 2,
+          "verse": 38,
+          "text": "Wana wa Pashuri, elfu moja mia mbili arobaini na saba."
+        },
+        {
+          "chapter": 2,
+          "verse": 39,
+          "text": "Wana wa Harimu, elfu moja na kumi na saba."
+        },
+        {
+          "chapter": 2,
+          "verse": 40,
+          "text": "Walawi; wana wa Yeshua, na wana wa Kadmieli wa wana wa Hodavia, sabini na wanne."
+        },
+        {
+          "chapter": 2,
+          "verse": 41,
+          "text": "Waimbaji; wana wa Asafu, mia moja ishirini na wanane."
+        },
+        {
+          "chapter": 2,
+          "verse": 42,
+          "text": "Akina bawabu; wana wa Shalumu, wana wa Ateri, wana wa Talmoni, wana wa Akubu, wana wa Hatita, wana wa Shobai; jumla yao ni mia moja thelathini na kenda."
+        },
+        {
+          "chapter": 2,
+          "verse": 43,
+          "text": "Wanethini; wana wa Siha, wana wa Hasufa, wana wa Tabaothi;"
+        },
+        {
+          "chapter": 2,
+          "verse": 44,
+          "text": "wana wa Kerosi, wana wa Siaha, wana wa Padoni;"
+        },
+        {
+          "chapter": 2,
+          "verse": 45,
+          "text": "wana wa Lebana, wana wa Hagaba, wana wa Akubu;"
+        },
+        {
+          "chapter": 2,
+          "verse": 46,
+          "text": "wana wa Hagabu, wana wa Salmai, wana wa Hanani;"
+        },
+        {
+          "chapter": 2,
+          "verse": 47,
+          "text": "wana wa Gideli, wana wa Gahari, wana wa Reaya;"
+        },
+        {
+          "chapter": 2,
+          "verse": 48,
+          "text": "wana wa Resini, wana wa Nekoda, wana wa Gazamu;"
+        },
+        {
+          "chapter": 2,
+          "verse": 49,
+          "text": "wana wa Uza, wana wa Pasea, wana wa Besai;"
+        },
+        {
+          "chapter": 2,
+          "verse": 50,
+          "text": "wana wa Asna, wana wa Meunimu, wana wa Nefusimu;"
+        },
+        {
+          "chapter": 2,
+          "verse": 51,
+          "text": "wana wa Bakbuki, wana wa Hakufa, wana wa Harhuri;"
+        },
+        {
+          "chapter": 2,
+          "verse": 52,
+          "text": "wana wa Basluthi, wana wa Mehida, wana wa Harsha;"
+        },
+        {
+          "chapter": 2,
+          "verse": 53,
+          "text": "wana wa Barkosi, wana wa Sisera, wana wa Tema;"
+        },
+        {
+          "chapter": 2,
+          "verse": 54,
+          "text": "wana wa Nesia, wana wa Hatifa."
+        },
+        {
+          "chapter": 2,
+          "verse": 55,
+          "text": "Wa watumwa wa Sulemani; wana wa Sotai, wana wa Soferethi, wana wa Peruda;"
+        },
+        {
+          "chapter": 2,
+          "verse": 56,
+          "text": "wana wa Yaala, wana wa Darkoni, wana wa Gideli;"
+        },
+        {
+          "chapter": 2,
+          "verse": 57,
+          "text": "wana wa Shefatia, wana wa Hatili, wana wa Pokereth-Sebaimu, wana wa Amoni."
+        },
+        {
+          "chapter": 2,
+          "verse": 58,
+          "text": "Wanethini wote, pamoja na watumwa wa Sulemani, walikuwa mia tatu tisini na wawili."
+        },
+        {
+          "chapter": 2,
+          "verse": 59,
+          "text": "Na hawa ndio watu waliokwea kutoka Tel-mela, na Tel-harsha, na Kerubu, na Adani, na Imeri; walakini hawakuweza kuonyesha mbari za baba zao, wala kizazi chao, kwamba walikuwa wa Israeli;"
+        },
+        {
+          "chapter": 2,
+          "verse": 60,
+          "text": "wana wa Delaya, wana wa Tobia, wana wa Nekoda, mia sita hamsini na wawili."
+        },
+        {
+          "chapter": 2,
+          "verse": 61,
+          "text": "Tena wa makuhani; wana wa Habaya, wana wa Hakosi, wana wa Barzilai, yule aliyeoa mmojawapo wa binti Barzilai, Mgileadi, akaitwa kwa jina lao."
+        },
+        {
+          "chapter": 2,
+          "verse": 62,
+          "text": "Hao waliitafuta orodha yao miongoni mwa wale waliohesabiwa kwa nasaba, wasionekane; kwa hiyo walihesabiwa kuwa na unajisi."
+        },
+        {
+          "chapter": 2,
+          "verse": 63,
+          "text": "Na huyo Tirshatha akawaambia kwamba wasile katika vitu vitakatifu sana, hata atakaposimama kuhani mwenye Urimu na Thumimu."
+        },
+        {
+          "chapter": 2,
+          "verse": 64,
+          "text": "Basi hilo kusanyiko lote zima, jumla yake ilikuwa watu arobaini na mbili elfu na mia tatu na sitini,"
+        },
+        {
+          "chapter": 2,
+          "verse": 65,
+          "text": "tena, zaidi ya hao, kulikuwa na watumishi wao waume kwa wake, ambao walikuwa saba elfu, na mia tatu na thelathini na saba; nao walikuwa na waimbaji waume kwa wake mia mbili."
+        },
+        {
+          "chapter": 2,
+          "verse": 66,
+          "text": "Farasi zao walikuwa mia saba thelathini na sita; nyumbu zao, mia mbili arobaini na watano;"
+        },
+        {
+          "chapter": 2,
+          "verse": 67,
+          "text": "ngamia zao, mia nne thelathini na watano; punda zao elfu sita, na mia saba na ishirini."
+        },
+        {
+          "chapter": 2,
+          "verse": 68,
+          "text": "Na baadhi ya wakuu wa mbari za baba zao, hapo walipoifikilia nyumba ya [DN]BWANA[/DN], iliyoko Yerusalemu, walitoa mali kwa ukarimu kwa ajili ya nyumba ya Mungu, ili kuisimamisha mahali pake;"
+        },
+        {
+          "chapter": 2,
+          "verse": 69,
+          "text": "wakatoa kadiri walivyoweza, na kutia katika hazina ya kazi hiyo, darkoni za dhahabu sitini na moja elfu, na mane za fedha elfu tano, na mavazi mia ya makuhani."
+        },
+        {
+          "chapter": 2,
+          "verse": 70,
+          "text": "Hivyo makuhani, na Walawi, na baadhi ya watu, na waimbaji, na mabawabu, na Wanethini, wakakaa mijini mwao, naam, Israeli wote wakakaa mijini mwao."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 3,
+      "lastVerse": 13,
+      "verseUnitCount": 13,
+      "verses": [
+        {
+          "chapter": 3,
+          "verse": 1,
+          "text": "Hata ulipowadia mwezi wa saba, na wana wa Israeli walipokuwa katika miji yao, watu wakakusanyika pamoja huko Yerusalemu kama mtu mmoja."
+        },
+        {
+          "chapter": 3,
+          "verse": 2,
+          "text": "Ndipo akasimama Yoshua, mwana wa Yosadaki, na ndugu zake makuhani, na Zerubabeli, mwana wa Shealtieli, na ndugu zake, nao wakaijenga madhabahu ya Mungu wa Israeli, ili kutoa sadaka za kuteketezwa juu yake, kama ilivyoandikwa katika torati ya Musa, mtu wa Mungu."
+        },
+        {
+          "chapter": 3,
+          "verse": 3,
+          "text": "Wakaiweka madhabahu juu ya msingi wake; maana hofu imewashika kwa sababu ya watu wa nchi; wakamtolea [DN]BWANA[/DN] sadaka za kuteketezwa juu yake, sadaka za kuteketezwa za asubuhi na jioni."
+        },
+        {
+          "chapter": 3,
+          "verse": 4,
+          "text": "Wakaishika Sikukuu ya Vibanda, kama ilivyoandikwa, wakatoa sadaka za kuteketezwa za kila siku kwa hesabu yake, kama ilivyoagizwa, kama ilivyopasa kila siku;"
+        },
+        {
+          "chapter": 3,
+          "verse": 5,
+          "text": "na baadaye sadaka ya kuteketezwa ya daima, na za mwandamo wa mwezi, na za sikukuu za [DN]BWANA[/DN], zilizoamriwa na kuwekwa wakfu, na za kila mtu aliyemtolea [DN]BWANA[/DN] sadaka kwa hiari yake."
+        },
+        {
+          "chapter": 3,
+          "verse": 6,
+          "text": "Tangu siku ya kwanza ya mwezi wa saba walianza kumtolea [DN]BWANA[/DN] sadaka za kuteketezwa, lakini msingi wa hekalu la [DN]BWANA[/DN] ulikuwa haujawekwa bado."
+        },
+        {
+          "chapter": 3,
+          "verse": 7,
+          "text": "Tena waliwapa waashi na maseremala fedha; wakawapa watu wa Sidoni, na watu wa Tiro, chakula, na vinywaji, na mafuta, ili walete mierezi kutoka Lebanoni mpaka Yafa kwa njia ya bahari, kwa kadiri walivyopewa ruhusa na Koreshi, mfalme wa Uajemi."
+        },
+        {
+          "chapter": 3,
+          "verse": 8,
+          "text": "Hata mwaka wa pili wa kufika kwao nyumbani kwa Mungu, huko Yerusalemu, mwezi wa pili, Zerubabeli, mwana wa Shealtieli, na Yoshua, mwana wa Yosadaki, na ndugu zao wengine, makuhani na Walawi, na watu wote, waliotoka katika uhamisho na kufika Yerusalemu, wakaanza; nao wakawaweka Walawi, hao wenye miaka ishirini na waliozidi, ili kuisimamia kazi ya nyumba ya [DN]BWANA[/DN]."
+        },
+        {
+          "chapter": 3,
+          "verse": 9,
+          "text": "Ndipo wakasimama Yeshua, na wanawe na ndugu zake, Kadmieli, na wanawe, wana wa Hodavia, pamoja, ili kuwasimamia hao wafanyao kazi katika nyumba ya Mungu; wana wa Henadadi, pamoja na wana wao, na ndugu zao, Walawi."
+        },
+        {
+          "chapter": 3,
+          "verse": 10,
+          "text": "Hata wajenzi walipouweka msingi wa hekalu la [DN]BWANA[/DN], wakawaweka makuhani, wamevaa mavazi yao, wenye baragumu, na Walawi, wana wa Asafu, wenye matoazi, ili wamhimidi [DN]BWANA[/DN], kama alivyoagiza Daudi, mfalme wa Israeli."
+        },
+        {
+          "chapter": 3,
+          "verse": 11,
+          "text": "Wakaimbiana, wakimhimidi [DN]BWANA[/DN], na kumshukuru, wakasema, Kwa kuwa ni mwema, kwa maana fadhili zake kwa Israeli ni za milele. Kisha watu wote wakapaza sauti zao, na kupiga kelele, walipomhimidi [DN]BWANA[/DN], kwa sababu msingi wa nyumba ya [DN]BWANA[/DN] umekwisha kuwekwa."
+        },
+        {
+          "chapter": 3,
+          "verse": 12,
+          "text": "Bali makuhani wengi, na Walawi, na wakuu wa mbari za mababa, waliokuwa wameiona nyumba ya kwanza, wakati msingi wa nyumba hii ulipowekwa mbele ya macho yao, walilia kwa sauti kuu; na watu wengi walipiga kelele za furaha;"
+        },
+        {
+          "chapter": 3,
+          "verse": 13,
+          "text": "hata watu wasiweze kupambanua kelele za furaha, na kelele za vilio vya watu; maana watu walipiga kelele kwa sauti kuu, na kelele zao zikasikilikana mbali sana."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 4,
+      "lastVerse": 24,
+      "verseUnitCount": 24,
+      "verses": [
+        {
+          "chapter": 4,
+          "verse": 1,
+          "text": "Basi adui za Yuda na Benyamini, waliposikia ya kuwa wana wa uhamisho wanamjengea [DN]BWANA[/DN], Mungu wa Israeli, hekalu,"
+        },
+        {
+          "chapter": 4,
+          "verse": 2,
+          "text": "wakamkaribia Zerubabeli, na wakuu wa mbari za mababa, wakawaambia, Na tujenge sisi nasi pamoja nanyi; kwa maana tunamtafuta Mungu wenu kama ninyi, nasi twamtolea dhabihu tangu zamani za Esar-hadoni, mfalme wa Ashuru, aliyetupandisha mpaka hapa."
+        },
+        {
+          "chapter": 4,
+          "verse": 3,
+          "text": "Lakini Zerubabeli, na Yoshua, na wakuu wengine wa mbari za mababa katika Israeli, wakawaambia, Ninyi haiwahusu kushirikiana nasi katika kumjengea Mungu wetu nyumba; bali sisi wenyewe peke yetu tutamjengea [DN]BWANA[/DN], Mungu wa Israeli, nyumba, kama mfalme Koreshi, mfalme wa Uajemi, alivyotuamuru."
+        },
+        {
+          "chapter": 4,
+          "verse": 4,
+          "text": "Ndipo watu wa nchi wakaidhoofisha mikono ya watu wa Yuda, wakawasumbua, walipokuwa wakijenga."
+        },
+        {
+          "chapter": 4,
+          "verse": 5,
+          "text": "Wakawaajiri washauri juu yao, ili kuwapinga kusudi lao, siku zote za Koreshi, mfalme wa Uajemi, hata wakati wa kutawala kwake Dario, mfalme wa Uajemi."
+        },
+        {
+          "chapter": 4,
+          "verse": 6,
+          "text": "Tena, wakati wa kutawala kwake Ahasuero, mwanzo wa kutawala kwake, watu wakaandika mashitaka juu ya wenyeji wa Yuda na Yerusalemu."
+        },
+        {
+          "chapter": 4,
+          "verse": 7,
+          "text": "Na tena, katika siku za Artashasta, Mithredathi, na Tabeeli na mabaki ya wenziwe, wakimwandikia Artashasta, mfalme wa Uajemi, salamu za heri; na mwandiko wa waraka huo, ukaandikwa kwa herufi za Kiaramu, na kunenwa kwa lugha ya Kiaramu."
+        },
+        {
+          "chapter": 4,
+          "verse": 8,
+          "text": "Nao Rehumu, Bwana shauri, na Shimshai, mwandishi, wakaandika waraka juu ya Yerusalemu kwa Artashasta, mfalme, kama hivi;"
+        },
+        {
+          "chapter": 4,
+          "verse": 9,
+          "text": "Rehumu, Bwana shauri, na Shimshai, mwandishi, na mabaki ya wenzao, makadhi wa Kiajemi na madiwani wa Kiajemi; na Waarkewi, Wababeli, Washushani, yaani, Waelami;"
+        },
+        {
+          "chapter": 4,
+          "verse": 10,
+          "text": "na mabaki ya mataifa, ambao Asur-bani-pali mkuu, mwenye heshima, aliwavusha, na kuwakalisha katika mji wa Samaria, na mahali penginepo, ng’ambo ya Mto; wakadhalika."
+        },
+        {
+          "chapter": 4,
+          "verse": 11,
+          "text": "Hii ndiyo nakili ya waraka waliyompelekea mfalme Artashasta; Watumishi wako, watu walio ng’ambo ya Mto; wakadhalika."
+        },
+        {
+          "chapter": 4,
+          "verse": 12,
+          "text": "Ijulikane kwa mfalme ya kuwa Wayahudi, waliokwea kutoka kwako, wamefika kwetu Yerusalemu; nao wanaujenga ule mji mwasi, mbaya; wamemaliza kuta zake, na kuitengeneza misingi yake."
+        },
+        {
+          "chapter": 4,
+          "verse": 13,
+          "text": "Basi, ijulikane kwa mfalme, ya kuwa mji huu ukijengwa, na kuta zake zikimalizika, hawatatoa kodi, wala ada, wala ushuru, na mwisho wake wafalme watapata hasara."
+        },
+        {
+          "chapter": 4,
+          "verse": 14,
+          "text": "Na sisi, kwa kuwa tunakula chumvi ya nyumba ya mfalme, wala si wajibu wetu kumwona mfalme akivunjiwa heshima, basi tumetuma watu na kumwarifu mfalme."
+        },
+        {
+          "chapter": 4,
+          "verse": 15,
+          "text": "Ili habari zitafutwe katika kitabu cha tarehe za baba zako; ndivyo utakavyopata kujua kwa kitabu cha tarehe ya kuwa mji huo ni mji mwasi, wenye kuwadhuru wafalme, na maliwali, na ya kuwa wenyeji wake wamefanya fitina katika mji huo zamani; ndiyo sababu mji huo ukaangamizwa."
+        },
+        {
+          "chapter": 4,
+          "verse": 16,
+          "text": "Twamwarifu mfalme ya kuwa mji huo ukijengwa, na kuta zake zikimalizika, hutakuwa na sehemu ya nchi ng’ambo ya Mto."
+        },
+        {
+          "chapter": 4,
+          "verse": 17,
+          "text": "Ndipo mfalme akapeleka majibu; Kwa Rehumu, Bwana shauri, na Shimshai, mwandishi, na wenzao wengine waliokaa katika Samaria, na penginepo ng’ambo ya Mto, Salamu; wakadhalika."
+        },
+        {
+          "chapter": 4,
+          "verse": 18,
+          "text": "Ule waraka mlionipelekea umesomwa mbele yangu, nami nikaelewa na maana yake."
+        },
+        {
+          "chapter": 4,
+          "verse": 19,
+          "text": "Nikatoa amri, na watu wametafuta habari; ikaonekana ya kuwa mji huu zamani umefanya fitina juu ya wafalme, na ya kuwa uasi na fitina zimefanyika ndani yake."
+        },
+        {
+          "chapter": 4,
+          "verse": 20,
+          "text": "Tena walikuwako wafalme wakuu juu ya Yerusalemu, waliotawala nchi yote iliyo ng’ambo ya Mto; wakapewa kodi, na ada, na ushuru."
+        },
+        {
+          "chapter": 4,
+          "verse": 21,
+          "text": "Sasa toeni amri kuwakomesha watu hawa kazi yao, mji huu usijengwe, hata mimi nitakapotoa amri."
+        },
+        {
+          "chapter": 4,
+          "verse": 22,
+          "text": "Tena jihadharini, msilegee katika jambo hili; kwa nini madhara yazidi, na wafalme wapate hasara?"
+        },
+        {
+          "chapter": 4,
+          "verse": 23,
+          "text": "Hata nakala ya waraka huo wa mfalme Artashasta uliposomwa mbele ya Rehumu, Bwana shauri, na Shimshai, mwandishi, na wenzao, wakaenda Yerusalemu upesi, kwa Wayahudi, wakawakomesha kwa nguvu na kwa kuwashurutisha."
+        },
+        {
+          "chapter": 4,
+          "verse": 24,
+          "text": "Hivyo kazi ya nyumba ya Mungu iliyoko Yerusalemu ikakoma; nayo ikakoma hata mwaka wa pili wa kutawala kwake Dario, mfalme wa Uajemi."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 5,
+      "lastVerse": 17,
+      "verseUnitCount": 17,
+      "verses": [
+        {
+          "chapter": 5,
+          "verse": 1,
+          "text": "Basi manabii, Hagai nabii, na Zekaria mwana wa Ido, wakawafanyia unabii Wayahudi waliokuwako Yerusalemu na Yuda; waliwafanyia unabii kwa jina la Mungu wa Israeli."
+        },
+        {
+          "chapter": 5,
+          "verse": 2,
+          "text": "Ndipo akaondoka Zerubabeli, mwana wa Shealtieli, na Yoshua, mwana wa Yosadaki, wakaanza kuijenga nyumba ya Mungu iliyoko Yerusalemu; na pamoja nao walikuwa manabii wa Mungu, wakiwasaidia."
+        },
+        {
+          "chapter": 5,
+          "verse": 3,
+          "text": "Wakati ule ule Tatenai, liwali wa ng’ambo ya Mto, na Shethar-Bozenai, na wenzi wao, wakawajia, wakawaambia, Ni nani aliyewapa amri kuijenga nyumba hii, na kuumaliza ukuta huu?"
+        },
+        {
+          "chapter": 5,
+          "verse": 4,
+          "text": "Ndipo wakawauliza hivi, Majina ya watu wanaofanya ujenzi huu ni nani na nani?"
+        },
+        {
+          "chapter": 5,
+          "verse": 5,
+          "text": "Lakini jicho la Mungu lilikuwa likiwaelekea wazee wa Wayahudi, hao wasiwazuie, hata habari ile imfikilie Dario, ndipo jawabu litakapopatikana kwa waraka."
+        },
+        {
+          "chapter": 5,
+          "verse": 6,
+          "text": "Hii ndiyo nakala ya waraka waliyompelekea mfalme Dario; na Tatenai, liwali wa ng’ambo ya Mto, na Shethar-Bozenai, na wenzake wa Kiajemi, waliokuwako huko ng’ambo ya Mto,"
+        },
+        {
+          "chapter": 5,
+          "verse": 7,
+          "text": "walimpelekea waraka nao; na maneno haya yakaandikwa ndani yake; Kwa Dario, mfalme Salamu sana."
+        },
+        {
+          "chapter": 5,
+          "verse": 8,
+          "text": "Na ajue mfalme ya kuwa sisi tuliingia nchi ya Yuda, tukafika kunako nyumba ya Mungu mkuu, iliyojengwa kwa mawe makubwa, na miti imetiwa katika kuta zake, na kazi hii inaendelea kwa bidii, na kusitawi katika mikono yao."
+        },
+        {
+          "chapter": 5,
+          "verse": 9,
+          "text": "Ndipo tukawauliza wale wazee, tukawaambia hivi, Ni nani aliyewapa amri kuijenga nyumba hii, na kuumaliza ukuta huu?"
+        },
+        {
+          "chapter": 5,
+          "verse": 10,
+          "text": "Tukawauliza pia majina yao, ili kukuarifu wewe, tupate kuandika majina ya watu waliokuwa wakubwa wao."
+        },
+        {
+          "chapter": 5,
+          "verse": 11,
+          "text": "Wakatujibu hivi, wakasema, Sisi tu watumishi wa Mungu wa mbingu na nchi, nasi tunaijenga nyumba iliyojengwa zamani sana, yapata miaka mingi, ambayo mfalme mkuu wa Israeli aliijenga na kuimaliza."
+        },
+        {
+          "chapter": 5,
+          "verse": 12,
+          "text": "Lakini hapo baba zetu walipomkasirisha Mungu wa mbingu na nchi, hata akaghadhibika, akawatia katika mkono wa Nebukadreza, mfalme wa Babeli, Mkaldayo, naye ndiye aliyeiharibu nyumba hii, akawachukua watu mateka mpaka Babeli."
+        },
+        {
+          "chapter": 5,
+          "verse": 13,
+          "text": "Lakini katika mwaka wa kwanza wa Koreshi, mfalme wa Babeli, Koreshi, mfalme, alitoa amri ijengwe tena nyumba ya Mungu."
+        },
+        {
+          "chapter": 5,
+          "verse": 14,
+          "text": "Na vyombo vya dhahabu na fedha, vya nyumba ya Mungu, alivyovitoa Nebukadreza katika hekalu lililokuwako Yerusalemu, na kuviingiza katika hekalu la Babeli, vyombo hivyo mfalme Koreshi alivitoa katika hekalu la Babeli, akakabidhiwa mtu, jina lake Sheshbaza, ambaye alikuwa amemfanya liwali;"
+        },
+        {
+          "chapter": 5,
+          "verse": 15,
+          "text": "naye akamwambia, Chukua vyombo hivi, uende, ukavitie katika hekalu lililoko Yerusalemu, na nyumba ya Mungu na ijengwe mahali pake."
+        },
+        {
+          "chapter": 5,
+          "verse": 16,
+          "text": "Ndipo ye yule Sheshbaza alipokuja, akaupiga msingi wa nyumba ya Mungu iliyoko Yerusalemu; na tangu wakati ule hata leo imekuwa ikijengwa, wala bado haijamalizika."
+        },
+        {
+          "chapter": 5,
+          "verse": 17,
+          "text": "Basi, sasa, mfalme akiona vema, watu na watafute katika nyumba ya hazina ya mfalme, iliyoko huko Babeli, kama ni kweli ya kuwa mfalme Koreshi alitoa amri kuijenga nyumba hiyo ya Mungu katika Yerusalemu, na mfalme akatuletee habari ya mapenzi yake katika jambo hili."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 6,
+      "lastVerse": 22,
+      "verseUnitCount": 22,
+      "verses": [
+        {
+          "chapter": 6,
+          "verse": 1,
+          "text": "Ndipo mfalme Dario akatoa amri, na watu wakatafuta katika nyumba ya vyuo vya tarehe, hapo akiba zilipowekwa katika Babeli."
+        },
+        {
+          "chapter": 6,
+          "verse": 2,
+          "text": "Na chuo kimoja kilipatikana huko Akmetha, katika nyumba ya mfalme iliyo katika wilaya ya Umedi, na ndani yake maneno haya yameandikwa ili yakumbukwe."
+        },
+        {
+          "chapter": 6,
+          "verse": 3,
+          "text": "Katika mwaka wa kwanza wa mfalme Koreshi, mfalme Koreshi alitoa amri, Kwa habari ya nyumba ya Mungu huko Yerusalemu, nyumba hiyo na ijengwe, mahali watoapo dhabihu, na misingi yake ipigwe na kufanywa imara sana; kuinuka kwake kuwe mikono sitini, na upana wake mikono sitini;"
+        },
+        {
+          "chapter": 6,
+          "verse": 4,
+          "text": "ziwepo safu tatu za mawe makubwa, na safu moja ya miti mipya; gharama zake zitolewe katika nyumba ya mfalme."
+        },
+        {
+          "chapter": 6,
+          "verse": 5,
+          "text": "Na vyombo vya dhahabu na fedha, vya nyumba ya Mungu, ambavyo mfalme Nebukadreza alivitoa katika nyumba ya Mungu, iliyoko Yerusalemu, akavileta mpaka Babeli, na virudishwe, vikaingizwe tena katika hekalu lililoko Yerusalemu, kila kimoja mahali pake, na wewe uvitie katika nyumba ya Mungu."
+        },
+        {
+          "chapter": 6,
+          "verse": 6,
+          "text": "Basi sasa ninyi, Tatenai, liwali wa ng’ambo ya Mto, na Shethar-Bozenai, na hao wenzi wenu wa Kiajemi, mlio ng’ambo ya Mto, jitengeni na mahali pale;"
+        },
+        {
+          "chapter": 6,
+          "verse": 7,
+          "text": "iacheni kazi hii ya nyumba ya Mungu, msiizuie; waacheni liwali wa Wayahudi, na wazee wa Wayahudi, waijenge nyumba hii ya Mungu mahali pake."
+        },
+        {
+          "chapter": 6,
+          "verse": 8,
+          "text": "Tena, natoa amri kuwaagiza ninyi mtakayowatendea wazee hao wa Wayahudi, kwa kazi hii ya kuijenga nyumba ya Mungu; katika mali ya mfalme, yaani, katika kodi za nchi iliyo ng’ambo ya Mto, watu hao wapewe gharama zote kwa bidii, ili wasizuiliwe."
+        },
+        {
+          "chapter": 6,
+          "verse": 9,
+          "text": "Na kila kitu wanachokihitaji, katika ng’ombe wachanga, na kondoo waume, na wana-kondoo, kwa sadaka za kuteketezwa watakazomtolea Mungu wa mbinguni, na ngano, na chumvi, na divai, na mafuta, kama makuhani walioko Yerusalemu watakavyosema, na wapewe vitu hivyo vyote siku kwa siku, msikose kuwapa;"
+        },
+        {
+          "chapter": 6,
+          "verse": 10,
+          "text": "wapate kumtolea Mungu wa mbinguni sadaka zenye harufu nzuri, na kumwombea mfalme, na wanawe, wapate uzima."
+        },
+        {
+          "chapter": 6,
+          "verse": 11,
+          "text": "Pia nimetoa amri kwamba, mtu awaye yote atakayelibadili neno hili, boriti na itolewe katika nyumba yake, akainuliwe na kutungikwa juu yake; tena nyumba yake ikafanywe jaa kwa ajili ya neno hili."
+        },
+        {
+          "chapter": 6,
+          "verse": 12,
+          "text": "Na Mungu huyu, aliyelifanya jina lake likae pale, na aangamize wafalme wote, na watu wote, watakaonyosha mikono yao kulibadili neno hili, na kuiharibu nyumba hii ya Mungu, iliyoko Yerusalemu. Mimi, Dario, nimetoa amri; na ifanyike kwa bidii nyingi."
+        },
+        {
+          "chapter": 6,
+          "verse": 13,
+          "text": "Ndipo Tatenai, liwali wa ng’ambo ya Mto, na Shethar-Bozenai, na wenzi wao, wakafanya hayo kwa bidii, kwa sababu mfalme Dario alikuwa ametuma watu kwao."
+        },
+        {
+          "chapter": 6,
+          "verse": 14,
+          "text": "Nao wazee wa Wayahudi wakajenga, wakafanikiwa, kwa msaada wa kuhubiri kwao Hagai nabii, na Zekaria mwana wa Ido. Wakajenga, wakaimaliza kazi yao, kwa maagizo ya Mungu wa Israeli, na kwa amri ya Koreshi, na Dario, na Artashasta mfalme wa Uajemi."
+        },
+        {
+          "chapter": 6,
+          "verse": 15,
+          "text": "Nyumba hiyo ikamalizika siku ya tatu ya mwezi Adari, katika mwaka wa sita wa kutawala kwake mfalme Dario."
+        },
+        {
+          "chapter": 6,
+          "verse": 16,
+          "text": "Na wana wa Israeli, na makuhani na Walawi, na watu wengine katika hao waliohamishwa, wakaiweka wakfu nyumba ya Mungu kwa furaha."
+        },
+        {
+          "chapter": 6,
+          "verse": 17,
+          "text": "Na katika kuiweka wakfu nyumba ya Mungu, wakatoa sadaka, ng’ombe mia, na kondoo waume mia mbili, na wana-kondoo mia nne; tena wakatoa mbuzi waume kumi na wawili, kuwa sadaka ya dhambi kwa ajili ya Israeli wote, kwa hesabu ya kabila za Israeli."
+        },
+        {
+          "chapter": 6,
+          "verse": 18,
+          "text": "Wakawaweka makuhani katika kura zao, wakawaweka na Walawi katika zamu zao, kwa ajili ya huduma ya Mungu, iliyokuwako Yerusalemu; vile vile kama vilivyoandikwa katika chuo cha Musa."
+        },
+        {
+          "chapter": 6,
+          "verse": 19,
+          "text": "Kisha, wana wa uhamisho wakaifanya Pasaka, mwezi wa kwanza siku ya kumi na nne ya mwezi."
+        },
+        {
+          "chapter": 6,
+          "verse": 20,
+          "text": "Kwa maana makuhani na Walawi walikuwa wamejitakasa wote pamoja; wote walikuwa hali ya tohara; wakachinja Pasaka kwa ajili ya wana wote wa uhamisho, na kwa ajili ya ndugu zao makuhani, na kwa ajili ya nafsi zao."
+        },
+        {
+          "chapter": 6,
+          "verse": 21,
+          "text": "Wana wa Israeli wakaila, wale waliorudi kuitoka nchi ya uhamisho wao, na watu wote ambao pamoja nao wamejitenga na uchafu wa taifa za nchi, ili kumtaka [DN]BWANA[/DN], Mungu wa Israeli,"
+        },
+        {
+          "chapter": 6,
+          "verse": 22,
+          "text": "wakaifanya sikukuu ya mikate isiyotiwa chachu kwa furaha, kwa muda wa siku saba; kwa kuwa [DN]BWANA[/DN] amewafurahisha, na kumgeuza moyo mfalme wa Ashuru, awaelekee, ili awatie nguvu mikono yao katika kazi hiyo ya nyumba ya Mungu, Mungu wa Israeli. a Israeli."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 7,
+      "lastVerse": 28,
+      "verseUnitCount": 28,
+      "verses": [
+        {
+          "chapter": 7,
+          "verse": 1,
+          "text": "Ikawa baada ya mambo hayo, wakati wa kutawala kwake Artashasta, mfalme wa Uajemi, Ezra, mwana wa Seraya, mwana wa Azaria, mwana wa Hilkia,"
+        },
+        {
+          "chapter": 7,
+          "verse": 2,
+          "text": "mwana wa Shalumu, mwana wa Sadoki, mwana wa Ahitubu,"
+        },
+        {
+          "chapter": 7,
+          "verse": 3,
+          "text": "mwana wa Amaria, mwana wa Azaria, mwana wa Merayothi,"
+        },
+        {
+          "chapter": 7,
+          "verse": 4,
+          "text": "mwana wa Zerahia, mwana wa Uzi, mwana wa Buki,"
+        },
+        {
+          "chapter": 7,
+          "verse": 5,
+          "text": "mwana wa Abishua, mwana wa Finehasi, mwana wa Eleazari, mwana wa Haruni, kuhani mkuu;"
+        },
+        {
+          "chapter": 7,
+          "verse": 6,
+          "text": "huyo Ezra akakwea kutoka Babeli; naye alikuwa mwandishi mwepesi katika sheria ya Musa, aliyokuwa ameitoa [DN]BWANA[/DN], Mungu wa Israeli; naye mfalme akamjalia matakwa yake yote, kama mkono wa [DN]BWANA[/DN], Mungu wake, ulivyokuwa pamoja naye."
+        },
+        {
+          "chapter": 7,
+          "verse": 7,
+          "text": "Nao wakakwea baadhi ya wana wa Israeli, na wa makuhani, na wa Walawi, na waimbaji, na mabawabu, na Wanethini, ili kwenda Yerusalemu, katika mwaka wa saba wa mfalme Artashasta."
+        },
+        {
+          "chapter": 7,
+          "verse": 8,
+          "text": "Naye Ezra akafika Yerusalemu mwezi wa tano katika mwaka wa saba wa huyo mfalme."
+        },
+        {
+          "chapter": 7,
+          "verse": 9,
+          "text": "Maana alianza kukwea kutoka Babeli siku ya kwanza ya mwezi wa kwanza, naye akafika Yerusalemu siku ya kwanza ya mwezi wa tano, kama mkono mwema wa Mungu wake ulivyokuwa pamoja naye."
+        },
+        {
+          "chapter": 7,
+          "verse": 10,
+          "text": "Kwa maana huyo Ezra alikuwa ameuelekeza moyo wake kuitafuta sheria ya [DN]BWANA[/DN], na kuitenda, na kufundisha maagizo na hukumu katika Israeli."
+        },
+        {
+          "chapter": 7,
+          "verse": 11,
+          "text": "Basi hii ndiyo nakala ya waraka, mfalme Artashasta aliyompa Ezra, kuhani, mwandishi, naam, mwandishi wa maneno ya amri za [DN]BWANA[/DN], na wa sheria zake alizowapa Israeli."
+        },
+        {
+          "chapter": 7,
+          "verse": 12,
+          "text": "Artashasta, mfalme wa wafalme, kwa Ezra, kuhani, mwandishi wa torati ya Mungu wa mbinguni, salamu kamili; wakadhalika."
+        },
+        {
+          "chapter": 7,
+          "verse": 13,
+          "text": "Natoa amri ya kwamba wote walio wa watu wa Israeli, na makuhani wao, na Walawi, katika ufalme wangu, wenye nia ya kwenda Yerusalemu kwa hiari yao wenyewe, waende pamoja nawe."
+        },
+        {
+          "chapter": 7,
+          "verse": 14,
+          "text": "Kwa kuwa umetumwa na mfalme, na washauri wake saba, ili kuuliza habari za Yuda na Yerusalemu, kwa sheria ya Mungu wako iliyo mkononi mwako;"
+        },
+        {
+          "chapter": 7,
+          "verse": 15,
+          "text": "na kuichukua fedha na dhahabu, ambayo mfalme, na washauri wake, kwa hiari yao, wamemtolea Mungu wa Israeli, akaaye Yerusalemu;"
+        },
+        {
+          "chapter": 7,
+          "verse": 16,
+          "text": "na fedha yote na dhahabu utakayoona katika wilaya ya Babeli, pamoja na vitu watakavyotoa watu kwa hiari yao, na vitu vya makuhani walivyotoa kwa hiari yao, kwa ajili ya nyumba ya Mungu wao iliyoko Yerusalemu."
+        },
+        {
+          "chapter": 7,
+          "verse": 17,
+          "text": "Kwa sababu hiyo ujitahidi kununua kwa fedha hiyo mafahali, kondoo waume, wana-kondoo, pamoja na sadaka zao za unga, na sadaka zao za kinywaji; nawe utazitoa juu ya madhabahu ya nyumba ya Mungu wenu, iliyoko Yerusalemu."
+        },
+        {
+          "chapter": 7,
+          "verse": 18,
+          "text": "Na neno lo lote mtakaloona vema kulitenda, wewe na ndugu zako, kwa ile fedha na dhahabu itakayobaki, hilo litendeni, kama apendavyo Mungu wenu."
+        },
+        {
+          "chapter": 7,
+          "verse": 19,
+          "text": "Na vile vyombo upewavyo kwa huduma ya nyumba ya Mungu wako, virejeze mbele za Mungu wa Yerusalemu."
+        },
+        {
+          "chapter": 7,
+          "verse": 20,
+          "text": "Na cho chote kitakachohitajiwa zaidi, kwa ajili ya nyumba ya Mungu wako, kitakachokupasa kukitoa, kitoe katika nyumba ya hazina ya mfalme."
+        },
+        {
+          "chapter": 7,
+          "verse": 21,
+          "text": "Na mimi, naam mimi, mfalme Artashasta, nawapa amri wote wenye kutunza hazina, walio ng’ambo ya Mto, ya kwamba, kila neno ambalo Ezra, kuhani, mwandishi wa torati ya Mungu wa mbinguni, atalitaka kwenu, na litendeke kwa bidii nyingi,"
+        },
+        {
+          "chapter": 7,
+          "verse": 22,
+          "text": "hata kiasi cha talanta mia za fedha, na vipimo mia vya ngano, na bathi mia za divai, na bathi mia za mafuta, na chumvi bila kuuliza kiasi chake."
+        },
+        {
+          "chapter": 7,
+          "verse": 23,
+          "text": "Kila neno litakaloamriwa na Mungu wa mbinguni, na litendeke halisi kwa ajili ya nyumba ya Mungu wa mbinguni. Kwa nini itokee ghadhabu juu ya ufalme wa mfalme na wanawe?"
+        },
+        {
+          "chapter": 7,
+          "verse": 24,
+          "text": "Tena twawaarifuni ya kuwa katika habari ya makuhani, na Walawi, na waimbaji, na mabawabu na Wanethini, au watumishi wa nyumba hii ya Mungu, si halali kuwatoza kodi, wala ada, wala ushuru."
+        },
+        {
+          "chapter": 7,
+          "verse": 25,
+          "text": "Na wewe, Ezra, kwa kadiri ya hekima ya Mungu wako iliyo mkononi mwako, waweke waamuzi na makadhi, watakaowahukumu watu wote walio ng’ambo ya Mto, yaani, wote wenye kuzijua amri za Mungu wako; ukamfundishe yeye asiyezijua."
+        },
+        {
+          "chapter": 7,
+          "verse": 26,
+          "text": "Na kila mtu asiyekubali kuitenda sheria ya Mungu wako, na sheria ya mfalme, na apatilizwe hukumu kwa bidii, kwamba ni kuuawa, au kwamba ni kuhamishwa, au kuondolewa mali yake, au kufungwa."
+        },
+        {
+          "chapter": 7,
+          "verse": 27,
+          "text": "Na ahimidiwe [DN]BWANA[/DN], Mungu wa baba zetu, aliyetia neno kama hilo katika moyo wa mfalme, kuipamba nyumba ya [DN]BWANA[/DN] iliyoko Yerusalemu."
+        },
+        {
+          "chapter": 7,
+          "verse": 28,
+          "text": "Naye amenifikilizia rehema zake mbele ya mfalme, na washauri wake, na mbele ya wakuu wote wa mfalme wenye mamlaka. Nami nikatiwa nguvu, kwa kadiri mkono wa [DN]BWANA[/DN], Mungu wangu, ulivyokuwa pamoja nami, nikawakusanya wakuu wote katika Israeli, ili wakwee pa"
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 8,
+      "lastVerse": 36,
+      "verseUnitCount": 36,
+      "verses": [
+        {
+          "chapter": 8,
+          "verse": 1,
+          "text": "Basi hawa ndio wakuu wa mbari za baba zao, na hii ndiyo nasaba ya wale waliokwea pamoja nami kutoka Babeli, wakati wa kutawala kwake mfalme Artashasta."
+        },
+        {
+          "chapter": 8,
+          "verse": 2,
+          "text": "Wa wana wa Finehasi, Gershoni; wa wana wa Ithamari, Danieli; wa wana wa Daudi, Hatushi, mwana wa Shekania;"
+        },
+        {
+          "chapter": 8,
+          "verse": 3,
+          "text": "wa wana wa Paroshi, Zekaria; na pamoja naye wakahesabiwa kwa nasaba wanaume mia na hamsini."
+        },
+        {
+          "chapter": 8,
+          "verse": 4,
+          "text": "Wa wana wa Pahath-Moabu, Eliehoenai, mwana wa Zerahia; na pamoja naye wanaume mia mbili;"
+        },
+        {
+          "chapter": 8,
+          "verse": 5,
+          "text": "Wa wana wa Zatu, Shekania, mwana wa Yahazieli; na pamoja naye wanaume mia tatu."
+        },
+        {
+          "chapter": 8,
+          "verse": 6,
+          "text": "Na wa wana wa Adini, Ebedi, mwana wa Yonathani; na pamoja naye wanaume hamsini."
+        },
+        {
+          "chapter": 8,
+          "verse": 7,
+          "text": "Na wa wana wa Elamu, Yeshaya, mwana wa Athalia; na pamoja naye wanaume sabini."
+        },
+        {
+          "chapter": 8,
+          "verse": 8,
+          "text": "Na wa wana wa Shefatia, Zebadia, mwana wa Mikaeli; na pamoja naye wanaume themanini."
+        },
+        {
+          "chapter": 8,
+          "verse": 9,
+          "text": "Wa wana wa Yoabu, Obadia, mwana wa Yehieli; na pamoja naye wanaume mia mbili na kumi na wanane."
+        },
+        {
+          "chapter": 8,
+          "verse": 10,
+          "text": "Na wa wana wa Binui, Shelomithi, mwana wa Yosifia; na pamoja naye wanaume mia na sitini."
+        },
+        {
+          "chapter": 8,
+          "verse": 11,
+          "text": "Na wa wana wa Bebai, Zekaria, mwana wa Bebai; na pamoja naye wanaume ishirini na wanane."
+        },
+        {
+          "chapter": 8,
+          "verse": 12,
+          "text": "Na wa wana wa Azgadi, Yohana, mwana wa Hakatani; na pamoja naye wanaume mia na kumi."
+        },
+        {
+          "chapter": 8,
+          "verse": 13,
+          "text": "Na wa wana wa Adonikamu, hawa waliokuwa wa mwisho, na hayo ndiyo majina yao, Elifeleti, na Yeueli, na Shemaya; na pamoja nao wanaume sitini."
+        },
+        {
+          "chapter": 8,
+          "verse": 14,
+          "text": "Na wa wana wa Bigwai, Uthai, mwana wa Zabudi; na pamoja naye wanaume sabini."
+        },
+        {
+          "chapter": 8,
+          "verse": 15,
+          "text": "Nikawakusanya penye mto ushukao kwenda Ahava; na huko tukapiga kambi yetu muda wa siku tatu; nikawakagua watu, na makuhani, wala sikuona hapo wana wa Lawi hata mmoja."
+        },
+        {
+          "chapter": 8,
+          "verse": 16,
+          "text": "Ndipo nikatuma watu kwenda kumwita Eliezeri, na Arieli, na Shemaya, na Elnathani, na Yaribu, na Elnathani, na Nathani, na Zekaria, na Meshulamu, waliokuwa wakuu; na Yoyaribu, na Elnathani pia, waliokuwa waalimu."
+        },
+        {
+          "chapter": 8,
+          "verse": 17,
+          "text": "Nikawapeleka kwa Ido, mkuu, huko Kasifia; nikawaambia watakayomwambia Ido, na ndugu zake hao Wanethini, huko Kasifia, kwamba watuletee watu watakaohudumu katika nyumba ya Mungu wetu."
+        },
+        {
+          "chapter": 8,
+          "verse": 18,
+          "text": "Na kama mkono mwema wa Mungu wetu ulivyokuwa pamoja nasi, wakamletea Ishekeli, mmoja wa wana wa Mali, mwana wa Lawi, mwana wa Israeli; na Sherebia, pamoja na wanawe na ndugu zake, watu kumi na wanane;"
+        },
+        {
+          "chapter": 8,
+          "verse": 19,
+          "text": "na Hashabia, na pamoja naye Yeshaya, wa wana wa Merari, na ndugu zake na wana wao, watu ishirini;"
+        },
+        {
+          "chapter": 8,
+          "verse": 20,
+          "text": "na katika Wanethini, ambao Daudi, na wakuu, walikuwa wamewaweka kwa ajili ya utumishi wa Walawi, Wanethini mia mbili na ishirini; wote wametajwa kwa majina yao."
+        },
+        {
+          "chapter": 8,
+          "verse": 21,
+          "text": "Ndipo nikaamuru kufunga, hapo penye mto Ahava, ili tupate kujinyenyekeza mbele za Mungu, na kutafuta kwake njia iliyonyoka, kwa ajili yetu sisi wenyewe, na kwa ajili ya watoto wetu, na kwa mali yetu yote."
+        },
+        {
+          "chapter": 8,
+          "verse": 22,
+          "text": "Maana naliona haya kumwomba mfalme kikosi cha askari na wapanda farasi, ili kutusaidia juu ya adui njiani; kwa maana tulikuwa tumesema na mfalme, tukinena, Mkono wa Mungu u juu ya watu wote wamtafutao, kuwatendea mema; bali uweza wake na ghadhabu yake ni kinyume cha wote wamwachao."
+        },
+        {
+          "chapter": 8,
+          "verse": 23,
+          "text": "Basi tukafunga, tukamsihi Mungu wetu kwa ajili ya hayo; naye akatutakabali."
+        },
+        {
+          "chapter": 8,
+          "verse": 24,
+          "text": "Ndipo nikawatenga watu kumi na wawili wa wakuu wa makuhani, nao ni Sherebia, na Hashabia, na watu kumi wa ndugu zao pamoja nao,"
+        },
+        {
+          "chapter": 8,
+          "verse": 25,
+          "text": "nami nikawapimia kwa mizani zile fedha, na dhahabu, na vile vyombo, matoleo kwa ajili ya nyumba ya Mungu wetu, ambayo mfalme, na washauri wake, na wakuu wake, na Israeli wote waliokuwapo, walikuwa wameyatoa;"
+        },
+        {
+          "chapter": 8,
+          "verse": 26,
+          "text": "nami nikawapimia mikononi mwao talanta za fedha mia sita na hamsini na vyombo vya fedha talanta mia; na talanta mia za dhahabu;"
+        },
+        {
+          "chapter": 8,
+          "verse": 27,
+          "text": "na mabakuli ishirini ya dhahabu, thamani yake darkoni elfu; na vyombo viwili vya shaba nzuri iliyong’aa, thamani yake sawa na dhahabu."
+        },
+        {
+          "chapter": 8,
+          "verse": 28,
+          "text": "Kisha nikawaambia, Ninyi mmekuwa watakatifu kwa [DN]BWANA[/DN], na hivyo vyombo ni vitakatifu; na fedha na dhahabu ni matoleo ya hiari kwa [DN]BWANA[/DN], Mungu wa baba zenu."
+        },
+        {
+          "chapter": 8,
+          "verse": 29,
+          "text": "Basi, angalieni, na kuvitunza vitu hivi, hata mtakapovipima mbele ya wakuu wa makuhani, na Walawi, na wakuu wa mbari za mababa wa Israeli, huko Yerusalemu, katika vyumba vya nyumba ya [DN]BWANA[/DN]."
+        },
+        {
+          "chapter": 8,
+          "verse": 30,
+          "text": "Hivyo makuhani na Walawi wakaupokea uzani wa fedha, na dhahabu, na vyombo, ili kuvileta Yerusalemu nyumbani kwa Mungu wetu."
+        },
+        {
+          "chapter": 8,
+          "verse": 31,
+          "text": "Ndipo tukasafiri toka mtoni Ahava siku ya kumi na mbili ya mwezi wa kwanza, ili kwenda Yerusalemu; na mkono wa Mungu ulikuwa pamoja nasi, akatuokoa na mkono wa adui, na mtu mwenye kutuvizia njiani."
+        },
+        {
+          "chapter": 8,
+          "verse": 32,
+          "text": "Tukafika Yerusalemu, tukakaa huko muda wa siku tatu."
+        },
+        {
+          "chapter": 8,
+          "verse": 33,
+          "text": "Hata siku ya nne, hizo fedha na dhahabu na vile vyombo vilipimwa ndani ya nyumba ya Mungu, vikatiwa mikononi mwa Meremothi, mwana wa Uria, kuhani; na pamoja naye alikuwapo Eleazari, mwana wa Finehasi; na pamoja nao Yozabadi, mwana wa Yeshua, na Noadia, mwana wa Binui, Walawi;"
+        },
+        {
+          "chapter": 8,
+          "verse": 34,
+          "text": "vile vyombo vyote kwa hesabu na kwa uzani; tena uzani wake wote uliandikwa wakati ule."
+        },
+        {
+          "chapter": 8,
+          "verse": 35,
+          "text": "Na wana wa uhamisho, waliokuwa wametoka katika uhamisho wakamtolea Mungu wa Israeli sadaka za kuteketezwa, ng’ombe kumi na wawili kwa ajili ya Israeli wote, na kondoo waume tisini na sita, na wana-kondoo sabini na saba, na mbuzi waume kumi na wawili, kuwa sadaka ya dhambi, hao wote pia walikuwa sadaka ya kuteketezwa kwa [DN]BWANA[/DN]."
+        },
+        {
+          "chapter": 8,
+          "verse": 36,
+          "text": "Wakawapa manaibu wa mfalme, na maliwali wa ng’ambo ya Mto, maagizo ya mfalme; nao wakawapa watu, na nyumba ya Mungu, msaada."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 9,
+      "lastVerse": 15,
+      "verseUnitCount": 15,
+      "verses": [
+        {
+          "chapter": 9,
+          "verse": 1,
+          "text": "Na mambo hayo yalipokwisha kutendeka, wakuu wakanikaribia, wakisema, Watu wa Israeli, na makuhani, na Walawi, hawakujitenga na watu wa nchi hizi, wamefanya sawasawa na machukizo yao, yaani, ya Wakanaani, na Wahiti, na Waperizi, na Wayebusi, na Waamoni, na Wamoabi, na Wamisri, na Waamori."
+        },
+        {
+          "chapter": 9,
+          "verse": 2,
+          "text": "Maana wametwaa binti zao kuwa wake zao, na wake za watoto wao; basi mbegu takatifu wamejichanganya na watu wa nchi hizi; naam, mkono wa wakuu na mashehe umetangulia katika kosa hili."
+        },
+        {
+          "chapter": 9,
+          "verse": 3,
+          "text": "Nami niliposikia hayo, nikararua nguo yangu na joho yangu, nikang’oa nywele za kichwa changu, na ndevu zangu, nikaketi kwa mshangao."
+        },
+        {
+          "chapter": 9,
+          "verse": 4,
+          "text": "Ndipo wakanikusanyikia watu wote walioyatetemekea maneno ya Mungu wa Israeli, kwa sababu ya lile kosa la watu wa uhamisho; nami nikaketi kwa mshangao hata wakati wa sadaka ya jioni."
+        },
+        {
+          "chapter": 9,
+          "verse": 5,
+          "text": "Na wakati wa sadaka ya jioni nikainuka baada ya kunyenyekea kwangu, nguo yangu na joho yangu zimeraruliwa, nikaanguka magotini nikakunjua mikono yangu mbele za [DN]BWANA[/DN], Mungu wangu;"
+        },
+        {
+          "chapter": 9,
+          "verse": 6,
+          "text": "nikasema, Ee Mungu wangu, nimetahayari, naona haya kuinua uso wangu mbele zako, Mungu wangu; kwa maana maovu yetu ni mengi, hata yamefika juu ya vichwa vyetu, na hatia yetu imeongezeka na kufika mbinguni."
+        },
+        {
+          "chapter": 9,
+          "verse": 7,
+          "text": "Tangu siku za baba zetu tumekuwa na hatia kupita kiasi hata leo; na kwa sababu ya maovu yetu sisi, na wafalme wetu, na makuhani wetu, tumetiwa katika mikono ya wafalme wa nchi hizi, tumepigwa kwa upanga, tumechukuliwa mateka, tumenyang’anywa mali zetu, tumetiwa haya nyuso zetu, kama hivi leo."
+        },
+        {
+          "chapter": 9,
+          "verse": 8,
+          "text": "Na sasa kwa muda kidogo tumeneemeshwa na [DN]BWANA[/DN], Mungu wetu, hata akatuachia mabaki yaokoke, akatupa msumari katika mahali pake patakatifu. Mungu wetu atutie nuru machoni mwetu, tuburudike kidogo katika kufungwa kwetu."
+        },
+        {
+          "chapter": 9,
+          "verse": 9,
+          "text": "Maana sisi tu watumwa; lakini Mungu wetu hakutuacha katika utumwa wetu, bali ametufikilizia rehema zake, mbele ya wafalme wa Uajemi, ili kutuburudisha, kuisimamisha nyumba ya Mungu wetu, na kuitengeneza palipobomoka, atupe ukuta katika Yuda na Yerusalemu."
+        },
+        {
+          "chapter": 9,
+          "verse": 10,
+          "text": "Na sasa, Ee Mungu wetu, tuseme nini baada ya hayo? Maana tumeziacha amri zako,"
+        },
+        {
+          "chapter": 9,
+          "verse": 11,
+          "text": "ulizoziamuru kwa midomo ya watumishi wako, manabii, ukisema, Nchi ile, mnayoiendea ili kuimiliki, ni nchi ya uchafu, kwa sababu ya uchafu wa watu wa nchi zile, kwa ajili ya machukizo yao, yaliyoijaza tangu upande huu mpaka upande huu, kwa uchafu wao."
+        },
+        {
+          "chapter": 9,
+          "verse": 12,
+          "text": "Basi, msiwape wana wao binti zenu, wala msitwae binti zao kuwa wake za wana wenu, wala msiwatakie amani wala kufanikiwa milele; ili mpate kuwa hodari, na kula wema wa nchi hiyo, na kuwaachia watoto wenu iwe urithi wa milele."
+        },
+        {
+          "chapter": 9,
+          "verse": 13,
+          "text": "Na baada ya hayo yote yaliyotupata kwa sababu ya matendo yetu mabaya, na kwa sababu ya hatia yetu iliyo kuu, ikiwa wewe Mungu wetu hukutuadhibu kama tulivyostahili kwa maovu yetu, tena umetupa mabaki;"
+        },
+        {
+          "chapter": 9,
+          "verse": 14,
+          "text": "je! Tuzivunje tena amri zako, tukajiunge na watu wanaotenda machukizo hayo, kwa kuoana nao? Je! Usingekasirika nasi hata kutuangamiza kabisa, pasisalie mabaki yo yote, wala mtu wa kuokoka?"
+        },
+        {
+          "chapter": 9,
+          "verse": 15,
+          "text": "Ee [DN]BWANA[/DN], Mungu wa Israeli, wewe ndiwe mwenye haki, maana sisi tumesalia, mabaki yaliyookoka, kama hivi leo; tazama, sisi tupo hapa wenye hatia mbele zako; maana hapana mtu awezaye kusimama mbele zako kwa sababu ya jambo hili. i."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 10,
+      "lastVerse": 44,
+      "verseUnitCount": 44,
+      "verses": [
+        {
+          "chapter": 10,
+          "verse": 1,
+          "text": "Basi hapo Ezra alipokuwa akiomba na kuungama, akilia, na kujiangusha kifudifudi mbele ya nyumba ya Mungu, wakamkusanyikia katika Israeli wote kusanyiko kubwa sana la wanaume, na wanawake, na watoto; maana watu hao walikuwa wakilia sana."
+        },
+        {
+          "chapter": 10,
+          "verse": 2,
+          "text": "Hata Shekania, mwana wa Yehieli, mmoja wa wana wa Elamu, akajibu, akamwambia Ezra, Sisi tumemkosa Mungu wetu, nasi tumeoa wanawake wageni wa watu wa nchi hizi; lakini kungaliko tumaini kwa Israeli katika jambo hili."
+        },
+        {
+          "chapter": 10,
+          "verse": 3,
+          "text": "Haya basi! Na tufanye agano na Mungu wetu, kuachana na wake zetu, na wale waliozaliwa nao, tukilifuata shauri la bwana wangu, na shauri la hao wanaoitetemekea amri ya Mungu wetu; mambo haya na yatendeke kwa kuifuata torati."
+        },
+        {
+          "chapter": 10,
+          "verse": 4,
+          "text": "Inuka; maana shughuli hii yakuhusu wewe; na sisi tu pamoja nawe; uwe na moyo mkuu, ukaitende."
+        },
+        {
+          "chapter": 10,
+          "verse": 5,
+          "text": "Ndipo Ezra akaondoka, akawaapisha wakuu wa makuhani, na Walawi, na Israeli wote, ya kwamba watafanya kama hayo. Basi wakaapa."
+        },
+        {
+          "chapter": 10,
+          "verse": 6,
+          "text": "Kisha Ezra akaondoka hapo mbele ya nyumba ya Mungu, akaingia katika chumba cha Yehohanani, mwana wa Eliashibu; hata, alipofika huko, hakula mkate, wala hakunywa maji; kwa maana alilia kwa sababu ya kosa lile la watu wa uhamisho."
+        },
+        {
+          "chapter": 10,
+          "verse": 7,
+          "text": "Wakapiga mbiu katika Yuda yote na Yerusalemu, ya kwamba wana wote wa uhamisho wakusanyike pamoja huko Yerusalemu;"
+        },
+        {
+          "chapter": 10,
+          "verse": 8,
+          "text": "na ya kwamba mtu awaye yote asiyekuja katika muda wa siku tatu, kwa shauri lile la wakuu na wazee, basi aondolewe mali zake zote, akatengwe yeye mwenyewe na mkutano wa uhamisho."
+        },
+        {
+          "chapter": 10,
+          "verse": 9,
+          "text": "Ndipo wanaume wote wa Yuda na Benyamini wakakusanyika katika muda wa siku tatu; ulikuwa mwezi wa kenda, siku ya ishirini ya mwezi; na watu wote wakaketi katika uwanja mbele ya nyumba ya Mungu, wakitetemeka kwa sababu ya neno hilo, na kwa sababu ya mvua kubwa."
+        },
+        {
+          "chapter": 10,
+          "verse": 10,
+          "text": "Kisha Ezra, kuhani, akasimama, akawaambia, Mmekosa, mmeoa wanawake wageni, kuiongeza hatia ya Israeli."
+        },
+        {
+          "chapter": 10,
+          "verse": 11,
+          "text": "Sasa basi, ungameni mbele za [DN]BWANA[/DN], Mungu wa baba zenu, mkatende alipendalo; mkajitenge na watu wa nchi, tena na wanawake wageni."
+        },
+        {
+          "chapter": 10,
+          "verse": 12,
+          "text": "Ndipo mkutano wote wakajibu, wakasema, kwa sauti kuu, Kama ulivyosema katika habari yetu, ndivyo vitupasavyo kutenda."
+        },
+        {
+          "chapter": 10,
+          "verse": 13,
+          "text": "Lakini watu hawa ni wengi, tena ni wakati wa mvua nyingi, nasi hatuwezi kusimama nje, tena kazi hii si kazi ya siku moja, wala ya siku mbili; maana tumekosa sana katika jambo hili."
+        },
+        {
+          "chapter": 10,
+          "verse": 14,
+          "text": "Basi maakida wetu na wawekwe kwa ajili ya mkutano wote, na watu wote walio katika miji yetu, waliooa wanawake wageni, na waje nyakati zilizoamriwa, tena pamoja nao na waje wazee wa kila mji, na makadhi wa miji hiyo, hata ghadhabu kali ya Mungu wetu itakapotuondokea mbali, jambo hili likamalizike."
+        },
+        {
+          "chapter": 10,
+          "verse": 15,
+          "text": "Yonathani, mwana wa Asaheli, na Yazeya, mwana wa Tikwa, hawa peke yao ndio waliosimama kulipinga neno hilo; na Meshulamu, na Shabethai Mlawi, wakawasaidia."
+        },
+        {
+          "chapter": 10,
+          "verse": 16,
+          "text": "Basi wana wa uhamisho wakafanya hivyo. Na Ezra, kuhani, akatengwa, pamoja na baadhi ya wakuu wa mbari za mababa, kwa hesabu ya mbari ya baba zao; na hao wote kwa majina yao. Wakaketi siku ya kwanza ya mwezi wa kumi, ili kulichunguza jambo hilo."
+        },
+        {
+          "chapter": 10,
+          "verse": 17,
+          "text": "Wakamaliza mambo ya wanaume wote, waliokuwa wameoa wanawake wageni, siku ya kwanza ya mwezi wa kwanza."
+        },
+        {
+          "chapter": 10,
+          "verse": 18,
+          "text": "Basi, miongoni mwa makuhani walionekana wengine waliokuwa wameoa wanawake wageni; wa wana wa Yoshua, mwana wa Yosadaki, na nduguze; Maaseya, na Eliezeri, na Yaribu, na Gedalia."
+        },
+        {
+          "chapter": 10,
+          "verse": 19,
+          "text": "Nao wakatoa ahadi ya kwamba wataachana na wake zao; na kwa kuwa walikuwa na hatia, wakatoa kondoo mume kwa hatia yao."
+        },
+        {
+          "chapter": 10,
+          "verse": 20,
+          "text": "Na wa wana wa Imeri; Hanani, na Zebadia."
+        },
+        {
+          "chapter": 10,
+          "verse": 21,
+          "text": "Na wa wana wa Harimu; Maaseya, na Eliya, na Shemaya, na Yehieli, na Uzia."
+        },
+        {
+          "chapter": 10,
+          "verse": 22,
+          "text": "Na wa wana wa Pashuri; Elioenai, na Maaseya, na Ishmaeli, na Nethaneli, na Yozabadi, na Elasa."
+        },
+        {
+          "chapter": 10,
+          "verse": 23,
+          "text": "Na wa Walawi; Yozabadi, na Shimei, na Kelaya (ndiye Kelita), na Pethahia, na Yuda, na Eliezeri."
+        },
+        {
+          "chapter": 10,
+          "verse": 24,
+          "text": "Na wa waimbaji; Eliashibu. Na wa mabawabu; Shalumu, na Telemu, na Uri."
+        },
+        {
+          "chapter": 10,
+          "verse": 25,
+          "text": "Na wa Israeli; wa wana wa Paroshi; Ramia, na Izia, na Malkiya, na Miyamini, na Eleazari, na Malkiya, na Benaya."
+        },
+        {
+          "chapter": 10,
+          "verse": 26,
+          "text": "Na wa wana wa Elamu; Matania, na Zekaria, na Yehieli, na Abdi, na Yeremothi, na Eliya."
+        },
+        {
+          "chapter": 10,
+          "verse": 27,
+          "text": "Na wa wana wa Zatu; Elioenai, na Eliashibu, na Matania, na Yeremothi, na Zabadi, na Aziza."
+        },
+        {
+          "chapter": 10,
+          "verse": 28,
+          "text": "Na wa wana wa Bebai; Yehohanani, na Hanania, na Zakai, na Athlai."
+        },
+        {
+          "chapter": 10,
+          "verse": 29,
+          "text": "Na wa wana wa Bani; Meshulamu, na Maluki, na Adaya, na Yashubu, na Sheali, na Yeremothi."
+        },
+        {
+          "chapter": 10,
+          "verse": 30,
+          "text": "Na wa wana wa Pahath-Moabu; Adna, na Kelali, na Benaya, na Maaseya, na Matania, na Besaleli, na Binui, na Manase."
+        },
+        {
+          "chapter": 10,
+          "verse": 31,
+          "text": "Na wa wana wa Harimu; Eliezeri, na Ishiya, na Malkiya, na Shemaya, na Shimeoni,"
+        },
+        {
+          "chapter": 10,
+          "verse": 32,
+          "text": "na Benyamini, na Maluki, na Shemaria."
+        },
+        {
+          "chapter": 10,
+          "verse": 33,
+          "text": "Na wa wana wa Hashumu; Matenai, na Matata, na Zabadi, na Elifeleti, na Yeremai, na Manase, na Shimei."
+        },
+        {
+          "chapter": 10,
+          "verse": 34,
+          "text": "Na wa wana wa Bani; Maadai, na Amramu, na Ueli,"
+        },
+        {
+          "chapter": 10,
+          "verse": 35,
+          "text": "na Benaya, na Bedeya, na Keluhi,"
+        },
+        {
+          "chapter": 10,
+          "verse": 36,
+          "text": "na Wania, na Meremothi, na Eliashibu,"
+        },
+        {
+          "chapter": 10,
+          "verse": 37,
+          "text": "na Matania, na Matenai, na Yaasu."
+        },
+        {
+          "chapter": 10,
+          "verse": 38,
+          "text": "Na wa wana wa Binui; Shimei,"
+        },
+        {
+          "chapter": 10,
+          "verse": 39,
+          "text": "na Shelemia, na Nathani, na Adaya,"
+        },
+        {
+          "chapter": 10,
+          "verse": 40,
+          "text": "na Maknadebai, na Shashai, na Sharai,"
+        },
+        {
+          "chapter": 10,
+          "verse": 41,
+          "text": "na Azareli, na Shelemia, na Shemaria,"
+        },
+        {
+          "chapter": 10,
+          "verse": 42,
+          "text": "na Shalumu, na Amaria, na Yusufu."
+        },
+        {
+          "chapter": 10,
+          "verse": 43,
+          "text": "Na wa wana wa Nebo; Yeieli, na Matithia, na Zabadi, na Zebina, na Ido, na Yoeli, na Benaya."
+        },
+        {
+          "chapter": 10,
+          "verse": 44,
+          "text": "Hao wote walikuwa wameoa wanawake wageni; na wake zao wengine walikuwa wamezaa watoto."
+        }
+      ],
+      "headings": []
+    }
+  ]
+}

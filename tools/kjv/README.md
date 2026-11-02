@@ -70,9 +70,8 @@ official YouVersion Platform API. It fetches one HTML passage per chapter and
 uses YouVersion's `yv-v` milestones for verse boundaries. The comparison does
 not scrape the public website and never modifies edition or Scripture assets.
 
-The API requires a YouVersion Platform App Key and content licenses for both
-Bible ID 1 (`KJV`) and Bible ID 546 (`KJVAAE`). Put the key only in the current
-process environment, then run the validator from the repository root:
+Put the YouVersion Platform App Key only in the current process environment,
+then run the validator from the repository root:
 
 ```powershell
 $env:YVP_APP_KEY = "your-platform-app-key"
@@ -81,8 +80,8 @@ Remove-Item Env:YVP_APP_KEY
 ```
 
 Successful chapter responses and the default `report.json` go under
-`.kjv-biblecom-cache/`, which Git ignores because the cache contains licensed
-Bible text. The cache makes interrupted comparisons resumable. Use `--refresh`
+`.kjv-biblecom-cache/`, which Git ignores. The cache makes interrupted
+comparisons resumable. Use `--refresh`
 to replace it, or `--report` to select another report path. Never place an App
 Key in a command argument, source file, report, or committed environment file.
 
@@ -103,9 +102,8 @@ reviewed one-to-one map exists between YouVersion headings and the overlay's
 separate superscription field. Normalization is deliberately narrow: HTML
 entities, line endings, Unicode NFC, supported presentation wrappers, and
 whitespace at element boundaries. It does not fold punctuation, case, spelling,
-or brackets. Unknown red-letter semantics, bridged verse milestones, a missing
-key, or a missing content license blocks the comparison instead of producing a
-partial pass.
+or brackets. Unknown red-letter semantics, bridged verse milestones, or a
+missing key blocks the comparison instead of producing a partial pass.
 
 Parser and mapping checks require no key and make no network requests:
 

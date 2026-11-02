@@ -408,6 +408,8 @@
     <string name="ui_choose_book">Scegli un libro</string>
     <string name="ui_choose_bible_version">Scegli versione biblica</string>
     <string name="ui_previous_chapter">Capitolo precedente</string>
+    <string name="ui_previous_book">Libro precedente</string>
+    <string name="ui_next_book">Libro successivo</string>
     <string name="ui_next_chapter">Capitolo successivo</string>
     <string name="ui_chapter_position">%1$d / %2$d</string>
     <string name="ui_foundations">Fondamenti</string>

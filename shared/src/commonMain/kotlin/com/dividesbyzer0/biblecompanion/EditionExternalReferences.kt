@@ -11,8 +11,8 @@ private data class ProviderNumberingKey(
 
 /*
  * These rows identify an audited reference-numbering target. They do not claim
- * that similarly named provider editions have identical wording, licensing,
- * or copyright status. In particular, a Linker code alias only selects a
+ * that similarly named provider editions have identical wording. In
+ * particular, a Linker code alias only selects a
  * provider catalog entry; an alias is not evidence of edition identity.
  */
 private val providerNumberingEditions = mapOf(
@@ -26,6 +26,7 @@ private val providerNumberingEditions = mapOf(
   ProviderNumberingKey("en", "biblecom", "KJVAE") to BibleEditions.KJV_1769,
   ProviderNumberingKey("en", "biblecom", "KJVAAE") to BibleEditions.KJV_1769,
   ProviderNumberingKey("en", "biblegateway", "KJV") to BibleEditions.KJV_1769,
+  ProviderNumberingKey("sw", "biblecom", "SUV") to BibleEditions.SUV_1952,
 
   // YouVersion DELUT 51 is documented against the overlay's Psalm numbering.
   // Other books and traditional-looking provider labels remain unverified.
@@ -47,7 +48,7 @@ internal fun providerNumberingEdition(
   // The Linker default is the declared Bible.com numbering authority for the
   // localized base corpus. Require the exact selected code, not an alias or a
   // similar provider label.
-  if (key.readerMode == "biblecom" &&
+  if (key.language != "sw" && key.readerMode == "biblecom" &&
     key.providerCode == Linker.defaultVersionForLanguage(key.language).uppercase()
   ) return BibleEditions.defaultForLanguage(key.language)
   return providerNumberingEditions[key] ?: providerNumberingEditions[key.copy(bookId = null)]

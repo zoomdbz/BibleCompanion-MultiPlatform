@@ -35,7 +35,7 @@ object WidgetStrings {
         "zh-Hant" else "zh-Hans"
     }
     return when (lang) {
-      "es", "fr", "de", "it", "pt", "ru", "ar", "hi", "ja", "ko" -> lang
+      "es", "fr", "de", "it", "pt", "ru", "ar", "hi", "ja", "ko", "sw" -> lang
       else -> "en"
     }
   }
@@ -47,62 +47,62 @@ object WidgetStrings {
       "en" to "Today", "es" to "Hoy", "fr" to "Aujourd’hui", "de" to "Heute",
       "it" to "Oggi", "pt" to "Hoje", "ru" to "Сегодня", "ar" to "اليوم",
       "hi" to "आज", "ja" to "今日", "ko" to "오늘",
-      "zh-Hans" to "今天", "zh-Hant" to "今天"
+      "zh-Hans" to "今天", "zh-Hant" to "今天", "sw" to "Leo"
     ),
     "tomorrow" to mapOf(
       "en" to "Tomorrow", "es" to "Mañana", "fr" to "Demain", "de" to "Morgen",
       "it" to "Domani", "pt" to "Amanhã", "ru" to "Завтра", "ar" to "غدًا",
       "hi" to "कल", "ja" to "明日", "ko" to "내일",
-      "zh-Hans" to "明天", "zh-Hant" to "明天"
+      "zh-Hans" to "明天", "zh-Hant" to "明天", "sw" to "Kesho"
     ),
     "feasts" to mapOf(
       "en" to "Feasts", "es" to "Fiestas", "fr" to "Fêtes", "de" to "Feste",
       "it" to "Feste", "pt" to "Festas", "ru" to "Праздники", "ar" to "الأعياد",
       "hi" to "पर्व", "ja" to "祭り", "ko" to "절기",
-      "zh-Hans" to "节期", "zh-Hant" to "節期"
+      "zh-Hans" to "节期", "zh-Hant" to "節期", "sw" to "Sikukuu"
     ),
     "hebrew" to mapOf(
       "en" to "Hebrew", "es" to "Hebreo", "fr" to "Hébreu", "de" to "Hebräisch",
       "it" to "Ebraico", "pt" to "Hebraico", "ru" to "Иврит", "ar" to "العبرية",
       "hi" to "इब्रानी", "ja" to "ヘブライ", "ko" to "히브리어",
-      "zh-Hans" to "希伯来", "zh-Hant" to "希伯來"
+      "zh-Hans" to "希伯来", "zh-Hant" to "希伯來", "sw" to "Kiebrania"
     ),
     "essene" to mapOf(
       "en" to "Essene", "es" to "Esenio", "fr" to "Essénien", "de" to "Essener",
       "it" to "Esseno", "pt" to "Essênio", "ru" to "Ессеи", "ar" to "إسيني",
       "hi" to "एस्सेन", "ja" to "エッセネ派", "ko" to "에세네",
-      "zh-Hans" to "艾赛尼", "zh-Hant" to "艾賽尼"
+      "zh-Hans" to "艾赛尼", "zh-Hant" to "艾賽尼", "sw" to "Waesene"
     ),
     "karaite" to mapOf(
       "en" to "Karaite", "es" to "Caraíta", "fr" to "Caraïte", "de" to "Karäer",
       "it" to "Caraita", "pt" to "Caraíta", "ru" to "Караимы", "ar" to "قرائيم",
       "hi" to "कराइट", "ja" to "カライ派", "ko" to "카라이",
-      "zh-Hans" to "卡拉派", "zh-Hant" to "卡拉派"
+      "zh-Hans" to "卡拉派", "zh-Hant" to "卡拉派", "sw" to "Wakaraite"
     ),
     "both" to mapOf(
       "en" to "Both", "es" to "Ambos", "fr" to "Les deux", "de" to "Beide",
       "it" to "Entrambi", "pt" to "Ambos", "ru" to "Оба", "ar" to "كلاهما",
       "hi" to "दोनों", "ja" to "両方", "ko" to "둘 다",
-      "zh-Hans" to "两者", "zh-Hant" to "兩者"
+      "zh-Hans" to "两者", "zh-Hant" to "兩者", "sw" to "Zote mbili"
     ),
     "all" to mapOf(
       "en" to "All", "es" to "Todos", "fr" to "Tous", "de" to "Alle",
       "it" to "Tutti", "pt" to "Todos", "ru" to "Все", "ar" to "الكل",
       "hi" to "सभी", "ja" to "すべて", "ko" to "전체",
-      "zh-Hans" to "全部", "zh-Hant" to "全部"
+      "zh-Hans" to "全部", "zh-Hant" to "全部", "sw" to "Zote"
     ),
     "no_feasts" to mapOf(
       "en" to "No feasts", "es" to "Sin fiestas", "fr" to "Aucune fête", "de" to "Keine Feste",
       "it" to "Nessuna festa", "pt" to "Sem festas", "ru" to "Нет праздников", "ar" to "لا أعياد",
       "hi" to "कोई पर्व नहीं", "ja" to "祭りなし", "ko" to "절기 없음",
-      "zh-Hans" to "无节期", "zh-Hant" to "無節期"
+      "zh-Hans" to "无节期", "zh-Hant" to "無節期", "sw" to "Hakuna sikukuu"
     ),
     "feast_calendar" to mapOf(
       "en" to "Feast Calendar", "es" to "Calendario de fiestas", "fr" to "Calendrier des fêtes",
       "de" to "Festkalender", "it" to "Calendario delle feste", "pt" to "Calendário das festas",
       "ru" to "Календарь праздников", "ar" to "تقويم الأعياد", "hi" to "पर्व कैलेंडर",
       "ja" to "祭りカレンダー", "ko" to "절기 달력",
-      "zh-Hans" to "节期日历", "zh-Hant" to "節期日曆"
+      "zh-Hans" to "节期日历", "zh-Hant" to "節期日曆", "sw" to "Kalenda ya sikukuu"
     ),
     "upcoming_feasts" to mapOf(
       "en" to "Upcoming biblical feasts",
@@ -111,14 +111,14 @@ object WidgetStrings {
       "pt" to "Próximas festas bíblicas", "ru" to "Ближайшие библейские праздники",
       "ar" to "الأعياد الكتابية القادمة", "hi" to "आगामी बाइबिल पर्व",
       "ja" to "今後の聖書の祭り", "ko" to "다가오는 성경 절기",
-      "zh-Hans" to "即将到来的圣经节期", "zh-Hant" to "即將到來的聖經節期"
+      "zh-Hans" to "即将到来的圣经节期", "zh-Hant" to "即將到來的聖經節期", "sw" to "Sikukuu za Biblia zinazokaribia"
     ),
     "feast_grid" to mapOf(
       "en" to "Feast Grid", "es" to "Rejilla de fiestas", "fr" to "Grille des fêtes",
       "de" to "Festraster", "it" to "Griglia delle feste", "pt" to "Grade de festas",
       "ru" to "Сетка праздников", "ar" to "شبكة الأعياد", "hi" to "पर्व ग्रिड",
       "ja" to "祭りグリッド", "ko" to "절기 격자",
-      "zh-Hans" to "节期网格", "zh-Hant" to "節期網格"
+      "zh-Hans" to "节期网格", "zh-Hant" to "節期網格", "sw" to "Jedwali la sikukuu"
     ),
     "biblical_feast_grid" to mapOf(
       "en" to "Biblical feast grid", "es" to "Rejilla de fiestas bíblicas",
@@ -127,33 +127,33 @@ object WidgetStrings {
       "ru" to "Сетка библейских праздников", "ar" to "شبكة الأعياد الكتابية",
       "hi" to "बाइबिल पर्व ग्रिड", "ja" to "聖書の祭りグリッド",
       "ko" to "성경 절기 격자",
-      "zh-Hans" to "圣经节期网格", "zh-Hant" to "聖經節期網格"
+      "zh-Hans" to "圣经节期网格", "zh-Hant" to "聖經節期網格", "sw" to "Jedwali la sikukuu za Biblia"
     ),
     "search" to mapOf(
       "en" to "Search", "es" to "Buscar", "fr" to "Rechercher", "de" to "Suche",
       "it" to "Cerca", "pt" to "Buscar", "ru" to "Поиск", "ar" to "بحث",
       "hi" to "खोज", "ja" to "検索", "ko" to "검색",
-      "zh-Hans" to "搜索", "zh-Hant" to "搜尋"
+      "zh-Hans" to "搜索", "zh-Hant" to "搜尋", "sw" to "Tafuta"
     ),
     "bookmarks" to mapOf(
       "en" to "Bookmarks", "es" to "Marcadores", "fr" to "Signets", "de" to "Lesezeichen",
       "it" to "Segnalibri", "pt" to "Marcadores", "ru" to "Закладки", "ar" to "إشارات مرجعية",
       "hi" to "बुकमार्क", "ja" to "ブックマーク", "ko" to "북마크",
-      "zh-Hans" to "书签", "zh-Hant" to "書籤"
+      "zh-Hans" to "书签", "zh-Hant" to "書籤", "sw" to "Alamisho"
     ),
     "continue_reading" to mapOf(
       "en" to "Continue Reading", "es" to "Seguir leyendo", "fr" to "Continuer la lecture",
       "de" to "Weiterlesen", "it" to "Continua a leggere", "pt" to "Continuar a leitura",
       "ru" to "Продолжить чтение", "ar" to "متابعة القراءة", "hi" to "पढ़ना जारी रखें",
       "ja" to "続きを読む", "ko" to "이어 읽기",
-      "zh-Hans" to "继续阅读", "zh-Hant" to "繼續閱讀"
+      "zh-Hans" to "继续阅读", "zh-Hant" to "繼續閱讀", "sw" to "Endelea kusoma"
     ),
     "app_name" to mapOf(
       "en" to "Bible Companion", "es" to "Bible Companion", "fr" to "Bible Companion",
       "de" to "Bible Companion", "it" to "Bible Companion", "pt" to "Bible Companion",
       "ru" to "Bible Companion", "ar" to "Bible Companion", "hi" to "Bible Companion",
       "ja" to "Bible Companion", "ko" to "Bible Companion",
-      "zh-Hans" to "Bible Companion", "zh-Hant" to "Bible Companion"
+      "zh-Hans" to "Bible Companion", "zh-Hant" to "Bible Companion", "sw" to "Bible Companion"
     )
   )
 

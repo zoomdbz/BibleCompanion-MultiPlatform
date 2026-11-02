@@ -16,7 +16,6 @@ of chapter counts.
 - Commit date: `2026-09-18T09:31:36Z`
 - Pinned raw file: <https://raw.githubusercontent.com/STEPBible/STEPBible-Data/b99716b0cddb648ddb95cc786a197180f2f97d48/Versification/TVTMS%20-%20Translators%20Versification%20Traditions%20with%20Methodology%20for%20Standardisation%20for%20Eng%2BHeb%2BLat%2BGrk%2BOthers%20-%20STEPBible.org%20CC%20BY.txt>
 - SHA-256: `63058e0f20201af4bdaa7d830da5be8f493455d947c5f147d84840b33db9ddf8`
-- License: [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
 - Attribution: Data created by STEPBible.org based on work at Tyndale House
   Cambridge.
 

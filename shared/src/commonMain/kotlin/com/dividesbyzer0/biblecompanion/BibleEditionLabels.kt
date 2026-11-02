@@ -9,6 +9,8 @@ internal fun bibleEditionLabel(appLanguage: String, editionId: String): String =
   when (BibleEditions.effective(appLanguage, editionId)) {
     BibleEditions.BSB -> stringResource(Res.string.version_bsb)
     BibleEditions.KJV_1769 -> stringResource(Res.string.version_kjv)
+    BibleEditions.ONEN_2015 -> "ONEN 2015"
+    BibleEditions.SUV_1952 -> "SUV 1952"
     BibleEditions.defaultForLanguage(appLanguage) -> stringResource(Res.string.version_local_modern)
     else -> stringResource(Res.string.version_local_traditional)
   }

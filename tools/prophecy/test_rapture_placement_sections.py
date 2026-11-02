@@ -14,7 +14,7 @@ ROOT = Path(__file__).resolve().parents[2]
 NOTES = ROOT / "shared/assets/notes"
 LANGUAGES = (
     "en", "de", "es", "fr", "it", "pt", "ru", "ja", "ko",
-    "zh-Hans", "zh-Hant", "ar", "hi",
+    "zh-Hans", "zh-Hant", "ar", "hi", "sw",
 )
 HEADING = re.compile(r"^(#{1,6})\s+(.+?)\s*$")
 NUMBERED_PLACEMENT = re.compile(r"^([1-4])\.\s+\S")

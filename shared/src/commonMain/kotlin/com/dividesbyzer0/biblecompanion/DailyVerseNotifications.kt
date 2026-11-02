@@ -116,7 +116,8 @@ object DailyVerseNotifications {
     val edition = verse.editionId ?: BibleEditions.defaultForLanguage(language)
     val labels = labels(context, language)
     for (collection in listOf("old_testament", "new_testament", "deuterocanonical")) {
-      val bookId = ContentRepo.listBooksLocalized(context, collection, "en")
+      val bookId = (ContentRepo.listBooksLocalized(context, collection, language) +
+        ContentRepo.listBooksLocalized(context, collection, "en"))
         .firstOrNull { (_, title) -> title.equals(name, ignoreCase = true) }?.first ?: continue
       val loaded = ContentRepo.loadBookWithEdition(context, collection, bookId, language, edition) ?: continue
       if (loaded.effectiveEdition != edition) continue

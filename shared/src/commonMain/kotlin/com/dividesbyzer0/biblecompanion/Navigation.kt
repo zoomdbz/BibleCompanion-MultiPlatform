@@ -26,6 +26,34 @@ internal fun firstReaderChapterId(book: Book): String? =
     ChapterLocator.build(book).byChapter.minByOrNull { it.key }?.value
         ?: book.stories.firstOrNull()?.id
 
+internal fun lastReaderChapterId(book: Book): String? =
+    ChapterLocator.build(book).byChapter.maxByOrNull { it.key }?.value
+        ?: book.stories.lastOrNull()?.id
+
+internal data class ReaderBookNeighbor(val collection: String, val bookId: String, val title: String)
+
+internal fun readerBookNeighbor(
+    collection: String,
+    bookId: String,
+    books: List<Pair<String, String>>,
+    otherTestamentBooks: List<Pair<String, String>>,
+    forward: Boolean
+): ReaderBookNeighbor? {
+    val index = books.indexOfFirst { it.first == bookId }
+    if (index < 0) return null
+    books.getOrNull(index + (if (forward) 1 else -1))?.let { (id, title) ->
+        return ReaderBookNeighbor(collection, id, title)
+    }
+    val boundaryCollection = when {
+        forward && collection == "old_testament" && bookId == "malachi" -> "new_testament"
+        !forward && collection == "new_testament" && bookId == "matthew" -> "old_testament"
+        else -> return null
+    }
+    val boundaryBookId = if (forward) "matthew" else "malachi"
+    val boundaryBook = otherTestamentBooks.firstOrNull { it.first == boundaryBookId }
+    return boundaryBook?.let { (id, title) -> ReaderBookNeighbor(boundaryCollection, id, title) }
+}
+
 // Encode a route path/query component. Current ids are ASCII-safe but future
 // localized or punctuation-containing ids would otherwise corrupt navigation.
 private fun encPath(s: String): String = urlEncode(s).replace("+", "%20")

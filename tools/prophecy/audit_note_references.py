@@ -1,4 +1,4 @@
-"""Read-only chapter/verse existence checks for the prophecy study assets.
+"""Read-only chapter/verse existence checks for localized study assets.
 
 Uses the app's own localized book-alias tables and bundled edition numbering.
 This is not a replacement for the Kotlin linker's tests or a semantic review of
@@ -21,8 +21,12 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
 ASSETS = ROOT / "shared/assets"
-LANGUAGES = ("en", "de", "es", "fr", "it", "pt", "ru", "ja", "ko", "zh-Hans", "zh-Hant", "ar", "hi")
+LANGUAGES = ("en", "de", "es", "fr", "it", "pt", "ru", "ja", "ko", "zh-Hans", "zh-Hant", "ar", "hi", "sw")
 PAGES = ("revelation_timeline.md", "messianic_prophecy.md", "daniels_timeline.md", "second_coming_rapture.md")
+SINGLE_CHAPTER_BOOKS = {
+    "obadiah", "philemon", "2_john", "3_john", "jude",
+    "letter_of_jeremiah", "prayer_of_manasseh", "psalm_151",
+}
 VERSE_MARKER = re.compile(r"\((\d+):(\d+)(?:[-\u2013](\d+))?\)[.\s]*$")
 TAIL = (
     r"\s*(?P<chapter>\d{1,3})(?!\d)"
@@ -59,9 +63,16 @@ def alias_pattern(language: str):
     if len(english) != len(localized):
         raise ValueError(f"Alias rows do not align for {language}")
     books = {}
-    for collection in ("old_testament", "new_testament", "deuterocanonical"):
+    for collection in ("old_testament", "new_testament", "deuterocanonical",
+                       "apocrypha", "pseudepigrapha"):
         for book_id, title in read_json(ASSETS / f"books/{collection}/en/_index.json"):
+            if not book_id:
+                continue
             books[title.casefold()] = (book_id, collection)
+            # "Esther" is the canonical book, while "Esther (Greek)" is a
+            # separate deuterocanonical book. A shortened title must not
+            # replace an earlier exact canonical title.
+            books.setdefault(title.split(" (")[0].casefold(), (book_id, collection))
     owners = {}
     verse_only = set()
     for en, local in zip(english, localized):
@@ -70,11 +81,17 @@ def alias_pattern(language: str):
         if book is None:
             continue
         for alias in (local["canon"], *local["aliases"], en["canon"], *en["aliases"]):
+            # These English abbreviations are ordinary Swahili conjunctions
+            # and prepositions, so they cannot safely start a book citation.
+            if language == "sw" and alias.casefold() in {"na", "la", "je"}:
+                continue
             # Short aliases can be ordinary words, but they also include French
             # canonical Luc and Japanese ルカ/使徒. Require chapter AND verse for
             # these names instead of silently missing their explicit citations.
             key = normalize(alias).casefold()
             owners.setdefault(key, book)
+            if language in ("ja", "ko", "zh-Hans", "zh-Hant") and " " in alias:
+                owners.setdefault(normalize(alias.replace(" ", "")).casefold(), book)
             if (re.fullmatch(r"[A-Za-z.]{1,3}", alias)
                     or (alias not in (local["canon"], en["canon"]) and len(alias) < 3)):
                 verse_only.add(key)
@@ -86,7 +103,10 @@ def alias_pattern(language: str):
         re.escape(key) + (explicit_verse if key in verse_only else "")
         for key in sorted(owners, key=len, reverse=True)
     )
-    pattern = re.compile(r"(?<![A-Za-z0-9_])(?P<book>" + alternatives + ")" + TAIL, re.I)
+    # In Swahili, a comma after a verse range separates more verses (for
+    # example 26:1-4,51); it is not a chapter/verse separator.
+    tail = TAIL.replace(r"(?::\s*|,)", r":\s*") if language == "sw" else TAIL
+    pattern = re.compile(r"(?<![A-Za-z0-9_])(?P<book>" + alternatives + ")" + tail, re.I)
     return owners, pattern
 
 
@@ -106,10 +126,21 @@ def citations(language: str, text: str) -> list[Citation]:
                 end_chapter, end_verse = end, None
             else:
                 end_verse = end
+        if book in SINGLE_CHAPTER_BOOKS and verse is None:
+            verse, end_verse = chapter, end_chapter
+            chapter = end_chapter = 1
         # "Daniel 360-day years" refers to a calculation, not chapter 360.
         if verse is None and end is None and re.match(r"-\D", scan[match.end():]):
             continue
         result.append(Citation(book, collection, chapter, verse, end_chapter, end_verse, match[0]))
+        if language == "sw" and verse is not None and book not in SINGLE_CHAPTER_BOOKS:
+            rest = scan[match.end():]
+            while extra := re.match(r"\s*,\s*(\d{1,3})(?:\s*[-\u2013]\s*(\d{1,3}))?", rest):
+                first_extra = int(extra[1])
+                last_extra = int(extra[2]) if extra[2] else first_extra
+                result.append(Citation(book, collection, chapter, first_extra, chapter,
+                                       last_extra, f"{match['book']} {chapter}:{extra[0].strip(' ,')}"))
+                rest = rest[extra.end():]
     return result
 
 
@@ -154,16 +185,23 @@ def validate(language: str, citation: Citation) -> list[str]:
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--language", choices=LANGUAGES, action="append")
+    parser.add_argument("--all-notes", action="store_true",
+                        help="Check every localized Markdown study note")
     args = parser.parse_args()
     failures = 0
     for language in args.language or LANGUAGES:
         count = 0
-        for page in PAGES:
+        pages = (sorted(path.name for path in (ASSETS / "notes" / language).glob("*.md"))
+                 if args.all_notes else PAGES)
+        for page in pages:
             path = ASSETS / f"notes/{language}/{page}"
             refs = citations(language, path.read_text(encoding="utf-8-sig"))
             count += len(refs)
             for ref in refs:
-                problems = validate(language, ref)
+                try:
+                    problems = validate(language, ref)
+                except FileNotFoundError:
+                    problems = ["translated book asset absent"]
                 if problems:
                     failures += 1
                     print(f"{language}/{page}: {ref.display}: {'; '.join(problems)}")

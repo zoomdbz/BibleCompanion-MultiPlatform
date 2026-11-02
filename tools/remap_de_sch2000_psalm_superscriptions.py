@@ -21,7 +21,7 @@ GERMAN_ASSETS = ROOT / "shared/assets"
 
 # In SCH2000 these superscriptions are numbered as verse 1. Four of these
 # chapters (51, 52, 54, 60) also have an unrelated missing body verse; this
-# migration leaves those gaps for the licensed Scripture importer.
+# migration leaves those gaps for the Scripture importer.
 CHAPTERS = {
     3, 4, 5, 6, 7, 8, 9, 12, 18, 19, 20, 21, 22, 30, 31, 34, 36, 38, 39,
     40, 41, 42, 44, 45, 46, 47, 48, 49, 51, 52, 53, 54, 55, 56, 57, 58, 59,

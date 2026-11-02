@@ -18,7 +18,7 @@ ROOT = Path(__file__).resolve().parents[2]
 NOTES = ROOT / "shared/assets/notes"
 LANGUAGES = (
     "en", "de", "es", "fr", "it", "pt", "ru", "ja", "ko",
-    "zh-Hans", "zh-Hant", "ar", "hi",
+    "zh-Hans", "zh-Hant", "ar", "hi", "sw",
 )
 PAGE = "second_coming_rapture.md"
 BASELINE = "0d6328bf355be426bdb8d5a4acf9af8bbc81f356"
@@ -92,6 +92,8 @@ class SecondComingTribulationTests(unittest.TestCase):
         if not available:
             self.skipTest("Preservation baseline absent in shallow checkout")
         for language in LANGUAGES:
+            if language == "sw":
+                continue  # This new locale has no file in the historical commit.
             with self.subTest(language=language):
                 relative = f"shared/assets/notes/{language}/{PAGE}"
                 original = subprocess.run(

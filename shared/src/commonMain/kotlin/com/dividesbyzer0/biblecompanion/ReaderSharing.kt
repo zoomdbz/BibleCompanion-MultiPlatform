@@ -32,7 +32,8 @@ internal fun readerShareLinks(
   if (source !in BibleEditions.available(language)) return emptyList()
   val externalMode = prefs.readerMode.trim().lowercase()
     .takeIf { it == "biblecom" || it == "biblegateway" }
-  val provider = externalMode ?: normalizeVerseShareProvider(prefs.verseShareProvider)
+  val provider = if (language == "sw") "biblecom"
+    else externalMode ?: normalizeVerseShareProvider(prefs.verseShareProvider)
   val defaultVersion = when {
     language == "en" && source == BibleEditions.KJV_1769 -> "KJV"
     provider == "biblegateway" -> Linker.defaultGatewayVersionForLanguage(language)
@@ -147,7 +148,11 @@ internal fun buildReaderShareText(
       } else {
         ReaderShareBlockKey(bookName, null, story.id)
       }
-      val text = stripScriptureInlineTags(readerTextWithoutTrailingAnchor(raw, parsed)).trim()
+      val visibleText = applyDivineName(
+        readerTextWithoutTrailingAnchor(raw, parsed), prefs.divineName, language,
+        colorActive = false, collection = collection
+      )
+      val text = stripScriptureInlineTags(visibleText).trim()
       blocks.getOrPut(key) { mutableListOf() } += ReaderShareUnit(
         story.title, storyReference, bookName, anchor, text
       )
@@ -221,6 +226,8 @@ internal fun readerShareEditionLabel(language: String, sourceEdition: String): S
     BibleEditions.KOR_RV -> "KRV"
     BibleEditions.CUV -> "CUV"
     BibleEditions.VAN_DYCK -> "Van Dyck"
+    BibleEditions.ONEN_2015 -> "ONEN 2015"
+    BibleEditions.SUV_1952 -> "SUV 1952"
     BibleEditions.defaultForLanguage(language) -> Linker.defaultVersionForLanguage(language)
     else -> edition
   }

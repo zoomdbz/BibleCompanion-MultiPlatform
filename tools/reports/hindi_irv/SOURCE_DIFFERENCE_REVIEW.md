@@ -6,8 +6,6 @@ source-backed lexical repair is recorded below.
 
 - Source: <https://ebible.org/Scriptures/hin2017_usfm.zip>
 - SHA-256: `4B284BEE6D52D8DAE3425D540E6743836E614694EEFF9C55D2395071A76BF07F`
-- License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
-- Rights: <https://ebible.org/hin2017/copyright.htm>
 - Verse units: 31,104 app and 31,104 source
 - Strict exact matches: 28,448
 - Strict differences reviewed: 2,656

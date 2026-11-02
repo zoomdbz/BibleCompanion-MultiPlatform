@@ -15,6 +15,7 @@ class BibleEditionOptionsTest {
     assertEquals("zh-Hans", LocaleUtils.effectiveAssetTag("zh-CN"))
     assertEquals("zh-Hans", LocaleUtils.effectiveAssetTag("zh-Hans-TW"))
     assertEquals("zh-Hant", LocaleUtils.effectiveAssetTag("zh-Hant-CN"))
+    assertEquals("sw", LocaleUtils.effectiveAssetTag("sw-TZ"))
     assertEquals("xx-yy", LocaleUtils.effectiveAssetTag("xx-YY"))
   }
 
@@ -33,7 +34,8 @@ class BibleEditionOptionsTest {
       "zh-Hans" to "ccb",
       "zh-Hant" to "rcuv",
       "ar" to "sab",
-      "hi" to "irvhin"
+      "hi" to "irvhin",
+      "sw" to BibleEditions.ONEN_2015
     )
     defaults.forEach { (language, edition) ->
       assertEquals(edition, BibleEditions.defaultForLanguage(language))
@@ -58,6 +60,7 @@ class BibleEditionOptionsTest {
     assertEquals(listOf("rcuv", BibleEditions.CUV), BibleEditions.available("zh-Hant"))
     assertEquals(listOf("sab", BibleEditions.VAN_DYCK), BibleEditions.available("ar"))
     assertEquals(listOf("irvhin"), BibleEditions.available("hi"))
+    assertEquals(listOf(BibleEditions.ONEN_2015, BibleEditions.SUV_1952), BibleEditions.available("sw"))
     assertEquals("nvi", BibleEditions.selectedForLanguage("es", BibleEditions.KJV_1769))
     assertEquals(BibleEditions.RV_1909, BibleEditions.selectedForLanguage("es", BibleEditions.RV_1909))
     assertEquals(true, BibleEditions.isAlternate("es", BibleEditions.RV_1909))

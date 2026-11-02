@@ -59,6 +59,12 @@ object SemanticCache {
 
 object EmbeddingSearch {
 
+    // The multilingual model can compare Swahili queries with the bundled
+    // English passage index. All 1,189 English metadata story identities have
+    // matching Swahili books and stories; result rendering stays in Swahili.
+    internal fun indexAssetLanguage(lang: String): String =
+        if (LocaleUtils.effectiveAssetTag(lang) == "sw") "en" else lang
+
     private const val DIM = 384
     private const val BOS_ID = 0
     private const val EOS_ID = 2
@@ -408,7 +414,7 @@ object EmbeddingSearch {
     // --- Loading ---
 
     private fun loadEmbeddings(context: PlatformContext, lang: String) {
-        val bytes = readAssetBytes(context, "embedding/embeddings_$lang.bin") ?: return
+        val bytes = readAssetBytes(context, "embedding/embeddings_${indexAssetLanguage(lang)}.bin") ?: return
         if (bytes.size < 24) return
         if (bytes[0] != 'B'.code.toByte() || bytes[1] != 'C'.code.toByte()) return
         embCount = readI32(bytes, 8)
@@ -423,7 +429,7 @@ object EmbeddingSearch {
     }
 
     private fun loadMetadata(context: PlatformContext, lang: String) {
-        val text = readAssetText(context, "embedding/metadata_$lang.json") ?: return
+        val text = readAssetText(context, "embedding/metadata_${indexAssetLanguage(lang)}.json") ?: return
         val arr = Json.parseToJsonElement(text).jsonArray
         meta = arr.map { el ->
             val obj = el.jsonObject

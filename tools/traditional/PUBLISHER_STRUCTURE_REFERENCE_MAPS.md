@@ -24,7 +24,7 @@ The source and target must each contain the same complete native units.
 
 The publisher structure cache came from BibleGateway audits on 2026-09-25.
 Every cached chapter carries the canonical URL and version, page SHA-256,
-native marker spans, marker text hashes, and version/copyright metadata.
+native marker spans, marker text hashes, and version metadata.
 The local `.scripture-structure-cache` directory is ignored; it is **not**
 committed. The JSON provenance pins the deterministic aggregate SHA-256 over
 sorted structure-root-relative paths, NUL, exact file bytes, NUL:
@@ -35,7 +35,7 @@ sorted structure-root-relative paths, NUL, exact file bytes, NUL:
 | NR2006 | `402D5927149F8148CA07B0DF85C5E7A8EC5006A538814D9E1AC48E73A8C3952B` |
 | NRT | `2203B340713936EB2957F62C9463F13F8F1E9B1EFEDB8EA5EC735295D157F634` |
 
-The traditional archives are the importer-pinned public-domain eBible USFM
+The traditional archives are the importer-pinned eBible USFM
 sources. German and Russian additionally quarantine chapters named in the
 pinned CrossWire Luther and Synodal versification tables. For Italian, the
 already-reviewed Job shift remains in its separate exception map; the new

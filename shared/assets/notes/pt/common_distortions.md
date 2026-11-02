@@ -43,88 +43,88 @@ Permaneçam firmes na fé entregue de uma vez por todas aos santos (Judas 3).
 ---
 
 ## Uma vez salvo, sempre salvo
-(João 10:28–29): «Eu lhes dou a vida eterna; jamais perecerão, e ninguém as arrebatará da minha mão. Meu Pai, que mas deu, é maior do que todos; e ninguém pode arrebatá-las da mão de meu Pai.»
+(João 10:28–29): «Eu lhes dou a vida eterna, e elas nunca morrerão. Ninguém pode arrancá-las de minha mão, pois meu Pai as deu a mim, e ele é mais poderoso que todos. Ninguém pode arrancá-las da mão de meu Pai.»
 
 - Como é usado: Este versículo e outros são citados para afirmar que um único momento de fé garante a salvação para sempre, não importando como a pessoa viva depois. Muitas vezes é usado para desculpar o pecado e dar uma falsa segurança àqueles que vivem em desobediência.
 
-- A verdade: A Escritura realmente ensina a segurança do verdadeiro crente. Jesus disse que ninguém pode arrebatar as suas ovelhas da sua mão (João 10:28–29); ele não perde nenhum daqueles que o Pai lhe dá (João 6:39); e os crentes são guardados pelo poder de Deus, não pelo próprio (1 Pedro 1:5; Filipenses 1:6). Portanto, no sentido verdadeiro, sim: uma vez verdadeiramente salvo, sempre salvo, porque o próprio Cristo os sustenta. A distorção não é a segurança eterna; é usar uma única profissão de fé para desculpar uma vida de pecado sem arrependimento. As advertências da Escritura não ameaçam o verdadeiramente salvo com a perda da salvação; elas expõem a profissão vazia ou falsa. Aqueles que se afastam mostram que nunca foram verdadeiramente da fé. A fé salvadora genuína persevera e produz fruto.
+- A verdade: Jesus promete que ninguém pode arrebatar suas ovelhas de sua mão (João 10:28-29), que não perderá nenhum dos que lhe foram dados (João 6:39) e que Deus protege os crentes por meio da fé (1 Pedro 1:5; Filipenses 1:6). O mesmo Novo Testamento adverte contra o pecado deliberado, a falta de permanência em Cristo e a apostasia (Hebreus 6:4-6; Hebreus 10:26-27; João 15:6). 1 João 2:19 diz que os que saíram daquela comunidade não pertenciam a ela; o versículo não explica explicitamente todas as passagens de advertência. Uma antiga profissão de fé não pode servir de desculpa para uma vida contínua de pecado sem arrependimento.
 
-- (João 6:39): «E esta é a vontade de quem me enviou: que eu não perca nenhum de todos os que ele me deu, mas que eu os ressuscite no último dia.»
+- (João 6:39): «E esta é a vontade de Deus: que eu não perca um sequer de todos que ele me deu, mas que ressuscite todos no último dia.»
 
-- (1 Pedro 1:5): «que sois guardados pelo poder de Deus, mediante a fé, para a salvação preparada para revelar-se no último tempo.»
+- (1 Pedro 1:5): «Por meio da fé que vocês têm, Deus os protege com seu poder até que recebam essa salvação, pronta para ser revelada nos últimos tempos.»
 
-- (1 João 2:19): «Saíram de nosso meio, mas não eram dos nossos; porque, se tivessem sido dos nossos, teriam permanecido conosco. Mas saíram para que se tornasse claro que nenhum deles é dos nossos.»
+- (1 João 2:19): «Eles saíram de nosso meio, mas, na verdade, nunca foram dos nossos; do contrário, teriam permanecido conosco. Quando saíram, mostraram que não eram dos nossos.»
 
-- As advertências abaixo não são uma ameaça contra as ovelhas seguras de Cristo, mas um chamado para examinar se a própria fé é real e perseverante, pois a fé verdadeira sempre produz fruto:
+- As advertências abaixo chamam ao autoexame e à perseverança:
 
-- (Tiago 2:17): «Assim também a fé, se não tiver obras, por si só está morta.»
+- (Tiago 2:17): «Como veem, a fé por si mesma, a menos que produza boas obras, está morta.»
 
-- (Hebreus 6:4–6): «É impossível que aqueles que uma vez foram iluminados, provaram o dom celestial, se tornaram participantes do Espírito Santo, provaram a boa palavra de Deus e os poderes do mundo vindouro, e caíram, sejam outra vez renovados para arrependimento, visto que, de novo, estão crucificando para si mesmos o Filho de Deus e expondo-o à vergonha pública.»
+- (Hebreus 6:4–6): «Pois é impossível trazer de volta ao arrependimento aqueles que já foram iluminados, que já experimentaram as dádivas celestiais e se tornaram participantes do Espírito Santo, que provaram a bondade da palavra de Deus e os poderes do mundo por vir, e que depois se desviaram. Sim, é impossível trazê-los de volta ao arrependimento, pois, ao rejeitar o Filho de Deus, eles voltaram a pregá-lo na cruz, expondo-o à vergonha pública.»
 
-- (Hebreus 10:26–27): «Porque, se vivermos deliberadamente em pecado depois de termos recebido o pleno conhecimento da verdade, já não resta sacrifício pelos pecados, mas uma terrível expectativa de juízo e de fogo ardente que há de devorar os adversários.»
+- (Hebreus 10:26–27): «Se continuamos a pecar deliberadamente depois de ter recebido o conhecimento da verdade, já não há sacrifício que cubra esses pecados. Há somente a assustadora expectativa do julgamento e do fogo intenso que consumirá os inimigos.»
 
-- (Mateus 7:21–23): «Nem todo o que me diz: “Senhor, Senhor!” entrará no reino dos céus, mas aquele que faz a vontade de meu Pai, que está nos céus. Muitos, naquele dia, hão de me dizer: “Senhor, Senhor, não profetizamos nós em teu nome? E em teu nome não expulsamos demônios? E em teu nome não fizemos muitos milagres?” Então lhes direi claramente: “Nunca vos conheci. Apartai-vos de mim, vós que praticais a iniquidade.”»
+- (Mateus 7:21–23): «“Nem todos que me chamam: ‘Senhor! Senhor!’ entrarão no reino dos céus, mas apenas aqueles que, de fato, fazem a vontade de meu Pai, que está no céu. No dia do juízo, muitos me dirão: ‘Senhor! Senhor! Não profetizamos em teu nome, não expulsamos demônios em teu nome e não realizamos muitos milagres em teu nome?’. Eu, porém, responderei: ‘Nunca os conheci. Afastem-se de mim, vocês que desobedecem à lei!’.”»
 
-- (João 15:6): «Se alguém não permanecer em mim, será lançado fora, como o ramo, e secará; esses ramos são apanhados, lançados no fogo e queimados.»
+- (João 15:6): «Quem não permanece em mim é jogado fora, como um ramo imprestável, e seca. Esses ramos são ajuntados num monte para serem queimados.»
 
-- (1 Coríntios 9:27): «Mas esmurro o meu corpo e o reduzo à escravidão, para que, tendo pregado a outros, eu mesmo não venha a ser desqualificado.»
+- (1 Coríntios 9:27): «Disciplino meu corpo como um atleta, treinando-o para fazer o que deve, de modo que, depois de ter pregado a outros, eu mesmo não seja desqualificado.»
 
-- (Gálatas 5:19–21): «Ora, as obras da carne são manifestas, as quais são: prostituição, impureza, lascívia, idolatria, feitiçaria, inimizades, porfias, ciúmes, iras, discórdias, dissensões, facções, invejas, bebedices, orgias e coisas semelhantes a estas, a respeito das quais eu vos declaro, como já antes vos preveni, que os que praticam tais coisas não herdarão o reino de Deus.»
+- (Gálatas 5:19–21): «Quando seguem os desejos da natureza humana, os resultados são extremamente claros: imoralidade sexual, impureza, sensualidade, idolatria, feitiçaria, hostilidade, discórdias, ciúmes, acessos de raiva, ambições egoístas, dissensões, divisões, inveja, bebedeiras, festanças desregradas e outros pecados semelhantes. Repito o que disse antes: quem pratica essas coisas não herdará o reino de Deus.»
 
-- (Apocalipse 3:5): «O vencedor será assim vestido de vestiduras brancas, e de modo nenhum apagarei o seu nome do livro da vida; pelo contrário, confessarei o seu nome diante de meu Pai e diante dos seus anjos.»
+- (Apocalipse 3:5): «O vitorioso será vestido de branco. Jamais apagarei seu nome do Livro da Vida e confirmarei, diante de meu Pai e de seus anjos, que ele me pertence.»
 
 ---
 
 ## Nacionalismo e Jeremias 29:7
-(Jeremias 29:7): «Procurai a paz da cidade para onde vos exilei e orai por ela ao SENHOR; porque na sua paz vós tereis paz.»
+(Jeremias 29:7): «Trabalhem pela paz e pela prosperidade da cidade para a qual os deportei. Orem por ela ao Senhor, pois a prosperidade de vocês depende da prosperidade dela”.»
 
-- Como é usado: Citado para promover nacionalismo, como se Deus abençoasse uma nação acima das outras.
+- Como é usado: Citado para promover o nacionalismo, como se Jeremias 29:7 prometesse favor divino a uma nação moderna acima de seus vizinhos.
 
 - A verdade: Jeremias estava se dirigindo aos exilados judeus na **Babilônia**, dizendo-lhes para orarem por uma terra *estrangeira* que os havia conquistado. O chamado era à humildade e fidelidade no exílio, não à supremacia nacional.
 
-- (Gênesis 12:3): «Abençoarei os que te abençoarem e amaldiçoarei o que te amaldiçoar; em ti serão benditas todas as famílias da terra.»
+- (Gênesis 12:3): «Abençoarei os que o abençoarem e amaldiçoarei os que o amaldiçoarem. Por meio de você, todas as famílias da terra serão abençoadas”.»
 
-- (Apocalipse 7:9): «Depois destas coisas olhei, e eis grande multidão que ninguém podia contar, de todas as nações, tribos, povos e línguas, em pé diante do trono e diante do Cordeiro, vestidos de vestiduras brancas e com palmas nas mãos.»
+- (Apocalipse 7:9): «Depois disso, vi uma imensa multidão, grande demais para ser contada, de todas as nações, tribos, povos e línguas, em pé diante do trono e diante do Cordeiro. Usavam vestes brancas e seguravam ramos de palmeiras.»
 
-- (Filipenses 3:20): «Pois a nossa pátria está nos céus, de onde também aguardamos o Salvador, o Senhor Jesus Cristo.»
+- (Filipenses 3:20): «Nossa cidadania, no entanto, vem do céu, e de lá aguardamos ansiosamente a volta do Salvador, o Senhor Jesus Cristo.»
 
 ---
 
 ## Autoridade e Romanos 13:1–2
-(Romanos 13:1–2): «Todo homem esteja sujeito às autoridades superiores; porque não há autoridade que não proceda de Deus, e as autoridades que existem foram por ele instituídas. De modo que aquele que resiste à autoridade resiste à ordenação de Deus; e os que resistem trarão sobre si mesmos condenação.»
+(Romanos 13:1–2): «Todos devem sujeitar-se às autoridades, pois toda autoridade vem de Deus, e aqueles que ocupam cargos de autoridade foram ali colocados por ele. Portanto, quem se rebela contra a autoridade se rebela contra o Deus que a instituiu e será punido.»
 
 - Como é usado: Para exigir obediência cega ao governo, mesmo a regimes injustos.
 
 - A verdade: Paulo afirma a ordem de autoridade de Deus, mas os governantes também prestam contas a Deus. Os cristãos obedecem ao governo, a menos que obedecer signifique desobedecer a Deus.
 
-- (Atos 5:29): «Então Pedro e os demais apóstolos afirmaram: Importa obedecer a Deus antes que aos homens.»
+- (Atos 5:29): «Pedro e os apóstolos responderam: “Devemos obedecer a Deus antes de qualquer autoridade humana.»
 
-- (Daniel 3:16–18): «Responderam Sadraque, Mesaque e Abede-Nego ao rei: Ó Nabucodonosor, quanto a isto não necessitamos te responder. Se o nosso Deus, a quem servimos, quer livrar-nos, ele nos livrará da fornalha de fogo ardente e das tuas mãos, ó rei. E, se não, fica sabendo, ó rei, que não serviremos a teus deuses, nem adoraremos a imagem de ouro que levantaste.»
+- (Daniel 3:16–18): «Sadraque, Mesaque e Abede-Nego responderam: “Ó Nabucodonosor, não precisamos nos defender diante do rei. Se formos lançados na fornalha ardente, o Deus a quem servimos pode nos salvar. Sim, ele nos livrará de suas mãos, ó rei. Mas, ainda que ele não nos livre, queremos deixar claro, ó rei, que jamais serviremos seus deuses ou adoraremos a estátua de ouro que o rei levantou”.»
 
-- (Daniel 6:10): «Daniel, pois, quando soube que a escritura estava assinada, entrou em sua casa; e, no seu quarto, em cima, onde havia janelas abertas para Jerusalém; três vezes por dia se punha de joelhos, orava e dava graças diante do seu Deus, como costumava fazer.»
+- (Daniel 6:10): «Quando Daniel soube que a lei tinha sido assinada, foi para casa e, como de costume, ajoelhou-se no quarto no andar de cima, com as janelas abertas na direção de Jerusalém. Orava três vezes por dia e dava graças a seu Deus.»
 
-- (Apocalipse 13:4–8): «E adoraram o dragão, porque deu a sua autoridade à besta; também adoraram a besta, dizendo: Quem é semelhante à besta? Quem pode pelejar contra ela? Foi-lhe dada uma boca que proferia arrogâncias e blasfêmias, e deu-se-lhe autoridade para atuar quarenta e dois meses. E abriu a boca em blasfêmias contra Deus, para blasfemar do seu nome e do seu tabernáculo, a saber, dos que habitam no céu. Foi-lhe permitido fazer guerra aos santos e vencê-los; deu-se-lhe autoridade sobre cada tribo, povo, língua e nação. E adorá-la-ão todos os que habitam sobre a Terra, aqueles cujos nomes não estão escritos no livro da vida do Cordeiro que foi morto desde a fundação do mundo.»
+- (Apocalipse 13:4–8): «Adoraram o dragão por ter dado à besta tamanho poder, e também a adoraram. “Quem é tão grande como a besta?”, diziam. “Quem é capaz de lutar contra ela?” Então foi permitido à besta falar grandes blasfêmias, e lhe foi dada autoridade para fazer o que quisesse durante 42 meses. Ela blasfemou terrivelmente contra Deus, difamando seu nome, seu tabernáculo e os que habitam no céu. Foi permitido à besta guerrear contra o povo santo e vencê-lo, e ela recebeu autoridade para governar sobre toda tribo, povo, língua e nação. E todos os habitantes da terra adoraram a besta. São eles os que não têm os nomes escritos no Livro da Vida que pertence ao Cordeiro, que foi morto antes da criação do mundo.»
 
 - A obediência à autoridade é condicional: a lei de Deus é superior à lei humana.
 
 ---
 
 ## Liderança e «Não toqueis nos meus ungidos»
-(Salmo 105:15): «Não toqueis nos meus ungidos, nem maltrateis os meus profetas.»
+(Salmo 105:15): «“Não toquem em meu povo escolhido, não façam mal a meus profetas”.»
 
-(1 Samuel 24:6): «E disse aos seus homens: O SENHOR me guarde de que eu faça tal coisa ao meu senhor, ao ungido do SENHOR, estendendo a minha mão contra ele, pois é o ungido do SENHOR.»
+(1 Samuel 24:6): «Por isso, disse a seus homens: “Que o Senhor me livre de fazer tal coisa a meu senhor, o ungido do Senhor, e atacar aquele que o Senhor ungiu como rei”.»
 
 - Como é usado: Pastores e líderes autoritários citam isto para silenciar críticas, alegando serem intocáveis.
 
-- A verdade: Esses versículos advertem contra **violência física**, não contra prestação de contas honesta. Líderes ainda devem ser corrigidos quando pecam.
+- A verdade: Em 1 Samuel 24:6, Davi se recusa a ferir Saul. O Salmo 105:13-15 relata a proteção de Deus ao seu povo enquanto ele passava entre reinos. Nenhuma dessas passagens concede a líderes atuais imunidade à prestação de contas. Líderes ainda devem ser corrigidos quando pecam.
 
-- (1 Timóteo 5:20): «Aos que vivem no pecado, repreende-os na presença de todos, para que também os demais temam.»
+- (1 Timóteo 5:20): «Aqueles que pecarem devem ser repreendidos diante de todos, o que servirá de forte advertência para os demais.»
 
-- (Gálatas 2:11): «Quando, porém, Cefas veio a Antioquia, resisti-lhe face a face, porque se tornara repreensível.»
+- (Gálatas 2:11): «Mas, quando Pedro veio a Antioquia, tive de opor-me a ele abertamente, pois o que ele fez foi muito errado.»
 
-- (Ezequiel 34:2–4): «Filho do homem, profetiza contra os pastores de Israel; profetiza e dize-lhes: Assim diz o Senhor DEUS: Ai dos pastores de Israel que se apascentam a si mesmos! Não devem os pastores apascentar as ovelhas? Comeis a gordura, vestis-vos da lã e degolais o cevado; mas não apascentais as ovelhas. A fraca não fortalecestes, a doente não curastes, a quebrada não ligastes, a desgarrada não tornastes a trazer, a perdida não buscastes; mas dominais sobre elas com rigor e dureza.»
+- (Ezequiel 34:2–4): «“Filho do homem, profetize contra os pastores, os líderes de Israel. Transmita-lhes esta mensagem do Senhor Soberano: Que aflição os espera, pastores que alimentam a si mesmos! Acaso os pastores não deveriam alimentar seu rebanho? Vocês bebem o leite, vestem-se com a lã e abatem os melhores animais, mas deixam seu rebanho passar fome. Não cuidaram das ovelhas fracas, não curaram as doentes nem enfaixaram as que estavam feridas. Não foram procurar as que se desgarraram e se perderam. Em vez disso, conduziram-nas com dureza e crueldade.»
 
-- (Marcos 10:42–45): «Chamando-os, Jesus lhes disse: Sabeis que os que são reconhecidos como governadores dos povos exercem domínio sobre eles, e os seus grandes exercem autoridade sobre eles. Mas entre vós não será assim; pelo contrário, quem quiser tornar-se grande entre vós, será esse o que vos sirva; e quem quiser ser o primeiro entre vós, será servo de todos. Pois o Filho do Homem não veio para ser servido, mas para servir e dar a sua vida em resgate por muitos.»
+- (Marcos 10:42–45): «Então Jesus os reuniu e disse: “Vocês sabem que os que são considerados líderes neste mundo têm poder sobre o povo, e que os oficiais exercem sua autoridade sobre os súditos. Entre vocês, porém, será diferente. Quem quiser ser o líder entre vocês, que seja servo, e quem quiser ser o primeiro entre vocês, que se torne escravo de todos. Pois nem mesmo o Filho do Homem veio para ser servido, mas para servir e dar sua vida em resgate por muitos”.»
 
 - A Escritura nunca concede imunidade de correção aos líderes. Verdadeiros pastores são servos, não ditadores.
 
@@ -132,115 +132,123 @@ Permaneçam firmes na fé entregue de uma vez por todas aos santos (Judas 3).
 
 ## Guerras Santas e Conversões Forçadas
 
-- Como é usado: Passagens sobre a conquista de Israel (Deuteronômio 20:16–18; Josué 6:21) foram usadas para justificar as Cruzadas, enquanto Lucas 14:23 («Força-os a entrar») foi usado na Inquisição para justificar conversões forçadas.
+- Como é usado: Passagens sobre a conquista de Israel (Deuteronômio 20:16–18; Josué 6:21) foram usadas para justificar as Cruzadas, enquanto Lucas 14:23 («insista com todos que encontrar para que venham») foi usado na Inquisição para justificar conversões forçadas.
 
 - A verdade: A conquista de Israel foi um ato único do juízo de Deus, não um modelo para a guerra cristã. Jesus rejeitou explicitamente avançar seu Reino pela violência. A parábola em Lucas 14 trata do convite de Deus, não de coação literal.
 
-- (João 18:36): «Respondeu Jesus: O meu reino não é deste mundo; se o meu reino fosse deste mundo, os meus servos lutariam para que eu não fosse entregue aos judeus; mas agora o meu reino não é daqui.»
+- (João 18:36): «Jesus respondeu: “Meu reino não é deste mundo. Se fosse, meus seguidores lutariam para impedir que eu fosse entregue aos líderes judeus. Mas meu reino não procede deste mundo”.»
 
-- (2 Coríntios 10:4): «Porque as armas da nossa milícia não são carnais, e sim poderosas em Deus, para destruir fortalezas.»
+- (2 Coríntios 10:4): «Usamos as armas poderosas de Deus, e não as armas do mundo, para derrubar as fortalezas do raciocínio humano e acabar com os falsos argumentos.»
 
-- (Efésios 6:12): «Porque a nossa luta não é contra o sangue e a carne, e sim contra os principados e potestades, contra os dominadores deste mundo tenebroso, contra as forças espirituais do mal nas regiões celestiais.»
+- (Efésios 6:12): «Pois nós não lutamos contra inimigos de carne e sangue, mas contra governantes e autoridades do mundo invisível, contra grandes poderes neste mundo de trevas e contra espíritos malignos nas esferas celestiais.»
 
-- (Mateus 28:19–20): «Ide, portanto, fazei discípulos de todas as nações, batizando-os em nome do Pai, e do Filho, e do Espírito Santo; ensinando-os a guardar todas as coisas que vos tenho ordenado. E eis que estou convosco todos os dias até à consumação do século.»
+- (Mateus 28:19–20): «Portanto, vão e façam discípulos de todas as nações, batizando-os em nome do Pai, do Filho e do Espírito Santo. Ensinem esses novos discípulos a obedecerem a todas as ordens que eu lhes dei. E lembrem-se disto: estou sempre com vocês, até o fim dos tempos”.»
 
 ---
 
 ## Cobiça e 1 Timóteo 6:10
-(1 Timóteo 6:10): «Porque o amor ao dinheiro é raiz de todos os males; e alguns, nessa cobiça, se desviaram da fé e a si mesmos se transpassaram com muitas dores.»
+(1 Timóteo 6:10): «Pois o amor ao dinheiro é a raiz de todo mal. E alguns, por tanto desejarem dinheiro, desviaram-se da fé e afligiram a si mesmos com muitos sofrimentos.»
 
 - Como é usado: Mal citado como «o dinheiro é a raiz de todo mal», culpando a riqueza em si.
 
 - A verdade: Paulo adverte contra o *amor* ao dinheiro, a cobiça que afasta da fé. O dinheiro em si pode ser usado para o bem ou para o mal. Outras passagens confirmam esse equilíbrio.
 
-- (Eclesiastes 5:10): «Quem ama o dinheiro jamais dele se farta; e quem ama a abundância nunca se farta da renda; também isto é vaidade.»
+- (Eclesiastes 5:10): «Quem ama o dinheiro nunca terá o suficiente. Quem ama a riqueza nunca se satisfará com o que ganha. Não faz sentido viver desse modo!»
 
-- (Provérbios 30:8–9): «Afasta de mim a falsidade e a mentira; não me dês nem a pobreza nem a riqueza; dá-me o pão que me for necessário; para não suceder que, estando eu farto, te negue e diga: Quem é o SENHOR? ou que, empobrecido, venha a furtar e profane o nome de Deus.»
+- (Provérbios 30:8–9): «Primeiro, ajuda-me a ficar longe da falsidade e da mentira. Segundo, não me dês nem pobreza nem riqueza; dá-me apenas o que for necessário. Pois, se eu ficar rico, pode ser que te negue e diga: “Quem é o Senhor?”. E, se eu for pobre demais, pode ser que roube e, com isso, desonre o nome do meu Deus.»
 
-- (Lucas 12:15): «Então lhes recomendou: Tende cuidado e guardai-vos de toda e qualquer avareza; porque a vida de um homem não consiste na abundância dos bens que ele possui.»
+- (Lucas 12:15): «Em seguida, disse: “Cuidado! Guardem-se de todo tipo de ganância. A vida de uma pessoa não é definida pela quantidade de seus bens”.»
 
 ---
 
-## Julgamento e Mateus 7:1
-(Mateus 7:1): «Não julgueis, para que não sejais julgados.»
+## «Não julgueis» e Mateus 7:1
+(Mateus 7:1): «“Não julguem para não serem julgados,»
 
 - Como é usado: Citado para silenciar cristãos de apontarem o pecado, como se todo julgamento fosse proibido.
 
 - A verdade: Jesus condena o **julgamento hipócrita** (Mateus 7:2–5), não o discernimento. A Bíblia distingue entre repreensão, discernimento e condenação.
 
-- **Repreender o pecado**: (Efésios 5:11): «E não participeis das obras infrutíferas das trevas; antes, porém, reprovai-as.»
+- **Repreender o pecado**: (Efésios 5:11): «Não participem dos feitos inúteis do mal e da escuridão; antes, mostrem sua reprovação expondo-os à luz.»
 
-- **Repreender o pecado**: (2 Timóteo 4:2): «Prega a palavra, insta, quer seja oportuno, quer não, corrige, repreende, exorta, com toda longanimidade e doutrina.»
+- **Repreender o pecado**: (2 Timóteo 4:2): «pregue a palavra. Esteja preparado, quer a ocasião seja favorável, quer não. Corrija, repreenda e encoraje com paciência e bom ensino.»
 
-- **Discernir a verdade**: (João 7:24): «Não julgueis segundo a aparência, e sim julgai segundo a reta justiça.»
+- **Repreender o pecado**: (Lucas 17:3): «Portanto, tenham cuidado! “Se um irmão pecar, repreenda-o e, se ele se arrepender, perdoe-o.»
 
-- **Discernir a verdade**: (Hebreus 5:14): «Mas o alimento sólido é para os adultos, para aqueles que, pela prática, têm as suas faculdades exercitadas para discernir não somente o bem, mas também o mal.»
+- **Repreender o pecado**: (Mateus 18:15–17): «Se um irmão pecar contra você, fale com ele em particular e chame-lhe a atenção para o erro. Se ele o ouvir, você terá recuperado seu irmão. Mas, se ele não o ouvir, leve consigo um ou dois outros e fale com ele novamente, para que tudo que você disser seja confirmado por duas ou três testemunhas. Se ainda assim ele se recusar a ouvir, apresente o caso à igreja. Então, se ele não aceitar nem mesmo a decisão da igreja, trate-o como gentio ou como cobrador de impostos.»
 
-- **Deixar a condenação para Deus**: (Tiago 4:12): «Um só é legislador e juiz, aquele que pode salvar e fazer perecer; tu, porém, quem és, que julgas o teu próximo?»
+- **Julgar os de dentro da igreja**: (1 Coríntios 5:12–13): «Não cabe a mim julgar os de fora, mas certamente cabe a vocês julgar os que estão dentro. Deus julgará os de fora. Portanto, eliminem o mal do meio de vocês.»
 
-- Portanto, julgamento = discernir a verdade e repreender (desaprovar) o pecado, deixando a condenação final nas mãos de Deus.
+- **Restaurar com mansidão**: (Gálatas 6:1): «Irmãos, se alguém for vencido por algum pecado, vocês que são guiados pelo Espírito devem, com mansidão, ajudá-lo a voltar ao caminho certo. E cada um cuide para não ser tentado.»
+
+- **Discernir a verdade**: (João 7:24): «Não julguem de acordo com as aparências, mas julguem de maneira justa”.»
+
+- **Discernir a verdade**: (Hebreus 5:14): «O alimento sólido é para os adultos que, pela prática constante, são capazes de distinguir entre certo e errado.»
+
+- **Deixar a condenação para Deus**: (Tiago 4:12): «Somente aquele que deu a lei é Juiz, e somente ele tem poder de salvar ou destruir. Portanto, que direito vocês têm de julgar o próximo?»
+
+- Os crentes são chamados a julgar com justiça, corrigir o pecado com humildade, restaurar com mansidão e exercer disciplina na igreja quando necessário (João 7:24; Lucas 17:3; Gálatas 6:1; 1 Coríntios 5:12-13), deixando o juízo final a Deus (Tiago 4:12).
 
 ---
 
 ## Sucesso e Filipenses 4:13
-(Filipenses 4:13): «Posso todas as coisas naquele que me fortalece.»
+(Filipenses 4:13): «Posso todas as coisas por meio de Cristo, que me dá forças.»
 
 - Como é usado: Como um slogan de conquista pessoal em esportes, carreira ou ambição.
 
 - A verdade: Paulo fala sobre **contentamento na adversidade**, não sobre sucesso ilimitado.
 
-- (Filipenses 4:11–12): «Digo isto, não por causa da pobreza, porque aprendi a viver contente em toda e qualquer situação. Tanto sei estar humilhado como também ser honrado; de tudo e em todas as circunstâncias já tenho experiência, tanto de fartura como de fome; assim de abundância como de escassez.»
+- (Filipenses 4:11–12): «Não digo isso por estar necessitado, pois aprendi a ficar satisfeito com o que tenho. Sei viver na necessidade e também na fartura. Aprendi o segredo de viver em qualquer situação, de estômago cheio ou vazio, com pouco ou muito.»
 
-- (2 Coríntios 12:9–10): «Então, ele me disse: A minha graça te basta, porque o poder se aperfeiçoa na fraqueza. De boa vontade, pois, mais me gloriarei nas fraquezas, para que sobre mim repouse o poder de Cristo. Pelo que sinto prazer nas fraquezas, nas injúrias, nas necessidades, nas perseguições, nas angústias, por amor de Cristo. Porque, quando sou fraco, então é que sou forte.»
+- (2 Coríntios 12:9–10): «mas ele disse: “Minha graça é tudo de que você precisa. Meu poder opera melhor na fraqueza”. Portanto, agora fico feliz de me orgulhar de minhas fraquezas, para que o poder de Cristo opere por meu intermédio. Por isso aceito com prazer fraquezas e insultos, privações, perseguições e aflições que sofro por Cristo. Pois, quando sou fraco, então é que sou forte.»
 
-- (João 16:33): «Estas coisas vos tenho dito para que tenhais paz em mim. No mundo, passais por aflições; mas tende bom ânimo; eu venci o mundo.»
+- (João 16:33): «Eu lhes falei tudo isso para que tenham paz em mim. Aqui no mundo vocês terão aflições, mas animem-se, pois eu venci o mundo”.»
 
 - Filipenses 4:13 não trata de sucesso garantido; trata da força para permanecer fiel no sofrimento.
 
 ---
 
 ## Prosperidade e Jeremias 29:11
-(Jeremias 29:11): «Porque eu bem sei os planos que estou projetando para vós, diz o SENHOR; planos de paz e não de mal, para vos dar um futuro e uma esperança.»
+(Jeremias 29:11): «Porque eu sei os planos que tenho para vocês”, diz o Senhor. “São planos de bem, e não de mal, para lhes dar o futuro pelo qual anseiam.»
 
 - Como é usado: Reivindicado como promessa pessoal de riqueza, conforto ou sucesso garantido.
 
 - A verdade: Esta foi uma carta aos **exilados na Babilônia**, assegurando-lhes que, após setenta anos, Deus os restauraria. É sobre a fidelidade da aliança de Deus com Israel, não sobre bênção financeira individual.
 
-- (Jeremias 29:10): «Porque assim diz o SENHOR: Certamente que passados setenta anos na Babilônia, vos visitarei e cumprirei sobre vós a minha boa palavra, tornando a trazer-vos a este lugar.»
+- (Jeremias 29:10): «Assim diz o Senhor: “Vocês ficarão na Babilônia durante setenta anos. Depois disso, eu virei e cumprirei todas as boas promessas que lhes fiz e os trarei de volta para casa.»
 
-- (Jeremias 23:16–17): «Assim diz o SENHOR dos Exércitos: Não deis ouvidos às palavras dos profetas que entre vós profetizam; eles vos enchem de vãs esperanças; falam da visão do seu coração, não da boca do SENHOR. Dizem continuamente aos que me desprezam: O SENHOR disse: Paz tereis; e a todo aquele que anda segundo a dureza do seu coração dizem: Nenhum mal vos sobrevirá.»
+- (Jeremias 23:16–17): «Assim diz o Senhor dos Exércitos a seu povo: “Não deem ouvidos a esses profetas quando profetizam para vocês e os enchem de falsas esperanças. Eles inventam tudo que dizem; não falam da parte do Senhor. Vivem repetindo aos que desprezam minha palavra: ‘O Senhor diz que terão paz!’. E aos que seguem os desejos teimosos de seu coração, dizem: ‘Nada de mal lhes acontecerá!’.»
 
-- (Romanos 8:18): «Porque para mim tenho por certo que os sofrimentos do tempo presente não podem ser comparados com a glória a ser revelada em nós.»
+- (Romanos 8:18): «Considero que nosso sofrimento de agora não é nada comparado com a glória que ele nos revelará mais tarde.»
 
 ---
 
 ## Prosperidade e 3 João 2
-(3 João 1:2): «Amado, acima de tudo faço votos por tua prosperidade e saúde, assim como é próspera a tua alma.»
+(3 João 1:2): «Amado, espero que você esteja bem e fisicamente tão sadio quanto é forte em espírito.»
 
 - Como é usado: Citado como prova de que Deus promete a todo crente saúde e riqueza.
 
 - A verdade: Isto é uma **saudação pessoal** a Gaio, não uma garantia universal. Reflete a oração de João pelo bem-estar de seu amigo, não uma promessa doutrinária. O Novo Testamento enfatiza consistentemente a perseverança na adversidade, não a fuga dela.
 
-- (2 Coríntios 11:23–27): «São ministros de Cristo? (Falo como fora de mim.) Eu ainda mais: em trabalhos, muito mais; em prisões, muito mais; em açoites, sem medida; em perigos de morte, muitas vezes. Recebi dos judeus cinco quarentenas de açoites menos um. Três vezes fui açoitado com varas, uma vez fui apedrejado, três vezes naufraguei, uma noite e um dia passei na voragem do mar; em jornadas, muitas vezes; em perigos de rios, em perigos de salteadores, em perigos dos da minha raça, em perigos dos gentios, em perigos na cidade, em perigos no deserto, em perigos no mar, em perigos entre falsos irmãos; em trabalhos e fadigas, em vigílias, muitas vezes; em fome e sede, em jejuns, muitas vezes; em frio e nudez.»
+- (2 Coríntios 11:23–27): «São servos de Cristo? Sei que dou a impressão de estar louco, mas digo que tenho servido muito mais. Trabalhei com mais dedicação, fui encarcerado com mais frequência, perdi a conta de quantas vezes fui açoitado e, em várias ocasiões, enfrentei a morte. Cinco vezes recebi dos líderes judeus os trinta e nove açoites. Três vezes fui golpeado com varas. Fui apedrejado uma vez. Três vezes sofri naufrágio. Certa ocasião, passei uma noite e um dia no mar, à deriva. Realizei várias jornadas longas. Enfrentei perigos em rios e com assaltantes. Enfrentei perigos de meu próprio povo, bem como dos gentios. Enfrentei perigos em cidades, em desertos e no mar. E enfrentei perigos por causa de homens que se diziam irmãos, mas não eram. Tenho trabalhado arduamente, horas a fio, e passei muitas noites sem dormir. Passei fome e senti sede, e muitas vezes fiquei em jejum. Tremi de frio por não ter roupa suficiente para me agasalhar.»
 
-- (Filipenses 1:29): «Porque vos foi concedida a graça de padecer por Cristo e não somente de crer nele.»
+- (Filipenses 1:29): «Pois vocês receberam o privilégio não apenas de crer em Cristo, mas também de sofrer por ele.»
 
-- (Hebreus 11:35–38): «Mulheres receberam, pela ressurreição, os seus mortos; uns foram torturados, não aceitando o seu livramento, para alcançarem superior ressurreição; outros, por sua vez, passaram pela prova de escárnios e açoites, e até de algemas e prisões; foram apedrejados, provados, serrados pelo meio, mortos ao fio da espada; andaram vestidos de peles de ovelhas e de cabras, necessitados, afligidos, maltratados (dos quais o mundo não era digno), errantes pelos desertos, pelos montes, pelas covas, pelos antros da terra.»
+- (Hebreus 11:35–38): «Mulheres receberam de volta seus queridos que haviam morrido. Outros, porém, foram torturados, recusando-se a ser libertos, e depositaram sua esperança na ressurreição para uma vida melhor. Alguns foram alvo de zombaria e açoites, e outros, acorrentados em prisões. Alguns morreram apedrejados, outros foram serrados ao meio, e outros ainda, mortos à espada. Alguns andavam vestidos com peles de ovelhas e cabras, necessitados, afligidos e maltratados. Este mundo não era digno deles. Vagaram por desertos e montes, escondendo-se em cavernas e buracos na terra.»
 
 ---
 
 ## Prosperidade e Malaquias 3:10
-(Malaquias 3:10): «Trazei todos os dízimos à casa do tesouro, para que haja mantimento na minha casa; e provai-me nisto, diz o SENHOR dos Exércitos, se eu não vos abrir as janelas do céu e não derramar sobre vós bênção sem medida.»
+(Malaquias 3:10): «Tragam todos os seus dízimos aos depósitos do templo, para que haja provisão em minha casa. Se o fizerem”, diz o Senhor dos Exércitos, “abrirei as janelas do céu para vocês. Derramarei tantas bênçãos que não haverá espaço para guardá-las! Sim, ponham-me à prova!»
 
 - Como é usado: Pregadores transformam isto numa fórmula dinheiro-por-bênção, prometendo retorno financeiro garantido se você doar ao ministério deles.
 
 - A verdade: Malaquias se dirigia a Israel, que quebrara a aliança sob a Lei, conclamando-os a voltar à obediência no dízimo para sustentar os levitas e o culto do templo. Não é uma promessa universal de riqueza para cristãos. No Novo Testamento, dar é voluntário e alegre, não coagido com promessas de riquezas.
 
-- (2 Coríntios 9:7–8): «Cada um contribua segundo tiver proposto no coração, não com tristeza ou por necessidade; porque Deus ama a quem dá com alegria. Deus pode fazer-vos abundar em toda graça, a fim de que, tendo sempre, em tudo, ampla suficiência, superabundeis em toda boa obra.»
+- (2 Coríntios 9:7–8): «Cada um deve decidir em seu coração quanto dar. Não contribuam com relutância ou por obrigação. “Pois Deus ama quem dá com alegria.” Deus é capaz de lhes conceder todo tipo de bênçãos, para que, em todo tempo, vocês tenham tudo de que precisam, e muito mais ainda, para repartir com outros.»
 
-- (Atos 8:18–20): «Vendo, porém, Simão que, pela imposição das mãos dos apóstolos, era dado o Espírito Santo, ofereceu-lhes dinheiro, dizendo: Concedei-me também a mim este poder, para que aquele sobre quem eu impuser as mãos receba o Espírito Santo. Pedro, porém, lhe disse: O teu dinheiro seja contigo para perdição, pois julgaste adquirir por meio de dinheiro o dom de Deus.»
+- (Atos 8:18–20): «Simão viu que as pessoas recebiam o Espírito quando os apóstolos impunham as mãos sobre elas. Então ofereceu-lhes dinheiro, dizendo: “Deem-me este poder também, para que, quando eu impuser as mãos sobre as pessoas, elas recebam o Espírito Santo!”. Pedro, porém, respondeu: “Que seu dinheiro seja destruído com você, por imaginar que o dom de Deus pode ser comprado!»
 
-- (1 Timóteo 6:6–8): «De fato, grande fonte de lucro é a piedade com contentamento; porque nada temos trazido para o mundo, nem coisa alguma podemos levar dele; tendo sustento e com que nos vestir, estejamos contentes.»
+- (1 Timóteo 6:6–8): «No entanto, a devoção acompanhada de contentamento é, em si mesma, grande riqueza. Afinal, não trouxemos nada conosco quando viemos ao mundo, e nada levaremos quando o deixarmos. Portanto, se temos alimento e roupa, estejamos contentes.»
 
 - A verdadeira bênção que Deus promete é a sua presença e provisão para as necessidades, não riqueza garantida.
 
@@ -252,11 +260,11 @@ Permaneçam firmes na fé entregue de uma vez por todas aos santos (Judas 3).
 
 - A verdade: Jesus repreendeu os fariseus por dizimarem enquanto negligenciavam a justiça e a misericórdia. A contribuição no Novo Testamento nunca é coercitiva nem para proveito próprio de líderes.
 
-- (Mateus 23:23): «Ai de vós, escribas e fariseus, hipócritas! porque dais o dízimo da hortelã, do endro e do cominho e tendes negligenciado os preceitos mais importantes da Lei: a justiça, a misericórdia e a fé; devíeis, porém, fazer estas coisas, sem omitir aquelas.»
+- (Mateus 23:23): «“Que aflição os espera, mestres da lei e fariseus! Hipócritas! Têm o cuidado de dar o dízimo da hortelã, do endro e do cominho, mas negligenciam os aspectos mais importantes da lei: justiça, misericórdia e fé. Sim, vocês deviam fazer essas coisas, mas sem descuidar das mais importantes.»
 
-- (1 Pedro 5:2): «Pastoreai o rebanho de Deus que há entre vós, não por constrangimento, mas espontaneamente, como Deus quer; nem por sórdida ganância, mas de boa vontade.»
+- (1 Pedro 5:2): «que cuidem do rebanho que Deus lhes confiou com disposição, e não de má vontade; não pelo que lucrarão com isso, mas pelo desejo de servir a Deus.»
 
-- (Atos 20:33–35): «De ninguém cobicei prata, nem ouro, nem vestes. Vós mesmos sabeis que estas mãos serviram para o que me era necessário a mim e aos que estavam comigo. Tenho-vos mostrado em tudo que, trabalhando assim, é mister socorrer os necessitados e recordar as palavras do Senhor Jesus, que disse: Mais bem-aventurado é dar que receber.»
+- (Atos 20:33–35): «“Jamais cobicei a prata, o ouro ou as roupas de alguém. Vocês sabem que estas minhas mãos trabalharam para prover as minhas necessidades e as dos que estavam comigo. Fui exemplo constante de como podemos, com trabalho árduo, ajudar os necessitados, lembrando as palavras do Senhor Jesus: ‘Há bênção maior em dar que em receber’”.»
 
 ---
 
@@ -266,19 +274,19 @@ Permaneçam firmes na fé entregue de uma vez por todas aos santos (Judas 3).
 
 - A verdade: A Escritura adverte repetidamente contra torcer a graça em libertinagem.
 
-- (Gálatas 1:6–9): «Admira-me que estejais passando tão depressa daquele que vos chamou na graça de Cristo para outro evangelho; o qual não é outro; senão que há alguns que vos perturbam e querem perverter o evangelho de Cristo. Mas, ainda que nós ou mesmo um anjo vindo do céu vos pregue evangelho que vá além do que vos temos pregado, seja anátema. Assim, como já dissemos, e agora repito: Se alguém vos prega evangelho que vá além daquele que recebestes, seja anátema.»
+- (Gálatas 1:6–9): «Admiro-me que vocês estejam se afastando tão depressa daquele que os chamou para si por meio da graça de Cristo. Vocês estão seguindo um caminho diferente que se faz passar pelas boas-novas, mas que não são boas-novas de maneira nenhuma. Estão sendo perturbados por aqueles que distorcem deliberadamente as boas-novas de Cristo. Que seja amaldiçoado qualquer um, incluindo nós, ou mesmo um anjo do céu, que anunciar boas-novas diferentes das que nós lhes anunciamos. Repito o que disse antes: se alguém anunciar boas-novas diferentes das que vocês receberam, que seja amaldiçoado.»
 
-- (Judas 1:4): «Pois certos indivíduos se introduziram com dissimulação, os quais, desde muito, foram antecipadamente pronunciados para esta condenação; homens ímpios, que transformam em libertinagem a graça do nosso Deus e negam o nosso único Soberano e Senhor, Jesus Cristo.»
+- (Judas 1:4): «Pois alguns indivíduos perversos se infiltraram em seu meio sem serem notados, dizendo que a graça de Deus permite levar uma vida imoral. A condenação de tais pessoas foi registrada há muito tempo, pois negaram Jesus Cristo, nosso único Soberano e Senhor.»
 
-- (1 Coríntios 6:18–20): «Fugi da impureza. Qualquer outro pecado que uma pessoa cometer é fora do corpo; mas aquele que pratica a imoralidade peca contra o próprio corpo. Acaso não sabeis que o vosso corpo é santuário do Espírito Santo que está em vós, o qual tendes da parte de Deus, e que não sois de vós mesmos? Porque fostes comprados por preço. Agora, pois, glorificai a Deus no vosso corpo.»
+- (1 Coríntios 6:18–20): «Fujam da imoralidade sexual! Nenhum outro pecado afeta o corpo como esse, pois a imoralidade sexual é um pecado contra o próprio corpo. Vocês não sabem que seu corpo é o templo do Espírito Santo, que habita em vocês e lhes foi dado por Deus? Vocês não pertencem a si mesmos, pois foram comprados por alto preço. Portanto, honrem a Deus com seu corpo.»
 
-- (Romanos 6:1–2): «Que diremos, pois? Permaneceremos no pecado, para que seja a graça mais abundante? De modo nenhum! Nós, que morremos para o pecado, como viveremos ainda nele?»
+- (Romanos 6:1–2): «Pois bem, devemos continuar pecando para que Deus mostre cada vez mais sua graça? Claro que não! Uma vez que morremos para o pecado, como podemos continuar vivendo nele?»
 
 ---
 
 ## Membro secreto / escolhido / especial / eleito
 
-**Verso mal utilizado:** (João 15:19) «Se vocês pertencessem ao mundo, ele os amaria como se fossem dele. Todavia vocês não são do mundo; eu os escolhi, tirando-os do mundo; por isso o mundo os odeia.»
+**Verso mal utilizado:** (João 15:19) «O mundo os amaria se pertencessem a ele, mas vocês já não fazem parte do mundo. Eu os escolhi para que não mais pertençam ao mundo, e por isso o mundo os odeia.»
 
 **Como é usado:** Alguns usam este versículo para afirmar que somente os membros de um grupo oculto, privado ou exclusivo são os «verdadeiros» crentes, apresentando o segredo ou a exclusividade como prova de que foram escolhidos.
 
@@ -288,41 +296,41 @@ Permaneçam firmes na fé entregue de uma vez por todas aos santos (Judas 3).
 
 - (Mateus 5:14–16) «Vocês são a luz do mundo. É impossível esconder uma cidade construída no alto de um monte. Não faz sentido acender uma lâmpada e depois colocá-la sob um cesto. Pelo contrário, ela é colocada num pedestal, de onde ilumina todos que estão na casa. Da mesma forma, suas boas obras devem brilhar, para que todos as vejam e louvem seu Pai, que está no céu.»
 
-- (João 3:16) «Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna.»
+- (João 3:16) «“Porque Deus amou tanto o mundo que deu seu Filho único, para que todo o que nele crer não pereça, mas tenha a vida eterna.»
 
-- (Gálatas 3:28) «Não há judeu nem grego, escravo nem livre, homem nem mulher; pois todos são um em Cristo Jesus.»
+- (Gálatas 3:28) «Não há mais judeu nem gentio, escravo nem livre, homem nem mulher, pois todos vocês são um em Cristo Jesus.»
 
 ---
 
 ## A inerrância bíblica: transformada em arma
 
-**Verso mal utilizado:** (2 Timóteo 3:16) «Toda a Escritura é inspirada por Deus e útil para o ensino, para a repreensão, para a correção, para a educação na justiça.»
+**Verso mal utilizado:** (2 Timóteo 3:16) «Toda a Escritura é inspirada por Deus e útil para nos ensinar o que é verdadeiro e para nos fazer perceber o que não está em ordem em nossa vida. Ela nos corrige quando erramos e nos ensina a fazer o que é certo.»
 
 **Como é usado de forma abusiva:** Algumas pessoas usam a inerrância como arma: «Se você não concorda com minha definição exata, você não é um verdadeiro cristão.» Outras a forçam a um literalismo rígido que ignora o tipo de escrita sendo lido. Quando 2 Timóteo 3:16 se torna um porrete em vez de uma verdade em que se firmar, a doutrina foi distorcida.
 
-**Antes de tudo, deixemos algo claro: a Bíblia é a Palavra de Deus.** A palavra grega em 2 Timóteo 3:16 é *theopneustos*, que significa literalmente «soprada por Deus». Isso não significa que os autores simplesmente se sentiram inspirados como um poeta se sente criativo. Significa que o próprio Deus soprou as palavras por meio de escritores humanos. Ele os guiou de modo que o que escreveram foi exatamente o que Ele queria dizer. 2 Pedro 1:21 diz claramente: «homens falaram da parte de Deus, impelidos pelo Espírito Santo.» A Bíblia não é um livro humano com o selo de Deus; é o livro de Deus escrito por mãos humanas.
+**Antes de tudo, deixemos algo claro: a Bíblia é a Palavra de Deus.** A palavra grega em 2 Timóteo 3:16 é *theopneustos*, que significa literalmente «soprada por Deus». Isso não significa que os autores simplesmente se sentiram inspirados como um poeta se sente criativo. Significa que o próprio Deus soprou as palavras por meio de escritores humanos. Ele os guiou de modo que o que escreveram foi exatamente o que Ele queria dizer. 2 Pedro 1:21 diz claramente: «Esses homens foram impulsionados pelo Espírito Santo e falaram da parte de Deus.» A Bíblia não é um livro humano com o selo de Deus; é o livro de Deus escrito por mãos humanas.
 
-A Escritura faz essa afirmação sobre si mesma repetidamente: Salmo 12:6 chama as palavras de Deus de «palavras puras, como prata refinada em fornalha de barro, purificada sete vezes.» Provérbios 30:5 diz que «toda palavra de Deus é pura.» O próprio Jesus orou em João 17:17: «a tua palavra é a verdade.» Estas não são afirmações fracas. A Bíblia se apresenta como completamente confiável, sem erro, e portadora de toda a autoridade de Deus.
+A Escritura faz essa afirmação sobre si mesma repetidamente: Salmo 12:6 compara as promessas do Senhor à prata refinada: «As promessas do Senhor são puras como prata refinada no forno, purificada sete vezes.» Provérbios 30:5 diz que «Toda palavra de Deus se prova verdadeira» O próprio Jesus orou em João 17:17: «Consagra-os na verdade, que é a tua palavra.» Estas não são afirmações fracas. A Bíblia se apresenta como completamente confiável, sem erro, e portadora de toda a autoridade de Deus.
 
-**O que «sem erro naquilo que afirma» significa:** A Bíblia às vezes registra as palavras de mentirosos, tolos e até de Satanás. Por exemplo, Satanás disse a Eva «certamente não morrereis» (Gênesis 3:4); essa declaração é falsa, mas a Bíblia relata com precisão que ele a disse. O texto é sem erro naquilo que ensina e afirma como verdadeiro; ele não endossa toda declaração que registra. Essa é uma distinção simples, mas importante.
+**O que «sem erro naquilo que afirma» significa:** A Bíblia às vezes registra as palavras de mentirosos, tolos e até de Satanás. Por exemplo, Satanás disse a Eva «É claro que vocês não morrerão!» (Gênesis 3:4); essa declaração é falsa, mas a Bíblia relata com precisão que ele a disse. O texto é sem erro naquilo que ensina e afirma como verdadeiro; ele não endossa toda declaração que registra. Essa é uma distinção simples, mas importante.
 
 **A distorção:** O problema nunca é a doutrina em si. O problema é quando as pessoas a usam para: forçar cada passagem a um literalismo rígido que ignora se é poesia, parábola ou profecia; negar que Deus usou pessoas reais com estilos reais de escrita para transmitir Sua Palavra; ou transformar uma teoria específica sobre a Escritura em um teste de salvação. Nenhum crente sério afirma que Deus segurou fisicamente a caneta. A afirmação é que Deus operou por meio de autores humanos de modo que o que escreveram foi exatamente o que Ele pretendia. É isso que a Bíblia diz sobre si mesma, e essa tem sido a posição histórica da igreja por dois mil anos.
 
 **Passagens de apoio:**
 
-- (2 Timóteo 3:16) «Toda a Escritura é inspirada por Deus (*theopneustos*) e útil para o ensino, para a repreensão, para a correção, para a educação na justiça.»
+- (2 Timóteo 3:16) «Toda a Escritura é inspirada por Deus e útil para nos ensinar o que é verdadeiro e para nos fazer perceber o que não está em ordem em nossa vida. Ela nos corrige quando erramos e nos ensina a fazer o que é certo.» (*theopneustos*)
 
-- (2 Pedro 1:21) «Homens falaram da parte de Deus, impelidos pelo Espírito Santo.»
+- (2 Pedro 1:21) «nem de iniciativa humana. Esses homens foram impulsionados pelo Espírito Santo e falaram da parte de Deus.»
 
-- (Salmo 12:6) «As palavras do Senhor são palavras puras, como prata refinada em fornalha de barro, purificada sete vezes.»
+- (Salmo 12:6) «As promessas do Senhor são puras como prata refinada no forno, purificada sete vezes.»
 
-- (Provérbios 30:5) «Toda palavra de Deus é pura; ele é escudo para os que nele se refugiam.»
+- (Provérbios 30:5) «Toda palavra de Deus se prova verdadeira; ele é escudo para quem busca sua proteção.»
 
-- (Hebreus 4:12) «A palavra de Deus é viva e eficaz, mais cortante do que qualquer espada de dois gumes.»
+- (Hebreus 4:12) «Pois a palavra de Deus é viva e poderosa. É mais cortante que qualquer espada de dois gumes, penetrando entre a alma e o espírito, entre a junta e a medula, e trazendo à luz até os pensamentos e desejos mais íntimos.»
 
-- (João 17:17) «Santifica-os na verdade; a tua palavra é a verdade.»
+- (João 17:17) «Consagra-os na verdade, que é a tua palavra.»
 
-- (Gênesis 3:4) «Então a serpente disse à mulher: 'Certamente não morrereis.'» (Um exemplo de a Escritura registrar com precisão uma mentira sem endossá-la.)
+- (Gênesis 3:4) «“É claro que vocês não morrerão!”, a serpente respondeu à mulher.» (Um exemplo de a Escritura registrar com precisão uma mentira sem endossá-la.)
 
 ---
 
@@ -330,21 +338,21 @@ A Escritura faz essa afirmação sobre si mesma repetidamente: Salmo 12:6 chama 
 
 ### O Sábado que a Bíblia realmente ordena
 
-Gênesis 2:2–3 estabelece o padrão: Elohim descansou no sétimo dia, abençoou-o e santificou-o. Êxodo 20:8–11, o quarto mandamento, obriga Israel a «lembrar-se do dia do sábado, para o santificar» e o fundamenta na semana da criação. Levítico 23:3 chama-o de «santa convocação» e ordena que não se trabalhe. O hebraico é *shabbat*, do verbo *shavat*, cessar. Ele se estende do pôr do sol ao pôr do sol, conforme Gênesis 1:5 («houve tarde e manhã, o primeiro dia») e Levítico 23:32 («de uma tarde à outra tarde, celebrareis o vosso sábado»). O *shabbat* começa na sexta-feira ao pôr do sol e termina no sábado ao pôr do sol. Esse é o sétimo dia. Não há ambiguidade no texto hebraico.
+Gênesis 2:2-3 estabelece o padrão: Elohim descansou no sétimo dia, abençoou-o e o santificou. Êxodo 20:8-11, o quarto mandamento, obriga Israel a «Lembre-se de guardar o sábado, fazendo dele um dia santo» e fundamenta isso na semana da criação. Levítico 23:3 chama esse dia de «dia de descanso absoluto e de reunião sagrada» e ordena que não se trabalhe. O termo hebraico é *shabbat*, do verbo *shavat*, cessar. Gênesis 1:5 descreve a tarde seguida da manhã; Levítico 23:32 estabelece explicitamente a observância de uma tarde à outra para o Dia da Expiação. O sábado semanal é observado do pôr do sol de sexta-feira ao pôr do sol de sábado, mas Levítico 23:32, por si só, não estabelece o horário do sábado semanal.
 
-Yeshua o guardou. Lucas 4:16 diz «segundo o seu costume, entrou na sinagoga no dia de sábado.» Ele corrigiu leituras legalistas do mesmo (Marcos 2:27, «o sábado foi feito por causa do homem, e não o homem por causa do sábado») mas nunca o aboliu. Os apóstolos o guardaram: Atos 17:2, o «costume» de Paulo era raciocinar na sinagoga aos sábados durante três semanas seguidas em Tessalônica.
+Yeshua o guardou. Lucas 4:16 diz que, «foi à sinagoga no sábado, como de costume». Ele corrigiu leituras legalistas do dia (Marcos 2:27, «o sábado foi feito por causa do homem, e não o homem por causa do sábado»), mas nunca o aboliu. Atos 17:2 relata o costume de Paulo de argumentar na sinagoga durante três sábados em Tessalônica; relata sua prática, não uma ordem a todas as igrejas.
 
 ### De onde veio o domingo
 
 Três coisas aconteceram, e a tradição cristã as confunde.
 
-**1. Os relatos da ressurreição.** Mateus 28:1, Marcos 16:2, Lucas 24:1, João 20:1 situam a ressurreição no «primeiro dia da semana», *mia ton sabbaton* em grego, literalmente «um dos sábados» ou «o primeiro a partir do sábado». João 20:19 registra Yeshua aparecendo aos discípulos naquela mesma noite. João 20:26 diz «oito dias depois» ele apareceu novamente, o que alguns interpretam como o domingo seguinte.
+**1. Os relatos da ressurreição.** Mateus 28:1, Marcos 16:2, Lucas 24:1 e João 20:1 situam a visita das mulheres ao túmulo vazio no primeiro dia da semana; não informam a hora da ressurreição. João 20:19 registra a aparição de Yeshua aos discípulos naquela mesma noite. João 20:26 diz «Oito dias depois» ele apareceu novamente, o que alguns interpretam como o domingo seguinte.
 
-**2. Duas passagens sobre reuniões.** Atos 20:7 registra os crentes reunidos em Trôade no primeiro dia da semana para partir o pão e ouvir Paulo pregar. 1 Coríntios 16:2 instrui os crentes de Corinto a separarem fundos no primeiro dia da semana para a coleta de Jerusalém. Essas são as duas passagens mais citadas para justificar o culto dominical. Nenhuma ordena isso, nenhuma aboliu o Sábado, e nenhuma chama o primeiro dia de «o Sábado». Elas registram um padrão de reunião, nada mais. A passagem de 1 Coríntios 16:2 trata de contabilidade doméstica, não de liturgia.
+**2. Uma reunião e uma coleta.** Atos 20:7 registra os crentes reunidos em Trôade no primeiro dia da semana para partir o pão e ouvir Paulo pregar. 1 Coríntios 16:2 instrui cada crente de Corinto a separar fundos no primeiro dia de cada semana para a coleta de Jerusalém; não menciona uma reunião. Nenhuma das passagens ordena o culto dominical, abole o sábado ou chama o primeiro dia de «sábado».
 
-**3. Apocalipse 1:10.** João estava «em espírito, no dia do Senhor,» *te kyriake hemera*. A tradição cristã a partir de meados do século II leu isso como domingo. Os defensores do sétimo dia o interpretam como o profético Dia do Senhor (*yom YHWH*) de Isaías 13, Joel 2, Amós 5 e outros. O grego não resolve a questão.
+**3. Apocalipse 1:10.** João estava «Era o dia do Senhor, e me vi tomado pelo Espírito» *te kyriake hemera*. A tradição cristã a partir de meados do século II leu isso como domingo. Os defensores do sétimo dia o interpretam como o profético Dia do Senhor (*yom YHWH*) de Isaías 13, Joel 2, Amós 5 e outros. O grego não resolve a questão.
 
-Esses são todos os dados do Novo Testamento. Nada ordena uma mudança de dia.
+Essas são as principais passagens sobre o primeiro dia. Colossenses 2:16-17 também diz que não se deve julgar os crentes quanto a um sábado, e Romanos 14:5-6 trata de convicções diferentes a respeito de dias especiais. Nenhuma passagem transfere explicitamente o mandamento do sábado para o domingo.
 
 **A convergência com o culto solar**
 
@@ -358,7 +366,7 @@ O cânon 29 proíbe explicitamente os cristãos de descansarem no Sábado, orden
 
 A Igreja Católica Romana tem sido transparente a esse respeito. O Catecismo da Igreja Católica, parágrafo 2175, afirma que «o domingo distingue-se expressamente do sábado, ao qual sucede cronologicamente a cada semana; para os cristãos, a sua observância cerimonial substitui a do sábado.» Catecismos católicos que remontam ao Concílio de Trento e diversas obras do século XIX (como *A fé de nossos pais* do cardeal James Gibbons, o *Catecismo católico para convertidos*) citam abertamente a mudança do sábado para o domingo como prova da autoridade da Igreja para modificar o mandamento divino. Os protestantes herdaram o domingo de Roma sem herdar o argumento.
 
-**Conclusão:** O Sábado do sétimo dia está estabelecido na criação, codificado nos Dez Mandamentos, guardado por Yeshua e pelos apóstolos, e nunca foi abolido no Novo Testamento. A observância dominical entrou por meio da tradição pós-apostólica, da legislação imperial e de decretos conciliares; não por meio da Escritura.
+O sábado do sétimo dia tem fundamento na criação e foi ordenado a Israel nos Dez Mandamentos. O Novo Testamento registra a prática de Jesus no sábado (Lucas 4:16), o ministério de Paulo nas sinagogas aos sábados (Atos 17:2), uma reunião no primeiro dia (Atos 20:7) e uma instrução sobre coleta no primeiro dia (1 Coríntios 16:2). Não transfere explicitamente o mandamento do sábado para o domingo; Colossenses 2:16-17 e Romanos 14:5-6 também advertem contra julgar os crentes por causa de sábados ou dias especiais.
 
 ---
 
@@ -375,11 +383,11 @@ Nem toda frase que as pessoas citam como «verdade bíblica» está realmente na
 
 - A verdade: Deus ajuda os desamparados.
 
-- (Salmo 121:1–2): «Elevo os olhos para os montes: de onde me virá o socorro? O meu socorro vem do SENHOR, que fez o céu e a terra.»
+- (Salmo 121:1–2): «Olho para os montes e pergunto: “De onde me virá socorro?”. Meu socorro vem do Senhor, que fez os céus e a terra!»
 
-- (Romanos 5:6): «Porque Cristo, quando nós ainda éramos fracos, morreu a seu tempo pelos ímpios.»
+- (Romanos 5:6): «Quando estávamos completamente desamparados, Cristo veio na hora certa e morreu por nós, pecadores.»
 
-- (Isaías 41:10): «Não temas, porque eu sou contigo; não te assombres, porque eu sou o teu Deus; eu te fortaleço e te ajudo e te sustento com a destra da minha justiça.»
+- (Isaías 41:10): «Não tenha medo, pois estou com você; não desanime, pois sou o seu Deus. Eu o fortalecerei e o ajudarei; com minha vitoriosa mão direita o sustentarei.»
 
 ---
 
@@ -389,11 +397,11 @@ Nem toda frase que as pessoas citam como «verdade bíblica» está realmente na
 
 - A verdade: Santidade é renovação interior, não higiene.
 
-- (Marcos 7:15): «Nada há fora do homem que, entrando nele, o possa contaminar; mas o que sai do homem é o que contamina o homem.»
+- (Marcos 7:15): «Não é o que entra no corpo que os contamina; vocês se contaminam com o que sai do coração.»
 
-- (Tito 3:5): «Não por obras de justiça praticadas por nós, mas segundo a sua misericórdia, ele nos salvou mediante o lavar regenerador e renovador do Espírito Santo.»
+- (Tito 3:5): «ele nos salvou não porque tivéssemos feito algo justo, mas por causa de sua misericórdia. Ele nos lavou para remover nossos pecados, nos fez nascer de novo e nos deu nova vida por meio do Espírito Santo.»
 
-- (Hebreus 10:22): «Aproximemo-nos, com sincero coração, em plena certeza de fé, tendo o coração purificado de má consciência e lavado o corpo com água pura.»
+- (Hebreus 10:22): «entremos com coração sincero e plena confiança, pois nossa consciência culpada foi purificada, e nosso corpo, lavado com água pura.»
 
 ---
 
@@ -403,11 +411,11 @@ Nem toda frase que as pessoas citam como «verdade bíblica» está realmente na
 
 - A verdade: A Escritura promete perseverança e livramento final.
 
-- (2 Coríntios 4:17): «Porque a nossa leve e momentânea tribulação produz para nós eterno peso de glória, acima de toda comparação.»
+- (2 Coríntios 4:17): «Pois estas aflições pequenas e momentâneas que agora enfrentamos produzem para nós uma glória que pesa mais que todas as angústias e durará para sempre.»
 
-- (Salmo 30:5): «Porque não passa de um momento a sua ira; o seu favor dura a vida inteira. Ao anoitecer, pode vir o choro, mas a alegria vem pela manhã.»
+- (Salmo 30:5): «pois sua ira dura apenas um instante, mas seu favor, a vida inteira! O choro pode durar toda a noite, mas a alegria vem com o amanhecer.»
 
-- (1 Pedro 5:10): «Ora, o Deus de toda graça, que em Cristo vos chamou à sua eterna glória, depois de terdes sofrido por um pouco, ele mesmo vos há de aperfeiçoar, firmar, fortificar e fundamentar.»
+- (1 Pedro 5:10): «Deus, em toda a sua graça, os chamou para participarem de sua glória eterna por meio de Cristo Jesus. Assim, depois que tiverem sofrido por um pouco de tempo, ele os restaurará, os sustentará e os fortalecerá, e os colocará sobre um firme alicerce.»
 
 ---
 
@@ -417,13 +425,13 @@ Nem toda frase que as pessoas citam como «verdade bíblica» está realmente na
 
 - A verdade: A autoridade é limitada e está sempre sob Deus.
 
-- (Romanos 13:1–2): «Todo homem esteja sujeito às autoridades superiores; porque não há autoridade que não proceda de Deus, e as autoridades que existem foram por ele instituídas. De modo que aquele que resiste à autoridade resiste à ordenação de Deus; e os que resistem trarão sobre si mesmos condenação.»
+- (Romanos 13:1–2): «Todos devem sujeitar-se às autoridades, pois toda autoridade vem de Deus, e aqueles que ocupam cargos de autoridade foram ali colocados por ele. Portanto, quem se rebela contra a autoridade se rebela contra o Deus que a instituiu e será punido.»
 
-- (Daniel 2:21): «Ele muda os tempos e as estações; remove reis e estabelece reis; dá sabedoria aos sábios e entendimento aos entendidos.»
+- (Daniel 2:21): «Ele muda o curso dos acontecimentos; remove reis de seus tronos e põe outros no lugar. Dá sabedoria aos sábios e conhecimento aos eruditos.»
 
-- (Salmo 22:28): «Porque do SENHOR é o reino, e ele domina entre as nações.»
+- (Salmo 22:28): «Pois o Senhor reina e governa sobre todos os povos.»
 
-- (Atos 5:29): «Importa obedecer a Deus antes que aos homens.»
+- (Atos 5:29): «Pedro e os apóstolos responderam: “Devemos obedecer a Deus antes de qualquer autoridade humana.»
 
 ---
 

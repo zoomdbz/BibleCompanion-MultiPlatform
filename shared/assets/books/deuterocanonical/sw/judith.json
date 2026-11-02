@@ -1,0 +1,963 @@
+{
+  "id": "judith",
+  "title": "Yudithi",
+  "stories": [
+    {
+      "id": "judith-1",
+      "title": "⚔️ Yudithi 1",
+      "refs": [
+        "Judith 1:1-16"
+      ],
+      "summaryBullets": [
+        "Ilikuwa mwaka wa kumi na mbili wa utawala wa Nebukadneza, aliyewatawala Waasiria katika mji mkuu wa Ninawi. Siku hizo Arfaksadi aliwatawala Wamedi huko Ekbatana. (1:1).",
+        "Alijenga ukuta kuzunguka Ekbatana kwa mawe yaliyochongwa, yenye unene wa dhiraa tatu na urefu wa dhiraa sita; akaifanya kuta hizo kuwa na kimo cha dhiraa sabini na upana wa dhiraa hamsini. (1:2).",
+        "Kwenye malango yake akajenga minara yenye kimo cha dhiraa mia moja na upana wa dhiraa sitini kwenye misingi yake. (1:3).",
+        "Akayafanya malango yake kuwa na kimo cha dhiraa sabini na upana wa dhiraa arobaini ili majeshi yake yaweze kutoka kwa nguvu na askari wa miguu wapange safu zao. (1:4).",
+        "Kisha mfalme Nebukadneza akapigana vita na mfalme Arfaksadi katika uwanda mkubwa ulio mpakani mwa Ragau. (1:5).",
+        "Watu wote wa nchi ya milima na waliokaa kando ya mito Eufrati, Tigrisi na Hidaspes walikusanyika kwake; pia Arioki, mfalme wa Waelimei wa uwanda. Hivyo mataifa mengi yakajiunga na vikosi vya Wakeleuditi. (1:6).",
+        "Ndipo Nebukadneza, mfalme wa Waasiria, akatuma wajumbe kwa wote walioishi Uajemi na magharibi, kwa wakaaji wa Kilikia, Dameski, Lebanoni, Antilebanoni na pwani yote, (1:7).",
+        "na kwa watu wa Karmeli, Gileadi, Galilaya ya Juu na uwanda mkubwa wa Esdraeloni, (1:8).",
+        "na kwa wote waliokuwa Samaria na miji yake, na ng'ambo ya Yordani hadi Yerusalemu, Bethania, Kelousi, Kadeshi, mto wa Misri, Tahpanhesi, Raamsesi na nchi yote ya Gosheni, (1:9).",
+        "hata ng'ambo ya Tanisi na Memfisi, na kwa wote walioishi Misri hadi mipaka ya Ethiopia. (1:10).",
+        "Lakini wakaaji wote wa eneo hilo walidharau mwito wa Nebukadneza, mfalme wa Waasiria, na wakakataa kuungana naye vitani. Hawakumwogopa, bali walimwona kuwa mtu mmoja tu. Wakarudisha wajumbe wake mikono mitupu na kwa aibu. (1:11).",
+        "Nebukadneza akalikasirikia sana eneo hilo lote na akaapa kwa kiti chake cha enzi na ufalme wake kwamba angelipiza kisasi katika Kilikia, Dameski na Siria yote; angewaua kwa upanga wakaaji wote wa Moabu, Waamoni, Yudea yote na kila mtu wa Misri hadi pwani za bahari mbili. (1:12).",
+        "Katika mwaka wa kumi na saba aliongoza majeshi yake dhidi ya mfalme Arfaksadi na kumshinda vitani, akaliteketeza jeshi lake lote pamoja na wapanda farasi na magari yake yote ya vita. (1:13).",
+        "Akaiteka miji yake, akafika Ekbatana, akachukua minara yake, akapora masoko yake na kugeuza fahari yake kuwa aibu. (1:14).",
+        "Alimkamata Arfaksadi katika milima ya Ragau na kumchoma kwa mikuki yake, akamwangamiza kabisa. (1:15).",
+        "Kisha akarudi Ninawi pamoja na vikosi vyake vyote vilivyoungana, kundi kubwa la askari; huko yeye na jeshi lake walipumzika na kufanya karamu kwa siku mia moja na ishirini. (1:16)."
+      ],
+      "crossRefs": [
+        "Mwanzo 10:11-12: Ninawi ulianzishwa kama mji mkuu wa Waasiria.",
+        "Ezra 6:2: Gombo la kifalme lilipatikana katika ngome ya Ekbatana katika Umedi.",
+        "2 Wafalme 19:36: Mfalme wa Ashuru anarudi na kukaa Ninawi.",
+        "Danieli 1:1: Nebukadneza anakuja dhidi ya Yerusalemu na kuuzingira."
+      ],
+      "translationNotes": [
+        {
+          "term": "dhiraa",
+          "original": "Kiebrania: אַמָּה (ammah) - Kigiriki: πῆχυς (pechys)",
+          "note": "Kipimo cha urefu wa mkono kutoka kiwiko hadi ncha ya kidole, takriban inchi 18 au sentimita 45. Kuta zenye kimo cha dhiraa sabini, kama katika 1:2, zilikuwa na kimo cha takriban futi 105."
+        },
+        {
+          "term": "Ekbatana",
+          "original": "Kiebrania: אַחְמְתָא (Achmeta) - Kigiriki: Ἐκβάτανα (Ekbatana)",
+          "note": "Mji wa kifalme wa Wamedi, ulioko juu katika milima ya Zagros magharibi mwa Iran. Ezra 6:2 huuita Akmeta na hutaja kwamba nyaraka za Waajemi zilihifadhiwa hapo."
+        },
+        {
+          "term": "Ninawi",
+          "original": "Kiebrania: נִינְוֵה (Nineveh) - Kigiriki: Νινευη (Nineue)",
+          "note": "Mji mkuu wa Waasiria kwenye ukingo wa mashariki wa mto Tigrisi, katika eneo ambalo sasa ni kaskazini mwa Iraki. Ndio mji ambao Yona alitumwa kwake, na ulikuwa kitovu cha dola kabla ya Babeli."
+        },
+        {
+          "term": "akaapa kwa kiti chake cha enzi na ufalme wake",
+          "original": "Kiebrania: נִשְׁבַּע (nishba) - Kigiriki: ὤμοσεν (omosen)",
+          "note": "Kiapo kinaungwa mkono na kile anachoona mwenye kuapa kuwa cha thamani zaidi. Mfalme anapoapa kwa kiti chake cha enzi na ufalme wake, anaweka utawala wake mwenyewe kuwa dhamana ya kutimiza alichosema."
+        }
+      ],
+      "keyTakeaway": "Nebukadneza anawatawala Waasiria kutoka Ninawi, huku Arfaksadi akiimarisha Ekbatana kwa kuta za mawe yaliyochongwa na minara. Mataifa ya magharibi yanakataa mwito wake wa vita, kwa hiyo anaapa kulipiza kisasi, anamshinda na kumuua Arfaksadi huko Ragau, anaipora Ekbatana na kufanya karamu kwa siku mia moja na ishirini."
+    },
+    {
+      "id": "judith-2",
+      "title": "⚔️ Yudithi 2",
+      "refs": [
+        "Judith 2:1-28"
+      ],
+      "summaryBullets": [
+        "Katika mwaka wa kumi na nane, siku ya ishirini na mbili ya mwezi wa kwanza, mazungumzo yalifanyika katika jumba la Nebukadneza, mfalme wa Waasiria, kuhusu kutekeleza kisasi chake dhidi ya eneo lote, kama alivyosema. (2:1).",
+        "Aliwaita watumishi wake wote na wakuu wake wote, akawaeleza mpango wake wa siri na kwa kinywa chake mwenyewe akasimulia kikamilifu uovu wote wa eneo hilo. (2:2).",
+        "Wakaamua kwamba wote ambao hawakutii amri yake waangamizwe. (2:3).",
+        "Alipomaliza kupanga, Nebukadneza, mfalme wa Waasiria, alimwita Holoferne, jemadari mkuu wa jeshi lake na wa pili kwa cheo baada yake, akamwambia, (2:4).",
+        "“Hivi ndivyo asemavyo Mfalme Mkuu, bwana wa dunia yote: Ondoka mbele yangu, uchukue wanaume wenye kutegemea nguvu zao, askari wa miguu laki moja na elfu ishirini na wapanda farasi elfu kumi na mbili. (2:5).",
+        "Nenda kupigana na nchi zote za magharibi, kwa sababu hazikutii maagizo yangu. (2:6).",
+        "Waambie watayarishe ardhi na maji, maana ninakuja dhidi yao kwa hasira yangu na nitaifunika dunia yote kwa miguu ya wanajeshi wangu, ambao nitawakabidhi wapate kupora. (2:7).",
+        "Majeruhi wao watajaza mabonde na vijito vyao, na mto uliovimba utajaa maiti zao. (2:8).",
+        "Nitawapeleka mateka mpaka miisho ya dunia yote. (2:9).",
+        "Nenda ukakamate ardhi yao yote kwa ajili yangu mapema. Ni lazima wajisalimishe kwako, nawe uwashikilie kwa ajili yangu mpaka siku ya adhabu yao. (2:10).",
+        "Lakini wale watakaopinga usiwaonee huruma; wakabidhi wachinjwe na kuporwa katika eneo lako lote. (2:11).",
+        "Kwa uhai wangu na kwa nguvu za ufalme wangu, niliyoyasema nitayatimiza kwa mkono wangu mwenyewe. (2:12).",
+        "Nawe jihadhari usivunje amri yoyote ya bwana wako, bali uzitekeleze sawasawa kama nilivyokuagiza; usikawie.” (2:13).",
+        "Hivyo Holoferne aliondoka mbele ya bwana wake na kuwaita makamanda, majemadari na maafisa wote wa jeshi la Waasiria. (2:14).",
+        "Alikusanya askari bora kwa vikosi kama bwana wake alivyomwamuru, laki moja na elfu ishirini, pamoja na wapiga mishale elfu kumi na mbili waliopanda farasi, (2:15).",
+        "akawapanga jinsi jeshi kubwa linavyopangwa kwa ajili ya kampeni ya vita. (2:16).",
+        "Alichukua pia ngamia, punda na nyumbu wengi sana kwa usafiri, pamoja na kondoo, ng'ombe na mbuzi wasiohesabika kwa ajili ya chakula, (2:17).",
+        "na vyakula vya kutosha kwa kila mtu, pamoja na kiasi kikubwa cha dhahabu na fedha kutoka jumba la kifalme. (2:18).",
+        "Kisha akaondoka na jeshi lake lote ili amwandalie njia mfalme Nebukadneza na kuifunika nchi yote ya magharibi kwa magari yao ya vita, wapanda farasi na askari bora wa miguu. (2:19).",
+        "Pamoja nao lilikwenda kundi mchanganyiko lililokuwa kama nzige, kama mavumbi ya dunia, umati usioweza kuhesabiwa. (2:20).",
+        "Walisafiri kwa siku tatu kutoka Ninawi hadi uwanda wa Bektilethi na kupiga kambi mkabala na Bektilethi karibu na mlima ulio kaskazini mwa Kilikia ya Juu. (2:21).",
+        "Kutoka hapo Holoferne alichukua jeshi lake lote, askari wa miguu, wapanda farasi na magari ya vita, akaenda katika nchi ya milima. (2:22).",
+        "Aliiharibu Puti na Ludi na kuwapora Warasisi wote na Waishmaeli waliokuwa mpakani mwa jangwa, kusini mwa nchi ya Wakeliani. (2:23).",
+        "Kisha alifuata mto Eufrati, akapita Mesopotamia na kuharibu miji yote yenye ngome kando ya bonde la mto Abroni hadi baharini. (2:24).",
+        "Pia aliteka eneo la Kilikia na kuua kila aliyempinga. Kisha akafika mipaka ya kusini ya Yafethi, kuelekea Arabia. (2:25).",
+        "Aliwazingira Wamidiani wote, akachoma hema zao na kupora mazizi yao ya kondoo. (2:26).",
+        "Kisha akateremka kwenye uwanda wa Dameski wakati wa mavuno ya ngano, akachoma mashamba yao yote, akaangamiza kondoo na mifugo yao, akapora miji yao, akaharibu ardhi zao na kuwaua vijana wao wote kwa upanga. (2:27).",
+        "Hivyo hofu na woga wake ukawaangukia wakaaji wote wa pwani, wa Sidoni na Tiro, wakaaji wa Suri na Osina na wote wa Yamnia. Wakaaji wa Azoto na Askaloni walimwogopa sana. (2:28)."
+      ],
+      "crossRefs": [
+        "Isaya 36:1-2: Mfalme wa Ashuru anamtuma kamanda wake na jeshi kubwa dhidi ya Yuda.",
+        "Yeremia 46:9: Kushi, Puti na Ludi wanatajwa kama wapiganaji katika jeshi kubwa.",
+        "Hesabu 31:9-10: Miji na kambi za Midiani zilichomwa.",
+        "Yoeli 3:4-6: Tiro, Sidoni na eneo la pwani vinatajwa pamoja."
+      ],
+      "translationNotes": [
+        {
+          "term": "jemadari mkuu",
+          "original": "Kigiriki: ἀρχιστράτηγος (archistrategos)",
+          "note": "Kamanda mkuu wa jeshi lote, mwenye cheo kilicho chini ya mfalme pekee. Chini yake alikuwepo *strategos*, jemadari wa uwanjani, na *chiliarchos*, kwa maana halisi kamanda wa askari elfu moja."
+        },
+        {
+          "term": "tayarisheni ardhi na maji",
+          "original": "Kigiriki: γῆν καὶ ὕδωρ (gen kai hydor)",
+          "note": "Ombi rasmi la kujisalimisha lililotumiwa katika kipindi cha Waajemi. Kukabidhi ardhi na maji kulimaanisha kusalimisha nchi yenyewe na vyote ilivyozalisha, bila masharti."
+        },
+        {
+          "term": "kama kundi la nzige",
+          "original": "Kiebrania: אַרְבֶּה (arbeh) - Kigiriki: ἀκρίς (akris)",
+          "note": "Taswira ya kawaida ya jeshi lisilohesabika. Makundi ya nzige yalifunika anga na kuacha eneo bila chakula, kama jeshi lililokuwa likisonga lilivyofanya katika nchi lilizopita."
+        },
+        {
+          "term": "Puti na Ludi",
+          "original": "Kiebrania: פּוּט (Put) na לוּד (Lud) - Kigiriki: Φουδ (Phoud) na Λουδ (Loud)",
+          "note": "Makabila mawili yaliyo katika orodha ya mataifa ya Mwanzo 10; manabii wanayataja kama watoaji wa wapiga mishale wa kuajiriwa na wabeba ngao. Puti kwa kawaida huwekwa Afrika Kaskazini, na Ludi Asia Ndogo."
+        }
+      ],
+      "keyTakeaway": "Katika mwaka wake wa kumi na nane Nebukadneza anaamuru kulipiza kisasi magharibi na kumtuma Holoferne, jemadari wake mkuu, akiwa na askari wa miguu laki moja na elfu ishirini na wapanda farasi elfu kumi na mbili. Holoferne anatoka Ninawi, anaharibu Puti, Ludi, Kilikia na Midiani, anachoma mashamba ya Dameski na kuwatia hofu watu wa pwani."
+    },
+    {
+      "id": "judith-3",
+      "title": "⚔️ Yudithi 3",
+      "refs": [
+        "Judith 3:1-10"
+      ],
+      "summaryBullets": [
+        "Kwa hiyo wakamtumia wajumbe waombe amani kwa maneno haya: (3:1).",
+        "“Sisi watumishi wa Nebukadneza, Mfalme Mkuu, tunalala kifudifudi mbele yako. Tutendee utakavyo. (3:2).",
+        "Tazama, majengo yetu, nchi yetu yote, mashamba yetu yote ya ngano, makundi yetu ya kondoo na ng'ombe, na kambi zetu zote ziko mbele yako; vifanyie upendavyo. (3:3).",
+        "Miji yetu na wakaaji wake pia ni watumwa wako; njoo uwatendee unavyoona inafaa.” (3:4).",
+        "Wanaume hao wakamfikia Holoferne na kumwambia yote hayo. (3:5).",
+        "Kisha akashuka pwani pamoja na jeshi lake, akaweka vikosi vya kulinda katika miji yenye ngome na kuchukua wanaume bora kutoka humo kuwa wasaidizi wake. (3:6).",
+        "Watu hao pamoja na wote wa mashambani walimkaribisha kwa mataji ya maua, ngoma na matari. (3:7).",
+        "Hata hivyo, alibomoa madhabahu zao zote na kukata vichaka vyao vitakatifu, kwa sababu alikuwa ameagizwa kuiangamiza miungu yote ya nchi, ili mataifa yote yamwabudu Nebukadneza peke yake na kila lugha na kabila limwite mungu. (3:8).",
+        "Kisha akafika kuelekea Esdraeloni, karibu na Dothani, mkabala na safu kubwa ya milima ya Yudea; (3:9).",
+        "akapiga kambi kati ya Geba na Skithopolisi na kukaa mwezi mzima ili kukusanya mahitaji yote ya jeshi lake. (3:10)."
+      ],
+      "crossRefs": [
+        "Kumbukumbu La Torati 12:2-3: Israeli wanaagizwa kubomoa madhabahu na kukata nguzo takatifu.",
+        "Danieli 3:4-6: Kila taifa linaamriwa kuabudu kile alichokisimamisha Nebukadneza.",
+        "Waamuzi 11:34: Mshindi aliyerejea alilakiwa kwa matari na ngoma.",
+        "Mwanzo 37:17: Yusufu anawakuta ndugu zake huko Dothani."
+      ],
+      "translationNotes": [
+        {
+          "term": "vichaka vitakatifu",
+          "original": "Kiebrania: אֲשֵׁרָה (asherah) - Kigiriki: ἄλσος (alsos)",
+          "note": "Nguzo za mbao za ibada au miti iliyopandwa katika eneo la patakatifu. Watafsiri wa Kigiriki mara nyingi walitafsiri *asherah* ya Kiebrania kwa *alsos*, maana yake kichaka, na ndivyo neno hilo lilivyoingia katika Biblia za Kiingereza."
+        },
+        {
+          "term": "matari",
+          "original": "Kiebrania: תֹּף (toph) - Kigiriki: τύμπανον (tympanon)",
+          "note": "Ngoma ya mkononi yenye fremu ya mbao iliyofunikwa kwa ngozi, bila vijipande vya chuma vinavyolia. Wanawake waliipiga katika maandamano ya kulikaribisha jeshi lililorudi kutoka vitani."
+        },
+        {
+          "term": "Esdraeloni",
+          "original": "Kiebrania: יִזְרְעֶאל (Yizreel) - Kigiriki: Ἐσδρηλών (Esdrelon)",
+          "note": "Umbo la Kigiriki la Yezreeli. Ni uwanda mpana unaokatiza kaskazini mwa Israeli kati ya Galilaya na Samaria, njia tambarare iliyotumiwa na majeshi ya uvamizi."
+        },
+        {
+          "term": "Skithopolisi",
+          "original": "Kiebrania: בֵּית שְׁאָן (Beit Shean) - Kigiriki: Σκυθόπολις (Skythopolis)",
+          "note": "Jina la Kigiriki la Beth-sheani, mji uliokuwa kwenye makutano ya bonde la Yezreeli na Yordani. Wasomaji wa Maandiko ya Kiebrania wanapafahamu kwa jina lake la zamani."
+        }
+      ],
+      "keyTakeaway": "Watu wa pwani wanakabidhi kila kitu kwa Holoferne na kumlaki kwa mataji ya maua, ngoma na matari. Anaweka vikosi katika miji yao, anabomoa madhabahu zao na kukata vichaka vitakatifu ili mataifa yote yamwabudu Nebukadneza peke yake. Kisha anapiga kambi karibu na Dothani kwa mwezi mmoja."
+    },
+    {
+      "id": "judith-4",
+      "title": "⚔️ Yudithi 4",
+      "refs": [
+        "Judith 4:1-15"
+      ],
+      "summaryBullets": [
+        "Waisraeli waliokaa Yudea waliposikia yote ambayo Holoferne, jemadari wa Nebukadneza mfalme wa Waasiria, aliyafanya kwa mataifa, na jinsi alivyopora na kuharibu mahekalu yao yote, (4:1).",
+        "waliogopa sana alipokuwa akikaribia; walikuwa na wasiwasi kwa Yerusalemu na kwa hekalu la Bwana Mungu wao. (4:2).",
+        "Maana walikuwa wamerudi karibuni tu kutoka uhamishoni, na watu wote wa Yudea walikuwa wamekusanyika tena; vyombo vitakatifu, madhabahu na hekalu vilikuwa vimetakaswa upya baada ya kutiwa unajisi. (4:3).",
+        "Kwa hiyo wakatuma ujumbe katika kila wilaya ya Samaria, hadi Kona, Beth-horoni, Belmaini, Yeriko, Koba, Aesora na bonde la Salemu. (4:4).",
+        "Mara moja waliteka vilele vyote vya milima mirefu, wakaimarisha vijiji vilivyokuwa juu yake na kuhifadhi chakula kwa ajili ya vita, maana mashamba yao yalikuwa yamevunwa hivi karibuni. (4:5).",
+        "Kuhani mkuu Yoakimu, aliyekuwa Yerusalemu wakati huo, aliwaandikia watu wa Bethulia na Betomesthaimu, uliokabili Esdraeloni ng'ambo ya uwanda karibu na Dothani, (4:6).",
+        "akiwaamuru washike njia za milimani, kwa sababu kutoka humo Yudea ingeweza kuvamiwa, na ingekuwa rahisi kumzuia yeyote anayejaribu kuingia; njia ilikuwa nyembamba, ya watu wawili tu kupita kwa pamoja. (4:7).",
+        "Basi Waisraeli walifanya kama walivyoamriwa na kuhani mkuu Yoakimu na baraza la watu wote wa Israeli lililokutana Yerusalemu. (4:8).",
+        "Kila mwanamume wa Israeli akamlilia Mungu kwa bidii kubwa, nao wakajinyenyekeza kwa kufunga sana. (4:9).",
+        "Wao, wake zao, watoto wao, ng'ombe wao, kila mgeni mkazi, kibarua na mtumwa aliyenunuliwa, wote walijifunga nguo za magunia viunoni. (4:10).",
+        "Wanaume, wanawake na watoto wote wa Israeli waliokaa Yerusalemu wakalala kifudifudi mbele ya hekalu, wakaweka majivu vichwani mwao na kutandaza nguo zao za magunia mbele za Bwana. (4:11).",
+        "Hata madhabahu waliifunika kwa nguo za magunia, wakalia kwa sauti moja na kumwomba Mungu wa Israeli kwa bidii asiruhusu watoto wao wachanga wachukuliwe mateka, wake zao waporerwe, miji waliyoirithi iharibiwe, na patakatifu panajisiwe na kudharauliwa kwa furaha ya mataifa maovu. (4:12).",
+        "Bwana akasikia maombi yao na kuuangalia uchungu wao, maana watu walifunga kwa siku nyingi katika Yudea yote na Yerusalemu mbele ya patakatifu pa Bwana Mwenyezi. (4:13).",
+        "Kuhani mkuu Yoakimu na makuhani wote waliosimama mbele za Bwana na kumtumikia, wakiwa wamejifunga nguo za magunia viunoni, walitoa sadaka za kuteketezwa za kila siku, sadaka za nadhiri na sadaka za hiari za watu. (4:14).",
+        "Wakiwa na majivu kwenye vilemba vyao, walimlilia Bwana kwa nguvu zao zote ailangalie nyumba yote ya Israeli kwa fadhili. (4:15)."
+      ],
+      "crossRefs": [
+        "2 Mambo Ya Nyakati 20:3-4: Yehoshafati anatangaza mfungo wakati majeshi yanapoivamia Yuda.",
+        "Yoeli 2:12-17: Wito wa kufunga, kulia na kukusanyika patakatifu.",
+        "Ezra 6:16-18: Waliorudi kutoka uhamishoni wanaweka wakfu hekalu lililojengwa upya.",
+        "Yona 3:5-8: Mji mzima unafunga na kuvaa nguo za magunia.",
+        "Kutoka 29:38-42: Sadaka ya kuteketezwa ya kila siku, asubuhi na jioni."
+      ],
+      "translationNotes": [
+        {
+          "term": "nguo za magunia",
+          "original": "Kiebrania: שַׂק (saq) - Kigiriki: σάκκος (sakkos)",
+          "note": "Kitambaa kigumu cheusi kilichofumwa kwa manyoya ya mbuzi au ngamia na kuvaliwa kiunoni kikigusa ngozi. Kilikuwa kisichopendeza kimakusudi, ishara ya maombolezo au ombi la dharura. Hapa hata mifugo inavikwa, na madhabahu inafunikwa nacho."
+        },
+        {
+          "term": "majivu vichwani mwao",
+          "original": "Kiebrania: אֵפֶר (efer) - Kigiriki: σποδός (spodos)",
+          "note": "Majivu yaliyopoa kutoka jikoni, yaliyomwagwa kichwani au mtu akaketi juu yake. Ni ishara ya wazi ya huzuni na kujishusha, ikionyesha kwamba mwenye kuomboleza anajiona kuwa mavumbi."
+        },
+        {
+          "term": "sadaka za kuteketezwa, sadaka za nadhiri na sadaka za hiari",
+          "original": "Kiebrania: עוֹלָה (olah), נֶדֶר (neder), נְדָבָה (nedavah) - Kigiriki: ὁλοκαύτωμα (holokautoma), εὐχή (euche), ἑκούσιον (hekousion)",
+          "note": "Hizi ni aina tatu tofauti, si majina ya kitu kimoja. Sadaka ya kuteketezwa iliteketezwa yote juu ya madhabahu bila sehemu ya kuliwa. Sadaka ya nadhiri ilitimiza nadhiri iliyowekwa. Sadaka ya hiari ililetwa bila sharti lolote."
+        },
+        {
+          "term": "mgeni mkazi, kibarua, mtumwa aliyenunuliwa",
+          "original": "Kiebrania: גֵּר (ger), שָׂכִיר (sakir), מִקְנַת־כֶּסֶף (miqnat kesef)",
+          "note": "Makundi matatu ya wategemezi katika nyumba ya Mwisraeli, yaliyotofautishwa katika Mambo ya Walawi 22:10-11 kuhusu wanaoweza kula chakula kitakatifu. Kutajwa kwa yote matatu kunamaanisha kila mtu wa nyumba alishiriki kufunga."
+        }
+      ],
+      "keyTakeaway": "Habari za Holoferne zinafika Yudea, na Waisraeli wanaogopa kwa Yerusalemu na kwa hekalu lililotakaswa tena karibuni baada ya uhamisho. Wanaimarisha vilele vya milima, na kuhani mkuu Yoakimu anawaamuru Bethulia na Betomesthaimu washike njia nyembamba za milimani. Watu wanafunga wakiwa wamevaa nguo za magunia na kuweka majivu."
+    },
+    {
+      "id": "judith-5",
+      "title": "⚔️ Yudithi 5",
+      "refs": [
+        "Judith 5:1-24"
+      ],
+      "summaryBullets": [
+        "Holoferne, jemadari wa jeshi la Waasiria, aliarifiwa kwamba Waisraeli wamejiandaa kwa vita, wamefunga njia za milimani, wameimarisha vilele vyote vya milima mirefu na kuweka vizuizi katika tambarare. (5:1).",
+        "Kwa hasira kali aliwakusanya wakuu wote wa Moabu, makamanda wa Amoni na magavana wote wa pwani, (5:2).",
+        "akawaambia, “Niambieni, enyi Wakanaani, watu hawa wanaoishi katika nchi ya milima ni akina nani? Wanakaa miji gani? Jeshi lao ni kubwa kiasi gani, na uwezo na nguvu zao zinatokana na nini? Ni nani anayewatawala kama mfalme na kuliongoza jeshi lao? (5:3).",
+        "Kwa nini wao peke yao, kati ya wote wa magharibi, wamekataa kutoka na kunikabili?” (5:4).",
+        "Kisha Akiori, kiongozi wa Waamoni wote, akamwambia, “Bwana wangu, tafadhali sikiliza taarifa kutoka kinywani mwa mtumishi wako. Nitakuambia ukweli kuhusu watu hawa wanaoishi milimani karibu nawe; hakuna uongo utakaotoka kinywani mwa mtumishi wako. (5:5).",
+        "Watu hawa ni wazao wa Wakaldayo. (5:6).",
+        "Hapo zamani waliishi Mesopotamia kwa sababu hawakutaka kufuata miungu ya mababu zao waliokuwa Kaldayo. (5:7).",
+        "Walikuwa wameacha njia za mababu zao na kumwabudu Mungu wa mbinguni, Mungu waliyemjua; kwa hiyo mababu zao wakawafukuza kutoka mbele ya miungu yao. Wakakimbilia Mesopotamia na kukaa huko muda mrefu. (5:8).",
+        "Kisha Mungu wao akawaamuru waondoke mahali walipokaa na waende nchi ya Kanaani. Wakakaa huko na kupata ustawi mkubwa wa dhahabu, fedha na mifugo mingi sana. (5:9).",
+        "Njaa ilipoenea Kanaani, walishuka Misri na kukaa huko kadiri walivyokuwa na chakula. Huko walizidi kuongezeka mpaka hawakuweza kuhesabiwa. (5:10).",
+        "Kwa hiyo mfalme wa Misri akawageukia, akawanyanyasa na kuwalazimisha kutengeneza matofali, akawafanya watumwa. (5:11).",
+        "Wakamlilia Mungu wao, naye akaipiga nchi yote ya Misri kwa mapigo yasiyotibika. Basi Wamisri wakawafukuza. (5:12).",
+        "Kisha Mungu akaikausha Bahari ya Shamu mbele yao, (5:13).",
+        "akawaongoza kwa njia ya Sinai na Kadeshi-barnea. Waliwafukuza watu wote wa jangwani, (5:14).",
+        "wakakaa katika nchi ya Waamori, na kwa nguvu zao wakawaangamiza wakaaji wote wa Heshboni; walipovuka Yordani wakaimiliki nchi yote ya milima. (5:15).",
+        "Wakawafukuza Wakanaani, Waperizi, Wayebusi, Washekemu na Wagergesi wote mbele yao na kukaa huko kwa muda mrefu. (5:16).",
+        "“Walipokuwa hawamkosei Mungu wao walistawi, kwa maana Mungu anayechukia uovu alikuwa pamoja nao. (5:17).",
+        "Lakini walipoiacha njia aliyowaagiza, walishindwa kabisa katika vita vingi na kupelekwa mateka katika nchi ya kigeni. Hekalu la Mungu wao lilibomolewa kabisa, na miji yao ikachukuliwa na maadui. (5:18).",
+        "Sasa wamerudi kwa Mungu wao na kutoka mahali walipotawanyika; wamechukua tena Yerusalemu, mahali pa patakatifu pao, na kukaa katika nchi ya milima kwa sababu haikuwa na watu. (5:19).",
+        "“Kwa hiyo sasa, bwana na mtawala wangu, kama watu hawa wana kosa lolote na wanamtenda Mungu wao dhambi, nasi tukagundua kosa lao, tunaweza kwenda kuwashinda. (5:20).",
+        "Lakini kama taifa hili halina hatia, bwana wangu awaache, maana Bwana na Mungu wao atawatetea, nasi tutakuwa kichekesho cha dunia yote.” (5:21).",
+        "Akiori alipomaliza kusema hayo, watu wote waliosimama kuzunguka hema wakaanza kulalamika. Maafisa wa Holoferne na wakaaji wote wa pwani na Moabu wakasisitiza kwamba akatwe vipandevipande. (5:22).",
+        "Wakasema, “Hatuwaogopi Waisraeli; ni watu wasio na nguvu wala uwezo wa kupigana vita. (5:23).",
+        "Kwa hiyo twende, bwana Holoferne; jeshi lako kubwa litawameza.” (5:24)."
+      ],
+      "crossRefs": [
+        "Yoshua 24:2-13: Historia ya Israeli inasimuliwa kutoka ng'ambo ya Mto hadi Kanaani.",
+        "Mwanzo 12:1-5: Abramu anaondoka Harani kwenda nchi ya Kanaani.",
+        "Kutoka 14:21-22: Bahari inagawanywa na Israeli wanavuka kwenye nchi kavu.",
+        "Kumbukumbu La Torati 28:15-25: Kushindwa mbele ya maadui kunafuata kuvunjwa kwa agano.",
+        "Hesabu 21:21-26: Israeli wanachukua Heshboni kutoka kwa Sihoni Mwamori."
+      ],
+      "translationNotes": [
+        {
+          "term": "Wakaldayo",
+          "original": "Kiebrania: כַּשְׂדִּים (Kasdim) - Kigiriki: Χαλδαῖοι (Chaldaioi)",
+          "note": "Watu wa kusini mwa Mesopotamia. Mwanzo 11:28 huweka familia ya Abrahamu katika Uru wa Wakaldayo, asili ambayo Akiori anairejelea."
+        },
+        {
+          "term": "Mungu wa mbinguni",
+          "original": "Kiaramu: אֱלָהּ שְׁמַיָּא (elah shemayya) - Kigiriki: θεὸς τοῦ οὐρανοῦ (theos tou ouranou)",
+          "note": "Jina la kawaida la Mungu wa Israeli katika mazungumzo na falme za kigeni katika kipindi cha Waajemi. Ezra 5:11-12 na Danieli 2:18 hulitumia kwa namna hiyo hiyo wanapozungumza na watu wa nje."
+        },
+        {
+          "term": "Bahari ya Shamu",
+          "original": "Kiebrania: יַם־סוּף (yam suf) - Kigiriki: ἐρυθρὰ θάλασσα (erythra thalassa)",
+          "note": "Jina la Kiebrania lina maana ya bahari ya matete. Watafsiri wa Kigiriki walilitafsiri kuwa bahari nyekundu, na usomaji huo ukaingia Kiingereza kupitia Kilatini."
+        },
+        {
+          "term": "Waamoni na Wamoabu",
+          "original": "Kiebrania: עַמּוֹן (Ammon) na מוֹאָב (Moav) - Kigiriki: Αμμων (Ammon) na Μωαβ (Moab)",
+          "note": "Makabila mawili yaliyokaa mashariki mwa Yordani, wazao wa Lutu kwa mujibu wa Mwanzo 19:36-38 na hivyo jamaa wa Israeli. Akiori anawaongoza Waamoni huku akihudumu katika baraza la vita la Waasiria."
+        }
+      ],
+      "keyTakeaway": "Alipoambiwa Israeli wameziba njia za milimani, Holoferne anataka kujua watu hawa ni nani. Akiori Mwamoni anafuatilia historia yao kutoka Kaldayo hadi Misri, bahari na Kanaani, na kuonya kwamba hawawezi kushindwa isipokuwa wamtendee Mungu wao dhambi. Maafisa wanakasirika na kutaka akatwe vipandevipande."
+    },
+    {
+      "id": "judith-6",
+      "title": "⚔️ Yudithi 6",
+      "refs": [
+        "Judith 6:1-21"
+      ],
+      "summaryBullets": [
+        "Fujo ya watu waliokuwa nje ya baraza ilipotulia, Holoferne, kamanda wa jeshi la Waasiria, akamwambia Akiori mbele ya vikosi vyote vya kigeni: (6:1).",
+        "“Wewe ni nani, Akiori, wewe na askari wa kukodiwa wa Efraimu, mtolee unabii mbele yetu kama ulivyofanya leo na kutuambia tusipigane na Waisraeli kwa sababu Mungu wao atawatetea? Kuna mungu gani isipokuwa Nebukadneza? Atatuma vikosi vyake na kuwaangamiza kutoka uso wa dunia. Mungu wao hatawaokoa; (6:2).",
+        "sisi watumishi wa mfalme tutawaangamiza kama mtu mmoja. Hawawezi kustahimili nguvu za wapanda farasi wetu. (6:3).",
+        "Tutawafunika; milima yao italewa damu yao na mashamba yao yatajaa maiti zao. Hata alama za nyayo zao hazitasalia baada ya shambulio letu; wataangamia kabisa. Ndivyo asemavyo mfalme Nebukadneza, bwana wa dunia yote. Amesema, na hakuna neno lake litakalokuwa bure. (6:4).",
+        "“Na wewe, Akiori, askari wa kukodiwa Mwamoni, umeyasema haya katika wakati wa upotovu; hutauona uso wangu tena kuanzia leo hadi nitakapolipiza kisasi kwa watu hawa waliotoka Misri. (6:5).",
+        "Ninaporudi, upanga wa jeshi langu na mkuki wa watumishi wangu vitakuchoma ubavuni, nawe utaanguka kati ya majeruhi wao. (6:6).",
+        "Sasa watumwa wangu watakurudisha katika nchi ya milima na kukuweka katika mojawapo ya miji iliyoko kando ya njia za milimani. (6:7).",
+        "Hutakufa mpaka uangamie pamoja nao. (6:8).",
+        "Kama kweli unatumaini moyoni kwamba hawatatekwa, basi usiwe na uso wa huzuni! Nimesema, na hakuna neno langu litakaloshindwa kutimia.” (6:9).",
+        "Kisha Holoferne akawaamuru watumwa waliomhudumia katika hema lake wamkamate Akiori, wampeleke Bethulia na wamkabidhi kwa Waisraeli. (6:10).",
+        "Basi watumwa wakamchukua kutoka kambini hadi uwandani; kutoka uwandani wakapanda nchi ya milima hadi chemchemi zilizo chini ya Bethulia. (6:11).",
+        "Wanaume wa mji walipowaona, walichukua silaha zao na kukimbia kutoka mjini hadi kileleni mwa kilima. Wapiga kombeo wote wakawazuia wasipande kwa kuwarushia mawe. (6:12).",
+        "Kwa hiyo walijificha chini ya kilima, wakamfunga Akiori na kumwacha amelala chini ya kilima, kisha wakarudi kwa bwana wao. (6:13).",
+        "Waisraeli wakashuka kutoka mjini mwao, wakamkuta, wakamfungua, wakampeleka Bethulia na kumweka mbele ya viongozi wa mji wao, (6:14).",
+        "ambao siku hizo walikuwa Uzia mwana wa Mika wa kabila la Simeoni, na Kabri mwana wa Gothoni, na Karmi mwana wa Melkieli. (6:15).",
+        "Wakawakusanya wazee wote wa mji; vijana wao wote wa kiume na wa kike wakakimbilia mkutano. Wakamweka Akiori katikati ya watu wote, naye Uzia akamwuliza kilichotokea. (6:16).",
+        "Akajibu na kuwaambia yote yaliyotokea katika baraza la Holoferne, yote aliyosema mbele ya viongozi wa Waasiria na majivuno yote ya Holoferne juu ya kile atakachofanya kwa nyumba ya Israeli. (6:17).",
+        "Kisha watu wakaanguka chini, wakamwabudu Mungu na kulia kwa sauti: (6:18).",
+        "“Ee Bwana Mungu wa mbinguni, tazama kiburi chao, uwahurumie watu wetu katika kudhalilishwa kwao, na leo uitazame kwa fadhili nyuso za wale waliowekwa wakfu kwako.” (6:19).",
+        "Kisha wakamtia moyo Akiori na kumsifu sana. (6:20).",
+        "Uzia akamchukua kutoka mkutanoni hadi nyumbani kwake na kuwaandalia wazee karamu. Usiku huo wote walimwomba Mungu wa Israeli msaada. (6:21)."
+      ],
+      "crossRefs": [
+        "2 Wafalme 18:33-35: Afisa wa Ashuru anadai hakuna mungu wa taifa lolote aliyeliokoa.",
+        "Danieli 3:15: Mfalme anauliza ni mungu gani anaweza kuokoa kutoka mkononi mwake.",
+        "Isaya 37:16-20: Hezekia anaomba dhidi ya majivuno ya Waasiria.",
+        "Waamuzi 20:16: Wapiga kombeo walioweza kulenga hata unywele bila kukosa."
+      ],
+      "translationNotes": [
+        {
+          "term": "wapiga kombeo",
+          "original": "Kiebrania: קַלָּע (qalla) - Kigiriki: σφενδονήτης (sphendonetes)",
+          "note": "Askari waliozungusha kifuko cha ngozi kilichofungwa kwa kamba mbili na kuachia jiwe kwa kasi. Makombeo yalikuwa nafuu na sahihi kutoka mbali, hivyo walinzi wa mahali pa juu waliyatumia kuwazuia wavamizi kupanda."
+        },
+        {
+          "term": "viongozi na wazee",
+          "original": "Kiebrania: זְקֵנִים (zeqenim) - Kigiriki: ἄρχοντες (archontes)",
+          "note": "Mji uliongozwa na baraza la wakuu wa familia badala ya afisa mmoja. Maandishi yanawataja watatu kwa majina ya baba zao, kwa maana hivyo ndivyo mamlaka yalivyotambuliwa na kurekodiwa."
+        },
+        {
+          "term": "askari wa kukodiwa",
+          "original": "Kigiriki: μισθωτός (misthotos)",
+          "note": "Askari anayepigania mshahara badala ya watu wake mwenyewe. Holoferne analitumia neno hili kama tusi, akimshusha Akiori kutoka kiongozi wa Waamoni hadi kibarua wa Efraimu."
+        },
+        {
+          "term": "kutoa unabii",
+          "original": "Kiebrania: נָבָא (nava) - Kigiriki: προφητεύω (propheteuo)",
+          "note": "Kusema kwa niaba ya mungu, si hasa kutabiri wakati ujao. Holoferne analitumia kwa dharau, kwa sababu kwa maoni yake Nebukadneza pekee ndiye mungu ambaye mtu angeweza kumsemea."
+        }
+      ],
+      "keyTakeaway": "Holoferne anatupilia mbali onyo la Akiori, anauliza kuna mungu gani isipokuwa Nebukadneza, na kuamuru Akiori afungwe na kuachwa chini ya Bethulia afe pamoja na Waisraeli. Wanaume wa mji wanampeleka kwa Uzia na wazee, wanasikia taarifa yake ya baraza la Waasiria, na kumwomba Mungu usiku kucha."
+    },
+    {
+      "id": "judith-7",
+      "title": "⚔️ Yudithi 7",
+      "refs": [
+        "Judith 7:1-32"
+      ],
+      "summaryBullets": [
+        "Siku iliyofuata Holoferne aliamuru jeshi lake lote na washirika wote waliojiunga naye waondoe kambi, waende dhidi ya Bethulia, washike njia za kupanda milimani na kupigana na Waisraeli. (7:1).",
+        "Wapiganaji wao wote wakaondoka siku hiyo; jeshi lao lilikuwa na askari wa miguu laki moja na elfu sabini na wapanda farasi elfu kumi na mbili, bila kuhesabu mizigo na askari wa miguu walioihudumia, umati mkubwa sana. (7:2).",
+        "Wakapiga kambi bondeni karibu na Bethulia, kando ya chemchemi, wakaenea kwa upana kutoka Dothani hadi Balbaimu na kwa urefu kutoka Bethulia hadi Kiamoni, mkabala na Esdraeloni. (7:3).",
+        "Waisraeli walipoona wingi wao, waliogopa sana na kuambiana, “Sasa wataisafisha nchi yote; milima mirefu, mabonde na vilima haviwezi kubeba uzito wao.” (7:4).",
+        "Hata hivyo, wote walichukua silaha zao na kuwasha moto kwenye minara yao, wakalinda usiku huo wote. (7:5).",
+        "Siku ya pili Holoferne aliwaongoza wapanda farasi wake wote mbele ya Waisraeli wa Bethulia. (7:6).",
+        "Alikagua njia za kuufikia mji wao na kutembelea chemchemi za maji yao; akaziteka na kuweka askari wa kuzilinda, kisha akarudi kwa jeshi lake. (7:7).",
+        "Ndipo machifu wote wa Waedomu, viongozi wote wa Wamoabu na makamanda wa pwani wakamjia na kusema, (7:8).",
+        "“Sikiliza maneno yetu, bwana wangu, na jeshi lako halitapata hasara. (7:9).",
+        "Waisraeli hawa hawategemei mikuki yao, bali urefu wa milima wanayoishi, maana si rahisi kufika vileleni mwake. (7:10).",
+        "Kwa hiyo, bwana wangu, usipigane nao kwa safu za kawaida za vita, na hata askari mmoja wa jeshi lako hataanguka. (7:11).",
+        "Baki kambini mwako na uwaweke watu wako wote pamoja nawe; watumishi wako wachukue chemchemi inayotiririka chini ya mlima, (7:12).",
+        "maana hapo ndipo watu wote wa Bethulia wanapopata maji. Kiu itawaangamiza, nao watausalimisha mji. Wakati huo sisi na watu wetu tutapanda vilele vya milima ya karibu na kupiga kambi huko ili kuhakikisha hakuna anayetoka mjini. (7:13).",
+        "Wao, wake zao na watoto wao watadhoofika kwa njaa, na kabla upanga haujawafikia wataanguka mitaani mwao. (7:14).",
+        "Hivyo utawalipiza mabaya kwa sababu waliasi na hawakukupokea kwa amani.” (7:15).",
+        "Maneno haya yalimfurahisha Holoferne na watumishi wake wote, naye akaamuru yafanywe kama walivyosema. (7:16).",
+        "Jeshi la Waamoni likasonga mbele pamoja na Waasiria elfu tano; wakapiga kambi bondeni na kuyateka maji na chemchemi za Waisraeli. (7:17).",
+        "Waedomu na Waamoni wakapanda na kupiga kambi milimani mkabala na Dothani. Wakatuma baadhi ya watu wao kuelekea kusini na mashariki, kuelekea Egrebe karibu na Kusi kando ya bonde la mto Mokmuri. Jeshi lingine la Waasiria likapiga kambi uwandani na kuifunika nchi yote. Mahema na misafara yao ya mahitaji yalienea kwa wingi; walikuwa umati mkubwa sana. (7:18).",
+        "Waisraeli wakamlilia Bwana Mungu wao, maana ujasiri wao ulikuwa umewaishia; maadui wote walikuwa wamewazunguka na hawakuwa na njia ya kutoroka. (7:19).",
+        "Jeshi lote la Waasiria, askari wa miguu, magari ya vita na wapanda farasi, liliwazunguka kwa siku thelathini na nne, mpaka vyombo vyote vya maji vya kila mkaaji wa Bethulia vilipoisha; (7:20).",
+        "birika zao za maji zilikuwa zikikauka, wala hawakuwa na maji ya kutosha kunywa hata siku moja, maana maji ya kunywa yaligawiwa kwa kipimo. (7:21).",
+        "Watoto wao walikuwa wamenyong'onyea, wanawake na vijana walizimia kwa kiu na kuanguka katika mitaa ya mji na malangoni; hawakuwa na nguvu tena. (7:22).",
+        "Kisha watu wote, vijana wa kiume, wanawake na watoto, wakamzunguka Uzia na watawala wa mji, wakapiga kelele mbele ya wazee wote na kusema, (7:23).",
+        "“Mungu ahukumu kati yenu na sisi! Mmetukosea sana kwa kutofanya amani na Waasiria. (7:24).",
+        "Sasa hatuna wa kutusaidia; Mungu ametuuza mikononi mwao ili tuanguke mbele yao kwa kiu na uchovu. (7:25).",
+        "Waite sasa na uukabidhi mji wote kwa jeshi la Holoferne na vikosi vyake vyote wapate kuupora. (7:26).",
+        "Ni afadhali tutekwe nao. Tutakuwa watumwa, lakini maisha yetu yataokolewa, nasi hatutawaona watoto wetu wadogo wakifa mbele ya macho yetu, wala wake na watoto wetu wakikata roho. (7:27).",
+        "Tunaita mbingu na dunia na Mungu wetu, Bwana wa mababu zetu, kuwa mashahidi dhidi yenu; yeye anatuadhibu kwa dhambi zetu na za mababu zetu. Fanyeni leo tuliyoyasema!” (7:28).",
+        "Kisha kilio kikubwa cha pamoja kikaenea katika mkutano wote, wakamlilia Bwana Mungu kwa sauti kuu. (7:29).",
+        "Lakini Uzia akawaambia, “Jipeni moyo, ndugu zangu! Tustahimili siku tano zaidi; wakati huo Bwana Mungu wetu ataturehemu tena, maana hatatuacha kabisa. (7:30).",
+        "Lakini siku hizo zikipita bila msaada kutujia, nitafanya mnavyosema.” (7:31).",
+        "Kisha akawaacha watu waende kwenye vituo vyao mbalimbali; wakapanda juu ya kuta na minara ya mji wao. Wanawake na watoto aliwarudisha nyumbani. Mji wote ulikuwa katika taabu kubwa. (7:32)."
+      ],
+      "crossRefs": [
+        "2 Mambo Ya Nyakati 32:2-4: Hezekia anaziba chemchemi ili Waasiria wasipate maji.",
+        "Kutoka 17:1-3: Watu wanagombana na Musa na kudai maji.",
+        "Hesabu 20:2-5: Mkutano unamkabili Musa kwa kukosa maji.",
+        "2 Wafalme 6:24-29: Kuzingirwa kwa mji kunaleta njaa hadi watu wanamgeukia mfalme wao.",
+        "Ezekieli 4:11: Maji yanagawiwa kwa vipimo maalumu wakati wa kuzingirwa."
+      ],
+      "translationNotes": [
+        {
+          "term": "birika za maji",
+          "original": "Kiebrania: בּוֹר (bor) - Kigiriki: λάκκος (lakkos)",
+          "note": "Mashimo yaliyochongwa kwenye mwamba na kupakwa plasta yasivuje, yakijazwa na maji ya mvua ya msimu wa baridi yaliyotiririshwa kutoka paa na nyua. Adui aliposhika chemchemi chini ya kilima, mji wa mlimani uliishi kwa maji yaliyokuwa tayari katika birika zake."
+        },
+        {
+          "term": "chemchemi",
+          "original": "Kiebrania: מַעְיָן (mayan) - Kigiriki: πηγή (pege)",
+          "note": "Maji ya chini ya ardhi yanayotiririka, yanayoitwa maji yaliyo hai, na kwa kawaida hupatikana nje ya kuta chini ya kilima. Kuyateka ilikuwa hatua ya kwanza ya mzingiraji mwenye ustadi."
+        },
+        {
+          "term": "maji yao ya kunywa yaligawiwa kwa kipimo",
+          "original": "Kiebrania: בִּמְשׂוּרָה (bimsurah) - Kigiriki: ἐν μέτρῳ (en metro)",
+          "note": "Kwa maana halisi, maji yaligawiwa kwa kiasi kilichopimwa. Ezekieli 4:11 anaigiza desturi hiyo kama ishara ya kuzingirwa, akinywa sehemu moja ya sita ya hini kwa siku."
+        },
+        {
+          "term": "malangoni",
+          "original": "Kiebrania: שַׁעַר (shaar) - Kigiriki: πύλη (pyle)",
+          "note": "Lango la mji lilikuwa jengo lenye paa, vyumba na mabenchi ya mawe, likitumika kama soko, mahakama na uwanja wa umma. Watu kuanguka malangoni ni kuanguka katikati ya maisha ya mji."
+        }
+      ],
+      "keyTakeaway": "Holoferne analeta askari wa miguu laki moja na elfu sabini na wapanda farasi elfu kumi na mbili dhidi ya Bethulia. Kwa ushauri wa Waedomu na Wamoabu, anateka chemchemi chini ya mlima badala ya kushambulia njia za milimani. Baada ya siku thelathini na nne birika zinakauka; watu wanadai wajisalimishe, naye Uzia anaomba siku tano zaidi."
+    },
+    {
+      "id": "judith-8",
+      "title": "⚔️ Yudithi 8",
+      "refs": [
+        "Judith 8:1-36"
+      ],
+      "summaryBullets": [
+        "Siku hizo Yudithi alisikia mambo hayo. Alikuwa binti Merari mwana wa Oksi mwana wa Yusufu mwana wa Ozieli mwana wa Elkia mwana wa Anania mwana wa Gideoni mwana wa Rafaini mwana wa Ahitubu mwana wa Eliya mwana wa Hilkia mwana wa Eliabu mwana wa Nathanaeli mwana wa Salamieli mwana wa Sarasadai mwana wa Israeli. (8:1).",
+        "Mumewe Manase, aliyekuwa wa kabila na familia yake, alikuwa amekufa wakati wa mavuno ya shayiri. (8:2).",
+        "Alipokuwa amesimama akisimamia waliokuwa wakifunga miganda shambani, joto kali lilimshinda; akalala kitandani na kufa katika mji wake Bethulia. Wakamzika pamoja na mababu zake katika shamba kati ya Dothani na Balamoni. (8:3).",
+        "Yudithi alibaki mjane kwa miaka mitatu na miezi minne, (8:4).",
+        "akikaa nyumbani, ambako alijijengea hema juu ya paa la nyumba yake. Alijifunga nguo ya gunia kiunoni na kuvaa mavazi ya ujane. (8:5).",
+        "Alifunga siku zote za ujane wake, isipokuwa siku iliyotangulia Sabato na Sabato yenyewe, siku iliyotangulia mwandamo wa mwezi na siku ya mwandamo, na sikukuu na siku za furaha za nyumba ya Israeli. (8:6).",
+        "Alikuwa mzuri wa sura na wa kupendeza sana. Mumewe Manase alikuwa amemwachia dhahabu, fedha, watumwa wa kiume na wa kike, mifugo na mashamba, naye alisimamia mali hiyo. (8:7).",
+        "Hakuna aliyemsema vibaya, kwa maana alimcha Mungu kwa ibada kubwa. (8:8).",
+        "Yudithi aliposikia maneno makali ambayo watu walimwambia mtawala kwa sababu walikuwa wanazimia kwa kukosa maji, na aliposikia yote ambayo Uzia aliwaambia na jinsi alivyoapa kuusalimisha mji kwa Waasiria baada ya siku tano, (8:9).",
+        "alimtuma mtumishi wake wa kike aliyekuwa msimamizi wa mali yake yote kuwaita Uzia, Kabri na Karmi, wazee wa mji wake. (8:10).",
+        "Walipomjia, aliwaambia, “Nisikilizeni, enyi viongozi wa watu wa Bethulia! Mlichowaambia watu leo si sahihi. Mmeapa hata mbele ya Mungu, mkiahidi kuusalimisha mji kwa maadui zetu ikiwa Bwana hatawasaidia katika siku mlizoweka. (8:11).",
+        "Ninyi ni nani hata kumjaribu Mungu leo na kujiweka mahali pa Mungu katika mambo ya wanadamu? (8:12).",
+        "Mnamjaribu Bwana Mwenyezi, lakini hamtaweza kuelewa chochote! (8:13).",
+        "Huwezi kuupima undani wa moyo wa mwanadamu wala kuelewa mawazo ya akili yake; basi mnawezaje kumchunguza Mungu aliyeviumba vyote hivi, kuijua nia yake au kulifahamu wazo lake? Hapana, ndugu zangu, msimkasirishe Bwana Mungu wetu. (8:14).",
+        "Ikiwa hatachagua kutusaidia katika siku hizi tano, anao uwezo wa kutulinda wakati wowote apendao, au hata kutuangamiza mbele ya maadui zetu. (8:15).",
+        "Msijaribu kuifunga mipango ya Bwana Mungu wetu, maana Mungu si mwanadamu wa kutishiwa, wala si mtu wa kawaida wa kushawishiwa kwa maombi. (8:16).",
+        "Kwa hiyo tunapongojea ukombozi wake, tumwite atusaidie, naye atasikia sauti yetu ikiwa atapenda. (8:17).",
+        "“Maana katika kizazi chetu na siku hizi hakuna kabila, familia, watu wala mji wetu unaoabudu miungu iliyotengenezwa kwa mikono, kama ilivyokuwa zamani. (8:18).",
+        "Ndiyo sababu mababu zetu walikabidhiwa kwa upanga na kuporwa, wakapata maafa makubwa mbele ya maadui wao. (8:19).",
+        "Lakini sisi hatumjui mungu mwingine ila yeye; kwa hiyo tunatumaini hatawatupilia mbali sisi wala watu wetu wowote. (8:20).",
+        "Maana tukitekwa, Yudea yote itaanguka, patakatifu petu pataporwa, naye atatufanya tulipie kwa damu yetu kunajisiwa kwake. (8:21).",
+        "Mauaji ya ndugu zetu, kutekwa kwa nchi na kuharibiwa kwa urithi wetu, yote hayo atayaleta juu ya vichwa vyetu kati ya mataifa kokote tutakakotumikia kama watumwa; tutakuwa kitu cha kuchukiza na cha aibu machoni pa watakaotumiliki. (8:22).",
+        "Utumwa wetu hautatuletea kibali; Bwana Mungu wetu ataugeuza kuwa fedheha. (8:23).",
+        "“Kwa hiyo, ndugu zangu, tuwe mfano kwa jamaa zetu, maana maisha yao yanatutegemea, na patakatifu, hekalu na madhabahu, vimekabidhiwa kwetu. (8:24).",
+        "Licha ya yote, tumshukuru Bwana Mungu wetu, anayetuajaribu kama alivyowajaribu mababu zetu. (8:25).",
+        "Kumbukeni alichomfanyia Abrahamu, jinsi alivyomjaribu Isaka, na yaliyompata Yakobo katika Mesopotamia ya Siria alipokuwa akichunga kondoo wa Labani, ndugu wa mama yake. (8:26).",
+        "Maana hajatujaribu kwa moto kama alivyowafanya wao ili kuichunguza mioyo yao, wala hajalipiza kisasi dhidi yetu; lakini Bwana huwarudi walio karibu naye ili kuwaonya.” (8:27).",
+        "Kisha Uzia akamwambia, “Yote uliyosema yametoka moyoni mwa kweli, na hakuna awezaye kuyapinga maneno yako. (8:28).",
+        "Hii si mara ya kwanza hekima yako kuonekana; tangu mwanzo wa maisha yako watu wote wametambua ufahamu wako, maana nia ya moyo wako ni nyoofu. (8:29).",
+        "Lakini watu walikuwa na kiu sana hata wakatulazimisha kuwaahidi tuliyowaahidi na kutufanya tuape kiapo tusichoweza kukivunja. (8:30).",
+        "Sasa, kwa kuwa wewe ni mwanamke mwenye kumcha Mungu, utuombee ili Bwana atuletee mvua ijaze birika zetu. Ndipo hatutazimia tena kwa kiu.” (8:31).",
+        "Yudithi akawaambia, “Nisikilizeni. Ninakaribia kufanya jambo litakalokumbukwa katika vizazi vyote vya watu wetu. (8:32).",
+        "Simameni langoni mwa mji usiku huu ili nitoke na mtumishi wangu wa kike. Kabla siku mlizoahidi kuusalimisha mji kwa maadui zetu hazijaisha, Bwana ataikomboa Israeli kwa mkono wangu. (8:33).",
+        "Msijaribu tu kujua ninachofanya, maana sitawaambia hadi nitakapomaliza kile ninachokusudia kufanya.” (8:34).",
+        "Uzia na viongozi wakamwambia, “Nenda kwa amani, na Bwana Mungu atangulie mbele yako ili alipe kisasi kwa maadui zetu.” (8:35).",
+        "Wakarudi kutoka kwenye hema na kwenda kwenye vituo vyao. (8:36)."
+      ],
+      "crossRefs": [
+        "Kumbukumbu La Torati 6:16: Msimjaribu Bwana Mungu wenu.",
+        "Mwanzo 22:1-12: Mungu anamjaribu Abrahamu kuhusu kumtoa Isaka.",
+        "Mwanzo 29:15-30: Yakobo anamtumikia Labani huko Mesopotamia ili awaoe binti zake.",
+        "Hesabu 30:2: Mtu anayeapa kiapo asivunje neno lake.",
+        "Mithali 3:11-12: Bwana humrudi anayempenda."
+      ],
+      "translationNotes": [
+        {
+          "term": "mavazi ya ujane",
+          "original": "Kiebrania: בִּגְדֵי אַלְמְנוּת (bigdei almenut) - Kigiriki: ἱμάτια χηρεύσεως (himatia chereuseos)",
+          "note": "Mavazi maalumu ya maombolezo yaliyomtambulisha mwanamke hadharani kuwa mjane na kumtenga na maisha ya kawaida ya kijamii. Mwanzo 38:14 na 38:19 zinahusu Tamari kuyavua na kisha kuyavaa tena."
+        },
+        {
+          "term": "hema juu ya paa",
+          "original": "Kiebrania: גַּג (gag) - Kigiriki: σκηνή (skene)",
+          "note": "Paa zilikuwa tambarare na sehemu ya makazi, zikitumiwa kulala, kukausha nafaka na kuomba. Kibanda kilichojengwa hapo kilimpa mjane chumba cha faragha juu ya nyumba."
+        },
+        {
+          "term": "mwandamo wa mwezi",
+          "original": "Kiebrania: רֹאשׁ חֹדֶשׁ (rosh chodesh) - Kigiriki: νουμηνία (noumenia)",
+          "note": "Siku ya kwanza ya mwezi wa mwandamo, iliyoadhimishwa kwa sadaka na tarumbeta. Yudithi alifunga kila siku isipokuwa Sabato, miandamo ya mwezi, sikukuu na siku zilizozitangulia, ambazo kufunga kulisitishwa."
+        },
+        {
+          "term": "mavuno ya shayiri",
+          "original": "Kiebrania: קְצִיר שְׂעֹרִים (qetsir seorim) - Kigiriki: θερισμὸς κριθῶν (therismos krithon)",
+          "note": "Mavuno ya kwanza ya nafaka mwaka huo, yaliyofanyika masika kabla ya ngano. Kazi ilifanywa katika joto kali la shamba wazi, na hivyo Manase akapata kiharusi cha jua kilichomuua."
+        }
+      ],
+      "keyTakeaway": "Yudithi wa Bethulia, mjane mwenye mali aliyekuwa akivaa nguo ya gunia na kufunga tangu mumewe Manase afe wakati wa mavuno ya shayiri, anasikia kiapo cha siku tano na kuwaita wazee. Anawakemea kwa kumjaribu Mungu, kisha anawaambia wamfungulie lango na wasiulize chochote kuhusu mpango wake."
+    },
+    {
+      "id": "judith-9",
+      "title": "⚔️ Yudithi 9",
+      "refs": [
+        "Judith 9:1-14"
+      ],
+      "summaryBullets": [
+        "Kisha Yudithi akalala kifudifudi, akaweka majivu kichwani mwake na kufunua nguo ya gunia aliyokuwa amevaa. Wakati uleule uvumba wa jioni ulipotolewa katika nyumba ya Mungu huko Yerusalemu, Yudithi akamlilia Bwana kwa sauti kuu na kusema, (9:1).",
+        "“Ee Bwana Mungu wa babu yangu Simeoni, uliyempa upanga kulipiza kisasi kwa wageni waliomvua bikira mavazi ili kumnajisi, wakafunua mapaja yake ili kumwaibisha na kunajisi tumbo lake ili kumfedhehesha; maana ulisema, ‘Hilo lisifanyike,’ lakini walilifanya, (9:2).",
+        "kwa hiyo ukawaacha watawala wao wauawe, na kitanda chao, kilichoaibika kwa udanganyifu wao, kikachafuliwa kwa damu; ukawaua watumwa pamoja na wakuu na wakuu kwenye viti vyao vya enzi. (9:3).",
+        "Uliacha wake zao waporerwe, binti zao wapelekwe mateka na nyara zao zote zigawiwe kati ya watoto wako wapendwa waliokuwa na bidii kwa ajili yako, wakachukia kunajisiwa kwa damu yao na kukuita uwasaidie. Ee Mungu, Mungu wangu, nisikilize mimi pia, mjane. (9:4).",
+        "“Maana umefanya mambo haya na yaliyotangulia na yaliyofuata. Umepanga yaliyopo sasa na yatakayokuja. Uliyoyakusudia yametokea; (9:5).",
+        "mambo uliyoyaamua yalijitokeza na kusema, ‘Tupo hapa!’ Njia zako zote zimeandaliwa mapema, na hukumu yako inajua yatakayokuja. (9:6).",
+        "“Tazama sasa Waasiria, jeshi lililoongezeka sana, wakijivunia farasi na wapanda farasi wao, wakisifu nguvu za askari wao wa miguu na kutegemea ngao, mkuki, upinde na kombeo. Hawajui kwamba wewe ndiwe Bwana uvunjaye vita; Bwana ndilo jina lako. (9:7).",
+        "Vunja nguvu zao kwa uwezo wako na uishushe mamlaka yao kwa hasira yako, maana wanakusudia kupanajisi patakatifu pako, kulitia unajisi hema ambamo jina lako lenye utukufu linakaa na kuzivunja pembe za madhabahu yako kwa upanga. (9:8).",
+        "Tazama kiburi chao na umwage ghadhabu yako vichwani mwao. Nipe mimi, mjane, mkono wenye nguvu nitimize ninayopanga. (9:9).",
+        "Kwa udanganyifu wa midomo yangu mpige mtumwa pamoja na mkuu na mkuu pamoja na mtumishi wake; vunja majivuno yao kwa mkono wa mwanamke. (9:10).",
+        "“Maana nguvu zako hazitegemei wingi wa watu, wala uweza wako hauko kwa wenye nguvu. Wewe ndiwe Mungu wa wanyonge, msaidizi wa wanaodhulumiwa, mtegemezi wa walio dhaifu, mlinzi wa walioachwa, mwokozi wa wasiokuwa na tumaini. (9:11).",
+        "Tafadhali, tafadhali, Mungu wa baba yangu, Mungu wa urithi wa Israeli, Bwana wa mbingu na dunia, Muumba wa maji, Mfalme wa viumbe vyako vyote, sikia sala yangu! (9:12).",
+        "Yafanye maneno yangu ya udanganyifu yawatie jeraha na maumivu wale waliopanga ukatili dhidi ya agano lako, nyumba yako takatifu, Mlima Sayuni na nyumba waliyo nayo watoto wako. (9:13).",
+        "Taifa lako lote na kila kabila wajue na kuelewa kwamba wewe ndiwe Mungu mwenye nguvu na uweza wote, na hakuna mwingine anayewalinda watu wa Israeli ila wewe peke yako!” (9:14)."
+      ],
+      "crossRefs": [
+        "Mwanzo 34:25-29: Simeoni na Lawi wanalipiza kisasi kwa kunajisiwa kwa Dina.",
+        "Kutoka 30:7-8: Uvumba huchomwa kwenye madhabahu ya dhahabu asubuhi na jioni.",
+        "Zaburi 20:7: Wengine hutegemea magari na farasi, lakini sisi tunategemea jina la Bwana.",
+        "Zaburi 146:5-9: Mungu humtegemeza mjane, mgeni na anayedhulumiwa.",
+        "Kutoka 15:3: Bwana ni shujaa wa vita; Bwana ndilo jina lake."
+      ],
+      "translationNotes": [
+        {
+          "term": "uvumba wa jioni",
+          "original": "Kiebrania: קְטֹרֶת (qetoret) - Kigiriki: θυμίαμα (thymiama)",
+          "note": "Uvumba ulichomwa kwenye madhabahu ya dhahabu alfajiri na jioni, kama ilivyoamriwa katika Kutoka 30:7-8. Mara hizo mbili zilikuwa saa maalumu za sala ambazo Wayahudi walizishika hata mbali na hekalu, ndiyo maana maandishi yanataja wakati huo."
+        },
+        {
+          "term": "pembe za madhabahu",
+          "original": "Kiebrania: קַרְנוֹת הַמִּזְבֵּחַ (qarnot hamizbeach) - Kigiriki: κέρατα τοῦ θυσιαστηρίου (kerata tou thysiasteriou)",
+          "note": "Miinuko minne kwenye pembe za madhabahu, iliyopakwa damu wakati wa ibada za sadaka. Mtu aliye hatarini angeweza kuzishika na kuomba hifadhi; kuzivunja kuliondoa kazi hiyo ya madhabahu."
+        },
+        {
+          "term": "Bwana uvunjaye vita",
+          "original": "Kiebrania: יְהוָה אִישׁ מִלְחָמָה (YHWH ish milchamah) - Kigiriki: κύριος συντρίβων πολέμους (kyrios syntribon polemous)",
+          "note": "Kutoka 15:3 katika Kiebrania inasema Bwana ni mtu wa vita. Watafsiri wa Kigiriki waliandika Bwana avunjaye vita, na sala ya Yudithi inatumia maneno hayo ya Kigiriki."
+        },
+        {
+          "term": "babu yangu Simeoni",
+          "original": "Kiebrania: שִׁמְעוֹן (Shimon) - Kigiriki: Συμεων (Symeon)",
+          "note": "Nasaba katika 8:1 inapitia Salamieli mwana wa Sarasadai, maumbo ya Kigiriki ya Shelumieli mwana wa Zurishadai, ambaye Hesabu 1:6 anamtaja kama mkuu wa kabila la Simeoni."
+        }
+      ],
+      "keyTakeaway": "Katika saa ya uvumba wa jioni huko Yerusalemu, Yudithi analala kifudifudi na majivu kichwani na kuomba. Anakumbuka upanga ambao Mungu alimpa Simeoni dhidi ya waliomnajisi Dina, anataja utegemezi wa Waasiria kwa farasi na mikuki, na kumwomba Mungu wa wanyonge avunje majivuno yao kwa mkono wa mwanamke."
+    },
+    {
+      "id": "judith-10",
+      "title": "⚔️ Yudithi 10",
+      "refs": [
+        "Judith 10:1-23"
+      ],
+      "summaryBullets": [
+        "Yudithi alipomaliza kumlilia Mungu wa Israeli na kuyasema maneno hayo yote, (10:1).",
+        "aliinuka kutoka mahali alipolala kifudifudi. Akamwita mtumishi wake wa kike na kushuka hadi nyumbani alikokaa siku za Sabato na sikukuu zake. (10:2).",
+        "Akaivua nguo ya gunia aliyokuwa amevaa, akavua mavazi ya ujane, akaoga kwa maji na kujipaka marhamu ya thamani. Akachana nywele, akavaa kilemba na mavazi ya sikukuu aliyokuwa akivaa wakati mumewe Manase alipokuwa hai. (10:3).",
+        "Akavaa viatu, vikuku vya miguu, bangili, pete, hereni na mapambo yake mengine yote. Hivyo alijifanya mrembo sana ili kuvutia macho ya wanaume wote ambao wangemwona. (10:4).",
+        "Akampa mtumishi wake kiriba cha divai na chupa ya mafuta, akajaza mfuko nafaka iliyokaangwa, mikate ya tini kavu na mkate mzuri; akafunga vyombo vyake vyote na kumpa avibebe. (10:5).",
+        "Kisha wakaenda kwenye lango la mji wa Bethulia na kumkuta Uzia amesimama pamoja na wazee wa mji, Kabri na Karmi. (10:6).",
+        "Walipomwona sura yake imebadilika na akiwa amevaa tofauti, walishangazwa sana na uzuri wake na kumwambia, (10:7).",
+        "“Mungu wa mababu zetu akupe kibali na kutimiza mipango yako, ili watu wa Israeli wajivunie na Yerusalemu iinuliwe.” Naye akamsujudia Mungu. (10:8).",
+        "Kisha akawaambia, “Agizeni lango la mji nifunguliwe ili nitoke na kutimiza mliyoniambia hivi sasa.” Basi wakawaamuru vijana wamfungulie lango kama alivyoomba. (10:9).",
+        "Walipofanya hivyo, Yudithi akatoka pamoja na mtumishi wake. Wanaume wa mji walimtazama hadi aliposhuka mlimani na kuvuka bondeni, walipopoteza mwonekano wake. (10:10).",
+        "Wanawake hao walipokuwa wakipita moja kwa moja bondeni, askari wa doria wa Waasiria wakakutana naye, (10:11).",
+        "wakamkamata. Wakamwuliza, “Wewe ni wa watu gani, unatoka wapi na unaenda wapi?” Akajibu, “Mimi ni binti wa Waebrania, lakini ninawakimbia, kwa maana wanakaribia kukabidhiwa kwenu mwawameze. (10:12).",
+        "Ninaenda kumwona Holoferne, kamanda wa jeshi lenu, nimpe taarifa ya kweli; nitamwonyesha njia ya kuiteka nchi yote ya milima bila kupoteza hata mtu mmoja kwa kutekwa au kuuawa.” (10:13).",
+        "Watu hao waliposikia maneno yake na kuiona sura yake, kwa maana machoni pao alikuwa mrembo wa ajabu, wakamwambia, (10:14).",
+        "“Umeokoa maisha yako kwa kuharakisha kuja kumwona bwana wetu. Nenda sasa hivi kwenye hema lake; baadhi yetu tutakusindikiza na kukukabidhi kwake. (10:15).",
+        "Utakaposimama mbele yake usiogope moyoni, bali mwambie uliyotuambia, naye atakutendea mema.” (10:16).",
+        "Wakachagua watu mia moja kati yao waandamane naye na mtumishi wake, wakawapeleka hadi hema la Holoferne. (10:17).",
+        "Kambi yote ikasisimka sana, maana habari za kufika kwake zilienea hema hadi hema. Watu wakakusanyika kumzunguka alipokuwa amesimama nje ya hema la Holoferne, akingojea mpaka wamwambie habari zake. (10:18).",
+        "Walishangaa uzuri wake na kuwastaajabia Waisraeli kwa kumhukumu taifa kwa mfano wake. Wakaambiana, “Ni nani anayeweza kuwadharau watu walio na wanawake wa namna hii? Si busara kumwacha hata mwanamume wao mmoja hai; tukiwaacha waende, wataweza kuipotosha dunia yote!” (10:19).",
+        "Kisha walinzi wa Holoferne na watumishi wake wote wakatoka na kumpeleka ndani ya hema. (10:20).",
+        "Holoferne alikuwa amelala kitandani chini ya pazia lililofumwa kwa zambarau, dhahabu, zumaridi na mawe mengine ya thamani. (10:21).",
+        "Walipomwambia habari zake, akatoka mbele ya hema huku taa za fedha zikichukuliwa mbele yake. (10:22).",
+        "Yudithi alipofika mbele ya Holoferne na watumishi wake, wote walistaajabia uzuri wa uso wake. Akalala kifudifudi mbele yake na kumsujudia, lakini watumwa wake wakamwinua. (10:23)."
+      ],
+      "crossRefs": [
+        "Mwanzo 38:14: Tamari anavua mavazi yake ya ujane na kujifunika uso kwa shela.",
+        "Ruthu 3:3: Oga, jipake mafuta, vaa joho lako na ushuke.",
+        "Esta 5:1-2: Esta anavaa mavazi ya kifalme na kusimama mbele ya mfalme.",
+        "2 Samweli 12:20: Daudi anaoga, anajipaka mafuta na kubadili mavazi."
+      ],
+      "translationNotes": [
+        {
+          "term": "pazia la kitanda",
+          "original": "Kigiriki: κωνώπιον (konopion), kutoka κώνωψ (konops, mdudu mdogo anayeruka)",
+          "note": "Wavu mwembamba uliotundikwa juu ya kitanda kuzuia wadudu. Neno la Kigiriki lilipitia Kilatini na kuingia Kiingereza kama *canopy*. Lile la 10:21 lilikuwa la anasa, limefumwa kwa kitambaa cha zambarau, dhahabu na vito."
+        },
+        {
+          "term": "alijipaka marhamu ya thamani",
+          "original": "Kiebrania: שֶׁמֶן (shemen) - Kigiriki: μύρον (myron)",
+          "note": "Mafuta ya zeituni yenye manukato yaliyopakwa kwenye ngozi na nywele. Katika mazingira ya joto na ukavu, huu ulikuwa utunzaji wa kawaida; kutokujipaka mafuta kulikuwa ishara ya maombolezo, na kuyatumia tena kulitangaza mwisho wa maombolezo."
+        },
+        {
+          "term": "kilemba",
+          "original": "Kiebrania: צָנִיף (tsanif) - Kigiriki: μίτρα (mitra)",
+          "note": "Kitambaa kilichozungushwa kichwani, si taji lenye vito. Neno hilo hilo la Kigiriki hutumika kwa kilemba cha kuhani; hapa picha ni kitambaa kilichofungwa kichwani kama vazi la sikukuu."
+        },
+        {
+          "term": "alimsujudia",
+          "original": "Kiebrania: הִשְׁתַּחֲוָה (hishtachavah) - Kigiriki: προσκυνέω (proskyneo)",
+          "note": "Kuanguka kifudifudi mbele ya mtu wa cheo cha juu. Hii ilikuwa desturi ya kawaida ya mahakama katika Mashariki ya Karibu; neno hilo hilo linaweza kumaanisha kumsalimu jemadari au kumwabudu Mungu, na muktadha ndio unaotofautisha."
+        }
+      ],
+      "keyTakeaway": "Yudithi anavua nguo ya gunia na mavazi ya ujane, anaoga, anajipaka marhamu na kuvaa mavazi ya sikukuu na mapambo. Anaondoka Bethulia na mtumishi wake pamoja na chakula chake mwenyewe, anawaambia doria ya Waasiria iliyomkamata kwamba anaweza kumwonyesha Holoferne njia ya kuiteka nchi ya milima, kisha anasindikizwa hadi hemani mwake."
+    },
+    {
+      "id": "judith-11",
+      "title": "⚔️ Yudithi 11",
+      "refs": [
+        "Judith 11:1-23"
+      ],
+      "summaryBullets": [
+        "Kisha Holoferne akamwambia, “Jipe moyo, mwanamke, usiogope moyoni, maana sijawahi kumdhuru mtu aliyechagua kumtumikia Nebukadneza, mfalme wa dunia yote. (11:1).",
+        "Hata sasa, kama watu wako wa milimani hawangenidharau, nisingeinua mkuki wangu dhidi yao. Wamejiletea haya wenyewe. (11:2).",
+        "Sasa niambie kwa nini umewakimbia na kuja kwetu. Hata hivyo umefika salama. Jipe moyo! Utaishi usiku huu na siku zote zijazo. (11:3).",
+        "Hakuna atakayekudhuru. Badala yake, wote watakutendea vizuri kama wanavyowatendea watumishi wa bwana wangu, mfalme Nebukadneza.” (11:4).",
+        "Yudithi akamjibu, “Yapokee maneno ya mtumwa wako, umruhusu mtumishi wako aseme mbele yako. Sitamwambia bwana wangu uongo wowote usiku huu. (11:5).",
+        "Ukiyafuata maneno ya mtumishi wako, Mungu atafanya jambo kupitia kwako, na bwana wangu hatashindwa kutimiza makusudi yake. (11:6).",
+        "Kwa uhai wa Nebukadneza, mfalme wa dunia yote, na kwa uwezo wake aliyekutuma kuwaongoza viumbe vyote! Si wanadamu tu wanaomtumikia kwa sababu yako, bali hata wanyama wa porini, mifugo na ndege wa angani wataishi kwa uwezo wako chini ya Nebukadneza na nyumba yake yote. (11:7).",
+        "Maana tumesikia hekima na ustadi wako; duniani kote imesemwa kwamba wewe peke yako ndiye bora katika ufalme wote, mwenye maarifa mengi zaidi na mwenye mbinu za vita za kushangaza zaidi. (11:8).",
+        "“Sasa kuhusu maneno ya Akiori katika baraza lako, tumeyasikia, maana watu wa Bethulia walimwacha hai na akawaambia yote aliyokuambia. (11:9).",
+        "Kwa hiyo, bwana na mtawala wangu, usiyapuuze maneno yake; yaweke moyoni, maana ni kweli. Watu wetu hawawezi kuadhibiwa wala kushindwa kwa upanga isipokuwa wamtende Mungu wao dhambi. (11:10).",
+        "“Lakini sasa, ili bwana wangu asishindwe na kusudi lake lisizuiliwe, kifo kitawapata, maana dhambi imewafikia; wanakaribia kumkasirisha Mungu wao kwa kutenda mabaya. (11:11).",
+        "Kwa kuwa chakula chao kimeisha na maji yao yamekaribia kuisha, wamepanga kuchinja mifugo yao na kula vyote ambavyo Mungu amewakataza kwa sheria zake. (11:12).",
+        "Wameamua kula malimbuko ya nafaka na zaka za divai na mafuta, walivyoviweka wakfu kwa makuhani wanaohudumu mbele ya Mungu wetu Yerusalemu, vitu ambavyo hata kuvigusa kwa mikono si halali kwa mtu wa kawaida. (11:13).",
+        "Kwa kuwa hata watu wa Yerusalemu wamekuwa wakifanya hivyo, wamewatuma wajumbe huko ili kuleta ruhusa kutoka baraza la wazee. (11:14).",
+        "Jibu litakapowafikia na wakalitenda, siku hiyo hiyo watakabidhiwa kwako waangamizwe. (11:15).",
+        "“Kwa hiyo mimi, mtumwa wako, nilipojua haya yote, nikawakimbia. Mungu amenituma kufanya pamoja nawe mambo yatakayoshangaza dunia yote kila yatakaposikiwa. (11:16).",
+        "Mtumishi wako anamcha Mungu kweli na kumtumikia Mungu wa mbinguni usiku na mchana. Basi bwana wangu, nitakaa nawe, lakini kila usiku mtumishi wako atatoka bondeni na kumwomba Mungu. Ataniambia watakapokuwa wamefanya dhambi zao. (11:17).",
+        "Kisha nitakuja kukuambia ili utoke na jeshi lako lote, na hakuna hata mmoja wao atakayeweza kukuzuia. (11:18).",
+        "Nitakuongoza kupitia Yudea hadi Yerusalemu; huko nitasimamisha kiti chako cha enzi. Utawaendesha kama kondoo wasiokuwa na mchungaji, wala hakuna mbwa atakayekungurumia. Hayo niliambiwa mapema ili nijue yatakayokuja; niliagizwa nikueleze.” (11:19).",
+        "Maneno yake yalimfurahisha Holoferne na watumishi wake wote. Walistaajabia hekima yake na kusema, (11:20).",
+        "“Hakuna mwanamke mwingine kutoka mwisho mmoja wa dunia hadi mwingine aliye mzuri hivi au anayesema kwa hekima hivi!” (11:21).",
+        "Kisha Holoferne akamwambia, “Mungu amefanya vizuri kukutuma mbele ya watu wako ili kuitia nguvu mikono yetu na kuwaletea maangamizi waliomdharau bwana wangu. (11:22).",
+        "Wewe si mzuri wa sura tu bali pia una hekima ya kusema. Ukitenda ulivyosema, Mungu wako atakuwa Mungu wangu; utaishi katika jumba la mfalme Nebukadneza na kujulikana duniani kote.” (11:23)."
+      ],
+      "crossRefs": [
+        "Mambo Ya Walawi 22:14-16: Sadaka takatifu hazipaswi kuliwa na wasio na ruhusa.",
+        "Hesabu 18:8-13: Malimbuko na zaka zimegawiwa kwa makuhani.",
+        "1 Samweli 21:4-6: Mkate uliowekwa wakfu unatolewa chini ya masharti makali tu.",
+        "Kutoka 11:7: Hakuna mbwa atakayewangurumia Waisraeli.",
+        "1 Wafalme 22:17: Israeli wametawanyika kama kondoo wasiokuwa na mchungaji."
+      ],
+      "translationNotes": [
+        {
+          "term": "malimbuko na zaka",
+          "original": "Kiebrania: בִּכּוּרִים (bikkurim) na מַעֲשֵׂר (maaser) - Kigiriki: ἀπαρχή (aparche) na δεκάτη (dekate)",
+          "note": "Sehemu ya kwanza na bora ya mavuno, na sehemu ya kumi ya yaliyobaki, zote zilikabidhiwa kwa makuhani na Walawi ambao hawakuwa na mashamba yao wenyewe. Hesabu 18 huzifanya kuwa riziki yao yote."
+        },
+        {
+          "term": "Kwa uhai wa Nebukadneza",
+          "original": "Kiebrania: חֵי פַרְעֹה (chey Faroh) - Kigiriki: ζῇ Ναβουχοδονοσορ (ze Nabouchodonosor)",
+          "note": "Kauli maalumu ya kiapo: kama X alivyo hai. Katika Mwanzo 42:15 Yusufu anaapa kwa uhai wa Farao. Kuapa kwa uhai wa mtawala kuliweka uaminifu wa msemaji juu ya nguvu ya mtawala huyo."
+        },
+        {
+          "term": "ambavyo Mungu amewakataza kula kwa sheria zake",
+          "original": "Kiebrania: טָמֵא (tame) - Kigiriki: ἀκάθαρτος (akathartos)",
+          "note": "Mambo ya Walawi 11 hugawa wanyama kati ya wale ambao Israeli wanaweza kula na wasioweza kula; damu imekatazwa kabisa. Mji uliozingirwa ukichinja mifugo iliyobaki kwa kukata tamaa ungekiuka mipaka hiyo."
+        },
+        {
+          "term": "hakuna mbwa atakayekungurumia",
+          "original": "Kiebrania: לֹא יֶחֱרַץ־כֶּלֶב לְשֹׁנוֹ (lo yecherats kelev leshono) - Kigiriki: οὐ γρύξει κύων (ou gryxei kyon)",
+          "note": "Nahau ya ukimya kamili bila upinzani. Inatoka Kutoka 11:7, ambapo hakuna mbwa anayewabwekea Waisraeli usiku wa kutoka Misri."
+        }
+      ],
+      "keyTakeaway": "Holoferne anamwahidi Yudithi usalama, naye anamsifu kwa nguvu zake na kusema maneno ya Akiori ni kweli. Anamwambia Bethulia iko karibu kula chakula kilichowekwa wakfu na zaka za makuhani, na kwamba maombi yake ya kila usiku yatamjulisha wakati wa kuvamia. Holoferne na watu wake wanastaajabia uzuri na maneno yake."
+    },
+    {
+      "id": "judith-12",
+      "title": "⚔️ Yudithi 12",
+      "refs": [
+        "Judith 12:1-20"
+      ],
+      "summaryBullets": [
+        "Kisha akaamuru aletwe mahali vyombo vyake vya chakula vya fedha vilipohifadhiwa, na chakula kiwekwe mezani kwa ajili yake kutoka vyakula vyake bora na divai yake. (12:1).",
+        "Lakini Yudithi akasema, “Siwezi kula hivyo, kwani itakuwa kosa; nilivyoleta vitanitosha.” (12:2).",
+        "Holoferne akamwambia, “Vyakula vyako vikiisha, tutapata wapi vingine vya aina hiyo? Hakuna mtu wa watu wako pamoja nasi.” (12:3).",
+        "Yudithi akajibu, “Hakika uishivyo, bwana wangu, mtumishi wako hatamaliza nilivyoleta kabla Bwana hajatimiza kwa mkono wangu alichoamua.” (12:4).",
+        "Kisha watumishi wa Holoferne wakampeleka kwenye hema, akalala hadi usiku wa manane. Karibu na zamu ya asubuhi akaamka, (12:5).",
+        "akatuma ujumbe huu kwa Holoferne: “Bwana wangu sasa na aamuru mtumishi wako aruhusiwe kutoka kuomba.” (12:6).",
+        "Basi Holoferne akaamuru walinzi wake wasimzuie. Akakaa kambini siku tatu. Kila usiku alitoka kwenda bonde la Bethulia na kuoga katika chemchemi ya kambini. (12:7).",
+        "Baada ya kuoga, alimwomba Bwana Mungu wa Israeli aongoze njia yake ili watu wake washinde. (12:8).",
+        "Kisha akarudi akiwa ametakasika na kukaa hemani hadi alipokula chakula chake kuelekea jioni. (12:9).",
+        "Siku ya nne Holoferne aliwafanyia karamu watumwa wake pekee, bila kumwalika afisa yeyote. (12:10).",
+        "Akamwambia Bagoasi, towashi aliyesimamia mambo yake binafsi, “Nenda umshawishi mwanamke wa Kiebrania uliyemweka chini ya uangalizi wako ajiunge nasi kula na kunywa. (12:11).",
+        "Itakuwa aibu kumwacha mwanamke wa namna hiyo aende bila kuwa naye kimwili. Tusipomtongoza, atatucheka.” (12:12).",
+        "Bagoasi akaondoka mbele ya Holoferne, akamjia Yudithi na kusema, “Mtumishi huyu mrembo asisite kuja kwa bwana wangu apewe heshima mbele yake, afurahie divai pamoja nasi na leo awe kama wanawake wa Kiasiria wanaohudumu katika jumba la Nebukadneza.” (12:13).",
+        "Yudithi akajibu, “Mimi ni nani nikatae bwana wangu? Nitafanya mara moja chochote kinachompendeza, na nitakifurahia hadi siku ya kifo changu.” (12:14).",
+        "Akaanza kujipamba kwa mapambo yake yote ya kike. Mtumishi wake akamtangulia na kutandaza ardhini mbele ya Holoferne ngozi za wana-kondoo alizopokea kutoka kwa Bagoasi ili azitumie kila siku anapoketi kwa kuegemea. (12:15).",
+        "Kisha Yudithi akaingia na kujilaza. Moyo wa Holoferne ukavutiwa naye sana na tamaa yake ikawaka, maana alikuwa akisubiri nafasi ya kuwa naye tangu siku aliyomwona mara ya kwanza. (12:16).",
+        "Holoferne akamwambia, “Kunywa, ufurahi pamoja nasi!” (12:17).",
+        "Yudithi akasema, “Nitakunywa kwa furaha, bwana wangu, maana leo ndiyo siku kuu kuliko zote katika maisha yangu.” (12:18).",
+        "Kisha akachukua chakula ambacho mtumishi wake alikuwa ameandaa, akala na kunywa mbele yake. (12:19).",
+        "Holoferne alifurahishwa sana naye na akanywa divai nyingi sana, kuliko alivyowahi kunywa kwa siku moja tangu kuzaliwa kwake. (12:20)."
+      ],
+      "crossRefs": [
+        "Danieli 1:8-16: Danieli anakataa chakula na divai ya mfalme, akabaki na chakula chake mwenyewe.",
+        "Mambo Ya Walawi 11:44-47: Tofauti kati ya chakula safi na kichafu.",
+        "Hesabu 19:19: Kuoshwa kwa maji na kuwa safi kufikia jioni.",
+        "Esta 1:10: Mfalme aliyefurahishwa na divai anawaamuru matowashi wake."
+      ],
+      "translationNotes": [
+        {
+          "term": "towashi",
+          "original": "Kiebrania: סָרִיס (saris) - Kigiriki: εὐνοῦχος (eunouchos)",
+          "note": "Afisa wa kiume aliyehasiwa aliyesimamia nyumba ya mtawala na aliyeweza kuingia sehemu za wanawake. Baadaye cheo hicho kilitumika kwa afisa yeyote wa mahakama aliyeaminiwa, nafasi ambayo Bagoasi anayo."
+        },
+        {
+          "term": "alirudi akiwa ametakasika",
+          "original": "Kiebrania: טָהוֹר (tahor) - Kigiriki: καθαρός (katharos)",
+          "note": "Usafi wa ibada ni hali ya kisheria, si usafi wa mwili. Kugusana na wageni na vyakula vyao kuliondoa hali hiyo; kuoga kwa maji safi na kusubiri hadi jioni kuliirejesha, kama ilivyoelezwa hapa."
+        },
+        {
+          "term": "karamu",
+          "original": "Kigiriki: πότος (potos)",
+          "note": "Neno la Kigiriki linamaanisha sherehe ya kunywa kuliko mlo. Chakula kilikuwepo, lakini divai ndiyo ilikuwa sababu ya mkusanyiko, ndiyo maana simulizi linahesabu divai."
+        },
+        {
+          "term": "aliingia na kujilaza",
+          "original": "Kigiriki: κατάκειμαι (katakeimai)",
+          "note": "Wageni wa karamu rasmi walikula wakiwa wamejilaza ubavu wa kushoto, wakiegemea kiwiko, kwenye makochi au mikeka na ngozi zilizotandazwa chini. Ngozi za wana-kondoo zilizotandazwa na mtumishi wake zilikuwa nafasi yake mezani."
+        }
+      ],
+      "keyTakeaway": "Yudithi anakataa chakula na divai ya Holoferne na kula alicholeta mwenyewe; kila usiku anapita walinzi kwenda kuoga chemchemini na kuomba. Siku ya nne Holoferne anamtuma Bagoasi towashi amlete kwenye karamu ya faragha. Anajilaza mbele yake, naye Holoferne anakunywa zaidi ya siku nyingine yoyote ya maisha yake."
+    },
+    {
+      "id": "judith-13",
+      "title": "⚔️ Yudithi 13",
+      "refs": [
+        "Judith 13:1-20"
+      ],
+      "summaryBullets": [
+        "Jioni ilipofika, watumwa wake waliondoka haraka. Bagoasi akalifunga hema kwa nje na kuwatoa watumishi mbele ya bwana wao. Wakaenda kulala, maana wote walikuwa wamechoka kwa sababu karamu ilikuwa ndefu. (13:1).",
+        "Lakini Yudithi alibaki peke yake hemani, Holoferne akiwa amelala kitandani kwake, amelewa chakari. (13:2).",
+        "Yudithi alikuwa amemwambia mtumishi wake asimame nje ya chumba cha kulala na amngojee atoke kama siku nyingine, maana alisema atatoka kwenda kuomba. Bagoasi naye alikuwa amemwambia vivyo hivyo. (13:3).",
+        "Basi wote wakatoka, wala hakubaki mtu yeyote chumbani, mdogo wala mkubwa. Yudithi akasimama kando ya kitanda chake na kusema moyoni, “Ee Bwana Mungu mwenye nguvu zote, tazama saa hii kazi ya mikono yangu ili Yerusalemu itukuzwe. (13:4).",
+        "Sasa ndio wakati wa kuusaidia urithi wako na kutimiza mpango wangu wa kuwaangamiza maadui waliotuinukia.” (13:5).",
+        "Akakaribia nguzo ya kitanda karibu na kichwa cha Holoferne, akautwaa upanga wake uliokuwa umetundikwa hapo. (13:6).",
+        "Akaikaribia kitanda, akamshika nywele za kichwa na kusema, “Ee Bwana Mungu wa Israeli, nipe nguvu leo!” (13:7).",
+        "Kisha akampiga shingoni mara mbili kwa nguvu zake zote na kumkata kichwa. (13:8).",
+        "Halafu akaubiringisha mwili wake kutoka kitandani na kuvuta chini pazia la kitanda kutoka nguzo zake. Muda mfupi baadaye akatoka na kumpa mtumishi wake kichwa cha Holoferne, (13:9).",
+        "naye akakiweka katika mfuko wake wa chakula. Kisha wote wawili wakatoka pamoja, kama walivyokuwa wamezoea kufanya kwa ajili ya sala. Wakapita kambini, wakazunguka bonde, wakapanda mlima hadi Bethulia na kufika malangoni mwake. (13:10).",
+        "Kwa mbali Yudithi aliwaita walinzi wa lango, “Fungueni, fungueni lango! Mungu, Mungu wetu, yuko pamoja nasi, bado anaonyesha uwezo wake katika Israeli na nguvu zake dhidi ya maadui zetu, kama alivyofanya leo!” (13:11).",
+        "Watu wa mji wake waliposikia sauti yake, waliharakisha kushuka hadi langoni na kuwaita wazee wa mji. (13:12).",
+        "Wote wakakimbia pamoja, wadogo kwa wakubwa, maana hawakuamini kwamba amerudi. Wakafungua lango na kuwakaribisha. Kisha wakawasha moto wa kutoa mwanga na kuwakusanyikia. (13:13).",
+        "Akawaambia kwa sauti kuu, “Msifuni Mungu, naam, msifuni! Msifuni Mungu ambaye hajaiondoa rehema yake kwa nyumba ya Israeli, bali ameangamiza maadui zetu kwa mkono wangu usiku huu!” (13:14).",
+        "Kisha akakitoa kichwa mfukoni na kuwaonyesha, akasema, “Tazameni hapa kichwa cha Holoferne, kamanda wa jeshi la Waasiria, na hapa pazia la kitanda alicholalia akiwa amelewa kabisa. Bwana amempiga kwa mkono wa mwanamke. (13:15).",
+        "Naapa kwa Bwana aliye hai, aliyenilinda katika njia niliyokwenda: uso wangu ulimvutia mpaka akaangamia, lakini hakunitendea dhambi kwa kuninajisi na kuniaibisha.” (13:16).",
+        "Watu wote wakastaajabu sana. Wakainama na kumwabudu Mungu, wakasema kwa kauli moja, “Umebarikiwa, Mungu wetu, uliyewadhalilisha leo maadui wa watu wako.” (13:17).",
+        "Kisha Uzia akamwambia, “Ee binti, umebarikiwa na Mungu Aliye Juu kuliko wanawake wengine wote duniani; na ahimidiwe Bwana Mungu, Muumba wa mbingu na dunia, aliyekuongoza kukata kichwa cha kiongozi wa maadui zetu. (13:18).",
+        "Tumaini lako halitatoweka kamwe katika mioyo ya wanaokumbuka nguvu za Mungu. (13:19).",
+        "Mungu akupe heshima ya kudumu kwa hili, akulipe kwa baraka kwa sababu ulihatarisha maisha yako watu wetu walipodhoofika, na ukazuia maangamizi yetu kwa kutembea katika njia nyoofu mbele ya Mungu wetu.” Watu wote wakasema, “Amina. Amina.” (13:20)."
+      ],
+      "crossRefs": [
+        "Waamuzi 4:21: Yaeli anapitisha kigingi cha hema katika kichwa cha Sisera akiwa amelala.",
+        "Waamuzi 5:24: Yaeli, mke wa Heberi, amebarikiwa kuliko wanawake wote.",
+        "1 Samweli 17:51: Daudi anakata kichwa cha Goliathi kwa upanga wa Goliathi mwenyewe.",
+        "Luka 1:42: Umebarikiwa kati ya wanawake."
+      ],
+      "translationNotes": [
+        {
+          "term": "upanga wake",
+          "original": "Kigiriki: ἀκινάκης (akinakes)",
+          "note": "Huu haukuwa upanga mrefu wa vita bali kisu kifupi cha Kiajemi kilichovaliwa kiunoni. Yudithi 13:6 hutumia neno hili kwa silaha iliyotundikwa kwenye nguzo ya kitanda, ndiyo maana ilikuwa karibu na mkono wa mtu aliyelala."
+        },
+        {
+          "term": "mfuko wa chakula",
+          "original": "Kigiriki: πήρα (pera)",
+          "note": "Mfuko wa ngozi wa mahitaji uliobebwa begani, kifaa cha kawaida cha msafiri. Ni mfuko huohuo ambao mtumishi wake alitoka nao Bethulia ukiwa na nafaka iliyokaangwa, mikate ya tini na mkate."
+        },
+        {
+          "term": "amebarikiwa kuliko wanawake wengine wote",
+          "original": "Kiebrania: מִנָּשִׁים (minashim) - Kigiriki: παρὰ πάσας τὰς γυναῖκας (para pasas tas gynaikas)",
+          "note": "Kiebrania huunda hali ya juu zaidi kwa neno linalomaanisha kutoka miongoni, badala ya neno tofauti la zaidi. Kubarikiwa miongoni mwa wanawake kunamaanisha kubarikiwa kuliko wote. Waamuzi 5:24 hutumia muundo huohuo kumhusu Yaeli."
+        },
+        {
+          "term": "walinzi wa lango",
+          "original": "Kiebrania: שֹׁמְרִים (shomrim) - Kigiriki: φύλακες (phylakes)",
+          "note": "Walinzi wa usiku waliowekwa ukutani. Malango ya mji yalifungwa wakati wa machweo na kubaki yamefungwa hadi alfajiri, hivyo aliyerudi usiku alipaswa kuita na kutambuliwa kwa sauti kwanza."
+        }
+      ],
+      "keyTakeaway": "Akiwa ameachwa peke yake hemani na Holoferne aliyelala amelewa chakari, Yudithi anaomba, anachukua upanga wake kutoka nguzo ya kitanda na kumkata kichwa kwa mapigo mawili. Yeye na mtumishi wake wanakibeba katika mfuko wa chakula kana kwamba wanatoka kuomba, wanafika Bethulia na kuwaonyesha watu kichwa hicho, naye Uzia anambariki."
+    },
+    {
+      "id": "judith-14",
+      "title": "⚔️ Yudithi 14",
+      "refs": [
+        "Judith 14:1-19"
+      ],
+      "summaryBullets": [
+        "Kisha Yudithi akawaambia, “Nisikilizeni, rafiki zangu. Chukueni kichwa hiki na mkitundike kwenye ukingo wa juu wa ukuta wenu. (14:1).",
+        "Alfajiri tu, jua litakapochomoza, kila mmoja achukue silaha zake na kila mwanamume mwenye nguvu atoke mjini. Wawekeeni kapteni, kana kwamba mnashuka uwandani dhidi ya kituo cha Waasiria, lakini msishuke. (14:2).",
+        "Ndipo watachukua silaha zao, waingie kambini na kuwaamsha maafisa wa jeshi la Waasiria. Watakimbilia hema la Holoferne, hawatamkuta. Hofu itawashika, watakimbia mbele yenu. (14:3).",
+        "Kisha ninyi pamoja na wote wanaoishi katika mipaka ya Israeli mtawafuatilia na kuwaua njiani. (14:4).",
+        "Lakini kabla ya kufanya yote hayo, mleteni kwangu Akiori Mwamoni ili amwone na kumtambua mtu aliyeidharau nyumba ya Israeli na kumtuma kwetu kana kwamba aende kufa.” (14:5).",
+        "Basi wakamwita Akiori kutoka nyumba ya Uzia. Alipofika na kukiona kichwa cha Holoferne mkononi mwa mmoja wa wanaume katika mkutano wa watu, alianguka kifudifudi kwa kuzimia. (14:6).",
+        "Walipomwinua, akajitupa miguuni pa Yudithi, akamsujudia na kusema, “Umebarikiwa katika kila hema la Yuda! Katika kila taifa, watakaolisikia jina lako wataogopa. (14:7).",
+        "Sasa niambie uliyofanya siku hizi.” Yudithi akamweleza mbele ya watu yote aliyoyafanya tangu siku alipotoka hadi wakati alipoanza kuwaambia. (14:8).",
+        "Alipomaliza, watu wakapiga kelele kubwa na kushangilia kwa furaha mjini mwao. (14:9).",
+        "Akiori alipoona yote ambayo Mungu wa Israeli alikuwa amefanya, alimwamini Mungu kwa uthabiti. Akatahiriwa na kujiunga na nyumba ya Israeli, na hali hiyo imeendelea hadi leo. (14:10).",
+        "Kulipopambazuka, wakakitundika kichwa cha Holoferne ukutani. Kisha wote wakachukua silaha zao na kutoka kwa vikosi hadi njia za milimani. (14:11).",
+        "Waasiria walipowaona, wakatuma ujumbe kwa makamanda wao; hao wakaenda kwa majemadari, makapteni na maafisa wengine wote. (14:12).",
+        "Wakafika kwenye hema la Holoferne na kumwambia msimamizi wa mambo yake binafsi, “Mwamshe bwana wetu, maana watumwa wamekuwa na ujasiri wa kushuka dhidi yetu kupigana vita, ili waangamie kabisa.” (14:13).",
+        "Bagoasi akaingia na kubisha mlangoni mwa hema, akidhani Holoferne amelala na Yudithi. (14:14).",
+        "Lakini hakuna aliyejibu. Akafungua na kuingia chumbani, akamkuta amekufa, amelala juu ya kigoda cha miguu, kichwa chake hakipo. (14:15).",
+        "Akapiga kelele kwa sauti kuu, akalia, akaugua, akapayuka na kurarua mavazi yake. (14:16).",
+        "Kisha akaenda kwenye hema alilokaa Yudithi, na alipokosa kumwona, akakimbilia watu na kupiga kelele, (14:17).",
+        "“Watumwa wametushinda! Mwanamke mmoja wa Kiebrania ameiletea nyumba ya mfalme Nebukadneza fedheha. Tazameni, Holoferne amelala chini bila kichwa!” (14:18).",
+        "Viongozi wa jeshi la Waasiria waliposikia haya, walirarua kanzu zao na kushtuka sana; vilio na kelele zao kubwa zikaenea katika kambi yote. (14:19)."
+      ],
+      "crossRefs": [
+        "Mwanzo 17:10-14: Tohara ilitolewa kuwa ishara ya agano.",
+        "Kutoka 12:48: Mgeni mkazi anaweza kushika Pasaka baada ya kutahiriwa.",
+        "1 Samweli 31:9-10: Kichwa cha Sauli kinakatwa na mwili wake unatundikwa ukutani mwa mji.",
+        "Mwanzo 37:34: Yakobo anararua mavazi yake kwa huzuni."
+      ],
+      "translationNotes": [
+        {
+          "term": "ukingo wa juu wa ukuta",
+          "original": "Kiebrania: מַעֲקֶה (maaqeh) - Kigiriki: στεφάνη (stephane)",
+          "note": "Kumbukumbu la Torati 22:8 linaamuru ukuta mfupi wa ulinzi kuzunguka paa tambarare ili mtu asianguke. Kwenye ukuta wa mji huu ni ukingo ulioinuliwa ambao walinzi husimama nyuma yake, na kitu chochote kilichotundikwa hapo huonekana kutoka uwandani chini."
+        },
+        {
+          "term": "akatahiriwa na kujiunga na nyumba ya Israeli",
+          "original": "Kiebrania: מִילָה (milah) - Kigiriki: περιτέμνω (peritemno)",
+          "note": "Tohara ilikuwa ishara ya agano aliyopewa Abrahamu katika Mwanzo 17 na sharti la kudumu kwa mgeni aliyependa kushika Pasaka pamoja na Israeli, kama Kutoka 12:48 inavyosema."
+        },
+        {
+          "term": "walirarua kanzu zao",
+          "original": "Kiebrania: קָרַע (qara) - Kigiriki: διαρρήγνυμι (diarregnymi)",
+          "note": "Kurarua nguo yako mwenyewe shingoni ilikuwa ishara ya kawaida ya huzuni, hofu au hasira. Ilifanywa hadharani kimakusudi ili kila aliyekuwepo ajue habari hizo mara moja."
+        },
+        {
+          "term": "hali hiyo imeendelea hadi leo",
+          "original": "Kigiriki: ἕως τῆς ἡμέρας ταύτης (heos tes hemeras tautes)",
+          "note": "Maelezo ya msimulizi yanayoonyesha jambo lililokuwa bado kweli wakati kitabu kilipoandikwa. Kauli hiyohiyo inapatikana katika Yoshua na Waamuzi kueleza majina, desturi na familia zilizokuwapo."
+        }
+      ],
+      "keyTakeaway": "Yudithi anaamuru kichwa kitundikwe ukutani na kuwaambia wanaume watoke alfajiri kana kwamba wanashambulia. Akiori anazimia alipokiona, kisha anaamini, anatahiriwa na kujiunga na Israeli. Bagoasi anamkuta Holoferne amekufa hemani na anakimbia akipiga kelele kwamba mwanamke mmoja wa Kiebrania ameifedhehesha nyumba ya Nebukadneza."
+    },
+    {
+      "id": "judith-15",
+      "title": "⚔️ Yudithi 15",
+      "refs": [
+        "Judith 15:1-14"
+      ],
+      "summaryBullets": [
+        "Wanaume waliokuwa mahemani waliposikia hayo, walishangazwa na yaliyotokea. (15:1).",
+        "Hofu na tetemeko vikawashika; hawakusubiriana, bali wote kwa msukumo mmoja wakakimbia katika kila njia kupitia uwanda na milimani. (15:2).",
+        "Wale waliopiga kambi vilimani kuzunguka Bethulia pia wakakimbia. Ndipo Waisraeli, kila aliyekuwa askari, wakawatokea kwa kasi. (15:3).",
+        "Uzia akatuma watu Betomesthaimu, Koba, Kola na mipaka yote ya Israeli kueleza yaliyotokea na kuwataka wote watoke haraka dhidi ya adui wamwangamize. (15:4).",
+        "Waisraeli waliposikia, kwa kauli moja wakawavamia maadui na kuwaua hadi Koba. Watu wa Yerusalemu na nchi yote ya milima pia walifika, maana waliambiwa yaliyotokea katika kambi ya adui. Watu wa Gileadi na Galilaya waliwazunguka pembeni na kuwaua wengi hata ng'ambo ya Dameski na mipaka yake. (15:5).",
+        "Watu wengine wa Bethulia wakavamia kambi ya Waasiria na kuipora, wakapata mali nyingi. (15:6).",
+        "Waisraeli waliporudi kutoka mauaji, wakachukua vilivyobaki. Hata vijiji na miji ya milimani na ya uwandani ilipata nyara nyingi, maana kulikuwa na kiasi kikubwa sana. (15:7).",
+        "Kisha kuhani mkuu Yoakimu na baraza la Waisraeli waliokaa Yerusalemu wakaja kuona mema ambayo Bwana alikuwa amefanyia Israeli, kumwona Yudithi na kumtakia heri. (15:8).",
+        "Walipokutana naye, wote wakambariki kwa kauli moja na kusema, “Wewe ni utukufu wa Yerusalemu, fahari kuu ya Israeli na heshima kuu ya watu wetu! (15:9).",
+        "Umefanya haya yote kwa mkono wako mwenyewe; umeifanyia Israeli mema makubwa, na Mungu ameyafurahia. Bwana Mwenyezi akubariki milele!” Watu wote wakasema, “Amina.” (15:10).",
+        "Watu wote waliipora kambi kwa siku thelathini. Wakamkabidhi Yudithi hema la Holoferne, vyombo vyake vyote vya fedha vya chakula, vitanda, mabakuli na samani zake zote. Akavichukua, akawapakia nyumbu wake, akafunga magari yake na kuviweka juu yake. (15:11).",
+        "Wanawake wote wa Israeli wakakusanyika kumwona na kumbariki, na baadhi yao wakacheza ngoma kwa heshima yake. Akachukua fimbo zilizozungushiwa matawi ya Hedera mikononi mwake na kuwagawia wanawake waliokuwa pamoja naye, (15:12).",
+        "naye na walioandamana naye wakavaa mataji ya majani ya mizeituni. Akatangulia mbele ya watu wote katika ngoma, akiwaongoza wanawake wote, huku wanaume wote wa Israeli wakifuata wakiwa na silaha, wamevaa mataji ya maua na kuimba nyimbo za sifa. (15:13).",
+        "Yudithi akaanza wimbo huu wa shukrani mbele ya Israeli yote, na watu wote wakauimba kwa sauti kuu. (15:14)."
+      ],
+      "crossRefs": [
+        "Waamuzi 7:21-22: Kambi ya adui inapigwa na hofu usiku na jeshi linakimbia.",
+        "2 Wafalme 7:15-16: Watu wanapora kambi ya Waaramu iliyoachwa.",
+        "Kutoka 15:20-21: Miriamu anawaongoza wanawake kwa matari na ngoma.",
+        "1 Samweli 18:6-7: Wanawake wanatoka wakiimba na kucheza kuilaki jeshi.",
+        "Hesabu 31:25-27: Nyara zinagawanywa kati ya wapiganaji na jamii."
+      ],
+      "translationNotes": [
+        {
+          "term": "fimbo zilizozungushiwa matawi ya Hedera",
+          "original": "Kigiriki: θύρσος (thyrsos)",
+          "note": "Fimbo iliyozungushiwa matawi ya Hedera, mmea unaotambaa, iliyobebwa katika maandamano ya sikukuu za Kigiriki. Maandishi ya Kigiriki ya 15:12 yanaelezea ngoma ya ushindi ya Israeli kwa kitu ambacho wasomaji wake wa Kigiriki wangekitambua mara moja."
+        },
+        {
+          "term": "mataji ya majani ya mizeituni",
+          "original": "Kiebrania: זַיִת (zayit) - Kigiriki: στέφανος (stephanos)",
+          "note": "Duara la majani lililovaliwa kichwani na washindi na wanaosherehekea. Mataji hayo yalitengenezwa papo hapo na kuvaliwa siku hiyo, tofauti na taji la chuma."
+        },
+        {
+          "term": "kuhani mkuu",
+          "original": "Kiebrania: כֹּהֵן גָּדוֹל (kohen gadol) - Kigiriki: ἀρχιερεύς (archiereus)",
+          "note": "Kuhani mkuu wa hekalu la Yerusalemu, aliyekuwa pia mwenyekiti wa baraza la wazee. Katika nyakati za Waajemi na Wagiriki alikuwa mamlaka ya juu ya Kiyahudi katika mambo ya raia na ibada."
+        },
+        {
+          "term": "vyombo vya fedha vya chakula",
+          "original": "Kigiriki: ἀργυρώματα (argyromata)",
+          "note": "Sahani, mabakuli na vyombo vya kuhudumia vilivyotengenezwa kwa fedha. Utajiri wa kiwango hiki ulisafirishwa kama vyombo vya chuma na mifugo badala ya sarafu, kwa hiyo vyombo vya meza vya jemadari vilikuwa mtaji unaobebeka."
+        }
+      ],
+      "keyTakeaway": "Waasiria wanashikwa na hofu na kutawanyika, nao Israeli wanawafuatilia hadi Koba huku watu wa Gileadi na Galilaya wakiwaua hata ng'ambo ya Dameski. Bethulia wanaipora kambi kwa siku thelathini. Yoakimu na baraza wanatoka Yerusalemu kumbariki Yudithi, na wanawake wanavaa mataji ya majani na kucheza nyuma yake."
+    },
+    {
+      "id": "judith-16",
+      "title": "⚔️ Yudithi 16",
+      "refs": [
+        "Judith 16:1-25"
+      ],
+      "summaryBullets": [
+        "Yudithi akasema, “Anzisheni wimbo kwa Mungu wangu kwa matari; mwimbieni Bwana wangu kwa matoazi. Mwinuee zaburi mpya, mtukuzeni na kuliitia jina lake. (16:1).",
+        "Maana Bwana ni Mungu avunjaye vita; huweka kambi yake kati ya watu wake; ameniokoa kutoka mikononi mwa walionifuatilia. (16:2).",
+        "Mwasiria alishuka kutoka milima ya kaskazini akiwa na makumi ya maelfu ya wapiganaji wake; idadi yao iliziba mabonde ya mito, na wapanda farasi wake walifunika vilima. (16:3).",
+        "Alijisifu kwamba angechoma nchi yangu, kuwaua vijana wangu kwa upanga, kuwapiga watoto wangu wachanga chini, kuwateka watoto wangu na kuchukua mabikira wangu kama nyara. (16:4).",
+        "“Lakini Bwana Mwenyezi amewashinda kwa mkono wa mwanamke. (16:5).",
+        "Maana shujaa wao hakuanguka kwa mikono ya vijana, wala wana wa Watitani hawakumpiga, wala majitu marefu hayakumvamia; bali Yudithi binti Merari alimwangamiza kwa uzuri wa sura yake. (16:6).",
+        "“Alivua mavazi yake ya ujane ili kuwainua waliodhulumiwa katika Israeli. Akajipaka uso manukato; (16:7).",
+        "akafunga nywele zake kwa kilemba na kuvaa gauni la kitani ili kumdanganya. (16:8).",
+        "Kiatu chake kilivutia macho yake, uzuri wake ukateka akili yake, na upanga ukamkata shingo! (16:9).",
+        "Waajemi walitetemeka kwa ujasiri wake; Wamedi walishindwa moyo kwa uthubutu wake. (16:10).",
+        "“Kisha watu wangu waliodhulumiwa wakapiga kelele; watu wangu dhaifu wakalia, adui akatetemeka; waliinua sauti zao, naye adui akarudishwa nyuma. (16:11).",
+        "Wana wa wajakazi waliwachoma na kuwajeruhi kama watoto wa wakimbizi; wakaangamia mbele ya jeshi la Bwana wangu. (16:12).",
+        "“Nitamwimbia Mungu wangu wimbo mpya: Ee Bwana, wewe ni mkuu na mwenye utukufu, wa ajabu kwa nguvu, usiyeshindika. (16:13).",
+        "Viumbe vyako vyote vikutumikie, maana ulisema neno navyo vikaumbwa. Ulituma roho yako ikaviumba; hakuna anayeweza kuipinga sauti yako. (16:14).",
+        "Milima itatikisika hadi misingi yake pamoja na maji; mbele ya mtazamo wako miamba itayeyuka kama nta. Lakini kwa wanaokucha unawaonyesha rehema. (16:15).",
+        "Kila sadaka yenye harufu nzuri ni kitu kidogo, na mafuta ya sadaka zote za kuteketezwa ni kidogo sana mbele yako; lakini yeyote anayemcha Bwana ni mkuu milele. (16:16).",
+        "“Ole wao mataifa yanayoinuka dhidi ya watu wangu! Bwana Mwenyezi atalipiza kisasi siku ya hukumu; atatuma moto na minyoo katika miili yao, nao watalia kwa uchungu milele.” (16:17).",
+        "Walipofika Yerusalemu, walimwabudu Mungu. Mara tu watu walipotakasika, walitoa sadaka zao za kuteketezwa, sadaka za hiari na zawadi zao. (16:18).",
+        "Yudithi pia alimweka wakfu kwa Mungu mali yote ya Holoferne ambayo watu walikuwa wamempa, na pazia la kitanda alilokuwa amechukua katika chumba chake akalitoa kama sadaka ya nadhiri. (16:19).",
+        "Kwa miezi mitatu watu waliendelea kufanya karamu Yerusalemu mbele ya patakatifu, naye Yudithi akabaki pamoja nao. (16:20).",
+        "Baada ya hapo wote wakarudi nyumbani kwenye urithi wao. Yudithi akaenda Bethulia na kubaki katika mali yake. Maisha yake yaliyobaki aliheshimiwa katika nchi yote. (16:21).",
+        "Wengi walitamani kumwoa, lakini hakujitoa kwa mwanamume yeyote siku zote za maisha yake baada ya mumewe Manase kufa na kujiunga na watu wake. (16:22).",
+        "Akaendelea kujulikana zaidi na zaidi, akazeeka katika nyumba ya mumewe na kufikia umri wa miaka mia moja na mitano. Akamwacha huru mtumishi wake wa kike. Akafa Bethulia, nao wakamzika katika pango la mumewe Manase, (16:23).",
+        "na nyumba ya Israeli ikamwomboleza kwa siku saba. Kabla hajafa, aligawa mali yake kwa jamaa wa karibu wa mumewe Manase na jamaa zake mwenyewe wa karibu. (16:24).",
+        "Hakuna aliyewatia hofu tena Waisraeli wakati Yudithi alipokuwa hai au kwa muda mrefu baada ya kufa kwake. (16:25)."
+      ],
+      "crossRefs": [
+        "Kutoka 15:1-21: Wimbo unaoimbwa baada ya adui kuangamizwa baharini.",
+        "Waamuzi 5:1-31: Debora na Baraka wanaimba kuhusu vita na matokeo yake.",
+        "1 Samweli 2:1-10: Hana anaimba kwamba Bwana hushusha na kuinua.",
+        "Isaya 66:24: Moto na minyoo ni mwisho wa waliomwasi Mungu.",
+        "Mwanzo 50:10: Siku saba za maombolezo kwa ajili ya aliyekufa."
+      ],
+      "translationNotes": [
+        {
+          "term": "zaburi mpya",
+          "original": "Kiebrania: שִׁיר חָדָשׁ (shir chadash) - Kigiriki: ψαλμὸς καινός (psalmos kainos)",
+          "note": "Kauli maalumu ya wimbo uliotungwa kwa ajili ya tendo jipya la ukombozi, kama katika Zaburi 96:1 na 98:1. Inamaanisha wimbo uliotungwa kwa tukio hili, si aina mpya ya muziki."
+        },
+        {
+          "term": "wana wa Watitani",
+          "original": "Kiebrania: רְפָאִים (Rephaim) - Kigiriki: υἱοὶ τιτάνων (huioi titanon)",
+          "note": "Watafsiri wa Kigiriki walitumia Watitani, majitu ya hekaya za Kigiriki, kutafsiri Warefaimu wa Kiebrania. Kigiriki cha 2 Samweli 5:18 na 5:22 huliita Bonde la Warefaimu bonde la Watitani."
+        },
+        {
+          "term": "sadaka ya nadhiri",
+          "original": "Kiebrania: נֶדֶר (neder) - Kigiriki: ἀνάθημα (anathema)",
+          "note": "Kitu kilichoahidiwa kwa Mungu na kukabidhiwa patakatifu kabisa, kionyeshwe huko badala ya kuchomwa. Luka 21:5 hutumia neno hilo hilo la Kigiriki kwa zawadi zilizopamba hekalu."
+        },
+        {
+          "term": "wakamwomboleza kwa siku saba",
+          "original": "Kiebrania: שִׁבְעָה (shivah) - Kigiriki: ἑπτὰ ἡμέρας (hepta hemeras)",
+          "note": "Kipindi maalumu cha maombolezo ya siku saba, kilichofanywa kwa Yakobo katika Mwanzo 50:10 na kwa Sauli katika 1 Samweli 31:13. Yudithi anaombolezwa na nyumba yote ya Israeli, si familia yake pekee."
+        }
+      ],
+      "keyTakeaway": "Yudithi anaongoza wimbo wa shukrani unaosimulia jinsi Bwana alivyomwangamiza Mwasiria kwa mkono wa mwanamke. Yerusalemu anaweka wakfu mali za Holoferne na pazia lake la kitanda kama sadaka ya nadhiri. Anamwacha huru mtumishi wake, haolewi tena, anakufa akiwa na miaka mia moja na mitano, na Israeli wanamwomboleza siku saba."
+    }
+  ],
+  "intro": "Kitabu cha Yudithi hakimtaji mwandishi wake, wala kanisa la mwanzo halikumtaja mwandishi wake. Klementi wa Roma anakitaja katika Barua yake kwa Wakorintho 55 (takriban mwaka 96 baada ya Kristo (BK)), akikumbuka kwamba Yudithi aliwaomba wazee ruhusa ya kwenda katika kambi ya wageni na kwamba Bwana alimkabidhi Holoferne mikononi mwa mwanamke. Hii inaonyesha kitabu kilikuwa kinatumika Roma katika karne ya kwanza BK. Hakuna nakala ya Kiebrania au Kiaramu iliyosalia kutoka nyakati za kale, wala hakuna iliyopatikana Qumrani. Yerome anasema katika utangulizi wake wa Yudithi kwamba alitafsiri kutoka nakala ya Kiaramu kwa kazi ya usiku mmoja, na alikubali kazi hiyo kwa sababu Baraza la Nikaia lilisemekana kuwa limeihesabu Yudithi kati ya Maandiko matakatifu. Toleo lake la Kilatini, lililotengenezwa takriban mwaka 407 BK, ni fupi kuliko la Kigiriki.\n\nMandhari ya kitabu ni kampeni dhidi ya mataifa ya magharibi. Kitabu kinajiweka katika mwaka wa kumi na mbili wa utawala wa Nebukadneza, aliyewatawala Waasiria katika mji mkuu wa Ninawi (1:1), wakati Arfaksadi alipowatawala Wamedi huko Ekbatana na kuuzungushia mji huo kuta za mawe yaliyochongwa (1:2-4). Magharibi wanakataa mwito wake wa vita; kwa hiyo anaapa kulipiza kisasi, anamshinda na kumuua Arfaksadi katika milima ya Ragau katika mwaka wake wa kumi na saba (1:11-15), na katika mwaka wake wa kumi na nane anamtuma Holoferne, jemadari mkuu wa jeshi na wa pili kwa cheo baada yake, kuelekea magharibi akiwa na askari wa miguu laki moja na elfu ishirini na wapiga mishale elfu kumi na mbili waliopanda farasi (2:4-5; 2:15). Njia ya jeshi inaelezwa hatua kwa hatua: kutoka Ninawi hadi uwanda wa Bektilethi chini ya Kilikia ya Juu, kisha kupitia Puti na Ludi, Mesopotamia, Kilikia, Wamidiani na uwanda wa Dameski wakati wa mavuno ya ngano, hadi pwani kutoka Sidoni na Tiro hadi Askaloni (2:21-28). Miji ya pwani inajisalimisha; Holoferne anaweka vikosi vya kulinda na kubomoa madhabahu yao ili kila taifa limwite Nebukadneza mungu (3:6-8), kisha anapiga kambi kati ya Geba na Skithopolisi karibu na Dothani, mkabala na milima ya Yudea (3:9-10).\n\nHuko Yudea watu walikuwa wamerudi kutoka uhamishoni karibuni tu, na madhabahu pamoja na vyombo vitakatifu vilikuwa vimetakaswa tena baada ya kunajisiwa (4:3). Kuhani mkuu Yoakimu, pamoja na baraza la watu wote huko Yerusalemu, anawaamuru Bethulia na Betomesthaimu, zinazokabili Esdraeloni karibu na Dothani, wazishike njia za milimani ambazo watu wawili tu wanaweza kupita kwa pamoja (4:6-8). Holoferne analeta askari wa miguu laki moja na elfu sabini na wapanda farasi elfu kumi na mbili dhidi ya Bethulia. Kwa ushauri wa Waedomu na Wamoabu, anateka chemchemi iliyo chini ya mlima badala ya kulazimisha njia ya milimani, hivyo baada ya siku thelathini na nne birika za maji zinakauka (7:2; 7:8-20). Akiori, kiongozi Mwamoni aliyemwambia kwamba watu hawa hawawezi kushindwa isipokuwa wamtende Mungu wao dhambi, amefungwa na kuachwa chini ya mji (5:5-21; 6:10-13), na Bagoasi, towashi, anasimamia nyumba ya Holoferne (12:11). Yudithi ni mjane wa Bethulia, binti Merari, mwenye nasaba inayorudi vizazi kumi na sita hadi Israeli (8:1); katika sala yake anamtaja Simeoni kuwa babu yake (9:2). Mumewe Manase alikufa kutokana na kiharusi cha jua wakati wa mavuno ya shayiri (8:2-3). Yudithi anakufa Bethulia akiwa na miaka mia moja na mitano (16:23).\n\nNi mtawala gani na kampeni gani kitabu kinazorejelea bado ni swali wazi, kwa kuwa Maandiko hayatoi simulizi ya pili ya vita hivi. Majina ya maafisa wote wawili yameshuhudiwa katika kipindi cha Waajemi. Diodoro wa Sisilia anamtaja Holoferne, mwana wa Ariamnesi na ndugu wa Ariarathesi wa Kapadokia, aliyepigana kwa ajili ya Artashasta III Okho (alitawala 359-338 kabla ya Kristo (KK)) katika ushindi wa upya wa Misri wa Waajemi (*Maktaba ya Historia* 31.19.2-3); pia anamtaja towashi Bagoasi kuwa mtu aliyeaminiwa zaidi na mfalme huyo na kamanda katika kampeni hiyo hiyo (16.47). Yudithi iko kati ya vitabu vya historia katika kodeksi za Kigiriki pamoja na Tobiti na Esta, na baada ya Tobiti katika Vulgata. Baraza la Hipo (393 BK) liliiorodhesha Yudithi kati ya vitabu vya kanoni na Mabaraza ya Karthago (397 na 419 BK) yalirudia orodha hiyo; Baraza la Trento (kikao cha 4, 1546 BK) liliithibitisha, na Sinodi ya Yerusalemu chini ya Patriarki Dositeo (1672 BK) iliitaja kuwa sehemu halisi ya Maandiko kwa Waorthodoksi wa Mashariki. Ibara ya VI ya Ibara Thelathini na Tisa (1571 BK) inaiweka Yudithi kati ya vitabu ambavyo Kanisa la Uingereza husoma kuwa mifano ya maisha, lakini si kwa kuthibitisha mafundisho. Jina la Kiebrania lililo nyuma ya kichwa cha kitabu ni Yehudit (יְהוּדִית), umbo la kike la Yehudi, likimaanisha “mwanamke Myahudi” au “mwanamke wa Yuda”; umbo la Kigiriki ni Ioudith (Ἰουδίθ). Katika desturi za Kiyahudi simulizi hili huhusishwa na Hanuka: Musa Isserlesi, aitwaye Rema (1520-1572 BK), anaandika katika maelezo yake ya *Shulchan Aruch* (*Orach Chayim* 670:2) desturi ya kula jibini wakati wa sikukuu hiyo kwa kumbukumbu ya Yudithi."
+}

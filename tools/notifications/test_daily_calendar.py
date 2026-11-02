@@ -25,7 +25,7 @@ class DailyCalendarTests(unittest.TestCase):
 
     def test_every_bundled_language_has_a_complete_calendar(self):
         paths = sorted((daily.ASSETS / "daily_verses").glob("*/daily.json"))
-        self.assertEqual(13, len(paths))
+        self.assertEqual(14, len(paths))
         for path in paths:
             with self.subTest(language=path.parent.name):
                 entries = daily.read_json(path)["verses"]

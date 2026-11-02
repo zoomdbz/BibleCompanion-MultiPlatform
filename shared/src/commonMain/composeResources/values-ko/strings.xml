@@ -408,6 +408,8 @@
     <string name="ui_choose_book">책 선택</string>
     <string name="ui_choose_bible_version">성경 번역본 선택</string>
     <string name="ui_previous_chapter">이전 장</string>
+    <string name="ui_previous_book">이전 책</string>
+    <string name="ui_next_book">다음 책</string>
     <string name="ui_next_chapter">다음 장</string>
     <string name="ui_chapter_position">%1$d / %2$d</string>
     <string name="ui_foundations">기초</string>

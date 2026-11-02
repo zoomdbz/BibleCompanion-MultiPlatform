@@ -107,7 +107,7 @@ class ValidationError(RuntimeError):
 
 
 class ConfigurationError(RuntimeError):
-    """Required credentials, licensing, or local configuration is unavailable."""
+    """Required credentials or local configuration is unavailable."""
 
 
 class UnsupportedMarkup(RuntimeError):

@@ -9,6 +9,7 @@ import unittest
 
 ROOT = Path(__file__).resolve().parents[2]
 BASELINE = "a684cd8e4bd9de368fcbab523cb7a66a613ae1ac"
+MOVE_COMMIT = "4f4af2c3"
 LANGUAGES = ("en", "de", "es", "fr", "it", "pt", "ru", "ja", "ko", "zh-Hans", "zh-Hant", "ar", "hi")
 REQUIRED_SOURCES = (
     "https://penelope.uchicago.edu/josephus/ant-17.html",
@@ -30,8 +31,12 @@ def normalized(text: str) -> str:
 
 
 def baseline_text(path: str) -> str:
+    return committed_text(BASELINE, path)
+
+
+def committed_text(revision: str, path: str) -> str:
     result = subprocess.run(
-        ["git", "show", f"{BASELINE}:{path}"],
+        ["git", "show", f"{revision}:{path}"],
         cwd=ROOT,
         check=True,
         capture_output=True,
@@ -70,15 +75,24 @@ class AstronomyBibliographyContracts(unittest.TestCase):
                 expected_bibliography = original_bibliography.rstrip("\n")
                 expected_bibliography += f"\n\n## {title}\n\n{paragraph}\n"
                 self.assertEqual(
-                    current_text(astronomy_path).rstrip("\n"),
+                    committed_text(MOVE_COMMIT, astronomy_path).rstrip("\n"),
                     expected_astronomy.rstrip("\n"),
-                    "astronomical note changed beyond removing its source paragraph",
+                    "source-move commit changed the astronomical note beyond its source paragraph",
                 )
                 self.assertEqual(
-                    current_text(bibliography_path).rstrip("\n"),
+                    committed_text(MOVE_COMMIT, bibliography_path).rstrip("\n"),
                     expected_bibliography.rstrip("\n"),
-                    "bibliography must preserve its old text and append the exact moved paragraph",
+                    "source-move commit must append only the exact moved paragraph",
                 )
+
+    def test_moved_source_paragraph_remains_in_current_bibliography(self) -> None:
+        for language in LANGUAGES:
+            with self.subTest(language=language):
+                astronomy_path = f"shared/assets/notes/{language}/astronomical_signs.md"
+                bibliography_path = f"shared/assets/notes/{language}/bibliography.md"
+                paragraph = source_paragraph(baseline_text(astronomy_path))
+                self.assertNotIn(paragraph, current_text(astronomy_path))
+                self.assertEqual(1, current_text(bibliography_path).count(paragraph))
 
 
 if __name__ == "__main__":

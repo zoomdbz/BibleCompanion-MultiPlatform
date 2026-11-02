@@ -291,6 +291,7 @@ private fun ttsLocale(languageTag: String): Locale {
         "ja" -> "ja-JP"
         "hi" -> "hi-IN"
         "ar" -> "ar-SA"
+        "sw" -> "sw-TZ"
         "uk" -> "uk-UA"
         else -> languageTag
     }

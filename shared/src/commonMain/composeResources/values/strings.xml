@@ -120,6 +120,9 @@
     <string name="about_features_text">Read references inside the app or open them in YouVersion/Bible.com or Bible Gateway. You can choose modern or traditional Bible editions for in-app reading, where available in your selected language. Search, text-to-speech, Verse of the Day, reading-position restoration, bookmarks, saved verses, highlights, labels, and visual settings support daily reading. Study tools cover Bible chronology; the genealogy, identity, and divinity of Jesus; the Gospel and grace; canon and translation; Biblical calendars and feasts; Messianic prophecy; Daniel and Revelation timelines; astronomical signs; spiritual warfare; false doctrine; and common distortions of Scripture.</string>
     <string name="about_mission_text">Bible Companion approaches Scripture as truth. It aims for faithful, readable, language-appropriate text; exact references; honest treatment of the divine Name; clear marking of Jesus' words; and candor wherever chronology, manuscript evidence, translation, or historical attribution remains debated. It requires no account, keeps its core content available offline, and exists for serious discipleship and Berean examination of Scripture (Matthew 28:19; Acts 17:11), freely given in the spirit of Matthew 10:8.</string>
     <string name="about_free_text">Free. No ads, subscriptions, accounts, or monetization. All glory to God.</string>
+    <string name="swahili_sources_title">Swahili Bible sources</string>
+    <string name="swahili_onen_attribution">Biblica Open Kiswahili Contemporary Version (Neno) 2015. Copyright 1984, 1989, 2009, 2015 Biblica, Inc. Source: https://ebible.org/swhonen/. Licensed under Creative Commons Attribution-ShareAlike 4.0: https://creativecommons.org/licenses/by-sa/4.0/. Converted from USFM to app JSON; publisher footnotes and cross-references were omitted, display markers were added, and the source boundary at Nehemiah 8:1 was repaired. These changes are not presented as endorsed by Biblica.</string>
+    <string name="swahili_suv_attribution">Swahili Union Version (SUV). Copyright 1952, 1997 Bible Societies of Tanzania and Kenya. This app copy was converted from the supplied XML to JSON. The source does not state a redistribution license.</string>
     <string name="version_label">Version %1$s</string>
     <string name="rate_app">Rate This App</string>
     <string name="share_app">Share This App</string>
@@ -369,6 +372,8 @@
     <string name="version_local_modern">In-app Bible edition</string>
     <string name="version_local_traditional">Traditional in-app Bible edition</string>
     <string name="edition_fallback">The selected edition is unavailable for this book; showing the default in-app edition.</string>
+    <string name="swahili_dc_study_translation">App Swahili deuterocanon translation</string>
+    <string name="swahili_dc_edition_fallback">SUV 1952 does not include this book; showing the app's Swahili deuterocanon translation.</string>
 
     <!-- Bible chronology -->
     <string name="bible_chronology">Bible Chronology</string>
@@ -442,6 +447,8 @@
     <string name="ui_choose_book">Choose a book</string>
     <string name="ui_choose_bible_version">Choose Bible version</string>
     <string name="ui_previous_chapter">Previous chapter</string>
+    <string name="ui_previous_book">Previous book</string>
+    <string name="ui_next_book">Next book</string>
     <string name="ui_next_chapter">Next chapter</string>
     <string name="ui_chapter_position">%1$d / %2$d</string>
     <string name="ui_foundations">Foundations</string>

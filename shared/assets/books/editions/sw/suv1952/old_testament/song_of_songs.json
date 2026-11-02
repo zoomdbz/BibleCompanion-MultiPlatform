@@ -1,0 +1,660 @@
+{
+  "schemaVersion": 2,
+  "editionId": "suv1952",
+  "language": "sw",
+  "collection": "old_testament",
+  "bookId": "song_of_songs",
+  "sourceBookCode": "SNG",
+  "coverage": "full",
+  "chapters": [
+    {
+      "number": 1,
+      "lastVerse": 17,
+      "verseUnitCount": 17,
+      "verses": [
+        {
+          "chapter": 1,
+          "verse": 1,
+          "text": "Wimbo ulio bora, wa Sulemani."
+        },
+        {
+          "chapter": 1,
+          "verse": 2,
+          "text": "Kubusu na anibusu kwa kinywa chake. Maana pambaja zako zapita divai;"
+        },
+        {
+          "chapter": 1,
+          "verse": 3,
+          "text": "Manukato yako yanukia vizuri; Jina lako ni kama marhamu iliyomiminwa; Kwa hiyo wanawali hukupenda."
+        },
+        {
+          "chapter": 1,
+          "verse": 4,
+          "text": "Nivute nyuma yako, na tukimbie; Mfalme ameniingiza vyumbani mwake. Tutafurahi na kukushangilia; Tutazinena pambaja zako kuliko divai; Ndiyo, ina haki wakupende."
+        },
+        {
+          "chapter": 1,
+          "verse": 5,
+          "text": "Mimi ni mweusi-mweusi, lakini ninao uzuri, Enyi binti za Yerusalemu, Mfano wa hema za Kedari, Kama mapazia yake Sulemani."
+        },
+        {
+          "chapter": 1,
+          "verse": 6,
+          "text": "Msinichunguze kwa kuwa ni mweusi-mweusi, Kwa sababu jua limeniunguza. Wana wa mamangu walinikasirikia, Waliniweka niwe mlinzi wa mashamba ya mizabibu; Bali shamba langu mwenyewe sikulilinda."
+        },
+        {
+          "chapter": 1,
+          "verse": 7,
+          "text": "Nijulishe, ee mpendwa wa nafsi yangu, Ni wapi utakapolisha kundi lako, Ni wapi utakapolilaza adhuhuri. Kwa nini niwe kama aliyefungiwa kidoto, Karibu na makundi ya wenzako?"
+        },
+        {
+          "chapter": 1,
+          "verse": 8,
+          "text": "Usipojua, wewe uliye mzuri katika wanawake, Shika njia uzifuate nyayo za kondoo, Na kuwalisha wana-mbuzi wako Karibu na hema za wachungaji."
+        },
+        {
+          "chapter": 1,
+          "verse": 9,
+          "text": "Mpenzi wangu, nimekulinganisha Na farasi katika magari ya Farao."
+        },
+        {
+          "chapter": 1,
+          "verse": 10,
+          "text": "Mashavu yako ni mazuri kwa mashada, Shingo yako kwa mikufu ya vito."
+        },
+        {
+          "chapter": 1,
+          "verse": 11,
+          "text": "Tutakufanyizia mashada ya dhahabu, Yenye vifungo vya fedha."
+        },
+        {
+          "chapter": 1,
+          "verse": 12,
+          "text": "Muda mfalme alipoketi juu ya matakia, Nardo yangu ilitoa harufu yake."
+        },
+        {
+          "chapter": 1,
+          "verse": 13,
+          "text": "Mpendwa wangu ni kama mfuko wa manemane Ukilazwa usiku maziwani mwangu."
+        },
+        {
+          "chapter": 1,
+          "verse": 14,
+          "text": "Mpendwa wangu ni kama kishada cha hina, Katika mizabibu huko Engedi."
+        },
+        {
+          "chapter": 1,
+          "verse": 15,
+          "text": "Tazama, u mzuri, mpenzi wangu, U mzuri, macho yako ni kama ya hua."
+        },
+        {
+          "chapter": 1,
+          "verse": 16,
+          "text": "Tazama, u mzuri, mpendwa wangu, Wapendeza, na kitanda chetu ni majani;"
+        },
+        {
+          "chapter": 1,
+          "verse": 17,
+          "text": "Nguzo za nyumba yetu ni mierezi, Na viguzo vyetu ni miberoshi."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 2,
+      "lastVerse": 17,
+      "verseUnitCount": 17,
+      "verses": [
+        {
+          "chapter": 2,
+          "verse": 1,
+          "text": "Mimi ni ua la uwandani, Ni nyinyoro ya mabondeni."
+        },
+        {
+          "chapter": 2,
+          "verse": 2,
+          "text": "Kama nyinyoro kati ya miiba, Kadhalika mpenzi wangu kati ya binti."
+        },
+        {
+          "chapter": 2,
+          "verse": 3,
+          "text": "Kama mpera kati ya miti ya msituni, Kadhalika mpendwa wangu kati ya vijana. Naliketi kivulini mwake kwa furaha, Na matunda yake naliyaonja kuwa matamu."
+        },
+        {
+          "chapter": 2,
+          "verse": 4,
+          "text": "Akanileta mpaka nyumba ya karamu, Na bendera yake juu yangu ni mapenzi."
+        },
+        {
+          "chapter": 2,
+          "verse": 5,
+          "text": "Nishibisheni zabibu, niburudisheni kwa mapera, Kwa maana nimezimia kwa mapenzi."
+        },
+        {
+          "chapter": 2,
+          "verse": 6,
+          "text": "Mkono wake wa kushoto uko chini ya kichwa changu, Nao wa kuume unanikumbatia!"
+        },
+        {
+          "chapter": 2,
+          "verse": 7,
+          "text": "Nawasihi, enyi binti za Yerusalemu, Kwa paa na kwa ayala wa porini, Msiyachochee mapenzi, wala kuyaamsha, Hata yatakapoona vema yenyewe."
+        },
+        {
+          "chapter": 2,
+          "verse": 8,
+          "text": "Sikiliza! Ni mpendwa wangu! Tazama, anakuja, Akiruka milimani, akichachawa vilimani."
+        },
+        {
+          "chapter": 2,
+          "verse": 9,
+          "text": "Mpendwa wangu ni kama paa, au ayala. Tazama, asimama nyuma ya ukuta wetu, Achungulia dirishani, atazama kimiani."
+        },
+        {
+          "chapter": 2,
+          "verse": 10,
+          "text": "Mpendwa wangu alinena, akaniambia, Ondoka, mpenzi wangu, mzuri wangu, uje zako,"
+        },
+        {
+          "chapter": 2,
+          "verse": 11,
+          "text": "Maana tazama, kaskazi imepita, Masika imekwisha, imekwenda zake;"
+        },
+        {
+          "chapter": 2,
+          "verse": 12,
+          "text": "Maua yatokea katika nchi, Wakati wa kupelea umefika, Na sauti ya mwigo husikiwa kwetu."
+        },
+        {
+          "chapter": 2,
+          "verse": 13,
+          "text": "Mtini wapevusha tini zake, Na mizabibu inachanua, Inatoa harufu yake nzuri; Ondoka, mpenzi wangu, mzuri wangu, uje zako."
+        },
+        {
+          "chapter": 2,
+          "verse": 14,
+          "text": "Hua wangu, mafichoni mwa jabali, Katika sitara za magenge, Nitazame uso wako, nisikie sauti yako, Maana sauti yako ni tamu na uso wako mzuri."
+        },
+        {
+          "chapter": 2,
+          "verse": 15,
+          "text": "Tukamatie mbweha, Wale mbweha wadogo, Waiharibuo mizabibu, Maana mizabibu yetu yachanua."
+        },
+        {
+          "chapter": 2,
+          "verse": 16,
+          "text": "Mpendwa wangu ni wangu, na mimi ni wake; Hulisha kundi lake penye nyinyoro."
+        },
+        {
+          "chapter": 2,
+          "verse": 17,
+          "text": "Hata jua lipunge, na vivuli vikimbie, Unigeukie, mpendwa wangu, Nawe uwe kama paa, au ayala, Juu ya milima ya Betheri."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 3,
+      "lastVerse": 11,
+      "verseUnitCount": 11,
+      "verses": [
+        {
+          "chapter": 3,
+          "verse": 1,
+          "text": "Usiku kitandani nalimtafuta mpendwa wa nafsi yangu, Nalimtafuta, nisimpate."
+        },
+        {
+          "chapter": 3,
+          "verse": 2,
+          "text": "Nikasema, Haya, niondoke nizunguke mjini, Katika njia zake na viwanjani, Nimtafute mpendwa wa nafsi yangu. Nikamtafuta, nisimpate."
+        },
+        {
+          "chapter": 3,
+          "verse": 3,
+          "text": "Walinzi wazungukao mjini waliniona; Je! Mmemwona mpendwa wa nafsi yangu?"
+        },
+        {
+          "chapter": 3,
+          "verse": 4,
+          "text": "Kitambo kidogo tu nikiisha kuwaondokea, Nikamwona mpendwa wa nafsi yangu; Nikamshika, nisimwache tena, Hata nilipomleta nyumbani mwa mamangu, Chumbani mwake aliyenizaa."
+        },
+        {
+          "chapter": 3,
+          "verse": 5,
+          "text": "Nawasihi, enyi binti za Yerusalemu, Kwa paa na kwa ayala wa porini, Msiyachochee mapenzi, wala kuyaamsha, Hata yatakapoona vema yenyewe."
+        },
+        {
+          "chapter": 3,
+          "verse": 6,
+          "text": "Ni nani huyu apandaye kutoka nyikani, Mfano wake ni nguzo za moshi; Afukizwa manemane na ubani, Na mavumbi ya manukato yote ya mchuuzi?"
+        },
+        {
+          "chapter": 3,
+          "verse": 7,
+          "text": "Tazama, ni machela yake Sulemani; Mashujaa sitini waizunguka, Wa mashujaa wa Israeli."
+        },
+        {
+          "chapter": 3,
+          "verse": 8,
+          "text": "Wote wameshika upanga, Wamehitimu kupigana; Kila mtu anao upanga wake pajani Kwa hofu ya kamsa za usiku."
+        },
+        {
+          "chapter": 3,
+          "verse": 9,
+          "text": "Mfalme Sulemani alijifanyizia machela Ya miti ya Lebanoni;"
+        },
+        {
+          "chapter": 3,
+          "verse": 10,
+          "text": "Nguzo zake alizifanyiza za fedha, Na mgongo wake wa dhahabu, Kiti chake kimepambwa urujuani, Gari lake limenakishiwa njumu, Hiba ya binti za Yerusalemu."
+        },
+        {
+          "chapter": 3,
+          "verse": 11,
+          "text": "Tokeni, enyi binti za Sayuni, Mtazameni Mfalme Sulemani, Amevaa taji alivyovikwa na mamaye, Siku ya maposo yake, Siku ya furaha ya moyo wake."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 4,
+      "lastVerse": 16,
+      "verseUnitCount": 16,
+      "verses": [
+        {
+          "chapter": 4,
+          "verse": 1,
+          "text": "Tazama, u mzuri, mpenzi wangu, U mzuri, macho yako ni kama ya hua, Nyuma ya barakoa yako. Nywele zako ni kama kundi la mbuzi, Wakijilaza mbavuni pa mlima Gileadi."
+        },
+        {
+          "chapter": 4,
+          "verse": 2,
+          "text": "Meno yako ni kama kundi waliokatwa manyoya, Wakipanda kutoka kuoshwa, Ambao kila mmoja amezaa mapacha, Wala hakuna aliyefiwa kati yao."
+        },
+        {
+          "chapter": 4,
+          "verse": 3,
+          "text": "Midomo yako ni kama uzi mwekundu, Na kinywa chako ni kizuri; Mashavu yako ni kama kipande cha komamanga, Nyuma ya barakoa yako."
+        },
+        {
+          "chapter": 4,
+          "verse": 4,
+          "text": "Shingo yako ni kama mnara wa Daudi, Uliojengwa pa kuwekea silaha; Ngao elfu zimetungikwa juu yake, Zote ni ngao za mashujaa."
+        },
+        {
+          "chapter": 4,
+          "verse": 5,
+          "text": "Maziwa yako mawili ni kama wana-paa wawili, Nyuma ya barakoa yako. Ambao ni mapacha ya paa; Wakilisha penye nyinyoro."
+        },
+        {
+          "chapter": 4,
+          "verse": 6,
+          "text": "Hata jua lipunge, na vivuli vikimbie, Nitakwenda kwenye mlima wa manemane, Na kwenye kilima cha ubani."
+        },
+        {
+          "chapter": 4,
+          "verse": 7,
+          "text": "Mpenzi wangu, u mzuri pia pia, Wala ndani yako hamna ila."
+        },
+        {
+          "chapter": 4,
+          "verse": 8,
+          "text": "Bibi arusi, njoo pamoja nami toka Lebanoni, Pamoja nami toka Lebanoni. Shuka kutoka kilele cha Amana, Kutoka vilele vya Seniri na Hermoni; Kutoka mapangoni mwa simba, Kutoka milimani mwa chui."
+        },
+        {
+          "chapter": 4,
+          "verse": 9,
+          "text": "Umenishangaza moyo, umbu langu, Bibi arusi, umenishangaza moyo, Kwa mtupo mmoja wa macho yako, Kwa mkufu mmoja wa shingo yako."
+        },
+        {
+          "chapter": 4,
+          "verse": 10,
+          "text": "Jinsi zilivyo nzuri pambaja zako, umbu langu, Bibi arusi, ni nzuri kupita divai; Na harufu ya marhamu yako Yapita manukato ya kila namna."
+        },
+        {
+          "chapter": 4,
+          "verse": 11,
+          "text": "Bibi arusi, midomo yako yadondoza asali, Asali na maziwa vi chini ya ulimi wako; Na harufu ya mavazi yako Ni kama harufu ya Lebanoni."
+        },
+        {
+          "chapter": 4,
+          "verse": 12,
+          "text": "Bustani iliyofungwa ni umbu langu, bibi arusi, Kijito kilichofungwa, chemchemi iliyotiwa muhuri."
+        },
+        {
+          "chapter": 4,
+          "verse": 13,
+          "text": "Machipuko yako ni bustani ya komamanga, Yenye matunda mazuri, hina na nardo,"
+        },
+        {
+          "chapter": 4,
+          "verse": 14,
+          "text": "Nardo na zafarani, mchai na mdalasini, Na miti yote iletayo ubani, Manemane na udi, na kolezi kuu zote."
+        },
+        {
+          "chapter": 4,
+          "verse": 15,
+          "text": "Wewe ndiwe chemchemi ya bustani yangu, Kisima cha maji yaliyo hai, Vijito vya Lebanoni viendavyo kasi."
+        },
+        {
+          "chapter": 4,
+          "verse": 16,
+          "text": "Amka, kaskazi; nawe uje, kusi; Vumeni juu ya bustani yangu, Manukato ya bustani yatokee. Mpendwa wangu na aingie bustanini mwake, Akayale matunda yake mazuri."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 5,
+      "lastVerse": 16,
+      "verseUnitCount": 16,
+      "verses": [
+        {
+          "chapter": 5,
+          "verse": 1,
+          "text": "Naingia bustanini mwangu, umbu langu, bibi arusi, Nachuma manemane yangu na rihani, Nala sega la asali na asali yangu, Nanywa divai yangu na maziwa. Kaleni, rafiki zangu, kanyweni, Naam, nyweni sana, wapendwa wangu."
+        },
+        {
+          "chapter": 5,
+          "verse": 2,
+          "text": "Nalikuwa nimelala, lakini moyo wangu u macho, Sikiliza! Mpendwa wangu anabisha! Nifungulie, umbu langu, mpenzi wangu, Hua wangu, mkamilifu wangu, Kwa maana kichwa changu kimelowa umande, Nywele zangu zina manyunyu ya usiku."
+        },
+        {
+          "chapter": 5,
+          "verse": 3,
+          "text": "Nimeivua kanzu yangu; niivaeje? Nimeitawadha miguu; niichafueje?"
+        },
+        {
+          "chapter": 5,
+          "verse": 4,
+          "text": "Mpendwa wangu aliutia mkono wake tunduni, Na moyo wangu ukachomeka kwa ajili yake."
+        },
+        {
+          "chapter": 5,
+          "verse": 5,
+          "text": "Nikaondoka nimfungulie mpendwa wangu; Mikono yangu ilidondoza manemane, Na vidole vyangu matone ya manemane, Penye vipini vya komeo."
+        },
+        {
+          "chapter": 5,
+          "verse": 6,
+          "text": "Nalimfungulia mpendwa wangu, Lakini mpendwa wangu amegeuka amepita; (Nimezimia nafsi yangu aliponena), Nikamtafuta, nisimpate, Nikamwita, asiniitikie."
+        },
+        {
+          "chapter": 5,
+          "verse": 7,
+          "text": "Walinzi wazungukao mjini waliniona, Wakanipiga na kunitia jeraha, Walinzi walindao kuta zake Wakaninyang’anya shela yangu."
+        },
+        {
+          "chapter": 5,
+          "verse": 8,
+          "text": "Nawasihi, enyi binti za Yerusalemu, Ninyi mkimwona mpendwa wangu, Ni nini mtakayomwambia? Ya kwamba nazimia kwa mapenzi."
+        },
+        {
+          "chapter": 5,
+          "verse": 9,
+          "text": "Mpendwa wa namna gani ni mpendwa wako, Wewe uliye mzuri katika wanawake, Mpendwa wa namna gani ni mpendwa wako, Hata wewe utusihi hivyo?"
+        },
+        {
+          "chapter": 5,
+          "verse": 10,
+          "text": "Mpendwa wangu ni mweupe, tena mwekundu, Mashuhuri miongoni mwa elfu kumi;"
+        },
+        {
+          "chapter": 5,
+          "verse": 11,
+          "text": "Kichwa chake ni kama dhahabu safi sana, Nywele zake ni za ukoka, nyeusi kama kunguru;"
+        },
+        {
+          "chapter": 5,
+          "verse": 12,
+          "text": "Macho yake ni kama hua penye vijito, Wakioga kwa maziwa, wakiikalia mito iliyojaa;"
+        },
+        {
+          "chapter": 5,
+          "verse": 13,
+          "text": "Mashavu yake ni kama matuta ya rihani, Ambayo hufanyizwa manukato; Midomo yake ni kama nyinyoro, Inadondoza matone ya manemane;"
+        },
+        {
+          "chapter": 5,
+          "verse": 14,
+          "text": "Mikono yake ni kama mianzi ya dhahabu, lliyopambwa kwa zabarajadi; Kiwiliwili chake kama kazi ya pembe, Iliyonakishiwa kwa yakuti samawi;"
+        },
+        {
+          "chapter": 5,
+          "verse": 15,
+          "text": "Miguu yake ni kama nguzo za marimari, Zilizowekwa juu ya misingi ya dhahabu; Sura yake ni kama Lebanoni, Ni bora mfano wa mierezi;"
+        },
+        {
+          "chapter": 5,
+          "verse": 16,
+          "text": "Kinywa chake kimejaa maneno matamu, Ndiye mzuri sana pia pia. Ni huyu mpendwa wangu, ni huyu rafiki yangu, Enyi binti za Yerusalemu."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 6,
+      "lastVerse": 13,
+      "verseUnitCount": 13,
+      "verses": [
+        {
+          "chapter": 6,
+          "verse": 1,
+          "text": "Mpendwa wako amekwenda wapi, Wewe uliye mzuri katika wanawake? Mpendwa wako amegeukia upande upi, Ili tumtafute pamoja nawe?"
+        },
+        {
+          "chapter": 6,
+          "verse": 2,
+          "text": "Mpendwa wangu ameshukia bustani yake, Kwenye matuta ya rihani; Ili kulisha penye bustani, Ili kuchuma nyinyoro."
+        },
+        {
+          "chapter": 6,
+          "verse": 3,
+          "text": "Mimi ni wake mpendwa wangu, naye ni wangu, Hulisha kundi lake penye nyinyoro."
+        },
+        {
+          "chapter": 6,
+          "verse": 4,
+          "text": "Mpenzi wangu, u mzuri kama Tirza, Mwenye kupendeza kama Yerusalemu, Wa kutisha kama wenye bendera."
+        },
+        {
+          "chapter": 6,
+          "verse": 5,
+          "text": "Uyageuzie macho yako mbali nami, Kwa maana yamenitisha sana. Nywele zako ni kama kundi la mbuzi, Wakijilaza mbavuni pa Gileadi."
+        },
+        {
+          "chapter": 6,
+          "verse": 6,
+          "text": "Meno yako kama kundi la kondoo, Wakipanda kutoka kuoshwa; Ambao kila mmoja amezaa mapacha, Wala hakuna aliyefiwa kati yao."
+        },
+        {
+          "chapter": 6,
+          "verse": 7,
+          "text": "Mashavu yako ni kama kipande cha komamanga, Nyuma ya barakoa yako."
+        },
+        {
+          "chapter": 6,
+          "verse": 8,
+          "text": "Wako malkia sitini, na masuria themanini, Na wanawali wasiohesabika;"
+        },
+        {
+          "chapter": 6,
+          "verse": 9,
+          "text": "Hua wangu, mkamilifu wangu, ni mmoja tu, Mtoto wa pekee wa mamaye. Ndiye kipenzi chake aliyemzaa, Binti wakamwona wakamwita heri; Malkia na masuria nao wakamwona, Wakamsifu, wakisema,"
+        },
+        {
+          "chapter": 6,
+          "verse": 10,
+          "text": "Ni nani huyu atazamaye kama alfajiri, Mzuri kama mwezi, safi kama jua, Wa kutisha kama wenye bendera?"
+        },
+        {
+          "chapter": 6,
+          "verse": 11,
+          "text": "Nalishukia bustani ya milozi, Ili kuyatazama machipuko ya bondeni; Nione kama mzabibu umechanua, Kama mikomamanga imetoa maua."
+        },
+        {
+          "chapter": 6,
+          "verse": 12,
+          "text": "Kabla sijajua, roho yangu ilinileta Katikati ya magari ya wakuu wangu."
+        },
+        {
+          "chapter": 6,
+          "verse": 13,
+          "text": "Rudi, rudi, Mshulami, Rudi, rudi, ili sisi tukutazame. Kwani mnataka kumtazama Mshulami, Kama kutazama ngoma ya Mahanaimu?"
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 7,
+      "lastVerse": 13,
+      "verseUnitCount": 13,
+      "verses": [
+        {
+          "chapter": 7,
+          "verse": 1,
+          "text": "Siti msharifu, jinsi zilivyo nzuri Hatua zako katika mitalawanda. Mapaja yako ya mviringo ni kama johari, Kazi ya mikono ya fundi mstadi;"
+        },
+        {
+          "chapter": 7,
+          "verse": 2,
+          "text": "Kitovu chako ni kama bilauri iliyoviringana, Na isikose divai iliyochanganyika; Tumbo lako ni mfano wa chungu ya ngano, Iliyozungukwa na ugo wa nyinyoro;"
+        },
+        {
+          "chapter": 7,
+          "verse": 3,
+          "text": "Maziwa yako mawili ni kama wana-paa wawili, Ambao ni mapacha ya paa;"
+        },
+        {
+          "chapter": 7,
+          "verse": 4,
+          "text": "Shingo yako ni kama huo mnara wa pembe; Macho yako kama viziwa vya Heshboni, Karibu na mlango wa Beth-rabi; Pua yako ni kama mnara wa Lebanoni, Unaoelekea Dameski;"
+        },
+        {
+          "chapter": 7,
+          "verse": 5,
+          "text": "Kichwa chako juu yako ni kama Karmeli, Na nywele za kichwa chako kama urujuani, Mfalme amenaswa na mashungu yake."
+        },
+        {
+          "chapter": 7,
+          "verse": 6,
+          "text": "Jinsi yalivyo mazuri, yalivyo matamu, Mapenzi katikati ya anasa!"
+        },
+        {
+          "chapter": 7,
+          "verse": 7,
+          "text": "Kimo chako kimefanana na mtende, Na maziwa yako na vichala."
+        },
+        {
+          "chapter": 7,
+          "verse": 8,
+          "text": "Nilisema, Nitapanda huo mtende, Na kuyashika makuti yake. Maziwa yako na yawe kama vichala vya mzabibu, Na harufu ya pumzi yako kama mapera;"
+        },
+        {
+          "chapter": 7,
+          "verse": 9,
+          "text": "Na kinywa chako kama divai iliyo bora, Kwa mpendwa wangu inashuka taratibu, Ikitiririka midomoni mwao walalao."
+        },
+        {
+          "chapter": 7,
+          "verse": 10,
+          "text": "Mimi ni wake mpendwa wangu, Na shauku yake ni juu yangu."
+        },
+        {
+          "chapter": 7,
+          "verse": 11,
+          "text": "Njoo, mpendwa wangu, twende mashambani, Tufanye maskani katika vijiji."
+        },
+        {
+          "chapter": 7,
+          "verse": 12,
+          "text": "Twende mapema hata mashamba ya mizabibu, Tuone kama mzabihu umechanua, Na maua yake yamefunuka; Kama mikomamanga imetoa maua; Huko nitakupa pambaja zangu."
+        },
+        {
+          "chapter": 7,
+          "verse": 13,
+          "text": "Mitunguja hutoa harufu yake; Juu ya milango yetu yako matunda mazuri, Mapya na ya kale, ya kila namna, Niliyokuwekea, mpendwa wangu."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 8,
+      "lastVerse": 14,
+      "verseUnitCount": 14,
+      "verses": [
+        {
+          "chapter": 8,
+          "verse": 1,
+          "text": "Laiti ungekuwa kama ndugu yangu, Aliyeyanyonya matiti ya mamangu! Kama ningekukuta huko nje, Ningekubusu, asinidharau mtu."
+        },
+        {
+          "chapter": 8,
+          "verse": 2,
+          "text": "Ningekuongoza nyumbani mwa mamangu, Naye angenifundisha; Ningekunywesha divai iliyokolea, Divai mpya ya mkomamanga wangu."
+        },
+        {
+          "chapter": 8,
+          "verse": 3,
+          "text": "Mkono wake wa kushoto ungekuwa chini ya kichwa changu, Nao wa kuume ungenikumbatia."
+        },
+        {
+          "chapter": 8,
+          "verse": 4,
+          "text": "Nawasihi, enyi binti za Yerusalemu, Kwani kuyachochea mapenzi, au kuyaamsha, Hata yatakapoona vema?"
+        },
+        {
+          "chapter": 8,
+          "verse": 5,
+          "text": "Ni nani huyu apandaye kutoka nyikani, Akimtegemea mpendwa wake? Nalikuamsha chini ya huo mpera; Huko mama yako alikuonea utungu, Aliona utungu aliyekuzaa."
+        },
+        {
+          "chapter": 8,
+          "verse": 6,
+          "text": "Nitie kama muhuri moyoni mwako, Kama muhuri juu ya mkono wako; Kwa maana upendo una nguvu kama mauti, Na wivu ni mkali kama ahera. Mwako wake ni mwako wa moto, Na miali yake ni miali ya Yahu."
+        },
+        {
+          "chapter": 8,
+          "verse": 7,
+          "text": "Maji mengi hayawezi kuuzimisha upendo, Wala mito haiwezi kuuzamisha; Kama mtu angetoa badala ya upendo Mali yote ya nyumbani mwake, Angedharauliwa kabisa."
+        },
+        {
+          "chapter": 8,
+          "verse": 8,
+          "text": "Kwetu sisi tuna umbu mdogo, Wala hana maziwa; Tumfanyieje umbu letu, Siku atakapoposwa?"
+        },
+        {
+          "chapter": 8,
+          "verse": 9,
+          "text": "Kama akiwa tu ukuta, Tumjengee buruji za fedha; Na kama akiwa ni mlango, Tumhifadhi kwa mbao za mierezi."
+        },
+        {
+          "chapter": 8,
+          "verse": 10,
+          "text": "Mimi nalikuwa ukuta, Na maziwa yangu kama minara; Ndipo nikawa machoni pake Kama mtu aliyeipata amani."
+        },
+        {
+          "chapter": 8,
+          "verse": 11,
+          "text": "Sulemani alikuwa na shamba la mizabibu huko Baal-hamomi Akawakodisha walinzi hilo shamba lake la mizabibu; Kila mtu atoe vipande elfu vya fedha kwa matunda yake."
+        },
+        {
+          "chapter": 8,
+          "verse": 12,
+          "text": "Shamba langu la mizabibu, lililo langu mimi, li mbele yangu. Basi, Sulemani, wewe uwe na elfu zako, Na hao wayalindao matunda yake wapewe mia mbili."
+        },
+        {
+          "chapter": 8,
+          "verse": 13,
+          "text": "Wewe ukaaye bustanini, Hao rafiki huisikiliza sauti yako; Unisikizishe mimi."
+        },
+        {
+          "chapter": 8,
+          "verse": 14,
+          "text": "Ukimbie, mpendwa wangu, Nawe uwe kama paa, au ayala, Juu ya milima ya manukato."
+        }
+      ],
+      "headings": []
+    }
+  ]
+}

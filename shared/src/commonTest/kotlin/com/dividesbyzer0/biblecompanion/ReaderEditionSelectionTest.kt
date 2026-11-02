@@ -20,7 +20,7 @@ class ReaderEditionSelectionTest {
 
   @Test
   fun savedReaderCannotOverrideANewEditionInAnyLanguage() {
-    for (language in listOf("en", "de", "es", "fr", "it", "pt", "ru", "ja", "ko", "zh-Hans", "zh-Hant", "ar", "hi")) {
+    for (language in listOf("en", "de", "es", "fr", "it", "pt", "ru", "ja", "ko", "zh-Hans", "zh-Hant", "ar", "hi", "sw")) {
       val editions = BibleEditions.available(language)
       for (source in editions) for (target in editions) {
         val prefs = PrefsState(

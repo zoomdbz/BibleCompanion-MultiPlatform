@@ -408,6 +408,8 @@
     <string name="ui_choose_book">書巻を選択</string>
     <string name="ui_choose_bible_version">聖書の訳を選択</string>
     <string name="ui_previous_chapter">前の章</string>
+    <string name="ui_previous_book">前の書</string>
+    <string name="ui_next_book">次の書</string>
     <string name="ui_next_chapter">次の章</string>
     <string name="ui_chapter_position">%1$d / %2$d</string>
     <string name="ui_foundations">基礎</string>

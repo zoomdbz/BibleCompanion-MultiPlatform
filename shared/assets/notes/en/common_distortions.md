@@ -42,88 +42,88 @@ Hold fast to the faith once for all delivered to the saints (Jude 3).
 ---
 
 ## Once Saved Always Saved
-(John 10:28–29): "I give them eternal life, and they will never perish, and no one will snatch them out of my hand. My Father, who has given them to me, is greater than all, and no one is able to snatch them out of the Father's hand."
+(John 10:28–29): "I give them eternal life, and they will never perish. No one can snatch them out of My hand. My Father who has given them to Me is greater than all. No one can snatch them out of My Father’s hand."
 
 - How it's used: This verse and others are quoted to claim that a single moment of belief guarantees salvation forever, no matter how a person lives afterward. It is often used to excuse sin and give false comfort to those who walk in disobedience.
 
-- The truth: Scripture genuinely teaches the security of the true believer. Jesus said no one can snatch His sheep out of His hand (John 10:28–29); He loses none of those the Father gives Him (John 6:39); and believers are kept by God's power, not their own (1 Peter 1:5; Philippians 1:6). So in the true sense, yes: once truly saved, always saved, because Christ Himself holds them. The distortion is not eternal security; it is using a single profession to excuse a life of unrepentant sin. The warnings of Scripture do not threaten the genuinely saved with loss; they expose empty or false profession. Those who fall away show they were never truly of the faith. Genuine saving faith perseveres and bears fruit.
+- The truth: Jesus promises that no one can snatch His sheep from His hand (John 10:28-29), that He will lose none given to Him (John 6:39), and that God shields believers through faith (1 Peter 1:5; Philippians 1:6). The same New Testament warns against deliberate sin, failing to abide, and falling away (Hebrews 6:4-6; Hebrews 10:26-27; John 15:6). First John 2:19 says those who left that community had not belonged to it; it does not explicitly explain every warning passage. A past profession cannot be used to excuse ongoing, unrepentant sin.
 
-- (John 6:39): "And this is the will of Him who sent Me, that I shall lose none of all those He has given Me, but raise them up at the last day."
+- (John 6:39): "And this is the will of Him who sent Me, that I shall lose none of those He has given Me, but raise them up at the last day."
 
-- (1 Peter 1:5): "who through faith are shielded by God's power until the coming of the salvation that is ready to be revealed in the last time."
+- (1 Peter 1:5): "who through faith are shielded by God’s power for the salvation that is ready to be revealed in the last time."
 
-- (1 John 2:19): "They went out from us, but they were not of us; for if they had been of us, they would have continued with us. But they went out, that it might become plain that they all are not of us."
+- (1 John 2:19): "They went out from us, but they did not belong to us. For if they had belonged to us, they would have remained with us. But their departure made it clear that none of them belonged to us."
 
-- The warnings below are not a threat against Christ's secure sheep but a summons to examine whether one's faith is real and persevering, since true faith always bears fruit:
+- The warnings below call for self-examination and perseverance:
 
-- (James 2:17): "So also faith by itself, if it does not have works, is dead."
+- (James 2:17): "So too, faith by itself, if it does not result in action, is dead."
 
-- (Hebrews 6:4–6): "For it is impossible, in the case of those who have once been enlightened, who have tasted the heavenly gift, and have shared in the Holy Spirit, and have tasted the goodness of the word of God and the powers of the age to come, and then have fallen away, to restore them again to repentance."
+- (Hebrews 6:4–6): "It is impossible for those who have once been enlightened, who have tasted the heavenly gift, who have shared in the Holy Spirit, who have tasted the goodness of the word of God and the powers of the coming age — and then have fallen away — to be restored to repentance, because they themselves are crucifying the Son of God all over again and subjecting Him to open shame."
 
-- (Hebrews 10:26–27): "For if we go on sinning deliberately after receiving the knowledge of the truth, there no longer remains a sacrifice for sins, but a fearful expectation of judgment, and a fury of fire that will consume the adversaries."
+- (Hebrews 10:26–27): "If we deliberately go on sinning after we have received the knowledge of the truth, no further sacrifice for sins remains, but only a fearful expectation of judgment and of raging fire that will consume all adversaries."
 
-- (Matthew 7:21–23): "Not everyone who says to me, 'Lord, Lord,' will enter the kingdom of heaven, but the one who does the will of my Father who is in heaven. On that day many will say to me, 'Lord, Lord, did we not prophesy in your name, and cast out demons in your name, and do many mighty works in your name?' And then will I declare to them, 'I never knew you; depart from me, you workers of lawlessness.'"
+- (Matthew 7:21–23): "Not everyone who says to Me, ‘Lord, Lord,’ will enter the kingdom of heaven, but only he who does the will of My Father in heaven. Many will say to Me on that day, ‘Lord, Lord, did we not prophesy in Your name, and in Your name drive out demons and perform many miracles?’ Then I will tell them plainly, ‘I never knew you; depart from Me, you workers of lawlessness!’"
 
-- (John 15:6): "If anyone does not abide in me he is thrown away like a branch and withers; and the branches are gathered, thrown into the fire, and burned."
+- (John 15:6): "If anyone does not remain in Me, he is like a branch that is thrown away and withers. Such branches are gathered up, thrown into the fire, and burned."
 
-- (1 Corinthians 9:27): "But I discipline my body and keep it under control, lest after preaching to others I myself should be disqualified."
+- (1 Corinthians 9:27): "No, I discipline my body and make it my slave, so that after I have preached to others, I myself will not be disqualified."
 
-- (Galatians 5:19–21): "Now the works of the flesh are evident: sexual immorality, impurity, sensuality, idolatry, sorcery, enmity, strife, jealousy, fits of anger, rivalries, dissensions, divisions, envy, drunkenness, orgies, and things like these. I warn you, as I warned you before, that those who do such things will not inherit the kingdom of God."
+- (Galatians 5:19–21): "The acts of the flesh are obvious: sexual immorality, impurity, and debauchery; idolatry and sorcery; hatred, discord, jealousy, and rage; rivalries, divisions, factions, and envy; drunkenness, orgies, and the like. I warn you, as I did before, that those who practice such things will not inherit the kingdom of God."
 
-- (Revelation 3:5): "The one who conquers will be clothed thus in white garments, and I will never blot his name out of the book of life. I will confess his name before my Father and before his angels."
+- (Revelation 3:5): "Like them, he who overcomes will be dressed in white. And I will never blot out his name from the Book of Life, but I will confess his name before My Father and His angels."
 
 ---
 
 ## Nationalism and Jeremiah 29:7
-(Jeremiah 29:7): "But seek the welfare of the city where I have sent you into exile, and pray to the LORD on its behalf, for in its welfare you will find your welfare."
+(Jeremiah 29:7): "Seek the prosperity of the city to which I have sent you as exiles. Pray to the LORD on its behalf, for if it prospers, you too will prosper.”"
 
-- How it's used: Quoted to promote nationalism, as if God blesses one nation above others.
+- How it's used: Quoted to promote nationalism, as though Jeremiah 29:7 promises divine favor to a modern nation over its neighbors.
 
 - The truth: Jeremiah was addressing Jewish exiles in **Babylon**, telling them to pray for a *foreign* land that had conquered them. The call was humility and faithfulness in exile, not national supremacy.
 
-- (Genesis 12:3): "I will bless those who bless you, and him who dishonors you I will curse, and in you all the families of the earth shall be blessed."
+- (Genesis 12:3): "I will bless those who bless you and curse those who curse you; and all the families of the earth will be blessed through you.”"
 
-- (Revelation 7:9): "After this I looked, and behold, a great multitude that no one could number, from every nation, from all tribes and peoples and languages, standing before the throne and before the Lamb, clothed in white robes, with palm branches in their hands,"
+- (Revelation 7:9): "After this I looked and saw a multitude too large to count, from every nation and tribe and people and tongue, standing before the throne and before the Lamb. They were wearing white robes and holding palm branches in their hands."
 
-- (Philippians 3:20): "But our citizenship is in heaven, and from it we await a Savior, the Lord Jesus Christ,"
+- (Philippians 3:20): "But our citizenship is in heaven, and we eagerly await a Savior from there, the Lord Jesus Christ,"
 
 ---
 
 ## Authority and Romans 13:1–2
-(Romans 13:1–2): "Let every person be subject to the governing authorities. For there is no authority except from God, and those that exist have been instituted by God. Therefore whoever resists the authorities resists what God has appointed, and those who resist will incur judgment."
+(Romans 13:1–2): "Everyone must submit himself to the governing authorities, for there is no authority except that which is from God. The authorities that exist have been appointed by God. Consequently, whoever resists authority is opposing what God has set in place, and those who do so will bring judgment on themselves."
 
 - How it's used: To demand blind obedience to government, even unjust regimes.
 
 - The truth: Paul affirms God's order of authority, but rulers themselves are accountable to God. Christians obey government unless obedience means disobedience to God.
 
-- (Acts 5:29): "But Peter and the apostles answered, "We must obey God rather than men."
+- (Acts 5:29): "But Peter and the other apostles replied, “We must obey God rather than men."
 
-- (Daniel 3:16–18): "Shadrach, Meshach, and Abednego answered and said to the king, "O Nebuchadnezzar, we have no need to answer you in this matter. If this be so, our God whom we serve is able to deliver us from the burning fiery furnace, and he will deliver us out of your hand, O king. But if not, be it known to you, O king, that we will not serve your gods or worship the golden image that you have set up.""
+- (Daniel 3:16–18): "Shadrach, Meshach, and Abednego replied to the king, “O Nebuchadnezzar, we have no need to answer you in this matter. If the God whom we serve exists, then He is able to deliver us from the blazing fiery furnace and from your hand, O king. But even if He does not, let it be known to you, O king, that we will not serve your gods or worship the golden statue you have set up.”"
 
-- (Daniel 6:10): "When Daniel knew that the document had been signed, he went to his house where he had windows in his upper chamber open toward Jerusalem. He got down on his knees three times a day and prayed and gave thanks before his God, as he had done previously."
+- (Daniel 6:10): "Now when Daniel learned that the document had been signed, he went into his house, where the windows of his upper room opened toward Jerusalem, and three times a day he got down on his knees, prayed, and gave thanks to his God, just as he had done before."
 
-- (Revelation 13:4–8): "And they worshiped the dragon, for he had given his authority to the beast, and they worshiped the beast, saying, "Who is like the beast, and who can fight against it?" And the beast was given a mouth uttering haughty and blasphemous words, and it was allowed to exercise authority for forty-two months. It opened its mouth to utter blasphemies against God, blaspheming his name and his dwelling, that is, those who dwell in heaven. Also it was allowed to make war on the saints and to conquer them. And authority was given it over every tribe and people and language and nation, and all who dwell on earth will worship it, everyone whose name has not been written before the foundation of the world in the book of life of the Lamb who was slain."
+- (Revelation 13:4–8): "They worshiped the dragon who had given authority to the beast, and they worshiped the beast, saying, “Who is like the beast, and who can wage war against it?” The beast was given a mouth to speak arrogant and blasphemous words, and authority to act for 42 months. And the beast opened its mouth to speak blasphemies against God and to slander His name and His tabernacle — those who dwell in heaven. Then the beast was permitted to wage war against the saints and to conquer them, and it was given authority over every tribe and people and tongue and nation. And all who dwell on the earth will worship the beast — all whose names have not been written from the foundation of the world in the Book of Life belonging to the Lamb who was slain."
 
 - Obedience to authority is conditional: God's law is higher than human law.
 
 ---
 
 ## Leadership and "Do Not Touch the Lord's Anointed"
-(Psalm 105:15): "saying, "Touch not my anointed ones, do my prophets no harm!""  
+(Psalm 105:15): "“Do not touch My anointed ones! Do no harm to My prophets!”"
 
-(1 Samuel 24:6): "He said to his men, "The LORD forbid that I should do this thing to my lord, the LORD's anointed, to put out my hand against him, seeing he is the LORD's anointed.""
+(1 Samuel 24:6): "So he said to his men, “The LORD forbid that I should do such a thing to my master, the LORD’s anointed. May I never lift my hand against him, since he is the LORD’s anointed.”"
 
 - How it's used: Authoritarian pastors and leaders quote this to silence criticism, claiming they are untouchable.
 
-- The truth: These verses warn against **physical violence**, not honest accountability. Leaders must still be corrected when they sin.
+- The truth: In 1 Samuel 24:6, David refuses to strike Saul. Psalm 105:13-15 recounts God's protection of His people as they moved among kingdoms. Neither passage grants present-day leaders immunity from accountability. Leaders must still be corrected when they sin.
 
-- (1 Timothy 5:20): "As for those who persist in sin, rebuke them in the presence of all, so that the rest may stand in fear."
+- (1 Timothy 5:20): "But those who persist in sin should be rebuked in front of everyone, so that the others will stand in fear of sin."
 
-- (Galatians 2:11): "But when Cephas came to Antioch, I opposed him to his face, because he stood condemned."
+- (Galatians 2:11): "When Cephas came to Antioch, however, I opposed him to his face, because he stood condemned."
 
-- (Ezekiel 34:2–4): ""Son of man, prophesy against the shepherds of Israel; prophesy, and say to them, even to the shepherds, Thus says the Lord GOD: Ah, shepherds of Israel who have been feeding yourselves! Should not shepherds feed the sheep? You eat the fat, you clothe yourselves with the wool, you slaughter the fat ones, but you do not feed the sheep. The weak you have not strengthened, the sick you have not healed, the injured you have not bound up, the strayed you have not brought back, the lost you have not sought, and with force and harshness you have ruled them."
+- (Ezekiel 34:2–4): "“Son of man, prophesy against the shepherds of Israel. Prophesy and tell them that this is what the Lord GOD says: ‘Woe to the shepherds of Israel, who only feed themselves! Should not the shepherds feed their flock? You eat the fat, wear the wool, and butcher the fattened sheep, but you do not feed the flock. You have not strengthened the weak, healed the sick, bound up the injured, brought back the strays, or searched for the lost. Instead, you have ruled them with violence and cruelty."
 
-- (Mark 10:42–45): "And Jesus called them to him and said to them, "You know that those who are considered rulers of the Gentiles lord it over them, and their great ones exercise authority over them. But it shall not be so among you. But whoever would be great among you must be your servant, and whoever would be first among you must be slave of all. For even the Son of Man came not to be served but to serve, and to give his life as a ransom for many.""
+- (Mark 10:42–45): "So Jesus called them together and said, “You know that those regarded as rulers of the Gentiles lord it over them, and their superiors exercise authority over them. But it shall not be this way among you. Instead, whoever wants to become great among you must be your servant, and whoever wants to be first must be the slave of all. For even the Son of Man did not come to be served, but to serve, and to give His life as a ransom for many.”"
 
 - Scripture never grants leaders immunity from correction. True shepherds are servants, not dictators.
 
@@ -135,33 +135,33 @@ Hold fast to the faith once for all delivered to the saints (Jude 3).
 
 - The truth: Israel's conquest was a one-time act of God's judgment, not a model for Christian warfare. Jesus explicitly rejected advancing His kingdom by violence. The parable in Luke 14 is about God's invitation, not literal compulsion.
 
-- (John 18:36): "Jesus answered, "My kingdom is not of this world. If my kingdom were of this world, my servants would have been fighting, that I might not be delivered over to the Jews. But my kingdom is not from the world.""
+- (John 18:36): "Jesus answered, “My kingdom is not of this world; if it were, My servants would fight to prevent My arrest by the Jews. But now My kingdom is not of this realm.”"
 
-- (2 Corinthians 10:4): "For the weapons of our warfare are not of the flesh but have divine power to destroy strongholds."
+- (2 Corinthians 10:4): "The weapons of our warfare are not the weapons of the flesh. Instead, they have divine power to demolish strongholds."
 
-- (Ephesians 6:12): "For we do not wrestle against flesh and blood, but against the rulers, against the authorities, against the cosmic powers over this present darkness, against the spiritual forces of evil in the heavenly places."
+- (Ephesians 6:12): "For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this world’s darkness, and against the spiritual forces of evil in the heavenly realms."
 
-- (Matthew 28:19–20): "Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age.""
+- (Matthew 28:19–20): "Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, and teaching them to obey all that I have commanded you. And surely I am with you always, even to the end of the age.”"
 
 ---
 
 ## Greed and 1 Timothy 6:10
-(1 Timothy 6:10): "For the love of money is a root of all kinds of evils. It is through this craving that some have wandered away from the faith and pierced themselves with many pangs."
+(1 Timothy 6:10): "For the love of money is the root of all kinds of evil. By craving it, some have wandered away from the faith and pierced themselves with many sorrows."
 
 - How it's used: Misquoted as "money is the root of all evil," blaming wealth itself.
 
 - The truth: Paul warns against the *love* of money, greed that leads people away from faith. Money itself can be used for good or evil. Other passages confirm this balance.
 
-- (Ecclesiastes 5:10): "He who loves money will not be satisfied with money, nor he who loves wealth with his income; this also is vanity."
+- (Ecclesiastes 5:10): "He who loves money is never satisfied by money, and he who loves wealth is never satisfied by income. This too is futile."
 
-- (Proverbs 30:8–9): "Remove far from me falsehood and lying; give me neither poverty nor riches; feed me with the food that is needful for me, lest I be full and deny you and say, "Who is the LORD?" or lest I be poor and steal and profane the name of my God."
+- (Proverbs 30:8–9): "Keep falsehood and deceitful words far from me. Give me neither poverty nor riches; feed me with the bread that is my portion. Otherwise, I may have too much and deny You, saying, ‘Who is the LORD?’ Or I may become poor and steal, profaning the name of my God."
 
-- (Luke 12:15): "And he said to them, "Take care, and be on your guard against all covetousness, for one's life does not consist in the abundance of his possessions.""
+- (Luke 12:15): "And He said to them, “Watch out! Guard yourselves against every form of greed, for one’s life does not consist in the abundance of his possessions.”"
 
 ---
 
-## Judgment and Matthew 7:1
-(Matthew 7:1): ""Judge not, that you be not judged."
+## "Don't Judge" and Matthew 7:1
+(Matthew 7:1): "“Do not judge, or you will be judged."
 
 - How it's used: Quoted to silence Christians from calling out sin, as if all judgment is forbidden.
 
@@ -171,75 +171,83 @@ Hold fast to the faith once for all delivered to the saints (Jude 3).
 
 - **Rebuke sin**: (2 Timothy 4:2): "Preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching."
 
+- **Rebuke sin**: (Luke 17:3): "Watch yourselves. If your brother sins, rebuke him; and if he repents, forgive him."
+
+- **Rebuke sin**: (Matthew 18:15–17): "If your brother sins against you, go and confront him privately. If he listens to you, you have won your brother over. But if he will not listen, take one or two others along, so that ‘every matter may be established by the testimony of two or three witnesses.’ If he refuses to listen to them, tell it to the church. And if he refuses to listen even to the church, regard him as you would a pagan or a tax collector."
+
+- **Judge within the church**: (1 Corinthians 5:12–13): "What business of mine is it to judge those outside the church? Are you not to judge those inside? God will judge those outside. “Expel the wicked man from among you.”"
+
+- **Restore gently**: (Galatians 6:1): "Brothers, if someone is caught in a trespass, you who are spiritual should restore him with a spirit of gentleness. But watch yourself, or you also may be tempted."
+
 - **Discern truth**: (John 7:24): "Do not judge by appearances, but judge with right judgment."
 
 - **Discern truth**: (Hebrews 5:14): "But solid food is for the mature, for those who have their powers of discernment trained by constant practice to distinguish good from evil."
 
 - **Leave condemnation to God**: (James 4:12): "There is only one lawgiver and judge, he who is able to save and to destroy. But who are you to judge your neighbor?"
 
-- So judgment = discerning truth and rebuking (disapprove of) sin, while leaving final condemnation in God's hands.
+- Believers are called to judge justly, correct sin with humility, restore gently, and exercise church discipline when needed (John 7:24; Luke 17:3; Galatians 6:1; 1 Corinthians 5:12-13), while leaving ultimate judgment to God (James 4:12).
 
 ---
 
 ## Success and Philippians 4:13
-(Philippians 4:13): "I can do all things through him who strengthens me."
+(Philippians 4:13): "I can do all things through Christ who gives me strength."
 
 - How it's used: As a slogan for personal achievement in sports, career, or ambition.
 
 - The truth: Paul is speaking about **contentment in hardship**, not unlimited success.
 
-- (Philippians 4:11–12): "Not that I am speaking of being in need, for I have learned in whatever situation I am to be content. I know how to be brought low, and I know how to abound. In any and every circumstance, I have learned the secret of facing plenty and hunger, abundance and need."
+- (Philippians 4:11–12): "I am not saying this out of need, for I have learned to be content regardless of my circumstances. I know how to live humbly, and I know how to abound. In any and every situation I have learned the secret of being filled and being hungry, of having plenty and having need."
 
-- (2 Corinthians 12:9–10): "But he said to me, "My grace is sufficient for you, for my power is made perfect in weakness." Therefore I will boast all the more gladly of my weaknesses, so that the power of Christ may rest upon me. For the sake of Christ, then, I am content with weaknesses, insults, hardships, persecutions, and calamities. For when I am weak, then I am strong."
+- (2 Corinthians 12:9–10): "But He said to me, “My grace is sufficient for you, for My power is perfected in weakness.” Therefore I will boast all the more gladly in my weaknesses, so that the power of Christ may rest on me. That is why, for the sake of Christ, I delight in weaknesses, in insults, in hardships, in persecutions, in difficulties. For when I am weak, then I am strong."
 
-- (John 16:33): "I have said these things to you, that in me you may have peace. In the world you will have tribulation. But take heart; I have overcome the world."
+- (John 16:33): "I have told you these things so that in Me you may have peace. In the world you will have tribulation. But take courage; I have overcome the world!”"
 
 - Philippians 4:13 is not about guaranteed success; it's about strength to remain faithful in suffering.
 
 ---
 
 ## Prosperity and Jeremiah 29:11
-(Jeremiah 29:11): "For I know the plans I have for you, declares the LORD, plans for welfare and not for evil, to give you a future and a hope."
+(Jeremiah 29:11): "For I know the plans I have for you, declares the LORD, plans to prosper you and not to harm you, to give you a future and a hope."
 
 - How it's used: Claimed as a personal promise of wealth, comfort, or guaranteed success.
 
 - The truth: This was a letter to the **exiles in Babylon**, assuring them that after seventy years, God would restore them. It is about God's covenant faithfulness to Israel, not individual financial blessing.
 
-- (Jeremiah 29:10): "For thus says the LORD: When seventy years are completed for Babylon, I will visit you, and I will fulfill to you my promise and bring you back to this place."
+- (Jeremiah 29:10): "For this is what the LORD says: “When Babylon’s seventy years are complete, I will attend to you and confirm My promise to restore you to this place."
 
-- (Jeremiah 23:16–17): "Thus says the LORD of hosts: "Do not listen to the words of the prophets who prophesy to you, filling you with vain hopes. They speak visions of their own minds, not from the mouth of the LORD. They say continually to those who despise the word of the LORD, 'It shall be well with you'; and to everyone who stubbornly follows his own heart, they say, 'No disaster shall come upon you.'""
+- (Jeremiah 23:16–17): "This is what the LORD of Hosts says: “Do not listen to the words of the prophets who prophesy to you. They are filling you with false hopes. They speak visions from their own minds, not from the mouth of the LORD. They keep saying to those who despise Me, ‘The LORD says that you will have peace,’ and to everyone who walks in the stubbornness of his own heart, ‘No harm will come to you.’"
 
-- (Romans 8:18): "For I consider that the sufferings of this present time are not worth comparing with the glory that is to be revealed to us."
+- (Romans 8:18): "I consider that our present sufferings are not comparable to the glory that will be revealed in us."
 
 ---
 
 ## Prosperity and 3 John 2
-(3 John 1:2): "Beloved, I pray that all may go well with you and that you may be in good health, as it goes well with your soul."
+(3 John 1:2): "Beloved, I pray that in every way you may prosper and enjoy good health, as your soul also prospers."
 
 - How it's used: Quoted as proof that God promises every believer health and wealth.
 
 - The truth: This is a **personal greeting** to Gaius, not a universal guarantee. It reflects John's prayer for his friend's well-being, not a doctrinal promise. The broader New Testament consistently emphasizes endurance in hardship, not escape from it.
 
-- (2 Corinthians 11:23–27): "Are they servants of Christ? I am a better one; I am talking like a madman; with far greater labors, far more imprisonments, with countless beatings, and often near death. Five times I received at the hands of the Jews the forty lashes less one. Three times I was beaten with rods. Once I was stoned. Three times I was shipwrecked; a night and a day I was adrift at sea; on frequent journeys, in danger from rivers, danger from robbers, danger from my own people, danger from Gentiles, danger in the city, danger in the wilderness, danger at sea, danger from false brothers; in toil and hardship, through many a sleepless night, in hunger and thirst, often without food, in cold and exposure."
+- (2 Corinthians 11:23–27): "Are they servants of Christ? (I am speaking as if I were out of my mind.) I am so much more: in harder labor, in more imprisonments, in worse beatings, in frequent danger of death. Five times I received from the Jews the forty lashes minus one. Three times I was beaten with rods, once I was stoned, three times I was shipwrecked. I spent a night and a day in the open sea. In my frequent journeys, I have been in danger from rivers and from bandits, in danger from my countrymen and from the Gentiles, in danger in the city and in the country, in danger on the sea and among false brothers, in labor and toil and often without sleep, in hunger and thirst and often without food, in cold and exposure."
 
-- (Philippians 1:29): "For it has been granted to you that for the sake of Christ you should not only believe in him but also suffer for his sake,"
+- (Philippians 1:29): "For it has been granted to you on behalf of Christ not only to believe in Him, but also to suffer for Him,"
 
-- (Hebrews 11:35–38): "Women received back their dead by resurrection. Some were tortured, refusing to accept release, so that they might rise again to a better life. Others suffered mocking and flogging, and even chains and imprisonment. They were stoned, they were sawn in two, they were killed with the sword. They went about in skins of sheep and goats, destitute, afflicted, mistreated; of whom the world was not worthy; wandering about in deserts and mountains, and in dens and caves of the earth."
+- (Hebrews 11:35–38): "Women received back their dead, raised to life again. Others were tortured and refused their release, so that they might gain a better resurrection. Still others endured mocking and flogging, and even chains and imprisonment. They were stoned, they were sawed in two, they were put to death by the sword. They went around in sheepskins and goatskins, destitute, oppressed, and mistreated. The world was not worthy of them. They wandered in deserts and mountains, and hid in caves and holes in the ground."
 
 ---
 
 ## Prosperity and Malachi 3:10
-(Malachi 3:10): "Bring the full tithe into the storehouse, that there may be food in my house. And thereby put me to the test, says the LORD of hosts, if I will not open the windows of heaven for you and pour down for you a blessing until there is no more need."
+(Malachi 3:10): "Bring the full tithe into the storehouse, so that there may be food in My house. Test Me in this,” says the LORD of Hosts. “See if I will not open the windows of heaven and pour out for you blessing without measure."
 
 - How it's used: Preachers twist this into a money-for-blessing formula, promising guaranteed financial return if you give to their ministry.
 
 - The truth: Malachi was addressing covenant-breaking Israel under the Law, calling them back to obedience in tithing to support the Levites and temple worship. This is not a universal promise of wealth for Christians. In the New Testament, giving is voluntary and cheerful, not coerced with promises of riches.
 
-- (2 Corinthians 9:7–8): "Each one must give as he has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver. And God is able to make all grace abound to you, so that having all sufficiency in all things at all times, you may abound in every good work."
+- (2 Corinthians 9:7–8): "Each one should give what he has decided in his heart to give, not out of regret or compulsion. For God loves a cheerful giver. And God is able to make all grace abound to you, so that in all things, at all times, having all that you need, you will abound in every good work."
 
-- (Acts 8:18–20): "Now when Simon saw that the Spirit was given through the laying on of the apostles' hands, he offered them money, saying, "Give me this power also, so that anyone on whom I lay my hands may receive the Holy Spirit." But Peter said to him, "May your silver perish with you, because you thought you could obtain the gift of God with money!"
+- (Acts 8:18–20): "When Simon saw that the Spirit was given through the laying on of the apostles’ hands, he offered them money. “Give me this power as well,” he said, “so that everyone on whom I lay my hands may receive the Holy Spirit.” But Peter replied, “May your silver perish with you, because you thought you could buy the gift of God with money!"
 
-- (1 Timothy 6:6–8): "But godliness with contentment is great gain, for we brought nothing into the world, and we cannot take anything out of the world. But if we have food and clothing, with these we will be content."
+- (1 Timothy 6:6–8): "Of course, godliness with contentment is great gain. For we brought nothing into the world, so we cannot carry anything out of it. But if we have food and clothing, we will be content with these."
 
 - The true blessing God promises is His presence and provision for needs, not guaranteed wealth.
 
@@ -251,11 +259,11 @@ Hold fast to the faith once for all delivered to the saints (Jude 3).
 
 - The truth: Jesus rebuked the Pharisees for tithing while neglecting justice and mercy. New Testament giving is never coercive or self-serving for leaders.
 
-- (Matthew 23:23): ""Woe to you, scribes and Pharisees, hypocrites! For you tithe mint and dill and cumin, and have neglected the weightier matters of the law: justice and mercy and faithfulness. These you ought to have done, without neglecting the others."
+- (Matthew 23:23): "Woe to you, scribes and Pharisees, you hypocrites! You pay tithes of mint, dill, and cumin. But you have disregarded the weightier matters of the law: justice, mercy, and faithfulness. You should have practiced the latter, without neglecting the former."
 
-- (1 Peter 5:2): "shepherd the flock of God that is among you, exercising oversight, not under compulsion, but willingly, as God would have you; not for shameful gain, but eagerly;"
+- (1 Peter 5:2): "Be shepherds of God’s flock that is among you, watching over them not out of compulsion, but willingly, as God would have you; not out of greed, but out of eagerness;"
 
-- (Acts 20:33–35): "I coveted no one's silver or gold or apparel. You yourselves know that these hands ministered to my necessities and to those who were with me. In all things I have shown you that by working hard in this way we must help the weak and remember the words of the Lord Jesus, how he himself said, 'It is more blessed to give than to receive.'""
+- (Acts 20:33–35): "I have not coveted anyone’s silver or gold or clothing. You yourselves know that these hands of mine have ministered to my own needs and those of my companions. In everything, I showed you that by this kind of hard work we must help the weak, remembering the words of the Lord Jesus Himself: ‘It is more blessed to give than to receive.’”"
 
 ---
 
@@ -265,13 +273,13 @@ Hold fast to the faith once for all delivered to the saints (Jude 3).
 
 - The truth: Scripture repeatedly warns against twisting grace into license.
 
-- (Galatians 1:6–9): "I am astonished that you are so quickly deserting him who called you in the grace of Christ and are turning to a different gospel; not that there is another one, but there are some who trouble you and want to distort the gospel of Christ. But even if we or an angel from heaven should preach to you a gospel contrary to the one we preached to you, let him be accursed. As we have said before, so now I say again: If anyone is preaching to you a gospel contrary to the one you received, let him be accursed."
+- (Galatians 1:6–9): "I am amazed how quickly you are deserting the One who called you by the grace of Christ and are turning to a different gospel — which is not even a gospel. Evidently some people are troubling you and trying to distort the gospel of Christ. But even if we or an angel from heaven should preach a gospel contrary to the one we preached to you, let him be under a curse! As we have said before, so now I say again: If anyone is preaching to you a gospel contrary to the one you received, let him be under a curse!"
 
-- (Jude 1:4): "For certain people have crept in unnoticed who long ago were designated for this condemnation, ungodly people, who pervert the grace of our God into sensuality and deny our only Master and Lord, Jesus Christ."
+- (Jude 1:4): "For certain men have crept in among you unnoticed — ungodly ones who were designated long ago for condemnation. They turn the grace of our God into a license for immorality, and they deny our only Master and Lord, Jesus Christ."
 
-- (1 Corinthians 6:18–20): "Flee from sexual immorality. Every other sin a person commits is outside the body, but the sexually immoral person sins against his own body. Or do you not know that your body is a temple of the Holy Spirit within you, whom you have from God? You are not your own, for you were bought with a price. So glorify God in your body."
+- (1 Corinthians 6:18–20): "Flee from sexual immorality. Every other sin a man can commit is outside his body, but he who sins sexually sins against his own body. Do you not know that your body is a temple of the Holy Spirit who is in you, whom you have received from God? You are not your own; you were bought at a price. Therefore glorify God with your body."
 
-- (Romans 6:1–2): "What shall we say then? Are we to continue in sin that grace may abound? By no means! How can we who died to sin still live in it?"
+- (Romans 6:1–2): "What then shall we say? Shall we continue in sin so that grace may increase? Certainly not! How can we who died to sin live in it any longer?"
 
 ---
 
@@ -287,7 +295,7 @@ Hold fast to the faith once for all delivered to the saints (Jude 3).
 
 - (Matthew 5:14–16) "You are the light of the world. A city on a hill cannot be hidden. Neither do people light a lamp and put it under a basket. Instead, they set it on a stand, and it gives light to everyone in the house. In the same way, let your light shine before men, that they may see your good deeds and glorify your Father in heaven."
 
-- (John 3:16) "For God so loved the world that he gave his only Son, that whoever believes in him should not perish but have eternal life."
+- (John 3:16) "For God so loved the world that He gave His one and only Son, that everyone who believes in Him shall not perish but have eternal life."
 
 - (Galatians 3:28) "There is neither Jew nor Greek, slave nor free, male nor female, for you are all one in Christ Jesus."
 
@@ -309,19 +317,19 @@ Scripture makes this claim about itself over and over: Psalm 12:6 calls God's wo
 
 **Supporting passages:**
 
-- (2 Timothy 3:16) "All Scripture is God-breathed (*theopneustos*) and profitable for teaching, for reproof, for correction, and for training in righteousness."
+- (2 Timothy 3:16) "All Scripture is God-breathed and is useful for instruction, for conviction, for correction, and for training in righteousness,"
 
-- (2 Peter 1:21) "Men spoke from God as they were carried along by the Holy Spirit."
+- (2 Peter 1:21) "For no such prophecy was ever brought forth by the will of man, but men spoke from God as they were carried along by the Holy Spirit."
 
-- (Psalm 12:6) "The words of the LORD are pure words, like silver refined in a furnace on the ground, purified seven times."
+- (Psalm 12:6) "The words of the LORD are flawless, like silver refined in a furnace, like gold purified sevenfold."
 
-- (Proverbs 30:5) "Every word of God proves true; he is a shield to those who take refuge in him."
+- (Proverbs 30:5) "Every word of God is flawless; He is a shield to those who take refuge in Him."
 
-- (Hebrews 4:12) "The word of God is living and active, sharper than any two-edged sword."
+- (Hebrews 4:12) "For the word of God is living and active. Sharper than any double-edged sword, it pierces even to dividing soul and spirit, joints and marrow. It judges the thoughts and intentions of the heart."
 
-- (John 17:17) "Sanctify them in the truth; your word is truth."
+- (John 17:17) "Sanctify them by the truth; Your word is truth."
 
-- (Genesis 3:4) "But the serpent said to the woman, 'You will not surely die.'" (An example of Scripture accurately recording a lie without endorsing it.)
+- (Genesis 3:4) "“You will not surely die,” the serpent told the woman." (An example of Scripture accurately recording a lie without endorsing it.)
 
 ---
 
@@ -329,21 +337,21 @@ Scripture makes this claim about itself over and over: Psalm 12:6 calls God's wo
 
 ### The Sabbath the Bible actually commands
 
-Genesis 2:2–3 sets the pattern: Elohim rested on the seventh day, blessed it, and sanctified it. Exodus 20:8–11, the fourth commandment, binds Israel to "remember the sabbath day, to keep it holy" and grounds it in creation week. Leviticus 23:3 calls it a "holy convocation" and commands no work. The Hebrew is *shabbat*, from the verb *shavat*, to cease. It runs from sunset to sunset per Genesis 1:5 ("the evening and the morning were the first day") and Leviticus 23:32 ("from even unto even, shall ye celebrate your sabbath"). Shabbat begins Friday at sunset and ends Saturday at sunset. That is the seventh day. There is no ambiguity in the Hebrew text.
+Genesis 2:2-3 sets the pattern: Elohim rested on the seventh day, blessed it, and sanctified it. Exodus 20:8-11, the fourth commandment, binds Israel to "remember the sabbath day, to keep it holy" and grounds it in creation week. Leviticus 23:3 calls it a "holy convocation" and commands no work. The Hebrew is *shabbat*, from the verb *shavat*, to cease. Genesis 1:5 describes evening followed by morning; Leviticus 23:32 explicitly sets evening-to-evening observance for the Day of Atonement. The weekly Sabbath is observed from Friday sunset to Saturday sunset, but Leviticus 23:32 does not itself state the hours of the weekly Sabbath.
 
-Yeshua kept it. Luke 4:16 says "as his custom was, he went into the synagogue on the sabbath day." He corrected legalistic misreadings of it (Mark 2:27, "the sabbath was made for man, and not man for the sabbath") but never abolished it. The apostles kept it: Acts 17:2, Paul's "manner" was to reason in the synagogue on the sabbath for three weeks running at Thessalonica.
+Yeshua kept it. Luke 4:16 says "as his custom was, he went into the synagogue on the sabbath day." He corrected legalistic misreadings of it (Mark 2:27, "the sabbath was made for man, and not man for the sabbath") but never abolished it. Acts 17:2 reports Paul's custom of reasoning in the synagogue on three Sabbaths at Thessalonica; it reports his practice, not a command to every church.
 
 ### Where Sunday came from
 
 Three things happened, and Christian tradition conflates them.
 
-**1. The resurrection accounts.** Matthew 28:1, Mark 16:2, Luke 24:1, John 20:1 all place the resurrection on "the first day of the week," *mia ton sabbaton* in Greek, literally "one of the sabbaths" or "the first from the sabbath." John 20:19 records Yeshua appearing to the disciples that same evening. John 20:26 says "after eight days" he appeared again, which some read as the following Sunday.
+**1. The resurrection accounts.** Matthew 28:1, Mark 16:2, Luke 24:1, and John 20:1 place the women's visit to the empty tomb on the first day of the week; they do not state the hour of the resurrection. John 20:19 records Yeshua appearing to the disciples that same evening. John 20:26 says "eight days later" He appeared again, which some read as the following Sunday.
 
-**2. Two gathering passages.** Acts 20:7 records believers gathering at Troas on the first day of the week to break bread and hear Paul preach. 1 Corinthians 16:2 instructs the Corinthian believers to set aside funds on the first day of the week for the Jerusalem collection. These are the two passages most cited to justify Sunday worship. Neither commands it, neither abolishes the Sabbath, and neither calls the first day "the Sabbath." They record a gathering pattern, nothing more. The 1 Corinthians 16:2 passage is about household bookkeeping, not liturgy.
+**2. A gathering and a collection.** Acts 20:7 records believers gathering at Troas on the first day of the week to break bread and hear Paul preach. 1 Corinthians 16:2 instructs each Corinthian believer to set aside funds on the first day of every week for the Jerusalem collection; it does not mention a gathering. Neither passage commands Sunday worship, abolishes the Sabbath, or calls the first day "the Sabbath."
 
 **3. Revelation 1:10.** John was "in the Spirit on the Lord's day," *te kyriake hemera*. Christian tradition from the mid-second century onward read this as Sunday. Seventh-day advocates read it as the prophetic Day of the Lord, *yom YHWH*, from Isaiah 13, Joel 2, Amos 5, and elsewhere. The Greek does not settle the question.
 
-That is all the New Testament data. Nothing commands a change of day.
+These are the main first-day passages. Colossians 2:16-17 also says not to judge believers concerning a Sabbath, and Romans 14:5-6 discusses differing convictions about special days. No passage explicitly transfers the Sabbath command to Sunday.
 
 **Sun worship convergence**
 
@@ -357,7 +365,7 @@ Canon 29 explicitly forbids Christians from resting on the Sabbath, commands the
 
 The Roman Catholic Church has been transparent about this. The Catechism of the Catholic Church, paragraph 2175, states that "Sunday is expressly distinguished from the sabbath which it follows chronologically every week; for Christians its ceremonial observance replaces that of the sabbath." Catholic catechisms going back to the Council of Trent and various 19th-century works (James Cardinal Gibbons' *Faith of Our Fathers*, the *Convert's Catechism of Catholic Doctrine*) openly cite the change from Sabbath to Sunday as evidence of the church's authority to modify divine command. Protestants inherited Sunday from Rome without inheriting the argument.
 
-**Key takeaway:** The seventh-day Sabbath is established in creation, codified in the Ten Commandments, kept by Yeshua and the apostles, and never abolished in the New Testament. Sunday observance entered through post-apostolic tradition, imperial legislation, and conciliar decree, not through Scripture.
+The seventh-day Sabbath is grounded in creation and commanded to Israel in the Ten Commandments. The New Testament records Jesus' Sabbath practice (Luke 4:16), Paul's synagogue ministry on Sabbaths (Acts 17:2), a first-day gathering (Acts 20:7), and a first-day collection instruction (1 Corinthians 16:2). It does not explicitly transfer the Sabbath command to Sunday; Colossians 2:16-17 and Romans 14:5-6 also caution against judging believers over Sabbaths or special days.
 
 ---
 
@@ -374,11 +382,11 @@ Not every phrase people quote as "biblical truth" is actually in the Bible. Some
 
 - The truth: God helps the helpless.
 
-- (Psalm 121:1–2): "I lift up my eyes to the hills. From where does my help come? My help comes from the LORD, who made heaven and earth."
+- (Psalm 121:1–2): "I lift up my eyes to the hills. From where does my help come? My help comes from the LORD, the Maker of heaven and earth."
 
-- (Romans 5:6): "For while we were still weak, at the right time Christ died for the ungodly."
+- (Romans 5:6): "For at just the right time, while we were still powerless, Christ died for the ungodly."
 
-- (Isaiah 41:10): "fear not, for I am with you; be not dismayed, for I am your God; I will strengthen you, I will help you, I will uphold you with my righteous right hand."
+- (Isaiah 41:10): "Do not fear, for I am with you; do not be afraid, for I am your God. I will strengthen you; I will surely help you; I will uphold you with My righteous right hand."
 
 ---
 
@@ -388,11 +396,11 @@ Not every phrase people quote as "biblical truth" is actually in the Bible. Some
 
 - The truth: Holiness is inner renewal, not hygiene.
 
-- (Mark 7:15): "There is nothing outside a person that by going into him can defile him, but the things that come out of a person are what defile him."
+- (Mark 7:15): "Nothing that enters a man from the outside can defile him; but the things that come out of a man, these are what defile him.”"
 
-- (Titus 3:5): "he saved us, not because of works done by us in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the Holy Spirit,"
+- (Titus 3:5): "He saved us, not by the righteous deeds we had done, but according to His mercy, through the washing of new birth and renewal by the Holy Spirit."
 
-- (Hebrews 10:22): "let us draw near with a true heart in full assurance of faith, with our hearts sprinkled clean from an evil conscience and our bodies washed with pure water."
+- (Hebrews 10:22): "let us draw near with a sincere heart in full assurance of faith, having our hearts sprinkled to cleanse us from a guilty conscience and our bodies washed with pure water."
 
 ---
 
@@ -402,11 +410,11 @@ Not every phrase people quote as "biblical truth" is actually in the Bible. Some
 
 - The truth: Scripture promises endurance and ultimate deliverance.
 
-- (2 Corinthians 4:17): "For this light momentary affliction is preparing for us an eternal weight of glory beyond all comparison,"
+- (2 Corinthians 4:17): "For our light and momentary affliction is producing for us an eternal weight of glory that is far beyond comparison."
 
-- (Psalm 30:5): "For his anger is but for a moment, and his favor is for a lifetime. Weeping may tarry for the night, but joy comes with the morning."
+- (Psalm 30:5): "For His anger is fleeting, but His favor lasts a lifetime. Weeping may stay the night, but joy comes in the morning."
 
-- (1 Peter 5:10): "And after you have suffered a little while, the God of all grace, who has called you to his eternal glory in Christ, will himself restore, confirm, strengthen, and establish you."
+- (1 Peter 5:10): "And after you have suffered for a little while, the God of all grace, who has called you to His eternal glory in Christ, will Himself restore you, secure you, strengthen you, and establish you."
 
 ---
 
@@ -416,13 +424,13 @@ Not every phrase people quote as "biblical truth" is actually in the Bible. Some
 
 - The truth: Authority is limited and always under God.
 
-- (Romans 13:1–2): "Let every person be subject to the governing authorities. For there is no authority except from God, and those that exist have been instituted by God. Therefore whoever resists the authorities resists what God has appointed, and those who resist will incur judgment."
+- (Romans 13:1–2): "Everyone must submit himself to the governing authorities, for there is no authority except that which is from God. The authorities that exist have been appointed by God. Consequently, whoever resists authority is opposing what God has set in place, and those who do so will bring judgment on themselves."
 
-- (Daniel 2:21): "He changes times and seasons; he removes kings and sets up kings; he gives wisdom to the wise and knowledge to those who have understanding;"
+- (Daniel 2:21): "He changes the times and seasons; He removes kings and establishes them. He gives wisdom to the wise and knowledge to the discerning."
 
-- (Psalm 22:28): "For kingship belongs to the LORD, and he rules over the nations."
+- (Psalm 22:28): "For dominion belongs to the LORD and He rules over the nations."
 
-- (Acts 5:29): "But Peter and the apostles answered, "We must obey God rather than men."
+- (Acts 5:29): "But Peter and the other apostles replied, “We must obey God rather than men."
 
 ---
 

@@ -18,11 +18,20 @@ from audit_note_references import citations, validate
 
 ROOT = Path(__file__).resolve().parents[2]
 NOTES = ROOT / "shared/assets/notes"
-LANGUAGES = ("en", "de", "es", "fr", "it", "pt", "ru", "ja", "ko", "zh-Hans", "zh-Hant", "ar", "hi")
+LANGUAGES = ("en", "de", "es", "fr", "it", "pt", "ru", "ja", "ko", "zh-Hans", "zh-Hant", "ar", "hi", "sw")
 PAGES = ("revelation_timeline.md", "messianic_prophecy.md", "daniels_timeline.md", "second_coming_rapture.md")
 VALUES = {tag: "values-" + tag for tag in LANGUAGES}
 VALUES.update({"en": "values", "zh-Hans": "values-zh-rCN", "zh-Hant": "values-zh-rTW"})
 BASELINE = "a8049020"
+# Four abbreviated baseline quotations were expanded to the full text of each
+# language's bundled Bible after that commit. Keep the historical no-loss check
+# strict for every other line.
+SOURCE_QUOTE_UPDATES = (
+    ("revelation", 18, (4,)),
+    ("revelation", 21, (1,)),
+    ("1_thessalonians", 4, (16, 17)),
+    ("1_corinthians", 15, (51, 52)),
+)
 HEADINGS = re.compile(r"^(#{1,6}) (.+)$", re.M)
 URLS = re.compile(r"https://[^\s<>\])]+")
 FORBIDDEN_ATTRIBUTION = re.compile(
@@ -139,8 +148,33 @@ def contains_in_order(original: list[str], updated: list[str]) -> bool:
     return all(any(candidate == line for candidate in iterator) for line in original)
 
 
+def cited_blockquote(body: str, tag: str, book_id: str, chapter: int,
+                     verses: tuple[int, ...]) -> str:
+    """Find the one quoted line above a bold citation for this passage."""
+    lines = body.splitlines()
+    matches = []
+    for index, line in enumerate(lines):
+        if not line.startswith("> **"):
+            continue
+        references = citations(tag, line)
+        if len(references) != 1:
+            continue
+        ref = references[0]
+        if (ref.book, ref.chapter, ref.verse, ref.end_chapter, ref.end_verse) != (
+                book_id, chapter, verses[0], chapter, verses[-1]):
+            continue
+        previous = index - 1
+        while previous >= 0 and lines[previous].strip() == ">":
+            previous -= 1
+        if previous >= 0:
+            matches.append(lines[previous])
+    if len(matches) != 1:
+        raise AssertionError(f"Expected one cited quotation for {tag}/{book_id} {chapter}:{verses}")
+    return matches[0]
+
+
 class ProphecyAssetTests(unittest.TestCase):
-    def test_all_four_pages_in_all_thirteen_languages(self):
+    def test_all_four_pages_in_all_fourteen_languages(self):
         for tag in LANGUAGES:
             for page in PAGES:
                 with self.subTest(language=tag, page=page):
@@ -228,6 +262,8 @@ class ProphecyAssetTests(unittest.TestCase):
         if not exists:
             self.skipTest("Preservation audit requires historical baseline a8049020, absent in shallow checkout")
         for tag in LANGUAGES:
+            if tag == "sw":
+                continue  # This new locale has no file in the historical commit.
             with self.subTest(language=tag):
                 relative = f"shared/assets/notes/{tag}/revelation_timeline.md"
                 result = subprocess.run(["git", "show", BASELINE + ":" + relative],
@@ -237,12 +273,20 @@ class ProphecyAssetTests(unittest.TestCase):
                 for old_quote, address in NATIVE_QUOTE_CORRECTIONS.get(tag, {}).items():
                     self.assertEqual(1, original.count(old_quote))
                     replacement = native_quote(tag, *address)
-                    self.assertIn(replacement, updated)
                     original = original.replace(old_quote, replacement, 1)
                 for old_line, replacement in STUDY_TRANSLATION_CORRECTIONS.get(tag, {}).items():
                     self.assertEqual(1, original.count(old_line))
                     self.assertIn(replacement, updated)
                     original = original.replace(old_line, replacement, 1)
+                for book_id, chapter, verses in SOURCE_QUOTE_UPDATES:
+                    old_line = cited_blockquote(original, tag, book_id, chapter, verses)
+                    new_line = cited_blockquote(updated, tag, book_id, chapter, verses)
+                    source_text = native_quote(tag, book_id, chapter, verses)[3:-1]
+                    actual_text = new_line.removeprefix("> ")
+                    self.assertTrue(actual_text.startswith(source_text))
+                    self.assertIn(actual_text[len(source_text):], ("", "\u201d", "\u00bb", "\u300d", "\u201c"))
+                    self.assertEqual(1, original.count(old_line))
+                    original = original.replace(old_line, new_line, 1)
                 self.assertTrue(contains_in_order(normalized_lines(original),
                                                  normalized_lines(updated)),
                                 "An original line changed/disappeared or moved out of order")

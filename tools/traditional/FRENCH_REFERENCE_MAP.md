@@ -18,7 +18,6 @@ Versification Traditions with Methodology for Standardisation):
 - Pinned commit: `b99716b0cddb648ddb95cc786a197180f2f97d48`
 - Pinned raw file: <https://raw.githubusercontent.com/STEPBible/STEPBible-Data/b99716b0cddb648ddb95cc786a197180f2f97d48/Versification/TVTMS%20-%20Translators%20Versification%20Traditions%20with%20Methodology%20for%20Standardisation%20for%20Eng%2BHeb%2BLat%2BGrk%2BOthers%20-%20STEPBible.org%20CC%20BY.txt>
 - SHA-256: `63058e0f20201af4bdaa7d830da5be8f493455d947c5f147d84840b33db9ddf8`
-- License: [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
 - Attribution: Data created by STEPBible.org based on work at Tyndale House
   Cambridge.
 
@@ -29,14 +28,12 @@ English KJV map:
 - Pinned commit: `a2c51f3c3a55416f3c991a67ef3d635c7ee55330`
 - Pinned raw file: <https://raw.githubusercontent.com/crosswire/jsword/a2c51f3c3a55416f3c991a67ef3d635c7ee55330/src/main/resources/org/crosswire/jsword/versification/Segond.properties>
 - SHA-256: `47dfe8f7d6a43fbe0d8f16af972db1e420907e540ab32d09a16313719a489b6f`
-- License: [LGPL-2.1-or-later](https://github.com/crosswire/jsword/blob/a2c51f3c3a55416f3c991a67ef3d635c7ee55330/LICENSE)
 
-The target edition source is the public-domain eBible archive:
+The target edition source is the eBible archive:
 
 - Details: <https://ebible.org/details.php?id=fraLSG>
 - Archive: <https://ebible.org/Scriptures/fraLSG_usfm.zip>
 - SHA-256: `3a0615e992ffd412b1afcaed50d146bba5ec8ae2378f04ca71459a4cd2d7cc33`
-- License: Public Domain
 
 ## Method
 

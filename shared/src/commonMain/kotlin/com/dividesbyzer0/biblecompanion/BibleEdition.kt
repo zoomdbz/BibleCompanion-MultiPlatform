@@ -15,10 +15,13 @@ object BibleEditions {
   const val KOR_RV = "korrv"
   const val CUV = "cuv"
   const val VAN_DYCK = "van_dyck"
+  const val ONEN_2015 = "onen2015"
+  const val SUV_1952 = "suv1952"
 
   // The first entry is always the existing modern corpus and remains the
   // default. A second entry is exposed only when a complete, source-backed
-  // traditional overlay ships with the app.
+  // alternate overlay is bundled with the app. Source rights are recorded
+  // separately in each edition manifest.
   private val availableByLanguage = mapOf(
     "en" to listOf(BSB, KJV_1769),
     "de" to listOf("sch2000", LUTHER_1912),
@@ -33,8 +36,9 @@ object BibleEditions {
     "zh-Hant" to listOf("rcuv", CUV),
     "ar" to listOf("sab", VAN_DYCK),
     // No complete, redistributable traditional Hindi source has been
-    // identified. Do not mislabel the modern IRV or scrape copyrighted HINOV.
-    "hi" to listOf("irvhin")
+    // identified. Do not mislabel the modern IRV.
+    "hi" to listOf("irvhin"),
+    "sw" to listOf(ONEN_2015, SUV_1952)
   )
 
   fun available(appLanguage: String): List<String> =
@@ -79,9 +83,6 @@ object BibleEditions {
     !editionUnavailable && LocaleUtils.effectiveAssetTag(sourceLanguage ?: "en") ==
       LocaleUtils.effectiveAssetTag(appLanguage)
 
-  // A recognized edition may still lack this book's overlay. A fallback book
-  // cannot inherit the linked edition's verse coordinates just because its
-  // numbers happen to exist in the base text.
   internal fun linkedEditionMatchesLoaded(
     appLanguage: String,
     sourceEdition: String?,

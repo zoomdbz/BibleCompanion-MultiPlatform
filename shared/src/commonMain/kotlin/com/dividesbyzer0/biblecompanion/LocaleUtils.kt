@@ -28,7 +28,7 @@ object LocaleUtils {
     private fun supportedAssetTag(language: String, script: String, country: String): String? =
         when (language.lowercase()) {
             "en" -> "en"
-            "es", "fr", "it", "ru", "pt", "de", "ko", "hi", "ar", "ja" ->
+            "es", "fr", "it", "ru", "pt", "de", "ko", "hi", "ar", "ja", "sw" ->
                 language.lowercase()
             "zh" -> when (script.lowercase()) {
                 "hant" -> "zh-Hant"

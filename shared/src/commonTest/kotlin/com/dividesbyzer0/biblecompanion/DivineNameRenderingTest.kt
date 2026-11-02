@@ -70,7 +70,8 @@ class DivineNameRenderingTest {
       "ja" to "ヤハウェ",
       "ko" to "야훼",
       "zh-Hans" to "雅威",
-      "zh-Hant" to "雅威"
+      "zh-Hant" to "雅威",
+      "sw" to "Yahwe"
     )
     for ((lang, name) in expected) {
       assertEquals(
@@ -97,6 +98,32 @@ class DivineNameRenderingTest {
     assertEquals(english, applyDivineName(english, "yahweh", "en", true, "new_testament"))
     assertEquals(italian, applyDivineName(italian, "yahweh", "it", true, "new_testament"))
     assertEquals(russian, applyDivineName(russian, "yahweh", "ru", true, "new_testament"))
+  }
+
+  @Test
+  fun swahiliUsesOnlySourceMarkedBwanaForDivineNameReplacement() {
+    val marked = "malaika wa [DN]Bwana[/DN] akamtokea Mose"
+    assertEquals("malaika wa Bwana akamtokea Mose",
+      applyDivineName(marked, "traditional", "sw", false, "old_testament"))
+    assertEquals("malaika wa [DN]Yahwe[/DN] akamtokea Mose",
+      applyDivineName(marked, "yahweh", "sw", true, "old_testament"))
+    assertEquals("Bwana wa nyumba",
+      applyDivineName("Bwana wa nyumba", "yahweh", "sw", false, "old_testament"))
+  }
+
+  @Test
+  fun swahiliMarkedSuvNamesAndSelfIdentificationKeepTheirMeaning() {
+    assertEquals("Bwana [DN]Yahwe[/DN] akasema",
+      applyDivineName("Bwana [DN]MUNGU[/DN] akasema", "yahweh", "sw", true, "old_testament"))
+    assertEquals("[DN]Yahwe[/DN] akasema",
+      applyDivineName("[DN]YEHOVA[/DN] akasema", "yahweh", "sw", true, "old_testament"))
+    val selfIdentification = "[DN]Mimi niko ambaye niko[/DN]; [DN]Mimi niko[/DN]"
+    assertEquals(selfIdentification,
+      applyDivineName(selfIdentification, "yahweh", "sw", true, "old_testament"))
+    assertEquals("Mimi niko ambaye niko; Mimi niko",
+      applyDivineName(selfIdentification, "yahweh", "sw", false, "old_testament"))
+    assertEquals("BWANA wa mabwana",
+      applyDivineName("BWANA wa mabwana", "yahweh", "sw", true, "new_testament"))
   }
 
   @Test

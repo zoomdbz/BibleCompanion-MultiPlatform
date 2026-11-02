@@ -66,7 +66,9 @@ object Linker {
     "HINCLBSI" to 1682, "HINOVBSI" to 1683, "HSS" to 1628,
     // Arabic
     "QNAV" to 3901, "SAB" to 153, "AVDDV" to 14, "FAOV" to 2301, "GOV" to 3513,
-    "ASVD" to 192, "GNADC25" to 1665
+    "ASVD" to 192, "GNADC25" to 1665,
+    // Swahili Union Version on Bible.com. The in-app ONEN text is a separate edition.
+    "SUV" to 164
   )
 
   private fun canonicalYouVersionCode(code: String): String = when (code.trim().uppercase()) {
@@ -84,7 +86,7 @@ object Linker {
     "en" to "BSB", "de" to "SCH2000", "es" to "NVI", "fr" to "NBS",
     "it" to "NR06", "pt" to "NVT", "ru" to "NRT", "ja" to "JCB",
     "ko" to "RNKSV", "zh-hans" to "CCB", "zh-hant" to "RCUV",
-    "ar" to "SAB", "hi" to "IRVHIN"
+    "ar" to "SAB", "hi" to "IRVHIN", "sw" to "SUV"
   )
 
   fun defaultVersionForLanguage(appLanguage: String): String =
@@ -110,7 +112,8 @@ object Linker {
     readerMode: String,
     appLanguage: String
   ): String? = when (readerMode.trim().lowercase()) {
-    "biblegateway" -> bibleGatewayVersionFor(currentVersion, appLanguage)
+    "biblegateway" -> if (langKey(appLanguage) == "sw") null
+      else bibleGatewayVersionFor(currentVersion, appLanguage)
     "biblecom" -> canonicalYouVersionCode(currentVersion)
       .takeIf { youVersionIdFor(it) != null }
       ?: defaultVersionForLanguage(appLanguage)
@@ -476,6 +479,9 @@ object Linker {
   fun dcCandidates(readerMode: String, langTag: String, ref: String): List<String> {
     val mode = readerMode.trim().lowercase()
     val lang = langKey(langTag)
+    // Neither supplied Swahili Bible contains these books. Do not offer an
+    // English external edition as though it were a Swahili continuation.
+    if (lang == "sw") return emptyList()
     val local = when (mode) {
       "biblegateway" -> bibleGatewayDcCandidatesByLang[lang].orEmpty()
       else -> candidatesByLang[lang].orEmpty()
@@ -562,6 +568,7 @@ object Linker {
 
   fun toLink(collection: String, ref: String, translation: String, preferBibleCom: Boolean, appLanguage: String? = null): String {
     val lang = appLanguage ?: platformGetDefaultLocaleLanguage()
+    if (langKey(lang) == "sw") return linkForReader(ref, "SUV", "biblecom", lang)?.second.orEmpty()
     val readerMode = if (preferBibleCom) "biblecom" else "biblegateway"
     return linkForReader(ref, translation, readerMode, lang)?.second
       ?: linkForReader(ref, translation, "biblegateway", lang)?.second
@@ -624,8 +631,35 @@ object Linker {
     return m.groupValues[2]
   }
 
+  private val swYouVersionBookCodes = mapOf(
+    "mwanzo" to "GEN", "kutoka" to "EXO", "mambo ya walawi" to "LEV",
+    "hesabu" to "NUM", "kumbukumbu la torati" to "DEU", "yoshua" to "JOS",
+    "waamuzi" to "JDG", "ruthu" to "RUT", "1 samweli" to "1SA",
+    "2 samweli" to "2SA", "1 wafalme" to "1KI", "2 wafalme" to "2KI",
+    "1 mambo ya nyakati" to "1CH", "2 mambo ya nyakati" to "2CH",
+    "ezra" to "EZR", "nehemia" to "NEH", "esta" to "EST",
+    "ayubu" to "JOB", "zaburi" to "PSA", "mithali" to "PRO",
+    "mhubiri" to "ECC", "wimbo ulio bora" to "SNG", "isaya" to "ISA",
+    "yeremia" to "JER", "maombolezo" to "LAM", "ezekieli" to "EZK",
+    "danieli" to "DAN", "hosea" to "HOS", "yoeli" to "JOL",
+    "amosi" to "AMO", "obadia" to "OBA", "yona" to "JON",
+    "mika" to "MIC", "nahumu" to "NAM", "habakuki" to "HAB",
+    "sefania" to "ZEP", "hagai" to "HAG", "zekaria" to "ZEC",
+    "malaki" to "MAL", "mathayo" to "MAT", "marko" to "MRK",
+    "luka" to "LUK", "yohana" to "JHN", "matendo ya mitume" to "ACT",
+    "warumi" to "ROM", "1 wakorintho" to "1CO", "2 wakorintho" to "2CO",
+    "wagalatia" to "GAL", "waefeso" to "EPH", "wafilipi" to "PHP",
+    "wakolosai" to "COL", "1 wathesalonike" to "1TH",
+    "2 wathesalonike" to "2TH", "1 timotheo" to "1TI",
+    "2 timotheo" to "2TI", "tito" to "TIT", "filemoni" to "PHM",
+    "waebrania" to "HEB", "yakobo" to "JAS", "1 petro" to "1PE",
+    "2 petro" to "2PE", "1 yohana" to "1JN", "2 yohana" to "2JN",
+    "3 yohana" to "3JN", "yuda" to "JUD", "ufunuo" to "REV"
+  )
+
   private fun toYouVersionBookCode(englishBookRaw: String): String? {
     val s = englishBookRaw.trim().lowercase().replace("\\s+".toRegex(), " ").replace("\u2019", "'")
+    swYouVersionBookCodes[s]?.let { return it }
     return when (s) {
       "genesis" -> "GEN"; "exodus" -> "EXO"; "leviticus" -> "LEV"; "numbers" -> "NUM"
       "deuteronomy" -> "DEU"; "joshua" -> "JOS"; "judges" -> "JDG"; "ruth" -> "RUT"

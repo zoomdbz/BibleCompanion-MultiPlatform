@@ -4,7 +4,7 @@
 Start Chromium yourself with --remote-debugging-port=9224. This command opens
 one temporary tab, reads public chapter DOM, and closes that tab. It never
 persists publisher text. A report contains only references, counts, and hashes.
-The public page may expose different text from the YouVersion licensed API;
+The public page may expose different text from the YouVersion API;
 this tool claims parity only with the page actually rendered in the browser.
 """
 

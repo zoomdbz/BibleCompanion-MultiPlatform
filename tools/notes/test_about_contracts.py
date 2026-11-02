@@ -22,6 +22,7 @@ EDITION_WORDS = {
     "values-ko": ("현대", "전통"),
     "values-pt": ("modernas", "tradicionais"),
     "values-ru": ("современные", "традиционные"),
+    "values-sw": ("kisasa", "jadi"),
     "values-zh-rCN": ("现代译本", "传统译本"),
     "values-zh-rTW": ("現代譯本", "傳統譯本"),
 }
@@ -62,6 +63,8 @@ class AboutContracts(unittest.TestCase):
         if not available:
             self.skipTest("Preservation baseline absent in shallow checkout")
         for locale in EDITION_WORDS:
+            if locale == "values-sw":
+                continue  # New locale has no historical baseline file.
             with self.subTest(locale=locale):
                 path = RESOURCES / locale / "strings.xml"
                 relative = path.relative_to(ROOT).as_posix()

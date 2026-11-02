@@ -1,0 +1,1630 @@
+{
+  "schemaVersion": 2,
+  "editionId": "suv1952",
+  "language": "sw",
+  "collection": "new_testament",
+  "bookId": "hebrews",
+  "sourceBookCode": "HEB",
+  "coverage": "full",
+  "chapters": [
+    {
+      "number": 1,
+      "lastVerse": 14,
+      "verseUnitCount": 14,
+      "verses": [
+        {
+          "chapter": 1,
+          "verse": 1,
+          "text": "Mungu, ambaye alisema zamani na baba zetu katika manabii kwa sehemu nyingi na kwa njia nyingi,"
+        },
+        {
+          "chapter": 1,
+          "verse": 2,
+          "text": "mwisho wa siku hizi amesema na sisi katika Mwana, aliyemweka kuwa mrithi wa yote, tena kwa yeye aliufanya ulimwengu."
+        },
+        {
+          "chapter": 1,
+          "verse": 3,
+          "text": "Yeye kwa kuwa ni mng’ao wa utukufu wake na chapa ya nafsi yake, akivichukua vyote kwa amri ya uweza wake, akiisha kufanya utakaso wa dhambi, aliketi mkono wa kuume wa Ukuu huko juu;"
+        },
+        {
+          "chapter": 1,
+          "verse": 4,
+          "text": "amefanyika bora kupita malaika, kwa kadiri jina alilolirithi lilivyo tukufu kuliko lao."
+        },
+        {
+          "chapter": 1,
+          "verse": 5,
+          "text": "Kwa maana alimwambia malaika yupi wakati wo wote, Ndiwe mwanangu, Mimi leo nimekuzaa? Na tena Mimi nitakuwa kwake baba, Na yeye atakuwa kwangu mwana?"
+        },
+        {
+          "chapter": 1,
+          "verse": 6,
+          "text": "Hata tena, amletapo mzaliwa wa kwanza ulimwenguni, asema, Na wamsujudu malaika wote wa Mungu."
+        },
+        {
+          "chapter": 1,
+          "verse": 7,
+          "text": "Na kwa habari za malaika asema, Afanyaye malaika wake kuwa pepo, Na watumishi wake kuwa miali ya moto."
+        },
+        {
+          "chapter": 1,
+          "verse": 8,
+          "text": "Lakini kwa habari za Mwana asema, Kiti chako cha enzi, Mungu, ni cha milele na milele; Na fimbo ya ufalme wako ni fimbo ya adili."
+        },
+        {
+          "chapter": 1,
+          "verse": 9,
+          "text": "Umependa haki, umechukia maasi; Kwa hiyo Mungu, Mungu wako, amekutia mafuta, Mafuta ya shangwe kupita wenzio."
+        },
+        {
+          "chapter": 1,
+          "verse": 10,
+          "text": "Na tena, Wewe, Bwana, hapo mwanzo uliitia misingi ya nchi, Na mbingu ni kazi za mikono yako;"
+        },
+        {
+          "chapter": 1,
+          "verse": 11,
+          "text": "Hizo zitaharibika, bali wewe unadumu; Nazo zote zitachakaa kama nguo,"
+        },
+        {
+          "chapter": 1,
+          "verse": 12,
+          "text": "Na kama mavazi utazizinga, nazo zitabadilika; Lakini wewe u yeye yule, Na miaka yako haitakoma."
+        },
+        {
+          "chapter": 1,
+          "verse": 13,
+          "text": "Je! Yuko malaika aliyemwambia wakati wo wote, Uketi mkono wangu wa kuume Hata nitakapoweka adui zako chini ya nyayo zako?"
+        },
+        {
+          "chapter": 1,
+          "verse": 14,
+          "text": "Je! Hao wote si roho watumikao, wakitumwa kuwahudumu wale watakaourithi wokovu?"
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 2,
+      "lastVerse": 18,
+      "verseUnitCount": 18,
+      "verses": [
+        {
+          "chapter": 2,
+          "verse": 1,
+          "text": "Kwa hiyo imetupasa kuyaangalia zaidi hayo yaliyosikiwa tusije tukayakosa."
+        },
+        {
+          "chapter": 2,
+          "verse": 2,
+          "text": "Kwa maana, ikiwa lile neno lililonenwa na malaika lilikuwa imara, na kila kosa na uasi ulipata ujira wa haki,"
+        },
+        {
+          "chapter": 2,
+          "verse": 3,
+          "text": "sisi je! Tutapataje kupona, tusipojali wokovu mkuu namna hii? Ambao kwanza ulinenwa na Bwana, kisha ukathibitika kwetu na wale waliosikia;"
+        },
+        {
+          "chapter": 2,
+          "verse": 4,
+          "text": "Mungu naye akishuhudu pamoja nao kwa ishara na ajabu na nguvu za namna nyingi, na kwa magawanyo ya Roho Mtakatifu, kama alivyopenda mwenyewe."
+        },
+        {
+          "chapter": 2,
+          "verse": 5,
+          "text": "Maana hakuuweka chini ya malaika ulimwengu ule ujao tunaounena, ila mtu mmoja ameshuhudia hivi mahali fulani, akisema,"
+        },
+        {
+          "chapter": 2,
+          "verse": 6,
+          "text": "Mwanadamu ni nini hata umkumbuke, Ama mwana wa binadamu, hata umwangalie?"
+        },
+        {
+          "chapter": 2,
+          "verse": 7,
+          "text": "Umemfanya mdogo punde kuliko malaika, Umemvika taji ya utukufu na heshima, Umemtawaza juu ya kazi za mikono yako;"
+        },
+        {
+          "chapter": 2,
+          "verse": 8,
+          "text": "Umeweka vitu vyote chini ya nyayo zake. Kwa maana katika kuweka vitu vyote chini yake hakusaza kitu kisichowekwa chini yake. Lakini sasa bado hamjaona vitu vyote kutiwa chini yake,"
+        },
+        {
+          "chapter": 2,
+          "verse": 9,
+          "text": "ila twamwona yeye aliyefanywa mdogo punde kuliko malaika, yaani, Yesu, kwa sababu ya maumivu ya mauti, amevikwa taji ya utukufu na heshima, ili kwa neema ya Mungu aionje mauti kwa ajili ya kila mtu."
+        },
+        {
+          "chapter": 2,
+          "verse": 10,
+          "text": "Kwa kuwa ilimpasa yeye, ambaye kwa ajili yake na kwa njia yake vitu vyote vimekuwapo, akileta wana wengi waufikilie utukufu, kumkamilisha kiongozi mkuu wa wokovu wao kwa njia ya mateso."
+        },
+        {
+          "chapter": 2,
+          "verse": 11,
+          "text": "Maana yeye atakasaye na hao wanaotakaswa wote pia watoka kwa mmoja. Kwa ajili hii haoni haya kuwaita ndugu zake;"
+        },
+        {
+          "chapter": 2,
+          "verse": 12,
+          "text": "akisema, Nitalihubiri jina lako kwa ndugu zangu; Katikati ya kanisa nitakuimbia sifa."
+        },
+        {
+          "chapter": 2,
+          "verse": 13,
+          "text": "Na tena, Nitakuwa nimemtumaini yeye. Na tena, Tazama, mimi nipo hapa na watoto niliopewa na Mungu."
+        },
+        {
+          "chapter": 2,
+          "verse": 14,
+          "text": "Basi, kwa kuwa watoto wameshiriki damu na mwili, yeye naye vivyo hivyo alishiriki yayo hayo, ili kwa njia ya mauti amharibu yeye aliyekuwa na nguvu za mauti, yaani, Ibilisi,"
+        },
+        {
+          "chapter": 2,
+          "verse": 15,
+          "text": "awaache huru wale ambao kwamba maisha yao yote kwa hofu ya mauti walikuwa katika hali ya utumwa."
+        },
+        {
+          "chapter": 2,
+          "verse": 16,
+          "text": "Maana ni hakika, hatwai asili ya malaika, ila atwaa asili ya mzao wa Ibrahimu."
+        },
+        {
+          "chapter": 2,
+          "verse": 17,
+          "text": "Hivyo ilimpasa kufananishwa na ndugu zake katika mambo yote, apate kuwa kuhani mkuu mwenye rehema, mwaminifu katika mambo ya Mungu, ili afanye suluhu kwa dhambi za watu wake."
+        },
+        {
+          "chapter": 2,
+          "verse": 18,
+          "text": "Na kwa kuwa mwenyewe aliteswa alipojaribiwa, aweza kuwasaidia wao wanaojaribiwa."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 3,
+      "lastVerse": 19,
+      "verseUnitCount": 19,
+      "verses": [
+        {
+          "chapter": 3,
+          "verse": 1,
+          "text": "Kwa hiyo, ndugu watakatifu, wenye kuushiriki mwito wa mbinguni, mtafakarini sana Mtume na Kuhani Mkuu wa maungamo yetu, Yesu,"
+        },
+        {
+          "chapter": 3,
+          "verse": 2,
+          "text": "aliyekuwa mwaminifu kwake yeye aliyemweka, kama Musa naye alivyokuwa, katika nyumba yote ya Mungu."
+        },
+        {
+          "chapter": 3,
+          "verse": 3,
+          "text": "Kwa maana huyo amehesabiwa kuwa amestahili utukufu zaidi kuliko Musa, kama vile yeye aitengenezaye nyumba alivyo na heshima zaidi ya hiyo nyumba."
+        },
+        {
+          "chapter": 3,
+          "verse": 4,
+          "text": "Maana kila nyumba imetengenezwa na mtu; ila yeye aliyevitengeneza vitu vyote ni Mungu."
+        },
+        {
+          "chapter": 3,
+          "verse": 5,
+          "text": "Na Musa kweli alikuwa mwaminifu katika nyumba yote ya Mungu kama mtumishi, awe ushuhuda wa mambo yatakayonenwa baadaye;"
+        },
+        {
+          "chapter": 3,
+          "verse": 6,
+          "text": "bali Kristo, kama mwana, juu ya nyumba ya Mungu; ambaye nyumba yake ni sisi, kama tukishikamana sana na ujasiri wetu na fahari ya taraja letu mpaka mwisho."
+        },
+        {
+          "chapter": 3,
+          "verse": 7,
+          "text": "Kwa hiyo, kama anenavyo Roho Mtakatifu, Leo, kama mtaisikia sauti yake,"
+        },
+        {
+          "chapter": 3,
+          "verse": 8,
+          "text": "Msifanye migumu mioyo yenu, Kama wakati wa kukasirisha, Siku ya kujaribiwa katika jangwa,"
+        },
+        {
+          "chapter": 3,
+          "verse": 9,
+          "text": "Hapo baba zenu waliponijaribu, wakanipima, Wakaona matendo yangu miaka arobaini."
+        },
+        {
+          "chapter": 3,
+          "verse": 10,
+          "text": "Kwa hiyo nalichukizwa na kizazi hiki, Nikasema, Sikuzote ni watu waliopotoka mioyo hawa; Hawakuzijua njia zangu;"
+        },
+        {
+          "chapter": 3,
+          "verse": 11,
+          "text": "Kama nilivyoapa kwa hasira yangu, Hawataingia rahani mwangu."
+        },
+        {
+          "chapter": 3,
+          "verse": 12,
+          "text": "Angalieni, ndugu zangu, usiwe katika mmoja wenu moyo mbovu wa kutokuamini, kwa kujitenga na Mungu aliye hai."
+        },
+        {
+          "chapter": 3,
+          "verse": 13,
+          "text": "Lakini mwonyane kila siku, maadamu iitwapo leo; ili mmoja wenu asifanywe mgumu kwa udanganyifu wa dhambi."
+        },
+        {
+          "chapter": 3,
+          "verse": 14,
+          "text": "Kwa maana tumekuwa washirika wa Kristo, kama tukishikamana na mwanzo wa uthabiti wetu kwa nguvu mpaka mwisho;"
+        },
+        {
+          "chapter": 3,
+          "verse": 15,
+          "text": "hapo inenwapo, Leo, kama mtaisikia sauti yake, Msifanye migumu mioyo yenu, Kama wakati wa kukasirisha."
+        },
+        {
+          "chapter": 3,
+          "verse": 16,
+          "text": "Maana ni akina nani waliokasirisha, waliposikia? Si wale wote waliotoka Misri wakiongozwa na Musa?"
+        },
+        {
+          "chapter": 3,
+          "verse": 17,
+          "text": "Tena ni akina nani aliochukizwa nao miaka arobaini? Si wale waliokosa, ambao mizoga yao ilianguka katika jangwa?"
+        },
+        {
+          "chapter": 3,
+          "verse": 18,
+          "text": "Tena ni akina nani aliowaapia ya kwamba hawataingia katika raha yake, ila wale walioasi?"
+        },
+        {
+          "chapter": 3,
+          "verse": 19,
+          "text": "Basi twaona ya kuwa hawakuweza kuingia kwa sababu ya kutokuamini kwao."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 4,
+      "lastVerse": 16,
+      "verseUnitCount": 16,
+      "verses": [
+        {
+          "chapter": 4,
+          "verse": 1,
+          "text": "Basi, ikiwa ikaliko ahadi ya kuingia katika raha yake, na tuogope, mmoja wenu asije akaonekana ameikosa."
+        },
+        {
+          "chapter": 4,
+          "verse": 2,
+          "text": "Maana ni kweli, sisi nasi tumehubiriwa habari njema vile vile kama hao. Lakini neno lile lililosikiwa halikuwafaa hao, kwa sababu halikuchanganyika na imani ndani yao waliosikia."
+        },
+        {
+          "chapter": 4,
+          "verse": 3,
+          "text": "Maana sisi tulioamini tunaingia katika raha ile; kama vile alivyosema, Kama nilivyoapa kwa hasira yangu, Hawataingia rahani mwangu: ijapokuwa zile kazi zilimalizika tangu kuwekwa misingi ya ulimwengu."
+        },
+        {
+          "chapter": 4,
+          "verse": 4,
+          "text": "Kwa maana ameinena siku ya saba mahali fulani hivi, Mungu alistarehe siku ya saba, akaziacha kazi zake zote;"
+        },
+        {
+          "chapter": 4,
+          "verse": 5,
+          "text": "na hapa napo, Hawataingia rahani mwangu."
+        },
+        {
+          "chapter": 4,
+          "verse": 6,
+          "text": "Basi, kwa kuwa neno hili limebaki kwamba wako watu watakaoingia humo, na wale waliohubiriwa habari ile zamani walikosa kuingia kwa sababu ya kuasi kwao,"
+        },
+        {
+          "chapter": 4,
+          "verse": 7,
+          "text": "aweka tena siku fulani, akisema katika Daudi baada ya muda mwingi namna hii, Leo; kama ilivyonenwa tangu zamani, Leo, kama mtaisikia sauti yake, Msifanye migumu mioyo yenu."
+        },
+        {
+          "chapter": 4,
+          "verse": 8,
+          "text": "Maana kama Yoshua angaliwapa raha, asingaliinena siku nyingine baadaye."
+        },
+        {
+          "chapter": 4,
+          "verse": 9,
+          "text": "Basi, imesalia raha ya sabato kwa watu wa Mungu."
+        },
+        {
+          "chapter": 4,
+          "verse": 10,
+          "text": "Kwa maana yeye aliyeingia katika raha yake amestarehe mwenyewe katika kazi yake, kama vile Mungu alivyostarehe katika kazi zake."
+        },
+        {
+          "chapter": 4,
+          "verse": 11,
+          "text": "Basi, na tufanye bidii kuingia katika raha ile, ili kwamba mtu ye yote asije akaanguka kwa mfano uo huo wa kuasi."
+        },
+        {
+          "chapter": 4,
+          "verse": 12,
+          "text": "Maana Neno la Mungu li hai, tena lina nguvu, tena lina ukali kuliko upanga uwao wote ukatao kuwili, tena lachoma hata kuzigawanya nafsi na roho, na viungo na mafuta yaliyomo ndani yake; tena li jepesi kuyatambua mawazo na makusudi ya moyo."
+        },
+        {
+          "chapter": 4,
+          "verse": 13,
+          "text": "Wala hakuna kiumbe kisichokuwa wazi mbele zake, lakini vitu vyote vi utupu na kufunuliwa machoni pake yeye aliye na mambo yetu."
+        },
+        {
+          "chapter": 4,
+          "verse": 14,
+          "text": "Basi, iwapo tunaye kuhani mkuu aliyeingia katika mbingu, Yesu, Mwana wa Mungu, na tuyashike sana maungamo yetu."
+        },
+        {
+          "chapter": 4,
+          "verse": 15,
+          "text": "Kwa kuwa hamna kuhani mkuu asiyeweza kuchukuana nasi katika mambo yetu ya udhaifu; bali yeye alijaribiwa sawasawa na sisi katika mambo yote, bila kufanya dhambi."
+        },
+        {
+          "chapter": 4,
+          "verse": 16,
+          "text": "Basi na tukikaribie kiti cha neema kwa ujasiri, ili tupewe rehema, na kupata neema ya kutusaidia wakati wa mahitaji."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 5,
+      "lastVerse": 14,
+      "verseUnitCount": 14,
+      "verses": [
+        {
+          "chapter": 5,
+          "verse": 1,
+          "text": "Maana kila kuhani mkuu aliyetwaliwa katika wanadamu amewekwa kwa ajili ya wanadamu katika mambo yamhusuyo Mungu, ili atoe matoleo na dhabihu kwa ajili ya dhambi;"
+        },
+        {
+          "chapter": 5,
+          "verse": 2,
+          "text": "awezaye kuwachukulia kwa upole wao wasiojua na wenye kupotea, kwa kuwa yeye mwenyewe yu katika hali ya udhaifu;"
+        },
+        {
+          "chapter": 5,
+          "verse": 3,
+          "text": "na kwa sababu hiyo imempasa, kama kwa ajili ya watu, vivyo hivyo kwa ajili ya nafsi yake mwenyewe, kutoa dhabihu kwa ajili ya dhambi."
+        },
+        {
+          "chapter": 5,
+          "verse": 4,
+          "text": "Na hapana mtu ajitwaliaye mwenyewe heshima hii, ila yeye aitwaye na Mungu, kama vile Haruni."
+        },
+        {
+          "chapter": 5,
+          "verse": 5,
+          "text": "Vivyo hivyo Kristo naye hakujitukuza nafsi yake kufanywa kuhani mkuu, lakini yeye aliyemwambia, Ndiwe mwanangu, Mimi leo nimekuzaa."
+        },
+        {
+          "chapter": 5,
+          "verse": 6,
+          "text": "kama asemavyo mahali pengine, Ndiwe kuhani milele Kwa mfano wa Melkizedeki."
+        },
+        {
+          "chapter": 5,
+          "verse": 7,
+          "text": "Yeye, siku hizo za mwili wake, alimtolea yule, awezaye kumwokoa na kumtoa katika mauti, maombi na dua pamoja na kulia sana na machozi, akasikilizwa kwa jinsi alivyokuwa mcha Mungu;"
+        },
+        {
+          "chapter": 5,
+          "verse": 8,
+          "text": "na, ingawa ni Mwana, alijifunza kutii kwa mateso hayo yaliyompata;"
+        },
+        {
+          "chapter": 5,
+          "verse": 9,
+          "text": "naye alipokwisha kukamilishwa, akawa sababu ya wokovu wa milele kwa watu wote wanaomtii;"
+        },
+        {
+          "chapter": 5,
+          "verse": 10,
+          "text": "kisha ametajwa na Mungu kuwa kuhani mkuu kwa mfano wa Melkizedeki."
+        },
+        {
+          "chapter": 5,
+          "verse": 11,
+          "text": "Ambaye tuna maneno mengi ya kunena katika habari zake; na ni shida kuyaeleza kwa kuwa mmekuwa wavivu wa kusikia."
+        },
+        {
+          "chapter": 5,
+          "verse": 12,
+          "text": "Kwa maana, iwapasapo kuwa waalimu, (maana wakati mwingi umepita), mnahitaji kufundishwa na mtu mafundisho ya kwanza ya maneno ya Mungu; nanyi mmekuwa mnahitaji maziwa wala si chakula kigumu."
+        },
+        {
+          "chapter": 5,
+          "verse": 13,
+          "text": "Kwa maana kila mtu atumiaye maziwa hajui sana neno la haki, kwa kuwa ni mtoto mchanga."
+        },
+        {
+          "chapter": 5,
+          "verse": 14,
+          "text": "Lakini chakula kigumu ni cha watu wazima, ambao akili zao, kwa kutumiwa, zimezoezwa kupambanua mema na mabaya."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 6,
+      "lastVerse": 20,
+      "verseUnitCount": 20,
+      "verses": [
+        {
+          "chapter": 6,
+          "verse": 1,
+          "text": "Kwa sababu hiyo, tukiacha kuyanena mafundisho ya kwanza ya Kristo, tukaze mwendo ili tuufikilie utimilifu; tusiweke msingi tena wa kuzitubia kazi zisizo na uhai, na wa kuwa na imani kwa Mungu,"
+        },
+        {
+          "chapter": 6,
+          "verse": 2,
+          "text": "na wa mafundisho ya mabatizo, na kuwekea mikono, na kufufuliwa wafu, na hukumu ya milele."
+        },
+        {
+          "chapter": 6,
+          "verse": 3,
+          "text": "Na hayo tutafanya Mungu akitujalia."
+        },
+        {
+          "chapter": 6,
+          "verse": 4,
+          "text": "Kwa maana hao waliokwisha kupewa nuru, na kukionja kipawa cha mbinguni, na kufanywa washirika wa Roho Mtakatifu,"
+        },
+        {
+          "chapter": 6,
+          "verse": 5,
+          "text": "na kulionja neno zuri la Mungu, na nguvu za zamani zijazo,"
+        },
+        {
+          "chapter": 6,
+          "verse": 6,
+          "text": "wakaanguka baada ya hayo, haiwezekani kuwafanya upya tena hata wakatubu; kwa kuwa wamsulibisha Mwana wa Mungu mara ya pili kwa nafsi zao, na kumfedhehi kwa dhahiri."
+        },
+        {
+          "chapter": 6,
+          "verse": 7,
+          "text": "Maana nchi inayoinywa mvua inayoinyeshea mara kwa mara, na kuzaa mboga zenye manufaa kwa hao ambao kwa ajili yao yalimwa, hushiriki baraka zitokazo kwa Mungu;"
+        },
+        {
+          "chapter": 6,
+          "verse": 8,
+          "text": "bali ikitoa miiba na magugu hukataliwa na kuwa karibu na laana; ambayo mwisho wake ni kuteketezwa."
+        },
+        {
+          "chapter": 6,
+          "verse": 9,
+          "text": "Lakini, wapenzi, ijapokuwa twanena hayo, katika habari zenu tumesadiki mambo yaliyo mazuri zaidi, na yaliyo na wokovu."
+        },
+        {
+          "chapter": 6,
+          "verse": 10,
+          "text": "Maana Mungu si dhalimu hata aisahau kazi yenu, na pendo lile mlilolidhihirisha kwa jina lake, kwa kuwa mmewahudumia watakatifu, na hata hivi sasa mngali mkiwahudumia."
+        },
+        {
+          "chapter": 6,
+          "verse": 11,
+          "text": "Nasi twataka sana kila mmoja wenu aidhihirishe bidii ile ile, kwa utimilifu wa matumaini hata mwisho;"
+        },
+        {
+          "chapter": 6,
+          "verse": 12,
+          "text": "ili msiwe wavivu, bali mkawe wafuasi wa hao wazirithio ahadi kwa imani na uvumilivu."
+        },
+        {
+          "chapter": 6,
+          "verse": 13,
+          "text": "Kwa maana Mungu, alipompa Ibrahimu ahadi, kwa sababu alikuwa hana mkubwa kuliko yeye mwenyewe wa kumwapa, aliapa kwa nafsi yake,"
+        },
+        {
+          "chapter": 6,
+          "verse": 14,
+          "text": "akisema, Hakika yangu kubariki nitakubariki, na kuongeza nitakuongeza."
+        },
+        {
+          "chapter": 6,
+          "verse": 15,
+          "text": "Na hivyo kwa kuvumilia akaipata ile ahadi."
+        },
+        {
+          "chapter": 6,
+          "verse": 16,
+          "text": "Maana wanadamu huapa kwa yeye aliye mkuu kuliko wao; na kwao ukomo wa mashindano yote ya maneno ni kiapo, kwa kuyathibitisha."
+        },
+        {
+          "chapter": 6,
+          "verse": 17,
+          "text": "Katika neno hilo Mungu, akitaka kuwaonyesha zaidi sana warithio ile ahadi, jinsi mashauri yake yasivyoweza kubadilika, alitia kiapo katikati;"
+        },
+        {
+          "chapter": 6,
+          "verse": 18,
+          "text": "ili kwa vitu viwili visivyoweza kubadilika, ambavyo katika hivyo Mungu hawezi kusema uongo, tupate faraja iliyo imara, sisi tuliokimbilia kuyashika matumaini yale yawekwayo mbele yetu;"
+        },
+        {
+          "chapter": 6,
+          "verse": 19,
+          "text": "tuliyo nayo kama nanga ya roho, yenye salama, yenye nguvu, yaingiayo hata mle mlimo ndani ya pazia,"
+        },
+        {
+          "chapter": 6,
+          "verse": 20,
+          "text": "alimoingia Yesu kwa ajili yetu, mtangulizi wetu, amekuwa kuhani mkuu hata milele kwa mfano wa Melkizedeki."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 7,
+      "lastVerse": 28,
+      "verseUnitCount": 28,
+      "verses": [
+        {
+          "chapter": 7,
+          "verse": 1,
+          "text": "Kwa maana Melkizedeki huyo, mfalme wa Salemu, kuhani wa Mungu aliye juu, aliyekutana na Ibrahimu alipokuwa akirudi katika kuwapiga hao wafalme, akambariki;"
+        },
+        {
+          "chapter": 7,
+          "verse": 2,
+          "text": "ambaye Ibrahimu alimgawia sehemu ya kumi ya vitu vyote; (tafsiri ya jina lake kwanza ni mfalme wa haki, tena, mfalme wa Salemu, maana yake, mfalme wa amani;"
+        },
+        {
+          "chapter": 7,
+          "verse": 3,
+          "text": "hana baba, hana mama, hana wazazi, hana mwanzo wa siku zake, wala mwisho wa uhai wake, bali amefananishwa na Mwana wa Mungu); huyo adumu kuhani milele."
+        },
+        {
+          "chapter": 7,
+          "verse": 4,
+          "text": "Basi, angalieni jinsi mtu huyo alivyokuwa mkuu, ambaye Ibrahimu, baba yetu mkuu, alimpa sehemu ya kumi ya nyara."
+        },
+        {
+          "chapter": 7,
+          "verse": 5,
+          "text": "Na katika wana wa Lawi nao, wale waupatao ukuhani, wana amri kutwaa sehemu ya kumi kwa watu wao, yaani, ndugu zao, kwa agizo la sheria, ijapokuwa wametoka katika viuno vya Ibrahimu."
+        },
+        {
+          "chapter": 7,
+          "verse": 6,
+          "text": "Bali yeye, ambaye uzazi wake haukuhesabiwa kuwa umetoka kwa hao, alitwaa sehemu ya kumi kwa Ibrahimu, akambariki yeye aliye na ile ahadi."
+        },
+        {
+          "chapter": 7,
+          "verse": 7,
+          "text": "Wala haikanushiki kabisa kwamba mdogo hubarikiwa na mkubwa."
+        },
+        {
+          "chapter": 7,
+          "verse": 8,
+          "text": "Na hapa wanadamu wapatikanao na kufa hutwaa sehemu ya kumi; bali huko yeye ashuhudiwaye kwamba yu hai."
+        },
+        {
+          "chapter": 7,
+          "verse": 9,
+          "text": "Tena yaweza kusemwa ya kuwa, kwa njia ya Ibrahimu, hata Lawi apokeaye sehemu ya kumi alitoa sehemu ya kumi;"
+        },
+        {
+          "chapter": 7,
+          "verse": 10,
+          "text": "kwa maana alikuwa katika viuno vya baba yake, hapo Melkizedeki alipokutana naye."
+        },
+        {
+          "chapter": 7,
+          "verse": 11,
+          "text": "Basi, kama ukamilifu ulikuwapo kwa ukuhani wa Lawi; (maana watu wale waliipata sheria kwa huo); kulikuwa na haja gani tena ya kuhani mwingine ainuke, kwa mfano wa Melkizedeki, wala asihesabiwe kwa mfano wa Haruni?"
+        },
+        {
+          "chapter": 7,
+          "verse": 12,
+          "text": "Maana ukuhani ule ukibadilika, hapana budi sheria nayo ibadilike."
+        },
+        {
+          "chapter": 7,
+          "verse": 13,
+          "text": "Maana yeye aliyenenwa hayo alikuwa mshirika wa kabila nyingine, ambayo hapana mtu wa kabila hiyo aliyeihudumia madhabahu."
+        },
+        {
+          "chapter": 7,
+          "verse": 14,
+          "text": "Maana ni dhahiri kwamba Bwana wetu alitoka katika Yuda, kabila ambayo Musa hakunena neno lo lote juu yake katika mambo ya ukuhani."
+        },
+        {
+          "chapter": 7,
+          "verse": 15,
+          "text": "Tena hayo tusemayo ni dhahiri sana zaidi, ikiwa ametokea kuhani mwingine mithili ya Melkizedeki;"
+        },
+        {
+          "chapter": 7,
+          "verse": 16,
+          "text": "asiyekuwa kuhani kwa sheria ya amri iliyo ya jinsi ya mwili, bali kwa nguvu za uzima usio na ukomo;"
+        },
+        {
+          "chapter": 7,
+          "verse": 17,
+          "text": "maana ameshuhudiwa kwamba, Wewe u kuhani milele Kwa mfano wa Melkizedeki."
+        },
+        {
+          "chapter": 7,
+          "verse": 18,
+          "text": "Maana, kuna kubatiliwa kwa ile amri iliyotangulia, kwa sababu ya udhaifu wake, na kutokufaa kwake;"
+        },
+        {
+          "chapter": 7,
+          "verse": 19,
+          "text": "(kwa maana ile sheria haikukamilisha neno); na pamoja na hayo kuliingizwa matumaini yaliyo mazuri zaidi, ambayo kwa hayo twamkaribia Mungu."
+        },
+        {
+          "chapter": 7,
+          "verse": 20,
+          "text": "Na kwa kuwa haikuwa pasipo kiapo,"
+        },
+        {
+          "chapter": 7,
+          "verse": 21,
+          "text": "(maana wale walifanywa makuhani pasipo kiapo; bali yeye, pamoja na kiapo, kwa yeye aliyemwambia, Bwana ameapa wala hataghairi, Wewe u kuhani milele;)"
+        },
+        {
+          "chapter": 7,
+          "verse": 22,
+          "text": "basi kwa kadiri hii Yesu amekuwa mdhamini wa agano lililo bora zaidi."
+        },
+        {
+          "chapter": 7,
+          "verse": 23,
+          "text": "Tena wale walifanywa makuhani wengi, kwa sababu wazuiliwa na mauti wasikae;"
+        },
+        {
+          "chapter": 7,
+          "verse": 24,
+          "text": "bali yeye, kwa kuwa akaa milele, anao ukuhani wake usioondoka."
+        },
+        {
+          "chapter": 7,
+          "verse": 25,
+          "text": "Naye, kwa sababu hii, aweza kuwaokoa kabisa wao wamjiao Mungu kwa yeye; maana yu hai sikuzote ili awaombee."
+        },
+        {
+          "chapter": 7,
+          "verse": 26,
+          "text": "Maana ilitupasa sisi tuwe na kuhani mkuu wa namna hii aliye mtakatifu, asiyekuwa na uovu, asiyekuwa na waa lo lote, aliyetengwa na wakosaji, aliyekuwa juu kuliko mbingu;"
+        },
+        {
+          "chapter": 7,
+          "verse": 27,
+          "text": "ambaye hana haja kila siku, mfano wa wale makuhani wakuu wengine, kwanza kutoa dhabihu kwa ajili ya dhambi zake mwenyewe, kisha kwa ajili ya dhambi za hao watu; maana yeye alifanya hivi mara moja, alipojitoa nafsi yake."
+        },
+        {
+          "chapter": 7,
+          "verse": 28,
+          "text": "Maana torati yawaweka wanadamu walio na unyonge kuwa makuhani wakuu; bali hilo neno la kiapo kilichokuja baada ya torati limemweka Mwana, aliyekamilika hata milele."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 8,
+      "lastVerse": 13,
+      "verseUnitCount": 13,
+      "verses": [
+        {
+          "chapter": 8,
+          "verse": 1,
+          "text": "Basi, katika hayo tunayosema, neno lililo kuu ndilo hili: Tunaye kuhani mkuu wa namna hii, aliyeketi mkono wa kuume wa kiti cha enzi cha Ukuu mbinguni,"
+        },
+        {
+          "chapter": 8,
+          "verse": 2,
+          "text": "mhudumu wa patakatifu, na wa ile hema ya kweli, ambayo Bwana aliiweka wala si mwanadamu."
+        },
+        {
+          "chapter": 8,
+          "verse": 3,
+          "text": "Maana kila kuhani mkuu huwekwa ili atoe vipawa na dhabihu; kwa hiyo lazima huyu naye awe na kitu cha kutoa."
+        },
+        {
+          "chapter": 8,
+          "verse": 4,
+          "text": "Kama angekuwa juu ya nchi, asingekuwa kuhani; maana wako watoao sadaka kama iagizavyo sheria;"
+        },
+        {
+          "chapter": 8,
+          "verse": 5,
+          "text": "watumikiao mfano na kivuli cha mambo ya mbinguni, kama Musa alivyoagizwa na Mungu, alipokuwa tayari kuifanya ile hema; maana asema, Angalia ukavifanye vitu vyote kwa mfano ule ulioonyeshwa katika mlima."
+        },
+        {
+          "chapter": 8,
+          "verse": 6,
+          "text": "Lakini sasa amepata huduma iliyo bora zaidi, kwa kadiri alivyo mjumbe wa agano lililo bora, lililoamriwa juu ya ahadi zilizo bora."
+        },
+        {
+          "chapter": 8,
+          "verse": 7,
+          "text": "Maana kama lile la kwanza lingalikuwa halina upungufu, nafasi isingalitafutwa kwa lile la pili."
+        },
+        {
+          "chapter": 8,
+          "verse": 8,
+          "text": "Maana, awalaumupo, asema Angalia, siku zinakuja, asema [DN]Bwana[/DN], Nami nitawatimizia nyumba ya Israeli na nyumba ya Yuda agano jipya;"
+        },
+        {
+          "chapter": 8,
+          "verse": 9,
+          "text": "Halitakuwa kama agano lile nililoagana na baba zao, Katika siku ile nilipowashika mikono yao niwatoe katika nchi ya Misri. Kwa sababu hawakudumu katika agano langu, Mimi nami sikuwajali asema [DN]Bwana[/DN]."
+        },
+        {
+          "chapter": 8,
+          "verse": 10,
+          "text": "Maana hili ndilo agano nitakaloagana na nyumba ya Israeli Baada ya siku zile, asema [DN]Bwana[/DN]; Nitawapa sheria zangu katika nia zao, Na katika mioyo yao nitaziandika; Nami nitakuwa Mungu kwao, Nao watakuwa watu wangu."
+        },
+        {
+          "chapter": 8,
+          "verse": 11,
+          "text": "Nao hawatafundishana kila mtu na jirani yake, Na kila mtu na ndugu yake, akisema, Mjue [DN]Bwana[/DN]; Kwa maana wote watanijua, Tangu mdogo wao hata mkubwa wao."
+        },
+        {
+          "chapter": 8,
+          "verse": 12,
+          "text": "Kwa sababu nitawasamehe maovu yao, Na dhambi zao sitazikumbuka tena."
+        },
+        {
+          "chapter": 8,
+          "verse": 13,
+          "text": "Kwa kule kusema, Agano jipya, amelifanya lile la kwanza kuwa kuukuu. Lakini kitu kianzacho kuwa kikuukuu na kuchakaa ki karibu na kutoweka."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 9,
+      "lastVerse": 28,
+      "verseUnitCount": 28,
+      "verses": [
+        {
+          "chapter": 9,
+          "verse": 1,
+          "text": "Basi hata agano la kwanza lilikuwa na kawaida za ibada, na patakatifu pake, pa kidunia."
+        },
+        {
+          "chapter": 9,
+          "verse": 2,
+          "text": "Maana hema ilitengenezwa, ile ya kwanza, mlimokuwa na kinara cha taa, na meza, na mikate ya Wonyesho; ndipo palipoitwa, Patakatifu."
+        },
+        {
+          "chapter": 9,
+          "verse": 3,
+          "text": "Na nyuma ya pazia la pili, ile hema iitwayo Patakatifu pa patakatifu,"
+        },
+        {
+          "chapter": 9,
+          "verse": 4,
+          "text": "yenye chetezo cha dhahabu, na sanduku la agano lililofunikwa kwa dhahabu pande zote, mlimokuwa na kopo la dhahabu lenye ile mana, na ile fimbo ya Haruni iliyochipuka, na vile vibao vya agano;"
+        },
+        {
+          "chapter": 9,
+          "verse": 5,
+          "text": "na juu yake makerubi ya utukufu, yakikitia kivuli kiti cha rehema; basi hatuna nafasi sasa ya kueleza habari za vitu hivi kimoja kimoja."
+        },
+        {
+          "chapter": 9,
+          "verse": 6,
+          "text": "Basi, vitu hivi vikiisha kutengenezwa hivyo, makuhani huingia katika hema hiyo ya kwanza daima, wakiyatimiza mambo ya ibada."
+        },
+        {
+          "chapter": 9,
+          "verse": 7,
+          "text": "Lakini katika hema hiyo ya pili kuhani mkuu huingia peke yake, mara moja kila mwaka; wala si pasipo damu, atoayo kwa ajili ya nafsi yake na kwa dhambi za kutokujua za hao watu."
+        },
+        {
+          "chapter": 9,
+          "verse": 8,
+          "text": "Roho Mtakatifu akionyesha neno hili, ya kwamba njia ya kupaingia patakatifu ilikuwa haijadhihirishwa bado, hapo hema ya kwanza ilipokuwa ingali ikisimama;"
+        },
+        {
+          "chapter": 9,
+          "verse": 9,
+          "text": "ambayo ndiyo mfano wa wakati huu uliopo sasa; wakati huo sadaka na dhabihu zinatolewa, zisizoweza kwa jinsi ya dhambi kumkamilisha mtu aabuduye,"
+        },
+        {
+          "chapter": 9,
+          "verse": 10,
+          "text": "kwa kuwa ni sheria za jinsi ya mwili tu, vyakula na vinywaji na kutawadha kwingine kwingine, zilizoamriwa hata wakati wa matengenezo mapya."
+        },
+        {
+          "chapter": 9,
+          "verse": 11,
+          "text": "Lakini Kristo akiisha kuja, aliye kuhani mkuu wa mambo mema yatakayokuwapo, kwa hema iliyo kubwa na kamilifu zaidi, isiyofanyika kwa mikono, maana yake, isiyo ya ulimwengu huu,"
+        },
+        {
+          "chapter": 9,
+          "verse": 12,
+          "text": "wala si kwa damu ya mbuzi na ndama, bali kwa damu yake mwenyewe aliingia mara moja tu katika Patakatifu, akiisha kupata ukombozi wa milele."
+        },
+        {
+          "chapter": 9,
+          "verse": 13,
+          "text": "Kwa maana, ikiwa damu ya mbuzi na mafahali na majivu ya ndama ya ng’ombe waliyonyunyiziwa wenye uchafu hutakasa hata kuusafisha mwili;"
+        },
+        {
+          "chapter": 9,
+          "verse": 14,
+          "text": "basi si zaidi damu yake Kristo, ambaye kwamba kwa Roho wa milele alijitoa nafsi yake kwa Mungu kuwa sadaka isiyo na mawaa, itawasafisha dhamiri zenu na matendo mafu, mpate kumwabudu Mungu aliye hai?"
+        },
+        {
+          "chapter": 9,
+          "verse": 15,
+          "text": "Na kwa sababu hii ni mjumbe wa agano jipya, ili, mauti ikiisha kufanyika kwa kukomboa makosa yaliyokuwa chini ya agano la kwanza, hao walioitwa waipokee ahadi ya urithi wa milele."
+        },
+        {
+          "chapter": 9,
+          "verse": 16,
+          "text": "Maana agano la urithi lilipo, lazima iwepo mauti yake aliyelifanya."
+        },
+        {
+          "chapter": 9,
+          "verse": 17,
+          "text": "Kwa maana agano la urithi lina nguvu palipotukia kufa kwa mtu; kwa kuwa halina nguvu kabisa, akiwa yu hai yeye aliyelifanya."
+        },
+        {
+          "chapter": 9,
+          "verse": 18,
+          "text": "Kwa hiyo hata lile la kwanza halikuanzwa pasipo damu."
+        },
+        {
+          "chapter": 9,
+          "verse": 19,
+          "text": "Maana kila amri ilipokwisha kunenwa na Musa kwa hao watu wote, kama ilivyoamuru sheria, aliitwaa damu ya ndama na ya mbuzi, pamoja na maji na sufu nyekundu na hisopo, akakinyunyizia kitabu chenyewe, na watu wote,"
+        },
+        {
+          "chapter": 9,
+          "verse": 20,
+          "text": "akisema, Hii ni damu ya agano mliloamriwa na Mungu."
+        },
+        {
+          "chapter": 9,
+          "verse": 21,
+          "text": "Na ile hema nayo na vyombo vyote vya ibada alivinyunyizia damu vivyo hivyo."
+        },
+        {
+          "chapter": 9,
+          "verse": 22,
+          "text": "Na katika Torati karibu vitu vyote husafishwa kwa damu, na pasipo kumwaga damu hakuna ondoleo."
+        },
+        {
+          "chapter": 9,
+          "verse": 23,
+          "text": "Basi ilikuwa sharti nakala za mambo yaliyo mbinguni zisafishwe kwa hizo, lakini mambo ya mbinguni yenyewe yasafishwe kwa dhabihu zilizo bora kuliko hizo."
+        },
+        {
+          "chapter": 9,
+          "verse": 24,
+          "text": "Kwa sababu Kristo hakuingia katika patakatifu palipofanyika kwa mikono, ndio mfano wa patakatifu halisi; bali aliingia mbinguni hasa, aonekane sasa usoni pa Mungu kwa ajili yetu;"
+        },
+        {
+          "chapter": 9,
+          "verse": 25,
+          "text": "wala si kwamba ajitoe mara nyingi, kama vile kuhani mkuu aingiavyo katika patakatifu kila mwaka kwa damu isiyo yake;"
+        },
+        {
+          "chapter": 9,
+          "verse": 26,
+          "text": "kama ni hivyo, ingalimpasa kuteswa mara nyingi tangu kuwekwa msingi wa ulimwengu; lakini sasa, mara moja tu, katika utimilifu wa nyakati, amefunuliwa, azitangue dhambi kwa dhabihu ya nafsi yake."
+        },
+        {
+          "chapter": 9,
+          "verse": 27,
+          "text": "Na kama vile watu wanavyowekewa kufa mara moja, na baada ya kufa hukumu;"
+        },
+        {
+          "chapter": 9,
+          "verse": 28,
+          "text": "kadhalika Kristo naye, akiisha kutolewa sadaka mara moja azichukue dhambi za watu wengi; atatokea mara ya pili, pasipo dhambi, kwa hao wamtazamiao kwa wokovu."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 10,
+      "lastVerse": 39,
+      "verseUnitCount": 39,
+      "verses": [
+        {
+          "chapter": 10,
+          "verse": 1,
+          "text": "Basi torati, kwa kuwa ni kivuli cha mema yatakayokuwa, wala si sura yenyewe ya mambo hayo, kwa dhabihu zile zile wanazozitoa kila mwaka daima, haiwezi wakati wo wote kuwakamilisha wakaribiao."
+        },
+        {
+          "chapter": 10,
+          "verse": 2,
+          "text": "Kama ndivyo, je! Dhabihu hazingekoma kutolewa; kwa maana waabuduo, wakiisha kusafishwa mara moja, wasingejiona tena kuwa na dhambi?"
+        },
+        {
+          "chapter": 10,
+          "verse": 3,
+          "text": "Lakini katika dhabihu hizo liko kumbukumbu la dhambi kila mwaka."
+        },
+        {
+          "chapter": 10,
+          "verse": 4,
+          "text": "Maana haiwezekani damu ya mafahali na mbuzi kuondoa dhambi."
+        },
+        {
+          "chapter": 10,
+          "verse": 5,
+          "text": "Kwa hiyo ajapo ulimwenguni, asema, Dhabihu na toleo hukutaka, Lakini mwili uliniwekea tayari;"
+        },
+        {
+          "chapter": 10,
+          "verse": 6,
+          "text": "Sadaka za kuteketezwa na sadaka za dhambi hukupendezwa nazo;"
+        },
+        {
+          "chapter": 10,
+          "verse": 7,
+          "text": "Ndipo niliposema, Tazama, nimekuja (katika gombo la chuo nimeandikiwa) Niyafanye mapenzi yako, Mungu."
+        },
+        {
+          "chapter": 10,
+          "verse": 8,
+          "text": "Hapo juu asemapo, Dhabihu na matoleo na sadaka za kuteketezwa na hizo za dhambi hukuzitaka, wala hukupendezwa nazo (zitolewazo kama ilivyoamuru torati),"
+        },
+        {
+          "chapter": 10,
+          "verse": 9,
+          "text": "ndipo aliposema, Tazama, nimekuja niyafanye mapenzi yako. Aondoa la kwanza, ili kusudi alisimamishe la pili."
+        },
+        {
+          "chapter": 10,
+          "verse": 10,
+          "text": "Katika mapenzi hayo mmepata utakaso, kwa kutolewa mwili wa Yesu Kristo mara moja tu."
+        },
+        {
+          "chapter": 10,
+          "verse": 11,
+          "text": "Na kila kuhani husimama kila siku akifanya ibada, na kutoa dhabihu zile zile mara nyingi; ambazo haziwezi kabisa kuondoa dhambi."
+        },
+        {
+          "chapter": 10,
+          "verse": 12,
+          "text": "Lakini huyu, alipokwisha kutoa kwa ajili ya dhambi dhabihu moja idumuyo hata milele, aliketi mkono wa kuume wa Mungu;"
+        },
+        {
+          "chapter": 10,
+          "verse": 13,
+          "text": "tangu hapo akingojea hata adui zake wawekwe kuwa chini ya miguu yake."
+        },
+        {
+          "chapter": 10,
+          "verse": 14,
+          "text": "Maana kwa toleo moja amewakamilisha hata milele hao wanaotakaswa."
+        },
+        {
+          "chapter": 10,
+          "verse": 15,
+          "text": "Na Roho Mtakatifu naye amshuhudia; kwa maana, baada ya kusema,"
+        },
+        {
+          "chapter": 10,
+          "verse": 16,
+          "text": "Hili ni agano nitakaloagana nao baada ya siku zile, anena [DN]Bwana[/DN], Nitatia sheria zangu mioyoni mwao, Na katika nia zao nitaziandika; ndipo anenapo,"
+        },
+        {
+          "chapter": 10,
+          "verse": 17,
+          "text": "Dhambi zao na uasi wao sitaukumbuka tena kabisa."
+        },
+        {
+          "chapter": 10,
+          "verse": 18,
+          "text": "Basi, ondoleo la hayo likiwapo, hapana toleo tena kwa ajili ya dhambi."
+        },
+        {
+          "chapter": 10,
+          "verse": 19,
+          "text": "Basi, ndugu, kwa kuwa tuna ujasiri wa kupaingia patakatifu kwa damu ya Yesu,"
+        },
+        {
+          "chapter": 10,
+          "verse": 20,
+          "text": "njia ile aliyotuanzia iliyo mpya, iliyo hai, ipitayo katika pazia, yaani, mwili wake;"
+        },
+        {
+          "chapter": 10,
+          "verse": 21,
+          "text": "na kuwa na kuhani mkuu juu ya nyumba ya Mungu;"
+        },
+        {
+          "chapter": 10,
+          "verse": 22,
+          "text": "na tukaribie wenye moyo wa kweli, kwa utimilifu wa imani, hali tumenyunyiziwa mioyo tuache dhamiri mbaya, tumeoshwa miili kwa maji safi."
+        },
+        {
+          "chapter": 10,
+          "verse": 23,
+          "text": "Na mlishike sana ungamo la tumaini letu, lisigeuke; maana yeye aliyeahidi ni mwaminifu;"
+        },
+        {
+          "chapter": 10,
+          "verse": 24,
+          "text": "tukaangaliane sisi kwa sisi na kuhimizana katika upendo na kazi nzuri;"
+        },
+        {
+          "chapter": 10,
+          "verse": 25,
+          "text": "wala tusiache kukusanyika pamoja, kama ilivyo desturi ya wengine; bali tuonyane; na kuzidi kufanya hivyo, kwa kadiri mwonavyo siku ile kuwa inakaribia."
+        },
+        {
+          "chapter": 10,
+          "verse": 26,
+          "text": "Maana, kama tukifanya dhambi kusudi baada ya kuupokea ujuzi wa ile kweli, haibaki tena dhabihu kwa ajili ya dhambi;"
+        },
+        {
+          "chapter": 10,
+          "verse": 27,
+          "text": "bali kuna kuitazamia hukumu yenye kutisha, na ukali wa moto ulio tayari kuwala wao wapingao."
+        },
+        {
+          "chapter": 10,
+          "verse": 28,
+          "text": "Mtu aliyeidharau sheria ya Musa hufa pasipo huruma, kwa neno la mashahidi wawili au watatu."
+        },
+        {
+          "chapter": 10,
+          "verse": 29,
+          "text": "Mwaonaje? Haikumpasa adhabu iliyo kubwa zaidi mtu yule aliyemkanyaga Mwana wa Mungu, na kuihesabu damu ya agano aliyotakaswa kwayo kuwa ni kitu ovyo, na kumfanyia jeuri Roho wa neema?"
+        },
+        {
+          "chapter": 10,
+          "verse": 30,
+          "text": "Maana twamjua yeye aliyesema, Kupatiliza kisasi ni juu yangu, mimi nitalipa. Na tena, [DN]Bwana[/DN] atawahukumu watu wake."
+        },
+        {
+          "chapter": 10,
+          "verse": 31,
+          "text": "Ni jambo la kutisha kuanguka katika mikono ya Mungu aliye hai."
+        },
+        {
+          "chapter": 10,
+          "verse": 32,
+          "text": "Lakini zikumbukeni siku za kwanza, ambazo, mlipokwisha kutiwa nuru, mlistahimili mashindano makubwa ya maumivu;"
+        },
+        {
+          "chapter": 10,
+          "verse": 33,
+          "text": "pindi mlipotwezwa kwa mashutumu na dhiki, na pindi mliposhirikiana na wale waliotendewa hayo."
+        },
+        {
+          "chapter": 10,
+          "verse": 34,
+          "text": "Maana mliwaonea huruma wale waliokuwa katika vifungo, tena mkakubali kwa furaha kunyang’anywa mali zenu, mkijua kwamba nafsini mwenu mna mali iliyo njema zaidi, idumuyo."
+        },
+        {
+          "chapter": 10,
+          "verse": 35,
+          "text": "Basi msiutupe ujasiri wenu, kwa maana una thawabu kuu."
+        },
+        {
+          "chapter": 10,
+          "verse": 36,
+          "text": "Maana mnahitaji saburi, ili kwamba mkiisha kuyafanya mapenzi ya Mungu mpate ile ahadi."
+        },
+        {
+          "chapter": 10,
+          "verse": 37,
+          "text": "Kwa kuwa bado kitambo kidogo sana, Yeye ajaye atakuja, wala hatakawia."
+        },
+        {
+          "chapter": 10,
+          "verse": 38,
+          "text": "Lakini mwenye haki wangu ataishi kwa imani; Naye akisita-sita, roho yangu haina furaha naye."
+        },
+        {
+          "chapter": 10,
+          "verse": 39,
+          "text": "Lakini sisi hatumo miongoni mwao wasitao na kupotea, bali tumo miongoni mwa hao walio na imani ya kutuokoa roho zetu."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 11,
+      "lastVerse": 40,
+      "verseUnitCount": 40,
+      "verses": [
+        {
+          "chapter": 11,
+          "verse": 1,
+          "text": "Basi imani ni kuwa na hakika ya mambo yatarajiwayo, ni bayana ya mambo yasiyoonekana."
+        },
+        {
+          "chapter": 11,
+          "verse": 2,
+          "text": "Maana kwa hiyo wazee wetu walishuhudiwa."
+        },
+        {
+          "chapter": 11,
+          "verse": 3,
+          "text": "Kwa imani twafahamu ya kuwa ulimwengu uliumbwa kwa neno la Mungu, hata vitu vinavyoonekana havikufanywa kwa vitu vilivyo dhahiri."
+        },
+        {
+          "chapter": 11,
+          "verse": 4,
+          "text": "Kwa imani Habili alimtolea Mungu dhabihu iliyo bora kuliko Kaini; kwa hiyo alishuhudiwa kuwa ana haki; Mungu akazishuhudia sadaka zake, na kwa hiyo, ijapokuwa amekufa, angali akinena."
+        },
+        {
+          "chapter": 11,
+          "verse": 5,
+          "text": "Kwa imani Henoko alihamishwa, asije akaona mauti, wala hakuonekana, kwa sababu Mungu alimhamisha; maana kabla ya kuhamishwa alikuwa ameshuhudiwa kwamba amempendeza Mungu."
+        },
+        {
+          "chapter": 11,
+          "verse": 6,
+          "text": "Lakini pasipo imani haiwezekani kumpendeza; kwa maana mtu amwendeaye Mungu lazima aamini kwamba yeye yuko, na kwamba huwapa thawabu wale wamtafutao."
+        },
+        {
+          "chapter": 11,
+          "verse": 7,
+          "text": "Kwa imani Nuhu akiisha kuonywa na Mungu katika habari za mambo yasiyoonekana bado, kwa jinsi alivyomcha Mungu, aliunda safina, apate kuokoa nyumba yake. Na hivyo akauhukumu makosa ulimwengu, akawa mrithi wa haki ipatikanayo kwa imani."
+        },
+        {
+          "chapter": 11,
+          "verse": 8,
+          "text": "Kwa imani Ibrahimu alipoitwa aliitika, atoke aende mahali pale atakapopapata kuwa urithi; akatoka asijue aendako."
+        },
+        {
+          "chapter": 11,
+          "verse": 9,
+          "text": "Kwa imani alikaa ugenini katika ile nchi ya ahadi, kama katika nchi isiyo yake, akikaa katika hema pamoja na Isaka na Yakobo, warithi pamoja naye wa ahadi ile ile."
+        },
+        {
+          "chapter": 11,
+          "verse": 10,
+          "text": "Maana alikuwa akiutazamia mji wenye misingi, ambao mwenye kuubuni na kuujenga ni Mungu."
+        },
+        {
+          "chapter": 11,
+          "verse": 11,
+          "text": "Kwa imani hata Sara mwenyewe alipokea uwezo wa kuwa na mimba; alipokuwa amepita wakati wake; kwa kuwa alimhesabu yeye aliyeahidi kuwa mwaminifu."
+        },
+        {
+          "chapter": 11,
+          "verse": 12,
+          "text": "Na kwa ajili ya hayo wakazaliwa na mtu mmoja, naye alikuwa kama mfu, watu wengi kama nyota za mbinguni wingi wao, na kama mchanga ulio ufuoni, usioweza kuhesabika."
+        },
+        {
+          "chapter": 11,
+          "verse": 13,
+          "text": "Hawa wote wakafa katika imani, wasijazipokea zile ahadi, bali wakaziona tokea mbali na kuzishangilia, na kukiri kwamba walikuwa wageni, na wasafiri juu ya nchi."
+        },
+        {
+          "chapter": 11,
+          "verse": 14,
+          "text": "Maana hao wasemao maneno kama hayo waonyesha wazi kwamba wanatafuta nchi yao wenyewe."
+        },
+        {
+          "chapter": 11,
+          "verse": 15,
+          "text": "Na kama wangaliikumbuka nchi ile waliyotoka, wangalipata nafasi ya kurejea."
+        },
+        {
+          "chapter": 11,
+          "verse": 16,
+          "text": "Lakini sasa waitamani nchi iliyo bora, yaani, ya mbinguni. Kwa hiyo Mungu haoni haya kuitwa Mungu wao; maana amewatengenezea mji."
+        },
+        {
+          "chapter": 11,
+          "verse": 17,
+          "text": "Kwa imani Ibrahimu alipojaribiwa, akamtoa Isaka awe dhabihu; na yeye aliyezipokea hizo ahadi alikuwa akimtoa mwanawe, mzaliwa pekee;"
+        },
+        {
+          "chapter": 11,
+          "verse": 18,
+          "text": "naam, yeye aliyeambiwa, Katika Isaka uzao wako utaitwa,"
+        },
+        {
+          "chapter": 11,
+          "verse": 19,
+          "text": "akihesabu ya kuwa Mungu aweza kumfufua hata kutoka kuzimu; akampata tena toka huko kwa mfano."
+        },
+        {
+          "chapter": 11,
+          "verse": 20,
+          "text": "Kwa imani Isaka akawabariki Yakobo na Esau, hata katika habari ya mambo yatakayokuwa baadaye."
+        },
+        {
+          "chapter": 11,
+          "verse": 21,
+          "text": "Kwa imani Yakobo, alipokuwa katika kufa, akambariki kila mmoja wa wana wa Yusufu, akaabudu akiegemea kichwa cha fimbo yake."
+        },
+        {
+          "chapter": 11,
+          "verse": 22,
+          "text": "Kwa imani Yusufu, alipokuwa amekaribia mwisho wake, alitaja habari za kutoka kwao wana wa Israeli, akaagiza kwa habari ya mifupa yake."
+        },
+        {
+          "chapter": 11,
+          "verse": 23,
+          "text": "Kwa imani Musa, alipozaliwa, akafichwa miezi mitatu na wazazi wake, kwa sababu waliona kwamba ni mtoto mzuri; wala hawakuiogopa amri ya mfalme."
+        },
+        {
+          "chapter": 11,
+          "verse": 24,
+          "text": "Kwa imani Musa alipokuwa mtu mzima, akakataa kuitwa mwana wa binti Farao;"
+        },
+        {
+          "chapter": 11,
+          "verse": 25,
+          "text": "akaona ni afadhali kupata mateso pamoja na watu wa Mungu kuliko kujifurahisha katika dhambi kwa kitambo;"
+        },
+        {
+          "chapter": 11,
+          "verse": 26,
+          "text": "akihesabu ya kuwa kushutumiwa kwake Kristo ni utajiri mkuu kuliko hazina za Misri; kwa kuwa aliyatazamia hayo malipo."
+        },
+        {
+          "chapter": 11,
+          "verse": 27,
+          "text": "Kwa imani akatoka Misri, asiogope ghadhabu ya mfalme; maana alistahimili kama amwonaye yeye asiyeonekana."
+        },
+        {
+          "chapter": 11,
+          "verse": 28,
+          "text": "Kwa imani akaifanya Pasaka, na kule kunyunyiza damu, ili yule mwenye kuwaangamiza wazaliwa wa kwanza asiwaguse wao."
+        },
+        {
+          "chapter": 11,
+          "verse": 29,
+          "text": "Kwa imani wakapita kati ya Bahari ya Shamu, kama katika nchi kavu; Wamisri walipojaribu kufanya vivyo wakatoswa."
+        },
+        {
+          "chapter": 11,
+          "verse": 30,
+          "text": "Kwa imani kuta za Yeriko zikaanguka, zilipokwisha kuzungukwa siku saba."
+        },
+        {
+          "chapter": 11,
+          "verse": 31,
+          "text": "Kwa imani Rahabu, yule kahaba, hakuangamia pamoja na hao walioasi; kwa kuwa aliwakaribisha wale wapelelezi kwa amani."
+        },
+        {
+          "chapter": 11,
+          "verse": 32,
+          "text": "Nami niseme nini tena? Maana wakati usingenitosha kuleta habari za Gideoni na Baraka na Samsoni na Yeftha na Daudi na Samweli na za manabii;"
+        },
+        {
+          "chapter": 11,
+          "verse": 33,
+          "text": "ambao kwa imani walishinda milki za wafalme, walitenda haki, walipata ahadi, walifunga vinywa vya simba,"
+        },
+        {
+          "chapter": 11,
+          "verse": 34,
+          "text": "walizima nguvu za moto, waliokoka na makali ya upanga. Walitiwa nguvu baada ya kuwa dhaifu, walikuwa hodari katika vita, walikimbiza majeshi ya wageni."
+        },
+        {
+          "chapter": 11,
+          "verse": 35,
+          "text": "Wanawake walipokea wafu wao waliofufuliwa. Lakini wengine waliumizwa vibaya hata kuuawa, wasikubali ukombozi, ili wapate ufufuo ulio bora;"
+        },
+        {
+          "chapter": 11,
+          "verse": 36,
+          "text": "wengine walijaribiwa kwa dhihaka na mapigo, naam, kwa mafungo, na kwa kutiwa gerezani;"
+        },
+        {
+          "chapter": 11,
+          "verse": 37,
+          "text": "walipigwa kwa mawe, walikatwa kwa misumeno, walijaribiwa, waliuawa kwa upanga; walizunguka-zunguka wakivaa ngozi za kondoo na ngozi za mbuzi; walikuwa wahitaji, wakiteswa, wakitendwa mabaya;"
+        },
+        {
+          "chapter": 11,
+          "verse": 38,
+          "text": "(watu ambao ulimwengu haukustahili kuwa nao), walikuwa wakizunguka-zunguka katika nyika na katika milima na katika mapango na katika mashimo ya nchi."
+        },
+        {
+          "chapter": 11,
+          "verse": 39,
+          "text": "Na watu hao wote wakiisha kushuhudiwa kwa sababu ya imani yao, hawakuipokea ahadi;"
+        },
+        {
+          "chapter": 11,
+          "verse": 40,
+          "text": "kwa kuwa Mungu alikuwa ametangulia kutuwekea sisi kitu kilicho bora, ili wao wasikamilishwe pasipo sisi."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 12,
+      "lastVerse": 29,
+      "verseUnitCount": 29,
+      "verses": [
+        {
+          "chapter": 12,
+          "verse": 1,
+          "text": "Basi na sisi pia, kwa kuwa tunazungukwa na wingu kubwa la mashahidi namna hii, na tuweke kando kila mzigo mzito, na dhambi ile ituzingayo kwa upesi; na tupige mbio kwa saburi katika yale mashindano yaliyowekwa mbele yetu,"
+        },
+        {
+          "chapter": 12,
+          "verse": 2,
+          "text": "tukimtazama Yesu, mwenye kuanzisha na mwenye kutimiza imani yetu; ambaye kwa ajili ya furaha iliyowekwa mbele yake aliustahimili msalaba na kuidharau aibu, naye ameketi mkono wa kuume wa kiti cha enzi cha Mungu."
+        },
+        {
+          "chapter": 12,
+          "verse": 3,
+          "text": "Maana mtafakarini sana yeye aliyeyastahimili mapingamizi makuu namna hii ya watendao dhambi juu ya nafsi zao, msije mkachoka, mkizimia mioyoni mwenu."
+        },
+        {
+          "chapter": 12,
+          "verse": 4,
+          "text": "Hamjafanya vita hata kumwagika damu, mkishindana na dhambi;"
+        },
+        {
+          "chapter": 12,
+          "verse": 5,
+          "text": "tena mmeyasahau yale maonyo, yasemayo nanyi kama kusema na wana, Mwanangu, usiyadharau marudia ya [DN]Bwana[/DN], Wala usizimie moyo ukikemewa naye;"
+        },
+        {
+          "chapter": 12,
+          "verse": 6,
+          "text": "Maana yeye ambaye Bwana ampenda, humrudi, Naye humpiga kila mwana amkubaliye."
+        },
+        {
+          "chapter": 12,
+          "verse": 7,
+          "text": "Ni kwa ajili ya kurudiwa mwastahimili; Mungu awatendea kama wana; maana ni mwana yupi asiyerudiwa na babaye?"
+        },
+        {
+          "chapter": 12,
+          "verse": 8,
+          "text": "Basi kama mkiwa hamna kurudiwa, ambako ni fungu la wote, ndipo mmekuwa wana wa haramu ninyi, wala si wana wa halali."
+        },
+        {
+          "chapter": 12,
+          "verse": 9,
+          "text": "Na pamoja na hayo tulikuwa na baba zetu wa mwili walioturudi, nasi tukawastahi; basi si afadhali sana kujitia chini ya Baba wa roho zetu na kuishi?"
+        },
+        {
+          "chapter": 12,
+          "verse": 10,
+          "text": "Maana ni hakika, hao kwa siku chache waliturudi kama walivyoona vema wenyewe; bali yeye kwa faida yetu, ili tuushiriki utakatifu wake."
+        },
+        {
+          "chapter": 12,
+          "verse": 11,
+          "text": "Kila adhabu wakati wake haionekani kuwa kitu cha furaha, bali cha huzuni; lakini baadaye huwaletea wao waliozoezwa nayo matunda ya haki yenye amani."
+        },
+        {
+          "chapter": 12,
+          "verse": 12,
+          "text": "Kwa hiyo inyosheni mikono iliyolegea na magoti yaliyopooza,"
+        },
+        {
+          "chapter": 12,
+          "verse": 13,
+          "text": "mkaifanyie miguu yenu njia za kunyoka, ili kitu kilicho kiwete kisipotoshwe, bali afadhali kiponywe."
+        },
+        {
+          "chapter": 12,
+          "verse": 14,
+          "text": "Tafuteni kwa bidii kuwa na amani na watu wote, na huo utakatifu, ambao hapana mtu atakayemwona Bwana asipokuwa nao;"
+        },
+        {
+          "chapter": 12,
+          "verse": 15,
+          "text": "mkiangalia sana mtu asiipungukie neema ya Mungu; shina la uchungu lisije likachipuka na kuwasumbua, na watu wengi wakatiwa unajisi kwa hilo."
+        },
+        {
+          "chapter": 12,
+          "verse": 16,
+          "text": "Asiwepo mwasherati wala asiyemcha Mungu, kama Esau, aliyeuuza urithi wake wa mzaliwa wa kwanza kwa ajili ya chakula kimoja."
+        },
+        {
+          "chapter": 12,
+          "verse": 17,
+          "text": "Maana mwajua ya kuwa hata alipotaka baadaye kuirithi baraka, alikataliwa (maana hakuona nafasi ya kutubu), ijapokuwa aliitafuta sana kwa machozi."
+        },
+        {
+          "chapter": 12,
+          "verse": 18,
+          "text": "Maana hamkufikilia mlima uwezao kuguswa, uliowaka moto, wala wingu jeusi, na giza, na tufani,"
+        },
+        {
+          "chapter": 12,
+          "verse": 19,
+          "text": "na mlio wa baragumu na sauti ya maneno; ambayo wale walioisikia walisihi wasiambiwe neno lo lote lingine;"
+        },
+        {
+          "chapter": 12,
+          "verse": 20,
+          "text": "maana hawakuweza kustahimili neno lile lililoamriwa, Hata mnyama akiugusa huo mlima atapigwa kwa mawe."
+        },
+        {
+          "chapter": 12,
+          "verse": 21,
+          "text": "Na hayo yaliyoonekana jinsi yalivyokuwa ya kutisha, hata Musa akasema, Nimeshikwa na hofu na kutetemeka."
+        },
+        {
+          "chapter": 12,
+          "verse": 22,
+          "text": "Bali ninyi mmeufikilia mlima Sayuni, na mji wa Mungu aliye hai, Yerusalemu wa mbinguni, na majeshi ya malaika elfu nyingi,"
+        },
+        {
+          "chapter": 12,
+          "verse": 23,
+          "text": "mkutano mkuu na kanisa la wazaliwa wa kwanza walioandikwa mbinguni, na Mungu mwamuzi wa watu wote, na roho za watu wenye haki waliokamilika,"
+        },
+        {
+          "chapter": 12,
+          "verse": 24,
+          "text": "na Yesu mjumbe wa agano jipya, na damu ya kunyunyizwa, inenayo mema kuliko ile ya Habili."
+        },
+        {
+          "chapter": 12,
+          "verse": 25,
+          "text": "Angalieni msimkatae yeye anenaye. Maana ikiwa hawakuokoka wale waliomkataa yeye aliyewaonya juu ya nchi, zaidi sana hatutaokoka sisi tukijiepusha na yeye atuonyaye kutoka mbinguni;"
+        },
+        {
+          "chapter": 12,
+          "verse": 26,
+          "text": "ambaye sauti yake iliitetemesha nchi wakati ule; lakini sasa ameahidi akisema, Mara moja tena nitatetemesha si nchi tu, bali na mbingu pia."
+        },
+        {
+          "chapter": 12,
+          "verse": 27,
+          "text": "Lakini neno lile, Mara moja tena, ladhihirisha kuhamishwa vile viwezavyo kutetemeshwa, kama vitu vilivyoumbwa, vitu visivyoweza kutetemeshwa vikae."
+        },
+        {
+          "chapter": 12,
+          "verse": 28,
+          "text": "Basi kwa kuwa tunapokea ufalme usioweza kutetemeshwa, na mwe na neema, ambayo kwa hiyo tumtolee Mungu ibada ya kumpendeza, pamoja na unyenyekevu na kicho;"
+        },
+        {
+          "chapter": 12,
+          "verse": 29,
+          "text": "maana Mungu wetu ni moto ulao."
+        }
+      ],
+      "headings": []
+    },
+    {
+      "number": 13,
+      "lastVerse": 25,
+      "verseUnitCount": 25,
+      "verses": [
+        {
+          "chapter": 13,
+          "verse": 1,
+          "text": "Upendano wa ndugu na udumu."
+        },
+        {
+          "chapter": 13,
+          "verse": 2,
+          "text": "Msisahau kuwafadhili wageni; maana kwa njia hii wengine wamewakaribisha malaika pasipo kujua."
+        },
+        {
+          "chapter": 13,
+          "verse": 3,
+          "text": "Wakumbukeni hao waliofungwa kana kwamba mmefungwa pamoja nao; na hao wanaodhulumiwa, kwa vile ninyi nanyi mlivyo katika mwili."
+        },
+        {
+          "chapter": 13,
+          "verse": 4,
+          "text": "Ndoa na iheshimiwe na watu wote, na malazi yawe safi; kwa maana waasherati na wazinzi Mungu atawahukumia adhabu."
+        },
+        {
+          "chapter": 13,
+          "verse": 5,
+          "text": "Msiwe na tabia ya kupenda fedha; mwe radhi na vitu mlivyo navyo; kwa kuwa yeye mwenyewe amesema, Sitakupungukia kabisa, wala sitakuacha kabisa."
+        },
+        {
+          "chapter": 13,
+          "verse": 6,
+          "text": "Hata twathubutu kusema, [DN]Bwana[/DN] ndiye anisaidiaye, sitaogopa; Mwanadamu atanitenda nini?"
+        },
+        {
+          "chapter": 13,
+          "verse": 7,
+          "text": "Wakumbukeni wale waliokuwa wakiwaongoza, waliowaambia neno la Mungu; tena, kwa kuuchunguza sana mwisho wa mwenendo wao, iigeni imani yao."
+        },
+        {
+          "chapter": 13,
+          "verse": 8,
+          "text": "Yesu Kristo ni yeye yule, jana na leo na hata milele."
+        },
+        {
+          "chapter": 13,
+          "verse": 9,
+          "text": "Msichukuliwe na mafundisho ya namna nyingine nyingine, na ya kigeni; maana ni vizuri moyo ufanywe imara kwa neema, wala si kwa vyakula, ambavyo wao waliokwenda navyo hawakupata faida."
+        },
+        {
+          "chapter": 13,
+          "verse": 10,
+          "text": "Tuna madhabahu ambayo wale waihudumiao ile hema hawana ruhusa kula vitu vyake."
+        },
+        {
+          "chapter": 13,
+          "verse": 11,
+          "text": "Maana wanyama wale ambao damu yao huletwa ndani ya patakatifu na kuhani mkuu kwa ajili ya dhambi, viwiliwili vyao huteketezwa nje ya kambi."
+        },
+        {
+          "chapter": 13,
+          "verse": 12,
+          "text": "Kwa ajili hii Yesu naye, ili awatakase watu kwa damu yake mwenyewe, aliteswa nje ya lango."
+        },
+        {
+          "chapter": 13,
+          "verse": 13,
+          "text": "Basi na tutoke tumwendee nje ya kambi, tukichukua shutumu lake."
+        },
+        {
+          "chapter": 13,
+          "verse": 14,
+          "text": "Maana hapa hatuna mji udumuo, bali twautafuta ule ujao."
+        },
+        {
+          "chapter": 13,
+          "verse": 15,
+          "text": "Basi, kwa njia yake yeye, na tumpe Mungu dhabihu ya sifa daima, yaani, tunda la midomo iliungamayo jina lake."
+        },
+        {
+          "chapter": 13,
+          "verse": 16,
+          "text": "Lakini msisahau kutenda mema na kushirikiana; maana sadaka kama hizi ndizo zimpendezazo Mungu."
+        },
+        {
+          "chapter": 13,
+          "verse": 17,
+          "text": "Watiini wenye kuwaongoza, na kuwanyenyekea; maana wao wanakesha kwa ajili ya roho zenu, kama watu watakaotoa hesabu, ili kwamba wafanye hivyo kwa furaha wala si kwa kuugua; maana isingewafaa ninyi."
+        },
+        {
+          "chapter": 13,
+          "verse": 18,
+          "text": "Tuombeeni; maana tunaamini kwamba tuna dhamiri njema, tukitaka kuwa na mwenendo mwema katika mambo yote."
+        },
+        {
+          "chapter": 13,
+          "verse": 19,
+          "text": "Nami nawasihi zaidi sana kufanya hayo ili nirudishwe kwenu upesi."
+        },
+        {
+          "chapter": 13,
+          "verse": 20,
+          "text": "Basi, Mungu wa amani aliyemleta tena kutoka kwa wafu Mchungaji Mkuu wa kondoo, kwa damu ya agano la milele, yeye Bwana wetu Yesu,"
+        },
+        {
+          "chapter": 13,
+          "verse": 21,
+          "text": "awafanye ninyi kuwa wakamilifu katika kila tendo jema, mpate kuyafanya mapenzi yake, naye akifanya ndani yetu lipendezalo mbele zake, kwa Yesu Kristo; utukufu una yeye milele na milele. Amina."
+        },
+        {
+          "chapter": 13,
+          "verse": 22,
+          "text": "Lakini nawasihi, ndugu, mchukuliane na neno hili lenye maonyo maana nimewaandikia kwa maneno machache."
+        },
+        {
+          "chapter": 13,
+          "verse": 23,
+          "text": "Jueni ya kuwa ndugu yetu Timotheo amekwisha kufunguliwa; ambaye, akija upesi, nitaonana nanyi pamoja naye."
+        },
+        {
+          "chapter": 13,
+          "verse": 24,
+          "text": "Wasalimuni wote wenye kuwaongoza, na watakatifu wote; hao walio wa Italia wanawasalimu."
+        },
+        {
+          "chapter": 13,
+          "verse": 25,
+          "text": "Neema na iwe nanyi nyote."
+        }
+      ],
+      "headings": []
+    }
+  ]
+}

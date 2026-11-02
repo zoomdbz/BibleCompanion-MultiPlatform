@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
-"""Read-only, licensed YouVersion parity audit for the 13 canonical base editions.
+"""Read-only YouVersion parity audit for the 13 canonical base editions.
 
 No API response, Scripture text, or App Key is written. The optional report
 contains only references, hashes, lengths, counts, and sanitized error types.
-This tool does not grant or accept a publisher license.
 """
 
 from __future__ import annotations

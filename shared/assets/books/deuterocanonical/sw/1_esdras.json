@@ -1,0 +1,787 @@
+{
+  "id": "1_esdras",
+  "title": "1 Esdrasi",
+  "stories": [
+    {
+      "id": "1_esdras-1",
+      "title": "📜 1 Esdrasi 1",
+      "refs": [
+        "1 Esdras 1:1-55"
+      ],
+      "summaryBullets": [
+        "Yosia aliadhimisha Pasaka kwa Bwana wake huko Yerusalemu; akamchinja mwana-kondoo wa Pasaka siku ya kumi na nne ya mwezi wa kwanza, (1:1).",
+        "akiisha kuwaweka makuhani kwa zamu zao, wakiwa wamevaa mavazi yao ya kikuhani, katika hekalu la Bwana. (1:2).",
+        "Aliwaambia Walawi, watumishi wa hekalu la Israeli, wajitakase kwa Bwana na kuliweka sanduku takatifu la Bwana katika nyumba ambayo Mfalme Sulemani mwana wa Daudi alikuwa ameijenga, (1:3).",
+        "naye akasema, “Hamna haja tena ya kulibeba mabegani. Sasa mwabuduni Bwana Mungu wenu na kulitumikia taifa lake Israeli; jiandaeni kwa jamaa na koo zenu, kulingana na maagizo ya Mfalme Daudi wa Israeli na utukufu wa mwanawe Sulemani. (1:4).",
+        "Simameni kwa utaratibu hekaluni kulingana na makundi ya nyumba za baba zenu, ninyi Walawi mnaohudumu mbele ya ndugu zenu watu wa Israeli, (1:5).",
+        "mkachinje mwana-kondoo wa Pasaka, mwaandalie ndugu zenu dhabihu na kuiadhimisha Pasaka kulingana na amri ya Bwana aliyopewa Musa.” (1:6).",
+        "Kwa watu waliokuwapo Yosia alitoa wana-kondoo na wana-mbuzi elfu thelathini na ndama elfu tatu; hivi vilitoka katika mali ya mfalme, kama alivyoahidi, kwa ajili ya watu, makuhani na Walawi. (1:7).",
+        "Hilkia, Zekaria na Yehieli, maofisa wakuu wa hekalu, waliwapa makuhani kondoo elfu mbili na mia sita na ndama mia tatu kwa ajili ya Pasaka. (1:8).",
+        "Yekonia, Shemaya na nduguye Nethaneli, pamoja na Hashabia, Okieli na Yoramu, majemadari wa maelfu, waliwapa Walawi kondoo elfu tano na ndama mia saba kwa ajili ya Pasaka. (1:9).",
+        "Hivi ndivyo ilivyotokea. Makuhani na Walawi, wakiwa na mikate isiyotiwa chachu, walisimama kwa utaratibu kulingana na jamaa zao na makundi ya nyumba za baba zao, mbele ya watu, ili kumtolea Bwana sadaka kama ilivyoandikwa katika kitabu cha Musa; walifanya hivyo asubuhi. (1:10).",
+        "Walichoma mwana-kondoo wa Pasaka kwa moto, kama ilivyoagizwa, na wakachemsha dhabihu katika vyungu na masufuria ya shaba; harufu nzuri ikatoka, nao wakawapelekea watu wote. (1:11).",
+        "Baadaye wakajiandalia Pasaka wao wenyewe na ndugu zao makuhani, wana wa Haruni, (1:12).",
+        "kwa sababu makuhani waliendelea kutoa mafuta ya dhabihu hadi jioni; hivyo Walawi wakawaandalia wao wenyewe na ndugu zao makuhani, wana wa Haruni. (1:13).",
+        "Waimbaji wa hekalu, wana wa Asafu, walikuwa mahali pao kulingana na mpango uliowekwa na Daudi, pamoja na Asafu, Zekaria na Edino waliomwakilisha mfalme. (1:14).",
+        "Mabawabu walikuwa kwenye kila lango; hakuna aliyehitaji kuacha kazi yake ya kila siku, kwa kuwa ndugu zao Walawi waliwaandalia Pasaka. (1:15).",
+        "Kwa hiyo mambo yote yaliyohusu dhabihu kwa Bwana yalitimizwa siku hiyo: Pasaka ikaadhimishwa na dhabihu zikatolewa juu ya madhabahu ya Bwana, kulingana na amri ya Mfalme Yosia. (1:16).",
+        "Watu wa Israeli waliokuwapo wakati huo waliadhimisha Pasaka na Sikukuu ya Mikate Isiyotiwa Chachu kwa siku saba. (1:17).",
+        "Hakuna Pasaka kama hiyo iliyokuwa imeadhimishwa Israeli tangu siku za nabii Samweli; (1:18).",
+        "hakuna mfalme wa Israeli aliyekuwa ameihadhimisha Pasaka jinsi Yosia, makuhani, Walawi, watu wa Yuda na Waisraeli wote waliokuwa wakiishi Yerusalemu walivyofanya. (1:19).",
+        "Pasaka hiyo iliadhimishwa katika mwaka wa kumi na nane wa utawala wa Yosia. (1:20).",
+        "Matendo ya Yosia yalikuwa mema machoni pa Bwana, kwa kuwa moyo wake ulijaa uchaji wa Mungu. (1:21).",
+        "Matukio ya utawala wake yameandikwa tangu zamani: kuhusu wale waliofanya dhambi na kumtendea Bwana maovu kuliko taifa au ufalme mwingine wowote, na jinsi walivyomhuzunisha sana Bwana, hata maneno ya Bwana yakawapata Israeli. (1:22).",
+        "Baada ya matendo hayo yote ya Yosia, Farao mfalme wa Misri akaenda kufanya vita huko Karkemishi kando ya Mto Frati, naye Yosia akatoka kupambana naye. (1:23).",
+        "Mfalme wa Misri akamtumia ujumbe akisema, “Mimi na wewe tuna jambo gani, ewe mfalme wa Yudea? (1:24).",
+        "Bwana Mungu hakunituma kupigana nawe, kwa kuwa vita vyangu viko kando ya Frati. Sasa Bwana yu pamoja nami! Bwana yu pamoja nami, ananihimiza! Ondoka njiani, usimpinge Bwana.” (1:25).",
+        "Hata hivyo, Yosia hakurudisha gari lake la vita nyuma, bali alijaribu kupigana naye; hakuyasikiliza maneno ya nabii Yeremia kutoka kinywani mwa Bwana. (1:26).",
+        "Alipigana naye katika uwanda wa Megido, na makamanda wakamshambulia Mfalme Yosia. (1:27).",
+        "Mfalme akawaambia watumishi wake, “Niondoeni vitani, maana nimekuwa dhaifu sana.” Mara moja watumishi wake wakamwondoa katika mstari wa vita. (1:28).",
+        "Akaingia katika gari lake la pili la vita; baada ya kurudishwa Yerusalemu akafa na kuzikwa katika kaburi la baba zake. (1:29).",
+        "Yudea yote ilimwombolezea Yosia. Nabii Yeremia alimlilia Yosia, na wakuu pamoja na wanawake wameendelea kumwombolezea hadi leo; ikaamriwa desturi hiyo idumu kati ya watu wote wa Israeli. (1:30).",
+        "Mambo haya yameandikwa katika kitabu cha historia ya wafalme wa Yudea; kila tendo la Yosia, utukufu wake, ufahamu wake wa sheria ya Bwana, aliyoyafanya zamani na matukio yanayosimuliwa hapa yameandikwa katika kitabu cha wafalme wa Israeli na Yuda. (1:31).",
+        "Watu wa taifa wakamchukua Yekonia mwana wa Yosia, mwenye umri wa miaka ishirini na mitatu, wakamfanya mfalme baada ya baba yake Yosia. (1:32).",
+        "Alitawala miezi mitatu huko Yuda na Yerusalemu. Kisha mfalme wa Misri akamwondoa katika ufalme wa Yerusalemu (1:33).",
+        "na kulitoza taifa talanta mia moja za fedha na talanta moja ya dhahabu. (1:34).",
+        "Mfalme wa Misri akamfanya nduguye Yehoyakimu mfalme wa Yudea na Yerusalemu. (1:35).",
+        "Yehoyakimu akawafunga wakuu gerezani, akamkamata nduguye Zario na kumrudisha kutoka Misri. (1:36).",
+        "Yehoyakimu alikuwa na umri wa miaka ishirini na mitano alipoanza kutawala Yudea na Yerusalemu; alifanya maovu machoni pa Bwana. (1:37).",
+        "Mfalme Nebukadneza wa Babeli akamshambulia, akamfunga kwa mnyororo wa shaba na kumpeleka Babeli. (1:38).",
+        "Nebukadneza pia alichukua baadhi ya vyombo vitakatifu vya Bwana, akavipeleka na kuvihifadhi katika hekalu lake huko Babeli. (1:39).",
+        "Mambo yanayosimuliwa kuhusu Yehoyakimu, uchafu wake na kutomcha Mungu kwake yameandikwa katika kumbukumbu za wafalme. (1:40).",
+        "Mwanawe Yehoyakini akawa mfalme badala yake; alipofanywa mfalme alikuwa na umri wa miaka kumi na minane, (1:41).",
+        "naye alitawala Yerusalemu kwa miezi mitatu na siku kumi. Alifanya maovu machoni pa Bwana. (1:42).",
+        "Mwaka mmoja baadaye Nebukadneza akatuma watu wampeleke Babeli pamoja na vyombo vitakatifu vya Bwana, (1:43).",
+        "akamfanya Sedekia mfalme wa Yudea na Yerusalemu. Sedekia alikuwa na umri wa miaka ishirini na mmoja, naye akatawala miaka kumi na moja. (1:44).",
+        "Yeye pia alifanya maovu machoni pa Bwana na hakuyasikiliza maneno yaliyosemwa na nabii Yeremia kutoka kinywani mwa Bwana. (1:45).",
+        "Ingawa Mfalme Nebukadneza alikuwa amemwapisha kwa jina la Bwana, alivunja kiapo chake na kuasi; alikuwa mkaidi na mwenye moyo mgumu, akazivunja sheria za Bwana, Mungu wa Israeli. (1:46).",
+        "Hata viongozi wa watu na makuhani walifanya matendo mengi ya kufuru na uvunjaji wa sheria kuliko maovu machafu ya mataifa yote, na wakalinajisi hekalu la Bwana huko Yerusalemu, hekalu ambalo Mungu alikuwa amelitia wakfu. (1:47).",
+        "Mungu wa baba zao aliwatumia mjumbe wake kuwaita warudi, kwa sababu alitaka kuwaokoa wao na makao yake. (1:48).",
+        "Lakini waliwadhihaki wajumbe wake; kila Bwana aliposema, waliwacheka manabii wake, mpaka Mungu kwa hasira dhidi ya taifa lake kwa matendo yao yasiyomcha Mungu akaamuru wafalme wa Wakaldayo waletwe dhidi yao. (1:49).",
+        "Wakaldayo waliwaua vijana wao kwa upanga kuzunguka hekalu lao takatifu; hawakumwacha kijana wala msichana, mzee wala mtoto, kwa kuwa Mungu aliwakabidhi wote mikononi mwao. (1:50).",
+        "Walichukua vyombo vyote vitakatifu vya Bwana, vikubwa kwa vidogo, masanduku ya hazina ya Bwana na hazina za kifalme, wakavipeleka Babeli. (1:51).",
+        "Wakaichoma nyumba ya Bwana, wakazibomoa kuta za Yerusalemu na kuiteketeza minara yake kwa moto, (1:52).",
+        "na kuviharibu kabisa vitu vyake vyote vyenye fahari. Nebukadneza akawachukua walionusurika kwa upanga na kuwapeleka Babeli, (1:53).",
+        "nako wakawa watumishi wake na wa wanawe hadi Waajemi walipoanza kutawala; hivyo neno la Bwana kupitia Yeremia likatimia, (1:54).",
+        "likisema, “Mpaka nchi ifurahie sabato zake, itashika sabato wakati wote itakapokuwa ukiwa, hadi miaka sabini itimie.” (1:55)."
+      ],
+      "crossRefs": [
+        "2 Mambo Ya Nyakati 35:1-19: Pasaka ya Yosia iliadhimishwa huku makuhani wakiwa katika zamu zao.",
+        "2 Mambo Ya Nyakati 35:20-25: Yosia alijeruhiwa Megido, akarudishwa Yerusalemu na kuombolezewa na Yeremia.",
+        "2 Wafalme 24:8-17: Yehoyakini alitawala miezi mitatu na kupelekwa Babeli pamoja na hazina za hekalu.",
+        "2 Wafalme 25:8-10: Nyumba ya Bwana ilichomwa na kuta za Yerusalemu zikabomolewa.",
+        "2 Mambo Ya Nyakati 36:21: Nchi ilifurahia sabato zake hadi miaka sabini ilipotimia."
+      ],
+      "translationNotes": [
+        {
+          "term": "Pasaka",
+          "original": "Kigiriki: πάσχα (pascha)",
+          "note": "Jina la Kigiriki linaendeleza jina la zamani la sikukuu badala ya kulitafsiri. Huadhimishwa siku ya kumi na nne ya mwezi wa kwanza; mwana-kondoo huchinjwa jioni na kuliwa usiku huo."
+        },
+        {
+          "term": "zamu za makuhani",
+          "original": "Kigiriki: ἐφημερία (ephemeria)",
+          "note": "Mpangilio wa zamu. Makuhani waligawanywa katika makundi yaliyohudumu kwa kupokezana siku maalumu badala ya kuhudumu wote kwa pamoja; kusimama kwa zamu zao kunamaanisha kila kundi kuchukua jukumu lake lililopangiwa."
+        },
+        {
+          "term": "talanta",
+          "original": "Kigiriki: τάλαντον (talanton)",
+          "note": "Kipimo cha uzito na fedha, karibu pauni 75 za fedha. Talanta mia moja za fedha na talanta moja ya dhahabu hapa ni kodi iliyowekwa kwa taifa lote. Maana ya kisasa ya talanta kama kipaji cha asili inatokana na mfano wa Mathayo 25, si neno lenyewe."
+        },
+        {
+          "term": "nchi yashika sabato",
+          "original": "Kigiriki: σαββατίζω (sabbatizo)",
+          "note": "Kushika sabato. Sheria iliweka kila mwaka wa saba kuwa mwaka wa mashamba kupumzika, bila kupandwa. Miaka ya ukiwa hapa inahesabiwa kuwa pumziko ambalo nchi ilistahili kupata."
+        }
+      ],
+      "keyTakeaway": "Yosia anaadhimisha Pasaka isiyo na mfano tangu Samweli, akiwapa watu wanyama kutoka mifugo yake mwenyewe, kisha anakufa kutokana na majeraha aliyopata akipigana na Farao huko Megido. Yekonia, Yehoyakimu, Yehoyakini na Sedekia kila mmoja anafanya maovu; Wakaldayo wanalichoma hekalu, wanachukua vyombo vyake, nayo nchi inashika sabato kwa miaka sabini."
+    },
+    {
+      "id": "1_esdras-2",
+      "title": "📜 1 Esdrasi 2",
+      "refs": [
+        "1 Esdras 2:1-25"
+      ],
+      "summaryBullets": [
+        "Katika mwaka wa kwanza wa Koreshi kuwa mfalme wa Waajemi, ili neno la Bwana kupitia Yeremia litimie, (2:1).",
+        "Bwana aliuchochea moyo wa Mfalme Koreshi wa Waajemi, naye akatoa tangazo katika ufalme wake wote na pia kuliandika: (2:2).",
+        "“Hivi ndivyo asemavyo Koreshi mfalme wa Waajemi: Bwana wa Israeli, Bwana Aliye Juu Sana, amenifanya mfalme wa dunia, (2:3).",
+        "naye ameniamuru nimjengee nyumba huko Yerusalemu, katika Yudea. (2:4).",
+        "Kwa hiyo yeyote kati yenu aliye wa taifa lake, Bwana wenu awe pamoja nanyi; pandeni Yerusalemu, katika Yudea, mkaijenge nyumba ya Bwana wa Israeli, yeye ndiye Bwana anayeishi Yerusalemu, (2:5).",
+        "na kila mmoja wenu, popote anapoishi, asaidiwe na majirani zake kwa dhahabu na fedha, zawadi, farasi na ng'ombe, pamoja na vitu vingine vinavyoongezwa kama sadaka za nadhiri kwa hekalu la Bwana lililo Yerusalemu.” (2:6).",
+        "Kisha wakainuka viongozi wa jamaa za makabila ya Yuda na Benyamini, makuhani na Walawi, na wote ambao Bwana alikuwa amechochea mioyo yao wapande kwenda kumjengea Bwana nyumba huko Yerusalemu; (2:7).",
+        "majirani zao wakawasaidia kwa kila kitu, fedha na dhahabu, farasi na ng'ombe, na sadaka nyingi sana za nadhiri kutoka kwa watu wengi ambao mioyo yao ilichochewa. (2:8).",
+        "Mfalme Koreshi pia akatoa vyombo vitakatifu vya Bwana ambavyo Nebukadneza alikuwa amevichukua kutoka Yerusalemu na kuvihifadhi katika hekalu lake la sanamu. (2:9).",
+        "Koreshi mfalme wa Waajemi alipovitoa, akamkabidhi Mithridatesi, mtunza hazina wake, (2:10).",
+        "naye akamkabidhi Sheshbaza, gavana wa Yudea. (2:11).",
+        "Hesabu yake ilikuwa: vikombe elfu moja vya dhahabu, vikombe elfu moja vya fedha, vyetezo ishirini na tisa vya fedha, mabakuli thelathini ya dhahabu, mabakuli elfu mbili mia nne na kumi ya fedha, na vyombo vingine elfu moja. (2:12).",
+        "Vyombo vyote vya dhahabu na fedha vilivyokabidhiwa vilikuwa elfu tano mia nne sitini na tisa, (2:13).",
+        "navyo vilirudishwa na Sheshbaza pamoja na wahamishwa waliokuwa wakirudi kutoka Babeli kwenda Yerusalemu. (2:14).",
+        "Wakati wa Mfalme Artashasta wa Waajemi, Bishlamu, Mithridatesi, Tabeeli, Rehumu, Beltethmusi, mwandishi Shimshai na washirika wao wengine waliokuwa wakiishi Samaria na maeneo mengine walimwandikia barua ifuatayo dhidi ya waliokuwa wakiishi Yudea na Yerusalemu: (2:15).",
+        "“Kwa Mfalme Artashasta bwana wetu, watumishi wako Rehumu mtunza kumbukumbu, Shimshai mwandishi na wajumbe wengine wa baraza lao, pamoja na waamuzi katika Koile-Siria na Foinike: (2:16).",
+        "Bwana wetu mfalme ajue sasa kwamba Wayahudi waliotoka kwako na kuja kwetu wamekwenda Yerusalemu na wanaujenga mji ule mwasi na mwovu, wanatengeneza masoko na kuta zake na kuweka misingi ya hekalu. (2:17).",
+        "Ikiwa mji huu utajengwa na kuta zake kukamilika, hawatakataa kulipa kodi tu, bali pia watapinga wafalme. Kwa kuwa ujenzi wa hekalu unaendelea sasa, tunaona ni vyema tusilipuuze jambo hili, bali tumwambie bwana wetu mfalme ili, ukiona inafaa, kumbukumbu za baba zako zichunguzwe. (2:18).",
+        "Utapata katika kumbukumbu yaliyoandikwa kuwahusu na kujua kwamba mji huu ulikuwa mwasi, ukiwasumbua wafalme na miji mingine, na kwamba Wayahudi walikuwa waasi na tangu zamani waliweka vizuizi ndani yake. Ndiyo sababu mji huu uliharibiwa. (2:19).",
+        "Kwa hiyo tunakujulisha sasa, ewe bwana na mfalme, kwamba ikiwa mji huu utajengwa na kuta zake kukamilika, hutakuwa tena na njia ya kuingia Koile-Siria na Foinike.” (2:20).",
+        "Kisha mfalme akamjibu kwa barua Rehumu mtunza kumbukumbu, Beltethmusi, Shimshai mwandishi na washirika wao walioishi Samaria, Siria na Foinike, akisema: (2:21).",
+        "“Nimesoma barua mliyonitumia. Nikaagiza uchunguzi ufanywe, ikagunduliwa kwamba tangu zamani mji huu umepigana na wafalme, (2:22).",
+        "kwamba watu wake walikuwa na tabia ya uasi na vita, na kwamba wafalme wenye nguvu na wakatili walitawala Yerusalemu na kutoza kodi Koile-Siria na Foinike. (2:23).",
+        "Kwa hiyo sasa nimetoa amri ya kuwazuia watu hawa kuujenga mji, na kuhakikisha hakuna jambo lingine linalofanyika wala matendo hayo maovu hayaendelei kuwasumbua wafalme.” (2:24).",
+        "Barua ya Mfalme Artashasta iliposomwa, Rehumu, Shimshai mwandishi na washirika wao wakaenda Yerusalemu haraka pamoja na wapanda farasi na askari wengi wenye silaha, wakaanza kuwazuia wajenzi. Ujenzi wa hekalu huko Yerusalemu ukasimama hadi mwaka wa pili wa utawala wa Mfalme Dario wa Waajemi. (2:25)."
+      ],
+      "crossRefs": [
+        "Ezra 1:1-11: Tangazo la Koreshi na kuhesabiwa kwa vyombo vya hekalu kwa ajili ya kurudi.",
+        "2 Mambo Ya Nyakati 36:22-23: Tangazo hilo hilo la Koreshi linafunga kumbukumbu ya wafalme.",
+        "Isaya 44:28: Koreshi anatajwa kuwa yule anayesema Yerusalemu itajengwa.",
+        "Ezra 4:7-24: Barua kwa Artashasta na amri iliyosimamisha ujenzi."
+      ],
+      "translationNotes": [
+        {
+          "term": "mtunza hazina",
+          "original": "Kigiriki: γαζοφύλαξ (gazophylax)",
+          "note": "Kwa maana halisi ni mlinzi wa hazina; neno hili limetokana na neno la Kiajemi la ghala la kifalme. Ofisi hiyo ilitoa na kupokea mali kwa orodha iliyoandikwa, ndiyo sababu vyombo vya hekalu vinahesabiwa kimoja baada ya kingine."
+        },
+        {
+          "term": "chetezo",
+          "original": "Kigiriki: θυΐσκη (thyiske)",
+          "note": "Chombo kidogo cha kuchomea uvumba katika patakatifu. Kinaorodheshwa pamoja na vikombe na mabakuli kati ya vyombo vya huduma ya hekalu kwa sababu uvumba ulikuwa sehemu ya sadaka ya kila siku."
+        },
+        {
+          "term": "Koile-Siria na Foinike",
+          "original": "Kigiriki: Κοίλη Συρία (Koile Syria)",
+          "note": "Siria ya Bonde, jina la kiutawala la eneo kati ya safu za milima ya Lebanoni na kando ya pwani. Yudea ilikuwa ndani ya jimbo hili, kwa hiyo mambo yake yalipitishwa kwa maofisa waliokaa nje yake."
+        },
+        {
+          "term": "kodi",
+          "original": "Kigiriki: φόρος (phoros)",
+          "note": "Malipo ya kila mwaka ambayo eneo lililotawaliwa lilidaiwa kulipa ufalme, yaliyokadiriwa kwa wilaya na kukusanywa kwa fedha na mali. Malalamiko kwa mfalme ni kwamba mji wenye kuta unaweza kukataa kuyalipa."
+        }
+      ],
+      "keyTakeaway": "Koreshi anatangaza kwamba nyumba ya Bwana huko Yerusalemu ijengwe upya na kutuma vyombo 5,469 vya dhahabu na fedha kupitia mtunza hazina wake Mithridatesi kwa Sheshbaza, gavana wa Yudea. Baadaye Rehumu na mwandishi Shimshai wanamwandikia Artashasta, ambaye anachunguza kumbukumbu na kusimamisha kazi hadi mwaka wa pili wa Dario."
+    },
+    {
+      "id": "1_esdras-3",
+      "title": "📜 1 Esdrasi 3",
+      "refs": [
+        "1 Esdras 3:1-23"
+      ],
+      "summaryBullets": [
+        "Mfalme Dario aliwafanyia karamu kubwa watu wote waliokuwa chini yake, wote waliozaliwa katika nyumba yake na wakuu wote wa Umedi na Uajemi, (3:1).",
+        "pamoja na maliwali, majemadari na magavana wote waliokuwa chini yake katika majimbo mia moja ishirini na saba kutoka India hadi Ethiopia. (3:2).",
+        "Walikula na kunywa; walipotosheka wakaondoka, naye Mfalme Dario akaenda chumbani mwake kulala; akalala, kisha akaamka tena. (3:3).",
+        "Ndipo vijana watatu wa walinzi waliokuwa wakimlinda mfalme wakasemezana, (3:4).",
+        "“Kila mmoja wetu ataje kwa sentensi moja kilicho na nguvu zaidi; yule ambaye kauli yake itaonekana yenye hekima zaidi, Mfalme Dario atampa zawadi za thamani na heshima kuu ya ushindi. (3:5).",
+        "Atavikwa vazi la rangi ya zambarau, atakunywa kwa vikombe vya dhahabu, atalala kwenye kitanda cha dhahabu, atakuwa na gari la vita lenye lijamu za dhahabu, kilemba cha kitani safi na mkufu shingoni, (3:6).",
+        "na kwa sababu ya hekima yake atakaa karibu na Dario na kuitwa Jamaa wa Dario.” (3:7).",
+        "Kisha kila mlinzi akaandika kauli yake, wakaifunga kwa muhuri na kuiweka chini ya mto wa Mfalme Dario, wakasema, (3:8).",
+        "“Mfalme atakapoamka, watampa maandishi; ushindi utapewa yule ambaye mfalme na wakuu watatu wa Uajemi wataona kauli yake ina hekima zaidi, kulingana na yaliyoandikwa.” (3:9).",
+        "Wa kwanza akaandika, “Divai ina nguvu zaidi.” (3:10).",
+        "Wa pili akaandika, “Mfalme ana nguvu zaidi.” (3:11).",
+        "Wa tatu akaandika, “Wanawake wana nguvu zaidi, lakini juu ya mambo yote ukweli hushinda.” (3:12).",
+        "Mfalme alipoamka, wakachukua maandishi na kumpa, naye akayasoma. (3:13).",
+        "Kisha akawaita wakuu wote wa Uajemi na Umedi, maliwali, majemadari, magavana na wasimamizi; akaketi katika ukumbi wa baraza, maandishi yakasomwa mbele yao. (3:14).",
+        "Akasema, “Waiteni vijana waeleze kauli zao.” Basi wakaitwa na kuingia. (3:15).",
+        "Wakawaambia, “Tuelezeni mliyoandika.” Ndipo wa kwanza, aliyesema kuhusu nguvu ya divai, akaanza kusema: (3:16).",
+        "“Waheshimiwa, divai ina nguvu zaidi kwa namna gani? Inapotosha akili za wote wanaoinywa. (3:17).",
+        "Inafanya akili ya mfalme na ya yatima ziwe sawa, ya mtumwa na ya mtu huru, ya maskini na ya tajiri. (3:18).",
+        "Inageuza kila wazo kuelekea karamu na furaha na kufanya mtu asahau huzuni na deni lote. (3:19).",
+        "Inafanya kila moyo ujione tajiri, usahau wafalme na maliwali, na kila mtu aseme juu ya kiasi kikubwa cha fedha. (3:20).",
+        "Watu wanapokunywa, husahau kuwa na urafiki na rafiki zao na jamaa zao; muda si mrefu huchomoa panga zao. (3:21).",
+        "Na wanapoondokana na ulevi wa divai, hawakumbuki walichofanya. (3:22).",
+        "Waheshimiwa, je, divai haina nguvu zaidi kwa kuwa inawalazimisha watu kufanya mambo haya?” Aliposema hivyo, akanyamaza. (3:23)."
+      ],
+      "crossRefs": [
+        "Esta 1:1-8: Mfalme wa Uajemi anatawala majimbo mia moja ishirini na saba na kuwafanyia maofisa wake karamu.",
+        "Danieli 6:1-3: Dario anaweka maliwali juu ya ufalme na kumpandisha mtu mmoja juu yao.",
+        "Mwanzo 41:42: Farao anamvika Yusufu kitani safi na mkufu wa dhahabu kwa sababu ya hekima yake.",
+        "Mithali 23:29-35: Kuchanganyikiwa, ugomvi na kusahau vinavyotokana na kukawia kwenye divai."
+      ],
+      "translationNotes": [
+        {
+          "term": "jimbo la liwali",
+          "original": "Kigiriki: σατραπεία (satrapeia)",
+          "note": "Eneo kuu la utawala wa ufalme wa Uajemi; jina limetokana na cheo cha Kiajemi cha kale chenye maana ya mlinzi wa ufalme. Kila jimbo lilidaiwa kodi maalumu, lilikuwa na kikosi cha wanajeshi na liliwajibika kwa mfalme kupitia liwali wake."
+        },
+        {
+          "term": "Jamaa wa mfalme",
+          "original": "Kigiriki: συγγενής (syngenes)",
+          "note": "Cheo cha ikulu, si uhusiano wa damu. Ikulu za wakati huo zilikuwa na madaraja ya maofisa; Jamaa kilikuwa cheo cha juu zaidi, kikimpa mhusika nafasi ya kumfikia mfalme moja kwa moja na kuketi karibu naye mezani."
+        },
+        {
+          "term": "kuvikwa zambarau",
+          "original": "Kigiriki: πορφύρα (porphyra)",
+          "note": "Kitambaa kilichotiwa rangi iliyotokana na majimaji ya konokono wa bahari aina ya murex. Maelfu ya magamba yalihitajika kutengeneza rangi kidogo, kwa hiyo watawala na wale waliowaheshimu walivaa zambarau."
+        },
+        {
+          "term": "mlinzi wa mfalme",
+          "original": "Kigiriki: σωματοφύλαξ (somatophylax)",
+          "note": "Kwa maana halisi ni mlinzi wa mwili. Vijana waliochaguliwa kulala kwenye mlango wa chumba cha mfalme walikuwa watu wa familia za wakuu; nafasi hiyo ilifungua njia ya kupata cheo kikubwa, kwa hiyo shindano lao lilikuwa njia ya kupandishwa cheo."
+        }
+      ],
+      "keyTakeaway": "Dario anawafanyia karamu maliwali wa majimbo yake mia moja ishirini na saba, kisha analala. Walinzi watatu wanaweka chini ya mto wake majibu yao yaliyofungwa kwa muhuri kuhusu kilicho na nguvu zaidi: divai, mfalme, na wanawake, huku ukweli ukiwa juu ya vyote. Wanashindania vazi la zambarau, dhahabu na cheo cha Jamaa. Wa kwanza anahoji kwamba divai inamweka mfalme sawa na yatima."
+    },
+    {
+      "id": "1_esdras-4",
+      "title": "📜 1 Esdrasi 4",
+      "refs": [
+        "1 Esdras 4:1-63"
+      ],
+      "summaryBullets": [
+        "Kisha wa pili, aliyesema kuhusu nguvu ya mfalme, akaanza kusema: (4:1).",
+        "“Waheshimiwa, je, watu si wenye nguvu zaidi, kwa kuwa wanatawala nchi na bahari na vyote vilivyomo? (4:2).",
+        "Lakini mfalme ana nguvu zaidi; yeye ndiye bwana na mtawala wao, nao hutii lolote analowaambia. (4:3).",
+        "Akiwaambia wapigane wao kwa wao, hufanya hivyo; akiwatuma dhidi ya adui, huenda na kuteka milima, kuta na minara. (4:4).",
+        "Wanaua na kuuawa, lakini hawakiuki amri ya mfalme; wakishinda, humletea mfalme kila kitu, nyara zote wanazoteka na vinginevyo. (4:5).",
+        "Vivyo hivyo wale wasiokuwa wanajeshi wala wapiganaji, bali wakulima; kila wanapopanda na kuvuna, humletea mfalme sehemu ya mavuno, nao hulazimishana kulipa kodi kwa mfalme. (4:6).",
+        "Naye ni mtu mmoja tu! Akiwaambia waue, huua; akiwaambia waachilie, huachilia; (4:7).",
+        "akiwaambia washambulie, hushambulia; akiwaambia waharibu, huharibu; akiwaambia wajenge, hujenga; (4:8).",
+        "akiwaambia wakate, hukata; akiwaambia wapande, hupanda. (4:9).",
+        "Watu wake wote na majeshi yake humtii. Zaidi ya hayo, yeye huketi kwa raha, hula, hunywa na kulala, (4:10).",
+        "lakini wao humlinda; hakuna anayeruhusiwa kuondoka ili kushughulikia mambo yake mwenyewe, wala hawamwasi. (4:11).",
+        "Waheshimiwa, mfalme asiweje mwenye nguvu zaidi, ikiwa anatiiwa namna hii?” Akanyamaza. (4:12).",
+        "Kisha wa tatu, aliyesema kuhusu wanawake na ukweli, naye alikuwa Zerubabeli, akaanza kusema: (4:13).",
+        "“Waheshimiwa, je, mfalme si mkuu, watu si wengi, na divai si yenye nguvu? Basi ni nani anayewatawala au kuwashinda? Je, si wanawake? (4:14).",
+        "Wanawake walimzaa mfalme na kila mtu anayetawala bahari na nchi. (4:15).",
+        "Watu walitoka kwa wanawake, na wanawake waliwalea hata wanaume wanaopanda mashamba ya mizabibu inayotoa divai. (4:16).",
+        "Wanawake hutengeneza mavazi ya wanaume; huwapa wanaume heshima; wanaume hawawezi kuwepo bila wanawake. (4:17).",
+        "Wanaume wakikusanya dhahabu, fedha au kitu kingine kizuri, kisha wamwone mwanamke mzuri wa sura na umbo, (4:18).",
+        "huviacha vitu hivyo vyote na kumkodolea macho na midomo wazi, nao wote humpendelea kuliko dhahabu, fedha au kitu kingine chochote kizuri. (4:19).",
+        "Mwanamume humwacha baba yake aliyemlea na eneo lake la asili, na kushikamana na mke wake. (4:20).",
+        "Humaliza siku zake pamoja na mke wake, bila kumfikiria baba yake, mama yake au kwao. (4:21).",
+        "Kwa hiyo lazima mtambue kwamba wanawake wanawatawala! Je, hamfanyi kazi kwa taabu, kuleta kila kitu na kuwapa wanawake? (4:22).",
+        "Mwanamume huchukua upanga wake na kwenda kusafiri, kupora na kuiba, na kusafiri baharini na mitoni; (4:23).",
+        "hukabiliana na simba na kutembea gizani, naye akiiba, kupora na kuteka nyara, humletea mwanamke anayempenda. (4:24).",
+        "Mwanamume humpenda mke wake kuliko baba yake au mama yake. (4:25).",
+        "Wanaume wengi wamepoteza akili kwa sababu ya wanawake na kuwa watumwa kwa ajili yao. (4:26).",
+        "Wengi wameangamia, wamejikwaa au kutenda dhambi kwa sababu ya wanawake. (4:27).",
+        "Na sasa hamniamini? Je, mfalme si mkuu kwa mamlaka yake? Je, nchi zote haziogopi kumgusa? (4:28).",
+        "Lakini nimemwona akiwa na Apame, suria wa mfalme, binti ya Bartako mashuhuri; alikuwa akiketi mkono wa kuume wa mfalme (4:29).",
+        "na kuchukua taji kichwani mwa mfalme na kulivaa mwenyewe, na kumpiga mfalme kofi kwa mkono wake wa kushoto. (4:30).",
+        "Mfalme alikuwa akimkodolea macho kwa mshangao. Akimtabasamia, mfalme hucheka; akimkasirikia, mfalme humbembeleza ili apatanishwe naye. (4:31).",
+        "Waheshimiwa, wanawake wasiweje na nguvu, ikiwa wanafanya mambo hayo?” (4:32).",
+        "Kisha mfalme na wakuu wakatazamana, naye akaanza kusema kuhusu ukweli: (4:33).",
+        "“Waheshimiwa, je, wanawake hawana nguvu? Dunia ni kubwa, mbingu ni ndefu, na jua ni la kasi katika mwendo wake, kwa kuwa huzunguka mbingu na kurudi mahali pake kwa siku moja. (4:34).",
+        "Je, anayefanya mambo hayo si mkuu? Lakini ukweli ni mkuu na una nguvu kuliko vitu vyote. (4:35).",
+        "Dunia yote inauita ukweli, na mbingu zinaubariki. Kazi zote hutetemeka na kuogopa, wala ndani yake hamna uovu. (4:36).",
+        "Divai haina haki; mfalme hana haki; wanawake hawana haki; wanadamu wote hawana haki; kazi zao zote hazina haki, na vitu vyote vya namna hiyo. Hamna ukweli ndani yao; kwa uovu wao wataangamia. (4:37).",
+        "Lakini ukweli hudumu na kuwa imara milele, huishi na kushinda milele na milele. (4:38).",
+        "Kwake hamna upendeleo wala ubaguzi; hutenda yaliyo ya haki badala ya jambo lolote lisilo la haki au lililo ovu. Kila mtu huyakubali matendo yake, (4:39).",
+        "wala hukumu yake haina uovu. Nguvu, ufalme, uwezo na utukufu wa nyakati zote ni vyake. Atukuzwe Mungu wa ukweli!” (4:40).",
+        "Aliponyamaza, watu wote wakapaza sauti wakisema, “Ukweli ni mkuu na una nguvu kuliko vyote!” (4:41).",
+        "Kisha mfalme akamwambia Zerubabeli, “Omba utakalo, hata zaidi ya yaliyoandikwa, nasi tutakupa, kwa kuwa umeonekana kuwa mwenye hekima zaidi. Utaketi karibu nami na kuitwa Jamaa yangu.” (4:42).",
+        "Ndipo akamwambia mfalme, “Kumbuka nadhiri uliyoweka siku ulipokuwa mfalme, ya kuijenga Yerusalemu (4:43).",
+        "na kurudisha vyombo vyote vilivyochukuliwa Yerusalemu, ambavyo Koreshi alivitenga alipoanza kuiharibu Babeli na kuapa kuvirudisha huko. (4:44).",
+        "Pia uliapa kulijenga hekalu ambalo Waedomu walilichoma Yudea ilipoharibiwa na Wakaldayo. (4:45).",
+        "Na sasa, ewe bwana mfalme, hili ndilo ombi langu kwako, nalo linastahili ukuu wako. Kwa hiyo nakuomba uitimize nadhiri uliyomwekea Mfalme wa mbinguni kwa midomo yako mwenyewe.” (4:46).",
+        "Mfalme Dario akasimama na kumbusu, akamwandikia barua kwa watunza hazina wote, magavana, majemadari na maliwali, ili wampe njia salama yeye na wote waliokuwa wakipanda pamoja naye kuijenga Yerusalemu. (4:47).",
+        "Akaandika barua kwa magavana wote wa Koile-Siria na Foinike na wale wa Lebanoni, ili walete mbao za mierezi kutoka Lebanoni kwenda Yerusalemu na kumsaidia kuujenga mji. (4:48).",
+        "Akaandika kwa ajili ya Wayahudi wote waliokuwa wakipanda kutoka ufalme wake kwenda Yudea, kuhusu uhuru wao, kwamba ofisa, liwali, gavana au mtunza hazina yeyote asiingie nyumbani mwao kwa nguvu; (4:49).",
+        "kwamba eneo lote watakalokaa liwe lao bila kodi; kwamba Waedomu warudishe vijiji vya Wayahudi walivyokuwa wamevikalia; (4:50).",
+        "kwamba talanta ishirini zitolewe kila mwaka kwa ajili ya ujenzi wa hekalu hadi litakapokamilika (4:51).",
+        "na talanta nyingine kumi kila mwaka kwa ajili ya sadaka za kuteketezwa zinazotolewa kila siku juu ya madhabahu, kulingana na amri ya kutoa sadaka kumi na saba; (4:52).",
+        "na kwamba wote waliotoka Babeli kuujenga mji wawe huru, wao na watoto wao na makuhani wote waliokuja. (4:53).",
+        "Pia akaandika kuhusu posho zao na mavazi ya makuhani watakayovaa wanapohudumu. (4:54).",
+        "Akaandika kwamba Walawi wapewe mahitaji yao hadi siku ambayo hekalu litakamilika na Yerusalemu kujengwa. (4:55).",
+        "Akaandika kwamba ardhi na mishahara itolewe kwa wote wanaoulinda mji. (4:56).",
+        "Akarudisha kutoka Babeli vyombo vyote ambavyo Koreshi alikuwa amevitenga; kila jambo ambalo Koreshi alikuwa ameagiza lifanywe, yeye pia akaamuru lifanywe na lipelekwe Yerusalemu. (4:57).",
+        "Kijana huyo alipotoka nje, akainua uso wake kuelekea mbinguni upande wa Yerusalemu na kumsifu Mfalme wa mbinguni akisema, (4:58).",
+        "“Ushindi hutoka kwako; hekima hutoka kwako, na utukufu ni wako. Mimi ni mtumishi wako. (4:59).",
+        "Umebarikiwa, wewe uliyenipa hekima; nakushukuru, ewe Bwana wa baba zetu.” (4:60).",
+        "Basi akachukua barua na kwenda Babeli, akawaeleza jamaa zake wote mambo hayo. (4:61).",
+        "Nao wakamsifu Mungu wa baba zao kwa kuwa alikuwa amewapa uhuru na ruhusa (4:62).",
+        "ya kupanda na kuijenga Yerusalemu na hekalu linaloitwa kwa jina lake; wakafanya karamu kwa muziki na shangwe kwa siku saba. (4:63)."
+      ],
+      "crossRefs": [
+        "Mwanzo 2:24: Mwanamume humwacha baba yake na mama yake na kushikamana na mke wake.",
+        "Zaburi 117:2: Ukweli wa Bwana hudumu milele.",
+        "Zekaria 8:16: Semeni ukweli ninyi kwa ninyi na toeni hukumu za haki.",
+        "1 Wafalme 5:6-10: Mwerezi hukatwa Lebanoni na kutolewa kwa mkataba kwa ajili ya ujenzi Yerusalemu.",
+        "Yeremia 27:21-22: Vyombo vya hekalu vilivyochukuliwa Babeli vitakaa huko hadi Bwana atakapovirudisha."
+      ],
+      "translationNotes": [
+        {
+          "term": "suria",
+          "original": "Kigiriki: παλλακή (pallake)",
+          "note": "Mke wa daraja la pili mwenye hadhi inayotambuliwa, si mwanamke asiye na cheo. Apame anatajwa pamoja na jina la baba yake na huketi mkono wa kuume wa mfalme; mambo haya yanaonyesha hadhi yake ikulu."
+        },
+        {
+          "term": "sadaka ya kuteketezwa",
+          "original": "Kigiriki: ὁλοκαύτωμα (holokautoma)",
+          "note": "Kwa maana halisi ni kitu kilichochomwa chote. Tofauti na sadaka ambazo sehemu yake ililiwa, sadaka hii iliteketezwa yote juu ya madhabahu na kutolewa kila asubuhi na jioni; ndiyo sababu ilihitaji mgao wa kudumu wa kila mwaka."
+        },
+        {
+          "term": "Waedomu",
+          "original": "Kigiriki: Ἰδουμαῖοι (Idoumaioi)",
+          "note": "Jina la Kigiriki la watu wa Edomu, majirani wa Yuda upande wa kusini, waliokuwa wamekalia vijiji katika eneo la vilima vya kusini baada ya Yerusalemu kuanguka. Dario anaamuru vijiji hivyo virudishwe."
+        },
+        {
+          "term": "Ukweli ni mkuu na una nguvu kuliko vyote",
+          "original": "Kigiriki: μεγάλη ἡ ἀλήθεια καὶ ὑπερισχύει (megale he aletheia kai hyperischyei)",
+          "note": "Kauli ya umati ya kukubali hukumu kwa sauti, iliyokuwa na muundo maalumu. Matendo 19:34 inarekodi kelele yenye muundo huo huo katika ukumbi wa michezo huko Efeso."
+        }
+      ],
+      "keyTakeaway": "Mlinzi wa pili anasema mfalme ana nguvu zaidi; wa tatu, Zerubabeli, anatetea wanawake kwa kumtaja Apame anayechukua taji la mfalme, kisha anasema ukweli ni mkuu kuliko vyote, nao mkutano unapaza sauti kukubali. Alipoahidiwa chochote, anamwomba Dario atimize nadhiri ya kuijenga Yerusalemu; mfalme anatoa ruhusa ya kusafiri salama, mierezi, msamaha wa kodi na vyombo vya hekalu."
+    },
+    {
+      "id": "1_esdras-5",
+      "title": "📜 1 Esdrasi 5",
+      "refs": [
+        "1 Esdras 5:1-70"
+      ],
+      "summaryBullets": [
+        "Baada ya hayo, wakuu wa nyumba za baba zao walichaguliwa kupanda kulingana na makabila yao, pamoja na wake zao, wana na binti zao, watumishi wao wa kiume na wa kike, na mifugo yao. (5:1).",
+        "Dario akawatuma wapanda farasi 1,000 pamoja nao ili wawarudishe Yerusalemu salama, huku kukiwa na muziki wa ngoma na filimbi; (5:2).",
+        "jamaa zao wote walikuwa wakisherehekea. Akawafanya wapande pamoja nao. (5:3).",
+        "Haya ndiyo majina ya wanaume waliopanda, kulingana na nyumba za baba zao katika makabila yao, wakiwa viongozi wa makundi yao: (5:4).",
+        "makuhani, wazao wa Finehasi mwana wa Haruni; Yoshua mwana wa Yosadaki mwana wa Seraya, na Yoakimu mwana wa Zerubabeli mwana wa Shealtieli, wa nyumba ya Daudi, wa ukoo wa Peresi, wa kabila la Yuda, (5:5).",
+        "aliyenena maneno ya hekima mbele ya Mfalme Dario wa Waajemi, mwaka wa pili wa utawala wake, katika mwezi wa Nisani, mwezi wa kwanza. (5:6).",
+        "Hawa ndio Wayudea waliotoka katika makazi yao ya uhamishoni, ambao Mfalme Nebukadneza wa Babeli alikuwa amewachukua na kuwapeleka Babeli (5:7).",
+        "na kurudi Yerusalemu na maeneo mengine ya Yudea, kila mmoja katika mji wake. Walikuja pamoja na Zerubabeli na Yoshua, Nehemia, Seraya, Resaya, Eneneo, Mordekai, Beelsarusi, Asfarasusi, Borolia, Rehumu na Baana, viongozi wao. (5:8).",
+        "Hesabu ya watu wa taifa na viongozi wao: wazao wa Paroshi, 2,172. Wazao wa Shefatia, 472. (5:9).",
+        "Wazao wa Ara, 756. (5:10).",
+        "Wazao wa Pahathi-moabu, wa wazao wa Yoshua na Yoabu, 2,812. (5:11).",
+        "Wazao wa Elamu, 1,254. Wazao wa Zatu, 945. Wazao wa Korbe, 705. Wazao wa Bani, 648. (5:12).",
+        "Wazao wa Bebai, 623. Wazao wa Azgadi, 1,322. (5:13).",
+        "Wazao wa Adonikamu, 667. Wazao wa Bigvai, 2,066. Wazao wa Adini, 454. (5:14).",
+        "Wazao wa Ateri, yaani wa Hezekia, 92. Wazao wa Kilani na Azeta, 67. Wazao wa Azaru, 432. (5:15).",
+        "Wazao wa Ania, 101. Wazao wa Aromu. Wazao wa Bezai, 323. Wazao wa Arsifurithi, 112. (5:16).",
+        "Wazao wa Baiterusi, 3,005. Wazao wa Bethlomoni, 123. (5:17).",
+        "Watu wa Netofa, 55. Wa Anatothi, 158. Wa Bethasmothi, 42. (5:18).",
+        "Watu wa Kiriatharimu, 25. Wa Kefira na Beerothi, 743. (5:19).",
+        "Wakadiasani na Waamidia, 422. Watu wa Kirama na Geba, 621. (5:20).",
+        "Watu wa Makaloni, 122. Wa Betolio, 52. Wazao wa Nifishi, 156. (5:21).",
+        "Wazao wa Kalamolalusi mwingine na Ono, 725. Wazao wa Yerekusi, 345. (5:22).",
+        "Wazao wa Senaa, 3,330. (5:23).",
+        "Makuhani: wazao wa Yedaya mwana wa Yoshua, wa wazao wa Anasibu, 972. Wazao wa Imeri, 1,052. (5:24).",
+        "Wazao wa Pashuri, 1,247. Wazao wa Karme, 1,017. (5:25).",
+        "Walawi: wazao wa Yoshua, Kadmieli, Bana na Sudia, 74. (5:26).",
+        "Waimbaji wa hekalu: wazao wa Asafu, 128. (5:27).",
+        "Mabawabu: wazao wa Shalumu, Ateri, Talmoni, Akubu, Hatita na Shobai, jumla yao 139. (5:28).",
+        "Watumishi wa hekalu: wazao wa Esau, Hasufa, Tabaothi, Kerosi, Sua, Padoni, Lebana na Hagaba, (5:29).",
+        "wazao wa Akubu, Uthai, Ketabu, Hagabu, Subai, Hana, Kathua na Geduri, (5:30).",
+        "wazao wa Yairusi, Daisani, Noeba, Kezibu, Gazera, Uza, Finoe, Hasra, Basthai, Asna, Maani, Nefisimu, Akufu, Hakufa, Asuri, Farakimu na Bazluthi, (5:31).",
+        "wazao wa Mehida, Kutha, Karea, Barkosi, Serari, Tema, Nezia na Hatifa. (5:32).",
+        "Wazao wa watumishi wa Sulemani: wazao wa Assafiothi, Peruda, Yaala, Lozoni, Isdaeli na Shefatia, (5:33).",
+        "wazao wa Agia, Pockereth-hazebaimu, Sarothie, Masia, Gasi, Adusi, Subasi, Afera, Barodisi, Shafati na Aloni. (5:34).",
+        "Watumishi wote wa hekalu na wazao wa watumishi wa Sulemani walikuwa 372. (5:35).",
+        "Hawa wafuatao walipanda kutoka Tel-mela na Tel-harsha, chini ya uongozi wa Kerubu, Adani na Imeri, (5:36).",
+        "ingawa hawakuweza kuthibitisha kwa nyumba za baba zao au ukoo wao kwamba walikuwa Waisraeli: wazao wa Delaya mwana wa Tobia na wazao wa Nekoda, 652. (5:37).",
+        "Miongoni mwa makuhani, hawa wafuatao walikuwa wamechukua ukuhani lakini hawakupatikana katika orodha: wazao wa Habaya, Hakosi na Yadusi, aliyemwoa Agia, mmoja wa binti za Barzilai, na kuitwa kwa jina lake. (5:38).",
+        "Walipochunguza orodha na kutopata ukoo wa watu hao, waliwazuia kuhudumu kama makuhani. (5:39).",
+        "Nehemia na Atharia wakawaambia wasile vitu vitakatifu hadi atokee kuhani mkuu aliyevaa Urimu na Thumimu. (5:40).",
+        "Waisraeli wote wenye umri wa miaka 12 au zaidi, mbali na watumishi wa kiume na wa kike, walikuwa 42,360; watumishi wao wa kiume na wa kike walikuwa 7,337; wanamuziki na waimbaji walikuwa 245. (5:41).",
+        "Kulikuwa na ngamia 435, farasi 7,036, nyumbu 245 na punda 5,525. (5:42).",
+        "Baadhi ya viongozi wa jamaa, walipofika kwenye hekalu la Mungu huko Yerusalemu, waliweka nadhiri kwamba kwa uwezo wao wote wangeijenga nyumba mahali pake (5:43).",
+        "na kutoa kwa hazina takatifu kwa ajili ya kazi hiyo mina 1,000 za dhahabu, mina 5,000 za fedha na mavazi 100 ya makuhani. (5:44).",
+        "Makuhani, Walawi, baadhi ya watu, waimbaji wa hekalu na mabawabu walikaa Yerusalemu na maeneo yake; Waisraeli wengine wote walikaa katika miji yao. (5:45).",
+        "Mwezi wa saba ulipofika na Waisraeli wote wakiwa nyumbani kwao, walikusanyika kwa nia moja katika uwanja ulio mbele ya lango la kwanza upande wa mashariki. (5:46).",
+        "Kisha Yoshua mwana wa Yosadaki pamoja na makuhani wenzake, na Zerubabeli mwana wa Shealtieli pamoja na jamaa zake, wakachukua nafasi zao na kuiandaa madhabahu ya Mungu wa Israeli, (5:47).",
+        "ili kutoa sadaka za kuteketezwa juu yake, kulingana na maagizo katika kitabu cha Musa mtu wa Mungu. (5:48).",
+        "Baadhi ya watu wa mataifa mengine ya nchi wakajiunga nao. Wakasimamisha madhabahu mahali pake, kwa kuwa watu wote wa nchi waliwachukia na walikuwa na nguvu kuliko wao; wakatoa dhabihu kwa nyakati zake na sadaka za kuteketezwa kwa Bwana asubuhi na jioni. (5:49).",
+        "Waliadhimisha Sikukuu ya Vibanda kama ilivyoamriwa katika sheria, wakatoa dhabihu zilizotakiwa kila siku (5:50).",
+        "na baadaye sadaka za kawaida na dhabihu za Sabato, za mwandamo wa mwezi na za sikukuu zote zilizowekwa wakfu. (5:51).",
+        "Wote waliokuwa wameweka nadhiri kwa Mungu wakaanza kumtolea dhabihu kuanzia mwandamo wa mwezi wa saba, ingawa hekalu la Mungu lilikuwa halijajengwa. (5:52).",
+        "Waliwapa waashi na maseremala fedha, na Wasidoni na Watiri chakula, vinywaji na magari ili walete magogo ya mierezi kutoka Lebanoni kwa kuyaelea hadi bandari ya Yopa, kulingana na amri iliyoandikwa ya Mfalme Koreshi wa Waajemi. (5:53).",
+        "Katika mwaka wa pili baada ya kufika kwao kwenye hekalu la Mungu huko Yerusalemu, katika mwezi wa pili, Zerubabeli mwana wa Shealtieli na Yoshua mwana wa Yosadaki wakaanza kazi, pamoja na jamaa zao, makuhani Walawi na wote waliorudi Yerusalemu kutoka uhamishoni, (5:54).",
+        "nao wakaweka msingi wa hekalu la Mungu katika mwandamo wa mwezi wa pili, mwaka wa pili baada ya kufika Yudea na Yerusalemu. (5:55).",
+        "Wakawaweka Walawi wenye umri wa miaka 20 au zaidi kusimamia kazi ya Bwana. Yoshua akasimama pamoja na wanawe, jamaa zake, nduguye Kadmieli, wana wa Yoshua Emadabuni na wana wa Yoda mwana wa Iliaduni, pamoja na wana na jamaa zao; Walawi wote wakaiendeleza kazi ya nyumba ya Mungu kwa nia moja. Hivyo wajenzi wakalijenga hekalu la Bwana. (5:56).",
+        "Makuhani wakasimama wamevaa mavazi yao, wakiwa na ala za muziki na tarumbeta; Walawi wana wa Asafu wakawa na matoazi, wakimsifu na kumbariki Bwana kulingana na maagizo ya Mfalme Daudi wa Israeli; (5:57).",
+        "waliimba nyimbo za kumshukuru Bwana, “Kwa maana wema wake na utukufu wake hudumu milele juu ya Israeli wote.” (5:58).",
+        "Watu wote wakapiga tarumbeta na kupiga kelele kubwa, wakimsifu Bwana kwa kusimamishwa kwa nyumba yake. (5:59).",
+        "Baadhi ya makuhani Walawi na viongozi wa nyumba za baba zao, wazee waliokuwa wameiona nyumba ya kwanza, walikuja kwenye ujenzi wa nyumba hii wakilia kwa sauti kubwa, (5:60).",
+        "huku wengine wengi wakifika na tarumbeta na kelele za furaha, (5:61).",
+        "hata watu hawakuweza kusikia tarumbeta kwa sababu ya kilio cha watu. Umati ulipiga tarumbeta kwa nguvu hata sauti ikasikika mbali, (5:62).",
+        "na maadui wa makabila ya Yuda na Benyamini waliposikia, wakaja kujua sauti ya tarumbeta ilimaanisha nini. (5:63).",
+        "Wakajua kwamba watu waliorudi kutoka uhamishoni walikuwa wakimjengea hekalu Bwana Mungu wa Israeli. (5:64).",
+        "Basi wakawakaribia Zerubabeli, Yoshua na viongozi wa nyumba za baba zao, wakawaambia, “Tutajenga pamoja nanyi. (5:65).",
+        "Kwa maana tunamtii Bwana wenu kama ninyi, nasi tumekuwa tukimtolea dhabihu tangu siku za Mfalme Esar-hadoni wa Waashuru aliyetuletea hapa.” (5:66).",
+        "Lakini Zerubabeli, Yoshua na viongozi wa nyumba za baba zao katika Israeli wakawaambia, “Ninyi hamna sehemu katika ujenzi wa nyumba ya Bwana Mungu wetu pamoja nasi, (5:67).",
+        "kwa kuwa sisi peke yetu tutaijenga kwa ajili ya Bwana wa Israeli, kama Koreshi mfalme wa Waajemi alivyotuamuru.” (5:68).",
+        "Lakini mataifa ya nchi yakawazunguka waliokuwa Yudea, yakakata vifaa vyao na kuzuia ujenzi wao, (5:69).",
+        "na kwa hila, hotuba za kuchochea umati na maasi, yakazuia ujenzi kukamilika wakati wote Mfalme Koreshi alipokuwa hai. Walizuiwa kujenga kwa miaka miwili, hadi utawala wa Dario. (5:70)."
+      ],
+      "crossRefs": [
+        "Ezra 2:1-70: Orodha hiyo hiyo ya jamaa waliorudi, pamoja na jumla zao na mifugo yao.",
+        "Ezra 3:1-13: Madhabahu yasimamishwa, Sikukuu ya Vibanda yaadhimishwa na msingi wa hekalu wawekewa kilio na shangwe.",
+        "Kutoka 28:30: Urimu na Thumimu huwekwa katika kifuko cha kifuani cha kuhani mkuu.",
+        "Mambo Ya Walawi 23:33-43: Sikukuu ya Vibanda imeamriwa kwa siku saba katika mwezi wa saba.",
+        "2 Mambo Ya Nyakati 2:16: Mierezi inasafirishwa kwa kuelea baharini hadi Yopa kwa ajili ya ujenzi Yerusalemu."
+      ],
+      "translationNotes": [
+        {
+          "term": "mina",
+          "original": "Kigiriki: μνᾶ (mna)",
+          "note": "Kipimo cha uzito wa fedha au dhahabu; mina 60 ni talanta moja na mina moja huhesabiwa kuwa drakma 100, takriban pauni 1.25. Ahadi ya mina 1,000 za dhahabu inahusu uzito wa metali, si idadi ya sarafu."
+        },
+        {
+          "term": "Urimu na Thumimu",
+          "original": "Kigiriki: δήλωσις καὶ ἀλήθεια (delosis kai aletheia)",
+          "note": "Kigiriki kinatafsiri vitu hivyo viwili vilivyobebwa katika kifuko cha kifuani cha kuhani mkuu kama ufunuo na ukweli. Vilihusika katika kupata uamuzi; kwa kuwa hakukuwa na kuhani mkuu aliyevibeba, madai ya ukuhani yaliyobishaniwa yalipaswa kusubiri."
+        },
+        {
+          "term": "watumishi wa hekalu",
+          "original": "Kigiriki: ἱερόδουλοι (hierodouloi)",
+          "note": "Kundi la kurithi lililopewa kazi nzito za patakatifu, kama kuchota maji na kubeba kuni. Wanaorodheshwa tofauti na makuhani, Walawi, waimbaji na mabawabu; orodha za zamani huwaita watu waliotolewa kwa kazi hiyo."
+        },
+        {
+          "term": "Sikukuu ya Vibanda",
+          "original": "Kigiriki: σκηνοπηγία (skenopegia)",
+          "note": "Kwa maana halisi ni kusimamisha mahema. Sikukuu ya siku saba ya majira ya vuli ya Mambo ya Walawi 23, iliyoadhimishwa katika vibanda vya muda mwezi wa saba baada ya mavuno kukusanywa."
+        }
+      ],
+      "keyTakeaway": "Wahamishwa wanarudi kwa jamaa zao chini ya ulinzi wa wapanda farasi, jumla yao 42,360; wanaume wasioweza kuthibitisha ukoo wao wanazuiwa katika ukuhani. Wanasimamisha madhabahu, wanaadhimisha Sikukuu ya Vibanda na kuweka msingi kwa tarumbeta, huku wazee walioiona nyumba ya kwanza wakilia. Zerubabeli na Yoshua wanakataa msaada wa watu wa nje, na kazi inasimama."
+    },
+    {
+      "id": "1_esdras-6",
+      "title": "📜 1 Esdrasi 6",
+      "refs": [
+        "1 Esdras 6:1-33"
+      ],
+      "summaryBullets": [
+        "Katika mwaka wa pili wa utawala wa Dario, manabii Hagai na Zekaria mwana wa Ido waliwatabiria Wayahudi waliokuwa Yudea na Yerusalemu; waliwatabiria kwa jina la Bwana Mungu wa Israeli. (6:1).",
+        "Kisha Zerubabeli mwana wa Shealtieli na Yoshua mwana wa Yosadaki wakaanza kujenga nyumba ya Bwana huko Yerusalemu, wakisaidiwa na manabii wa Bwana waliokuwa pamoja nao. (6:2).",
+        "Wakati huohuo Sisinesi gavana wa Siria na Foinike, Sathrabuzanesi na washirika wao wakawajia na kusema, (6:3).",
+        "“Mnajenga nyumba hii na paa hili na kumaliza kazi nyingine zote kwa amri ya nani? Na wajenzi wanaomaliza mambo haya ni akina nani?” (6:4).",
+        "Hata hivyo, wazee wa Wayahudi walitendewa wema, kwa kuwa ulinzi wa Bwana ulikuwa juu ya wahamishwa; (6:5).",
+        "hawakuzuiwa kujenga mpaka ujumbe kuhusu wao ungepelekwa kwa Dario na taarifa kutolewa. (6:6).",
+        "Hii ni nakala ya barua ambayo Sisinesi gavana wa Siria na Foinike, Sathrabuzanesi na washirika wao watawala wa maeneo ya Siria na Foinike walimwandikia na kumtumia Dario: “Kwa Mfalme Dario, salamu. (6:7).",
+        "Bwana wetu mfalme ajulishwe kikamilifu kwamba tulipoenda katika eneo la Yudea na kuingia mji wa Yerusalemu, tuliwakuta wazee wa Wayahudi waliokuwa uhamishoni wakijenga katika Yerusalemu nyumba mpya kubwa kwa ajili ya Bwana, kwa mawe yaliyochongwa na mbao za thamani zilizowekwa ndani ya kuta. (6:8).",
+        "Kazi hii inaendelea haraka, inafanikiwa mikononi mwao na inakamilishwa kwa fahari na uangalifu mkubwa. (6:9).",
+        "Kisha tukawauliza wazee hawa, ‘Mnajenga nyumba hii na kuweka misingi ya jengo hili kwa amri ya nani?’ (6:10).",
+        "Ili tukujulishe kwa maandishi viongozi wao ni akina nani, tuliwauliza na kutaka orodha ya majina ya watu wanaochochea vurugu hizo. (6:11).",
+        "Walitujibu, ‘Sisi ni watumishi wa Bwana aliyeumba mbingu na dunia. (6:12).",
+        "Nyumba hii ilijengwa miaka mingi iliyopita na mfalme wa Israeli aliyekuwa mkuu na mwenye nguvu, nayo ikakamilika. (6:13).",
+        "Lakini baba zetu walipomtendea dhambi Bwana wa Israeli aliye mbinguni na kumkasirisha, aliwatia mikononi mwa Mfalme Nebukadneza wa Babeli, mfalme wa Wakaldayo, (6:14).",
+        "nao wakaibomoa nyumba hiyo na kuichoma, wakawapeleka watu mateka Babeli. (6:15).",
+        "Lakini katika mwaka wa kwanza Koreshi alipotawala eneo la Babeli, Mfalme Koreshi aliandika amri kwamba nyumba hii ijengwe upya. (6:16).",
+        "Vyombo vitakatifu vya dhahabu na fedha ambavyo Nebukadneza alivitwaa katika nyumba ya Yerusalemu na kuvihifadhi hekaluni mwake, Mfalme Koreshi alivitoa tena kutoka hekalu la Babeli, navyo vikakabidhiwa Zerubabeli na Sheshbaza gavana (6:17).",
+        "kwa amri kwamba avirudishe vyombo hivyo vyote na aviweke katika hekalu la Yerusalemu, na kwamba hekalu hili la Bwana lijengwe upya mahali pake. (6:18).",
+        "Kisha Sheshbaza huyu alipofika hapa, akaweka misingi ya nyumba ya Bwana huko Yerusalemu. Ingawa imekuwa ikijengwa tangu wakati huo hadi sasa, bado haijakamilika.’ (6:19).",
+        "Kwa hiyo sasa, ewe mfalme, ikiwa unaona inafaa, kumbukumbu za kifalme za bwana wetu mfalme zilizo Babeli zichunguzwe; (6:20).",
+        "ikipatikana kwamba nyumba ya Bwana huko Yerusalemu ilijengwa kwa idhini ya Mfalme Koreshi, na bwana wetu mfalme akiidhinisha, atutumie maagizo kuhusu mambo haya.” (6:21).",
+        "Ndipo Dario akaamuru kumbukumbu za kifalme zilizohifadhiwa Babeli zichunguzwe. Na huko Ekbatana, ngome iliyo katika eneo la Umedi, kukapatikana gombo lenye maandishi haya: (6:22).",
+        "“Katika mwaka wa kwanza wa utawala wa Mfalme Koreshi, aliamuru nyumba ya Bwana ijengwe Yerusalemu, mahali wanapotoa dhabihu kwa moto bila kukoma: (6:23).",
+        "kimo chake dhiraa 60 na upana wake dhiraa 60, kukiwa na tabaka tatu za mawe yaliyochongwa na tabaka moja la mbao mpya za nchi hiyo; gharama zilipwe kutoka hazina ya Mfalme Koreshi; (6:24).",
+        "na vyombo vitakatifu vya nyumba ya Bwana, vya dhahabu na fedha, ambavyo Nebukadneza alivichukua katika nyumba ya Yerusalemu na kuvipeleka Babeli, virudishwe katika nyumba ya Yerusalemu na kuwekwa mahali vilipokuwa.” (6:25).",
+        "Kwa hiyo Dario akawaamuru Sisinesi gavana wa Siria na Foinike, Sathrabuzanesi, washirika wao na waliowekwa kuwa watawala wa maeneo ya Siria na Foinike wakae mbali na mahali hapo na wamruhusu Zerubabeli, mtumishi wa Bwana na gavana wa Yudea, pamoja na wazee wa Wayahudi, waijenge nyumba hii ya Bwana mahali pake. (6:26).",
+        "“Nami naamuru ijengwe kikamilifu na jitihada zote zifanywe kuwasaidia waliorudi kutoka uhamishoni Yudea mpaka nyumba ya Bwana ikamilike (6:27).",
+        "na kwamba sehemu ya kodi ya Koile-Siria na Foinike itolewe kwa uangalifu kwa watu hawa, yaani kwa Zerubabeli gavana, kwa ajili ya dhabihu kwa Bwana, ng'ombe dume, kondoo dume na wana-kondoo, (6:28).",
+        "na pia ngano, chumvi, divai na mafuta, kila mwaka bila malalamiko, kwa matumizi ya kila siku kama makuhani wa Yerusalemu watakavyoelekeza, (6:29).",
+        "ili sadaka za kinywaji zitolewe kwa Mungu Aliye Juu Sana kwa ajili ya mfalme na watoto wake, na sala zitolewe kwa ajili ya maisha yao.” (6:30).",
+        "Akaamuru kwamba yeyote akivunja au kubatilisha lolote lililoandikwa humu, boriti itolewe nyumbani kwake, yeye atundikwe juu yake kwa kuchomwa, na mali yake yote itwaliwe na mfalme. (6:31).",
+        "“Kwa hiyo Bwana ambaye jina lake linaitwa mahali hapo amwangamize kila mfalme na taifa litakalonyoosha mkono kuzuia au kuharibu nyumba hiyo ya Bwana huko Yerusalemu. (6:32).",
+        "“Mimi, Mfalme Dario, nimeamuru jambo hili lifanywe kwa bidii yote kama ilivyoagizwa hapa.” (6:33)."
+      ],
+      "crossRefs": [
+        "Ezra 5:1-17: Gavana anawauliza wajenzi na kumwandikia Dario kuomba uamuzi.",
+        "Ezra 6:1-12: Gombo lililopatikana Ekbatana na amri ya Dario ya kugharamia kazi.",
+        "Hagai 1:1-15: Hagai anawaita Zerubabeli na Yoshua waijenge nyumba katika mwaka wa pili wa Dario.",
+        "Zekaria 1:1-6: Zekaria anapokea neno la Bwana katika mwaka wa pili wa Dario.",
+        "Esta 6:1: Mfalme wa Uajemi anasomewa kitabu cha kumbukumbu."
+      ],
+      "translationNotes": [
+        {
+          "term": "dhiraa",
+          "original": "Kigiriki: πῆχυς (pechys)",
+          "note": "Kipimo cha urefu wa mkono kutoka kiwiko hadi ncha ya kidole, takriban inchi 18. Nyumba yenye kimo na upana wa dhiraa 60 ni karibu futi 90 kwa kila upande."
+        },
+        {
+          "term": "kumbukumbu za kifalme",
+          "original": "Kigiriki: βιβλιοφυλάκιον (bibliophylakion)",
+          "note": "Kwa maana halisi ni nyumba ya kutunzia vitabu. Ufalme ulihifadhi amri zake kwenye magombo katika nyumba za kumbukumbu katika zaidi ya mji mkuu mmoja; ndiyo sababu amri ya Koreshi ilipatikana katika ngome ya Ekbatana huko Umedi badala ya Babeli."
+        },
+        {
+          "term": "mawe yaliyochongwa",
+          "original": "Kigiriki: λίθος ξυστός (lithos xystos)",
+          "note": "Mawe yaliyokatwa na kusawazishwa machimboni, tofauti na mawe yasiyochongwa ya mashambani. Kubadilishana tabaka za mawe yaliyochongwa na mbao kulikuwa desturi ya majengo makubwa ya umma, na amri inataja hivyo."
+        },
+        {
+          "term": "sadaka ya kinywaji",
+          "original": "Kigiriki: σπονδή (sponde)",
+          "note": "Dhabihu ya divai inayomiminwa badala ya kunywewa. Dario anagharamia divai na mafuta ili sadaka za kinywaji na sala zitolewe kwa ajili yake na wanawe, tarajio la kudumu kwa hekalu linalotunzwa kwa fedha za ufalme."
+        }
+      ],
+      "keyTakeaway": "Katika mwaka wa pili wa Dario, Hagai na Zekaria wanatabiri, na Zerubabeli na Yoshua wanaanza tena kujenga. Sisinesi anamwandikia Dario, ambaye anaagiza kumbukumbu zichunguzwe; gombo la Koreshi linapatikana Ekbatana likiamuru nyumba ijengwe kwa gharama ya mfalme. Dario anagharamia kazi kwa kodi ya jimbo na kuweka adhabu ya kutundikwa kwa kuchomwa kwa anayeizuia."
+    },
+    {
+      "id": "1_esdras-7",
+      "title": "📜 1 Esdrasi 7",
+      "refs": [
+        "1 Esdras 7:1-15"
+      ],
+      "summaryBullets": [
+        "Kisha Sisinesi gavana wa Koile-Siria na Foinike, Sathrabuzanesi na washirika wao, wakifuata amri za Mfalme Dario, (7:1).",
+        "wakasimamia kazi takatifu kwa uangalifu mkubwa, wakiwasaidia wazee wa Wayahudi na maofisa wakuu wa hekalu. (7:2).",
+        "Kazi takatifu ikaendelea vizuri wakati manabii Hagai na Zekaria walipokuwa wakitabiri, (7:3).",
+        "nao wakaikamilisha kwa amri ya Bwana Mungu wa Israeli. Hivyo kwa idhini ya Koreshi, Dario na Artashasta, wafalme wa Waajemi, (7:4).",
+        "nyumba takatifu ikakamilika siku ya ishirini na tatu ya mwezi wa Adari, mwaka wa sita wa Mfalme Dario. (7:5).",
+        "Watu wa Israeli, makuhani, Walawi na wengine waliorudi kutoka uhamishoni na kujiunga nao walifanya kulingana na yaliyoandikwa katika kitabu cha Musa. (7:6).",
+        "Wakatoa katika kuweka wakfu hekalu la Bwana ng'ombe dume 100, kondoo dume 200 na wana-kondoo 400, (7:7).",
+        "na mbuzi dume 12 kwa ajili ya dhambi ya Israeli wote, kulingana na idadi ya viongozi 12 wa makabila ya Israeli, (7:8).",
+        "na makuhani na Walawi wakasimama wamevaa mavazi yao kwa zamu zao kwa ajili ya huduma ya Bwana Mungu wa Israeli kulingana na kitabu cha Musa; mabawabu walikuwa katika kila lango. (7:9).",
+        "Watu wa Israeli waliorudi kutoka uhamishoni waliadhimisha Pasaka siku ya kumi na nne ya mwezi wa kwanza, baada ya makuhani na Walawi kujitakasa pamoja. (7:10).",
+        "Si mateka wote waliorudi walikuwa wamejitakasa, lakini Walawi wote walijitakasa pamoja, (7:11).",
+        "nao wakamchinja mwana-kondoo wa Pasaka kwa ajili ya mateka wote waliorudi, ndugu zao makuhani na wao wenyewe. (7:12).",
+        "Watu wa Israeli waliorudi kutoka uhamishoni wakaila, yaani wote waliojitenga na machukizo ya mataifa ya nchi na kumtafuta Bwana. (7:13).",
+        "Pia waliadhimisha Sikukuu ya Mikate Isiyotiwa Chachu kwa siku saba, wakifurahi mbele ya Bwana, (7:14).",
+        "kwa sababu alikuwa amebadili nia ya mfalme wa Waashuru kuwahusu, ili kuimarisha mikono yao katika huduma ya Bwana Mungu wa Israeli. (7:15)."
+      ],
+      "crossRefs": [
+        "Ezra 6:13-22: Hekalu linakamilika katika mwaka wa sita wa Dario na Pasaka inaadhimishwa baadaye.",
+        "1 Wafalme 8:62-64: Sadaka za Sulemani katika kuwekwa wakfu kwa nyumba ya kwanza.",
+        "Hesabu 7:87-88: Sadaka za kuweka wakfu zinahesabiwa na viongozi 12 wa makabila.",
+        "Kutoka 12:1-11: Mwana-kondoo wa Pasaka anachinjwa siku ya kumi na nne ya mwezi wa kwanza.",
+        "Kutoka 12:15-20: Siku saba za mikate isiyotiwa chachu zinaamriwa pamoja na Pasaka."
+      ],
+      "translationNotes": [
+        {
+          "term": "Adari",
+          "original": "Kigiriki: Ἀδάρ (Adar)",
+          "note": "Mwezi wa kumi na mbili wa kalenda iliyotumika baada ya uhamisho, katika mwisho wa majira ya baridi, takriban Februari hadi Machi. Mwezi wa kwanza, ambamo Pasaka huadhimishwa, huanza wiki chache baadaye."
+        },
+        {
+          "term": "kwa ajili ya dhambi ya Israeli wote",
+          "original": "Kigiriki: περὶ ἁμαρτίας (peri hamartias)",
+          "note": "Msemo wa kawaida wa sadaka ya dhambi, mnyama anayetolewa kufunika kosa huku damu yake ikipakwa madhabahuni. Mbuzi 12, mmoja kwa kila kabila, wanahusu taifa zima badala ya mtu mmoja."
+        },
+        {
+          "term": "kujitakasa",
+          "original": "Kigiriki: καθαρίζω (katharizo)",
+          "note": "Utakaso wa kiibada: kuoga, kufua mavazi na kusubiri muda uliowekwa kabla ya mtu kushika vitu vitakatifu au kula Pasaka. Unahusu kufaa kukaribia patakatifu, si usafi wa mwili au maadili."
+        },
+        {
+          "term": "mfalme wa Waashuru",
+          "original": "Kigiriki: βασιλεὺς Ἀσσυρίων (basileus Assyrion)",
+          "note": "Ashuru, Babeli na Uajemi zilitawala kitovu hicho hicho cha kifalme kwa zamu, na jina la zamani liliendelea kutumiwa kwa dola kuu ya kaskazini mashariki. Hapa linamtaja mfalme ambaye nia yake ilibadilishwa kwa ajili ya wajenzi."
+        }
+      ],
+      "keyTakeaway": "Sisinesi na Sathrabuzanesi wanatekeleza amri za mfalme na kuwasaidia wazee; nyumba inakamilika siku ya ishirini na tatu ya Adari katika mwaka wa sita wa Dario. Wakati wa kuiweka wakfu wanatoa ng'ombe dume 100, kondoo dume 200, wana-kondoo 400 na mbuzi 12, mmoja kwa kila kabila; kisha wanaadhimisha Pasaka na siku saba za Mikate Isiyotiwa Chachu."
+    },
+    {
+      "id": "1_esdras-8",
+      "title": "📜 1 Esdrasi 8",
+      "refs": [
+        "1 Esdras 8:1-92"
+      ],
+      "summaryBullets": [
+        "Baada ya mambo hayo, Artashasta mfalme wa Waajemi alipokuwa akitawala, Ezra akaja, mwana wa Seraya, mwana wa Azaria, mwana wa Hilkia, mwana wa Shalumu, (8:1).",
+        "mwana wa Sadoki, mwana wa Ahitubu, mwana wa Amaria, mwana wa Uzi, mwana wa Buki, mwana wa Abishua, mwana wa Finehasi, mwana wa Eleazari, mwana wa Haruni kuhani mkuu. (8:2).",
+        "Ezra huyu alipanda kutoka Babeli akiwa mwandishi mwenye ujuzi wa sheria ya Musa iliyotolewa na Mungu wa Israeli, (8:3).",
+        "naye mfalme akamheshimu, kwa kuwa alipata kibali mbele ya mfalme katika maombi yake yote. (8:4).",
+        "Baadhi ya Waisraeli, makuhani, Walawi, waimbaji wa hekalu, mabawabu na watumishi wa hekalu wakapanda pamoja naye kwenda Yerusalemu, (8:5).",
+        "katika mwaka wa saba wa utawala wa Artashasta, mwezi wa tano, yaani mwaka wa saba wa mfalme; waliondoka Babeli wakati wa mwandamo wa mwezi wa kwanza na kufika Yerusalemu wakati wa mwandamo wa mwezi wa tano, kwa safari iliyofanikiwa ambayo Bwana aliwajalia. (8:6).",
+        "Ezra alikuwa na maarifa mengi, hata hakuacha jambo lolote la sheria au amri za Bwana, bali aliwafundisha Waisraeli wote maagizo na hukumu zote. (8:7).",
+        "Ifuatayo ni nakala ya amri ya maandishi kutoka kwa Mfalme Artashasta iliyokabidhiwa Ezra kuhani na msomaji wa sheria ya Bwana: (8:8).",
+        "“Mfalme Artashasta kwa Ezra kuhani na msomaji wa sheria ya Bwana, salamu. (8:9).",
+        "Kulingana na uamuzi wangu wa neema, nimeagiza kwamba watu wa taifa la Wayahudi, makuhani, Walawi na wengine katika ufalme wetu ambao kwa hiari yao wanataka kwenda pamoja nawe Yerusalemu waruhusiwe kufanya hivyo. (8:10).",
+        "Basi wote walio na nia hiyo waondoke pamoja nawe, kama mimi na Marafiki saba ambao ni washauri wangu tulivyoamua, (8:11).",
+        "ili kuchunguza mambo ya Yudea na Yerusalemu kulingana na yaliyo katika sheria ya Bwana, (8:12).",
+        "na kupeleka Yerusalemu zawadi kwa Bwana wa Israeli ambazo mimi na Marafiki zangu tumeweka nadhiri, na kukusanya kwa ajili ya Bwana huko Yerusalemu dhahabu na fedha zote zitakazopatikana katika eneo la Babeli, pamoja na zile zinazotolewa na taifa kwa hekalu la Bwana wao lililo Yerusalemu, (8:13).",
+        "dhahabu na fedha kwa ajili ya ng'ombe dume, kondoo dume, wana-kondoo na vitu vinavyoambatana navyo, (8:14).",
+        "ili kutoa dhabihu juu ya madhabahu ya Bwana wao huko Yerusalemu. (8:15).",
+        "Chochote ambacho wewe na jamaa zako mnataka kufanya kwa dhahabu na fedha hizo, kifanyeni kulingana na mapenzi ya Mungu wenu; (8:16).",
+        "kabidhini vyombo vitakatifu vya Bwana mlivyopewa kwa matumizi ya hekalu la Mungu wenu lililo Yerusalemu. Na kitu kingine chochote mnachoona kinahitajika kwa hekalu la Mungu wenu, (8:17).",
+        "mnaweza kukitoa kutoka hazina ya kifalme. (8:18).",
+        "“Mimi, Mfalme Artashasta, nimewaamuru watunza hazina wa Siria na Foinike kwamba chochote Ezra kuhani na msomaji wa sheria ya Mungu Aliye Juu Sana atakachoomba, wahakikishe wanampa, hadi talanta 100 za fedha, (8:19).",
+        "na pia hadi kori 100 za ngano, bathi 100 za divai na chumvi nyingi. (8:20).",
+        "Yote yaliyoagizwa katika sheria ya Mungu yatimizwe kwa uangalifu kwa ajili ya Mungu Aliye Juu Sana, ili ghadhabu isije juu ya ufalme wa mfalme na wanawe. (8:21).",
+        "Pia mnaambiwa kwamba makuhani, Walawi, waimbaji wa hekalu, mabawabu, watumishi wa hekalu na watu wanaofanya kazi katika hekalu hili wasitozwe kodi ya ushuru wala kodi nyingine yoyote, na hakuna mwenye mamlaka ya kuwatoza. (8:22).",
+        "“Na wewe Ezra, kulingana na hekima ya Mungu, weka waamuzi na mahakimu wawahukumu wote wanaoijua sheria ya Mungu wako katika Siria na Foinike yote, nao wasioijua uwafundishe. (8:23).",
+        "Wote wanaovunja sheria ya Mungu wako au sheria ya ufalme waadhibiwe vikali, iwe kwa kifo au adhabu nyingine, kwa faini au kifungo.” (8:24).",
+        "Kisha Ezra mwandishi akasema, “Abarikiwe Bwana peke yake, aliyeweka hili moyoni mwa mfalme ili kuitukuza nyumba yake iliyoko Yerusalemu, (8:25).",
+        "naye amenipa heshima mbele ya mfalme, washauri wake, Marafiki zake wote na wakuu. (8:26).",
+        "Nilitiwa moyo kwa msaada wa Bwana Mungu wangu, nikawakusanya wanaume wa Israeli wapande pamoja nami.” (8:27).",
+        "Hawa ndio viongozi, kulingana na nyumba za baba zao na makundi yao, waliopanda pamoja nami kutoka Babeli wakati wa utawala wa Mfalme Artashasta: (8:28).",
+        "Miongoni mwa wazao wa Finehasi, Gershomu. Miongoni mwa wazao wa Ithamari, Gamaeli. Miongoni mwa wazao wa Daudi, Hatushi mwana wa Shekania. (8:29).",
+        "Miongoni mwa wazao wa Paroshi, Zekaria, pamoja naye wanaume 150 walioandikishwa. (8:30).",
+        "Miongoni mwa wazao wa Pahathi-moabu, Eliehoenai mwana wa Zerahia, pamoja naye wanaume 200. (8:31).",
+        "Miongoni mwa wazao wa Zatu, Shekania mwana wa Yahazieli, pamoja naye wanaume 300. Miongoni mwa wazao wa Adini, Obedi mwana wa Yonathani, pamoja naye wanaume 250. (8:32).",
+        "Miongoni mwa wazao wa Elamu, Yeshaya mwana wa Gotholia, pamoja naye wanaume 70. (8:33).",
+        "Miongoni mwa wazao wa Shefatia, Zeraya mwana wa Mikaeli, pamoja naye wanaume 70. (8:34).",
+        "Miongoni mwa wazao wa Yoabu, Obadia mwana wa Yehieli, pamoja naye wanaume 212. (8:35).",
+        "Miongoni mwa wazao wa Bani, Shelomithi mwana wa Yosifia, pamoja naye wanaume 160. (8:36).",
+        "Miongoni mwa wazao wa Bebai, Zekaria mwana wa Bebai, pamoja naye wanaume 28. (8:37).",
+        "Miongoni mwa wazao wa Azgadi, Yohanani mwana wa Hakatani, pamoja naye wanaume 110. (8:38).",
+        "Miongoni mwa wazao wa Adonikamu, wa mwisho, majina yao Elifeleti, Yeueli na Shemaya, pamoja nao wanaume 70. (8:39).",
+        "Miongoni mwa wazao wa Bigvai, Uthai mwana wa Istalkurusi, pamoja naye wanaume 70. (8:40).",
+        "Niliwakusanya kwenye mto uitwao Theras, nasi tukapiga kambi hapo kwa siku tatu; nikawachunguza. (8:41).",
+        "Nilipogundua kwamba hawakuwapo wazao wa makuhani au Walawi miongoni mwao, (8:42).",
+        "nilituma ujumbe kwa Eleazari, Idueli, Maasma, Elnathani, Shemaya, Yaribu, Nathani, Elnathani, Zekaria na Meshulamu, ambao walikuwa viongozi na watu wenye ufahamu; (8:43).",
+        "niliwaambia waende kwa Ido, kiongozi katika eneo la hazina, (8:44).",
+        "na kuwaagiza wamwambie Ido, jamaa zake na watunza hazina wa mahali hapo watutumie wanaume wa kuhudumu kama makuhani katika nyumba ya Bwana wetu. (8:45).",
+        "Kwa mkono wenye nguvu wa Bwana wetu wakatuletea watu wenye uwezo kutoka kwa wazao wa Mahli mwana wa Lawi, mwana wa Israeli, yaani Sherebia pamoja na wazao na jamaa zake, watu 18; (8:46).",
+        "pia Hashabia, Anunusi na nduguye Yeshaya, wa wazao wa Hanania, pamoja na wazao wao, wanaume 20; (8:47).",
+        "na miongoni mwa watumishi wa hekalu ambao Daudi na viongozi walikuwa wamewatoa kwa ajili ya huduma ya Walawi, watumishi wa hekalu 220; orodha ya majina yao yote ilitolewa. (8:48).",
+        "Hapo nilitangaza mfungo kwa vijana mbele ya Bwana wetu, (8:49).",
+        "ili tumwombe atupe safari yenye mafanikio sisi, watoto wetu na mifugo tuliokuwa nayo. (8:50).",
+        "Kwa maana niliona aibu kumwomba mfalme askari wa miguu, wapanda farasi na msafara wa ulinzi ili kutulinda dhidi ya maadui zetu, (8:51).",
+        "kwa kuwa tulikuwa tumemwambia mfalme, “Nguvu za Bwana wetu zitakuwa pamoja na wale wanaomtafuta na kuwasaidia kwa kila njia.” (8:52).",
+        "Tukamwomba tena Bwana wetu kuhusu mambo hayo, tukamwona mwenye rehema nyingi. (8:53).",
+        "Kisha nikawatenga viongozi 12 wa makuhani, Sherebia na Hashabia pamoja na jamaa zao wengine kumi, (8:54).",
+        "nikawapimia fedha, dhahabu na vyombo vitakatifu vya nyumba ya Bwana wetu ambavyo mfalme mwenyewe, washauri wake, wakuu na Waisraeli wote walikuwa wametoa. (8:55).",
+        "Nikawapimia na kuwapa talanta 650 za fedha, vyombo vya fedha vyenye thamani ya talanta 100, talanta 100 za dhahabu, mabakuli 20 ya dhahabu na vyombo 12 vya shaba bora iliyong'aa kama dhahabu. (8:56).",
+        "Nikawaambia, “Ninyi ni watakatifu kwa Bwana, vyombo hivi ni vitakatifu, na fedha na dhahabu zimewekwa nadhiri kwa Bwana, Bwana wa baba zetu. (8:57).",
+        "Iweni macho na mvilinde hadi mtakapovikabidhi kwa viongozi wa makuhani na Walawi na wakuu wa nyumba za baba zao za Israeli huko Yerusalemu, katika vyumba vya nyumba ya Bwana wetu.” (8:58).",
+        "Basi makuhani na Walawi waliochukua fedha, dhahabu na vyombo vilivyokuwa Yerusalemu wakavipeleka katika hekalu la Bwana. (8:59).",
+        "Tuliondoka Mto Theras siku ya kumi na mbili ya mwezi wa kwanza na kufika Yerusalemu kwa mkono wenye nguvu wa Bwana wetu uliokuwa juu yetu; alituokoa kutoka kwa kila adui njiani, nasi tukafika Yerusalemu. (8:60).",
+        "Tulipokuwa huko siku tatu, fedha na dhahabu vikapimwa na kukabidhiwa katika nyumba ya Bwana wetu kwa kuhani Meremothi mwana wa Uria; (8:61).",
+        "pamoja naye alikuwapo Eleazari mwana wa Finehasi, na pamoja nao Yozabadi mwana wa Yoshua na Moethi mwana wa Binui, Walawi. Vyote vilihesabiwa na kupimwa, na uzito wa kila kitu ukaandikwa wakati huohuo. (8:62).",
+        "Waliorudi kutoka uhamishoni wakamtolea Bwana Mungu wa Israeli dhabihu: ng'ombe dume 12 kwa ajili ya Israeli wote, kondoo dume 96, wana-kondoo 72, na mbuzi dume 12 kama sadaka ya shukrani; vyote vilikuwa dhabihu kwa Bwana. (8:63).",
+        "Wakawasilisha amri za mfalme kwa mawakili wa kifalme na magavana wa Koile-Siria na Foinike, nao maofisa hao wakaliheshimu taifa na hekalu la Bwana. (8:64).",
+        "Baada ya mambo hayo kufanyika, viongozi wakanijia na kusema, (8:65).",
+        "“Taifa la Israeli, watawala, makuhani na Walawi hawajajitenga na mataifa ya kigeni ya nchi na uchafu wao, Wakanaani, Wahiti, Waperizi, Wayebusi, Wamoabu, Wamisri na Waedomu. (8:66).",
+        "Kwa maana wao na wana wao wamewaoa binti za watu hawa, na uzao mtakatifu umechanganyika na mataifa ya kigeni ya nchi; tangu mwanzo wa jambo hili viongozi na wakuu wameshiriki katika uovu huu.” (8:67).",
+        "Mara niliposikia mambo hayo, nikararua mavazi yangu na mavazi yangu matakatifu, nikang'oa nywele za kichwa na ndevu zangu, nikaketi kwa wasiwasi na huzuni. (8:68).",
+        "Wote walioguswa na neno la Bwana wa Israeli wakakusanyika karibu nami nilipokuwa nikiombolezea uovu huo, nami nikakaa katika huzuni mpaka dhabihu ya jioni. (8:69).",
+        "Kisha nikainuka kutoka mfungoni, mavazi yangu na mavazi yangu matakatifu yakiwa yameraruka, nikapiga magoti, nikanyoosha mikono yangu kwa Bwana na kusema, (8:70).",
+        "“Ewe Bwana, nina aibu na nimefedheheka mbele yako. (8:71).",
+        "Kwa maana dhambi zetu zimepanda juu kuliko vichwa vyetu, na makosa yetu yamefika mbinguni (8:72).",
+        "tangu siku za baba zetu, nasi tuko katika dhambi kubwa hadi leo. (8:73).",
+        "Kwa sababu ya dhambi zetu na za baba zetu, sisi, jamaa zetu, wafalme wetu na makuhani wetu tulikabidhiwa kwa wafalme wa dunia, kwa upanga, uhamisho na uporaji, katika aibu hadi leo. (8:74).",
+        "Na sasa, ewe Bwana, kiasi fulani cha rehema kimetoka kwako na kutuachia mzizi na jina katika mahali pako patakatifu (8:75).",
+        "na kutufunulia nuru katika nyumba ya Bwana Mungu wetu na kutupa chakula katika utumwa wetu. Hata katika kifungo chetu Bwana wetu hakutuacha, (8:76).",
+        "bali alitupa kibali mbele ya wafalme wa Waajemi, hata wakatupa chakula (8:77).",
+        "na kulitukuza hekalu la Bwana wetu na kuuinua Sayuni kutoka ukiwa, ili kutupa ngome Yudea na Yerusalemu. (8:78).",
+        "“Na sasa, ewe Bwana, tuseme nini tunapokuwa na mambo haya? Kwa maana tumevunja amri zako ulizotupa kupitia watumishi wako manabii, ukisema, (8:79).",
+        "‘Nchi mnayoingia kuimiliki ni nchi iliyotiwa unajisi na uchafu wa wageni wa nchi; wameijaza uchafu wao. (8:80).",
+        "Kwa hiyo msiwatoe binti zenu kuolewa na wana wao, wala msiwaoe binti zao kwa ajili ya wana wenu; (8:81).",
+        "msitafute kamwe kuwa na amani nao, ili mpate kuwa na nguvu, kula mema ya nchi na kuwaachia watoto wenu urithi wake milele.’ (8:82).",
+        "Yote yaliyotupata yametokana na matendo yetu maovu na dhambi zetu kubwa. Kwa maana wewe, ewe Bwana, ulitupunguzia mzigo wa dhambi zetu (8:83).",
+        "na kutupa mzizi huu, lakini tukarudia tena kuivunja sheria yako kwa kuchanganyika na uchafu wa mataifa ya nchi. (8:84).",
+        "Je, hukutukasirikia vya kutosha kutuangamiza bila kuacha mzizi, uzao au jina? (8:85).",
+        "Ewe Bwana wa Israeli, wewe ni mwaminifu, kwa maana tumeachwa kama mzizi hadi leo. (8:86).",
+        "Tazama, sasa tuko mbele yako katika maovu yetu; hatuwezi tena kusimama mbele zako kwa sababu ya mambo haya.” (8:87).",
+        "Ezra alipokuwa akisali na kuungama, akilia na kulala chini mbele ya hekalu, umati mkubwa sana wa wanaume, wanawake na vijana kutoka Yerusalemu ukakusanyika karibu naye, kwa kuwa umati ulilia sana. (8:88).",
+        "Kisha Shekania mwana wa Yehieli, mmoja wa wanaume wa Israeli, akamwita Ezra akasema, “Tumemtendea Bwana dhambi kwa kuoa wanawake wa kigeni kutoka mataifa ya nchi, lakini hata sasa kuna tumaini kwa Israeli. (8:89).",
+        "Na tuweke kiapo kwa Bwana kuhusu jambo hili, kwamba tutawaacha wake zetu wote wa kigeni pamoja na watoto wao, kama unavyoona inafaa wewe na wote wanaoitii sheria ya Bwana. (8:90).",
+        "Inuka uchukue hatua, kwa maana hili ni jukumu lako, nasi tuko pamoja nawe kulitekeleza kwa nguvu.” (8:91).",
+        "Kisha Ezra akainuka na kuwafanya viongozi wa makuhani na Walawi wa Israeli wote waape kwamba watafanya hivyo. Nao wakaapa. (8:92)."
+      ],
+      "crossRefs": [
+        "Ezra 7:1-10: Ukoo wa Ezra kutoka kwa Haruni na safari yake katika mwaka wa saba wa Artashasta.",
+        "Ezra 8:21-23: Mfungo uliotangazwa mtoni bila kuomba ulinzi wa mfalme.",
+        "Ezra 8:24-30: Fedha, dhahabu na vyombo vinapimwa na kukabidhiwa viongozi 12 wa makuhani.",
+        "Ezra 9:1-15: Taarifa ya ndoa na wanawake wa kigeni, vazi lililoraruliwa na maungamo ya Ezra.",
+        "Kumbukumbu La Torati 7:1-4: Waisraeli wanakatazwa kuwapa wana wa mataifa ya nchi binti zao au kuwaoa binti wa mataifa hayo."
+      ],
+      "translationNotes": [
+        {
+          "term": "mwandishi",
+          "original": "Kigiriki: γραμματεύς (grammateus)",
+          "note": "Si mtu wa kunakili tu, bali katibu na afisa wa sheria. Ezra ana mamlaka kutoka kwa mfalme, kwa hiyo ujuzi wake wa sheria unaambatana na mamlaka ya kuweka waamuzi na kutekeleza hukumu katika jimbo."
+        },
+        {
+          "term": "kori na bathi",
+          "original": "Kigiriki: κόρος (koros), βάτος (batos)",
+          "note": "Vipimo vya ujazo. Kori ni kipimo cha vitu vikavu cha takriban busheli 6.5 za nafaka; bathi ni kipimo sawia cha vinywaji, karibu galoni 6. Yote mawili ni maumbo ya Kigiriki ya vipimo vya zamani vilivyotumiwa Israeli."
+        },
+        {
+          "term": "Marafiki saba ambao ni washauri wangu",
+          "original": "Kigiriki: φίλοι (philoi)",
+          "note": "Rafiki kilikuwa cheo rasmi ikulu, si maelezo ya upendo. Washauri saba waliunda baraza la ndani la kudumu la mfalme wa Uajemi, kundi hilo hilo la saba linaloonekana katika kitabu cha Esta."
+        },
+        {
+          "term": "nikararua mavazi yangu",
+          "original": "Kigiriki: διαρρήγνυμι τὰ ἱμάτια (diarregnymi ta himatia)",
+          "note": "Ishara ya hadharani iliyotambuliwa ya huzuni au ghadhabu, kwa kurarua vazi shingoni. Kung'oa nywele za kichwa na ndevu kulifikisha ishara hiyo katika kiwango chake cha juu kabisa."
+        }
+      ],
+      "keyTakeaway": "Ezra kuhani na mwandishi anapanda kutoka Babeli katika mwaka wa saba wa Artashasta, akiwa na amri inayotoa fedha, msamaha wa kodi kwa watumishi wa hekalu na mamlaka ya mahakama. Anafunga karibu na Mto Theras na kuwapimia makuhani 12 fedha, dhahabu na vyombo. Anapoambiwa kwamba watu wameoa wanawake wa kigeni, anararua mavazi yake, anaungama na kuwaapisha viongozi."
+    },
+    {
+      "id": "1_esdras-9",
+      "title": "📜 1 Esdrasi 9",
+      "refs": [
+        "1 Esdras 9:1-55"
+      ],
+      "summaryBullets": [
+        "Kisha Ezra akaondoka katika ua wa hekalu na kwenda kwenye chumba cha Yehohanani mwana wa Eliashibu (9:1).",
+        "Akakaa huko usiku kucha bila kula mkate wala kunywa maji, kwa kuwa alikuwa akiombolezea maovu makubwa ya umati. (9:2).",
+        "Tangazo likatolewa katika Yudea yote na Yerusalemu kwa wote waliorudi kutoka uhamishoni wakusanyike Yerusalemu (9:3).",
+        "na kwamba yeyote ambaye hangekusanyika huko ndani ya siku mbili au tatu, kulingana na uamuzi wa wazee watawala, mifugo yake ingetwaliwa kwa dhabihu naye mwenyewe angefukuzwa kutoka kwa umati wa waliorudi kutoka utumwani. (9:4).",
+        "Wanaume wa makabila ya Yuda na Benyamini wakakusanyika Yerusalemu ndani ya siku tatu; ilikuwa mwezi wa tisa, siku ya ishirini ya mwezi huo. (9:5).",
+        "Umati wote ukaketi katika uwanja wa wazi mbele ya hekalu, wakitetemeka kwa sababu ya hali mbaya ya hewa. (9:6).",
+        "Kisha Ezra akasimama na kuwaambia, “Mmeivunja sheria kwa kuoa wanawake wa kigeni, na hivyo mmeongeza dhambi ya Israeli. (9:7).",
+        "Basi sasa ungameni na kumtukuza Bwana Mungu wa baba zetu (9:8).",
+        "na mfanye mapenzi yake; jitengeni na mataifa ya nchi na wake zenu wa kigeni.” (9:9).",
+        "Umati wote wakapaza sauti kubwa na kusema, “Tutafanya kama ulivyosema. (9:10).",
+        "Lakini umati ni mkubwa, ni majira ya baridi, nasi hatuwezi kusimama nje. Hii si kazi ya siku moja au mbili, kwa maana tumetenda dhambi nyingi sana katika mambo haya. (9:11).",
+        "Kwa hiyo viongozi wa umati wabaki, na wote walio na wake wa kigeni katika makazi yetu waje kwa wakati uliopangwa (9:12).",
+        "pamoja na wazee na waamuzi wa kila mahali, mpaka tuondokane na ghadhabu ya Bwana kuhusu jambo hili.” (9:13).",
+        "Yonathani mwana wa Asaheli na Yahazia mwana wa Tikva wakachukua jukumu hilo kwa masharti haya, nao Meshulamu, Lawi na Shabethai wakahudumu pamoja nao kama waamuzi. (9:14).",
+        "Waliorudi kutoka uhamishoni wakafanya kulingana na hayo yote. (9:15).",
+        "Ezra kuhani akawachagua viongozi wa nyumba za baba zao, wote kwa majina, na katika mwandamo wa mwezi wa kumi wakaanza vikao vya kuchunguza jambo hilo. (9:16).",
+        "Kesi za wanaume wenye wake wa kigeni zikamalizika kufikia mwandamo wa mwezi wa kwanza. (9:17).",
+        "Miongoni mwa makuhani, waliofikishwa na kugundulika kuwa na wake wa kigeni walikuwa: (9:18).",
+        "kati ya wazao wa Yoshua mwana wa Yosadaki na jamaa zake, Maaseya, Eliezari, Yaribu na Yodani. (9:19).",
+        "Wakaahidi kuwaacha wake zao na kutoa kondoo dume kama sadaka ya upatanisho kwa kosa lao. (9:20).",
+        "Miongoni mwa wazao wa Imeri: Hanani, Zebadia, Maaseya, Shemaya, Yehieli na Azaria. (9:21).",
+        "Miongoni mwa wazao wa Pashuri: Elioenai, Maaseya, Ishmaeli, Nathanaeli, Gedalia na Salthasi. (9:22).",
+        "Miongoni mwa Walawi: Yozabadi, Shimei, Kelaya aitwaye Kelita, Pethahia, Yuda na Yona. (9:23).",
+        "Miongoni mwa waimbaji wa hekalu: Eliashibu na Zakuri. (9:24).",
+        "Miongoni mwa mabawabu: Shalumu na Telemu. (9:25).",
+        "Miongoni mwa Israeli, wazao wa Paroshi: Ramia, Izia, Malkia, Miyamini, Eleazari, Asibia na Benaya. (9:26).",
+        "Miongoni mwa wazao wa Elamu: Matania, Zekaria, Yezrielusi, Abdi, Yeremothi na Eliya. (9:27).",
+        "Miongoni mwa wazao wa Zamothi: Eliada, Eliashibu, Othonia, Yeremothi, Zabadi na Zerdaya. (9:28).",
+        "Miongoni mwa wazao wa Bebai: Yehohanani, Hanania, Zabai na Emathisi. (9:29).",
+        "Miongoni mwa wazao wa Mani: Olamusi, Mamukusi, Adaya, Yashubu, Sheali na Yeremothi. (9:30).",
+        "Miongoni mwa wazao wa Adi: Naathusi, Moosia, Lakunusi, Naidusi, Beskaspasmisi, Sestheli, Belnuusi na Manasea. (9:31).",
+        "Miongoni mwa wazao wa Anani: Eliona, Asaya, Melkia, Sabaya na Simoni Kosamaeusi. (9:32).",
+        "Miongoni mwa wazao wa Hashumu: Matenai, Matata, Zabadi, Elifeleti, Manase na Shimei. (9:33).",
+        "Miongoni mwa wazao wa Bani: Yeremai, Momdiusi, Maerusi, Yoeli, Mamdai, Bedeya, Vania, Karabasioni, Eliashibu, Mamitanemusi, Eliasisi, Binui, Eliali, Shimei, Shelemia na Nethania. Miongoni mwa wazao wa Ezora: Shashai, Azareli, Azaeli, Samatusi, Zambrisi na Yusufu. (9:34).",
+        "Miongoni mwa wazao wa Nooma: Mazitia, Zabadi, Ido, Yoeli na Benaya. (9:35).",
+        "Wote hawa walikuwa wameoa wanawake wa kigeni, nao wakawaacha pamoja na watoto wao. (9:36).",
+        "Makuhani, Walawi na Waisraeli wakakaa Yerusalemu na katika eneo lake. Katika mwandamo wa mwezi wa saba, watu wa Israeli walipokuwa katika makazi yao, (9:37).",
+        "umati wote wakakusanyika kwa nia moja katika uwanja wa wazi mbele ya lango la mashariki la hekalu; (9:38).",
+        "wakamwambia Ezra kuhani mkuu na msomaji alete sheria ya Musa ambayo Bwana Mungu wa Israeli alikuwa ameitoa. (9:39).",
+        "Basi Ezra kuhani mkuu akaileta sheria ili umati wote, wanaume, wanawake na makuhani wote, waisikie katika mwandamo wa mwezi wa saba. (9:40).",
+        "Akaisoma kwa sauti katika uwanja wa wazi mbele ya lango la hekalu kuanzia asubuhi na mapema hadi adhuhuri, mbele ya wanaume na wanawake; umati wote ukasikiliza sheria kwa makini. (9:41).",
+        "Ezra kuhani na msomaji wa sheria akasimama juu ya jukwaa la mbao lililokuwa limeandaliwa, (9:42).",
+        "na karibu naye upande wa kuume wakasimama Matathia, Shema, Anania, Azaria, Uria, Hezekia na Baalsamusi, (9:43).",
+        "na upande wa kushoto Pedaya, Mishaeli, Malkia, Lothasubusi, Nabaria na Zekaria. (9:44).",
+        "Kisha Ezra akakiinua kitabu cha sheria mbele ya umati, kwa kuwa alikuwa mahali pa heshima mbele ya wote. (9:45).",
+        "Alipoifungua sheria, wote wakasimama wima. Ezra akambariki Bwana Mungu Aliye Juu Sana, Mungu wa majeshi, Mwenyezi, (9:46).",
+        "na umati ukajibu, “Amina.” Wakainua mikono yao, wakaanguka chini na kumwabudu Mungu. (9:47).",
+        "Yoshua, Aniuthi, Sherebia, Yadinusi, Akubu, Shabethai, Hodia, Maiana, Kelita, Azaria, Yozabadi, Hanani na Pelaya, Walawi, waliifundisha sheria ya Bwana huku wakifafanua yaliyosomwa. (9:48).",
+        "Kisha Atharatesi akamwambia Ezra kuhani mkuu na msomaji, Walawi waliokuwa wakiufundisha umati, na watu wote, (9:49).",
+        "“Siku hii ni takatifu kwa Bwana”, kwa maana wote walikuwa wakilia walipoisikia sheria, (9:50).",
+        "“kwa hiyo nendeni, mle chakula kinono na kunywa kinywaji kitamu, mkawapelekee sehemu wale wasio na chochote, (9:51).",
+        "kwa kuwa siku hii ni takatifu kwa Bwana; msihuzunike, maana Bwana atawainua.” (9:52).",
+        "Walawi wakawaamuru watu wote, wakisema, “Siku hii ni takatifu; msihuzunike.” (9:53).",
+        "Basi wote wakaenda kula, kunywa, kufurahi na kuwapa sehemu wale wasio na chochote, wakasherehekea sana, (9:54).",
+        "kwa sababu walitiwa moyo na maneno waliyofundishwa. Nao wakakusanyika pamoja. (9:55)."
+      ],
+      "crossRefs": [
+        "Ezra 10:1-17: Mkutano katika mvua na kamati iliyowekwa kuchunguza ndoa.",
+        "Nehemia 8:1-8: Ezra anasoma sheria juu ya jukwaa la mbao huku Walawi wakieleza maana yake.",
+        "Nehemia 8:9-12: Watu wanaambiwa siku ni takatifu, wale, wanywe na kutuma sehemu kwa wengine.",
+        "Kumbukumbu La Torati 31:10-13: Sheria inaagizwa kusomwa kwa sauti kwa wanaume, wanawake na watoto.",
+        "Mambo Ya Walawi 5:15-16: Kondoo dume huletwa kama fidia kwa kosa katika mambo matakatifu."
+      ],
+      "translationNotes": [
+        {
+          "term": "mwandamo wa mwezi",
+          "original": "Kigiriki: νουμηνία (noumenia)",
+          "note": "Siku ya kwanza ya mwezi, inayohesabiwa tangu kuonekana kwa mwezi mpya. Tarehe kama mwandamo wa mwezi wa kumi hutaja siku ambayo mwezi huo unaanza, si majira ya mwaka."
+        },
+        {
+          "term": "jukwaa la mbao",
+          "original": "Kigiriki: βῆμα (bema)",
+          "note": "Mahali pa kusimama palipoinuliwa kwa ajili ya tukio hilo ili msemaji aonekane na kusikika kwa umati uliosimama. Neno hilo hilo hutaja kiti cha hukumu katika mji wa Kigiriki, kama katika Matendo 18:12."
+        },
+        {
+          "term": "kufafanua yaliyosomwa",
+          "original": "Kigiriki: ἀνάγνωσις (anagnosis)",
+          "note": "Anagnosis ni usomaji wa hadharani kwa sauti. Walawi hawakusoma tu; waligawa maandishi katika sehemu na kuwaeleza watu maana yake, jambo lililokuwa muhimu baada ya uhamisho wakati Kiaramu kilipokuwa lugha ya kila siku ya wengi."
+        },
+        {
+          "term": "kula chakula kinono na kunywa kinywaji kitamu",
+          "original": "Kigiriki: λιπάσματα καὶ γλυκάσματα (lipasmata kai glykasmata)",
+          "note": "Chakula chenye utajiri na kinywaji kitamu. Maneno hayo mawili ni msemo wa mlo wa sikukuu, si majina ya vyakula maalumu; kuwapelekea sehemu wale wasiokuwa na chochote kulifanya chakula hicho kuwa cha wote."
+        }
+      ],
+      "keyTakeaway": "Ezra anaomboleza usiku kucha na kuwaita wahamishwa; wanakusanyika ndani ya siku tatu na kuketi wakitetemeka uwanjani anapowaamuru waache wake zao wa kigeni. Kamati inasikiliza kesi wakati wote wa majira ya baridi, na waliotajwa wanatii. Katika mwezi wa saba Ezra anaisoma sheria akiwa juu ya jukwaa la mbao, Walawi wanaifafanua, na watu wanaolia wanaambiwa siku hiyo ni takatifu."
+    }
+  ],
+  "intro": "1 Esdrasi hakimtaji mwandishi wake, na hakuna mamlaka ya kale iliyemtaja mwandishi mmoja. Kitabu hiki ni simulizi la Kigiriki linaloshughulikia matukio yale yale ya 2 Mambo ya Nyakati 35-36, Ezra, na Nehemia 7:73-8:12. Kigiriki chake kina mtiririko huru na wa kawaida, ilhali Kigiriki cha Ezra-Nehemia ni kigumu na cha kutafsiri neno kwa neno; hii ni alama ya mtafsiri aliyefanya kazi kutoka vyanzo vya Kiebrania na Kiaramu, badala ya mwandishi aliyetunga moja kwa moja kwa Kigiriki. Maandishi yalikuwa yamekamilika kufikia mwaka 93 au 94 baada ya Kristo, wakati Yosefo alipofuata 1 Esdrasi badala ya Ezra-Nehemia ya Kigiriki katika *Mambo ya Kale ya Wayahudi* 11.1-158 na kukichukulia kama Maandiko. Augustino alitumia kitabu hiki katika *Mji wa Mungu* 18.36 (takriban mwaka 426 baada ya Kristo), akisoma uamuzi wa kijana wa tatu kwamba ukweli una nguvu kuliko vyote kuwa unamwelekezea Kristo, ambaye ndiye Ukweli.\n\nSimulizi linaanzia Pasaka ya Yosia hadi Ezra anapoisoma Sheria. Sura ya 1 inalingana na 2 Mambo ya Nyakati 35:1-36:21: Pasaka iliyoandaliwa katika mwaka wa kumi na nane wa Yosia (1:20), kifo chake kutokana na majeraha aliyopata akipambana na Farao huko Megido, kuchomwa kwa hekalu na miaka sabini ya sabato ya nchi. Sura ya 2 ina amri ya Koreshi na vyombo vilivyotumwa kupitia mtunza hazina Mithridatesi kwa Sheshbaza (Ezra 1), kisha barua za Rehumu na mwandishi Shimshai kwa Artashasta zinazositisha kazi (Ezra 4:7-24). Kuanzia 5:7 hadi 7:15 kitabu kinafuata Ezra 2:1-6:22: orodha ya wahamishwa waliorudi, Sikukuu ya Vibanda, mahubiri ya Hagai na Zekaria, gombo la Koreshi lililopatikana katika kumbukumbu za Ekbatana na nyumba iliyokamilika siku ya ishirini na tatu ya Adari katika mwaka wa sita wa Dario (7:5). Sura za 8:1-9:36 zinalingana na Ezra 7-10, safari ya Ezra kutoka Babeli katika mwaka wa saba wa Artashasta (8:6) na suala la wake wa kigeni. Kisha 9:37-55 inalingana na Nehemia 7:73-8:12, ambako Ezra anaisoma sheria akiwa juu ya jukwaa la mbao, na Walawi wanaifafanua. Kitabu kinakoma katikati ya simulizi hilo kwenye 9:55, bila kuendelea hadi Nehemia 8:13. Sehemu moja ndefu haina kifungu chochote cha Kiebrania kinacholingana nayo: shindano la walinzi watatu wa Mfalme Dario (3:1-5:6). Kila mmoja anaandika jibu lake kuhusu kilicho na nguvu zaidi, analifunga kwa muhuri na kuliweka chini ya mto wa mfalme aliyelala. Wa kwanza anasema divai, wa pili mfalme, na wa tatu, Zerubabeli, anatetea wanawake kisha anasema ukweli ni mkuu kuliko vyote; mkutano unapaza sauti, “Ukweli ni mkuu na una nguvu kuliko vyote!” (4:41). Alipoahidiwa chochote anachoomba, Zerubabeli anamwomba Dario atimize nadhiri aliyoweka siku aliyokuwa mfalme, ya kuijenga Yerusalemu upya na kurudisha vyombo vyake (4:43-46). Mpangilio wa habari pia unatofautiana na Ezra. Ukisomwa kwa mfululizo, 1 Esdrasi inaweka barua za Artashasta (2:15-30) kabla ya utawala wa Dario, badala ya baada yake kama ilivyo Ezra 4:7-24, na inaweka shindano na ruhusa ya mfalme kabla ya orodha ya wahamishwa waliorudi, badala ya mara baada ya amri ya Koreshi. Mpangilio huo unajengwa kuzunguka shindano lililo katikati, huku kurudi kwa wahamishwa kukisimuliwa pande zote mbili.\n\nMatukio yanachukua kipindi cha takriban mwaka 622 hadi 458 kabla ya Kristo. Pasaka ya Yosia ilikuwa mwaka 622 kabla ya Kristo, wakati Ashuru ilipokuwa ikiporomoka na Farao Neko kuelekea Mto Frati; Yosia alikufa Megido mwaka 609 kabla ya Kristo. Yerusalemu ilianguka mikononi mwa Nebukadneza na hekalu kuchomwa mwaka 586 kabla ya Kristo. Koreshi aliteka Babeli na kutoa amri yake mwaka 538 kabla ya Kristo, hekalu likakamilika katika mwaka wa sita wa Dario wa Kwanza mwaka 516 kabla ya Kristo, naye Ezra akapanda katika mwaka wa saba wa Artashasta wa Kwanza mwaka 458 kabla ya Kristo. Kurudi kote kulitokea ndani ya Dola ya Waajemi ya Waakemenidi.\n\nMajina ndiyo sehemu ngumu zaidi ya kitabu hiki. Esdras ni umbo la Kigiriki na Kilatini la jina la Kiebrania Ezra (עֶזְרָא), lenye maana ya “msaada.” Katika Septuajinti kitabu hiki kinaitwa Esdras A (Ἔσδρας Αʹ), na kiko kabla ya Esdras B (Ἔσδρας Βʹ), ambacho ni Ezra na Nehemia pamoja kama kitabu kimoja. Miswada ya Kilatini na Vulgata hukita 3 Esdras, kwa kuhesabu Ezra kuwa kitabu cha kwanza na Nehemia cha pili. Biblia ya Kislavoni hukita 2 Ezra. Biblia za Kiingereza zinazokichapisha hukita 1 Esdras, zikifuata Kigiriki. Kinapokelewa katika kanoni ya Waorthodoksi wa Mashariki na kiko katika Biblia za Kigiriki kama Esdras A. Yeromu alihukumu kitabu cha tatu na cha nne cha Ezra kuwa apokrifa katika dibaji yake ya Ezra (takriban mwaka 394 baada ya Kristo), na alitafsiri Ezra-Nehemia ya Kiebrania pekee. Baraza la Trento (Kikao cha IV, 8 Aprili 1546) halikukiorodhesha miongoni mwa vitabu vya kanoni; Vulgata ya Sixto-Clementine, iliyochapishwa 9 Novemba 1592, iliweka 3 Esdras, 4 Esdras na Sala ya Manase katika kiambatisho baada ya Agano Jipya, waziwazi nje ya mfululizo wa vitabu vya kanoni (extra seriem canonicorum librorum). Biblia ya King James ya mwaka 1611 ilikichapisha miongoni mwa Apokrifa kama 1 Esdras."
+}

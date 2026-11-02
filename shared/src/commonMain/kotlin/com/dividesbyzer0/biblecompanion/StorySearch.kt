@@ -4,6 +4,10 @@ import com.dividesbyzer0.biblecompanion.platform.PlatformContext
 import com.dividesbyzer0.biblecompanion.platform.normalizeNFKD
 import com.dividesbyzer0.biblecompanion.platform.readAssetText
 import kotlin.math.min
+import kotlinx.serialization.json.Json
+import kotlinx.serialization.json.JsonArray
+import kotlinx.serialization.json.JsonObject
+import kotlinx.serialization.json.JsonPrimitive
 import kotlinx.coroutines.sync.Mutex
 import kotlinx.coroutines.sync.withLock
 
@@ -67,6 +71,7 @@ object StorySearch {
   private val bookDocs = mutableListOf<BookDoc>()
   private val chapterIndex = mutableMapOf<String, Map<Int, String>>()
   private val bookLookup = mutableMapOf<Pair<String, Int?>, MutableList<Triple<String, String, String>>>()
+  private var exactBookAliases: Map<Pair<String, Int?>, List<Triple<String, String, String>>> = emptyMap()
   private val numberedFamilies = mutableSetOf<String>()
   private val collections = listOf("old_testament","new_testament","deuterocanonical","apocrypha","pseudepigrapha")
 
@@ -74,6 +79,7 @@ object StorySearch {
     "es" -> "Capítulo"; "fr" -> "Chapitre"; "de" -> "Kapitel"; "it" -> "Capitolo"
     "pt" -> "Capítulo"; "ru" -> "Глава"; "ar" -> "الفصل"; "hi" -> "अध्याय"
     "ja" -> "章"; "ko" -> "장"; "zh-hans" -> "章"; "zh-hant" -> "章"
+    "sw" -> "Sura"
     else -> "Chapter"
   }
 
@@ -105,6 +111,7 @@ object StorySearch {
 
   private fun buildLocked(context: PlatformContext, appLang: String, internalBibleVersion: String) {
     docs.clear(); chapterIndex.clear(); bookLookup.clear(); numberedFamilies.clear()
+    exactBookAliases = emptyMap()
     noteDocs.clear(); bookDocs.clear(); verseDocs.clear(); verseInvertedIndex.clear()
     sortedVocabulary = emptyList()
 
@@ -154,6 +161,11 @@ object StorySearch {
     }
 
     val tag = LocaleUtils.effectiveAssetTag(appLang)
+    val aliasText = readAssetText(context, "refs/$tag/book_aliases.json")
+      ?: readAssetText(context, "refs/en/book_aliases.json")
+    exactBookAliases = buildExactBookAliasLookup(
+      aliasText.orEmpty(), bookDocs.map { Triple(it.collection, it.bookId, it.title) }
+    )
     for ((fileName, route) in noteFiles) {
       val md = readAssetText(context, "notes/$tag/$fileName")
         ?: readAssetText(context, "notes/en/$fileName")
@@ -581,6 +593,11 @@ object StorySearch {
   private val jaStopwords = setOf("の","に","は","を","た","が","で","て","と","し","れ","さ","ある","いる","も","する","から","な","こと","として","い","や","れる","など","なっ","ない","この","ため","その")
   private val koStopwords = setOf("의","에","를","은","는","이","가","와","과","로","에서","으로","하","된","한","할","하는","것","그","이","있","없","들","수","등","또","및")
   private val zhStopwords = setOf("的","了","在","是","我","有","和","就","不","人","都","一","这","中","大","为","上","个","他","们","到","来","也","说","那","你","要","会","对","把")
+  private val swStopwords = setOf(
+    "na","ya","wa","za","la","cha","kwa","katika","hii","hilo","hayo",
+    "yeye","wao","sisi","ninyi","mimi","wewe","ni","si","au","ila",
+    "lakini","kuwa","kwamba","kama","pia","bila","juu","chini"
+  )
 
   private fun significantTokens(tokens: List<String>, lang: String): List<String> {
     val stops = when (lang) {
@@ -589,6 +606,7 @@ object StorySearch {
       "ru" -> ruStopwords; "ar" -> arStopwords; "hi" -> hiStopwords
       "ja" -> jaStopwords; "ko" -> koStopwords
       "zh-hans","zh-hant" -> zhStopwords
+      "sw" -> swStopwords
       else -> enStopwords
     }
     return tokens.filter { it.length >= 2 && it !in stops }
@@ -978,7 +996,7 @@ object StorySearch {
 
   // --- Explicit reference search ---
 
-  private data class ExplicitRef(val family: String, val number: Int?, val chapter: Int, val verse: Int? = null, val verseEnd: Int? = null)
+  internal data class ExplicitRef(val family: String, val number: Int?, val chapter: Int, val verse: Int? = null, val verseEnd: Int? = null)
 
   private fun parseChapterAndVerse(tok: String): Triple<Int?, Int?, Int?> {
     val rangeM = Regex("^(\\d+):(\\d+)\\s*-\\s*(\\d+)$").matchEntire(tok)
@@ -990,7 +1008,7 @@ object StorySearch {
     return Triple(null, null, null)
   }
 
-  private fun parseExplicitRef(q: String): ExplicitRef? {
+  internal fun parseExplicitRef(q: String): ExplicitRef? {
     val tokens = q.replace("_"," ").replace("-"," ").replace("."," ").trim().split(Regex("\\s+")).filter { it.isNotBlank() }
     if (tokens.isEmpty()) return null
     for (tok in tokens) {
@@ -1060,10 +1078,45 @@ object StorySearch {
     return out.sortedWith(compareByDescending<SearchHit> { it.score }.thenBy { it.title.length })
   }
 
-  private fun resolveBooks(family: String, number: Int?): List<Triple<String, String, String>> {
-    val fam = family.lowercase(); val entries = bookLookup.entries.filter { (k, _) -> k.first.startsWith(fam) }
+  private fun resolveBooks(family: String, number: Int?): List<Triple<String, String, String>> =
+    resolveExplicitBookCandidates(family, number, exactBookAliases, bookLookup)
+
+  internal fun resolveExplicitBookCandidates(
+    family: String,
+    number: Int?,
+    aliases: Map<Pair<String, Int?>, List<Triple<String, String, String>>>,
+    titles: Map<Pair<String, Int?>, List<Triple<String, String, String>>>
+  ): List<Triple<String, String, String>> {
+    val fam = family.lowercase()
+    val aliasMatches = aliases[fam to number].orEmpty()
+    if (aliasMatches.size == 1) return aliasMatches
+    val entries = titles.entries.filter { (k, _) -> k.first.startsWith(fam) }
     return if (number != null) { val exact = entries.filter { (k, _) -> k.second == number }.flatMap { it.value }; exact.ifEmpty { entries.filter { (k, _) -> k.second == null }.flatMap { it.value } } }
     else entries.filter { (k, _) -> k.second == null }.flatMap { it.value }
+  }
+
+  internal fun buildExactBookAliasLookup(
+    aliasJson: String,
+    books: List<Triple<String, String, String>>
+  ): Map<Pair<String, Int?>, List<Triple<String, String, String>>> {
+    val rows = runCatching { Json.parseToJsonElement(aliasJson) as? JsonArray }.getOrNull()
+      ?: return emptyMap()
+    val booksByTitle = books.groupBy { normalize(it.third) }
+    val aliases = mutableMapOf<Pair<String, Int?>, MutableList<Triple<String, String, String>>>()
+    for (row in rows) {
+      val obj = row as? JsonObject ?: continue
+      val canon = (obj["canon"] as? JsonPrimitive)?.content.orEmpty()
+      val book = booksByTitle[normalize(canon)]?.singleOrNull() ?: continue
+      val names = (obj["aliases"] as? JsonArray)
+        ?.mapNotNull { (it as? JsonPrimitive)?.content }
+        .orEmpty() + canon
+      for (name in names) {
+        val (number, family) = splitNumberedBook(normalize(name))
+        if (family.isBlank()) continue
+        aliases.getOrPut(family to number) { mutableListOf() }.add(book)
+      }
+    }
+    return aliases.mapValues { (_, matches) -> matches.distinct() }
   }
 
   // --- Canonical result boosting (surgical, per-event) ---

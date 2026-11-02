@@ -2,6 +2,16 @@ package com.dividesbyzer0.biblecompanion
 
 object ChapterLocator {
 
+    // Greek Esther keeps legacy story ids for saved reading state. Five ids
+    // differ from the printed chapter numbers in every localized asset.
+    private val greekEstherChapters = mapOf(
+        "esther_greek-11" to 7,
+        "esther_greek-12" to 11,
+        "esther_greek-13" to 12,
+        "esther_greek-14" to 13,
+        "esther_greek-7" to 14
+    )
+
     data class Special(val storyId: String, val label: String)
 
     data class Index(
@@ -9,9 +19,8 @@ object ChapterLocator {
         val specials: List<Special> = emptyList()
     )
 
-    // Chapters come from the story ids themselves: every story id ends in its
-    // chapter number ("genesis-3", "psalm-151-1", "2_enoch-68"), an invariant
-    // that holds across all 99 books in all 13 languages. The refs lines are
+    // Chapters normally come from story ids ("genesis-3", "psalm-151-1",
+    // "2_enoch-68"). Greek Esther has five legacy id exceptions. The refs lines are
     // localized prose ("Bel and the Dragon 1:1-42", "Bel und der Drache 1-42",
     // "Вил и Дракон 0-42") and parsing them yielded an empty map for English
     // Bel (the word "and" read as a list separator), chapter 1511 for
@@ -29,7 +38,11 @@ object ChapterLocator {
         val specials = mutableListOf<Special>()
         for (story in book.stories) {
             val tail = story.id.substringAfterLast('-')
-            val chap = tail.toIntOrNull()
+            val chap = if (book.id == "esther_greek") {
+                greekEstherChapters[story.id] ?: tail.toIntOrNull()
+            } else {
+                tail.toIntOrNull()
+            }
             if (chap != null) {
                 if (chap !in claim) claim[chap] = story.id
             } else {

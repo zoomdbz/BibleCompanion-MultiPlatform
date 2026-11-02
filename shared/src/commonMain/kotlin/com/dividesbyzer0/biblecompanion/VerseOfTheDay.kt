@@ -207,9 +207,10 @@ object VerseOfTheDay {
     val verseEnd = match.groupValues[4].toIntOrNull() ?: verse
 
     for (collection in listOf("old_testament", "new_testament", "deuterocanonical")) {
-      // Daily-reference anchors intentionally use stable English book names in
-      // every language; the displayed reference itself is localized elsewhere.
-      val bookId = ContentRepo.listBooksLocalized(context, collection, "en")
+      // Banks may carry either a native display name or an older English
+      // anchor. Resolve both to the same stable book ID before edition mapping.
+      val bookId = (ContentRepo.listBooksLocalized(context, collection, effectiveLanguage) +
+        ContentRepo.listBooksLocalized(context, collection, "en"))
         .firstOrNull { (_, title) -> title.equals(bookName, ignoreCase = true) }
         ?.first ?: continue
       val mapped = EditionReferenceMaps.resolve(

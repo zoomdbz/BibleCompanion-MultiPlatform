@@ -1,0 +1,525 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Bible Companion</string>
+
+    <!-- Home -->
+    <string name="old_testament">Agano la Kale</string>
+    <string name="new_testament">Agano Jipya</string>
+    <string name="deuterocanonical">Vitabu vya Deuterokanoni</string>
+    <string name="apocrypha">Apokrifa</string>
+    <string name="gnostic_heading">Gnostiki</string>
+    <string name="genealogy">Nasaba ya Yesu</string>
+    <string name="pseudepigrapha">Pseudepigrafa</string>
+    <string name="books_heading_generic">Vitabu</string>
+    <string name="translation_notes">Maelezo ya tafsiri</string>
+    <string name="about">Kuhusu</string>
+    <string name="search_placeholder">Tafuta sura, maelezo na vitabu</string>
+    <string name="action_search">Tafuta</string>
+    <string name="books_header">Vitabu</string>
+    <string name="stories_header">Sura</string>
+    <string name="study_notes_header">Maelezo ya kujifunzia</string>
+    <!-- res/values-en/strings.xml -->
+    <string name="christophanies">Udhihirisho wa Kristo</string>
+    <string name="faqs">Maswali yanayoulizwa mara kwa mara</string>
+    <string name="bibliography">Orodha ya marejeo</string>
+    <!-- values/strings.xml (English) -->
+    <string name="jesus_divinity">Uungu wa Yesu</string>
+    <string name="jesus_identity">Utambulisho wa Yesu</string>
+    <string name="gospel">Injili</string>
+    <string name="dc_not_available_title">Vitabu vya Deuterokanoni havimo katika "%1$s"</string>
+    <string name="dc_not_available_body">Sura hii haipatikani katika %1$s. Ungependa kubadili hadi %2$s ili usome vitabu vya Deuterokanoni?</string>
+    <string name="dc_swap">Badili</string>
+    <string name="dc_keep">Endelea kutumia toleo la sasa</string>
+    <string name="dc_read_in_app">Soma ndani ya programu</string>
+    <string name="dc_unavailable_body">Haipatikani kwenye Bible.com au BibleGateway kwa lugha hii. Isome ndani ya programu, au badili lugha ya programu.</string>
+    <string name="dc_book_banner_title">Vitabu vya Deuterokanoni havimo katika %1$s</string>
+    <string name="dc_book_banner_body">Toleo lako la Biblia halina kitabu hiki. Chagua toleo lenye kitabu hiki ili ufungue viungo.</string>
+    <string name="dc_banner_pick">Chagua toleo</string>
+    <string name="dc_banner_dismiss">Endelea hata hivyo</string>
+    <string name="apoc_no_reader_title">Hakuna kisomaji cha nje</string>
+    <string name="apoc_no_reader_body">Maandishi haya hayapatikani kwenye Bible.com au BibleGateway. Yasome hapa ndani ya programu.</string>
+    <string name="action_ok">Sawa</string>
+    <string name="christian_symbolism">Ishara za Kikristo</string>
+    <!-- res/values/strings.xml (default, en) -->
+    <string name="unseen_war">Vita Visivyoonekana</string>
+    <string name="historical_awareness">Ufahamu wa kihistoria</string>
+    <string name="false_doctrine">Mafundisho ya uongo</string>
+    <string name="common_distortions">Upotoshaji wa kawaida</string>
+    <string name="grace">Neema</string>
+    <!-- Settings -->
+    <string name="settings">Mipangilio</string>
+    <string name="theme">Mandhari</string>
+    <string name="translation">Tafsiri ya Biblia (kwa viungo)</string>
+    <string name="collections">Mikusanyiko</string>
+    <string name="donation">Mchango</string>
+    <string name="donation_text">Ni hiari na tunashukuru. Hakuna matangazo. Hakuna shinikizo. Utukufu wote ni wa Mungu.</string>
+    <string name="donate_button">Changia</string>
+    <string name="donate_message">Ikiwa programu hii imekusaidia na ungependa kutoa shukrani: paypal.me/domvgreco</string>
+    <string name="language">Lugha</string>
+    <string name="language_system">Chaguo-msingi la mfumo</string>
+    <string name="bible_version">Toleo la Biblia</string>
+    <string name="preferred_reader">Mahali pa kufungua viungo vya Maandiko</string>
+    <string name="preferred_reader_subtitle">Chagua mahali rejea ya Biblia inapofunguka unapoigusa: ndani ya programu, Bible.com, au Bible Gateway.</string>
+    <string name="reader_biblecom">Bible.com</string>
+    <string name="reader_biblegateway">Bible Gateway</string>
+    <string name="reader_internal">Ndani ya programu</string>
+    <string name="prefer_biblecom_title">Fungua kwenye Bible.com (YouVersion) inapowezekana</string>
+    <string name="prefer_biblecom_subtitle">Ikiwa sura haipatikani katika toleo hili, programu itafungua BibleGateway kiotomatiki.</string>
+    <string name="study_pin">Weka wazi</string>
+    <string name="study_unpin">Ondoa uwekaji wazi</string>
+    <string name="color_theme">Mandhari ya rangi</string>
+    <string name="color_theme_subtitle">Chagua mpangilio wa rangi. Chaguo lako la hali angavu au giza hapo juu litaendelea kutumika.</string>
+    <string name="theme_parchment">Karatasi ya kale</string>
+    <string name="theme_sage">Kijani hafifu</string>
+    <string name="theme_indigo">Bluu ya zambarau</string>
+    <string name="theme_ink">Wino</string>
+    <string name="theme_dynamic">Inayobadilika</string>
+    <string name="theme_custom">Uliyobinafsisha</string>
+    <string name="bible_canon">Kanoni ya Biblia</string>
+    <string name="font_label">Fonti</string>
+    <string name="font_sans">Bila serif (ya mfumo)</string>
+    <string name="font_serif">Yenye serif (ya kusoma)</string>
+
+    <!-- Jesus words color (settings) -->
+    <string name="pref_jesus_words_color_title">Rangi ya maneno ya Yesu</string>
+    <string name="pref_jesus_words_color_desc">Chagua rangi ya kuangazia maneno ya Yesu.</string>
+
+    <!-- Divine Name (Tetragrammaton) setting -->
+    <string name="pref_divine_name_title">Jina la Mungu (YHWH)</string>
+    <string name="pref_divine_name_desc">Chagua jinsi ya kuonyesha Tetragramatoni (יהוה). Tafsiri nyingi huiandika kama BWANA kwa herufi ndogo za umbo la herufi kubwa.</string>
+    <string name="divine_name_traditional">BWANA</string>
+    <string name="divine_name_yhwh">YHWH</string>
+    <string name="divine_name_yhvh">YHVH</string>
+    <string name="divine_name_yahweh">Yahweh</string>
+    <string name="pref_divine_name_color_title">Rangi ya kuangazia Jina la Mungu</string>
+
+    <string name="color_default">Chaguo-msingi / Imezimwa</string>
+    <string name="color_red">Nyekundu</string>
+    <string name="color_orange">Machungwa</string>
+    <string name="color_yellow">Njano</string>
+    <string name="color_green">Kijani</string>
+    <string name="color_blue">Bluu</string>
+    <string name="color_indigo">Bluu ya zambarau</string>
+    <string name="color_purple">Zambarau</string>
+
+    <!-- Theme Options -->
+    <string name="theme_system">Mfumo</string>
+    <string name="theme_light">Angavu</string>
+    <string name="theme_dark">Giza</string>
+
+    <!-- Navigation -->
+    <string name="back">Rudi</string>
+    <string name="books_missing">Kitabu hakipo: %1$s</string>
+
+    <!-- About screen -->
+    <string name="about_title">Kuhusu</string>
+    <string name="about_what_title">Programu hii ni nini</string>
+    <string name="about_what_text">Bible Companion ni programu ya bure ya kusoma Maandiko na kujifunza Biblia, iliyoundwa kutanguliza matumizi bila intaneti na kusaidia watu kusoma Biblia katika muktadha wake. Ina Agano la Kale na Agano Jipya yote katika kila lugha inayotumika, pamoja na mikusanyiko ya hiari ya vitabu vya Deuterokanoni, Apokrifa na Pseudepigrafa. Kila sura huweka maandishi ya Biblia yenye marejeo ya mistari pamoja na hoja kuu, marejeo yanayohusiana, tofauti za miswada na maelezo ya tafsiri. Maandiko yanatenganishwa na maelezo ya kujifunzia yaliyoandikwa na wahariri.</string>
+    <string name="about_features_text">Soma marejeo ndani ya programu au uyafungue kwenye YouVersion/Bible.com au Bible Gateway. Unaweza kuchagua matoleo ya kisasa au ya jadi ya Biblia kwa usomaji ndani ya programu, yanapopatikana katika lugha uliyochagua. Utafutaji, usomaji wa maandishi kwa sauti, Mstari wa Siku, kurejea mahali ulipoishia kusoma, alamisho, mistari iliyohifadhiwa, kuangazia maandishi, lebo na mipangilio ya muonekano husaidia usomaji wa kila siku. Zana za kujifunzia zinahusu mpangilio wa matukio ya Biblia; nasaba, utambulisho na uungu wa Yesu; Injili na neema; kanoni na tafsiri; kalenda na sikukuu za Biblia; unabii wa Kimasihi; mpangilio wa matukio ya Danieli na Ufunuo; ishara za angani; vita vya kiroho; mafundisho ya uongo; na upotoshaji wa kawaida wa Maandiko.</string>
+    <string name="about_mission_text">Bible Companion inayachukulia Maandiko kuwa kweli. Inalenga kutoa maandishi yaliyo mwaminifu, yanayosomeka na yanayofaa kwa lugha husika; marejeo sahihi; ushughulikiaji wa uaminifu wa Jina la Mungu; utambuzi wazi wa maneno ya Yesu; na uwazi pale ambapo mpangilio wa matukio, ushahidi wa miswada, tafsiri au uhusishaji wa kihistoria bado vinajadiliwa. Haihitaji akaunti, huhifadhi maudhui yake ya msingi ili yapatikane bila intaneti, na ipo kwa ajili ya uanafunzi wa dhati na uchunguzi wa Maandiko kama Waberoya (Mathayo 28:19; Matendo 17:11), ikitolewa bure kwa roho ya Mathayo 10:8.</string>
+    <string name="about_free_text">Bure. Hakuna matangazo, usajili wa kulipia, akaunti au biashara. Utukufu wote ni wa Mungu.</string>
+    <string name="swahili_sources_title">Vyanzo vya Biblia za Kiswahili</string>
+    <string name="swahili_onen_attribution">Biblica Toleo Wazi la Neno: Biblia Takatifu 2015. Hakimiliki 1984, 1989, 2009, 2015 Biblica, Inc. Chanzo: https://ebible.org/swhonen/. Leseni ya Creative Commons Attribution-ShareAlike 4.0: https://creativecommons.org/licenses/by-sa/4.0/. Maandishi yalibadilishwa kutoka USFM kwenda JSON ya programu; tanbihi na marejeo ya mchapishaji yaliachwa, alama za uonyeshaji ziliongezwa, na mpaka wa chanzo katika Nehemia 8:1 ulirekebishwa. Mabadiliko haya hayawasilishwi kama yameidhinishwa na Biblica.</string>
+    <string name="swahili_suv_attribution">Swahili Union Version (SUV). Hakimiliki 1952, 1997 Vyama vya Biblia vya Tanzania na Kenya. Nakala hii ya programu ilibadilishwa kutoka XML iliyotolewa kwenda JSON. Chanzo hakitaji leseni ya kusambaza tena.</string>
+    <string name="version_label">Toleo %1$s</string>
+    <string name="rate_app">Kadiria programu hii</string>
+    <string name="share_app">Shiriki programu hii</string>
+
+    <!-- Study & Reference section -->
+    <string name="study_reference">Kujifunza &amp; marejeo</string>
+
+    <!-- Continue Reading -->
+    <string name="continue_reading">Endelea kusoma</string>
+    <string name="saved_items">Alamisho &amp; mistari iliyohifadhiwa</string>
+    <string name="bookmarks_tab">Alamisho</string>
+    <string name="saved_verses_tab">Mistari iliyohifadhiwa</string>
+    <string name="labels_tab">Lebo</string>
+    <string name="new_label">Lebo mpya</string>
+    <string name="label_name">Jina la lebo</string>
+    <string name="no_labels_yet">Bado hakuna lebo</string>
+    <string name="add_label">Ongeza lebo</string>
+    <string name="edit_label">Hariri lebo</string>
+    <string name="delete_label">Futa lebo</string>
+    <string name="delete_label_confirm">Je, una uhakika unataka kufuta "%1$s"? Imehusishwa na mistari %1$d iliyohifadhiwa. Mistari hiyo haitafutwa, lakini lebo itaondolewa kwake.</string>
+    <string name="dont_ask_again">Usiulize tena</string>
+
+    <!-- Collapsible story sections -->
+    <string name="show_more">Onyesha zaidi</string>
+    <string name="show_less">Onyesha machache</string>
+    <string name="cross_references">Marejeo yanayohusiana</string>
+    <string name="manuscript_variants_header">Tofauti za miswada</string>
+    <string name="translation_notes_header">Maelezo ya tafsiri</string>
+    <string name="key_takeaway">Hoja kuu</string>
+    <string name="share">Shiriki</string>
+
+    <!-- Text size -->
+    <string name="text_size">Ukubwa wa maandishi</string>
+    <string name="text_small">Ndogo</string>
+    <string name="text_medium">Wastani</string>
+    <string name="text_large">Kubwa</string>
+
+    <!-- Search -->
+    <string name="search_section">Utafutaji</string>
+    <string name="ai_search">Utafutaji kwa akili bandia</string>
+    <string name="ai_search_desc">Pata vifungu vinavyohusiana hata kama maneno halisi hayalingani. Hutafuta kwa maana, si kwa maneno muhimu pekee. Hufanya kazi kikamilifu kwenye kifaa chako.</string>
+
+    <!-- Accessibility -->
+    <string name="accessibility_section">Ufikivu</string>
+    <string name="haptic_feedback">Mwitikio wa mtetemo</string>
+    <string name="expand_notes_default">Panua maelezo kwa chaguo-msingi</string>
+
+    <!-- Text-to-Speech -->
+    <string name="tts_section">Usomaji wa maandishi kwa sauti</string>
+    <string name="tts_auto_continue">Endelea kusoma kiotomatiki</string>
+    <string name="tts_cross_book">Endelea katika vitabu vingine</string>
+
+    <!-- Book navigation -->
+    <string name="continue_to_book">Endelea hadi %1$s</string>
+
+
+    <!-- Data / Export -->
+    <string name="data_section">Data</string>
+    <string name="data_section_desc">Hamisha alamisho, mistari iliyohifadhiwa, maandishi uliyoangazia na lebo kati ya vifaa. Gusa Hamisha ili kuhifadhi faili ya nakala rudufu, kisha tumia Leta kwenye kifaa chako kingine kufungua faili hiyo. Mipangilio na mapendeleo hayajumuishwi.</string>
+    <string name="export_data">Hamisha</string>
+    <string name="import_data">Leta</string>
+    <string name="backup_saved">Nakala rudufu imehifadhiwa</string>
+    <string name="jump_to_section">Nenda kwenye sehemu</string>
+    <string name="import_paste_hint">Bandika nakala rudufu ya JSON hapa</string>
+    <string name="import_confirm">Rejesha</string>
+    <string name="cancel">Ghairi</string>
+    <string name="select_all">Chagua vyote</string>
+    <string name="copy_all">Nakili vyote</string>
+    <string name="copied_to_clipboard">Imenakiliwa kwenye ubao wa kunakili</string>
+    <string name="import_success">Imefanikiwa: data imerejeshwa</string>
+    <string name="import_error">Hitilafu: data ya nakala rudufu si sahihi</string>
+    <string name="cd_bookmark">Alamisho</string>
+    <string name="cd_highlight">Angazia</string>
+    <string name="cd_label">Lebo</string>
+    <string name="cd_toggle_bookmark">Weka au ondoa alamisho</string>
+    <string name="cd_remove_bookmark">Ondoa alamisho</string>
+    <string name="cd_remove_saved_verse">Ondoa mstari uliohifadhiwa</string>
+    <string name="cd_remove_label">Ondoa lebo</string>
+    <string name="cd_remove_verse_label">Ondoa mstari kwenye lebo</string>
+    <string name="cd_copy">Nakili</string>
+    <string name="cd_tts_play">Cheza</string>
+    <string name="cd_tts_pause">Sitisha</string>
+    <string name="cd_tts_stop">Simamisha</string>
+    <string name="cd_tts_resume">Endelea</string>
+    <string name="search_no_results">Hakuna matokeo ya "%1$s"</string>
+    <string name="search_searching">Inatafuta...</string>
+    <string name="snack_undo">Tengua</string>
+    <string name="snack_highlight_cleared">Uangaziaji umeondolewa</string>
+    <string name="snack_verse_removed">Mstari uliohifadhiwa umeondolewa</string>
+    <string name="snack_bookmark_removed">Alamisho imeondolewa</string>
+    <string name="feast_typology_passover_name">Pasaka (Nisan 14)</string>
+    <string name="feast_typology_passover_meaning">Kusulubiwa</string>
+    <string name="feast_typology_unleavened_name">Mikate Isiyotiwa Chachu (Nisan 15)</string>
+    <string name="feast_typology_unleavened_meaning">Kuzikwa / kutokuwa na dhambi</string>
+    <string name="feast_typology_firstfruits_name">Malimbuko</string>
+    <string name="feast_typology_firstfruits_meaning">Ufufuo</string>
+    <string name="feast_typology_weeks_name">Sikukuu ya Majuma / Pentekoste</string>
+    <string name="feast_typology_weeks_meaning">Roho Mtakatifu alitolewa</string>
+    <string name="feast_typology_trumpets_name">Baragumu (Tishrei 1)</string>
+    <string name="feast_typology_trumpets_meaning">Kuja kwa mara ya pili / unyakuo</string>
+    <string name="feast_typology_atonement_name">Siku ya Upatanisho (Tishrei 10) (kufunga)</string>
+    <string name="feast_typology_atonement_meaning">Hukumu ya mwisho</string>
+    <string name="feast_typology_tabernacles_name">Vibanda (Tishrei 15-21)</string>
+    <string name="feast_typology_tabernacles_meaning">Mungu anakaa pamoja na mwanadamu</string>
+    <string name="hebrew_month_nisan">Nisan</string>
+    <string name="hebrew_month_iyar">Iyar</string>
+    <string name="hebrew_month_sivan">Sivan</string>
+    <string name="hebrew_month_tammuz">Tammuz</string>
+    <string name="hebrew_month_av">Av</string>
+    <string name="hebrew_month_elul">Elul</string>
+    <string name="hebrew_month_tishrei">Tishrei</string>
+    <string name="hebrew_month_cheshvan">Cheshvan</string>
+    <string name="hebrew_month_kislev">Kislev</string>
+    <string name="hebrew_month_tevet">Tevet</string>
+    <string name="hebrew_month_shevat">Shevat</string>
+    <string name="hebrew_month_adar">Adar</string>
+    <string name="hebrew_month_adar_i">Adar I</string>
+    <string name="hebrew_month_adar_ii">Adar II</string>
+    <string name="widget_today">Leo!</string>
+    <string name="nav_today">Leo</string>
+    <string name="widget_tomorrow">Kesho</string>
+    <string name="widget_days_short">%1$ds</string>
+    <string name="widget_feasts">Sikukuu</string>
+    <string name="widget_cal_hebrew">Kiebrania</string>
+    <string name="widget_cal_essene">Waesene</string>
+    <string name="widget_cal_karaite">Wakaraite</string>
+    <string name="widget_cal_all">Zote</string>
+    <string name="widget_cal_both">Zote mbili</string>
+    <string name="widget_no_feasts">Hakuna sikukuu zinazokaribia</string>
+    <string name="widget_day_of_feast">Siku ya %1$d</string>
+    <string name="widget_list_display_name">Kalenda ya Biblia</string>
+    <string name="widget_list_description">Huonyesha tarehe za sikukuu za Biblia zinazokaribia pamoja na alama za kalenda za Kiebrania na Waesene</string>
+    <string name="widget_grid_display_name">Kalenda ya Biblia</string>
+    <string name="widget_grid_description">Kalenda ya kila mwezi yenye tarehe za sikukuu za Biblia</string>
+
+    <!-- Settings sections -->
+    <string name="appearance">Muonekano</string>
+    <string name="content_section">Maudhui</string>
+    <string name="support">Msaada</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_1_title">Tafuta mada yoyote</string>
+    <string name="onboarding_1_text">Pata sura, mistari na mada katika Biblia nzima.</string>
+    <string name="onboarding_2_title">Gusa marejeo</string>
+    <string name="onboarding_2_text">Gusa rejea yoyote ya Maandiko ili uisome ndani ya Bible Companion au katika kisomaji cha nje ulichochagua.</string>
+    <string name="onboarding_3_title">Ifanye iwe yako</string>
+    <string name="onboarding_3_text">Binafsisha mandhari, lugha, fonti na chaguo za Biblia katika Mipangilio.</string>
+    <string name="get_started">Anza</string>
+    <string name="next_button">Inayofuata</string>
+    <string name="skip">Ruka</string>
+
+    <!-- Verse of the Day -->
+    <string name="verse_of_the_day">Mstari wa Siku</string>
+    <string name="feast_verse_label">Mstari wa Siku ya Sikukuu</string>
+    <string name="votd_dismiss_today">Ficha kwa leo</string>
+
+    <!-- Better empty state -->
+    <string name="no_books_found">Hakuna maudhui ya sehemu hii kwa lugha ya sasa. Jaribu kubadili hadi Kiingereza katika Mipangilio.</string>
+
+    <!-- Feast Calendar -->
+    <string name="feast_calendar">Kalenda ya Biblia</string>
+    <string name="torah_feasts_and_gentiles">Torati, Sikukuu na Mataifa</string>
+    <string name="feast_about_heading">Kuhusu kalenda</string>
+    <string name="feast_today">Leo</string>
+    <string name="feast_this_month">Sikukuu za mwezi huu</string>
+    <string name="feast_typology_title">Maana ya mfano ya sikukuu: Vivuli vya Kristo</string>
+    <string name="feast_spring_heading">Sikukuu za machipuko; Kuja kwa mara ya kwanza</string>
+    <string name="feast_fall_heading">Sikukuu za vuli; Kuja kwa mara ya pili</string>
+    <string name="feast_idiom_note">"Hakuna ajuaye siku wala saa" (Mathayo 24:36); nahau inayojulikana kuhusu Sikukuu ya Baragumu, inayoanza mwezi mwandamo unapoonekana. Wayahudi wa karne ya kwanza wangetambua rejea hiyo mara moja.</string>
+
+    <!-- Ordained Feasts section -->
+    <string name="ordained_feasts_heading">Sikukuu zilizoagizwa</string>
+    <string name="ordained_commanded_heading">Zilizoamriwa katika Torati</string>
+    <string name="ordained_tradition_heading">Mapokeo (hazikuamriwa)</string>
+    <string name="feast_passover">Pasaka (Pesach)</string>
+    <string name="feast_passover_ref">Walawi 23:5</string>
+    <string name="feast_unleavened">Sikukuu ya Mikate Isiyotiwa Chachu</string>
+    <string name="feast_unleavened_ref">Walawi 23:6\u20138</string>
+    <string name="feast_firstfruits">Sikukuu ya Malimbuko</string>
+    <string name="feast_firstfruits_ref">Walawi 23:9\u201314</string>
+    <string name="feast_second_passover">Pasaka ya Pili (Pesach Sheni)</string>
+    <string name="feast_second_passover_ref">Hesabu 9:9\u201314</string>
+    <string name="feast_weeks">Sikukuu ya Majuma (Shavuot/Pentekoste)</string>
+    <string name="feast_weeks_ref">Walawi 23:15\u201322</string>
+    <string name="feast_trumpets">Sikukuu ya Baragumu (Yom Teruah)</string>
+    <string name="feast_trumpets_ref">Walawi 23:23\u201325</string>
+    <string name="feast_atonement">Siku ya Upatanisho (Yom Kippur)</string>
+    <string name="feast_atonement_note">(kufunga)</string>
+    <string name="feast_atonement_ref">Walawi 23:26\u201332</string>
+    <string name="feast_tabernacles">Sikukuu ya Vibanda (Sukkot)</string>
+    <string name="feast_tabernacles_ref">Walawi 23:33\u201343</string>
+    <string name="feast_shemini_atzeret">Shemini Atzeret (Kusanyiko la Siku ya Nane)</string>
+    <string name="feast_shemini_atzeret_ref">Walawi 23:36; Hesabu 29:35</string>
+    <string name="feast_purim">Purimu</string>
+    <string name="feast_purim_ref">Esta 9:20\u201332</string>
+    <string name="feast_hanukkah">Hanukkah (Sikukuu ya Kuweka Wakfu)</string>
+    <string name="feast_hanukkah_ref">Yohana 10:22\u201323; 1 Wamakabayo 4:52\u201359</string>
+    <string name="feast_fast_tammuz">Siku ya kumi na saba ya Tammuz (kufunga)</string>
+    <string name="feast_fast_tammuz_ref">Zekaria 8:19</string>
+    <string name="feast_tisha_bav">Tisha B\'Av (kufunga)</string>
+    <string name="feast_tisha_bav_ref">Zekaria 8:19</string>
+    <string name="feast_fast_gedaliah">Mfungo wa Gedalia</string>
+    <string name="feast_fast_gedaliah_ref">Zekaria 8:19; 2 Wafalme 25:25</string>
+    <string name="feast_fast_tevet">Siku ya kumi ya Tevet (kufunga)</string>
+    <string name="feast_fast_tevet_ref">Zekaria 8:19; 2 Wafalme 25:1</string>
+    <string name="feast_fast_esther">Mfungo wa Esta</string>
+    <string name="feast_fast_esther_ref">Esta 4:16</string>
+
+    <!-- Essene / Temple Scroll / Jubilees feasts -->
+    <string name="feast_new_wine_name">Sikukuu ya Divai Mpya</string>
+    <string name="feast_new_oil_name">Sikukuu ya Mafuta Mapya</string>
+    <string name="feast_memorial_q2_name">Siku ya Ukumbusho (Mwezi wa 4)</string>
+    <string name="feast_memorial_q4_name">Siku ya Ukumbusho (Mwezi wa 10)</string>
+    <string name="essene_calendar_label">Waesene</string>
+
+    <!-- Prophecy -->
+    <string name="prophecy">Unabii</string>
+    <string name="prophecy_subtitle">Chunguza nyuzi za unabii zinazopita katika Maandiko; kutoka utimilifu wa unabii wa Kimasihi hadi sikukuu za Ufunuo.</string>
+    <string name="prophecy_messianic">Ramani ya unabii wa Kimasihi</string>
+    <string name="prophecy_messianic_desc">Unabii wa Agano la Kale hadi utimilifu katika Agano Jipya, mstari kwa mstari</string>
+    <string name="prophecy_daniel">Mpangilio wa matukio ya Danieli</string>
+    <string name="prophecy_daniel_desc">Sanamu, wanyama wanne, majuma 70 na Mwana wa Adamu</string>
+    <string name="prophecy_astronomical">Ishara za angani</string>
+    <string name="prophecy_astronomical_desc">Miezi myekundu kama damu, kupatwa kwa jua na mwezi, na Nyota ya Bethlehemu</string>
+    <string name="prophecy_revelation">Muhtasari wa Ufunuo</string>
+    <string name="prophecy_revelation_desc">Mwongozo wa kusoma wenye mpangilio, nahau za Kiebrania na uhusiano wa sikukuu</string>
+    <string name="prophecy_revelation_timeline">Mpangilio wa matukio ya Ufunuo</string>
+    <string name="prophecy_revelation_timeline_desc">Mihuri, baragumu, mabakuli, kurudi kwa Kristo, milenia na Yerusalemu Mpya</string>
+    <string name="prophecy_second_coming_rapture">Kuja kwa Mara ya Pili na Unyakuo</string>
+    <string name="prophecy_second_coming_rapture_desc">Kurudi kwa Kristo, ufufuo, kukusanywa, ghadhabu na mitazamo mikuu kuhusu wakati wa matukio haya</string>
+    <string name="chapters_label">Sura</string>
+    <string name="verse_label">Mstari</string>
+    <string name="verses_label">Mistari</string>
+    <string name="intro_short">Utangulizi</string>
+    <string name="intro_section_header">Utangulizi wa kitabu</string>
+    <string name="tts_read_intros">Usomaji wa sauti usome utangulizi wa vitabu</string>
+    <!-- Internal and external Bible editions -->
+    <string name="external_bible_version">Toleo la Biblia la nje</string>
+    <string name="verse_share_link_provider">Viungo vya kushiriki mistari</string>
+    <string name="verse_share_link_provider_desc">Chagua Bible.com au Bible Gateway kwa viungo unaponakili au kushiriki mistari.</string>
+    <string name="external_bible_version_desc">Chagua toleo la marejeo ya nje. Viungo vya Bible.com hufunguka katika programu ya Biblia ya YouVersion ikiwa imesakinishwa; la sivyo hufunguka kwenye Bible.com katika kivinjari chako. Hii haibadilishi maandishi ya Bible Companion.</string>
+    <string name="external_biblegateway_version_desc">Chagua toleo la Biblia kwa marejeo ya nje. Viungo hufunguka kwenye tovuti ya Bible Gateway katika kivinjari chako. Hii haibadilishi maandishi ya Bible Companion.</string>
+    <string name="in_app_bible_version">Toleo la Biblia la ndani ya programu</string>
+    <string name="in_app_bible_version_desc">Huweka toleo la Biblia linalotumika kila mahali ndani ya programu: kisomaji, Mstari wa Siku, utafutaji na maandishi unayonakili au kushiriki. Ni tofauti na toleo linalofunguliwa na viungo vya nje.</string>
+    <string name="version_bsb">Berean Standard Bible (BSB)</string>
+    <string name="version_kjv">King James Version (KJV)</string>
+    <string name="version_local_modern">Toleo la Biblia la ndani ya programu</string>
+    <string name="version_local_traditional">Toleo la jadi la Biblia la ndani ya programu</string>
+    <string name="edition_fallback">Toleo lililochaguliwa halipatikani kwa kitabu hiki; toleo chaguo-msingi la ndani ya programu linaonyeshwa.</string>
+    <string name="swahili_dc_study_translation">Tafsiri ya programu ya vitabu vya Deuterokanoni kwa Kiswahili</string>
+    <string name="swahili_dc_edition_fallback">SUV 1952 haina kitabu hiki; tafsiri ya programu ya vitabu vya Deuterokanoni kwa Kiswahili inaonyeshwa.</string>
+
+    <!-- Bible chronology -->
+    <string name="bible_chronology">Mpangilio wa matukio ya Biblia</string>
+    <string name="chronology_intro">Soma vipengele vilivyowekewa nambari kutoka juu hadi chini. Mwongozo huu unafuata mazingira ya kihistoria na matukio yanayoelezwa katika Maandiko, si mpangilio wa kawaida wa vitabu au tarehe ya kuandikwa kwa kila kitabu. Masimulizi sambamba husimulia tena kipindi kilekile. Vitabu vingine vinahusu vipindi vingi, na nafasi za vingine katika mpangilio bado hazina uhakika. Gusa mfululizo wa sura ili uufungue ndani ya programu.</string>
+    <string name="chronology_job_note">Tarehe kamili ya Ayubu haijulikani. Mwongozo huu unaiweka kati ya Mwanzo 11 na 12 kama chaguo la jadi la usomaji wa enzi za mababu, si kama mfuatano wenye tarehe uliotajwa katika Maandiko.</string>
+    <string name="chronology_judges_note">Matukio ya Ruthu yalitokea wakati wa waamuzi (Ruthu 1:1). Soma Yoshua, Waamuzi na Ruthu hapa kabla ya kuendelea na Samweli.</string>
+    <string name="chronology_solomon_note">Soma Mithali, Wimbo Ulio Bora na Mhubiri pamoja na utawala wa Sulemani. Mithali pia ina sehemu zilizonakiliwa wakati wa Hezekia (25:1), maneno ya Aguri (30:1), na maneno ya Lemueli (31:1). Uwekaji huu haumaanishi kwamba kila sehemu ya Mithali iliandikwa wakati wa utawala wa Sulemani.</string>
+    <string name="chronology_include_deuterocanon">Jumuisha vitabu vya Deuterokanoni</string>
+    <string name="chronology_historical_flow">Mtiririko wa historia</string>
+    <string name="chronology_parallel_accounts">Masimulizi sambamba</string>
+    <string name="chronology_voices_period">Sauti za kipindi hicho</string>
+    <string name="chronology_deuterocanon_lane">Vitabu vya Deuterokanoni</string>
+    <string name="chronology_placement_debated">Nafasi yake katika mpangilio inajadiliwa</string>
+    <string name="chronology_chapters">Sura %1$s</string>
+    <string name="chronology_epoch_creation">Uumbaji na Historia ya Awali</string>
+    <string name="chronology_epoch_patriarchs">Mababu wa imani</string>
+    <string name="chronology_epoch_exodus">Kutoka Misri na Jangwa</string>
+    <string name="chronology_epoch_conquest">Utekaji wa Nchi na Waamuzi</string>
+    <string name="chronology_epoch_united_kingdom">Ufalme Ulioungana</string>
+    <string name="chronology_epoch_divided_kingdom">Ufalme Uliogawanyika na Manabii</string>
+    <string name="chronology_epoch_judah_final">Miaka ya Mwisho ya Yuda</string>
+    <string name="chronology_epoch_exile">Uhamisho wa Babeli</string>
+    <string name="chronology_epoch_return">Kurudi na Kujengwa Upya</string>
+    <string name="chronology_epoch_psalms">Zaburi: Uhusishaji na Mapokeo</string>
+    <string name="chronology_psalms_note">Zaburi zinahusu vipindi vingi; sehemu hii inauweka mkusanyiko pamoja bila kuupa tarehe moja ya utunzi. Makundi yasiyopishana yanafuata uhusishaji mkuu wa watu katika vichwa vya Kiebrania. Vichwa hivyo vinaweza kuonyesha mtunzi, mtu aliyeandikiwa, mada au kikundi cha wanamuziki. Yeduthuni anatajwa katika Zaburi 39, 62 na 77 kwa uhusiano na muziki au uimbaji. Zaburi 88 inawataja wana wa Kora na Hemani. Bava Batra 14b pia inahifadhi mapokeo mapana kwamba Daudi alikusanya Zaburi kwa msaada wa wazee kumi; haitaji mtunzi wa kila zaburi moja moja. Bila jina maana yake ni kwamba kichwa cha Kiebrania hakimwiti mtunzi kwa jina.</string>
+    <string name="chronology_psalms_david">Zaburi zinazohusishwa na Daudi</string>
+    <string name="chronology_psalms_asaph">Zaburi za Asafu au Waasafu</string>
+    <string name="chronology_psalms_korah">Zaburi za Wana wa Kora</string>
+    <string name="chronology_psalms_solomon">Zaburi zinazohusishwa na Sulemani</string>
+    <string name="chronology_psalms_moses">Zaburi inayohusishwa na Musa</string>
+    <string name="chronology_psalms_heman_korah">Zaburi ya Hemani na Wana wa Kora</string>
+    <string name="chronology_psalms_ethan">Zaburi ya Ethani</string>
+    <string name="chronology_psalms_unnamed">Zaburi zisizo na jina la mtunzi</string>
+    <string name="chronology_epoch_second_temple">Hekalu la Pili na Kipindi cha Wamakabayo</string>
+    <string name="chronology_epoch_jesus">Maisha na Huduma ya Yesu</string>
+    <string name="chronology_epoch_church">Kanisa la Awali, Nyaraka na Ufunuo</string>
+    <string name="chronology_basis_traditional">Mazingira ya jadi</string>
+    <string name="chronology_basis_approximate">Nafasi ya takriban</string>
+    <string name="chronology_basis_parallel">Simulizi sambamba</string>
+    <string name="chronology_basis_multiple_periods">Mkusanyiko unahusu vipindi vingi</string>
+    <string name="chronology_gospel_birth">Kuzaliwa na miaka ya awali</string>
+    <string name="chronology_gospel_preparation">Maandalizi na huduma ya awali</string>
+    <string name="chronology_gospel_galilee">Huduma ya Galilaya</string>
+    <string name="chronology_gospel_training">Kujitenga na kuwafundisha wale Kumi na Wawili</string>
+    <string name="chronology_gospel_journey">Safari ya Yerusalemu na huduma ya Uyahudi</string>
+    <string name="chronology_gospel_final_week">Juma la mwisho na kusulubiwa</string>
+    <string name="chronology_gospel_resurrection">Ufufuo</string>
+    <string name="daily_notification_title">Arifa</string>
+    <string name="daily_notification_toggle">Mstari wa Siku kila siku</string>
+    <string name="daily_notification_desc">Pokea mstari kwa wakati wa eneo lako uliouchagua. Gusa ili uusome, au tumia Nakili au Shiriki. Kifaa chako kinaweza kuchelewesha arifa.</string>
+    <string name="daily_notification_time">Wakati wa arifa</string>
+    <string name="daily_notification_clock_12">Mfumo wa saa 12</string>
+    <string name="daily_notification_clock_24">Mfumo wa saa 24</string>
+    <string name="daily_notification_am">AM</string>
+    <string name="daily_notification_pm">PM</string>
+    <string name="daily_notification_time_with_period">%1$s %2$s</string>
+    <string name="daily_notification_save">Hifadhi wakati</string>
+    <string name="daily_notification_ios_window">iOS hupanga mistari ya hadi siku 60. Fungua programu mara kwa mara ili kuisasisha.</string>
+    <string name="daily_notification_permission_denied">Arifa zimezuiwa. Ziruhusu katika mipangilio ya kifaa chako, kisha washa chaguo hili.</string>
+    <string name="daily_notification_system_settings">Mipangilio ya arifa ya kifaa</string>
+    <!-- Primary navigation and reader redesign -->
+    <string name="ui_nav_home">Mwanzo</string>
+    <string name="ui_nav_read">Soma</string>
+    <string name="ui_nav_study">Jifunze</string>
+    <string name="ui_nav_calendar">Kalenda</string>
+    <string name="ui_reading_appearance">Muonekano wa usomaji</string>
+    <string name="ui_line_spacing">Nafasi kati ya mistari</string>
+    <string name="ui_verse_per_line">Mstari mmoja wa Biblia kwa kila mstari wa maandishi</string>
+    <string name="ui_chapters">Sura</string>
+    <string name="ui_verses">Mistari</string>
+    <string name="ui_choose_book">Chagua kitabu</string>
+    <string name="ui_choose_bible_version">Chagua toleo la Biblia</string>
+    <string name="ui_previous_chapter">Sura iliyotangulia</string>
+    <string name="ui_previous_book">Kitabu kilichotangulia</string>
+    <string name="ui_next_book">Kitabu kinachofuata</string>
+    <string name="ui_next_chapter">Sura inayofuata</string>
+    <string name="ui_chapter_position">%1$d / %2$d</string>
+    <string name="ui_foundations">Misingi</string>
+    <string name="ui_torah_feasts">Torati &amp; Sikukuu</string>
+    <string name="ui_discernment">Utambuzi</string>
+    <string name="ui_reference">Marejeo</string>
+    <string name="ui_library_law">Sheria</string>
+    <string name="ui_library_history">Historia</string>
+    <string name="ui_library_wisdom">Hekima</string>
+    <string name="ui_library_major_prophets">Manabii Wakuu</string>
+    <string name="ui_library_minor_prophets">Manabii Wadogo</string>
+    <string name="ui_library_gospels">Injili</string>
+    <string name="ui_library_paul">Paulo</string>
+    <string name="ui_library_general">Nyaraka za jumla</string>
+    <string name="ui_current_feasts">Sikukuu za sasa</string>
+    <string name="ui_next_feast">Sikukuu inayofuata</string>
+    <string name="ui_calendar_basis">Msingi wa kalenda</string>
+    <string name="ui_reading_now">Unasoma sasa</string>
+    <string name="ui_open_chapter">Fungua sura</string>
+    <string name="ui_library_torah">Sheria (Pentateuko / Torati)</string>
+    <string name="ui_library_historical_books">Vitabu vya Historia</string>
+    <string name="ui_library_wisdom_poetry">Hekima na Ushairi</string>
+    <string name="ui_library_prophets">Manabii</string>
+    <string name="ui_library_church_history">Historia ya Kanisa</string>
+    <string name="ui_library_letters">Nyaraka</string>
+    <string name="ui_library_pauline_epistles">Nyaraka za Paulo</string>
+    <string name="ui_library_general_epistles">Nyaraka za jumla</string>
+    <string name="ui_library_revelation">Ufunuo</string>
+    <!-- Custom theme color picker -->
+    <string name="ui_choose_custom_color">Chagua rangi uliyobinafsisha</string>
+    <string name="ui_choose_custom_color_hint">Chagua sampuli yenye rangi angavu, kisha rekebisha ukolezi wake.</string>
+    <string name="ui_custom_color_readability_note">Rangi yako kuu hubaki kama ulivyoichagua. Rangi za maandishi na za usaidizi hubadilika ili zisomeke vizuri.</string>
+    <string name="ui_hue">Aina ya rangi</string>
+    <string name="ui_saturation">Ukolezi wa rangi</string>
+    <string name="ui_lightness">Uangavu</string>
+    <string name="ui_exact_color">Rangi mahususi</string>
+    <string name="ui_exact_color_hint">#RRGGBB au 255,0,0</string>
+    <string name="ui_invalid_exact_color">Tumia #RRGGBB au nambari tatu kutoka 0 hadi 255.</string>
+    <string name="ui_apply_color">Tumia rangi</string>
+    <string name="ui_color_red">Nyekundu</string>
+    <string name="ui_color_orange">Machungwa</string>
+    <string name="ui_color_yellow">Njano</string>
+    <string name="ui_color_lime">Kijani cha ndimu</string>
+    <string name="ui_color_cyan">Samawati</string>
+    <string name="ui_color_selected">Imechaguliwa</string>
+    <string name="ui_color_fine_tuned">Rangi iliyorekebishwa kwa undani</string>
+    <string name="ui_theme_preview">Hakiki ya mandhari</string>
+    <string name="ui_fine_tune_color">Rekebisha rangi kwa undani</string>
+    <string name="ui_hide_fine_color_control">Ficha urekebishaji wa kina</string>
+    <string name="ui_color_crimson">Nyekundu iliyokolea</string>
+    <string name="ui_color_coral">Matumbawe</string>
+    <string name="ui_color_amber">Kaharabu</string>
+    <string name="ui_color_gold">Dhahabu</string>
+    <string name="ui_color_olive">Kijani cha zeituni</string>
+    <string name="ui_color_green">Kijani</string>
+    <string name="ui_color_emerald">Kijani cha zumaridi</string>
+    <string name="ui_color_teal">Kijani cha samawati</string>
+    <string name="ui_color_sky_blue">Bluu ya anga</string>
+    <string name="ui_color_blue">Bluu</string>
+    <string name="ui_color_indigo">Bluu ya zambarau</string>
+    <string name="ui_color_violet">Urujuani</string>
+    <string name="ui_color_magenta">Zambarau nyekundu</string>
+    <string name="ui_color_rose">Waridi</string>
+    <string name="ui_primary_color">Rangi ya msingi</string>
+    <string name="ui_secondary_color">Rangi ya pili</string>
+    <string name="ui_tertiary_color">Rangi ya tatu</string>
+    <string name="ui_custom_palette_hint">Chagua kila rangi kivyake, au linganisha rangi zote mbili za msisitizo na rangi yako ya msingi.</string>
+    <string name="ui_match_accent_colors">Linganisha rangi za msisitizo na rangi ya msingi</string>
+    <string name="saved_sort_auto">Mpangilio wa Biblia</string>
+    <string name="saved_sort_custom">Mpangilio maalumu</string>
+    <string name="cd_reorder_saved_verse">Panga upya</string>
+    <string name="cd_previous_month">Mwezi uliotangulia</string>
+    <string name="cd_next_month">Mwezi unaofuata</string>
+    <string name="cd_clear_search">Futa utafutaji</string>
+    <string name="done">Imekamilika</string>
+</resources>

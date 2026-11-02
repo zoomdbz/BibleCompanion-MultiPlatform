@@ -1,4 +1,4 @@
-"""Offline fixtures for the licensed modern-edition comparator."""
+"""Offline fixtures for the modern-edition comparator."""
 
 from __future__ import annotations
 

@@ -83,6 +83,7 @@
 		E7B2C3D50000021A /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		E7B2C3D50000021B /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
 		E7B2C3D50000021C /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
+		E7B2C3D50000021D /* sw */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sw; path = sw.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		E7B2C3D500000310 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		E7B2C3D500000311 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
 		E7B2C3D500000312 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
@@ -96,6 +97,7 @@
 		E7B2C3D50000031A /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Localizable.strings; sourceTree = "<group>"; };
 		E7B2C3D50000031B /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
 		E7B2C3D50000031C /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		E7B2C3D50000031D /* sw */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sw; path = sw.lproj/Localizable.strings; sourceTree = "<group>"; };
 		E7B2C3D400000100 /* FeastWidget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeastWidget.swift; sourceTree = "<group>"; };
 		E7B2C3D400000101 /* WidgetCalendarEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WidgetCalendarEngine.swift; sourceTree = "<group>"; };
 		E7B2C3D400000102 /* FeastWidgetBundle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeastWidgetBundle.swift; sourceTree = "<group>"; };
@@ -118,6 +120,7 @@
 		E7B2C3D70000021A /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Localizable.strings; sourceTree = "<group>"; };
 		E7B2C3D70000021B /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
 		E7B2C3D70000021C /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		E7B2C3D70000021D /* sw */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sw; path = sw.lproj/Localizable.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -275,6 +278,7 @@
 				ja,
 				"zh-Hans",
 				"zh-Hant",
+				sw,
 			);
 			mainGroup = E7B2C3D400000030;
 			packageReferences = (
@@ -336,6 +340,7 @@
 				E7B2C3D50000021A /* ja */,
 				E7B2C3D50000021B /* zh-Hans */,
 				E7B2C3D50000021C /* zh-Hant */,
+				E7B2C3D50000021D /* sw */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -356,6 +361,7 @@
 				E7B2C3D50000031A /* ja */,
 				E7B2C3D50000031B /* zh-Hans */,
 				E7B2C3D50000031C /* zh-Hant */,
+				E7B2C3D50000031D /* sw */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
@@ -376,6 +382,7 @@
 				E7B2C3D70000021A /* ja */,
 				E7B2C3D70000021B /* zh-Hans */,
 				E7B2C3D70000021C /* zh-Hant */,
+				E7B2C3D70000021D /* sw */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
@@ -463,7 +470,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 61;
+				CURRENT_PROJECT_VERSION = 62;
 				DEVELOPMENT_TEAM = "S2SJZWNA6A";
 				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -476,7 +483,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 6.1.0;
+				MARKETING_VERSION = 6.2.0;
 				OTHER_LINKER_FLAGS = (
 					"$(inherited)",
 					"-ObjC",
@@ -497,7 +504,7 @@
 				CODE_SIGN_STYLE = Manual;
 				CODE_SIGN_IDENTITY = "Apple Distribution";
 				PROVISIONING_PROFILE_SPECIFIER = "BibleCompanion AppStore";
-				CURRENT_PROJECT_VERSION = 61;
+				CURRENT_PROJECT_VERSION = 62;
 				DEVELOPMENT_TEAM = "S2SJZWNA6A";
 				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -510,7 +517,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 6.1.0;
+				MARKETING_VERSION = 6.2.0;
 				OTHER_LINKER_FLAGS = (
 					"$(inherited)",
 					"-ObjC",
@@ -638,7 +645,7 @@
 			buildSettings = {
 				APPLICATION_EXTENSION_API_ONLY = YES;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 61;
+				CURRENT_PROJECT_VERSION = 62;
 				DEVELOPMENT_TEAM = S2SJZWNA6A;
 				GENERATE_INFOPLIST_FILE = NO;
 				INFOPLIST_FILE = FeastWidget/Info.plist;
@@ -648,7 +655,7 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				MARKETING_VERSION = 6.1.0;
+				MARKETING_VERSION = 6.2.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.dividesbyzer0.biblecompanion.FeastWidget;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
@@ -665,7 +672,7 @@
 				APPLICATION_EXTENSION_API_ONLY = YES;
 				CODE_SIGN_IDENTITY = "Apple Distribution";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 61;
+				CURRENT_PROJECT_VERSION = 62;
 				DEVELOPMENT_TEAM = S2SJZWNA6A;
 				GENERATE_INFOPLIST_FILE = NO;
 				INFOPLIST_FILE = FeastWidget/Info.plist;
@@ -675,7 +682,7 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				MARKETING_VERSION = 6.1.0;
+				MARKETING_VERSION = 6.2.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.dividesbyzer0.biblecompanion.FeastWidget;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "BibleCompanion_Widget_AppStore";

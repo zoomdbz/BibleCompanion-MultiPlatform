@@ -17,7 +17,7 @@ class LinkerTest {
       "ru" to ("NRT" to 143), "ja" to ("JCB" to 83),
       "ko" to ("RNKSV" to 142), "zh-Hans" to ("CCB" to 36),
       "zh-Hant" to ("RCUV" to 139), "ar" to ("SAB" to 153),
-      "hi" to ("IRVHIN" to 1980)
+      "hi" to ("IRVHIN" to 1980), "sw" to ("SUV" to 164)
     )
     expected.forEach { (lang, choice) ->
       val (code, id) = choice
@@ -33,6 +33,20 @@ class LinkerTest {
         lang
       )
     }
+  }
+
+  @Test
+  fun swahiliExternalLinksUseNativeBookNamesAndAvoidIncompleteGatewayCorpus() {
+    assertEquals(
+      "SUV" to "https://www.bible.com/bible/164/GEN.1.7.SUV",
+      Linker.linkForReader("Mwanzo 1:7", "", "biblecom", "sw")
+    )
+    assertEquals(
+      "SUV" to "https://www.bible.com/bible/164/1CO.13.4.SUV",
+      Linker.linkForReader("1 Wakorintho 13:4", "", "biblecom", "sw")
+    )
+    assertNull(Linker.linkForReader("Mwanzo 1:7", "", "biblegateway", "sw"))
+    assertNull(Linker.linkForReader("Tobiti 1:1", "SUV", "biblecom", "sw"))
   }
 
   @Test
