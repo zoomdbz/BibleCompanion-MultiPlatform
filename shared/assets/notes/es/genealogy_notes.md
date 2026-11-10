@@ -1,9 +1,9 @@
 # Notas sobre la genealogía de Jesús
 
-Después de David, las genealogías divergen: Mateo traza la **línea legal/real** a través de **Salomón**, mientras que Lucas sigue una **línea biológica** a través de **Natán**. Vuelven a coincidir en **Zorobabel** y finalmente en **Jesús**.
+Después de David, las genealogías divergen: Mateo traza la **línea legal/real** a través de **Salomón**, mientras que Lucas sigue una **línea sacerdotal** a través de **Natán**. Vuelven a coincidir en **Zorobabel** y finalmente en **Jesús**.
 
 - **Mateo 1:1-17** -- sucesión real/legal hasta José.
-- **Lucas 3:23-38** -- ascendencia biológica/sacerdotal (las tradiciones varían sobre si esto traza a María o a José «según la ley»).
+- **Lucas 3:23-38** -- ascendencia sacerdotal (las tradiciones varían sobre si esto traza a María o a José «según la ley»).
 
 ---
 

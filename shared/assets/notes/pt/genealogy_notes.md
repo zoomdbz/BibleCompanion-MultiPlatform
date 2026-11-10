@@ -1,9 +1,9 @@
 # Notas sobre a genealogia de Jesus
 
-Depois de Davi, as genealogias se separam: Mateus traça a linha **legal/real** por **Salomão**, enquanto Lucas segue uma linha **biológica** por **Natã**. Elas voltam a coincidir em **Zorobabel** e, por fim, em **Jesus**.
+Depois de Davi, as genealogias se separam: Mateus traça a linha **legal/real** por **Salomão**, enquanto Lucas segue uma linha **sacerdotal** por **Natã**. Elas voltam a coincidir em **Zorobabel** e, por fim, em **Jesus**.
 
 - **Mateus 1:1-17** -- sucessão real/legal até José.
-- **Lucas 3:23-38** -- ascendência biológica/sacerdotal (as tradições variam se isso se refere a Maria ou a José «por lei»).
+- **Lucas 3:23-38** -- ascendência sacerdotal (as tradições variam se isso se refere a Maria ou a José «por lei»).
 
 ---
 

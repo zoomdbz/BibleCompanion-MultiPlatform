@@ -327,9 +327,20 @@ internal fun AppBackup.importedCustomThemeOrNull(): ImportedCustomTheme? =
   }
 
 // Genealogy models
-data class GeneNode(val name: String, val refs: List<String>)
-data class GeneRow(
-  val center: GeneNode? = null,
-  val left: GeneNode? = null,
-  val right: GeneNode? = null
+data class GeneNode(
+  val name: String,
+  val refs: List<String>,
+  // Explicit tap target; when null the card taps to refs.first().
+  val navRef: String? = null,
+  // Optional attached woman, rendered as "& <wife>" beneath the name.
+  val wife: String? = null,
+  // Her own tap target (the verse where she is named).
+  val wifeRef: String? = null
+)
+// A shared node where Matthew and Luke converge (Zerubbabel, Jesus). Each
+// gospel's reference is kept separate so it can be its own tap target.
+data class ConvergeNode(
+  val name: String,
+  val matthewRef: String,
+  val lukeRef: String
 )

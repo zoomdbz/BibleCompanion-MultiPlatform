@@ -1,9 +1,9 @@
 # Maelezo kuhusu ukoo wa Yesu
 
-Baada ya Daudi, orodha za ukoo zinatofautiana: Mathayo anafuatilia mstari wa **kisheria/kifalme** kupitia **Solomoni**, huku Luka akifuatilia mstari wa **kibiolojia** kupitia **Nathani**. Zinalingana tena kwa **Zerubabeli** na hatimaye kwa **Yesu**.
+Baada ya Daudi, orodha za ukoo zinatofautiana: Mathayo anafuatilia mstari wa **kisheria/kifalme** kupitia **Solomoni**, huku Luka akifuatilia mstari wa **kikuhani** kupitia **Nathani**. Zinalingana tena kwa **Zerubabeli** na hatimaye kwa **Yesu**.
 
 - **Mathayo 1:1-17** -- urithi wa kifalme/kisheria unaofika kwa Yosefu.
-- **Luka 3:23-38** -- ukoo wa kibiolojia/kikuhani (mapokeo yanatofautiana kuhusu iwapo huu ni ukoo wa Mariamu au wa Yosefu "kwa mujibu wa sheria").
+- **Luka 3:23-38** -- ukoo wa kikuhani (mapokeo yanatofautiana kuhusu iwapo huu ni ukoo wa Mariamu au wa Yosefu "kwa mujibu wa sheria").
 
 ---
 

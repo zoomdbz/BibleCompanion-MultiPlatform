@@ -1,9 +1,9 @@
 # Notes on the Genealogy of Jesus
 
-After David the genealogies diverge: Matthew traces the **legal/royal** line through **Solomon**, while Luke follows a **biological** line through **Nathan**. They align again at **Zerubbabel** and finally at **Jesus**.
+After David the genealogies diverge: Matthew traces the **legal/royal** line through **Solomon**, while Luke follows a **priestly** line through **Nathan**. They align again at **Zerubbabel** and finally at **Jesus**.
 
 - **Matthew 1:1-17** -- royal/legal succession down to Joseph.
-- **Luke 3:23-38** -- biological/priestly ancestry (traditions vary on whether this traces Mary or Joseph "by law").
+- **Luke 3:23-38** -- priestly ancestry (traditions vary on whether this traces Mary or Joseph "by law").
 
 ---
 
