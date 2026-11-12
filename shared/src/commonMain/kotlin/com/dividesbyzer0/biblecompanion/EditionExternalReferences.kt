@@ -214,3 +214,86 @@ internal fun editionAwareExternalLink(
   ) return null
   return result
 }
+
+/**
+ * Tap navigation for a selected external reader. Bible.com and BibleGateway
+ * both accept chapter, verse, and same-chapter range links, so a tap honors the
+ * selected site and version instead of silently opening in-app. An audited
+ * provider target keeps its exact crosswalk; any other provider edition gets
+ * the reference in the base corpus numbering it is displayed in. Returns null
+ * only for the internal reader or when the provider cannot address the book.
+ * Share links keep the stricter [editionAwareExternalLink] contract.
+ */
+internal fun externalReaderNavigationLink(
+  context: PlatformContext,
+  canonicalRef: String,
+  bookId: String,
+  prefs: PrefsState,
+  sourceEdition: String
+): Pair<String, String>? {
+  val language = LocaleUtils.effectiveAssetTag(prefs.appLanguage)
+  return externalReaderNavigationLink(canonicalRef, bookId, prefs, sourceEdition) {
+      resolvedBookId, fromEdition, toEdition, anchor ->
+    EditionReferenceMaps.resolve(
+      context = context,
+      language = language,
+      bookId = resolvedBookId,
+      fromEdition = fromEdition,
+      toEdition = toEdition,
+      anchor = anchor
+    )
+  }
+}
+
+/** Inject the edition resolver so navigation tests need no platform assets. */
+internal fun externalReaderNavigationLink(
+  canonicalRef: String,
+  bookId: String,
+  prefs: PrefsState,
+  sourceEdition: String,
+  resolveAnchor: (bookId: String, fromEdition: String, toEdition: String, anchor: VerseAnchor) -> VerseAnchor?
+): Pair<String, String>? {
+  val mode = prefs.readerMode.trim().lowercase()
+  if (mode != "biblecom" && mode != "biblegateway") return null
+  val language = LocaleUtils.effectiveAssetTag(prefs.appLanguage)
+  val baseEdition = BibleEditions.defaultForLanguage(language)
+  val source = when (val raw = sourceEdition.trim().lowercase()) {
+    "default" -> baseEdition
+    "kjv" -> if (language == "en") BibleEditions.KJV_1769 else baseEdition
+    else -> raw
+  }.takeIf { it in BibleEditions.available(language) } ?: baseEdition
+  val selectedVersion = Linker.selectedVersionForReader(prefs.translation, mode, language)
+    ?: return null
+  val target = providerNumberingEdition(language, mode, selectedVersion, bookId) ?: baseEdition
+
+  val lookupReference = editionAwareCanonicalReference(
+    canonicalRef = canonicalRef,
+    bookId = bookId,
+    baseEdition = baseEdition,
+    sourceEdition = source,
+    providerTargetEdition = target,
+    resolveAnchor = resolveAnchor
+  ) ?: chapterOnlyNavigationReference(canonicalRef, bookId, source, target, resolveAnchor)
+    ?: canonicalRef
+
+  return Linker.linkForReader(lookupReference, prefs.translation, mode, language)
+}
+
+/**
+ * A chapter-only reference cannot carry a verse crosswalk, but the audited map
+ * still places the chapter's first verse. That chapter is the honest target
+ * (for example, Synodal LXX Psalm numbering into a modern edition).
+ */
+private fun chapterOnlyNavigationReference(
+  canonicalRef: String,
+  bookId: String,
+  source: String,
+  target: String,
+  resolveAnchor: (bookId: String, fromEdition: String, toEdition: String, anchor: VerseAnchor) -> VerseAnchor?
+): String? {
+  if (source == target) return null
+  val parsed = parseCanonicalExternalReference(canonicalRef) ?: return null
+  if (parsed.verseStart != null) return null
+  val mapped = resolveAnchor(bookId, source, target, VerseAnchor(parsed.chapter, 1)) ?: return null
+  return "${parsed.book} ${mapped.chapter}"
+}

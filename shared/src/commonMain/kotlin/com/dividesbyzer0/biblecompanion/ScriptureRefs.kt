@@ -5,6 +5,7 @@ import com.dividesbyzer0.biblecompanion.platform.LocalPlatformContext
 import com.dividesbyzer0.biblecompanion.platform.readAssetText
 import com.dividesbyzer0.biblecompanion.platform.assetExists
 import com.dividesbyzer0.biblecompanion.platform.platformOpenUrl
+import com.dividesbyzer0.biblecompanion.platform.platformOpenExternalReader
 import com.dividesbyzer0.biblecompanion.platform.normalizeNFKC
 import com.dividesbyzer0.biblecompanion.platform.normalizeNFKD
 import com.dividesbyzer0.biblecompanion.platform.ColorHsl
@@ -1182,6 +1183,8 @@ object ScriptureRefs {
     )
 
     fun openUrl(u: String) = platformOpenUrl(ctx, u)
+    // Reader links prefer the installed YouVersion or Bible Gateway app.
+    fun openReader(u: String) = platformOpenExternalReader(ctx, u)
 
     val effectiveLang = LocaleUtils.effectiveAssetTag(prefs.appLanguage)
     val compactReferenceLanguage = inlineMarkdown && when (effectiveLang) {
@@ -1587,7 +1590,7 @@ object ScriptureRefs {
             // Swap button (open suggested version on bible.com)
             TextButton(
               onClick = {
-                openUrl(d.fallbackUrl)
+                openReader(d.fallbackUrl)
                 navGate = false; dialog = null
               },
               modifier = Modifier.fillMaxWidth()
@@ -1654,7 +1657,9 @@ object ScriptureRefs {
                   isApocryphaBook(payload.canonBook) ||
                   payload.collection in setOf("deuterocanonical", "apocrypha", "pseudepigrapha")
 
-          val resolved = editionAwareExternalLink(
+          // The selected external reader always wins. In-app is the fallback
+          // only when that provider cannot address this book at all.
+          val resolved = externalReaderNavigationLink(
             ctx, fullRef, payload.assetId, prefs,
             referenceEditionId ?: BibleEditions.defaultForLanguage(payload.appLanguage)
           ) ?: run {
@@ -1680,9 +1685,10 @@ object ScriptureRefs {
             return@click
           }
 
-          // The verified HTTPS URL is a universal link: YouVersion opens when
-          // installed, and the browser remains a reliable fallback otherwise.
-          openUrl(resolvedUrl)
+          // The verified HTTPS URL opens the provider's app when installed
+          // (universal link on iOS, explicit package on Android) and the
+          // browser otherwise.
+          openReader(resolvedUrl)
           navGate = false
           return@click
         }

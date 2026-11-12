@@ -2,6 +2,7 @@
 
 package com.dividesbyzer0.biblecompanion.platform
 
+import com.dividesbyzer0.biblecompanion.Linker
 import kotlinx.cinterop.ObjCSignatureOverride
 import kotlinx.cinterop.addressOf
 import kotlinx.cinterop.convert
@@ -160,6 +161,25 @@ actual fun platformOpenUrl(context: PlatformContext, url: String) {
 
 actual fun platformOpenUrlInBrowser(context: PlatformContext, url: String) {
     platformOpenUrl(context, url)
+}
+
+// bible.com's apple-app-site-association authorizes YouVersion
+// (tv.lifechurch.bible) for every path, so openURL follows the https link into
+// the installed app and falls back to Safari otherwise. The current Bible
+// Gateway app (com.zonervan.biblegateway) ships no associated domains, so its
+// https links always open Safari; it opens only through biblegateway://. The
+// completion reports false when no installed app claims that scheme, and the
+// verified web page opens instead. openURL needs no LSApplicationQueriesSchemes
+// entry; only canOpenURL does.
+actual fun platformOpenExternalReader(context: PlatformContext, url: String) {
+    val appLink = Linker.bibleGatewayAppLinkForWebUrl(url)?.let { NSURL.URLWithString(it) }
+    if (appLink == null) {
+        platformOpenUrl(context, url)
+        return
+    }
+    UIApplication.sharedApplication.openURL(appLink, emptyMap<Any?, Any>()) { opened ->
+        if (!opened) platformOpenUrl(context, url)
+    }
 }
 
 actual fun platformIsAppInstalled(context: PlatformContext, packageId: String): Boolean = false

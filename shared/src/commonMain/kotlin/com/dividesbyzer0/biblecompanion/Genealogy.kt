@@ -3,7 +3,7 @@ package com.dividesbyzer0.biblecompanion
 import com.dividesbyzer0.biblecompanion.platform.LocalPlatformContext
 import com.dividesbyzer0.biblecompanion.platform.PlatformContext
 import com.dividesbyzer0.biblecompanion.platform.readAssetText
-import com.dividesbyzer0.biblecompanion.platform.platformOpenUrl
+import com.dividesbyzer0.biblecompanion.platform.platformOpenExternalReader
 import androidx.compose.foundation.Canvas
 import androidx.compose.foundation.border
 import androidx.compose.foundation.clickable
@@ -251,7 +251,7 @@ private fun navigateToRef(
       )
       if (url.isNotBlank()) {
         withContext(Dispatchers.Main) {
-          runCatching { platformOpenUrl(ctx, url) }
+          runCatching { platformOpenExternalReader(ctx, url) }
         }
       }
     }

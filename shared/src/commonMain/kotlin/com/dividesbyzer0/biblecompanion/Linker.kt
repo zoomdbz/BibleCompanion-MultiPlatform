@@ -195,6 +195,90 @@ object Linker {
     return "https://www.biblegateway.com/passage/?search=$q&version=$v"
   }
 
+  // The Bible Gateway app (Android com.csnmedia.android.bg, iOS
+  // com.zonervan.biblegateway) registers only the biblegateway:// scheme; its
+  // shipped config declares no https app links or associated domains. Its
+  // bible/handleDeepLink handler (app 200.2.0) accepts exactly
+  // biblegateway://bible/{OSIS book}.{chapter}/{version short name}. A verse
+  // segment is rejected, and an unknown book silently opens the first book, so
+  // only the 66 protocanon codes from the app's own OSIS table are emitted, and
+  // only for a single whole-chapter reference. Verse, range, and list
+  // references stay on the web URL, which lands on the exact verse.
+  private val bibleGatewayAppOsisByBookCode = mapOf(
+    "GEN" to "Gen", "EXO" to "Exod", "LEV" to "Lev", "NUM" to "Num", "DEU" to "Deut",
+    "JOS" to "Josh", "JDG" to "Judg", "RUT" to "Ruth", "1SA" to "1Sam", "2SA" to "2Sam",
+    "1KI" to "1Kgs", "2KI" to "2Kgs", "1CH" to "1Chr", "2CH" to "2Chr", "EZR" to "Ezra",
+    "NEH" to "Neh", "EST" to "Esth", "JOB" to "Job", "PSA" to "Ps", "PRO" to "Prov",
+    "ECC" to "Eccl", "SNG" to "Song", "ISA" to "Isa", "JER" to "Jer", "LAM" to "Lam",
+    "EZK" to "Ezek", "DAN" to "Dan", "HOS" to "Hos", "JOL" to "Joel", "AMO" to "Amos",
+    "OBA" to "Obad", "JON" to "Jonah", "MIC" to "Mic", "NAM" to "Nah", "HAB" to "Hab",
+    "ZEP" to "Zeph", "HAG" to "Hag", "ZEC" to "Zech", "MAL" to "Mal",
+    "MAT" to "Matt", "MRK" to "Mark", "LUK" to "Luke", "JHN" to "John", "ACT" to "Acts",
+    "ROM" to "Rom", "1CO" to "1Cor", "2CO" to "2Cor", "GAL" to "Gal", "EPH" to "Eph",
+    "PHP" to "Phil", "COL" to "Col", "1TH" to "1Thess", "2TH" to "2Thess", "1TI" to "1Tim",
+    "2TI" to "2Tim", "TIT" to "Titus", "PHM" to "Phlm", "HEB" to "Heb", "JAS" to "Jas",
+    "1PE" to "1Pet", "2PE" to "2Pet", "1JN" to "1John", "2JN" to "2John", "3JN" to "3John",
+    "JUD" to "Jude", "REV" to "Rev"
+  )
+
+  /**
+   * Bible Gateway app link for a whole-chapter reference ("James 4"), or null
+   * when the web URL must be used: any verse, range, or list ("James 4:17"),
+   * a book the app link cannot address, or an unsafe version code.
+   */
+  fun buildBibleGatewayAppLink(ref: String, versionCode: String): String? {
+    val version = versionCode.trim().uppercase()
+    if (!Regex("^[A-Z0-9-]+$").matches(version)) return null
+    val (bookName, restRaw) = parseRef(normalizeRefInput(ref)) ?: return null
+    val bookCode = toYouVersionBookCode(bookName) ?: return null
+    val osis = bibleGatewayAppOsisByBookCode[bookCode] ?: return null
+    val tail = restRaw.trim()
+    if (!Regex("^\\d+$").matches(tail)) return null
+    val chapter = tail.toIntOrNull()?.takeIf { it >= 1 } ?: return null
+    // In a one-chapter book a bare number is a verse ("Jude 3"); only
+    // "Jude 1" names the whole chapter.
+    if (bookCode in SINGLE_CHAPTER_CODES && chapter != 1) return null
+    // Psalm 151 is a separate deuterocanonical book in the app (Ps151).
+    if (bookCode == "PSA" && chapter > 150) return null
+    return "biblegateway://bible/$osis.$chapter/$version"
+  }
+
+  /** Derive the app link from a Gateway passage URL built by [buildBibleGatewayUrl]. */
+  fun bibleGatewayAppLinkForWebUrl(url: String): String? {
+    val prefix = "https://www.biblegateway.com/passage/?"
+    if (!url.startsWith(prefix)) return null
+    val params = url.removePrefix(prefix).split('&').mapNotNull { pair ->
+      val parts = pair.split('=', limit = 2)
+      if (parts.size == 2) decodeQueryComponent(parts[0]) to decodeQueryComponent(parts[1]) else null
+    }.toMap()
+    val search = params["search"] ?: return null
+    val version = params["version"] ?: return null
+    return buildBibleGatewayAppLink(search, version)
+  }
+
+  // Accepts both URLEncoder ("+" for space) and strict percent encoding.
+  private fun decodeQueryComponent(value: String): String {
+    val bytes = ArrayList<Byte>(value.length)
+    var i = 0
+    while (i < value.length) {
+      val c = value[i]
+      when {
+        c == '+' -> { bytes += ' '.code.toByte(); i++ }
+        c == '%' && i + 2 < value.length &&
+          value.substring(i + 1, i + 3).toIntOrNull(16) != null -> {
+          bytes += value.substring(i + 1, i + 3).toInt(16).toByte(); i += 3
+        }
+        else -> {
+          var j = i + 1
+          while (j < value.length && value[j] != '+' && value[j] != '%') j++
+          value.substring(i, j).encodeToByteArray().forEach { bytes += it }
+          i = j
+        }
+      }
+    }
+    return bytes.toByteArray().decodeToString()
+  }
+
   fun buildBibleComUrl(ref: String, versionCode: String): String? {
     val vCode = canonicalYouVersionCode(versionCode)
     val id = youVersionIdFor(vCode) ?: return null

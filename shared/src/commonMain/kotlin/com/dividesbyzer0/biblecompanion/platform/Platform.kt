@@ -23,6 +23,9 @@ expect fun ensureCacheDir(context: PlatformContext, dir: String)
 // ---- URL / browser ----
 expect fun platformOpenUrl(context: PlatformContext, url: String)
 expect fun platformOpenUrlInBrowser(context: PlatformContext, url: String)
+// Opens a Bible.com or BibleGateway link in the provider's app when installed,
+// otherwise in the browser. Other hosts behave exactly like platformOpenUrl.
+expect fun platformOpenExternalReader(context: PlatformContext, url: String)
 expect fun platformIsAppInstalled(context: PlatformContext, packageId: String): Boolean
 expect val isApplePlatform: Boolean
 

@@ -1,10 +1,12 @@
 package com.dividesbyzer0.biblecompanion.platform
 
 import android.app.Activity
+import android.content.ActivityNotFoundException
 import android.content.ClipData
 import android.content.ClipboardManager
 import android.content.Context
 import android.content.Intent
+import android.net.Uri
 import android.os.Handler
 import android.os.Looper
 import android.speech.tts.TextToSpeech
@@ -12,6 +14,7 @@ import android.speech.tts.UtteranceProgressListener
 import androidx.appcompat.app.AppCompatDelegate
 import androidx.core.os.LocaleListCompat
 import androidx.core.net.toUri
+import com.dividesbyzer0.biblecompanion.Linker
 import com.google.android.play.core.assetpacks.AssetPackManagerFactory
 import java.io.File
 import java.net.HttpURLConnection
@@ -108,6 +111,39 @@ actual fun platformOpenUrlInBrowser(context: PlatformContext, url: String) {
         true
     }.getOrDefault(false)
     if (!tried) runCatching { context.startActivity(base) }
+}
+
+// YouVersion is verified for bible.com through Digital Asset Links and opens
+// its https passage URLs directly. Bible Gateway publishes no asset links and
+// its app has no https filter; it opens only through biblegateway:// links.
+private const val YOUVERSION_PACKAGE = "com.sirma.mobile.bible.android"
+private const val BIBLE_GATEWAY_PACKAGE = "com.csnmedia.android.bg"
+private val youVersionHosts = setOf("www.bible.com", "bible.com")
+
+// startActivity is not subject to package-visibility filtering, so no
+// <queries> entry is needed. A missing app or a package without a matching
+// VIEW filter throws, and the caller falls through to the next option.
+private fun startInPackage(context: Context, uri: Uri, pkg: String): Boolean = try {
+    context.startActivity(
+        Intent(Intent.ACTION_VIEW, uri)
+            .addCategory(Intent.CATEGORY_BROWSABLE)
+            .setPackage(pkg)
+            .addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
+    )
+    true
+} catch (_: ActivityNotFoundException) {
+    false
+} catch (_: SecurityException) {
+    false
+}
+
+actual fun platformOpenExternalReader(context: PlatformContext, url: String) {
+    Linker.bibleGatewayAppLinkForWebUrl(url)?.let { appLink ->
+        if (startInPackage(context, appLink.toUri(), BIBLE_GATEWAY_PACKAGE)) return
+    }
+    val uri = url.toUri()
+    if (uri.host?.lowercase() in youVersionHosts && startInPackage(context, uri, YOUVERSION_PACKAGE)) return
+    platformOpenUrl(context, url)
 }
 
 actual fun platformIsAppInstalled(context: PlatformContext, packageId: String): Boolean = runCatching {
