@@ -69,13 +69,13 @@ class DailyCalendarTests(unittest.TestCase):
                         source_text = source_text[:-len(suffix)]
                         suffixes.append(suffix)
                     self.assertEqual(row["sourceTextSha256"], text_digest(source_text))
-        self.assertCountEqual([" \u2014", ",", ",", ";"], suffixes)
+        self.assertCountEqual([" \u2014", ",", ";"], suffixes)
 
     def test_all_twelve_restored_japanese_passages_keep_combined_ranges(self):
         expected = {
             "Zephaniah 3:17": "Zephaniah 3:17-18",
             "Proverbs 23:24": "Proverbs 23:24-25",
-            "Proverbs 3:5": "Proverbs 3:4-5",
+            "Proverbs 3:5-6": "Proverbs 3:4-6",
             "Psalms 56:3": "Psalms 56:3-4",
             "Matthew 5:16": "Matthew 5:15-16",
             "John 1:12": "John 1:11-12",
@@ -92,7 +92,7 @@ class DailyCalendarTests(unittest.TestCase):
         rows = {row["canonicalRef"]: row["nativeRef"] for row in self.reference_map["ru"]}
         for canonical, native in {
             "Psalms 27:4": "Psalms 26:4",
-            "Psalms 8:3": "Psalms 8:4",
+            "Psalms 8:3-4": "Psalms 8:4-5",
             "Psalms 3:3": "Psalms 3:4",
             "Psalms 51:10": "Psalms 50:12",
             "Psalms 133:1": "Psalms 132:1",
@@ -117,11 +117,40 @@ class DailyCalendarTests(unittest.TestCase):
             native = [tuple(map(int, ref)) for ref in re.findall(r"Ps\.(\d+)\.(\d+)", left)]
             canonical = [tuple(map(int, ref)) for ref in re.findall(r"Ps\.(\d+)\.(\d+)", right)]
             _, chapter, verse, end = daily.parse_reference(row["canonicalRef"])
-            self.assertEqual(verse, end)
             self.assertEqual(chapter, canonical[0][0])
             self.assertTrue(canonical[0][1] <= verse <= canonical[-1][1])
+            self.assertTrue(verse <= end <= canonical[-1][1])
             mapped_verse = native[0][1] + (verse - canonical[0][1] if len(native) == 2 else 0)
-            self.assertEqual(row["nativeRef"], f"Psalms {native[0][0]}:{mapped_verse}")
+            mapped_end = mapped_verse + (end - verse)
+            tail = f"{native[0][0]}:{mapped_verse}" + (f"-{mapped_end}" if end > verse else "")
+            self.assertEqual(row["nativeRef"], f"Psalms {tail}")
+
+    def test_repaired_2026_passages_cover_every_native_verse(self):
+        # Compared with Bible.com's public day pages on 2026-11-19.
+        passages = {
+            1: "Isaiah 43:18-19", 26: "Psalms 8:3-4", 32: "Luke 1:46-47",
+            39: "James 1:2-3", 41: "Romans 5:3-4", 67: "Proverbs 31:25-26",
+            76: "Proverbs 3:5-6", 115: "Romans 3:23-24", 124: "Matthew 9:37-38",
+            139: "Ephesians 2:8-9", 212: "Ephesians 3:20-21",
+            247: "Galatians 5:22-23", 258: "Lamentations 3:22-23",
+            304: "2 Timothy 3:16-17", 323: "1 Thessalonians 5:16-18",
+            357: "Luke 2:9-10",
+        }
+        for language in sorted(path.parent.name for path in (daily.ASSETS / "daily_verses").glob("*/daily.json")):
+            entries = daily.read_json(daily.ASSETS / "daily_verses" / language / "daily.json")["verses"]
+            for day, reference in passages.items():
+                with self.subTest(language=language, day=day):
+                    native_ref = "Psalms 8:4-5" if language == "ru" and day == 26 else reference
+                    expected = daily.native_entry(language, native_ref)
+                    actual = entries[day - 1]
+                    self.assertEqual(expected["ref"].rsplit(" ", 1)[1], actual["ref"].rsplit(" ", 1)[1])
+                    self.assertEqual(expected["text"], actual["text"])
+            if language == "sw":
+                self.assertEqual("Wakolosai 1:13", entries[301]["ref"])
+                self.assertEqual("Yohana 14:27", entries[318]["ref"])
+            else:
+                self.assertEqual("Colossians 1:13", entries[301]["ref"])
+                self.assertEqual("John 14:27", entries[318]["ref"])
 
     def test_calendar_never_wraps_early_in_leap_or_regular_years(self):
         for year in (2024, 2025, 2026, 2028):

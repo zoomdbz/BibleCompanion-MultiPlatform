@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "calendarSource": "shared/assets/daily_verses/en/daily.json",
-  "calendarSha256": "a02497209b8f3ceea530aa9961335f5dd77aaa00d7e3f8dbee0c5e55a61ab764",
+  "calendarSha256": "8a017cd3b1cc38bcd584e078beb395ec74793bc8848e234d7f234c22c5315305",
   "calendarHashNormalization": "Canonical JSON with sorted keys, compact separators, and unescaped UTF-8",
   "provenance": {
-    "verifiedOn": "2026-10-06",
+    "verifiedOn": "2026-11-19",
     "ruEditionId": "nrt_nrp",
     "jaEditionId": "jcb",
     "numberingSourceUrl": "https://raw.githubusercontent.com/crosswire/jsword/a2c51f3c3a55416f3c991a67ef3d635c7ee55330/src/main/resources/org/crosswire/jsword/versification/Synodal.properties",
@@ -40,13 +40,12 @@
       "numberingRule": "Ps.132.1=Ps.133.0-Ps.133.1"
     },
     {
-      "canonicalRef": "Psalms 8:3",
-      "nativeRef": "Psalms 8:4",
-      "sourceUrl": "https://www.bible.com/bible/143/PSA.8.4.NRT",
-      "sourceTextSha256": "0e95ffd4319ce5aa16d388ea17dd90f39e4dd12d8d908fbb6a81556b3792f7dc",
-      "localTextSha256": "55f37c9d3b75da66e521c770393cf361f136af90318bab55e42f4b74799153b2",
-      "numberingRule": "Ps.8.1-Ps.8.10=Ps.8.0-Ps.8.9",
-      "versePageOmittedSuffix": ","
+      "canonicalRef": "Psalms 8:3-4",
+      "nativeRef": "Psalms 8:4-5",
+      "sourceUrl": "https://www.bible.com/bible/143/PSA.8.4-5.NRT",
+      "sourceTextSha256": "81a386f830c73873bc7d5d9e6677a571da847c4d598ddbba419b8a1ff6ba2127",
+      "localTextSha256": "81a386f830c73873bc7d5d9e6677a571da847c4d598ddbba419b8a1ff6ba2127",
+      "numberingRule": "Ps.8.1-Ps.8.10=Ps.8.0-Ps.8.9"
     },
     {
       "canonicalRef": "Psalms 143:10",
@@ -427,11 +426,11 @@
       "localTextSha256": "6b215d7efcddee626b7b5aee5c6f08ad1ed787c91fdbb9eda934e985ede47db5"
     },
     {
-      "canonicalRef": "Proverbs 3:5",
-      "nativeRef": "Proverbs 3:4-5",
-      "sourceUrl": "https://www.bible.com/bible/83/PRO.3.4-5.JCB",
-      "sourceTextSha256": "463ab86c938a3b891c3aac95e709fab7b55c579b8e9565f261faa05295a2de47",
-      "localTextSha256": "463ab86c938a3b891c3aac95e709fab7b55c579b8e9565f261faa05295a2de47"
+      "canonicalRef": "Proverbs 3:5-6",
+      "nativeRef": "Proverbs 3:4-6",
+      "sourceUrl": "https://www.bible.com/bible/83/PRO.3.4-6.JCB",
+      "sourceTextSha256": "5a91dfd2113a84bab37715961c1af9d0c3d5bc9743d99614d413a760b33e2199",
+      "localTextSha256": "5a91dfd2113a84bab37715961c1af9d0c3d5bc9743d99614d413a760b33e2199"
     },
     {
       "canonicalRef": "Psalms 56:3",

@@ -172,8 +172,8 @@ object VerseOfTheDay {
     if (daily.verses.isEmpty()) return DailyVerse("", "")
 
     val dayOfYear = dayOfYear(year, month, day)
-    // The bank is sorted by bible.com's day-of-year calendar (verses[0] = day 1, ...).
-    // Index by day-of-year so the app shows the same verse bible.com shows that day.
+    // The offline bank is a snapshot of Bible.com's day-of-year calendar
+    // (verses[0] = day 1, ...). YouVersion can revise future selections.
     val size = daily.verses.size
     val index = ((dayOfYear - 1) % size + size) % size
     val entry = daily.verses[index]

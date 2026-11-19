@@ -40,8 +40,8 @@ android {
     applicationId = "com.dividesbyzer0.biblecompanion"
     minSdk = 24
     targetSdk = 36
-    versionCode = 64
-    versionName = "6.4.0"
+    versionCode = 65
+    versionName = "6.5.0"
     vectorDrawables.useSupportLibrary = true
     ndk {
       abiFilters += listOf("arm64-v8a", "x86_64")
