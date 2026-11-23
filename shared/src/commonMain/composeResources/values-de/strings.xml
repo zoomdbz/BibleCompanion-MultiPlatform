@@ -266,6 +266,8 @@
     <string name="cd_tts_pause">Pause</string>
     <string name="cd_tts_stop">Stopp</string>
     <string name="cd_tts_resume">Fortsetzen</string>
+    <string name="cd_tts_previous_verse">Vorheriger Vers</string>
+    <string name="cd_tts_next_verse">Nächster Vers</string>
     <string name="search_no_results">Keine Treffer für „%1$s“</string>
     <string name="snack_undo">Rückgängig</string>
     <string name="snack_highlight_cleared">Markierung entfernt</string>

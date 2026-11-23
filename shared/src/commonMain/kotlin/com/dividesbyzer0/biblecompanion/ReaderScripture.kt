@@ -222,6 +222,7 @@ private fun ReaderScriptureTextBlock(
   selectedBullets: Set<Int>,
   savedVerseColors: Map<Int, String?>,
   goldFadeBulletIdxs: Set<Int>,
+  ttsActiveBulletIdx: Int?,
   onToggleBullet: ((Int) -> Unit)?,
   onCopyBullet: ((Int) -> Unit)?,
   verseRootY: MutableMap<Int, Float>,
@@ -239,8 +240,13 @@ private fun ReaderScriptureTextBlock(
   }
   val verseStyles = buildMap {
     block.verses.forEach { verse ->
+      val reading = verse.bulletIndex == ttsActiveBulletIdx
       val background = when {
+        // A selected verse being read gets a stronger gold so both show.
+        reading && verse.bulletIndex in selectedBullets -> TtsReadingGold.copy(alpha = 0.55f)
         verse.bulletIndex in selectedBullets -> MaterialTheme.colorScheme.primaryContainer
+        // Steady while read aloud, and while paused, so the listener sees where it stopped.
+        reading -> TtsReadingGold.copy(alpha = 0.38f)
         verse.bulletIndex in goldFadeBulletIdxs && blockGoldAlpha > 0f ->
           Color(0xFFFFB300).copy(alpha = blockGoldAlpha * 0.38f)
         else -> readerHighlightBgColor(savedVerseColors[verse.bulletIndex], isDark)
@@ -315,6 +321,7 @@ internal fun ReaderScripture(
   viewportTopY: Float,
   viewportHeightPx: Int,
   measurementEpoch: Int = 0,
+  ttsActiveBulletIdx: Int? = null,
   onVersePositioned: ((bulletIndex: Int, anchor: VerseAnchor?, rootY: Float, rootBottomY: Float, epoch: Int) -> Unit)? = null
 ) {
   val blocks = remember(story.summaryBullets, story.headings, prefs.versePerLine) {
@@ -405,6 +412,7 @@ internal fun ReaderScripture(
         selectedBullets = selectedBullets,
         savedVerseColors = savedVerseColors,
         goldFadeBulletIdxs = goldFadeBulletIdxs,
+        ttsActiveBulletIdx = ttsActiveBulletIdx,
         onToggleBullet = onToggleBullet,
         onCopyBullet = onCopyBullet,
         verseRootY = verseRootY,

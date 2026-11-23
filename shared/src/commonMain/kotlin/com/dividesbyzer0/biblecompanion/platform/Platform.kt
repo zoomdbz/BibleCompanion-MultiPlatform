@@ -67,14 +67,35 @@ expect fun platformAppVersion(context: PlatformContext): String
 expect fun platformAppBuild(context: PlatformContext): String
 
 // ---- Text-to-Speech ----
+// TtsSession (ReaderTts.kt) owns playback. A platform speaks one queue of
+// segments at a time and reports progress through the event sink, on the main
+// thread, tagged with the request id it was handed. The session drops events
+// whose id is not the current request, so late callbacks from a stopped or
+// replaced queue cannot finish, fail, or highlight the next one.
+sealed class TtsPlatformEvent(val requestId: Long) {
+    /** Segment [segmentIndex] of the queue started (or resumed) speaking. */
+    class SegmentStarted(requestId: Long, val segmentIndex: Int) : TtsPlatformEvent(requestId)
+    /** The final segment finished naturally. */
+    class Finished(requestId: Long) : TtsPlatformEvent(requestId)
+    /** The engine failed to bind or to speak; nothing more will play. */
+    class Failed(requestId: Long) : TtsPlatformEvent(requestId)
+}
+
 expect fun platformTtsInit(context: PlatformContext)
-expect fun platformTtsSpeak(context: PlatformContext, text: String, languageTag: String)
+expect fun platformTtsSetEventSink(sink: ((TtsPlatformEvent) -> Unit)?)
+/** Replaces anything playing with [segments], spoken in order. */
+expect fun platformTtsSpeakQueue(
+    context: PlatformContext,
+    requestId: Long,
+    segments: List<String>,
+    languageTag: String
+)
+/** Ends playback and forgets the queue, including work waiting on engine bind. */
 expect fun platformTtsStop(context: PlatformContext)
-expect fun platformTtsIsSpeaking(context: PlatformContext): Boolean
-expect fun platformTtsSetOnDone(callback: (() -> Unit)?)
-expect fun platformTtsPause(context: PlatformContext)
+/** Returns false when there was nothing playing to pause. */
+expect fun platformTtsPause(context: PlatformContext): Boolean
+/** Continues the paused queue from where it stopped; never restarts it. */
 expect fun platformTtsResume(context: PlatformContext)
-expect fun platformTtsIsPaused(context: PlatformContext): Boolean
 
 // ---- ONNX Runtime (embedding search) ----
 expect fun platformOnnxInit(context: PlatformContext): Boolean

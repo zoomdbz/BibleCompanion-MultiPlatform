@@ -267,6 +267,8 @@
     <string name="cd_tts_pause">Пауза</string>
     <string name="cd_tts_stop">Остановить</string>
     <string name="cd_tts_resume">Продолжить</string>
+    <string name="cd_tts_previous_verse">Предыдущий стих</string>
+    <string name="cd_tts_next_verse">Следующий стих</string>
     <string name="search_no_results">Ничего не найдено по запросу «%1$s»</string>
     <string name="snack_undo">Отменить</string>
     <string name="snack_highlight_cleared">Выделение снято</string>

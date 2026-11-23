@@ -267,6 +267,8 @@
     <string name="cd_tts_pause">暫停</string>
     <string name="cd_tts_stop">停止</string>
     <string name="cd_tts_resume">繼續</string>
+    <string name="cd_tts_previous_verse">上一節</string>
+    <string name="cd_tts_next_verse">下一節</string>
     <string name="search_no_results">找不到與「%1$s」相符的結果</string>
     <string name="snack_undo">還原</string>
     <string name="snack_highlight_cleared">已取消標示</string>

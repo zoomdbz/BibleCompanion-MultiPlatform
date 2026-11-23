@@ -53,11 +53,12 @@ import platform.UIKit.UIPasteboard
 import platform.UIKit.UIWindow
 import platform.UIKit.UIWindowScene
 import platform.darwin.NSObject
+import platform.darwin.dispatch_async
+import platform.darwin.dispatch_get_main_queue
 import platform.darwin.dispatch_semaphore_create
 import platform.darwin.dispatch_semaphore_signal
 import platform.darwin.dispatch_semaphore_wait
 import platform.posix.memcpy
-import kotlin.concurrent.Volatile
 
 actual abstract class PlatformContext {
     val bundle: NSBundle = NSBundle.mainBundle
@@ -422,19 +423,64 @@ actual fun platformAppBuild(context: PlatformContext): String {
     return info["CFBundleVersion"] as? String ?: ""
 }
 
-@Volatile private var ttsOnDone: (() -> Unit)? = null
-// The last utterance queued for the current speak request. didFinish/didCancel
-// fire the UI "done" callback only for THIS utterance, so a multi-chunk chapter
-// reports done once (at the very end), not after each chunk.
-@Volatile private var ttsFinalUtterance: AVSpeechUtterance? = null
+// ---- Text-to-Speech ----
+// AVSpeechSynthesizer pauses and continues natively, so Resume continues
+// mid-sentence. Each segment (one verse) becomes one or more utterances; the
+// didStart delegate maps an utterance back to its segment for the reader's
+// follow-along highlight. All state below is touched on the main thread only:
+// delegate callbacks are dispatched there before they read it.
+private var ttsEventSink: ((TtsPlatformEvent) -> Unit)? = null
+private var ttsRequestId = 0L
+// Utterances of the current queue, each paired with its segment index.
+// Callbacks for any utterance not listed belong to a stopped or replaced queue.
+private var ttsUtterances: List<Pair<AVSpeechUtterance, Int>> = emptyList()
+
+private fun ttsSegmentOf(utterance: AVSpeechUtterance): Int? =
+    ttsUtterances.firstOrNull { it.first == utterance }?.second
+
+private fun onTtsMain(block: () -> Unit) {
+    dispatch_async(dispatch_get_main_queue()) { block() }
+}
+
+private fun ttsUtteranceStarted(utterance: AVSpeechUtterance) {
+    val segment = ttsSegmentOf(utterance) ?: return
+    ttsEventSink?.invoke(TtsPlatformEvent.SegmentStarted(ttsRequestId, segment))
+}
+
+private fun ttsUtteranceFinished(utterance: AVSpeechUtterance) {
+    if (ttsUtterances.lastOrNull()?.first != utterance) return
+    val requestId = ttsRequestId
+    ttsUtterances = emptyList()
+    ttsEventSink?.invoke(TtsPlatformEvent.Finished(requestId))
+}
+
+// Stop and a replacing speak clear ttsUtterances before they stop the
+// synthesizer, so their cancels arrive here as unknown utterances. A cancel of
+// a live utterance came from the system; end the request instead of leaving
+// controls that can no longer resume.
+private fun ttsUtteranceCancelled(utterance: AVSpeechUtterance) {
+    if (ttsSegmentOf(utterance) == null) return
+    val requestId = ttsRequestId
+    ttsUtterances = emptyList()
+    synthesizer.stopSpeakingAtBoundary(AVSpeechBoundary.AVSpeechBoundaryImmediate)
+    ttsEventSink?.invoke(TtsPlatformEvent.Failed(requestId))
+}
 
 private class TtsDelegate : NSObject(), AVSpeechSynthesizerDelegateProtocol {
     @ObjCSignatureOverride
     override fun speechSynthesizer(
         synthesizer: AVSpeechSynthesizer,
+        didStartSpeechUtterance: AVSpeechUtterance
+    ) {
+        onTtsMain { ttsUtteranceStarted(didStartSpeechUtterance) }
+    }
+
+    @ObjCSignatureOverride
+    override fun speechSynthesizer(
+        synthesizer: AVSpeechSynthesizer,
         didFinishSpeechUtterance: AVSpeechUtterance
     ) {
-        if (didFinishSpeechUtterance == ttsFinalUtterance) ttsOnDone?.invoke()
+        onTtsMain { ttsUtteranceFinished(didFinishSpeechUtterance) }
     }
 
     @ObjCSignatureOverride
@@ -442,7 +488,7 @@ private class TtsDelegate : NSObject(), AVSpeechSynthesizerDelegateProtocol {
         synthesizer: AVSpeechSynthesizer,
         didCancelSpeechUtterance: AVSpeechUtterance
     ) {
-        if (didCancelSpeechUtterance == ttsFinalUtterance) ttsOnDone?.invoke()
+        onTtsMain { ttsUtteranceCancelled(didCancelSpeechUtterance) }
     }
 }
 
@@ -464,6 +510,10 @@ private fun ttsLanguageTag(assetTag: String): String = when (assetTag) {
 
 actual fun platformTtsInit(context: PlatformContext) {
     // Delegate is wired at property init; nothing else needed.
+}
+
+actual fun platformTtsSetEventSink(sink: ((TtsPlatformEvent) -> Unit)?) {
+    ttsEventSink = sink
 }
 
 // AVSpeechSynthesizer hangs / freezes the app when handed a very long utterance
@@ -499,42 +549,50 @@ private fun ttsChunksIos(text: String, maxLen: Int = 700): List<String> {
     return if (out.isEmpty()) listOf(text.take(maxLen)) else out
 }
 
-actual fun platformTtsSpeak(context: PlatformContext, text: String, languageTag: String) {
+actual fun platformTtsSpeakQueue(
+    context: PlatformContext,
+    requestId: Long,
+    segments: List<String>,
+    languageTag: String
+) {
+    ttsUtterances = emptyList()
     synthesizer.stopSpeakingAtBoundary(AVSpeechBoundary.AVSpeechBoundaryImmediate)
-    val mapped = ttsLanguageTag(languageTag)
-    val voice = AVSpeechSynthesisVoice.voiceWithLanguage(mapped)
+    ttsRequestId = requestId
+    val voice = AVSpeechSynthesisVoice.voiceWithLanguage(ttsLanguageTag(languageTag))
         ?: AVSpeechSynthesisVoice.voiceWithLanguage("en-US")
-    var last: AVSpeechUtterance? = null
-    ttsChunksIos(text).forEach { chunk ->
-        val utterance = AVSpeechUtterance(string = chunk)
-        utterance.voice = voice
-        utterance.rate = 0.5f
-        synthesizer.speakUtterance(utterance)
-        last = utterance
+    val queued = ArrayList<Pair<AVSpeechUtterance, Int>>()
+    segments.forEachIndexed { segment, text ->
+        ttsChunksIos(text).forEach { chunk ->
+            if (chunk.isBlank()) return@forEach
+            val utterance = AVSpeechUtterance(string = chunk)
+            utterance.voice = voice
+            utterance.rate = 0.5f
+            queued += utterance to segment
+        }
     }
-    // Tag the last queued utterance so onDone fires only once, after it finishes.
-    ttsFinalUtterance = last
+    ttsUtterances = queued
+    if (queued.isEmpty()) {
+        onTtsMain { ttsEventSink?.invoke(TtsPlatformEvent.Finished(requestId)) }
+        return
+    }
+    queued.forEach { synthesizer.speakUtterance(it.first) }
 }
 
 actual fun platformTtsStop(context: PlatformContext) {
+    ttsUtterances = emptyList()
     synthesizer.stopSpeakingAtBoundary(AVSpeechBoundary.AVSpeechBoundaryImmediate)
 }
 
-actual fun platformTtsIsSpeaking(context: PlatformContext): Boolean = synthesizer.isSpeaking()
-
-actual fun platformTtsSetOnDone(callback: (() -> Unit)?) {
-    ttsOnDone = callback
-}
-
-actual fun platformTtsPause(context: PlatformContext) {
-    synthesizer.pauseSpeakingAtBoundary(AVSpeechBoundary.AVSpeechBoundaryImmediate)
+// Word boundary: the voice finishes the current word instead of clipping it.
+actual fun platformTtsPause(context: PlatformContext): Boolean {
+    if (ttsUtterances.isEmpty()) return false
+    return synthesizer.pauseSpeakingAtBoundary(AVSpeechBoundary.AVSpeechBoundaryWord)
 }
 
 actual fun platformTtsResume(context: PlatformContext) {
+    if (ttsUtterances.isEmpty()) return
     synthesizer.continueSpeaking()
 }
-
-actual fun platformTtsIsPaused(context: PlatformContext): Boolean = synthesizer.isPaused()
 
 // ---- ONNX Runtime (implemented in Swift, injected via setIosQueryEncoder) ----
 

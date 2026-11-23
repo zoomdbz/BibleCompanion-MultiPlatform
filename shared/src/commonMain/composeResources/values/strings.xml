@@ -207,6 +207,8 @@
     <string name="cd_tts_pause">Pause</string>
     <string name="cd_tts_stop">Stop</string>
     <string name="cd_tts_resume">Resume</string>
+    <string name="cd_tts_previous_verse">Previous verse</string>
+    <string name="cd_tts_next_verse">Next verse</string>
     <string name="search_no_results">No matches for “%1$s”</string>
     <string name="search_searching">Searching…</string>
     <string name="snack_undo">Undo</string>

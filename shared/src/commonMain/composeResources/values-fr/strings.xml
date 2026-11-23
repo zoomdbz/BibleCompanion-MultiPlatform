@@ -268,6 +268,8 @@
     <string name="cd_tts_pause">Pause</string>
     <string name="cd_tts_stop">Arrêter</string>
     <string name="cd_tts_resume">Reprendre</string>
+    <string name="cd_tts_previous_verse">Verset précédent</string>
+    <string name="cd_tts_next_verse">Verset suivant</string>
     <string name="search_no_results">Aucun résultat pour « %1$s »</string>
     <string name="snack_undo">Annuler</string>
     <string name="snack_highlight_cleared">Surlignage effacé</string>

@@ -267,6 +267,8 @@
     <string name="cd_tts_pause">Pausar</string>
     <string name="cd_tts_stop">Detener</string>
     <string name="cd_tts_resume">Reanudar</string>
+    <string name="cd_tts_previous_verse">Versículo anterior</string>
+    <string name="cd_tts_next_verse">Versículo siguiente</string>
     <string name="search_no_results">Sin resultados para «%1$s»</string>
     <string name="snack_undo">Deshacer</string>
     <string name="snack_highlight_cleared">Resaltado quitado</string>

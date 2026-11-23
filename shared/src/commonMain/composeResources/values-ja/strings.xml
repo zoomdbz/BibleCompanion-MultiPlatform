@@ -267,6 +267,8 @@
     <string name="cd_tts_pause">一時停止</string>
     <string name="cd_tts_stop">停止</string>
     <string name="cd_tts_resume">再開</string>
+    <string name="cd_tts_previous_verse">前の節</string>
+    <string name="cd_tts_next_verse">次の節</string>
     <string name="search_no_results">「%1$s」に一致する結果はありません</string>
     <string name="snack_undo">元に戻す</string>
     <string name="snack_highlight_cleared">ハイライトを削除しました</string>

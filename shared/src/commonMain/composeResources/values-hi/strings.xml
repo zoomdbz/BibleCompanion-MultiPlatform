@@ -267,6 +267,8 @@
     <string name="cd_tts_pause">रोकें</string>
     <string name="cd_tts_stop">रोक दें</string>
     <string name="cd_tts_resume">पुनः आरंभ करें</string>
+    <string name="cd_tts_previous_verse">पिछला पद</string>
+    <string name="cd_tts_next_verse">अगला पद</string>
     <string name="search_no_results">“%1$s” के लिए कोई परिणाम नहीं</string>
     <string name="snack_undo">पूर्ववत करें</string>
     <string name="snack_highlight_cleared">हाइलाइट हटाया गया</string>

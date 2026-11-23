@@ -267,6 +267,8 @@
     <string name="cd_tts_pause">Pausa</string>
     <string name="cd_tts_stop">Ferma</string>
     <string name="cd_tts_resume">Riprendi</string>
+    <string name="cd_tts_previous_verse">Versetto precedente</string>
+    <string name="cd_tts_next_verse">Versetto successivo</string>
     <string name="search_no_results">Nessun risultato per «%1$s»</string>
     <string name="snack_undo">Annulla</string>
     <string name="snack_highlight_cleared">Evidenziazione rimossa</string>

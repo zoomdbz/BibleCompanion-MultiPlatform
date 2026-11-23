@@ -15,6 +15,7 @@ import androidx.appcompat.app.AppCompatDelegate
 import androidx.core.os.LocaleListCompat
 import androidx.core.net.toUri
 import com.dividesbyzer0.biblecompanion.Linker
+import com.dividesbyzer0.biblecompanion.ttsSpeechPieces
 import com.google.android.play.core.assetpacks.AssetPackManagerFactory
 import java.io.File
 import java.net.HttpURLConnection
@@ -296,16 +297,6 @@ actual fun platformAppBuild(context: PlatformContext): String = runCatching {
 @Volatile private var ttsInstance: TextToSpeech? = null
 @Volatile private var ttsReady = false
 @Volatile private var ttsBinding = false
-@Volatile private var ttsPendingText: String? = null
-@Volatile private var ttsPendingLocale: Locale? = null
-@Volatile var ttsOnDone: (() -> Unit)? = null
-@Volatile private var ttsLastText: String? = null
-@Volatile private var ttsLastLocale: Locale? = null
-@Volatile private var ttsPaused: Boolean = false
-// The utteranceId of the final queued chunk. onDone fires the UI callback only
-// when this one completes, so multi-chunk chapters do not report "finished"
-// after the first chunk. See doSpeak / ttsChunks.
-@Volatile private var ttsFinalUtteranceId: String? = null
 // Do not resolve Android's main Looper while this platform facade loads. Pure
 // locale, edition, and linker code calls other actuals in this file during JVM
 // unit tests, where no Android main Looper exists. TTS alone needs this handler.
@@ -334,60 +325,92 @@ private fun ttsLocale(languageTag: String): Locale {
     return Locale.forLanguageTag(mapped)
 }
 
-// Android's TextToSpeech.speak() silently returns ERROR (nothing plays) when
-// the input exceeds TextToSpeech.getMaxSpeechInputLength(), typically 4000
-// characters. Long chapters (Matthew 5 at ~5200 chars, Psalm 119, 1 Enoch,
-// Jubilees, and hundreds of others) tripped this and produced dead air while
-// shorter neighbors worked. Split oversized text into engine-sized chunks at
-// sentence or clause boundaries and queue them in order.
-private fun ttsChunks(text: String, maxLen: Int): List<String> {
-    if (text.length <= maxLen) return listOf(text)
-    val breakChars = charArrayOf('.', '!', '?', '。', '！', '？', '；', ';', '\n')
-    val out = ArrayList<String>()
-    var start = 0
-    val n = text.length
-    while (start < n) {
-        var end = minOf(start + maxLen, n)
-        if (end < n) {
-            val window = text.substring(start, end)
-            val half = maxLen / 2
-            val sentenceAt = window.lastIndexOfAny(breakChars)
-            val spaceAt = window.lastIndexOf(' ')
-            val cut = when {
-                sentenceAt >= half -> sentenceAt + 1
-                spaceAt >= half -> spaceAt + 1
-                else -> window.length // no good boundary; hard cut
-            }
-            end = start + cut
-        }
-        val piece = text.substring(start, end).trim()
-        if (piece.isNotEmpty()) out.add(piece)
-        start = end
+// ---- Playback queue ----
+// Android TextToSpeech has no pause. Pause stops the engine and keeps a cursor
+// (segment plus character offset); Resume re-queues from that cursor. Every
+// entry point runs on the main thread (Compose callers), and engine callbacks
+// are posted back to it before they read or write any of this state.
+//
+// Each segment (one verse) is split into sentence pieces by ttsSpeechPieces,
+// which also keeps every piece under TextToSpeech.getMaxSpeechInputLength();
+// past that limit speak() silently returns ERROR. onRangeStart (API 26+) moves
+// the cursor to the word being spoken, so Resume continues at that word.
+// Engines that never call it fall back to the start of the current sentence.
+private class TtsQueue(val requestId: Long, val segments: List<String>, val locale: Locale)
+private class TtsPiece(val segment: Int, val offset: Int, val text: String)
+
+private var ttsEventSink: ((TtsPlatformEvent) -> Unit)? = null
+private var ttsQueue: TtsQueue? = null
+// Pieces queued for the current generation; utterance ids index into it.
+private var ttsPieces: List<TtsPiece> = emptyList()
+private var ttsNextPiece = 0
+private var ttsCursorSegment = 0
+private var ttsCursorOffset = 0
+private var ttsPaused = false
+// A queue is waiting for the engine to bind. Stop and Pause clear it, so a
+// late bind cannot start speech nobody wants anymore.
+private var ttsStartPending = false
+// Bumped by every speak, pause, resume, and stop. Utterance ids carry it, and
+// posted callbacks compare it on the main thread, so a callback already in
+// flight when the generation moved on is dropped there.
+@Volatile private var ttsGeneration = 0L
+
+// Queue a few pieces ahead instead of a whole chapter: Psalm 119 is hundreds
+// of sentences, and each speak() is a binder call on the main thread.
+private const val TTS_PIECES_AHEAD = 6
+
+private fun postTtsPieceEvent(utteranceId: String?, block: (TtsPiece, Int) -> Unit) {
+    val parts = utteranceId?.split(':') ?: return
+    val generation = parts.getOrNull(0)?.toLongOrNull() ?: return
+    val index = parts.getOrNull(1)?.toIntOrNull() ?: return
+    mainHandler.post {
+        if (generation != ttsGeneration) return@post
+        val piece = ttsPieces.getOrNull(index) ?: return@post
+        block(piece, index)
     }
-    return if (out.isEmpty()) listOf(text.take(maxLen)) else out
 }
 
-private fun doSpeak(engine: TextToSpeech, text: String, locale: Locale) {
-    ttsLastText = text
-    ttsLastLocale = locale
-    ttsPaused = false
-    val langResult = engine.setLanguage(locale)
-    if (langResult < TextToSpeech.LANG_AVAILABLE) {
-        engine.setLanguage(Locale.US)
+private val ttsProgressListener = object : UtteranceProgressListener() {
+    override fun onStart(utteranceId: String?) = postTtsPieceEvent(utteranceId) { piece, _ ->
+        ttsCursorSegment = piece.segment
+        ttsCursorOffset = piece.offset
+        val queue = ttsQueue ?: return@postTtsPieceEvent
+        ttsEventSink?.invoke(TtsPlatformEvent.SegmentStarted(queue.requestId, piece.segment))
     }
-    val maxLen = (TextToSpeech.getMaxSpeechInputLength() - 50).coerceAtLeast(500)
-    val chunks = ttsChunks(text, maxLen)
-    ttsFinalUtteranceId = "tts-${chunks.size - 1}"
-    var anyError = false
-    chunks.forEachIndexed { i, chunk ->
-        val mode = if (i == 0) TextToSpeech.QUEUE_FLUSH else TextToSpeech.QUEUE_ADD
-        val result = engine.speak(chunk, mode, null, "tts-$i")
-        if (result == TextToSpeech.ERROR) anyError = true
+
+    // API 26+. Never called on 24-25 or by engines without word timing.
+    override fun onRangeStart(utteranceId: String?, start: Int, end: Int, frame: Int) =
+        postTtsPieceEvent(utteranceId) { piece, _ ->
+            ttsCursorSegment = piece.segment
+            ttsCursorOffset = piece.offset + start.coerceIn(0, piece.text.length)
+        }
+
+    override fun onDone(utteranceId: String?) = postTtsPieceEvent(utteranceId) { _, index ->
+        val next = ttsPieces.getOrNull(index + 1)
+        if (next == null) {
+            finishTtsQueue()
+        } else {
+            // Covers a pause in the gap before the next onStart.
+            ttsCursorSegment = next.segment
+            ttsCursorOffset = next.offset
+            ttsReadyEngine()?.let { enqueueTtsPieces(it, index + 1 + TTS_PIECES_AHEAD) }
+        }
     }
-    if (anyError) {
-        mainHandler.post { ttsOnDone?.invoke() }
-    }
+
+    // Errors end the request without completion; the session never advances
+    // to another chapter on a failure.
+    override fun onError(utteranceId: String?, errorCode: Int) =
+        postTtsPieceEvent(utteranceId) { _, _ -> failTtsQueue() }
+
+    @Deprecated("Deprecated in Java")
+    override fun onError(utteranceId: String?) =
+        postTtsPieceEvent(utteranceId) { _, _ -> failTtsQueue() }
+
+    // Reports our own stop() or QUEUE_FLUSH: a cancel, never a finish.
+    override fun onStop(utteranceId: String?, interrupted: Boolean) {}
 }
+
+private fun ttsReadyEngine(): TextToSpeech? = ttsInstance?.takeIf { ttsReady }
 
 private fun ensureTtsEngine(context: PlatformContext) {
     synchronized(ttsLock) {
@@ -405,97 +428,143 @@ private fun ensureTtsEngine(context: PlatformContext) {
                 ttsBinding = false
                 if (status == TextToSpeech.SUCCESS) {
                     ttsReady = true
-                    val engine = ttsInstance ?: return@synchronized
-                    engine.setOnUtteranceProgressListener(object : UtteranceProgressListener() {
-                        override fun onStart(utteranceId: String?) {}
-                        // Fire the UI "done" callback only when the LAST queued
-                        // chunk finishes; intermediate chunks keep playback alive.
-                        override fun onDone(utteranceId: String?) {
-                            if (utteranceId == ttsFinalUtteranceId) mainHandler.post { ttsOnDone?.invoke() }
-                        }
-                        override fun onError(utteranceId: String?, errorCode: Int) { mainHandler.post { ttsOnDone?.invoke() } }
-                        @Deprecated("Deprecated in Java")
-                        override fun onError(utteranceId: String?) { mainHandler.post { ttsOnDone?.invoke() } }
-                    })
-                    val pText = ttsPendingText
-                    val pLocale = ttsPendingLocale
-                    if (pText != null && pLocale != null) {
-                        ttsPendingText = null
-                        ttsPendingLocale = null
-                        mainHandler.post { doSpeak(engine, pText, pLocale) }
-                    }
+                    ttsInstance?.setOnUtteranceProgressListener(ttsProgressListener)
                 } else {
                     // Bind failed; clear the half-init reference so a future
                     // ensureTtsEngine call can retry from a clean slate.
                     ttsInstance = null
-                    mainHandler.post { ttsOnDone?.invoke() }
                 }
+            }
+            // Start or fail the queue that waited for this bind, if it is
+            // still wanted; Stop and Pause clear ttsStartPending.
+            mainHandler.post {
+                if (!ttsStartPending) return@post
+                if (ttsReadyEngine() != null) startTtsQueue(context) else failTtsQueue()
             }
         }
     }
+}
+
+// Queues pieces from the cursor: a new request, a resume, or a request that
+// waited for the engine to bind.
+private fun startTtsQueue(context: PlatformContext) {
+    val queue = ttsQueue ?: return
+    val engine = ttsReadyEngine()
+    if (engine == null) {
+        ttsStartPending = true
+        ensureTtsEngine(context)
+        return
+    }
+    ttsStartPending = false
+    if (engine.setLanguage(queue.locale) < TextToSpeech.LANG_AVAILABLE) {
+        engine.setLanguage(Locale.US)
+    }
+    val maxLen = (TextToSpeech.getMaxSpeechInputLength() - 50).coerceAtLeast(500)
+    val pieces = ArrayList<TtsPiece>()
+    for (segment in ttsCursorSegment until queue.segments.size) {
+        val from = if (segment == ttsCursorSegment) ttsCursorOffset else 0
+        ttsSpeechPieces(queue.segments[segment], from, maxLen).forEach { (offset, text) ->
+            pieces += TtsPiece(segment, offset, text)
+        }
+    }
+    ttsPieces = pieces
+    ttsNextPiece = 0
+    if (pieces.isEmpty()) {
+        finishTtsQueue()
+        return
+    }
+    enqueueTtsPieces(engine, TTS_PIECES_AHEAD)
+}
+
+private fun enqueueTtsPieces(engine: TextToSpeech, upTo: Int) {
+    val generation = ttsGeneration
+    val limit = minOf(upTo, ttsPieces.size)
+    while (ttsNextPiece < limit) {
+        val index = ttsNextPiece++
+        val mode = if (index == 0) TextToSpeech.QUEUE_FLUSH else TextToSpeech.QUEUE_ADD
+        if (engine.speak(ttsPieces[index].text, mode, null, "$generation:$index") == TextToSpeech.ERROR) {
+            failTtsQueue()
+            return
+        }
+    }
+}
+
+private fun clearTtsQueue() {
+    ttsGeneration++
+    ttsQueue = null
+    ttsPieces = emptyList()
+    ttsNextPiece = 0
+    ttsCursorSegment = 0
+    ttsCursorOffset = 0
+    ttsPaused = false
+    ttsStartPending = false
+}
+
+// Events are posted so the session never re-enters itself from inside a call.
+private fun postTtsEvent(event: TtsPlatformEvent) {
+    mainHandler.post { ttsEventSink?.invoke(event) }
+}
+
+private fun finishTtsQueue() {
+    val queue = ttsQueue ?: return
+    clearTtsQueue()
+    postTtsEvent(TtsPlatformEvent.Finished(queue.requestId))
+}
+
+private fun failTtsQueue() {
+    val queue = ttsQueue ?: return
+    clearTtsQueue()
+    if (ttsReady) runCatching { ttsInstance?.stop() }
+    postTtsEvent(TtsPlatformEvent.Failed(queue.requestId))
 }
 
 actual fun platformTtsInit(context: PlatformContext) {
     ensureTtsEngine(context)
 }
 
-actual fun platformTtsSpeak(context: PlatformContext, text: String, languageTag: String) {
-    val locale = ttsLocale(languageTag)
-    synchronized(ttsLock) {
-        val tts = ttsInstance
-        if (tts != null && ttsReady) {
-            ttsPendingText = null
-            ttsPendingLocale = null
-            doSpeak(tts, text, locale)
-        } else {
-            ttsPendingText = text
-            ttsPendingLocale = locale
-            ensureTtsEngine(context)
-        }
-    }
+actual fun platformTtsSetEventSink(sink: ((TtsPlatformEvent) -> Unit)?) {
+    ttsEventSink = sink
+}
+
+actual fun platformTtsSpeakQueue(
+    context: PlatformContext,
+    requestId: Long,
+    segments: List<String>,
+    languageTag: String
+) {
+    clearTtsQueue()
+    ttsQueue = TtsQueue(requestId, segments, ttsLocale(languageTag))
+    // The first piece uses QUEUE_FLUSH, which replaces anything still playing.
+    // If the engine is not bound yet, nothing is playing to replace.
+    startTtsQueue(context)
 }
 
 actual fun platformTtsStop(context: PlatformContext) {
+    clearTtsQueue()
     // Calling stop() on an unbound TTS instance logs "stop failed: not bound
     // to TTS engine". Guard on ttsReady so stop is a true no-op when no
-    // engine is bound yet.
-    if (!ttsReady) return
-    runCatching { ttsInstance?.stop() }
-}
-
-actual fun platformTtsIsSpeaking(context: PlatformContext): Boolean =
-    ttsReady && (ttsInstance?.isSpeaking == true)
-
-actual fun platformTtsSetOnDone(callback: (() -> Unit)?) {
-    ttsOnDone = callback
-}
-
-// Android TextToSpeech has no native pause/resume. Emulate by stopping and
-// re-speaking the full utterance on resume. Fine for chapter-at-a-time TTS
-// where the unit of playback is one story.
-actual fun platformTtsPause(context: PlatformContext) {
+    // engine is bound yet; clearTtsQueue already cancelled any pending start.
     if (ttsReady) runCatching { ttsInstance?.stop() }
+}
+
+actual fun platformTtsPause(context: PlatformContext): Boolean {
+    if (ttsQueue == null) return false
+    if (ttsPaused) return true
+    // Drop callbacks from the pieces stop() is about to cut off; the cursor
+    // keeps the word (or sentence) to resume from.
+    ttsGeneration++
     ttsPaused = true
+    ttsStartPending = false
+    if (ttsReady) runCatching { ttsInstance?.stop() }
+    return true
 }
 
 actual fun platformTtsResume(context: PlatformContext) {
-    val text = ttsLastText ?: return
-    val locale = ttsLastLocale ?: return
-    synchronized(ttsLock) {
-        val tts = ttsInstance
-        if (tts != null && ttsReady) {
-            ttsPaused = false
-            doSpeak(tts, text, locale)
-        } else {
-            ttsPendingText = text
-            ttsPendingLocale = locale
-            ttsPaused = false
-            ensureTtsEngine(context)
-        }
-    }
+    if (ttsQueue == null || !ttsPaused) return
+    ttsPaused = false
+    ttsGeneration++
+    startTtsQueue(context)
 }
-
-actual fun platformTtsIsPaused(context: PlatformContext): Boolean = ttsPaused
 
 // ---- ONNX Runtime ----
 

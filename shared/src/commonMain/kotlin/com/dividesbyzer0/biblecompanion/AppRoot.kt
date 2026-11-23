@@ -2,6 +2,10 @@ package com.dividesbyzer0.biblecompanion
 
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.animation.animateContentSize
+import androidx.compose.animation.fadeIn
+import androidx.compose.animation.fadeOut
+import androidx.compose.animation.slideInVertically
+import androidx.compose.animation.slideOutVertically
 import androidx.compose.animation.core.Animatable
 import androidx.compose.animation.core.FastOutSlowInEasing
 import androidx.compose.animation.core.tween
@@ -35,7 +39,9 @@ import androidx.compose.foundation.layout.WindowInsets
 import androidx.compose.foundation.layout.windowInsetsPadding
 import androidx.compose.foundation.gestures.awaitEachGesture
 import androidx.compose.foundation.gestures.awaitFirstDown
+import androidx.compose.foundation.gestures.animateScrollBy
 import androidx.compose.foundation.gestures.scrollBy
+import androidx.compose.foundation.interaction.DragInteraction
 import androidx.compose.ui.input.pointer.PointerEventPass
 import androidx.compose.ui.input.pointer.pointerInput
 import androidx.compose.ui.input.nestedscroll.nestedScroll
@@ -140,6 +146,7 @@ import androidx.compose.material3.TopAppBarDefaults
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.CompositionLocalProvider
 import androidx.compose.runtime.DisposableEffect
+import androidx.compose.runtime.SideEffect
 import androidx.compose.runtime.derivedStateOf
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
@@ -163,6 +170,7 @@ import androidx.compose.ui.draw.rotate
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.luminance
 import androidx.compose.ui.hapticfeedback.HapticFeedbackType
+import androidx.compose.ui.platform.LocalDensity
 import androidx.compose.ui.platform.LocalHapticFeedback
 import androidx.compose.ui.semantics.contentDescription
 import androidx.compose.ui.semantics.clearAndSetSemantics
@@ -179,6 +187,10 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.text.style.TextOverflow
+import androidx.compose.ui.draw.drawBehind
+import androidx.compose.ui.geometry.CornerRadius
+import androidx.compose.ui.geometry.Offset
+import androidx.compose.ui.geometry.Size
 import androidx.compose.ui.layout.onGloballyPositioned
 import androidx.compose.ui.layout.onSizeChanged
 import androidx.compose.ui.layout.positionInParent
@@ -207,13 +219,6 @@ import com.dividesbyzer0.biblecompanion.platform.platformOnnxIsReady
 import com.dividesbyzer0.biblecompanion.platform.currentTimeMillis
 import com.dividesbyzer0.biblecompanion.platform.platformCurrentDate
 import com.dividesbyzer0.biblecompanion.platform.platformTtsInit
-import com.dividesbyzer0.biblecompanion.platform.platformTtsSpeak
-import com.dividesbyzer0.biblecompanion.platform.platformTtsStop
-import com.dividesbyzer0.biblecompanion.platform.platformTtsIsSpeaking
-import com.dividesbyzer0.biblecompanion.platform.platformTtsSetOnDone
-import com.dividesbyzer0.biblecompanion.platform.platformTtsPause
-import com.dividesbyzer0.biblecompanion.platform.platformTtsResume
-import com.dividesbyzer0.biblecompanion.platform.platformTtsIsPaused
 import com.dividesbyzer0.biblecompanion.platform.platformSetAppLocale
 import com.dividesbyzer0.biblecompanion.platform.platformDynamicColorScheme
 import com.dividesbyzer0.biblecompanion.platform.platformSupportsDynamicColor
@@ -610,6 +615,7 @@ fun AppRoot(
       LocalInternalNavigate provides internalNavigate,
       LocalEditionNavigate provides editionNavigate
     ) {
+    TtsStartWatchdog()
     val systemBarBackground: Modifier = if (isApplePlatform) Modifier
       else Modifier.background(MaterialTheme.colorScheme.background)
     BoxWithConstraints(
@@ -976,11 +982,22 @@ fun AppRoot(
                 appLang = readerPrefs.appLanguage,
                 internalBibleVersion = readerPrefs.internalBibleVersion
               )
+              val targetStoryId = nextLoadedBook?.book?.let {
+                if (openLastChapter) lastReaderChapterId(it) else firstReaderChapterId(it)
+              }
+              // Skipping back past a book's first verse reads on from the
+              // previous book's last verse, so name that verse in the route.
+              val lastVerse = if (startTts && openLastChapter) {
+                nextLoadedBook?.book?.stories?.firstOrNull { it.id == targetStoryId }?.let { story ->
+                  story.summaryBullets.asReversed().firstNotNullOfOrNull { bullet ->
+                    parseTrailingVerseAnchor(bullet, story.id, nextBookId)?.anchor?.verseStart
+                  }
+                }
+              } else null
               nav.navigate(Dest.BookView.route(
                 nextCol, nextBookId,
-                storyId = nextLoadedBook?.book?.let {
-                  if (openLastChapter) lastReaderChapterId(it) else firstReaderChapterId(it)
-                },
+                storyId = targetStoryId,
+                verse = lastVerse,
                 autoStartTts = startTts,
                 sourceLang = LocaleUtils.effectiveAssetTag(readerPrefs.appLanguage),
                 sourceEdition = nextLoadedBook?.effectiveEdition ?: readerPrefs.internalBibleVersion,
@@ -1340,26 +1357,11 @@ fun HomeScreen(
       val votdLocalRef = remember(votd.ref) { ScriptureRefs.localizeRef(votd.ref) }
       val votdCollection = ScriptureRefs.collectionOf(ScriptureRefs.canonBookOfRef(votd.ref))
         ?: "old_testament"
-      var ttsPlaying by remember { mutableStateOf(false) }
-      DisposableEffect(Unit) {
-        platformTtsInit(ctx)
-        platformTtsSetOnDone { ttsPlaying = false }
-        onDispose { platformTtsSetOnDone(null) }
-      }
-      LaunchedEffect(ttsPlaying) {
-        if (ttsPlaying) {
-          // Wait for TTS engine to start speaking (init can be slow)
-          val started = (0 until 40).any {
-            delay(250.milliseconds)
-            if (!ttsPlaying) return@LaunchedEffect
-            platformTtsIsSpeaking(ctx)
-          }
-          if (started) {
-            while (platformTtsIsSpeaking(ctx)) { delay(500.milliseconds) }
-          }
-          ttsPlaying = false
-        }
-      }
+      // One fixed owner: playback started here keeps its controls when the
+      // reader returns to a recomposed Home screen.
+      val votdTtsOwner = TtsOwner("home", TtsUnit.Votd)
+      val votdPlayback = AppTts.playback?.takeIf { it.owner == votdTtsOwner }
+      LaunchedEffect(Unit) { platformTtsInit(ctx) }
       // VOTD dismissal is persisted per local calendar day. We compare the
       // saved YYYY-MM-DD to today's local date; at midnight the card reappears
       // naturally without any special scheduling. Matches YouVersion/M3 banner
@@ -1554,31 +1556,35 @@ fun HomeScreen(
                     modifier = Modifier.size(18.dp)
                   )
                 }
-                IconButton(
-                  onClick = {
-                    if (ttsPlaying) {
-                      platformTtsStop(ctx)
-                      ttsPlaying = false
-                    } else {
-                      val lang = LocaleUtils.effectiveAssetTag(prefs.appLanguage)
-                      val spokenVerse = applyDivineName(
-                        votd.text, prefs.divineName, lang, colorActive = false, collection = votdCollection
-                      )
-                      platformTtsSpeak(ctx, "${stripScriptureInlineTags(spokenVerse)} $votdLocalRef", lang)
-                      ttsPlaying = true
+                TtsControls(
+                  playing = votdPlayback?.status == TtsStatus.Playing,
+                  paused = votdPlayback?.status == TtsStatus.Paused,
+                  onPlayPause = {
+                    when (AppTts.playback?.takeIf { it.owner == votdTtsOwner }?.status) {
+                      TtsStatus.Playing -> AppTts.pause(ctx)
+                      TtsStatus.Paused -> AppTts.resume(ctx)
+                      null -> {
+                        val lang = LocaleUtils.effectiveAssetTag(prefs.appLanguage)
+                        val spokenVerse = applyDivineName(
+                          votd.text, prefs.divineName, lang, colorActive = false, collection = votdCollection
+                        )
+                        AppTts.play(
+                          ctx,
+                          votdTtsOwner,
+                          listOf(TtsSegment(0, "${stripScriptureInlineTags(spokenVerse)} $votdLocalRef")),
+                          lang
+                        )
+                      }
                     }
                   },
-                ) {
-                  Icon(
-                    if (ttsPlaying) Icons.Filled.Stop else Icons.Filled.PlayArrow,
-                    contentDescription = if (ttsPlaying) stringResource(Res.string.cd_tts_stop) else stringResource(Res.string.cd_tts_play),
-                    tint = votdOnContainer,
-                    modifier = Modifier.size(18.dp)
-                  )
-                }
+                  onStop = { AppTts.stopIfOwnedBy(ctx, votdTtsOwner.scope) },
+                  idleTint = votdOnContainer,
+                  activeTint = votdOnContainer,
+                  iconModifier = Modifier.size(18.dp)
+                )
                 IconButton(
                   onClick = {
-                    if (ttsPlaying) { platformTtsStop(ctx); ttsPlaying = false }
+                    AppTts.stopIfOwnedBy(ctx, votdTtsOwner.scope)
                     scope.launch { repo.setVotdDismissedDate(todayDate) }
                   },
                 ) {
@@ -2445,17 +2451,27 @@ fun BookScreen(
   var goldFadeStoryId by remember { mutableStateOf<String?>(null) }
   var goldFadeBulletIdxs by remember { mutableStateOf<Set<Int>>(emptySet()) }
 
-  // Chapter TTS state (story.id as identity; avoids LazyColumn index timing issues)
-  var chapterTtsPlaying by remember { mutableStateOf(false) }
-  var chapterTtsStoryId by remember { mutableStateOf<String?>(null) }
-  var chapterTtsPaused by remember { mutableStateOf(false) }
-  var ttsToggleInFlight by remember { mutableStateOf(false) }
-
-  // Section TTS state: one-shot playback of a key takeaway / cross refs /
-  // translation notes block. Never auto-continues. Key is "<storyId>:<kind>".
-  var sectionTtsKey by remember { mutableStateOf<String?>(null) }
-  var sectionTtsPaused by remember { mutableStateOf(false) }
-  var sectionTtsToggleInFlight by remember { mutableStateOf(false) }
+  // Text-to-speech. AppTts owns playback above every screen; this reader reads
+  // it back. ttsScope names this reader instance, so teardown, Back, and edition
+  // changes stop only playback this reader started.
+  val ttsScope = remember { newTtsScope("reader") }
+  val ownedTts = AppTts.playback?.takeIf { it.owner.scope == ttsScope }
+  val chapterTtsStoryId = (ownedTts?.owner?.unit as? TtsUnit.Chapter)?.storyId
+  val sectionTtsUnit = ownedTts?.owner?.unit as? TtsUnit.Section
+  val introTtsStatus = ownedTts?.takeIf { it.owner.unit == TtsUnit.Intro }?.status
+  // Chapter playback started earlier reads current settings when it advances.
+  val latestTtsPrefs by rememberUpdatedState(prefs)
+  // Follow-along hold after a drag, and player-bar taps asking to jump back to
+  // the verse being read (honored even while paused or held).
+  var ttsFollowHoldUntil by remember { mutableStateOf(0L) }
+  var ttsJumpRequests by remember { mutableStateOf(0) }
+  // Room the floating player bar takes from the bottom of the reading viewport.
+  val ttsBarReservePx = with(LocalDensity.current) {
+    (TTS_BAR_HEIGHT + TTS_BAR_SCREEN_OFFSET * 2).toPx()
+  }
+  // Root-space top and bottom of each intro paragraph, by paragraph index, for
+  // following the intro while it is read. Read only by the follow loop.
+  val introParagraphRoots = remember(book) { mutableMapOf<Int, Pair<Float, Float>>() }
 
   val snackbarHostState = remember { SnackbarHostState() }
   val undoActionLabel = stringResource(Res.string.snack_undo)
@@ -2472,13 +2488,204 @@ fun BookScreen(
     if (result == SnackbarResult.ActionPerformed) onUndo()
   }
 
-  DisposableEffect(Unit) {
+  DisposableEffect(col, bookId) {
     platformTtsInit(ctx)
-    onDispose {
-      platformTtsStop(ctx)
+    // Leaving the reader, or launchSingleTop reusing it for another book.
+    onDispose { AppTts.stopIfOwnedBy(ctx, ttsScope) }
+  }
+
+  fun liveTts(unit: TtsUnit): TtsPlayback? =
+    AppTts.playback?.takeIf { it.owner.scope == ttsScope && it.owner.unit == unit }
+
+  // Play/Pause continues where it left off; only Stop (or another unit's Play)
+  // sends the next Play back to the top.
+  fun toggleTts(unit: TtsUnit, start: () -> Unit) {
+    when (liveTts(unit)?.status) {
+      TtsStatus.Playing -> AppTts.pause(ctx)
+      TtsStatus.Paused -> AppTts.resume(ctx)
+      null -> start()
     }
   }
 
+  fun stopTts(unit: TtsUnit) {
+    if (liveTts(unit) != null) AppTts.stop(ctx)
+  }
+
+  // Reads a chapter: from the title by default, or from [fromBullet] when a
+  // skip lands mid-chapter. One segment per verse so the gold highlight can
+  // follow. A natural finish advances per the auto-continue settings; a
+  // failure or Stop never does.
+  fun startChapterTts(storyId: String, fromBullet: Int? = null) {
+    val currentBook = book ?: return
+    val storyIdx = currentBook.stories.indexOfFirst { it.id == storyId }
+    if (storyIdx < 0) return
+    val story = currentBook.stories[storyIdx]
+    val settings = latestTtsPrefs
+    val all = ttsChapterSegments(
+      story, settings.appLanguage, settings.divineName, settings.divineNameColor != "default", col
+    )
+    val segments = if (fromBullet != null && fromBullet >= 0) all.filter { it.id >= fromBullet } else all
+
+    // Expand the story if collapsed so the reader can follow along.
+    if (story.id !in expandedStoryIds) {
+      expandedStoryIds = expandedStoryIds + story.id
+    }
+    cancelViewportRestoreForNavigation()
+    if (fromBullet == null || fromBullet < 0) {
+      // Scroll to the chapter being read. Add intro offset so LazyColumn index matches.
+      val introOffset = if (currentBook.intro.isNotBlank()) 1 else 0
+      scope.launch { listState.animateScrollToItem(storyIdx + introOffset) }
+    } else {
+      // Mid-chapter start: the follow loop places that verse, hold or not.
+      ttsJumpRequests += 1
+    }
+
+    AppTts.play(
+      ctx,
+      TtsOwner(ttsScope, TtsUnit.Chapter(story.id)),
+      segments,
+      LocaleUtils.effectiveAssetTag(settings.appLanguage),
+      onComplete = {
+        val current = latestTtsPrefs
+        val next = currentBook.stories.getOrNull(storyIdx + 1)
+        when {
+          !current.autoContinueTts -> Unit
+          next != null -> startChapterTts(next.id)
+          current.crossBookTts && nextBook != null && onNavigateToBook != null ->
+            onNavigateToBook(nextBook.collection, nextBook.bookId, true, false)
+        }
+      }
+    )
+  }
+
+  // Reads the book intro, paragraph by paragraph, from [fromParagraph]. With
+  // auto-continue on, chapter one follows. Used by the intro card, by skipping,
+  // and by reading into a new book while "read intros" is on.
+  fun startIntroTts(fromParagraph: Int = 0) {
+    val currentBook = book ?: return
+    val settings = latestTtsPrefs
+    val lang = LocaleUtils.effectiveAssetTag(settings.appLanguage)
+    val segments = ttsIntroSegments(
+      currentBook.intro, settings.divineName, lang, settings.divineNameColor != "default", col
+    ).filter { it.id >= fromParagraph }
+    if (segments.isEmpty()) return
+    cancelViewportRestoreForNavigation()
+    if (fromParagraph <= 0) scope.launch { listState.animateScrollToItem(0) }
+    else ttsJumpRequests += 1
+    AppTts.play(
+      ctx,
+      TtsOwner(ttsScope, TtsUnit.Intro),
+      segments,
+      lang,
+      onComplete = {
+        if (latestTtsPrefs.autoContinueTts) {
+          firstReaderChapterId(currentBook)?.let { startChapterTts(it) }
+        }
+      }
+    )
+  }
+
+  // One-shot playback of a key takeaway / cross refs / manuscript variants /
+  // translation notes block. Never auto-continues.
+  fun startSectionTts(story: Story, kind: String) {
+    val text = when (kind) {
+      "key_takeaway" -> ttsBuildKeyTakeawayText(story, prefs.appLanguage)
+      "cross_refs" -> ttsBuildCrossRefsText(story)
+      "manuscript_variants" -> ttsBuildManuscriptVariantsText(story)
+      "translation_notes" -> ttsBuildTranslationNotesText(story)
+      else -> ""
+    }
+    if (text.isBlank()) return
+    val lang = LocaleUtils.effectiveAssetTag(prefs.appLanguage)
+    val spokenSection = stripScriptureInlineTags(applyDivineName(
+      text, prefs.divineName, lang, colorActive = false, collection = col
+    ))
+    sectionOverrides["${story.id}:$kind"] = true
+    AppTts.play(
+      ctx,
+      TtsOwner(ttsScope, TtsUnit.Section(story.id, kind)),
+      listOf(TtsSegment(0, spokenSection)),
+      lang
+    )
+  }
+
+  // Spoken segment ids per chapter, for skip targets. Cached per book and per
+  // text setting; built only for the chapters a skip actually looks at.
+  val ttsChapterIdCache = remember(book, prefs.appLanguage, prefs.divineName, prefs.divineNameColor) {
+    mutableMapOf<Int, List<Int>>()
+  }
+  fun ttsChapterIds(storyIndex: Int): List<Int> {
+    val currentBook = book ?: return emptyList()
+    val story = currentBook.stories.getOrNull(storyIndex) ?: return emptyList()
+    return ttsChapterIdCache.getOrPut(storyIndex) {
+      ttsChapterSegments(
+        story, prefs.appLanguage, prefs.divineName, prefs.divineNameColor != "default", col
+      ).map { it.id }
+    }
+  }
+  val ttsIntroIds = remember(book, prefs.ttsReadIntros, prefs.appLanguage, prefs.divineName) {
+    val currentBook = book
+    if (currentBook == null || !prefs.ttsReadIntros || currentBook.intro.isBlank()) emptyList()
+    else ttsIntroSegments(
+      currentBook.intro, prefs.divineName, LocaleUtils.effectiveAssetTag(prefs.appLanguage),
+      prefs.divineNameColor != "default", col
+    ).map { it.id }
+  }
+
+  // Where reading is now, for the player bar's skip buttons. Sections and
+  // Verse of the Day have no verses to step through.
+  fun ttsSpotOf(playback: TtsPlayback): TtsSpot? {
+    val currentBook = book ?: return null
+    return when (val unit = playback.owner.unit) {
+      is TtsUnit.Chapter -> {
+        val storyIndex = currentBook.stories.indexOfFirst { it.id == unit.storyId }
+        if (storyIndex < 0) null
+        else TtsSpot.Chapter(storyIndex, playback.activeSegmentId ?: playback.segmentIds.firstOrNull() ?: -1)
+      }
+      TtsUnit.Intro -> TtsSpot.Intro(playback.activeSegmentId ?: playback.segmentIds.firstOrNull() ?: 0)
+      else -> null
+    }
+  }
+
+  fun ttsSkipFrom(playback: TtsPlayback, forward: Boolean): TtsSkip {
+    val spot = ttsSpotOf(playback) ?: return TtsSkip.None
+    return ttsSkipTarget(
+      from = spot,
+      forward = forward,
+      storyCount = book?.stories?.size ?: 0,
+      chapterIds = ::ttsChapterIds,
+      introIds = ttsIntroIds,
+      hasPreviousBook = previousBook != null && onNavigateToBook != null,
+      hasNextBook = nextBook != null && onNavigateToBook != null
+    )
+  }
+
+  // One verse back or forward; always plays from there.
+  fun skipTts(forward: Boolean) {
+    val playback = AppTts.playback?.takeIf { it.owner.scope == ttsScope } ?: return
+    val currentBook = book ?: return
+    when (val skip = ttsSkipFrom(playback, forward)) {
+      is TtsSkip.To -> when (val spot = skip.spot) {
+        is TtsSpot.Chapter -> currentBook.stories.getOrNull(spot.storyIndex)?.let {
+          startChapterTts(it.id, fromBullet = spot.segment)
+        }
+        is TtsSpot.Intro -> startIntroTts(fromParagraph = spot.paragraph)
+      }
+      TtsSkip.PreviousBookEnd -> previousBook?.let {
+        AppTts.stop(ctx)
+        onNavigateToBook?.invoke(it.collection, it.bookId, true, true)
+      }
+      TtsSkip.NextBookStart -> nextBook?.let {
+        AppTts.stop(ctx)
+        onNavigateToBook?.invoke(it.collection, it.bookId, true, false)
+      }
+      TtsSkip.None -> Unit
+    }
+  }
+
+  // Reading carried into this book: the previous book's last verse when
+  // stepping back (the route names that verse), otherwise the intro when
+  // intros are read, otherwise chapter one from its title.
   LaunchedEffect(autoStartTtsIdentity, book?.id) {
     if (
       autoStartTts &&
@@ -2488,137 +2695,102 @@ fun BookScreen(
     ) {
       consumedAutoStartTtsIdentity = autoStartTtsIdentity
       delay(400.milliseconds)
-      chapterTtsStoryId = resolvedStoryId?.takeIf { target -> book.stories.any { it.id == target } }
+      val target = resolvedStoryId?.takeIf { target -> book.stories.any { it.id == target } }
         ?: firstReaderChapterId(book)
-      chapterTtsPlaying = true
-    }
-  }
-
-  LaunchedEffect(chapterTtsPlaying, chapterTtsStoryId) {
-    val currentId = chapterTtsStoryId
-    if (!chapterTtsPlaying || currentId == null || book == null) return@LaunchedEffect
-
-    val stories = book.stories
-    val storyIdx = stories.indexOfFirst { it.id == currentId }
-    if (storyIdx < 0) {
-      chapterTtsPlaying = false
-      chapterTtsStoryId = null
-      chapterTtsPaused = false
-      return@LaunchedEffect
-    }
-
-    val story = stories[storyIdx]
-
-    // Expand the story if collapsed so user can follow along
-    if (story.id !in expandedStoryIds) {
-      expandedStoryIds = expandedStoryIds + story.id
-    }
-
-    // Scroll to the chapter being read. Add intro offset so LazyColumn index matches.
-    val introOffset = if (book.intro.isNotBlank()) 1 else 0
-    cancelViewportRestoreForNavigation()
-    listState.animateScrollToItem(storyIdx + introOffset)
-
-    val text = ttsBuildChapterText(
-      story, prefs.appLanguage, prefs.divineName, prefs.divineNameColor != "default", col
-    )
-
-    val lang = LocaleUtils.effectiveAssetTag(prefs.appLanguage)
-    platformTtsStop(ctx)
-    delay(150.milliseconds)
-    platformTtsSpeak(ctx, text, lang)
-
-    // Wait for speech to start (up to 10s)
-    val started = (0 until 40).any {
-      delay(250.milliseconds)
-      if (!chapterTtsPlaying) return@LaunchedEffect
-      platformTtsIsSpeaking(ctx)
-    }
-
-    // Wait for speech to finish. Treat "paused" as still-in-progress so the
-    // auto-continue advance doesn't trigger while the user is paused.
-    if (started) {
-      while (chapterTtsPlaying &&
-        (platformTtsIsSpeaking(ctx) || platformTtsIsPaused(ctx))
-      ) { delay(500.milliseconds) }
-    }
-
-    // Auto-advance only if still playing on the same story and user wants auto-continue
-    if (chapterTtsPlaying && currentId == chapterTtsStoryId) {
-      if (prefs.autoContinueTts) {
-        val nextIdx = storyIdx + 1
-        if (nextIdx < stories.size) {
-          chapterTtsStoryId = stories[nextIdx].id
-          chapterTtsPaused = false
-        } else if (prefs.crossBookTts && nextBook != null && onNavigateToBook != null) {
-          chapterTtsPlaying = false
-          chapterTtsStoryId = null
-          chapterTtsPaused = false
-          onNavigateToBook(nextBook.collection, nextBook.bookId, true, false)
-        } else {
-          chapterTtsPlaying = false
-          chapterTtsStoryId = null
-          chapterTtsPaused = false
-        }
-      } else {
-        chapterTtsPlaying = false
-        chapterTtsStoryId = null
-        chapterTtsPaused = false
+        ?: return@LaunchedEffect
+      val targetStory = book.stories.first { it.id == target }
+      val verseBullet = initialVerse?.let { verse ->
+        findBulletsForVerseRange(
+          targetStory.summaryBullets, verse, initialVerseEnd ?: verse, targetStory.id, bookId
+        ).minOrNull()
+      }
+      when {
+        verseBullet != null -> startChapterTts(target, fromBullet = verseBullet)
+        latestTtsPrefs.ttsReadIntros && book.intro.isNotBlank() && target == firstReaderChapterId(book) ->
+          startIntroTts()
+        else -> startChapterTts(target)
       }
     }
   }
 
-  // Section TTS: one-shot playback of key takeaway / cross refs / translation
-  // notes. Does not auto-continue; clears sectionTtsKey when speech finishes.
-  LaunchedEffect(sectionTtsKey) {
-    val key = sectionTtsKey ?: return@LaunchedEffect
-    val parts = key.split(':', limit = 2)
-    if (parts.size != 2 || book == null) {
-      sectionTtsKey = null
-      return@LaunchedEffect
+  // Follow-along: keep the verse (or intro paragraph) being read on screen.
+  // Holds off while the reader drags, for a few seconds after, while paused,
+  // and while a viewport restore settles. It polls, so a verse not measured yet
+  // or a hold that just expired is retried without another trigger. A chapter
+  // (and the intro) is one lazy item, so an off-screen item is brought back
+  // first, then the verse is placed using its measured position inside it.
+  val ttsFollowActive = chapterTtsStoryId != null || introTtsStatus != null
+  LaunchedEffect(ttsFollowActive, listState) {
+    if (!ttsFollowActive) return@LaunchedEffect
+    var dragging = false
+    // Start unhandled: a skip or carried-over start that bumped the request
+    // just before this loop launched still gets its verse placed once.
+    var handledJumps = -1
+    launch {
+      listState.interactionSource.interactions.collect { interaction ->
+        when (interaction) {
+          is DragInteraction.Start -> dragging = true
+          is DragInteraction.Stop, is DragInteraction.Cancel -> {
+            dragging = false
+            ttsFollowHoldUntil = currentTimeMillis() + TTS_FOLLOW_HOLD_MS
+          }
+        }
+      }
     }
-    val storyId = parts[0]
-    val kind = parts[1]
-    val story = book.stories.firstOrNull { it.id == storyId } ?: run {
-      sectionTtsKey = null
-      return@LaunchedEffect
-    }
-    val text = when (kind) {
-      "key_takeaway" -> ttsBuildKeyTakeawayText(story, prefs.appLanguage)
-      "cross_refs" -> ttsBuildCrossRefsText(story)
-      "manuscript_variants" -> ttsBuildManuscriptVariantsText(story)
-      "translation_notes" -> ttsBuildTranslationNotesText(story)
-      else -> ""
-    }
-    if (text.isBlank()) {
-      sectionTtsKey = null
-      return@LaunchedEffect
-    }
-
-    val lang = LocaleUtils.effectiveAssetTag(prefs.appLanguage)
-    platformTtsStop(ctx)
-    delay(150.milliseconds)
-    if (sectionTtsKey != key) return@LaunchedEffect
-    val spokenSection = stripScriptureInlineTags(applyDivineName(
-      text, prefs.divineName, lang, colorActive = false, collection = col
-    ))
-    platformTtsSpeak(ctx, spokenSection, lang)
-
-    val started = (0 until 40).any {
+    while (true) {
       delay(250.milliseconds)
-      if (sectionTtsKey != key) return@LaunchedEffect
-      platformTtsIsSpeaking(ctx)
-    }
-
-    if (started) {
-      while (sectionTtsKey == key &&
-        (platformTtsIsSpeaking(ctx) || platformTtsIsPaused(ctx))
-      ) { delay(500.milliseconds) }
-    }
-
-    if (sectionTtsKey == key) {
-      sectionTtsKey = null
-      sectionTtsPaused = false
+      val playing = AppTts.playback?.takeIf { it.owner.scope == ttsScope } ?: break
+      val unit = playing.owner.unit
+      if (unit !is TtsUnit.Chapter && unit != TtsUnit.Intro) break
+      val jumpRequested = ttsJumpRequests != handledJumps
+      if (!jumpRequested) {
+        if (playing.status != TtsStatus.Playing) continue
+        if (dragging || currentTimeMillis() < ttsFollowHoldUntil) continue
+      }
+      if (viewportRestorePending || listState.isScrollInProgress || viewportHeightPx <= 0) continue
+      // The intro, when present, is lazy item 0.
+      val itemIndex = if (unit is TtsUnit.Chapter) storyIndex[unit.storyId] ?: continue else 0
+      val layoutInfo = listState.layoutInfo
+      val chapterVisible = isReaderItemVisible(
+        itemIndex = itemIndex,
+        items = layoutInfo.visibleItemsInfo.map { item ->
+          ReaderVisibleItemMeasurement(item.index, item.offset, item.size)
+        },
+        viewportStartOffset = maxOf(0, layoutInfo.viewportStartOffset),
+        viewportEndOffset = layoutInfo.viewportEndOffset
+      )
+      if (!chapterVisible) {
+        runCatching { listState.animateScrollToItem(itemIndex) }
+        continue
+      }
+      // Still on the chapter title: the chapter in view is as close as it gets.
+      val segment = playing.activeSegmentId
+      if (segment == null || (unit is TtsUnit.Chapter && segment < 0)) {
+        handledJumps = ttsJumpRequests
+        continue
+      }
+      val (segmentTop, segmentBottom) = if (unit is TtsUnit.Chapter) {
+        positionedVerseRoots["${unit.storyId}/$segment"]
+          ?.takeIf { it.generation == viewportMeasurementEpoch }
+          ?.let { it.rootY to it.rootBottomY }
+      } else {
+        introParagraphRoots[segment]
+      } ?: continue
+      val height = viewportHeightPx.toFloat()
+      val inView = segmentTop - viewportTopY
+      // Keep the verse above the floating player bar, even on a short
+      // landscape viewport where 70% of the height reaches under it.
+      val barTop = height - ttsBarReservePx
+      val lowestTop = minOf(height * 0.70f, barTop)
+      // A long verse can start in view and end under the bar. Bring it up when
+      // it fits between the 22% mark and the bar; a taller one would re-trigger.
+      val verseHeight = segmentBottom - segmentTop
+      val endsUnderBar = verseHeight <= barTop - height * 0.22f &&
+        segmentBottom - viewportTopY > barTop
+      if (inView < height * 0.12f || inView > lowestTop || endsUnderBar) {
+        runCatching { listState.animateScrollBy(inView - height * 0.22f) }
+      }
+      handledJumps = ttsJumpRequests
     }
   }
 
@@ -2911,12 +3083,7 @@ fun BookScreen(
           }
         )
         // A reused reader entry must not keep speaking or selecting the old text.
-        chapterTtsPlaying = false
-        chapterTtsStoryId = null
-        chapterTtsPaused = false
-        sectionTtsKey = null
-        sectionTtsPaused = false
-        platformTtsStop(ctx)
+        AppTts.stopIfOwnedBy(ctx, ttsScope)
         selectedBullets = emptySet()
         showChapters = false
         cancelViewportRestoreForNavigation()
@@ -2930,9 +3097,56 @@ fun BookScreen(
       onOpenStory = { sid, verse -> openReaderStory(sid, verse) })
   }
 
+  // Player bar: shown while this reader owns playback, hidden while verses are
+  // selected (the selection action bar owns the bottom then).
+  val ktBarLabel = stringResource(Res.string.key_takeaway)
+  val crBarLabel = stringResource(Res.string.cross_references)
+  val mvBarLabel = stringResource(Res.string.manuscript_variants_header)
+  val tnBarLabel = stringResource(Res.string.translation_notes)
+  val introBarLabel = stringResource(Res.string.intro_section_header)
+  val ttsBarNow: TtsBarState? = ownedTts?.let { playback ->
+    val playing = playback.status == TtsStatus.Playing
+    val canPrevious = ttsSkipFrom(playback, forward = false) != TtsSkip.None
+    val canNext = ttsSkipFrom(playback, forward = true) != TtsSkip.None
+    when (val unit = playback.owner.unit) {
+      is TtsUnit.Chapter -> book?.stories?.firstOrNull { it.id == unit.storyId }?.let { story ->
+        // "1:3" style tail of the verse being read; numerals read the same in
+        // every supported language, so no new string is needed.
+        val verseTail = playback.activeSegmentId?.takeIf { it >= 0 }
+          ?.let { story.summaryBullets.getOrNull(it) }
+          ?.let { parseTrailingVerseAnchor(it, story.id, bookId)?.anchor }
+          ?.let(::readerNativeReferenceTail)
+        TtsBarState(story.title, verseTail, playing, canPrevious, canNext)
+      }
+      is TtsUnit.Section -> book?.stories?.firstOrNull { it.id == unit.storyId }?.let { story ->
+        val label = when (unit.kind) {
+          "key_takeaway" -> ktBarLabel
+          "cross_refs" -> crBarLabel
+          "manuscript_variants" -> mvBarLabel
+          "translation_notes" -> tnBarLabel
+          else -> null
+        }
+        if (label != null) TtsBarState(label, story.title, playing, canPrevious, canNext)
+        else TtsBarState(story.title, null, playing, canPrevious, canNext)
+      }
+      TtsUnit.Intro -> book?.let { TtsBarState(it.title, introBarLabel, playing, canPrevious, canNext) }
+      TtsUnit.Votd -> null
+    }
+  }
+  val ttsBarVisible = ttsBarNow != null && selectedBullets.isEmpty()
+  // The last content shown, so the bar keeps its text while it slides away.
+  var ttsBarShown by remember { mutableStateOf<TtsBarState?>(null) }
+  SideEffect { if (ttsBarNow != null) ttsBarShown = ttsBarNow }
+
   Scaffold(
     modifier = Modifier.nestedScroll(readerBarScroll.nestedScrollConnection),
-    snackbarHost = { SnackbarHost(snackbarHostState) },
+    // Snackbars rise above the floating player bar instead of covering it.
+    snackbarHost = {
+      SnackbarHost(
+        snackbarHostState,
+        Modifier.padding(bottom = if (ttsBarVisible) TTS_BAR_HEIGHT + TTS_BAR_SCREEN_OFFSET else 0.dp)
+      )
+    },
     bottomBar = {
       if (book != null && selectedBullets.isEmpty()) {
         Surface(color = MaterialTheme.colorScheme.surfaceContainer, tonalElevation = 2.dp) {
@@ -3062,7 +3276,7 @@ fun BookScreen(
             if (selectedBullets.isNotEmpty()) {
               selectedBullets = emptySet()
             } else {
-              if (chapterTtsPlaying) { platformTtsStop(ctx); chapterTtsPlaying = false; chapterTtsStoryId = null; chapterTtsPaused = false }
+              AppTts.stopIfOwnedBy(ctx, ttsScope)
               onBack()
             }
           }) {
@@ -3155,7 +3369,12 @@ fun BookScreen(
               state = listState,
               contentPadding = PaddingValues(
                 start = 16.dp, end = 16.dp, top = 16.dp,
-                bottom = if (selectedBullets.isNotEmpty()) 80.dp else 16.dp
+                bottom = when {
+                  selectedBullets.isNotEmpty() -> 80.dp
+                  // The last verse can scroll clear of the floating player bar.
+                  ttsBarVisible -> TTS_BAR_HEIGHT + TTS_BAR_SCREEN_OFFSET * 2
+                  else -> 16.dp
+                }
               ),
               verticalArrangement = Arrangement.spacedBy(24.dp),
               modifier = Modifier
@@ -3180,32 +3399,21 @@ fun BookScreen(
             ) {
               if (book.intro.isNotBlank()) {
                 item("intro") {
-                  var introTtsPlaying by remember { mutableStateOf(false) }
                   IntroCard(
                     bookTitle = book.title,
                     intro = book.intro,
                     collection = col,
                     prefs = prefs,
-                    isTtsPlaying = introTtsPlaying,
-                    onPlayTts = {
-                      if (introTtsPlaying) {
-                        platformTtsStop(ctx)
-                        introTtsPlaying = false
-                      } else {
-                        val lang = LocaleUtils.effectiveAssetTag(prefs.appLanguage)
-                        val spokenIntro = stripScriptureInlineTags(
-                          applyDivineName(
-                            book.intro,
-                            prefs.divineName,
-                            lang,
-                            prefs.divineNameColor != "default",
-                            col
-                          )
-                        )
-                        platformTtsSpeak(ctx, spokenIntro, lang)
-                        introTtsPlaying = true
-                      }
-                    }
+                    ttsStatus = introTtsStatus,
+                    ttsActiveParagraph = ownedTts
+                      ?.takeIf { it.owner.unit == TtsUnit.Intro }?.activeSegmentId,
+                    onParagraphPositioned = { index, top, bottom ->
+                      introParagraphRoots[index] = top to bottom
+                    },
+                    onPlayPauseTts = {
+                      toggleTts(TtsUnit.Intro) { startIntroTts() }
+                    },
+                    onStopTts = { stopTts(TtsUnit.Intro) }
                   )
                 }
               }
@@ -3213,8 +3421,8 @@ fun BookScreen(
                 val storySelected = remember(selectedBullets, story.id) {
                   selectedBullets.filter { it.first == story.id }.map { it.second }.toSet()
                 }
-                val isTtsActive = chapterTtsPlaying && chapterTtsStoryId == story.id
-                val isTtsPausedHere = isTtsActive && chapterTtsPaused
+                val chapterUnit = TtsUnit.Chapter(story.id)
+                val storyTts = ownedTts?.takeIf { it.owner.unit == chapterUnit }
                 val verseLbl = stringResource(Res.string.verse_label)
                 StoryCard(
                   col = col,
@@ -3247,36 +3455,11 @@ fun BookScreen(
                   },
                   story = story,
                   prefs = prefs.copy(internalBibleVersion = activeEditionId),
-                  isTtsPlaying = isTtsActive && !chapterTtsPaused,
-                  isTtsPaused = isTtsPausedHere,
-                  onPlayTts = {
-                    if (!ttsToggleInFlight) {
-                      ttsToggleInFlight = true
-                      scope.launch {
-                        try {
-                          when {
-                            isTtsActive && chapterTtsPaused -> {
-                              platformTtsResume(ctx)
-                              chapterTtsPaused = false
-                            }
-                            isTtsActive -> {
-                              platformTtsPause(ctx)
-                              chapterTtsPaused = true
-                            }
-                            else -> {
-                              platformTtsStop(ctx)
-                              chapterTtsPaused = false
-                              delay(120.milliseconds)
-                              chapterTtsStoryId = story.id
-                              chapterTtsPlaying = true
-                            }
-                          }
-                        } finally {
-                          ttsToggleInFlight = false
-                        }
-                      }
-                    }
-                  },
+                  isTtsPlaying = storyTts?.status == TtsStatus.Playing,
+                  isTtsPaused = storyTts?.status == TtsStatus.Paused,
+                  ttsActiveBulletIdx = storyTts?.activeSegmentId?.takeIf { it >= 0 },
+                  onPlayTts = { toggleTts(chapterUnit) { startChapterTts(story.id) } },
+                  onStopTts = { stopTts(chapterUnit) },
                   selectedBullets = storySelected,
                   onToggleBullet = { idx ->
                     doHaptic()
@@ -3376,43 +3559,12 @@ fun BookScreen(
                       platformCopyToClipboard(ctx, content.primaryRef?.let { ScriptureRefs.localizeRef(it) } ?: verseLbl, content.text)
                     }
                   },
-                  activeSectionTts = sectionTtsKey
-                    ?.takeIf { it.startsWith("${story.id}:") }
-                    ?.substringAfter(':'),
-                  sectionTtsPaused = sectionTtsPaused,
+                  activeSectionTts = sectionTtsUnit?.takeIf { it.storyId == story.id }?.kind,
+                  sectionTtsPaused = ownedTts?.status == TtsStatus.Paused,
                   onPlaySectionTts = { kind ->
-                    if (!sectionTtsToggleInFlight) {
-                      sectionTtsToggleInFlight = true
-                      scope.launch {
-                        try {
-                          val key = "${story.id}:$kind"
-                          val sameActive = sectionTtsKey == key
-                          when {
-                            sameActive && !sectionTtsPaused -> {
-                              platformTtsPause(ctx)
-                              sectionTtsPaused = true
-                            }
-                            sameActive && sectionTtsPaused -> {
-                              platformTtsResume(ctx)
-                              sectionTtsPaused = false
-                            }
-                            else -> {
-                              chapterTtsPlaying = false
-                              chapterTtsStoryId = null
-                              chapterTtsPaused = false
-                              platformTtsStop(ctx)
-                              sectionOverrides["${story.id}:$kind"] = true
-                              delay(120.milliseconds)
-                              sectionTtsPaused = false
-                              sectionTtsKey = key
-                            }
-                          }
-                        } finally {
-                          sectionTtsToggleInFlight = false
-                        }
-                      }
-                    }
-                  }
+                    toggleTts(TtsUnit.Section(story.id, kind)) { startSectionTts(story, kind) }
+                  },
+                  onStopSectionTts = { kind -> stopTts(TtsUnit.Section(story.id, kind)) }
                 )
               }
 
@@ -3426,6 +3578,51 @@ fun BookScreen(
                   }
                 }
               }
+            }
+          }
+
+          // Floating player bar: bottom center, 16dp above the chapter bar and
+          // from each side, like Material 3's floating toolbar.
+          AnimatedVisibility(
+            visible = ttsBarVisible,
+            modifier = Modifier
+              .align(Alignment.BottomCenter)
+              .padding(
+                start = TTS_BAR_SCREEN_OFFSET,
+                end = TTS_BAR_SCREEN_OFFSET,
+                bottom = TTS_BAR_SCREEN_OFFSET
+              ),
+            enter = slideInVertically { it } + fadeIn(),
+            exit = slideOutVertically { it } + fadeOut()
+          ) {
+            val barState = ttsBarNow ?: ttsBarShown
+            if (barState != null) {
+              TtsPlayerBar(
+                state = barState,
+                onPlayPause = {
+                  when (AppTts.playback?.takeIf { it.owner.scope == ttsScope }?.status) {
+                    TtsStatus.Playing -> AppTts.pause(ctx)
+                    TtsStatus.Paused -> AppTts.resume(ctx)
+                    null -> Unit
+                  }
+                },
+                onStop = { AppTts.stopIfOwnedBy(ctx, ttsScope) },
+                onPrevious = { skipTts(forward = false) },
+                onNext = { skipTts(forward = true) },
+                onOpen = {
+                  val unit = AppTts.playback?.takeIf { it.owner.scope == ttsScope }?.owner?.unit
+                  cancelViewportRestoreForNavigation()
+                  when (unit) {
+                    // The follow loop scrolls to the verse, even while paused.
+                    is TtsUnit.Chapter -> ttsJumpRequests += 1
+                    is TtsUnit.Section -> storyIndex[unit.storyId]?.let { item ->
+                      scope.launch { listState.animateScrollToItem(item) }
+                    }
+                    TtsUnit.Intro -> ttsJumpRequests += 1
+                    else -> Unit
+                  }
+                }
+              )
             }
           }
 
@@ -3779,8 +3976,12 @@ private fun IntroCard(
   intro: String,
   collection: String,
   prefs: PrefsState,
-  onPlayTts: () -> Unit,
-  isTtsPlaying: Boolean
+  ttsStatus: TtsStatus?,
+  onPlayPauseTts: () -> Unit,
+  onStopTts: () -> Unit,
+  // Paragraph index being read aloud; steady gold while set (also when paused).
+  ttsActiveParagraph: Int? = null,
+  onParagraphPositioned: ((index: Int, rootTop: Float, rootBottom: Float) -> Unit)? = null
 ) {
   Card(
     modifier = Modifier.fillMaxWidth(),
@@ -3796,16 +3997,16 @@ private fun IntroCard(
           color = MaterialTheme.colorScheme.onSurface,
           modifier = Modifier.weight(1f)
         )
-        if (prefs.ttsReadIntros) {
-          IconButton(onClick = onPlayTts) {
-            Icon(
-              if (isTtsPlaying) Icons.Filled.Stop else Icons.Filled.PlayArrow,
-              contentDescription = if (isTtsPlaying)
-                stringResource(Res.string.cd_tts_stop)
-              else stringResource(Res.string.cd_tts_play),
-              tint = MaterialTheme.colorScheme.onSurfaceVariant
-            )
-          }
+        // Keep controls for an intro already playing if the setting turns off.
+        if (prefs.ttsReadIntros || ttsStatus != null) {
+          TtsControls(
+            playing = ttsStatus == TtsStatus.Playing,
+            paused = ttsStatus == TtsStatus.Paused,
+            onPlayPause = onPlayPauseTts,
+            onStop = onStopTts,
+            idleTint = MaterialTheme.colorScheme.onSurfaceVariant,
+            activeTint = MaterialTheme.colorScheme.onSurfaceVariant
+          )
         }
       }
       Text(
@@ -3815,14 +4016,35 @@ private fun IntroCard(
       )
       SelectionContainer {
         Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
-          intro.split("\n\n").forEach { paragraph ->
+          // Same split and indices as ttsIntroSegments, so the paragraph being
+          // read matches the gold one.
+          intro.split("\n\n").forEachIndexed { index, paragraph ->
             if (paragraph.isNotBlank()) {
+              val reading = index == ttsActiveParagraph
               ScriptureRefs.ClickableRefsText(
                 text = paragraph.trim(),
                 collection = collection,
                 prefs = prefs,
                 textStyle = MaterialTheme.typography.bodyLarge,
-                selectionCompatible = true
+                selectionCompatible = true,
+                modifier = Modifier
+                  .onGloballyPositioned { coords ->
+                    val top = coords.positionInRoot().y
+                    onParagraphPositioned?.invoke(index, top, top + coords.size.height)
+                  }
+                  // Drawn just outside the text so the gold never shifts layout.
+                  .drawBehind {
+                    if (reading) {
+                      val padX = 6.dp.toPx()
+                      val padY = 3.dp.toPx()
+                      drawRoundRect(
+                        color = TtsReadingGold.copy(alpha = 0.38f),
+                        topLeft = Offset(-padX, -padY),
+                        size = Size(size.width + padX * 2, size.height + padY * 2),
+                        cornerRadius = CornerRadius(8.dp.toPx())
+                      )
+                    }
+                  }
               )
             }
           }
@@ -3846,6 +4068,9 @@ internal fun StoryCard(
   isTtsPlaying: Boolean = false,
   isTtsPaused: Boolean = false,
   onPlayTts: (() -> Unit)? = null,
+  onStopTts: (() -> Unit)? = null,
+  // Bullet index of the verse being read aloud; steady gold while set.
+  ttsActiveBulletIdx: Int? = null,
   selectedBullets: Set<Int> = emptySet(),
   onToggleBullet: ((Int) -> Unit)? = null,
   isBookmarked: Boolean = false,
@@ -3865,6 +4090,7 @@ internal fun StoryCard(
   activeSectionTts: String? = null,
   sectionTtsPaused: Boolean = false,
   onPlaySectionTts: ((kind: String) -> Unit)? = null,
+  onStopSectionTts: ((kind: String) -> Unit)? = null,
   onCopyBullet: ((Int) -> Unit)? = null,
   measurementEpoch: Int = 0,
   onVersePositioned: ((storyId: String, bulletIndex: Int, anchor: VerseAnchor?, rootY: Float, rootBottomY: Float, epoch: Int) -> Unit)? = null
@@ -3919,20 +4145,15 @@ internal fun StoryCard(
           }
         }
         if (onPlayTts != null) {
-          val isActive = isTtsPlaying || isTtsPaused
-          IconButton(onClick = onPlayTts) {
-            Icon(
-              if (isTtsPlaying) Icons.Filled.Pause else Icons.Filled.PlayArrow,
-              contentDescription = when {
-                isTtsPlaying -> stringResource(Res.string.cd_tts_pause)
-                isTtsPaused -> stringResource(Res.string.cd_tts_resume)
-                else -> stringResource(Res.string.cd_tts_play)
-              },
-              modifier = Modifier.size(20.dp),
-              tint = if (isActive) MaterialTheme.colorScheme.primary
-                     else MaterialTheme.colorScheme.onSurfaceVariant
-            )
-          }
+          TtsControls(
+            playing = isTtsPlaying,
+            paused = isTtsPaused,
+            onPlayPause = onPlayTts,
+            onStop = { onStopTts?.invoke() },
+            idleTint = MaterialTheme.colorScheme.onSurfaceVariant,
+            activeTint = MaterialTheme.colorScheme.primary,
+            iconModifier = Modifier.size(20.dp)
+          )
         }
         IconButton(onClick = {
           shareScope.launch {
@@ -3987,6 +4208,7 @@ internal fun StoryCard(
                 selectedBullets = selectedBullets,
                 savedVerseColors = savedVerseColors,
                 goldFadeBulletIdxs = goldFadeBulletIdxs,
+                ttsActiveBulletIdx = ttsActiveBulletIdx,
                 onToggleBullet = onToggleBullet,
                 onCopyBullet = onCopyBullet,
                 listState = listState,
@@ -4023,21 +4245,15 @@ internal fun StoryCard(
                     modifier = Modifier.weight(1f)
                   )
                   if (onPlaySectionTts != null) {
-                    IconButton(
-                      onClick = { onPlaySectionTts("key_takeaway") }
-                    ) {
-                      Icon(
-                        if (ktPlaying) Icons.Filled.Pause else Icons.Filled.PlayArrow,
-                        contentDescription = when {
-                          ktPlaying -> stringResource(Res.string.cd_tts_pause)
-                          ktPaused -> stringResource(Res.string.cd_tts_resume)
-                          else -> stringResource(Res.string.cd_tts_play)
-                        },
-                        modifier = Modifier.size(18.dp),
-                        tint = if (ktPlaying || ktPaused) MaterialTheme.colorScheme.primary
-                               else MaterialTheme.colorScheme.onSurfaceVariant
-                      )
-                    }
+                    TtsControls(
+                      playing = ktPlaying,
+                      paused = ktPaused,
+                      onPlayPause = { onPlaySectionTts("key_takeaway") },
+                      onStop = { onStopSectionTts?.invoke("key_takeaway") },
+                      idleTint = MaterialTheme.colorScheme.onSurfaceVariant,
+                      activeTint = MaterialTheme.colorScheme.primary,
+                      iconModifier = Modifier.size(18.dp)
+                    )
                   }
                   Icon(
                     if (showKeyTakeaway) Icons.Filled.KeyboardArrowUp else Icons.Filled.KeyboardArrowDown,
@@ -4076,21 +4292,15 @@ internal fun StoryCard(
                     modifier = Modifier.weight(1f)
                   )
                   if (onPlaySectionTts != null) {
-                    IconButton(
-                      onClick = { onPlaySectionTts("cross_refs") }
-                    ) {
-                      Icon(
-                        if (crPlaying) Icons.Filled.Pause else Icons.Filled.PlayArrow,
-                        contentDescription = when {
-                          crPlaying -> stringResource(Res.string.cd_tts_pause)
-                          crPaused -> stringResource(Res.string.cd_tts_resume)
-                          else -> stringResource(Res.string.cd_tts_play)
-                        },
-                        modifier = Modifier.size(18.dp),
-                        tint = if (crPlaying || crPaused) MaterialTheme.colorScheme.primary
-                               else MaterialTheme.colorScheme.onSurfaceVariant
-                      )
-                    }
+                    TtsControls(
+                      playing = crPlaying,
+                      paused = crPaused,
+                      onPlayPause = { onPlaySectionTts("cross_refs") },
+                      onStop = { onStopSectionTts?.invoke("cross_refs") },
+                      idleTint = MaterialTheme.colorScheme.onSurfaceVariant,
+                      activeTint = MaterialTheme.colorScheme.primary,
+                      iconModifier = Modifier.size(18.dp)
+                    )
                   }
                   Icon(
                     if (showCrossRefs) Icons.Filled.KeyboardArrowUp else Icons.Filled.KeyboardArrowDown,
@@ -4134,21 +4344,15 @@ internal fun StoryCard(
                     modifier = Modifier.weight(1f)
                   )
                   if (onPlaySectionTts != null) {
-                    IconButton(
-                      onClick = { onPlaySectionTts("manuscript_variants") }
-                    ) {
-                      Icon(
-                        if (mvPlaying) Icons.Filled.Pause else Icons.Filled.PlayArrow,
-                        contentDescription = when {
-                          mvPlaying -> stringResource(Res.string.cd_tts_pause)
-                          mvPaused -> stringResource(Res.string.cd_tts_resume)
-                          else -> stringResource(Res.string.cd_tts_play)
-                        },
-                        modifier = Modifier.size(18.dp),
-                        tint = if (mvPlaying || mvPaused) MaterialTheme.colorScheme.primary
-                               else MaterialTheme.colorScheme.onSurfaceVariant
-                      )
-                    }
+                    TtsControls(
+                      playing = mvPlaying,
+                      paused = mvPaused,
+                      onPlayPause = { onPlaySectionTts("manuscript_variants") },
+                      onStop = { onStopSectionTts?.invoke("manuscript_variants") },
+                      idleTint = MaterialTheme.colorScheme.onSurfaceVariant,
+                      activeTint = MaterialTheme.colorScheme.primary,
+                      iconModifier = Modifier.size(18.dp)
+                    )
                   }
                   Icon(
                     if (showManuscriptVariants) Icons.Filled.KeyboardArrowUp else Icons.Filled.KeyboardArrowDown,
@@ -4203,21 +4407,15 @@ internal fun StoryCard(
                     modifier = Modifier.weight(1f)
                   )
                   if (onPlaySectionTts != null) {
-                    IconButton(
-                      onClick = { onPlaySectionTts("translation_notes") }
-                    ) {
-                      Icon(
-                        if (tnPlaying) Icons.Filled.Pause else Icons.Filled.PlayArrow,
-                        contentDescription = when {
-                          tnPlaying -> stringResource(Res.string.cd_tts_pause)
-                          tnPaused -> stringResource(Res.string.cd_tts_resume)
-                          else -> stringResource(Res.string.cd_tts_play)
-                        },
-                        modifier = Modifier.size(18.dp),
-                        tint = if (tnPlaying || tnPaused) MaterialTheme.colorScheme.primary
-                               else MaterialTheme.colorScheme.onSurfaceVariant
-                      )
-                    }
+                    TtsControls(
+                      playing = tnPlaying,
+                      paused = tnPaused,
+                      onPlayPause = { onPlaySectionTts("translation_notes") },
+                      onStop = { onStopSectionTts?.invoke("translation_notes") },
+                      idleTint = MaterialTheme.colorScheme.onSurfaceVariant,
+                      activeTint = MaterialTheme.colorScheme.primary,
+                      iconModifier = Modifier.size(18.dp)
+                    )
                   }
                   Icon(
                     if (showTranslationNotes) Icons.Filled.KeyboardArrowUp else Icons.Filled.KeyboardArrowDown,
@@ -5321,25 +5519,41 @@ private fun ttsTransformTitle(rawTitle: String, appLanguageTag: String): String 
   return stripped
 }
 
-private fun ttsBuildChapterText(
+// Same words, in the same order, as the single string the reader used to speak:
+// the spoken title, then every verse that cleans to non-empty text. Each verse is
+// its own segment, keyed by its bullet index, so playback can report which verse
+// is being read. Blank verses are skipped without shifting any index.
+internal fun ttsChapterSegments(
   story: Story,
   appLanguageTag: String,
   divineNameMode: String,
   divineNameColorActive: Boolean,
   collection: String
-): String = buildString {
-  append(ttsTransformTitle(story.title, appLanguageTag))
-  append(". ")
-  story.summaryBullets.forEach { bullet ->
+): List<TtsSegment> = buildList {
+  val title = ttsTransformTitle(story.title, appLanguageTag)
+  if (title.isNotBlank()) add(TtsSegment(-1, "$title."))
+  story.summaryBullets.forEachIndexed { index, bullet ->
     val cleaned = ttsCleanBullet(
       bullet, divineNameMode, appLanguageTag, divineNameColorActive, collection
     )
-    if (cleaned.isNotBlank()) {
-      append(cleaned)
-      append(' ')
-    }
+    if (cleaned.isNotBlank()) add(TtsSegment(index, cleaned))
   }
-}.trim()
+}
+
+// The book intro, one segment per paragraph (the same "\n\n" split IntroCard
+// renders), so skip back and forward can step through it like verses.
+internal fun ttsIntroSegments(
+  intro: String,
+  divineNameMode: String,
+  languageTag: String,
+  divineNameColorActive: Boolean,
+  collection: String
+): List<TtsSegment> = intro.split("\n\n").mapIndexedNotNull { index, paragraph ->
+  val spoken = stripScriptureInlineTags(
+    applyDivineName(paragraph.trim(), divineNameMode, languageTag, divineNameColorActive, collection)
+  ).trim()
+  spoken.takeIf { it.isNotBlank() }?.let { TtsSegment(index, it) }
+}
 
 private fun ttsBuildKeyTakeawayText(story: Story, appLanguageTag: String): String {
   val title = ttsTransformTitle(story.title, appLanguageTag)

@@ -267,6 +267,8 @@
     <string name="cd_tts_pause">إيقاف مؤقت</string>
     <string name="cd_tts_stop">إيقاف</string>
     <string name="cd_tts_resume">استئناف</string>
+    <string name="cd_tts_previous_verse">الآية السابقة</string>
+    <string name="cd_tts_next_verse">الآية التالية</string>
     <string name="search_no_results">لا توجد نتائج لـ «%1$s»</string>
     <string name="snack_undo">تراجع</string>
     <string name="snack_highlight_cleared">تم مسح التمييز</string>

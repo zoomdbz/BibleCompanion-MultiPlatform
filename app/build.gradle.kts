@@ -40,8 +40,8 @@ android {
     applicationId = "com.dividesbyzer0.biblecompanion"
     minSdk = 24
     targetSdk = 36
-    versionCode = 65
-    versionName = "6.5.0"
+    versionCode = 66
+    versionName = "6.6.0"
     vectorDrawables.useSupportLibrary = true
     ndk {
       abiFilters += listOf("arm64-v8a", "x86_64")
@@ -59,6 +59,9 @@ android {
     }
     debug {
       isMinifyEnabled = false
+      // Installs beside the Play Store build (different signing key), so a
+      // test build never touches the real app or its saved data.
+      applicationIdSuffix = ".debug"
     }
   }
 
