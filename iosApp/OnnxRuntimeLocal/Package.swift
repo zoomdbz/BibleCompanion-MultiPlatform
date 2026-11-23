@@ -14,10 +14,12 @@ let package = Package(
             path: "objectivec",
             cxxSettings: [.define("SPM_BUILD")]
         ),
+        // Bundled in the repo (binaries in Git LFS) instead of downloaded from
+        // download.onnxruntime.ai, whose TLS certificate stopped matching its
+        // hostname on 2026-11-20 and broke package resolution. See README.md.
         .binaryTarget(
             name: "onnxruntime",
-            url: "https://download.onnxruntime.ai/pod-archive-onnxruntime-c-1.24.2.zip",
-            checksum: "f7100a992d2a8135168c8afd831e6a58b465349101982aa58b3e11d36e600b54"
+            path: "onnxruntime.xcframework"
         ),
     ],
     cxxLanguageStandard: .cxx17
