@@ -143,6 +143,16 @@ Idolatry in Scripture is not only about ancient gods but also about exalting hum
 
 - **(Exodus 20:4–5)** – "You shall not make for yourself an idol in the form of anything in the heavens above, on the earth below, or in the waters beneath. You shall not bow down to them or worship them; for I, the LORD your God, am a jealous God, visiting the iniquity of the fathers on their children to the third and fourth generations of those who hate Me,"
 
+**The Queen of Heaven:** Veneration of Mary as the "Queen of Heaven" is not a new practice. In the days of Jeremiah, Judah already honored a "Queen of Heaven" with cakes, incense, and drink offerings, and the LORD condemned it.  
+
+- **(Jeremiah 7:17–18)** – "Do you not see what they are doing in the cities of Judah and in the streets of Jerusalem? The sons gather wood, the fathers light the fire, and the women knead the dough to make cakes for the Queen of Heaven; they pour out drink offerings to other gods to provoke Me to anger."  
+
+- **(Jeremiah 44:17–19)** – "Instead, we will do everything we vowed to do: We will burn incense to the Queen of Heaven and offer drink offerings to her, just as we, our fathers, our kings, and our officials did in the cities of Judah and in the streets of Jerusalem. At that time we had plenty of food and good things, and we saw no disaster. But from the time we stopped burning incense to the Queen of Heaven and pouring out drink offerings to her, we have lacked everything and have been perishing by sword and famine." "Moreover," said the women, "when we burned incense to the Queen of Heaven and poured out drink offerings to her, was it without our husbands' knowledge that we made sacrificial cakes in her image and poured out drink offerings to her?"  
+
+Scripture never names the goddess behind the title. Scholars have linked her to Anat, to Astarte (the Ashtoreth of 1 Kings 11:5), to Ishtar, or to a blend of these. Jeremiah's Hebrew is מְלֶכֶת הַשָּׁמַיִם (*meleketh ha-shamayim*). The LORD's answer was His anger and fury poured out on this place (Jeremiah 7:20), and a land left a desolation, without inhabitant, because they burned incense and sinned against Him (Jeremiah 44:22–23).  
+
+The title did not end with Jeremiah. The Latin Vulgate, Rome's historic Bible, renders it *reginae caeli* in each of these verses. In 1954 Pope Pius XII titled his encyclical on Mary's Queenship *Ad Caeli Reginam* ("To the Queen of Heaven") and instituted a yearly feast of her Queenship.  
+
 Even the most faithful saints are examples of faith, not mediators. Worship, prayer, and devotion belong to God alone.  
 
 ---  

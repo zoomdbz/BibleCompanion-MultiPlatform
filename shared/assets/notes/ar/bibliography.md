@@ -110,6 +110,8 @@
 
 - Keil, C. F. *The Twelve Minor Prophets.* ترجمة James Martin. المجلد 10 من *Commentary on the Old Testament*، بقلم C. F. Keil وF. Delitzsch. Peabody, MA: Hendrickson, 1996. [سجل مجموعة المجلدات العشرة لسنة 1996](https://verbum.com/product/5790/keil-and-delitzsch-commentary-on-the-old-testament-k-d) | [مسح النسخة الأصلية في الملك العام](https://archive.org/details/biblicalcommenta06keil06) | [نص مجاني قابل للبحث](https://www.stepbible.org/version.jsp?version=KD)
 
+- Keown, Gerald L., Pamela J. Scalise, and Thomas G. Smothers. *Jeremiah 26-52.* Word Biblical Commentary 27. Grand Rapids: Zondervan Academic, 2018. First published Dallas: Word Books, 1995.
+
 ## مصادر الحركات والتوثيق
 
 **ملاحظة:** منشورات الجماعات التي تتناولها الملاحظات، ووثائق المنظمات التي ترصدها، وترجمة القرآن التي تقتبس منها الملاحظات.

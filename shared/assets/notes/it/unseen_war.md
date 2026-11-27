@@ -143,6 +143,16 @@ L’idolatria nella Scrittura non riguarda solo gli dèi antichi, ma anche l’e
 
 - **(Esodo 20:4–5)** – «Non farti scultura, né immagine alcuna delle cose che sono lassù nel cielo o quaggiù sulla terra o nelle acque sotto la terra. Non ti prostrare davanti a loro e non li servire, perché io, il Signore, il tuo Dio, sono un Dio geloso; punisco l’iniquità dei padri sui figli fino alla terza e alla quarta generazione di quelli che mi odiano,»
 
+**La regina del cielo:** La venerazione di Maria come «Regina dei cieli» non è una pratica nuova. Ai giorni di Geremia, Giuda onorava già una «regina del cielo» con focacce, profumi e libazioni, e il SIGNORE condannò questo culto.  
+
+- **(Geremia 7:17–18)** – «Non vedi ciò che fanno nelle città di Giuda e nelle vie di Gerusalemme? I figli raccolgono legna, i padri accendono il fuoco, le donne impastano la farina per fare delle focacce alla regina del cielo e per fare libazioni ad altri dèi, per offendermi.»  
+
+- **(Geremia 44:17–19)** – «ma vogliamo mettere interamente in pratica tutto quello che la nostra bocca ha espresso: offrire profumi alla regina del cielo, farle delle libazioni, come già abbiamo fatto noi, i nostri padri, i nostri re, i nostri capi, nelle città di Giuda e per le vie di Gerusalemme. Allora avevamo abbondanza di pane, stavamo bene e non vedevamo nessuna calamità; ma da quando abbiamo smesso di offrire profumi alla regina del cielo e di farle delle libazioni, abbiamo avuto mancanza di ogni cosa, siamo stati consumati dalla spada e dalla fame. Quando noi offriamo profumi alla regina del cielo e le facciamo delle libazioni, è forse senza il consenso dei nostri mariti che le facciamo delle focacce a sua immagine e le offriamo delle libazioni?»  
+
+La Scrittura non nomina mai la dea dietro questo titolo. Gli studiosi l’hanno collegata ad Anat, ad Astarte (la divinità dei Sidoni in 1 Re 11:5), a Ishtar o a una fusione di queste figure. L’ebraico di Geremia è מְלֶכֶת הַשָּׁמַיִם (*meleketh ha-shamayim*). La risposta del SIGNORE fu la sua ira e il suo furore riversati su questo luogo (Geremia 7:20), e un paese ridotto a desolazione, senza abitanti, perché avevano offerto profumi e peccato contro di lui (Geremia 44:22–23).  
+
+Il titolo non finì con Geremia. La Vulgata latina, la Bibbia storica di Roma, lo rende con *reginae caeli* in ciascuno di questi versetti. Nel 1954 papa Pio XII intitolò la sua enciclica sulla regalità di Maria *Ad Caeli Reginam* («Alla Regina del cielo») e istituì una festa annuale della sua regalità.  
+
 Anche i santi più fedeli sono esempi di fede, non mediatori. L’adorazione, la preghiera e la devozione appartengono a Dio solo.  
 
 ---  

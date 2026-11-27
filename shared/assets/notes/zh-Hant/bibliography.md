@@ -110,6 +110,8 @@
 
 - Keil, C. F. *The Twelve Minor Prophets.* James Martin 譯。C. F. Keil 和 F. Delitzsch 所著 *Commentary on the Old Testament* 第10卷。Peabody, MA: Hendrickson, 1996. [1996年全10卷套裝記錄](https://verbum.com/product/5790/keil-and-delitzsch-commentary-on-the-old-testament-k-d) | [原版公有領域掃描本](https://archive.org/details/biblicalcommenta06keil06) | [免費可搜尋文本](https://www.stepbible.org/version.jsp?version=KD)
 
+- Keown, Gerald L., Pamela J. Scalise, and Thomas G. Smothers. *Jeremiah 26-52.* Word Biblical Commentary 27. Grand Rapids: Zondervan Academic, 2018. First published Dallas: Word Books, 1995.
+
 ## 各運動的資料與文獻
 
 **說明：** 筆記所討論之團體的出版物、追蹤這些團體之機構的文獻，以及筆記所引用的古蘭經譯本。

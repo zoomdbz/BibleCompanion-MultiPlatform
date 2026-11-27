@@ -147,6 +147,16 @@ Götzendienst in der Schrift betrifft nicht nur antike Götter, sondern auch die
 
 - **(Exodus 20,4–5)** – „Du sollst dir kein Bildnis noch irgendein Gleichnis machen, weder von dem, was oben im Himmel, noch von dem, was unten auf Erden, noch von dem, was in den Wassern unter der Erde ist. Bete sie nicht an und diene ihnen nicht! Denn ich, der Herr, dein Gott, bin ein eifersüchtiger Gott, der die Schuld der Väter heimsucht an den Kindern bis in das dritte und vierte Glied derer, die mich hassen,“
 
+**Die Himmelskönigin:** Die Verehrung Marias als „Himmelskönigin“ ist keine neue Praxis. Schon in den Tagen Jeremias ehrte Juda eine „Himmelskönigin“ mit Kuchen, Räucherwerk und Trankopfern, und der HERR verurteilte diesen Kult.  
+
+- **(Jeremia 7,17–18)** – „Siehst du denn nicht, was sie in den Städten Judas und auf den Straßen von Jerusalem tun? Die Kinder lesen Holz zusammen, und die Väter zünden das Feuer an, die Frauen aber kneten Teig, um der Himmelskönigin Kuchen zu backen; und fremden Göttern spenden sie Trankopfer, um mich zu ärgern.“  
+
+- **(Jeremia 44,17–19)** – „sondern wir wollen gewisslich alles das tun, was wir gelobt haben: Wir wollen der Himmelskönigin räuchern und ihr Trankopfer ausgießen, wie wir, unsere Väter, unsere Könige und unsere Fürsten es in den Städten Judas und auf den Straßen Jerusalems getan haben; damals hatten wir Brot in Fülle, und es ging uns gut, und wir erlebten kein Unheil! Sobald wir aber aufhörten, der Himmelskönigin zu räuchern und Trankopfer auszugießen, hat es uns überall gefehlt, und wir wurden durch Schwert und Hungersnot aufgerieben. Und wenn wir der Himmelskönigin räuchern und Trankopfer ausgießen, tun wir das etwa ohne den Willen unserer Männer, dass wir ihr Kuchen backen, um sie abzubilden, und ihr Trankopfer spenden?“  
+
+Die Schrift nennt die Göttin hinter diesem Titel nie beim Namen. Gelehrte haben sie mit Anat, mit Astarte (der Göttin der Zidonier in 1. Könige 11,5), mit Ischtar oder mit einer Verschmelzung dieser Gestalten in Verbindung gebracht. Bei Jeremia lautet der hebräische Titel מְלֶכֶת הַשָּׁמַיִם (*meleketh ha-shamayim*). Die Antwort des HERRN war sein Zorn und Grimm, ausgegossen über diesen Ort (Jeremia 7,20), und ein Land, das zur Wüste wurde, unbewohnt, weil sie geräuchert und gegen ihn gesündigt hatten (Jeremia 44,22–23).  
+
+Der Titel endete nicht mit Jeremia. Die lateinische Vulgata, die historische Bibel Roms, gibt ihn in jedem dieser Verse mit *reginae caeli* wieder. 1954 gab Papst Pius XII. seiner Enzyklika über das Königtum Marias den Titel *Ad Caeli Reginam* („An die Himmelskönigin“) und führte ein jährliches Fest ihres Königtums ein.  
+
 Selbst die treuesten Heiligen sind Vorbilder des Glaubens, keine Mittler. Anbetung, Gebet und Hingabe gehören Gott allein.  
 
 ---  

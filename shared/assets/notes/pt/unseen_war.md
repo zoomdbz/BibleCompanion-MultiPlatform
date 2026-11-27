@@ -143,6 +143,16 @@ A idolatria nas Escrituras não trata apenas de deuses antigos, mas também de e
 
 - **(Êxodo 20:4–5)** – «“Não faça para si espécie alguma de ídolo ou imagem de qualquer coisa no céu, na terra ou no mar. Não se curve diante deles nem os adore, pois eu, o Senhor, seu Deus, sou um Deus zeloso. Trago as consequências do pecado dos pais sobre os filhos até a terceira e quarta geração dos que me rejeitam,»
 
+**A Rainha do Céu:** A veneração de Maria como «Rainha dos céus» não é uma prática nova. Nos dias de Jeremias, Judá já honrava uma «Rainha do Céu» com bolos, incenso e ofertas derramadas, e o SENHOR condenou esse culto.  
+
+- **(Jeremias 7:17–18)** – «Não vê o que fazem nas cidades de Judá e nas ruas de Jerusalém? Veja como as crianças juntam lenha e os pais acendem fogo para os sacrifícios. Veja como as mulheres preparam a massa e fazem bolos para a Rainha dos Céus. Além disso, apresentam ofertas derramadas para outros deuses. Tenho razão para estar tão irado!»  
+
+- **(Jeremias 44:17–19)** – «Faremos o que bem entendermos. Queimaremos incenso e apresentaremos ofertas derramadas para a Rainha do Céu, como nós, nossos antepassados e nossos reis e oficiais sempre fizemos nas cidades de Judá e nas ruas de Jerusalém. Naqueles dias, havia alimento com fartura, éramos prósperos e não tínhamos problemas! Mas desde que paramos de queimar incenso para a Rainha do Céu e deixamos de adorá-la com ofertas derramadas, temos enfrentado grandes aflições e morrido por guerra e fome». «Além disso», acrescentaram as mulheres, «você imagina que queimávamos incenso, apresentávamos ofertas derramadas à Rainha do Céu e fazíamos bolos que retratavam sua imagem sem o conhecimento e a ajuda de nossos maridos?»  
+
+A Escritura nunca nomeia a deusa por trás do título. Estudiosos a associaram a Anat, a Astarte (a Astarote de 1 Reis 11:5), a Ishtar ou a uma mistura delas. O hebraico de Jeremias é מְלֶכֶת הַשָּׁמַיִם (*meleketh ha-shamayim*). A resposta do SENHOR foi sua ira ardente derramada sobre este lugar (Jeremias 7:20) e uma terra transformada em ruína desolada e sem habitantes, porque queimaram incenso e pecaram contra ele (Jeremias 44:22–23).  
+
+O título não terminou com Jeremias. A Vulgata latina, a Bíblia histórica de Roma, o traduz como *reginae caeli* em cada um desses versículos. Em 1954, o papa Pio XII intitulou sua encíclica sobre a realeza de Maria *Ad Caeli Reginam* («À Rainha do Céu») e instituiu uma festa anual de sua realeza.  
+
 Mesmo os santos mais fiéis são exemplos de fé, não mediadores. Adoração, oração e devoção pertencem somente a Deus.  
 
 ---  

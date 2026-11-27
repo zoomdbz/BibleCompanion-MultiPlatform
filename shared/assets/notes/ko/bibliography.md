@@ -110,6 +110,8 @@
 
 - Keil, C. F. *The Twelve Minor Prophets.* James Martin 옮김. C. F. Keil과 F. Delitzsch의 *Commentary on the Old Testament* 제10권. Peabody, MA: Hendrickson, 1996. [1996년 전 10권 세트 기록](https://verbum.com/product/5790/keil-and-delitzsch-commentary-on-the-old-testament-k-d) | [원판 퍼블릭 도메인 스캔](https://archive.org/details/biblicalcommenta06keil06) | [무료 검색 본문](https://www.stepbible.org/version.jsp?version=KD)
 
+- Keown, Gerald L., Pamela J. Scalise, and Thomas G. Smothers. *Jeremiah 26-52.* Word Biblical Commentary 27. Grand Rapids: Zondervan Academic, 2018. First published Dallas: Word Books, 1995.
+
 ## 운동 자료 및 문서
 
 **참고:** 노트에서 다루는 단체들의 출판물, 그 단체들을 추적하는 기관들의 문서, 그리고 노트가 인용하는 꾸란 번역본.

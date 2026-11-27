@@ -143,6 +143,16 @@ Ibada ya sanamu katika Maandiko haihusu miungu ya kale tu, bali pia kuinua watu 
 
 - **(Kutoka 20:4-5)** - Usijitengenezee sanamu katika umbo la kitu chochote kilicho juu mbinguni, au duniani chini, au ndani ya maji. Usivisujudie wala kuviabudu; kwa kuwa Mimi, Bwana Mungu wako, ni Mungu mwenye wivu, ninayewaadhibu watoto kwa ajili ya dhambi za baba zao hadi kizazi cha tatu na cha nne cha wanichukiao,
 
+**Malkia wa Mbinguni:** Kumheshimu Maria kama "Malkia wa Mbinguni" si desturi mpya. Katika siku za Yeremia, watu wa Yuda tayari walimheshimu "Malkia wa Mbinguni" kwa mikate, uvumba, na sadaka za kinywaji, na [DN]BWANA[/DN] aliilaani ibada hiyo.
+
+- **(Yeremia 7:17-18)** - "Je, huyaoni hayo wanayoyatenda katika miji ya Yuda na katika barabara za Yerusalemu? Watoto wanakusanya kuni, baba zao wanawasha moto, na wanawake wanakanda unga na kuoka mikate kwa ajili ya Malkia wa Mbinguni. Wanamimina sadaka za vinywaji kwa miungu mingine ili kunikasirisha."
+
+- **(Yeremia 44:17-19)** - "Hakika tutafanya kila kitu tulichosema tutakifanya: Tutafukiza uvumba kwa Malkia wa Mbinguni na tutammiminia sadaka zetu za kinywaji kama vile sisi na baba zetu, wafalme wetu na maafisa wetu tulivyofanya katika miji ya Yuda na katika barabara za Yerusalemu. Wakati ule tulikuwa na chakula tele, tulikuwa matajiri wala hatukupata dhara lolote. Lakini tangu tulipoacha kumfukizia uvumba Malkia wa Mbinguni na kummiminia sadaka za kinywaji, hatupati chochote, na tumekuwa tukiangamizwa kwa upanga na njaa." Wanawake wakaongeza kusema, "Wakati tulipomfukizia uvumba Malkia wa Mbinguni na kummiminia sadaka zetu za kinywaji, je, waume zetu hawakujua kwamba tulikuwa tukitengeneza maandazi kwa mfano wake, na kummiminia yeye sadaka za kinywaji?"
+
+Maandiko hayataji kamwe jina la mungu mke aliye nyuma ya cheo hicho. Wasomi wamemhusisha na Anat, Astarte (Ashtorethi wa 1 Wafalme 11:5), Ishtar, au mchanganyiko wa hao. Kiebrania cha Yeremia ni מְלֶכֶת הַשָּׁמַיִם (*meleketh ha-shamayim*). Jibu la [DN]BWANA[/DN] lilikuwa hasira yake na ghadhabu yake zilizomwagwa mahali hapa (Yeremia 7:20), na nchi iliyoachwa ukiwa pasipo wakazi, kwa sababu walifukiza uvumba na kufanya dhambi dhidi yake (Yeremia 44:22-23).
+
+Cheo hicho hakikuishia kwa Yeremia. Vulgata ya Kilatini, Biblia ya kihistoria ya Roma, inakitafsiri kuwa *reginae caeli* katika kila moja ya mistari hii. Mnamo 1954 Papa Pius XII aliuita waraka wake kuhusu Umalkia wa Maria *Ad Caeli Reginam* ("Kwa Malkia wa Mbinguni") na akaanzisha sikukuu ya kila mwaka ya Umalkia wake.
+
 Hata watakatifu waaminifu zaidi ni mifano ya imani, si wapatanishi. Ibada, sala, na kujitoa kwa moyo ni vya Mungu peke yake.
 
 ---

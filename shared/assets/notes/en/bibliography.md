@@ -110,6 +110,8 @@ The following works are listed as sources for the app's study notes and book int
 
 - Keil, C. F. *The Twelve Minor Prophets.* Translated by James Martin. Vol. 10 of *Commentary on the Old Testament*, by C. F. Keil and F. Delitzsch. Peabody, MA: Hendrickson, 1996. [1996 ten-volume set record](https://verbum.com/product/5790/keil-and-delitzsch-commentary-on-the-old-testament-k-d) | [Original public-domain scan](https://archive.org/details/biblicalcommenta06keil06) | [Free searchable text](https://www.stepbible.org/version.jsp?version=KD)
 
+- Keown, Gerald L., Pamela J. Scalise, and Thomas G. Smothers. *Jeremiah 26-52.* Word Biblical Commentary 27. Grand Rapids: Zondervan Academic, 2018. First published Dallas: Word Books, 1995.
+
 ## Movement Sources and Documentation
 
 **Note:** Publications by the groups discussed in the notes, documentation by organizations that track them, and the Qur'an translation the notes quote.

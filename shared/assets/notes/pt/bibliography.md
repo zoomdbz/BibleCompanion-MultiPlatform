@@ -110,6 +110,8 @@ As obras a seguir estão listadas como fontes das notas de estudo e das introdu�
 
 - Keil, C. F. *The Twelve Minor Prophets.* Traduzido por James Martin. Vol. 10 de *Commentary on the Old Testament*, de C. F. Keil e F. Delitzsch. Peabody, MA: Hendrickson, 1996. [Registro do conjunto de dez volumes de 1996](https://verbum.com/product/5790/keil-and-delitzsch-commentary-on-the-old-testament-k-d) | [Digitalização original em domínio público](https://archive.org/details/biblicalcommenta06keil06) | [Texto gratuito pesquisável](https://www.stepbible.org/version.jsp?version=KD)
 
+- Keown, Gerald L., Pamela J. Scalise, and Thomas G. Smothers. *Jeremiah 26-52.* Word Biblical Commentary 27. Grand Rapids: Zondervan Academic, 2018. First published Dallas: Word Books, 1995.
+
 ## Fontes dos movimentos e documentação
 
 **Observação:** Publicações dos grupos tratados nas notas, documentação de organizações que os acompanham e a tradução do Alcorão citada nas notas.

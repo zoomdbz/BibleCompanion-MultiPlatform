@@ -143,6 +143,16 @@ La idolatría en la Escritura no solo se refiere a dioses antiguos, sino tambié
 
 - **(Éxodo 20:4–5)** – «No te hagas ninguna imagen, ni nada que guarde semejanza con lo que hay arriba en el cielo, ni con lo que hay abajo en la tierra, ni con lo que hay en las aguas debajo de la tierra. No te postres delante de ellos ni los adores. Yo, el Señor tu Dios, soy un Dios celoso. Cuando los padres son malvados y me odian, yo castigo a sus hijos hasta la tercera y cuarta generación.»
 
+**La Reina del Cielo:** La veneración de María como «Reina del Cielo» no es una práctica nueva. En los días de Jeremías, Judá ya honraba a una «Reina del Cielo» con tortas, incienso y ofrendas líquidas, y el SEÑOR condenó ese culto.
+
+- **(Jeremías 7:17–18)** – «¿Acaso no ves lo que hacen en las ciudades de Judá y en las calles de Jerusalén? Los niños juntan la leña, los padres encienden el fuego y las mujeres hacen la masa para cocer tortas y ofrecérselas a la Reina del Cielo. Además, para ofenderme derraman ofrendas líquidas a otros dioses.»
+
+- **(Jeremías 44:17–19)** – «Al contrario, seguiremos haciendo lo que ya hemos dicho: ofreceremos incienso y ofrendas líquidas a la Reina del Cielo, como lo hemos hecho nosotros, y como antes lo hicieron nuestros antepasados, nuestros reyes y nuestros oficiales, en las ciudades de Judá y en las calles de Jerusalén. En aquel tiempo teníamos comida en abundancia, nos iba muy bien y no sufríamos ninguna calamidad. Pero desde que dejamos de ofrecer incienso y ofrendas líquidas a la Reina del Cielo nos ha faltado todo; el hambre y la espada están acabando con nosotros». Y las mujeres añadieron: «Cuando nosotras ofrecíamos incienso y ofrendas líquidas a la Reina del Cielo, ¿acaso no sabían nuestros maridos que hacíamos tortas con su imagen y que les ofrecíamos ofrendas líquidas?».
+
+La Escritura nunca nombra a la diosa que está detrás del título. Los estudiosos la han relacionado con Anat, con Astarté (la diosa de los sidonios en 1 Reyes 11:5), con Ishtar o con una mezcla de ellas. El hebreo de Jeremías es מְלֶכֶת הַשָּׁמַיִם (*meleketh ha-shamayim*). La respuesta del SEÑOR fue su enojo y su furor descargados sobre este lugar (Jeremías 7:20), y una tierra desolada y sin habitantes, porque ofrecieron incienso y pecaron contra Él (Jeremías 44:22–23).
+
+El título no terminó con Jeremías. La Vulgata latina, la Biblia histórica de Roma, lo traduce *reginae caeli* en cada uno de estos versículos. En 1954, el papa Pío XII tituló su encíclica sobre la realeza de María *Ad Caeli Reginam* («A la Reina del Cielo») e instituyó una fiesta anual de su realeza.
+
 Incluso los santos más fieles son ejemplos de fe, no mediadores. La adoración, oración y devoción pertenecen solo a Dios.
 
 ---  

@@ -143,6 +143,16 @@ L’idolâtrie dans l’Écriture ne concerne pas seulement les dieux antiques m
 
 - **(Exode 20:4–5)** – « Tu ne te feras pas de statue, ni aucune forme de ce qui est dans le ciel, en haut, de ce qui est sur la terre, en bas, ou de ce qui est au-dessous de la terre, dans les eaux. Tu ne te prosterneras pas devant ces choses-là et tu ne les serviras pas ; car moi, le Seigneur (YHWH), ton Dieu, je suis un Dieu à la passion jalouse, qui fais rendre des comptes aux fils pour la faute des pères, jusqu'à la troisième et la quatrième génération de ceux qui me détestent, »
 
+**La reine du ciel :** La vénération de Marie comme « Reine du ciel » n’est pas une pratique nouvelle. Aux jours de Jérémie, Juda honorait déjà une « reine du ciel » par des gâteaux, de l’encens et des libations, et l’Éternel a condamné ce culte.  
+
+- **(Jérémie 7:17–18)** – « Ne vois-tu pas ce qu’ils font dans les villes de Juda et dans les rues de Jérusalem ? Les fils ramassent du bois, les pères allument le feu, les femmes pétrissent la pâte pour faire des gâteaux à la reine du ciel. On veut me contrarier en répandant des libations pour d’autres dieux. »  
+
+- **(Jérémie 44:17–19)** – « Nous voulons faire tout ce que nous avons dit : offrir de l’encens à la reine du ciel et répandre des libations pour elle, comme nous l’avons fait, nous et nos pères, nos rois et nos princes, dans les villes de Juda et dans les rues de Jérusalem. Alors nous avions du pain à satiété, nous étions heureux et nous ne connaissions pas le malheur. Mais depuis que nous avons cessé d’offrir de l’encens à la reine du ciel et de répandre des libations pour elle, nous avons manqué de tout et nous avons été exterminés par l’épée et par la famine… D’ailleurs, lorsque nous offrons de l’encens à la reine du ciel et que nous répandons des libations pour elle, est-ce sans l’accord de nos maris que nous faisons des gâteaux à son image, et que nous répandons des libations pour elle ? »  
+
+L’Écriture ne nomme jamais la déesse qui se cache derrière ce titre. Des spécialistes l’ont rapprochée d’Anat, d’Astarté (la déesse des Sidoniens en 1 Rois 11:5), d’Ishtar, ou d’un mélange de ces figures. L’hébreu de Jérémie est מְלֶכֶת הַשָּׁמַיִם (*meleketh ha-shamayim*). La réponse de l’Éternel fut sa colère et sa fureur répandues sur ce lieu (Jérémie 7:20), et un pays dévasté, sans habitants, parce qu’ils avaient offert de l’encens et péché contre lui (Jérémie 44:22–23).  
+
+Le titre ne s’est pas arrêté à Jérémie. La Vulgate latine, la Bible historique de Rome, le rend par *reginae caeli* dans chacun de ces versets. En 1954, le pape Pie XII a intitulé son encyclique sur la royauté de Marie *Ad Caeli Reginam* (« À la Reine du ciel ») et a institué une fête annuelle de sa royauté.  
+
 Même les saints les plus fidèles sont des exemples de foi, non des médiateurs. L’adoration, la prière et la dévotion appartiennent à Dieu seul.  
 
 ---  

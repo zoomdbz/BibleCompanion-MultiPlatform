@@ -110,6 +110,8 @@ Kazi zifuatazo zimeorodheshwa kama vyanzo vya maelezo ya kujifunza na utangulizi
 
 - Keil, C. F. *The Twelve Minor Prophets.* Imetafsiriwa na James Martin. Juzuu ya 10 ya *Commentary on the Old Testament*, iliyoandikwa na C. F. Keil na F. Delitzsch. Peabody, MA: Hendrickson, 1996. [Rekodi ya seti ya juzuu kumi ya 1996](https://verbum.com/product/5790/keil-and-delitzsch-commentary-on-the-old-testament-k-d) | [Picha ya toleo la asili lililo katika miliki ya umma](https://archive.org/details/biblicalcommenta06keil06) | [Maandishi ya bure yanayoweza kutafutwa](https://www.stepbible.org/version.jsp?version=KD)
 
+- Keown, Gerald L., Pamela J. Scalise, and Thomas G. Smothers. *Jeremiah 26-52.* Word Biblical Commentary 27. Grand Rapids: Zondervan Academic, 2018. First published Dallas: Word Books, 1995.
+
 ## Vyanzo na Nyaraka za Makundi Yanayojadiliwa
 
 **Tanbihi:** Machapisho ya makundi yanayojadiliwa katika maelezo, nyaraka za mashirika yanayofuatilia makundi hayo, na tafsiri ya Qur'ani iliyonukuliwa katika maelezo.

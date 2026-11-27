@@ -110,6 +110,8 @@
 
 - Keil, C. F. *The Twelve Minor Prophets.* अनुवाद: James Martin. *Commentary on the Old Testament* का खण्ड 10, C. F. Keil और F. Delitzsch द्वारा. Peabody, MA: Hendrickson, 1996. [1996 के दस-खण्डीय संचय का अभिलेख](https://verbum.com/product/5790/keil-and-delitzsch-commentary-on-the-old-testament-k-d) | [मूल सार्वजनिक-डोमेन स्कैन](https://archive.org/details/biblicalcommenta06keil06) | [मुक्त खोजयोग्य पाठ](https://www.stepbible.org/version.jsp?version=KD)
 
+- Keown, Gerald L., Pamela J. Scalise, and Thomas G. Smothers. *Jeremiah 26-52.* Word Biblical Commentary 27. Grand Rapids: Zondervan Academic, 2018. First published Dallas: Word Books, 1995.
+
 ## आंदोलनों के स्रोत और प्रलेखन
 
 **टिप्पणी:** टिप्पणियों में चर्चित समूहों के प्रकाशन, उन पर नज़र रखने वाले संगठनों का प्रलेखन, और वह क़ुरआन अनुवाद जिससे टिप्पणियाँ उद्धरण देती हैं।
